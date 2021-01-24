@@ -1,0 +1,3257 @@
+{
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "nakangisi": { "replacement": "😀", "description": "grinning face" },
+  "nakangiti": {
+    "replacement": "😃",
+    "description": "grinning face with big eyes"
+  },
+  "ngiti": {
+    "replacement": "😄",
+    "description": "grinning face with smiling eyes"
+  },
+  "ngisi": { "replacement": "😏", "description": "smirking face" },
+  "tumatawa": { "replacement": "😆", "description": "grinning squinting face" },
+  "ngiti ng pawis": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "kagalakan": { "replacement": "😂", "description": "face with tears of joy" },
+  "bahagyang nakangiting mukha": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "baligtad ang mukha": {
+    "replacement": "🙃",
+    "description": "upside-down face"
+  },
+  "kumindat": { "replacement": "😉", "description": "winking face" },
+  "mamula": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "walang sala": {
+    "replacement": "😇",
+    "description": "smiling face with halo"
+  },
+  "nakangiting mukha na may tatlong puso": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "mga mata sa puso": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "bumangga ang bituin": { "replacement": "🤩", "description": "star-struck" },
+  "halik sa puso": {
+    "replacement": "😘",
+    "description": "face blowing a kiss"
+  },
+  "naghahalikan": { "replacement": "😗", "description": "kissing face" },
+  "nakakarelaks": { "replacement": "☺️", "description": "smiling face" },
+  "naghahalikan nang nakapikit": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "nakangiting mga mata": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "nakangiting mukha ng luha": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "yum": { "replacement": "😋", "description": "face savoring food" },
+  "nakalabas na dila": {
+    "replacement": "😛",
+    "description": "face with tongue"
+  },
+  "naalis ang dila na kumikindat ng mata": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "zany mukha": { "replacement": "🤪", "description": "zany face" },
+  "naalis ang dila nakapikit mata": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "mukha ng bibig ng pera": {
+    "replacement": "🤑",
+    "description": "money-mouth face"
+  },
+  "yakap": { "replacement": "🤗", "description": "hugging face" },
+  "ibigay ang bibig": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "shushing mukha": { "replacement": "🤫", "description": "shushing face" },
+  "iniisip": { "replacement": "🤔", "description": "thinking face" },
+  "mukha ng zipper": {
+    "replacement": "🤐",
+    "description": "zipper-mouth face"
+  },
+  "nakataas na kilay": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "walang kinikilingan na mukha": {
+    "replacement": "😐",
+    "description": "neutral face"
+  },
+  "walang ekspresyon": {
+    "replacement": "😑",
+    "description": "expressionless face"
+  },
+  "walang bibig": { "replacement": "😶", "description": "face without mouth" },
+  "hindi nagamit": { "replacement": "😒", "description": "unamused face" },
+  "igulong ang mga mata": {
+    "replacement": "🙄",
+    "description": "face with rolling eyes"
+  },
+  "nakakainis": { "replacement": "😬", "description": "grimacing face" },
+  "nakahiga mukha": { "replacement": "🤥", "description": "lying face" },
+  "guminhawa": { "replacement": "😌", "description": "relieved face" },
+  "makapangyarihang tao": {
+    "replacement": "😔",
+    "description": "pensive face"
+  },
+  "inaantok": { "replacement": "😪", "description": "sleepy face" },
+  "naglalaway mukha": { "replacement": "🤤", "description": "drooling face" },
+  "natutulog": { "replacement": "😴", "description": "sleeping face" },
+  "maskara": { "replacement": "😷", "description": "face with medical mask" },
+  "mukha na may thermometer": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "mukha na may benda sa ulo": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "nasusuka ang mukha": {
+    "replacement": "🤢",
+    "description": "nauseated face"
+  },
+  "pagsusuka ng mukha": { "replacement": "🤮", "description": "face vomiting" },
+  "bumahing mukha": { "replacement": "🤧", "description": "sneezing face" },
+  "mainit na mukha": { "replacement": "🥵", "description": "hot face" },
+  "malamig na mukha": { "replacement": "🥶", "description": "cold face" },
+  "malabo mukha": { "replacement": "🥴", "description": "woozy face" },
+  "nahihilo ang mukha": { "replacement": "😵", "description": "dizzy face" },
+  "sumasabog ulo": { "replacement": "🤯", "description": "exploding head" },
+  "mukha ng cowboy hat": {
+    "replacement": "🤠",
+    "description": "cowboy hat face"
+  },
+  "nagpapa-party party": {
+    "replacement": "🥳",
+    "description": "partying face"
+  },
+  "nagkukubli ang mukha": {
+    "replacement": "🥸",
+    "description": "disguised face"
+  },
+  "salaming pang-araw": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "nerd mukha": { "replacement": "🤓", "description": "nerd face" },
+  "mukha ng monocle": {
+    "replacement": "🧐",
+    "description": "face with monocle"
+  },
+  "naguguluhan": { "replacement": "😕", "description": "confused face" },
+  "nag-aalala": { "replacement": "😟", "description": "worried face" },
+  "bahagyang nakasimangot na mukha": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "nakasimangot na mukha": {
+    "replacement": "☹️",
+    "description": "frowning face"
+  },
+  "buksan ang bibig": {
+    "replacement": "😮",
+    "description": "face with open mouth"
+  },
+  "pinatahimik": { "replacement": "😯", "description": "hushed face" },
+  "nagtataka": { "replacement": "😲", "description": "astonished face" },
+  "namula": { "replacement": "😳", "description": "flushed face" },
+  "nagmamakaawang mukha": {
+    "replacement": "🥺",
+    "description": "pleading face"
+  },
+  "nakasimangot": {
+    "replacement": "😦",
+    "description": "frowning face with open mouth"
+  },
+  "nalulungkot": { "replacement": "😧", "description": "anguished face" },
+  "natatakot": { "replacement": "😨", "description": "fearful face" },
+  "malamig na pawis": {
+    "replacement": "😰",
+    "description": "anxious face with sweat"
+  },
+  "nabigo ang loob": {
+    "replacement": "😥",
+    "description": "sad but relieved face"
+  },
+  "sigaw mo": { "replacement": "😢", "description": "crying face" },
+  "hikbi": { "replacement": "😭", "description": "loudly crying face" },
+  "sigaw": { "replacement": "😱", "description": "face screaming in fear" },
+  "nagulo": { "replacement": "😖", "description": "confounded face" },
+  "magtiyaga ka": { "replacement": "😣", "description": "persevering face" },
+  "nabigo": { "replacement": "😞", "description": "disappointed face" },
+  "pawis": { "replacement": "😓", "description": "downcast face with sweat" },
+  "pagod": { "replacement": "😩", "description": "weary face" },
+  "pagod na mukha": { "replacement": "😫", "description": "tired face" },
+  "humihikab na mukha": { "replacement": "🥱", "description": "yawning face" },
+  "tagumpay": {
+    "replacement": "😤",
+    "description": "face with steam from nose"
+  },
+  "galit na galit": { "replacement": "😡", "description": "pouting face" },
+  "galit": { "replacement": "💢", "description": "anger symbol" },
+  "nagmumura ang mukha": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "nakangiting imp": {
+    "replacement": "😈",
+    "description": "smiling face with horns"
+  },
+  "imp": { "replacement": "👿", "description": "angry face with horns" },
+  "bungo": { "replacement": "💀", "description": "skull" },
+  "bungo at mga crossbone": {
+    "replacement": "☠️",
+    "description": "skull and crossbones"
+  },
+  "hankey": { "replacement": "💩", "description": "pile of poo" },
+  "mukha ng payaso": { "replacement": "🤡", "description": "clown face" },
+  "japanese ogre": { "replacement": "👹", "description": "ogre" },
+  "Japanese goblin": { "replacement": "👺", "description": "goblin" },
+  "multo": { "replacement": "👻", "description": "ghost" },
+  "dayuhan": { "replacement": "👽", "description": "alien" },
+  "space invader": { "replacement": "👾", "description": "alien monster" },
+  "robot": { "replacement": "🤖", "description": "robot" },
+  "ngiti na pusa": { "replacement": "😺", "description": "grinning cat" },
+  "ngiti ng pusa": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "pusang masaya": {
+    "replacement": "😹",
+    "description": "cat with tears of joy"
+  },
+  "pusong mata sa puso": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "smirk cat": { "replacement": "😼", "description": "cat with wry smile" },
+  "kissing cat": { "replacement": "😽", "description": "kissing cat" },
+  "sigaw ng pusa": { "replacement": "🙀", "description": "weary cat" },
+  "umiiyak na mukha ng pusa": {
+    "replacement": "😿",
+    "description": "crying cat"
+  },
+  "pouting cat": { "replacement": "😾", "description": "pouting cat" },
+  "huwag makakita ng kasamaan": {
+    "replacement": "🙈",
+    "description": "see-no-evil monkey"
+  },
+  "huwag makarinig ng kasamaan": {
+    "replacement": "🙉",
+    "description": "hear-no-evil monkey"
+  },
+  "Huwag magsalita ng masama": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "halikan": { "replacement": "💋", "description": "kiss mark" },
+  "liham ng pag-ibig": { "replacement": "💌", "description": "love letter" },
+  "kupido": { "replacement": "💘", "description": "heart with arrow" },
+  "puso ng regalo": { "replacement": "💝", "description": "heart with ribbon" },
+  "kumikinang na puso": {
+    "replacement": "💖",
+    "description": "sparkling heart"
+  },
+  "puso": { "replacement": "❤️", "description": "red heart" },
+  "tibok ng puso": { "replacement": "💓", "description": "beating heart" },
+  "umiikot na puso": { "replacement": "💞", "description": "revolving hearts" },
+  "Dalawang puso": { "replacement": "💕", "description": "two hearts" },
+  "dekorasyon sa puso": {
+    "replacement": "💟",
+    "description": "heart decoration"
+  },
+  "mabigat na bulalas ng puso": {
+    "replacement": "❣️",
+    "description": "heart exclamation"
+  },
+  "broken heart": { "replacement": "💔", "description": "broken heart" },
+  "orange na puso": { "replacement": "🧡", "description": "orange heart" },
+  "dilaw na puso": { "replacement": "💛", "description": "yellow heart" },
+  "berdeng puso": { "replacement": "💚", "description": "green heart" },
+  "asul na puso": { "replacement": "💙", "description": "blue heart" },
+  "Purple na puso": { "replacement": "💜", "description": "purple heart" },
+  "kayumanggi puso": { "replacement": "🤎", "description": "brown heart" },
+  "itim na puso": { "replacement": "🖤", "description": "black heart" },
+  "puting puso": { "replacement": "🤍", "description": "white heart" },
+  "boom": { "replacement": "💥", "description": "collision" },
+  "nahihilo": { "replacement": "💫", "description": "dizzy" },
+  "tumutulo ang pawis": {
+    "replacement": "💦",
+    "description": "sweat droplets"
+  },
+  "dash": { "replacement": "💨", "description": "dashing away" },
+  "butas": { "replacement": "🕳️", "description": "hole" },
+  "bomba": { "replacement": "💣", "description": "bomb" },
+  "lobo ng pagsasalita": {
+    "replacement": "💬",
+    "description": "speech balloon"
+  },
+  "bubble sa pagsasalita ng mata": {
+    "replacement": "👁️‍🗨️",
+    "description": "eye in speech bubble"
+  },
+  "kaliwang bula ng pagsasalita": {
+    "replacement": "🗨️",
+    "description": "left speech bubble"
+  },
+  "tamang galit bubble": {
+    "replacement": "🗯️",
+    "description": "right anger bubble"
+  },
+  "naisip lobo": { "replacement": "💭", "description": "thought balloon" },
+  "zzz": { "replacement": "💤", "description": "zzz" },
+  "kumaway": { "replacement": "👋", "description": "waving hand" },
+  "nakataas ang likod ng kamay": {
+    "replacement": "🤚",
+    "description": "raised back of hand"
+  },
+  "nakataas kamay na may splayed daliri": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "kamay": { "replacement": "✋", "description": "raised hand" },
+  "bulkan na pagsaludo": {
+    "replacement": "🖖",
+    "description": "vulcan salute"
+  },
+  "ok kamay": { "replacement": "👌", "description": "OK hand" },
+  "kinurot ang mga daliri": {
+    "replacement": "🤌",
+    "description": "pinched fingers"
+  },
+  "kinurot ang kamay": { "replacement": "🤏", "description": "pinching hand" },
+  "v": { "replacement": "✌️", "description": "victory hand" },
+  "tumawid na mga daliri": {
+    "replacement": "🤞",
+    "description": "crossed fingers"
+  },
+  "pagmamahal sa iyo kilos": {
+    "replacement": "🤟",
+    "description": "love-you gesture"
+  },
+  "metal": { "replacement": "🤘", "description": "sign of the horns" },
+  "tawagan mo ako ng kamay": {
+    "replacement": "🤙",
+    "description": "call me hand"
+  },
+  "point left": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "magturo ng tama": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "ituro ang 2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "hinlalato": { "replacement": "🖕", "description": "middle finger" },
+  "ituro mo": { "replacement": "☝️", "description": "index pointing up" },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "nakataas ang kamao": { "replacement": "✊", "description": "raised fist" },
+  "paparating na kamao": {
+    "replacement": "👊",
+    "description": "oncoming fist"
+  },
+  "umalis ang kamao": {
+    "replacement": "🤛",
+    "description": "left-facing fist"
+  },
+  "tama ang kamao": { "replacement": "🤜", "description": "right-facing fist" },
+  "pumalakpak": { "replacement": "👏", "description": "clapping hands" },
+  "nakataas ang mga kamay": {
+    "replacement": "🙌",
+    "description": "raising hands"
+  },
+  "buksan ang mga kamay": { "replacement": "👐", "description": "open hands" },
+  "magkasabay ang mga palad": {
+    "replacement": "🤲",
+    "description": "palms up together"
+  },
+  "pagkakamayan": { "replacement": "🤝", "description": "handshake" },
+  "magdasal ka": { "replacement": "🙏", "description": "folded hands" },
+  "kamay ng pagsusulat": { "replacement": "✍️", "description": "writing hand" },
+  "pangangalaga sa kuko": { "replacement": "💅", "description": "nail polish" },
+  "selfie": { "replacement": "🤳", "description": "selfie" },
+  "kalamnan": { "replacement": "💪", "description": "flexed biceps" },
+  "mekanikal na braso": { "replacement": "🦾", "description": "mechanical arm" },
+  "mekanikal na binti": { "replacement": "🦿", "description": "mechanical leg" },
+  "paa": { "replacement": "🐾", "description": "paw prints" },
+  "tainga": { "replacement": "👂", "description": "ear" },
+  "tainga na may tulong sa pandinig": {
+    "replacement": "🦻",
+    "description": "ear with hearing aid"
+  },
+  "ilong": { "replacement": "👃", "description": "nose" },
+  "utak": { "replacement": "🧠", "description": "brain" },
+  "anatomikal na puso": {
+    "replacement": "🫀",
+    "description": "anatomical heart"
+  },
+  "baga": { "replacement": "🫁", "description": "lungs" },
+  "ngipin": { "replacement": "🦷", "description": "tooth" },
+  "buto": { "replacement": "🦴", "description": "bone" },
+  "mga mata": { "replacement": "👀", "description": "eyes" },
+  "mata": { "replacement": "👁️", "description": "eye" },
+  "dila": { "replacement": "👅", "description": "tongue" },
+  "labi": { "replacement": "👄", "description": "mouth" },
+  "sanggol": { "replacement": "👶", "description": "baby" },
+  "anak": { "replacement": "🧒", "description": "child" },
+  "lalaki": { "replacement": "👨", "description": "man" },
+  "babae": { "replacement": "👩", "description": "woman" },
+  "matanda na": { "replacement": "🧑", "description": "person" },
+  "taong may buhok na blond": {
+    "replacement": "👱",
+    "description": "person: blond hair"
+  },
+  "may balbas na tao": { "replacement": "🧔", "description": "man: beard" },
+  "lalaking pula ang buhok": {
+    "replacement": "👨‍🦰",
+    "description": "man: red hair"
+  },
+  "kulot na buhok na lalaki": {
+    "replacement": "👨‍🦱",
+    "description": "man: curly hair"
+  },
+  "taong puti ang buhok": {
+    "replacement": "👨‍🦳",
+    "description": "man: white hair"
+  },
+  "kalbong lalaki": { "replacement": "👨‍🦲", "description": "man: bald" },
+  "babaeng pula ang buhok": {
+    "replacement": "👩‍🦰",
+    "description": "woman: red hair"
+  },
+  "taong pulang buhok": {
+    "replacement": "🧑‍🦰",
+    "description": "person: red hair"
+  },
+  "kulot na buhok na babae": {
+    "replacement": "👩‍🦱",
+    "description": "woman: curly hair"
+  },
+  "kulot na buhok ang tao": {
+    "replacement": "🧑‍🦱",
+    "description": "person: curly hair"
+  },
+  "babaeng puting buhok": {
+    "replacement": "👩‍🦳",
+    "description": "woman: white hair"
+  },
+  "puting buhok ang tao": {
+    "replacement": "🧑‍🦳",
+    "description": "person: white hair"
+  },
+  "babaeng kalbo": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "kalbo ang tao": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "babaeng may buhok na blond": {
+    "replacement": "👱‍♀️",
+    "description": "woman: blond hair"
+  },
+  "lalaking may buhok na blond": {
+    "replacement": "👱‍♂️",
+    "description": "man: blond hair"
+  },
+  "mas matanda": { "replacement": "🧓", "description": "older person" },
+  "matandang lalaki": { "replacement": "👴", "description": "old man" },
+  "mas matandang babae": { "replacement": "👵", "description": "old woman" },
+  "nakasimangot na tao": { "replacement": "🙍‍♂️", "description": "man frowning" },
+  "nakasimangot na babae": {
+    "replacement": "🙍‍♀️",
+    "description": "woman frowning"
+  },
+  "nagmumuka ang mukha": {
+    "replacement": "🙎",
+    "description": "person pouting"
+  },
+  "pouting man": { "replacement": "🙎‍♂️", "description": "man pouting" },
+  "pout na babae": { "replacement": "🙎‍♀️", "description": "woman pouting" },
+  "hindi mabuti": { "replacement": "🙅", "description": "person gesturing NO" },
+  "walang mabuting tao": {
+    "replacement": "🙅‍♂️",
+    "description": "man gesturing NO"
+  },
+  "walang mabuting babae": {
+    "replacement": "🙅‍♀️",
+    "description": "woman gesturing NO"
+  },
+  "ok na tao": { "replacement": "🙆", "description": "person gesturing OK" },
+  "Sige": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "ok babae": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "tipping hand person": {
+    "replacement": "💁",
+    "description": "person tipping hand"
+  },
+  "tipping hand man": {
+    "replacement": "💁‍♂️",
+    "description": "man tipping hand"
+  },
+  "tipping hand babae": {
+    "replacement": "💁‍♀️",
+    "description": "woman tipping hand"
+  },
+  "nakataas ang kamay": {
+    "replacement": "🙋",
+    "description": "person raising hand"
+  },
+  "nakataas kamay na tao": {
+    "replacement": "🙋‍♂️",
+    "description": "man raising hand"
+  },
+  "nakataas kamay na babae": {
+    "replacement": "🙋‍♀️",
+    "description": "woman raising hand"
+  },
+  "taong bingi": { "replacement": "🧏", "description": "deaf person" },
+  "lalaking bingi": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "babaeng bingi": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "bow": { "replacement": "🙇", "description": "person bowing" },
+  "bowing man": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "babaeng nakayuko": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "facepalm": { "replacement": "🤦", "description": "person facepalming" },
+  "facepalming ng tao": {
+    "replacement": "🤦‍♂️",
+    "description": "man facepalming"
+  },
+  "facepalming ng babae": {
+    "replacement": "🤦‍♀️",
+    "description": "woman facepalming"
+  },
+  "nagkibit balikat": {
+    "replacement": "🤷",
+    "description": "person shrugging"
+  },
+  "lalaking nagkibit balikat": {
+    "replacement": "🤷‍♂️",
+    "description": "man shrugging"
+  },
+  "babaeng nagkibit balikat": {
+    "replacement": "🤷‍♀️",
+    "description": "woman shrugging"
+  },
+  "manggagawa sa kalusugan": {
+    "replacement": "🧑‍⚕️",
+    "description": "health worker"
+  },
+  "taong manggagawa sa kalusugan": {
+    "replacement": "👨‍⚕️",
+    "description": "man health worker"
+  },
+  "babaeng manggagawa sa kalusugan": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "mag-aaral": { "replacement": "🧑‍🎓", "description": "student" },
+  "lalaking estudyante": { "replacement": "👨‍🎓", "description": "man student" },
+  "babaeng mag-aaral": { "replacement": "👩‍🎓", "description": "woman student" },
+  "guro": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "lalaking guro": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "babaeng guro": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "hukom": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "hukom ng tao": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "babaeng hukom": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "magsasaka": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "tao magsasaka": { "replacement": "👨‍🌾", "description": "man farmer" },
+  "babaeng magsasaka": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "magluto": { "replacement": "🧑‍🍳", "description": "cook" },
+  "lalaking magluto": { "replacement": "👨‍🍳", "description": "man cook" },
+  "babaeng nagluluto": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "mekaniko": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "tao mekaniko": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "babaeng mekaniko": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "manggagawa sa pabrika": {
+    "replacement": "🧑‍🏭",
+    "description": "factory worker"
+  },
+  "lalaking manggagawa sa pabrika": {
+    "replacement": "👨‍🏭",
+    "description": "man factory worker"
+  },
+  "babaeng manggagawa sa pabrika": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "empleyado sa opisina": {
+    "replacement": "🧑‍💼",
+    "description": "office worker"
+  },
+  "lalaking manggagawa sa opisina": {
+    "replacement": "👨‍💼",
+    "description": "man office worker"
+  },
+  "manggagawa sa opisina ng babae": {
+    "replacement": "👩‍💼",
+    "description": "woman office worker"
+  },
+  "siyentista": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "tao syentista": { "replacement": "👨‍🔬", "description": "man scientist" },
+  "babaeng syentista": {
+    "replacement": "👩‍🔬",
+    "description": "woman scientist"
+  },
+  "teknologo": { "replacement": "🧑‍💻", "description": "technologist" },
+  "man technologist": {
+    "replacement": "👨‍💻",
+    "description": "man technologist"
+  },
+  "babaeng technologist": {
+    "replacement": "👩‍💻",
+    "description": "woman technologist"
+  },
+  "mang-aawit": { "replacement": "🧑‍🎤", "description": "singer" },
+  "taong mang-aawit": { "replacement": "👨‍🎤", "description": "man singer" },
+  "babaeng mang-aawit": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "artista": { "replacement": "🧑‍🎨", "description": "artist" },
+  "lalaking artista": { "replacement": "👨‍🎨", "description": "man artist" },
+  "babaeng artista": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "piloto": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "lalaking piloto": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "babaeng piloto": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "astronaut": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "lalaking astronaut": { "replacement": "👨‍🚀", "description": "man astronaut" },
+  "babaeng astronaut": {
+    "replacement": "👩‍🚀",
+    "description": "woman astronaut"
+  },
+  "bumbero": { "replacement": "🧑‍🚒", "description": "firefighter" },
+  "lalaking bumbero": { "replacement": "👨‍🚒", "description": "man firefighter" },
+  "babaeng bumbero": {
+    "replacement": "👩‍🚒",
+    "description": "woman firefighter"
+  },
+  "opisyal ng pulisya": {
+    "replacement": "👮",
+    "description": "police officer"
+  },
+  "pulis": { "replacement": "👮‍♂️", "description": "man police officer" },
+  "babaeng pulis": {
+    "replacement": "👮‍♀️",
+    "description": "woman police officer"
+  },
+  "tiktik": { "replacement": "🕵️", "description": "detective" },
+  "lalaking tiktik": { "replacement": "🕵️‍♂️", "description": "man detective" },
+  "babaeng tiktik": { "replacement": "🕵️‍♀️", "description": "woman detective" },
+  "bantay": { "replacement": "💂", "description": "guard" },
+  "tagabantay": { "replacement": "💂‍♂️", "description": "man guard" },
+  "tagapagbantay": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "ninja": { "replacement": "🥷", "description": "ninja" },
+  "trabahador sa konstruksyon": {
+    "replacement": "👷",
+    "description": "construction worker"
+  },
+  "taong manggagawa sa konstruksyon": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "babaeng manggagawa sa konstruksyon": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "prinsipe": { "replacement": "🤴", "description": "prince" },
+  "prinsesa": { "replacement": "👸", "description": "princess" },
+  "taong may turban": {
+    "replacement": "👳",
+    "description": "person wearing turban"
+  },
+  "lalaking may turban": {
+    "replacement": "👳‍♂️",
+    "description": "man wearing turban"
+  },
+  "babaeng may turban": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "lalaking may gua pi mao": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "babaeng may talong": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "tao sa tuxedo": { "replacement": "🤵", "description": "person in tuxedo" },
+  "lalaking naka-tuxedo": {
+    "replacement": "🤵‍♂️",
+    "description": "man in tuxedo"
+  },
+  "babaeng naka-tuxedo": {
+    "replacement": "🤵‍♀️",
+    "description": "woman in tuxedo"
+  },
+  "taong may belo": { "replacement": "👰", "description": "person with veil" },
+  "lalaking may belo": {
+    "replacement": "👰‍♂️",
+    "description": "man with veil"
+  },
+  "babaeng may belo": {
+    "replacement": "👰‍♀️",
+    "description": "woman with veil"
+  },
+  "Buntis na babae": { "replacement": "🤰", "description": "pregnant woman" },
+  "pagpapasuso": { "replacement": "🤱", "description": "breast-feeding" },
+  "babaeng nagpapakain kay baby": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "lalaking nagpapakain kay baby": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "nagpapakain ng sanggol": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "anghel": { "replacement": "👼", "description": "baby angel" },
+  "santa": { "replacement": "🎅", "description": "Santa Claus" },
+  "mrs claus": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "mx claus": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "superhero": { "replacement": "🦸", "description": "superhero" },
+  "lalaking superhero": { "replacement": "🦸‍♂️", "description": "man superhero" },
+  "babaeng superhero": {
+    "replacement": "🦸‍♀️",
+    "description": "woman superhero"
+  },
+  "kontrabida": { "replacement": "🦹", "description": "supervillain" },
+  "supervillain na tao": {
+    "replacement": "🦹‍♂️",
+    "description": "man supervillain"
+  },
+  "babaeng supervillain": {
+    "replacement": "🦹‍♀️",
+    "description": "woman supervillain"
+  },
+  "salamangkero": { "replacement": "🧙", "description": "mage" },
+  "taong salamangkero": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "babaeng salamangkero": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "engkanto": { "replacement": "🧚", "description": "fairy" },
+  "taong engkanto": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "babaeng engkanto": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "bampira": { "replacement": "🧛", "description": "vampire" },
+  "lalaking bampira": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "babaeng bampira": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "merperson": { "replacement": "🧜", "description": "merperson" },
+  "merman": { "replacement": "🧜‍♂️", "description": "merman" },
+  "sirena": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "duwende": { "replacement": "🧝", "description": "elf" },
+  "lalaking duwende": { "replacement": "🧝‍♂️", "description": "man elf" },
+  "duwende babae": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "genie": { "replacement": "🧞", "description": "genie" },
+  "lalaking genie": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "babaeng genie": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "zombie": { "replacement": "🧟", "description": "zombie" },
+  "lalaking zombie": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "babaeng zombie": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "masahe": { "replacement": "💆", "description": "person getting massage" },
+  "lalaking masahe": {
+    "replacement": "💆‍♂️",
+    "description": "man getting massage"
+  },
+  "babaeng masahe": {
+    "replacement": "💆‍♀️",
+    "description": "woman getting massage"
+  },
+  "gupit": { "replacement": "💇", "description": "person getting haircut" },
+  "lalaking gupit": {
+    "replacement": "💇‍♂️",
+    "description": "man getting haircut"
+  },
+  "babaeng gupit": {
+    "replacement": "💇‍♀️",
+    "description": "woman getting haircut"
+  },
+  "naglalakad": { "replacement": "🚶", "description": "person walking" },
+  "lalaking naglalakad": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "naglalakad na babae": {
+    "replacement": "🚶‍♀️",
+    "description": "woman walking"
+  },
+  "nakatayo na tao": { "replacement": "🧍", "description": "person standing" },
+  "nakatayong lalaki": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "nakatayong babae": {
+    "replacement": "🧍‍♀️",
+    "description": "woman standing"
+  },
+  "nakaluhod na tao": { "replacement": "🧎", "description": "person kneeling" },
+  "nakaluhod na lalaki": {
+    "replacement": "🧎‍♂️",
+    "description": "man kneeling"
+  },
+  "nakaluhod na babae": {
+    "replacement": "🧎‍♀️",
+    "description": "woman kneeling"
+  },
+  "taong may probing cane": {
+    "replacement": "🧑‍🦯",
+    "description": "person with white cane"
+  },
+  "lalaking may probing cane": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "babaeng may probing cane": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "tao na naka-motor na wheelchair": {
+    "replacement": "🧑‍🦼",
+    "description": "person in motorized wheelchair"
+  },
+  "lalaking naka-motor na wheelchair": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "babaeng naka-motor na wheelchair": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "taong nasa manu-manong wheelchair": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "lalaking naka-manu-manong wheelchair": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "babaeng naka-wheelchair": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "tumatakbo": { "replacement": "🏃", "description": "person running" },
+  "tumatakbong tao": { "replacement": "🏃‍♂️", "description": "man running" },
+  "tumatakbo na babae": { "replacement": "🏃‍♀️", "description": "woman running" },
+  "babaeng sumasayaw": { "replacement": "💃", "description": "woman dancing" },
+  "lalaking sumasayaw": { "replacement": "🕺", "description": "man dancing" },
+  "pang-levite ng suit sa negosyo": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "mananayaw": { "replacement": "👯", "description": "people with bunny ears" },
+  "mga lalaking sumasayaw": {
+    "replacement": "👯‍♂️",
+    "description": "men with bunny ears"
+  },
+  "mga babaeng sumasayaw": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "taong sauna": {
+    "replacement": "🧖",
+    "description": "person in steamy room"
+  },
+  "lalaking sauna": {
+    "replacement": "🧖‍♂️",
+    "description": "man in steamy room"
+  },
+  "babaeng sauna": {
+    "replacement": "🧖‍♀️",
+    "description": "woman in steamy room"
+  },
+  "akyat": { "replacement": "🧗", "description": "person climbing" },
+  "akyat na tao": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "umaakyat na babae": { "replacement": "🧗‍♀️", "description": "woman climbing" },
+  "fencing ng tao": { "replacement": "🤺", "description": "person fencing" },
+  "Karera ng kabayo": { "replacement": "🏇", "description": "horse racing" },
+  "skier": { "replacement": "⛷️", "description": "skier" },
+  "snowboarder": { "replacement": "🏂", "description": "snowboarder" },
+  "golfing": { "replacement": "🏌️", "description": "person golfing" },
+  "lalaking golfing": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "babaeng golfing": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "surfer": { "replacement": "🏄", "description": "person surfing" },
+  "surfing man": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "surfing na babae": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "rowboat": { "replacement": "🚣", "description": "person rowing boat" },
+  "nagmamaneho ng tao": {
+    "replacement": "🚣‍♂️",
+    "description": "man rowing boat"
+  },
+  "nagbabagong babae": {
+    "replacement": "🚣‍♀️",
+    "description": "woman rowing boat"
+  },
+  "manlalangoy": { "replacement": "🏊", "description": "person swimming" },
+  "lalaking lumalangoy": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "babaeng lumalangoy": {
+    "replacement": "🏊‍♀️",
+    "description": "woman swimming"
+  },
+  "nagba-bouncing ball person": {
+    "replacement": "⛹️",
+    "description": "person bouncing ball"
+  },
+  "nagba-bouncing ball man": {
+    "replacement": "⛹️‍♂️",
+    "description": "man bouncing ball"
+  },
+  "tumatalbog na bola na babae": {
+    "replacement": "⛹️‍♀️",
+    "description": "woman bouncing ball"
+  },
+  "pagbubuhat": {
+    "replacement": "🏋️",
+    "description": "person lifting weights"
+  },
+  "lalaking nakakataas ng timbang": {
+    "replacement": "🏋️‍♂️",
+    "description": "man lifting weights"
+  },
+  "babaeng nakakataas ng timbang": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "nagbibisikleta": { "replacement": "🚴", "description": "person biking" },
+  "lalaking nagbibisikleta": {
+    "replacement": "🚴‍♂️",
+    "description": "man biking"
+  },
+  "babaeng nagbibisikleta": {
+    "replacement": "🚴‍♀️",
+    "description": "woman biking"
+  },
+  "nagbibisikleta sa bundok": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "lalaking nagbibisikleta sa bundok": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "babaeng nagbibisikleta sa bundok": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "cartwheeling": { "replacement": "🤸", "description": "person cartwheeling" },
+  "tao cartwheeling": {
+    "replacement": "🤸‍♂️",
+    "description": "man cartwheeling"
+  },
+  "babaeng cartwheeling": {
+    "replacement": "🤸‍♀️",
+    "description": "woman cartwheeling"
+  },
+  "Pakikipagbuno": { "replacement": "🤼", "description": "people wrestling" },
+  "lalaking nakikipagbuno": {
+    "replacement": "🤼‍♂️",
+    "description": "men wrestling"
+  },
+  "mga babaeng nakikipagbuno": {
+    "replacement": "🤼‍♀️",
+    "description": "women wrestling"
+  },
+  "water polo": {
+    "replacement": "🤽",
+    "description": "person playing water polo"
+  },
+  "lalaking naglalaro ng water polo": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "babaeng naglalaro ng water polo": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "taong handball": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "lalaking naglalaro ng handball": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "babaeng naglalaro ng handball": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "taong nakikipag-juggling": {
+    "replacement": "🤹",
+    "description": "person juggling"
+  },
+  "lalaking juggling": { "replacement": "🤹‍♂️", "description": "man juggling" },
+  "babaeng juggling": { "replacement": "🤹‍♀️", "description": "woman juggling" },
+  "posisyon ng lotus": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "lotus posisyon tao": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "lotus posisyon babae": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "maligo": { "replacement": "🛀", "description": "person taking bath" },
+  "natutulog na kama": { "replacement": "🛌", "description": "person in bed" },
+  "mga taong magkahawak": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "dalawang babaeng magkahawak": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "mag-asawa": { "replacement": "💏", "description": "kiss" },
+  "dalawang lalaki na magkahawak": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "couplekiss lalaki babae": {
+    "replacement": "👩‍❤️‍💋‍👨",
+    "description": "kiss: woman, man"
+  },
+  "couplekiss man man": {
+    "replacement": "👨‍❤️‍💋‍👨",
+    "description": "kiss: man, man"
+  },
+  "couplekiss babaeng babae": {
+    "replacement": "👩‍❤️‍💋‍👩",
+    "description": "kiss: woman, woman"
+  },
+  "mag-asawa na may puso": {
+    "replacement": "💑",
+    "description": "couple with heart"
+  },
+  "mag-asawa na may pusong babaeng lalaki": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "mag-asawa na may pusong lalaki": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "mag-asawa na may pusong babaeng babae": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "pamilya": { "replacement": "👪", "description": "family" },
+  "pamilya lalaki babae lalaki": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "pamilya lalaki babae babae": {
+    "replacement": "👨‍👩‍👧",
+    "description": "family: man, woman, girl"
+  },
+  "pamilya lalaki babae babae lalaki": {
+    "replacement": "👨‍👩‍👧‍👦",
+    "description": "family: man, woman, girl, boy"
+  },
+  "pamilya lalaki babae lalaki lalaki": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "pamilya lalaki babae babae babae": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "pamilya lalaki lalake lalaki": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "pamilya lalaki lalaki babae": {
+    "replacement": "👨‍👨‍👧",
+    "description": "family: man, man, girl"
+  },
+  "pamilya lalaki lalaki babae lalaki": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "pamilya tao lalaki lalaki lalaki": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "pamilya lalaki lalaki babae babae": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "pamilya babae babae lalaki": {
+    "replacement": "👩‍👩‍👦",
+    "description": "family: woman, woman, boy"
+  },
+  "pamilya babae babae babae": {
+    "replacement": "👩‍👩‍👧",
+    "description": "family: woman, woman, girl"
+  },
+  "pamilya babae babae batang babae lalaki": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "pamilya babae babae lalaki lalaki": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "pamilya babae babae babae babae": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "pamilya lalaki lalaki": {
+    "replacement": "👨‍👦",
+    "description": "family: man, boy"
+  },
+  "pamilya lalaki lalaki lalaki": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "pamilya lalaki babae": {
+    "replacement": "👨‍👧",
+    "description": "family: man, girl"
+  },
+  "pamilya lalaki batang babae lalaki": {
+    "replacement": "👨‍👧‍👦",
+    "description": "family: man, girl, boy"
+  },
+  "pamilya lalaki batang babae babae": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "pamilya babae lalaki": {
+    "replacement": "👩‍👦",
+    "description": "family: woman, boy"
+  },
+  "pamilya babae lalaki lalaki": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "pamilya babae babae": {
+    "replacement": "👩‍👧",
+    "description": "family: woman, girl"
+  },
+  "pamilya babae batang babae lalaki": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "pamilya babae batang babae babae": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "nagsasalita ulo": { "replacement": "🗣️", "description": "speaking head" },
+  "bust sa silweta": {
+    "replacement": "👤",
+    "description": "bust in silhouette"
+  },
+  "mga busts sa silweta": {
+    "replacement": "👥",
+    "description": "busts in silhouette"
+  },
+  "nagyayakapan ang mga tao": {
+    "replacement": "🫂",
+    "description": "people hugging"
+  },
+  "mga yapak": { "replacement": "👣", "description": "footprints" },
+  "mukha ng unggoy": { "replacement": "🐵", "description": "monkey face" },
+  "unggoy": { "replacement": "🐒", "description": "monkey" },
+  "gorilya": { "replacement": "🦍", "description": "gorilla" },
+  "orangutan": { "replacement": "🦧", "description": "orangutan" },
+  "aso": { "replacement": "🐶", "description": "dog face" },
+  "aso2": { "replacement": "🐕", "description": "dog" },
+  "gabay na aso": { "replacement": "🦮", "description": "guide dog" },
+  "aso ng serbisyo": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "poodle": { "replacement": "🐩", "description": "poodle" },
+  "lobo": { "replacement": "🎈", "description": "balloon" },
+  "mukha ng soro": { "replacement": "🦊", "description": "fox" },
+  "rakun": { "replacement": "🦝", "description": "raccoon" },
+  "pusa": { "replacement": "🐱", "description": "cat face" },
+  "pusa2": { "replacement": "🐈", "description": "cat" },
+  "itim na pusa": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "leon": { "replacement": "🦁", "description": "lion" },
+  "tigre": { "replacement": "🐯", "description": "tiger face" },
+  "tigre2": { "replacement": "🐅", "description": "tiger" },
+  "leopardo": { "replacement": "🐆", "description": "leopard" },
+  "kabayo": { "replacement": "🐴", "description": "horse face" },
+  "karera ng kabayo": { "replacement": "🐎", "description": "horse" },
+  "unicorn": { "replacement": "🦄", "description": "unicorn" },
+  "zebra": { "replacement": "🦓", "description": "zebra" },
+  "usa": { "replacement": "🦌", "description": "deer" },
+  "bison": { "replacement": "🦬", "description": "bison" },
+  "baka": { "replacement": "🐂", "description": "ox" },
+  "kalabaw": { "replacement": "🐃", "description": "water buffalo" },
+  "baka2": { "replacement": "🐄", "description": "cow" },
+  "baboy": { "replacement": "🐗", "description": "boar" },
+  "baboy2": { "replacement": "🐖", "description": "pig" },
+  "ilong ng baboy": { "replacement": "🐽", "description": "pig nose" },
+  "tupa": { "replacement": "🐑", "description": "ewe" },
+  "kambing": { "replacement": "🐐", "description": "goat" },
+  "dromedary camel": { "replacement": "🐪", "description": "camel" },
+  "kamelyo": { "replacement": "🐫", "description": "two-hump camel" },
+  "llama": { "replacement": "🦙", "description": "llama" },
+  "dyirap": { "replacement": "🦒", "description": "giraffe" },
+  "elepante": { "replacement": "🐘", "description": "elephant" },
+  "mammoth": { "replacement": "🦣", "description": "mammoth" },
+  "rhinoceros": { "replacement": "🦏", "description": "rhinoceros" },
+  "hippopotamus": { "replacement": "🦛", "description": "hippopotamus" },
+  "mouse": { "replacement": "🐭", "description": "mouse face" },
+  "mouse2": { "replacement": "🐁", "description": "mouse" },
+  "daga": { "replacement": "🐀", "description": "rat" },
+  "hamster": { "replacement": "🐹", "description": "hamster" },
+  "kuneho": { "replacement": "🐰", "description": "rabbit face" },
+  "kuneho2": { "replacement": "🐇", "description": "rabbit" },
+  "chipmunk": { "replacement": "🐿️", "description": "chipmunk" },
+  "beaver": { "replacement": "🦫", "description": "beaver" },
+  "parkupino": { "replacement": "🦔", "description": "hedgehog" },
+  "bat": { "replacement": "🦇", "description": "bat" },
+  "bear": { "replacement": "🐻", "description": "bear" },
+  "polar bear": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "koala": { "replacement": "🐨", "description": "koala" },
+  "mukha ng panda": { "replacement": "🐼", "description": "panda" },
+  "tamad": { "replacement": "🦥", "description": "sloth" },
+  "otter": { "replacement": "🦦", "description": "otter" },
+  "skunk": { "replacement": "🦨", "description": "skunk" },
+  "kangaroo": { "replacement": "🦘", "description": "kangaroo" },
+  "badger": { "replacement": "🦡", "description": "badger" },
+  "pabo": { "replacement": "🦃", "description": "turkey" },
+  "manok": { "replacement": "🐔", "description": "chicken" },
+  "tandang": { "replacement": "🐓", "description": "rooster" },
+  "pagpisa ng sisiw": { "replacement": "🐣", "description": "hatching chick" },
+  "batang sisiw": { "replacement": "🐤", "description": "baby chick" },
+  "hatched na sisiw": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "ibon": { "replacement": "🐦", "description": "bird" },
+  "penguin": { "replacement": "🐧", "description": "penguin" },
+  "kalapati": { "replacement": "🕊️", "description": "dove" },
+  "agila": { "replacement": "🦅", "description": "eagle" },
+  "pato": { "replacement": "🦆", "description": "duck" },
+  "sisne": { "replacement": "🦢", "description": "swan" },
+  "kuwago": { "replacement": "🦉", "description": "owl" },
+  "dodo": { "replacement": "🦤", "description": "dodo" },
+  "balahibo": { "replacement": "🪶", "description": "feather" },
+  "flamingo": { "replacement": "🦩", "description": "flamingo" },
+  "paboreal": { "replacement": "🦚", "description": "peacock" },
+  "loro": { "replacement": "🦜", "description": "parrot" },
+  "palaka": { "replacement": "🐸", "description": "frog" },
+  "buwaya": { "replacement": "🐊", "description": "crocodile" },
+  "pagong": { "replacement": "🐢", "description": "turtle" },
+  "butiki": { "replacement": "🦎", "description": "lizard" },
+  "ahas": { "replacement": "🐍", "description": "snake" },
+  "mukha ng dragon": { "replacement": "🐲", "description": "dragon face" },
+  "Dragon": { "replacement": "🐉", "description": "dragon" },
+  "sauropod": { "replacement": "🦕", "description": "sauropod" },
+  "t-rex": { "replacement": "🦖", "description": "T-Rex" },
+  "balyena": { "replacement": "🐳", "description": "spouting whale" },
+  "balyena2": { "replacement": "🐋", "description": "whale" },
+  "dolphin": { "replacement": "🐬", "description": "dolphin" },
+  "tatak": { "replacement": "🏷️", "description": "label" },
+  "isda": { "replacement": "🐟", "description": "fish" },
+  "tropikal na isda": { "replacement": "🐠", "description": "tropical fish" },
+  "blowfish": { "replacement": "🐡", "description": "blowfish" },
+  "pating": { "replacement": "🦈", "description": "shark" },
+  "pugita": { "replacement": "🐙", "description": "octopus" },
+  "kabibi": { "replacement": "🐚", "description": "spiral shell" },
+  "suso": { "replacement": "🐌", "description": "snail" },
+  "paruparo": { "replacement": "🦋", "description": "butterfly" },
+  "bug": { "replacement": "🐛", "description": "bug" },
+  "langgam": { "replacement": "🐜", "description": "ant" },
+  "bubuyog": { "replacement": "🐝", "description": "honeybee" },
+  "salagubang": { "replacement": "🪲", "description": "beetle" },
+  "babaeng beetle": { "replacement": "🐞", "description": "lady beetle" },
+  "kuliglig": { "replacement": "🦗", "description": "cricket" },
+  "ipis": { "replacement": "🪳", "description": "cockroach" },
+  "gagamba": { "replacement": "🕷️", "description": "spider" },
+  "sapot": { "replacement": "🕸️", "description": "spider web" },
+  "alakdan": { "replacement": "🦂", "description": "scorpion" },
+  "lamok": { "replacement": "🦟", "description": "mosquito" },
+  "lumipad": { "replacement": "🪰", "description": "fly" },
+  "bulate": { "replacement": "🪱", "description": "worm" },
+  "microbe": { "replacement": "🦠", "description": "microbe" },
+  "palumpon": { "replacement": "💐", "description": "bouquet" },
+  "seresa mamulaklak": { "replacement": "🌸", "description": "cherry blossom" },
+  "puting bulaklak": { "replacement": "💮", "description": "white flower" },
+  "rosette": { "replacement": "🏵️", "description": "rosette" },
+  "rosas": { "replacement": "🌹", "description": "rose" },
+  "nalanta na bulaklak": {
+    "replacement": "🥀",
+    "description": "wilted flower"
+  },
+  "hibiscus": { "replacement": "🌺", "description": "hibiscus" },
+  "mirasol": { "replacement": "🌻", "description": "sunflower" },
+  "mamulaklak": { "replacement": "🌼", "description": "blossom" },
+  "tulip": { "replacement": "🌷", "description": "tulip" },
+  "punla": { "replacement": "🌱", "description": "seedling" },
+  "nakapasong halaman": { "replacement": "🪴", "description": "potted plant" },
+  "puno ng evergreen": { "replacement": "🌲", "description": "evergreen tree" },
+  "nangungulag na puno": {
+    "replacement": "🌳",
+    "description": "deciduous tree"
+  },
+  "puno ng niyog": { "replacement": "🌴", "description": "palm tree" },
+  "cactus": { "replacement": "🌵", "description": "cactus" },
+  "tainga ng bigas": { "replacement": "🌾", "description": "sheaf of rice" },
+  "halamang gamot": { "replacement": "🌿", "description": "herb" },
+  "shamrock": { "replacement": "☘️", "description": "shamrock" },
+  "apat na dahon ng klouber": {
+    "replacement": "🍀",
+    "description": "four leaf clover"
+  },
+  "dahon ng maple": { "replacement": "🍁", "description": "maple leaf" },
+  "nahulog na dahon": { "replacement": "🍂", "description": "fallen leaf" },
+  "dahon": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "ubas": { "replacement": "🍇", "description": "grapes" },
+  "melon": { "replacement": "🍈", "description": "melon" },
+  "pakwan": { "replacement": "🍉", "description": "watermelon" },
+  "tangerine": { "replacement": "🍊", "description": "tangerine" },
+  "limon": { "replacement": "🍋", "description": "lemon" },
+  "saging": { "replacement": "🍌", "description": "banana" },
+  "pinya": { "replacement": "🍍", "description": "pineapple" },
+  "mangga": { "replacement": "🥭", "description": "mango" },
+  "mansanas": { "replacement": "🍎", "description": "red apple" },
+  "berdeng mansanas": { "replacement": "🍏", "description": "green apple" },
+  "peras": { "replacement": "🍐", "description": "pear" },
+  "peach": { "replacement": "🍑", "description": "peach" },
+  "seresa": { "replacement": "🍒", "description": "cherries" },
+  "strawberry": { "replacement": "🍓", "description": "strawberry" },
+  "mga blueberry": { "replacement": "🫐", "description": "blueberries" },
+  "prutas ng kiwi": { "replacement": "🥝", "description": "kiwi fruit" },
+  "kamatis": { "replacement": "🍅", "description": "tomato" },
+  "olibo": { "replacement": "🫒", "description": "olive" },
+  "niyog": { "replacement": "🥥", "description": "coconut" },
+  "abukado": { "replacement": "🥑", "description": "avocado" },
+  "talong": { "replacement": "🍆", "description": "eggplant" },
+  "patatas": { "replacement": "🥔", "description": "potato" },
+  "karot": { "replacement": "🥕", "description": "carrot" },
+  "mais": { "replacement": "🌽", "description": "ear of corn" },
+  "mainit na paminta": { "replacement": "🌶️", "description": "hot pepper" },
+  "bell pepper": { "replacement": "🫑", "description": "bell pepper" },
+  "pipino": { "replacement": "🥒", "description": "cucumber" },
+  "malabay na berde": { "replacement": "🥬", "description": "leafy green" },
+  "brokuli": { "replacement": "🥦", "description": "broccoli" },
+  "bawang": { "replacement": "🧄", "description": "garlic" },
+  "sibuyas": { "replacement": "🧅", "description": "onion" },
+  "kabute": { "replacement": "🍄", "description": "mushroom" },
+  "mga mani": { "replacement": "🥜", "description": "peanuts" },
+  "kastanyas": { "replacement": "🌰", "description": "chestnut" },
+  "tinapay": { "replacement": "🍞", "description": "bread" },
+  "croissant": { "replacement": "🥐", "description": "croissant" },
+  "tinapay na baguette": {
+    "replacement": "🥖",
+    "description": "baguette bread"
+  },
+  "flatbread": { "replacement": "🫓", "description": "flatbread" },
+  "pretzel": { "replacement": "🥨", "description": "pretzel" },
+  "bagel": { "replacement": "🥯", "description": "bagel" },
+  "pancake": { "replacement": "🥞", "description": "pancakes" },
+  "wafel": { "replacement": "🧇", "description": "waffle" },
+  "keso": { "replacement": "🧀", "description": "cheese wedge" },
+  "karne sa buto": { "replacement": "🍖", "description": "meat on bone" },
+  "paa ng manok": { "replacement": "🍗", "description": "poultry leg" },
+  "hiwa ng karne": { "replacement": "🥩", "description": "cut of meat" },
+  "bacon": { "replacement": "🥓", "description": "bacon" },
+  "hamburger": { "replacement": "🍔", "description": "hamburger" },
+  "mga fries": { "replacement": "🍟", "description": "french fries" },
+  "pizza": { "replacement": "🍕", "description": "pizza" },
+  "Hot dog": { "replacement": "🌭", "description": "hot dog" },
+  "sandwich": { "replacement": "🥪", "description": "sandwich" },
+  "taco": { "replacement": "🌮", "description": "taco" },
+  "burrito": { "replacement": "🌯", "description": "burrito" },
+  "tamale": { "replacement": "🫔", "description": "tamale" },
+  "pinalamanan na flatbread": {
+    "replacement": "🥙",
+    "description": "stuffed flatbread"
+  },
+  "falafel": { "replacement": "🧆", "description": "falafel" },
+  "itlog": { "replacement": "🥚", "description": "egg" },
+  "pritong itlog": { "replacement": "🍳", "description": "cooking" },
+  "mababaw na kawali ng pagkain": {
+    "replacement": "🥘",
+    "description": "shallow pan of food"
+  },
+  "nilaga": { "replacement": "🍲", "description": "pot of food" },
+  "fondue": { "replacement": "🫕", "description": "fondue" },
+  "mangkok na may kutsara": {
+    "replacement": "🥣",
+    "description": "bowl with spoon"
+  },
+  "berdeng salad": { "replacement": "🥗", "description": "green salad" },
+  "popcorn": { "replacement": "🍿", "description": "popcorn" },
+  "mantikilya": { "replacement": "🧈", "description": "butter" },
+  "asin": { "replacement": "🧂", "description": "salt" },
+  "de-latang pagkain": { "replacement": "🥫", "description": "canned food" },
+  "bento": { "replacement": "🍱", "description": "bento box" },
+  "basag crackers": { "replacement": "🍘", "description": "rice cracker" },
+  "bigas bola": { "replacement": "🍙", "description": "rice ball" },
+  "kanin": { "replacement": "🍚", "description": "cooked rice" },
+  "kari": { "replacement": "🍛", "description": "curry rice" },
+  "ramen": { "replacement": "🍜", "description": "steaming bowl" },
+  "spaghetti": { "replacement": "🍝", "description": "spaghetti" },
+  "kamote": { "replacement": "🍠", "description": "roasted sweet potato" },
+  "oden": { "replacement": "🍢", "description": "oden" },
+  "sushi": { "replacement": "🍣", "description": "sushi" },
+  "pritong hipon": { "replacement": "🍤", "description": "fried shrimp" },
+  "fish cake": { "replacement": "🍥", "description": "fish cake with swirl" },
+  "moon cake": { "replacement": "🥮", "description": "moon cake" },
+  "dango": { "replacement": "🍡", "description": "dango" },
+  "dumpling": { "replacement": "🥟", "description": "dumpling" },
+  "fortune cookie": { "replacement": "🥠", "description": "fortune cookie" },
+  "takeout box": { "replacement": "🥡", "description": "takeout box" },
+  "alimango": { "replacement": "🦀", "description": "crab" },
+  "ulang": { "replacement": "🦞", "description": "lobster" },
+  "hipon": { "replacement": "🦐", "description": "shrimp" },
+  "pusit": { "replacement": "🦑", "description": "squid" },
+  "talaba": { "replacement": "🦪", "description": "oyster" },
+  "sorbetes": { "replacement": "🍨", "description": "ice cream" },
+  "ahit na yelo": { "replacement": "🍧", "description": "shaved ice" },
+  "donut": { "replacement": "🍩", "description": "doughnut" },
+  "cookie": { "replacement": "🍪", "description": "cookie" },
+  "kaarawan": { "replacement": "🎂", "description": "birthday cake" },
+  "cake": { "replacement": "🍰", "description": "shortcake" },
+  "cupcake": { "replacement": "🧁", "description": "cupcake" },
+  "pie": { "replacement": "🥧", "description": "pie" },
+  "tsokolate bar": { "replacement": "🍫", "description": "chocolate bar" },
+  "kendi": { "replacement": "🍬", "description": "candy" },
+  "lollipop": { "replacement": "🍭", "description": "lollipop" },
+  "tagapag-alaga": { "replacement": "🍮", "description": "custard" },
+  "honey pot": { "replacement": "🍯", "description": "honey pot" },
+  "bote ng sanggol": { "replacement": "🍼", "description": "baby bottle" },
+  "baso ng gatas": { "replacement": "🥛", "description": "glass of milk" },
+  "kape": { "replacement": "☕", "description": "hot beverage" },
+  "teapot": { "replacement": "🫖", "description": "teapot" },
+  "tsaa": { "replacement": "🍵", "description": "teacup without handle" },
+  "alang-alang": { "replacement": "🍶", "description": "sake" },
+  "champagne": {
+    "replacement": "🍾",
+    "description": "bottle with popping cork"
+  },
+  "baso ng alak": { "replacement": "🍷", "description": "wine glass" },
+  "sabong": { "replacement": "🍸", "description": "cocktail glass" },
+  "tropikal na inumin": {
+    "replacement": "🍹",
+    "description": "tropical drink"
+  },
+  "serbesa": { "replacement": "🍺", "description": "beer mug" },
+  "mga beer": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "clinking baso": { "replacement": "🥂", "description": "clinking glasses" },
+  "baso ng tumbler": { "replacement": "🥃", "description": "tumbler glass" },
+  "tasa na may dayami": {
+    "replacement": "🥤",
+    "description": "cup with straw"
+  },
+  "bubble tea": { "replacement": "🧋", "description": "bubble tea" },
+  "kahon ng inumin": { "replacement": "🧃", "description": "beverage box" },
+  "asawa": { "replacement": "🧉", "description": "mate" },
+  "yelo": { "replacement": "🧊", "description": "ice" },
+  "chopsticks": { "replacement": "🥢", "description": "chopsticks" },
+  "plato na may kubyertos": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "tinidor at kutsilyo": {
+    "replacement": "🍴",
+    "description": "fork and knife"
+  },
+  "kutsara": { "replacement": "🥄", "description": "spoon" },
+  "hocho": { "replacement": "🔪", "description": "kitchen knife" },
+  "amphora": { "replacement": "🏺", "description": "amphora" },
+  "mundo africa": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "mga earth america": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "daigdig asya": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "mundo na may mga meridian": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "mapa ng mundo": { "replacement": "🗺️", "description": "world map" },
+  "Hapon": { "replacement": "🗾", "description": "map of Japan" },
+  "kumpas": { "replacement": "🧭", "description": "compass" },
+  "bundok na niyebe": {
+    "replacement": "🏔️",
+    "description": "snow-capped mountain"
+  },
+  "bundok": { "replacement": "⛰️", "description": "mountain" },
+  "bulkan": { "replacement": "🌋", "description": "volcano" },
+  "bundok ng Fuji": { "replacement": "🗻", "description": "mount fuji" },
+  "kamping": { "replacement": "🏕️", "description": "camping" },
+  "payong sa beach": {
+    "replacement": "🏖️",
+    "description": "beach with umbrella"
+  },
+  "disyerto": { "replacement": "🏜️", "description": "desert" },
+  "disyerto isla": { "replacement": "🏝️", "description": "desert island" },
+  "Pambansang parke": { "replacement": "🏞️", "description": "national park" },
+  "istadyum": { "replacement": "🏟️", "description": "stadium" },
+  "gusaling klasiko": {
+    "replacement": "🏛️",
+    "description": "classical building"
+  },
+  "pagtatayo ng gusali": {
+    "replacement": "🏗️",
+    "description": "building construction"
+  },
+  "brick": { "replacement": "🧱", "description": "brick" },
+  "bato": { "replacement": "🪨", "description": "rock" },
+  "kahoy": { "replacement": "🪵", "description": "wood" },
+  "kubo": { "replacement": "🛖", "description": "hut" },
+  "mga bahay": { "replacement": "🏘️", "description": "houses" },
+  "derelict na bahay": { "replacement": "🏚️", "description": "derelict house" },
+  "bahay": { "replacement": "🏠", "description": "house" },
+  "bahay na may hardin": {
+    "replacement": "🏡",
+    "description": "house with garden"
+  },
+  "opisina": { "replacement": "🏢", "description": "office building" },
+  "post office": { "replacement": "🏣", "description": "Japanese post office" },
+  "post office ng Europa": {
+    "replacement": "🏤",
+    "description": "post office"
+  },
+  "ospital": { "replacement": "🏥", "description": "hospital" },
+  "bangko": { "replacement": "🏦", "description": "bank" },
+  "hotel": { "replacement": "🏨", "description": "hotel" },
+  "mahal ang hotel": { "replacement": "🏩", "description": "love hotel" },
+  "tindahan": { "replacement": "🏪", "description": "convenience store" },
+  "paaralan": { "replacement": "🏫", "description": "school" },
+  "Department Store": {
+    "replacement": "🏬",
+    "description": "department store"
+  },
+  "pabrika": { "replacement": "🏭", "description": "factory" },
+  "kastilyong japanese": {
+    "replacement": "🏯",
+    "description": "Japanese castle"
+  },
+  "kastilyong Europa": { "replacement": "🏰", "description": "castle" },
+  "kasal": { "replacement": "💒", "description": "wedding" },
+  "tokyo tower": { "replacement": "🗼", "description": "Tokyo tower" },
+  "rebulto ng kalayaan": {
+    "replacement": "🗽",
+    "description": "Statue of Liberty"
+  },
+  "simbahan": { "replacement": "⛪", "description": "church" },
+  "mosque": { "replacement": "🕌", "description": "mosque" },
+  "templo ng hindu": { "replacement": "🛕", "description": "hindu temple" },
+  "sinagoga": { "replacement": "🕍", "description": "synagogue" },
+  "shinto shrine": { "replacement": "⛩️", "description": "shinto shrine" },
+  "kaaba": { "replacement": "🕋", "description": "kaaba" },
+  "bukal": { "replacement": "⛲", "description": "fountain" },
+  "tent": { "replacement": "⛺", "description": "tent" },
+  "maulap": { "replacement": "🌁", "description": "foggy" },
+  "gabi na may mga bituin": {
+    "replacement": "🌃",
+    "description": "night with stars"
+  },
+  "cityscape": { "replacement": "🏙️", "description": "cityscape" },
+  "pagsikat ng araw sa mga bundok": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "pagsikat ng araw": { "replacement": "🌅", "description": "sunrise" },
+  "paglubog ng araw ng lungsod": {
+    "replacement": "🌆",
+    "description": "cityscape at dusk"
+  },
+  "pagsikat ng lungsod": { "replacement": "🌇", "description": "sunset" },
+  "tulay sa gabi": { "replacement": "🌉", "description": "bridge at night" },
+  "bukal na mainit": { "replacement": "♨️", "description": "hot springs" },
+  "kabayo ng carousel": {
+    "replacement": "🎠",
+    "description": "carousel horse"
+  },
+  "ferris wheel": { "replacement": "🎡", "description": "ferris wheel" },
+  "roller coaster": { "replacement": "🎢", "description": "roller coaster" },
+  "barbero": { "replacement": "💈", "description": "barber pole" },
+  "tent ng sirko": { "replacement": "🎪", "description": "circus tent" },
+  "steam locomotive": { "replacement": "🚂", "description": "locomotive" },
+  "kotse sa riles": { "replacement": "🚃", "description": "railway car" },
+  "gilid ng bullettrain": {
+    "replacement": "🚄",
+    "description": "high-speed train"
+  },
+  "bullettrain sa harap": {
+    "replacement": "🚅",
+    "description": "bullet train"
+  },
+  "tren2": { "replacement": "🚆", "description": "train" },
+  "metro": { "replacement": "🚇", "description": "metro" },
+  "light rail": { "replacement": "🚈", "description": "light rail" },
+  "istasyon": { "replacement": "🚉", "description": "station" },
+  "tram": { "replacement": "🚊", "description": "tram" },
+  "monorail": { "replacement": "🚝", "description": "monorail" },
+  "riles ng bundok": { "replacement": "🚞", "description": "mountain railway" },
+  "sanayin": { "replacement": "🚋", "description": "tram car" },
+  "bus": { "replacement": "🚌", "description": "bus" },
+  "paparating na bus": { "replacement": "🚍", "description": "oncoming bus" },
+  "trolleybus": { "replacement": "🚎", "description": "trolleybus" },
+  "minibus": { "replacement": "🚐", "description": "minibus" },
+  "ambulansya": { "replacement": "🚑", "description": "ambulance" },
+  "makina ng bumbero": { "replacement": "🚒", "description": "fire engine" },
+  "kotse ng pulis": { "replacement": "🚓", "description": "police car" },
+  "paparating na kotse ng pulisya": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "taxi": { "replacement": "🚕", "description": "taxi" },
+  "paparating na taxi": { "replacement": "🚖", "description": "oncoming taxi" },
+  "kotse": { "replacement": "🚗", "description": "automobile" },
+  "paparating na sasakyan": {
+    "replacement": "🚘",
+    "description": "oncoming automobile"
+  },
+  "asul na kotse": {
+    "replacement": "🚙",
+    "description": "sport utility vehicle"
+  },
+  "pickup truck": { "replacement": "🛻", "description": "pickup truck" },
+  "trak": { "replacement": "🚚", "description": "delivery truck" },
+  "artipisyal na trak": {
+    "replacement": "🚛",
+    "description": "articulated lorry"
+  },
+  "traktor": { "replacement": "🚜", "description": "tractor" },
+  "Pangkarerang kotse": { "replacement": "🏎️", "description": "racing car" },
+  "motorsiklo": { "replacement": "🏍️", "description": "motorcycle" },
+  "motor scooter": { "replacement": "🛵", "description": "motor scooter" },
+  "manu-manong wheelchair": {
+    "replacement": "🦽",
+    "description": "manual wheelchair"
+  },
+  "motorized wheelchair": {
+    "replacement": "🦼",
+    "description": "motorized wheelchair"
+  },
+  "auto rickshaw": { "replacement": "🛺", "description": "auto rickshaw" },
+  "bisikleta": { "replacement": "🚲", "description": "bicycle" },
+  "kick scooter": { "replacement": "🛴", "description": "kick scooter" },
+  "skateboard": { "replacement": "🛹", "description": "skateboard" },
+  "pang-isketing": { "replacement": "🛼", "description": "roller skate" },
+  "sakayan ng bus": { "replacement": "🚏", "description": "bus stop" },
+  "daanan ng motor": { "replacement": "🛣️", "description": "motorway" },
+  "riles ng tren": { "replacement": "🛤️", "description": "railway track" },
+  "tambol ng langis": { "replacement": "🛢️", "description": "oil drum" },
+  "fuelpump": { "replacement": "⛽", "description": "fuel pump" },
+  "umiikot na ilaw": { "replacement": "🚨", "description": "police car light" },
+  "ilaw ng trapiko": {
+    "replacement": "🚥",
+    "description": "horizontal traffic light"
+  },
+  "patayong ilaw ng trapiko": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "babala na tumigil": { "replacement": "🛑", "description": "stop sign" },
+  "konstruksyon": { "replacement": "🚧", "description": "construction" },
+  "angkla": { "replacement": "⚓", "description": "anchor" },
+  "bangka": { "replacement": "⛵", "description": "sailboat" },
+  "kanue": { "replacement": "🛶", "description": "canoe" },
+  "speedboat": { "replacement": "🚤", "description": "speedboat" },
+  "barko ng pasahero": { "replacement": "🛳️", "description": "passenger ship" },
+  "lantsa": { "replacement": "⛴️", "description": "ferry" },
+  "bangkang de motor": { "replacement": "🛥️", "description": "motor boat" },
+  "barko": { "replacement": "🚢", "description": "ship" },
+  "eroplano": { "replacement": "✈️", "description": "airplane" },
+  "maliit na eroplano": {
+    "replacement": "🛩️",
+    "description": "small airplane"
+  },
+  "pag-alis ng flight": {
+    "replacement": "🛫",
+    "description": "airplane departure"
+  },
+  "pagdating ng flight": {
+    "replacement": "🛬",
+    "description": "airplane arrival"
+  },
+  "parasyut": { "replacement": "🪂", "description": "parachute" },
+  "upuan": { "replacement": "🪑", "description": "chair" },
+  "helikoptero": { "replacement": "🚁", "description": "helicopter" },
+  "suspensyon ng riles": {
+    "replacement": "🚟",
+    "description": "suspension railway"
+  },
+  "kable ng bundok": {
+    "replacement": "🚠",
+    "description": "mountain cableway"
+  },
+  "aerial tramway": { "replacement": "🚡", "description": "aerial tramway" },
+  "artipisyal na satellite": {
+    "replacement": "🛰️",
+    "description": "satellite"
+  },
+  "rocket": { "replacement": "🚀", "description": "rocket" },
+  "lumilipad na platito": {
+    "replacement": "🛸",
+    "description": "flying saucer"
+  },
+  "bellhop bell": { "replacement": "🛎️", "description": "bellhop bell" },
+  "maleta": { "replacement": "🧳", "description": "luggage" },
+  "hourglass": { "replacement": "⌛", "description": "hourglass done" },
+  "hourglass na dumadaloy na buhangin": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "panuorin": { "replacement": "⌚", "description": "watch" },
+  "orasan ng alarma": { "replacement": "⏰", "description": "alarm clock" },
+  "stopwatch": { "replacement": "⏱️", "description": "stopwatch" },
+  "timer orasan": { "replacement": "⏲️", "description": "timer clock" },
+  "orasan ng mantelpiece": {
+    "replacement": "🕰️",
+    "description": "mantelpiece clock"
+  },
+  "orasan12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "orasan1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "orasan1": { "replacement": "🕐", "description": "one o’clock" },
+  "orasan130": { "replacement": "🕜", "description": "one-thirty" },
+  "orasan2": { "replacement": "🕑", "description": "two o’clock" },
+  "orasan230": { "replacement": "🕝", "description": "two-thirty" },
+  "orasan3": { "replacement": "🕒", "description": "three o’clock" },
+  "orasan330": { "replacement": "🕞", "description": "three-thirty" },
+  "orasan4": { "replacement": "🕓", "description": "four o’clock" },
+  "orasan430": { "replacement": "🕟", "description": "four-thirty" },
+  "orasan5": { "replacement": "🕔", "description": "five o’clock" },
+  "orasan530": { "replacement": "🕠", "description": "five-thirty" },
+  "orasan6": { "replacement": "🕕", "description": "six o’clock" },
+  "orasan630": { "replacement": "🕡", "description": "six-thirty" },
+  "orasan7": { "replacement": "🕖", "description": "seven o’clock" },
+  "orasan730": { "replacement": "🕢", "description": "seven-thirty" },
+  "orasan8": { "replacement": "🕗", "description": "eight o’clock" },
+  "orasan830": { "replacement": "🕣", "description": "eight-thirty" },
+  "orasan9": { "replacement": "🕘", "description": "nine o’clock" },
+  "orasan930": { "replacement": "🕤", "description": "nine-thirty" },
+  "orasan10": { "replacement": "🕙", "description": "ten o’clock" },
+  "orasan1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "orasan11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "orasan1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "bagong buwan": { "replacement": "🌑", "description": "new moon" },
+  "waxing crescent moon": {
+    "replacement": "🌒",
+    "description": "waxing crescent moon"
+  },
+  "unang buwan buwan": {
+    "replacement": "🌓",
+    "description": "first quarter moon"
+  },
+  "buwan": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "kabilugan ng buwan": { "replacement": "🌕", "description": "full moon" },
+  "kumikislap na buwan": {
+    "replacement": "🌖",
+    "description": "waning gibbous moon"
+  },
+  "huling buwan buwan": {
+    "replacement": "🌗",
+    "description": "last quarter moon"
+  },
+  "kumupas na buwan ng gasuklay": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "buwan ng buwan": { "replacement": "🌙", "description": "crescent moon" },
+  "bagong buwan na may mukha": {
+    "replacement": "🌚",
+    "description": "new moon face"
+  },
+  "first quarter moon na may mukha": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "last quarter moon na may mukha": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "termometro": { "replacement": "🌡️", "description": "thermometer" },
+  "maaraw": { "replacement": "☀️", "description": "sun" },
+  "buong buwan na may mukha": {
+    "replacement": "🌝",
+    "description": "full moon face"
+  },
+  "araw na may mukha": { "replacement": "🌞", "description": "sun with face" },
+  "nag-ring planeta": { "replacement": "🪐", "description": "ringed planet" },
+  "bituin": { "replacement": "⭐", "description": "star" },
+  "bituin2": { "replacement": "🌟", "description": "glowing star" },
+  "mga bituin": { "replacement": "🌠", "description": "shooting star" },
+  "milky way": { "replacement": "🌌", "description": "milky way" },
+  "ulap": { "replacement": "☁️", "description": "cloud" },
+  "medyo maaraw": { "replacement": "⛅", "description": "sun behind cloud" },
+  "ulap na may kidlat at ulan": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "araw sa likod ng maliit na ulap": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "araw sa likod ng malaking ulap": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "araw sa likod ng ulap ng ulan": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "ulap na may ulan": { "replacement": "🌧️", "description": "cloud with rain" },
+  "ulap na may niyebe": {
+    "replacement": "🌨️",
+    "description": "cloud with snow"
+  },
+  "ulap na may kidlat": {
+    "replacement": "🌩️",
+    "description": "cloud with lightning"
+  },
+  "buhawi": { "replacement": "🌪️", "description": "tornado" },
+  "hamog na ulap": { "replacement": "🌫️", "description": "fog" },
+  "mukha ng hangin": { "replacement": "🌬️", "description": "wind face" },
+  "bagyo": { "replacement": "🌀", "description": "cyclone" },
+  "bahaghari": { "replacement": "🌈", "description": "rainbow" },
+  "saradong payong": { "replacement": "🌂", "description": "closed umbrella" },
+  "buksan ang payong": { "replacement": "☂️", "description": "umbrella" },
+  "payong": { "replacement": "☔", "description": "umbrella with rain drops" },
+  "parasol sa lupa": {
+    "replacement": "⛱️",
+    "description": "umbrella on ground"
+  },
+  "zap": { "replacement": "⚡", "description": "high voltage" },
+  "snowflake": { "replacement": "❄️", "description": "snowflake" },
+  "taong yari sa niyebe na may niyebe": {
+    "replacement": "☃️",
+    "description": "snowman"
+  },
+  "taong yari sa niyebe": {
+    "replacement": "⛄",
+    "description": "snowman without snow"
+  },
+  "kometa": { "replacement": "☄️", "description": "comet" },
+  "apoy": { "replacement": "🔥", "description": "fire" },
+  "droplet": { "replacement": "💧", "description": "droplet" },
+  "karagatan": { "replacement": "🌊", "description": "water wave" },
+  "jack o parol": { "replacement": "🎃", "description": "jack-o-lantern" },
+  "puno ng pasko": { "replacement": "🎄", "description": "Christmas tree" },
+  "paputok": { "replacement": "🧨", "description": "firecracker" },
+  "sparkler": { "replacement": "🎇", "description": "sparkler" },
+  "sparkles": { "replacement": "✨", "description": "sparkles" },
+  "tada": { "replacement": "🎉", "description": "party popper" },
+  "confetti ball": { "replacement": "🎊", "description": "confetti ball" },
+  "puno ng tanabata": { "replacement": "🎋", "description": "tanabata tree" },
+  "kawayan": { "replacement": "🎍", "description": "pine decoration" },
+  "mga manika": { "replacement": "🎎", "description": "Japanese dolls" },
+  "mga watawat": { "replacement": "🎏", "description": "carp streamer" },
+  "huni ng hangin": { "replacement": "🎐", "description": "wind chime" },
+  "tagpo ng bigas": {
+    "replacement": "🎑",
+    "description": "moon viewing ceremony"
+  },
+  "pulang sobre": { "replacement": "🧧", "description": "red envelope" },
+  "laso": { "replacement": "🎀", "description": "ribbon" },
+  "regalo": { "replacement": "🎁", "description": "wrapped gift" },
+  "paalala laso": { "replacement": "🎗️", "description": "reminder ribbon" },
+  "tiket": { "replacement": "🎟️", "description": "admission tickets" },
+  "ticket": { "replacement": "🎫", "description": "ticket" },
+  "medalya ng militar": {
+    "replacement": "🎖️",
+    "description": "military medal"
+  },
+  "tropeo": { "replacement": "🏆", "description": "trophy" },
+  "medalyang palakasan": { "replacement": "🏅", "description": "sports medal" },
+  "1st place medalya": {
+    "replacement": "🥇",
+    "description": "1st place medal"
+  },
+  "Medalya sa ika-2 pwesto": {
+    "replacement": "🥈",
+    "description": "2nd place medal"
+  },
+  "Medalya sa ika-3 pwesto": {
+    "replacement": "🥉",
+    "description": "3rd place medal"
+  },
+  "soccer": { "replacement": "⚽", "description": "soccer ball" },
+  "baseball": { "replacement": "⚾", "description": "baseball" },
+  "softball": { "replacement": "🥎", "description": "softball" },
+  "basketball": { "replacement": "🏀", "description": "basketball" },
+  "volleyball": { "replacement": "🏐", "description": "volleyball" },
+  "football": { "replacement": "🏈", "description": "american football" },
+  "rugby football": { "replacement": "🏉", "description": "rugby football" },
+  "tennis": { "replacement": "🎾", "description": "tennis" },
+  "lumilipad disc": { "replacement": "🥏", "description": "flying disc" },
+  "bowling": { "replacement": "🎳", "description": "bowling" },
+  "laro ng cricket": { "replacement": "🏏", "description": "cricket game" },
+  "hockey sa larangan": { "replacement": "🏑", "description": "field hockey" },
+  "ice Hockey": { "replacement": "🏒", "description": "ice hockey" },
+  "lacrosse": { "replacement": "🥍", "description": "lacrosse" },
+  "Ping pong": { "replacement": "🏓", "description": "ping pong" },
+  "badminton": { "replacement": "🏸", "description": "badminton" },
+  "guwantes sa boksing": { "replacement": "🥊", "description": "boxing glove" },
+  "martial arts uniform": {
+    "replacement": "🥋",
+    "description": "martial arts uniform"
+  },
+  "layunin neto": { "replacement": "🥅", "description": "goal net" },
+  "golf": { "replacement": "⛳", "description": "flag in hole" },
+  "ice skate": { "replacement": "⛸️", "description": "ice skate" },
+  "poste ng pangingisda at isda": {
+    "replacement": "🎣",
+    "description": "fishing pole"
+  },
+  "diving mask": { "replacement": "🤿", "description": "diving mask" },
+  "running shirt na may sash": {
+    "replacement": "🎽",
+    "description": "running shirt"
+  },
+  "mag-ski": { "replacement": "🎿", "description": "skis" },
+  "sled": { "replacement": "🛷", "description": "sled" },
+  "kulot na bato": { "replacement": "🥌", "description": "curling stone" },
+  "pana": { "replacement": "🎯", "description": "direct hit" },
+  "yo yo": { "replacement": "🪀", "description": "yo-yo" },
+  "saranggola": { "replacement": "🪁", "description": "kite" },
+  "8ball": { "replacement": "🎱", "description": "pool 8 ball" },
+  "kristal na bola": { "replacement": "🔮", "description": "crystal ball" },
+  "magic wand": { "replacement": "🪄", "description": "magic wand" },
+  "anting-anting nazar": { "replacement": "🧿", "description": "nazar amulet" },
+  "video game": { "replacement": "🎮", "description": "video game" },
+  "joystick": { "replacement": "🕹️", "description": "joystick" },
+  "slot machine": { "replacement": "🎰", "description": "slot machine" },
+  "mamatay ang laro": { "replacement": "🎲", "description": "game die" },
+  "jigsaw": { "replacement": "🧩", "description": "puzzle piece" },
+  "teddy bear": { "replacement": "🧸", "description": "teddy bear" },
+  "pinata": { "replacement": "🪅", "description": "piñata" },
+  "namumugad na mga manika": {
+    "replacement": "🪆",
+    "description": "nesting dolls"
+  },
+  "mga pala": { "replacement": "♠️", "description": "spade suit" },
+  "mga puso": { "replacement": "♥️", "description": "heart suit" },
+  "mga brilyante": { "replacement": "♦️", "description": "diamond suit" },
+  "mga club": { "replacement": "♣️", "description": "club suit" },
+  "chess pawn": { "replacement": "♟️", "description": "chess pawn" },
+  "black joker": { "replacement": "🃏", "description": "joker" },
+  "mahjong": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "mga baraha sa paglalaro ng bulaklak": {
+    "replacement": "🎴",
+    "description": "flower playing cards"
+  },
+  "sining ng pagganap": {
+    "replacement": "🎭",
+    "description": "performing arts"
+  },
+  "naka-frame na larawan": {
+    "replacement": "🖼️",
+    "description": "framed picture"
+  },
+  "arte": { "replacement": "🎨", "description": "artist palette" },
+  "sinulid": { "replacement": "🧶", "description": "yarn" },
+  "karayom ​​sa pananahi": {
+    "replacement": "🪡",
+    "description": "sewing needle"
+  },
+  "buhol": { "replacement": "🪢", "description": "knot" },
+  "salamin sa mata": { "replacement": "👓", "description": "glasses" },
+  "madilim na salaming pang-araw": {
+    "replacement": "🕶️",
+    "description": "sunglasses"
+  },
+  "salaming pandagat": { "replacement": "🥽", "description": "goggles" },
+  "lab coat": { "replacement": "🥼", "description": "lab coat" },
+  "safety vest": { "replacement": "🦺", "description": "safety vest" },
+  "kurbata": { "replacement": "👔", "description": "necktie" },
+  "kamiseta": { "replacement": "👕", "description": "t-shirt" },
+  "maong": { "replacement": "👖", "description": "jeans" },
+  "bandana": { "replacement": "🧣", "description": "scarf" },
+  "guwantes": { "replacement": "🧤", "description": "gloves" },
+  "amerikana": { "replacement": "🧥", "description": "coat" },
+  "medyas": { "replacement": "🧦", "description": "socks" },
+  "damit": { "replacement": "👗", "description": "dress" },
+  "kimono": { "replacement": "👘", "description": "kimono" },
+  "sari": { "replacement": "🥻", "description": "sari" },
+  "isang piraso ng swimsuit": {
+    "replacement": "🩱",
+    "description": "one-piece swimsuit"
+  },
+  "lumangoy sandali": { "replacement": "🩲", "description": "briefs" },
+  "shorts": { "replacement": "🩳", "description": "shorts" },
+  "bikini": { "replacement": "👙", "description": "bikini" },
+  "damit ng mga kababaihan": {
+    "replacement": "👚",
+    "description": "woman’s clothes"
+  },
+  "pitaka": { "replacement": "👛", "description": "purse" },
+  "hanbag": { "replacement": "👜", "description": "handbag" },
+  "lagayan": { "replacement": "👝", "description": "clutch bag" },
+  "namimili": { "replacement": "🛍️", "description": "shopping bags" },
+  "satchel ng paaralan": { "replacement": "🎒", "description": "backpack" },
+  "thong sandal": { "replacement": "🩴", "description": "thong sandal" },
+  "sapatos ng mans": { "replacement": "👞", "description": "man’s shoe" },
+  "sapatos na pang-atletiko": {
+    "replacement": "👟",
+    "description": "running shoe"
+  },
+  "hiking boot": { "replacement": "🥾", "description": "hiking boot" },
+  "flat na sapatos": { "replacement": "🥿", "description": "flat shoe" },
+  "mataas na Takong": {
+    "replacement": "👠",
+    "description": "high-heeled shoe"
+  },
+  "sandalyas": { "replacement": "👡", "description": "woman’s sandal" },
+  "sapatos na ballet": { "replacement": "🩰", "description": "ballet shoes" },
+  "boot": { "replacement": "👢", "description": "woman’s boot" },
+  "korona": { "replacement": "👑", "description": "crown" },
+  "sumbrero ng mga kababaihan": {
+    "replacement": "👒",
+    "description": "woman’s hat"
+  },
+  "tophat": { "replacement": "🎩", "description": "top hat" },
+  "mortar board": { "replacement": "🎓", "description": "graduation cap" },
+  "sinisingil na cap": { "replacement": "🧢", "description": "billed cap" },
+  "military helmet": { "replacement": "🪖", "description": "military helmet" },
+  "tagapagligtas na helmet": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "kuwintas ng dasal": { "replacement": "📿", "description": "prayer beads" },
+  "kolorete": { "replacement": "💄", "description": "lipstick" },
+  "singsing": { "replacement": "💍", "description": "ring" },
+  "hiyas": { "replacement": "💎", "description": "gem stone" },
+  "pipi": { "replacement": "🔇", "description": "muted speaker" },
+  "tagapagsalita": { "replacement": "🔈", "description": "speaker low volume" },
+  "tunog": { "replacement": "🔉", "description": "speaker medium volume" },
+  "malakas na tunog": {
+    "replacement": "🔊",
+    "description": "speaker high volume"
+  },
+  "loudspeaker": { "replacement": "📢", "description": "loudspeaker" },
+  "mega": { "replacement": "📣", "description": "megaphone" },
+  "postal sungay": { "replacement": "📯", "description": "postal horn" },
+  "kampana": { "replacement": "🔔", "description": "bell" },
+  "walang kampana": { "replacement": "🔕", "description": "bell with slash" },
+  "iskor sa musikal": { "replacement": "🎼", "description": "musical score" },
+  "nota ng musika": { "replacement": "🎵", "description": "musical note" },
+  "mga tala": { "replacement": "🎶", "description": "musical notes" },
+  "studio microphone": {
+    "replacement": "🎙️",
+    "description": "studio microphone"
+  },
+  "antas ng slider": { "replacement": "🎚️", "description": "level slider" },
+  "kontrolin ang mga knobs": {
+    "replacement": "🎛️",
+    "description": "control knobs"
+  },
+  "mikropono": { "replacement": "🎤", "description": "microphone" },
+  "mga headphone": { "replacement": "🎧", "description": "headphone" },
+  "radyo": { "replacement": "📻", "description": "radio" },
+  "saksophone": { "replacement": "🎷", "description": "saxophone" },
+  "akordyon": { "replacement": "🪗", "description": "accordion" },
+  "gitara": { "replacement": "🎸", "description": "guitar" },
+  "musikal na keyboard": {
+    "replacement": "🎹",
+    "description": "musical keyboard"
+  },
+  "trumpeta": { "replacement": "🎺", "description": "trumpet" },
+  "byolin": { "replacement": "🎻", "description": "violin" },
+  "banjo": { "replacement": "🪕", "description": "banjo" },
+  "tambol": { "replacement": "🥁", "description": "drum" },
+  "mahabang drum": { "replacement": "🪘", "description": "long drum" },
+  "iphone": { "replacement": "📱", "description": "mobile phone" },
+  "tumatawag": {
+    "replacement": "📲",
+    "description": "mobile phone with arrow"
+  },
+  "telepono": { "replacement": "☎️", "description": "telephone" },
+  "tatanggap ng telepono": {
+    "replacement": "📞",
+    "description": "telephone receiver"
+  },
+  "pager": { "replacement": "📟", "description": "pager" },
+  "fax": { "replacement": "📠", "description": "fax machine" },
+  "baterya": { "replacement": "🔋", "description": "battery" },
+  "electric plug": { "replacement": "🔌", "description": "electric plug" },
+  "computer": { "replacement": "💻", "description": "laptop" },
+  "desktop computer": {
+    "replacement": "🖥️",
+    "description": "desktop computer"
+  },
+  "printer": { "replacement": "🖨️", "description": "printer" },
+  "keyboard": { "replacement": "⌨️", "description": "keyboard" },
+  "computer mouse": { "replacement": "🖱️", "description": "computer mouse" },
+  "trackball": { "replacement": "🖲️", "description": "trackball" },
+  "minidisc": { "replacement": "💽", "description": "computer disk" },
+  "floppy disk": { "replacement": "💾", "description": "floppy disk" },
+  "cd": { "replacement": "💿", "description": "optical disk" },
+  "dvd": { "replacement": "📀", "description": "dvd" },
+  "abakus": { "replacement": "🧮", "description": "abacus" },
+  "pelikula camera": { "replacement": "🎥", "description": "movie camera" },
+  "strip ng pelikula": { "replacement": "🎞️", "description": "film frames" },
+  "projector ng pelikula": {
+    "replacement": "📽️",
+    "description": "film projector"
+  },
+  "clapper": { "replacement": "🎬", "description": "clapper board" },
+  "tv": { "replacement": "📺", "description": "television" },
+  "camera": { "replacement": "📷", "description": "camera" },
+  "flash ng camera": {
+    "replacement": "📸",
+    "description": "camera with flash"
+  },
+  "video camera": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "mag": { "replacement": "🔍", "description": "magnifying glass tilted left" },
+  "mag tama": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "kandila": { "replacement": "🕯️", "description": "candle" },
+  "bombilya": { "replacement": "💡", "description": "light bulb" },
+  "flashlight": { "replacement": "🔦", "description": "flashlight" },
+  "lanternong izakaya": {
+    "replacement": "🏮",
+    "description": "red paper lantern"
+  },
+  "diya lampara": { "replacement": "🪔", "description": "diya lamp" },
+  "kuwaderno na may pandekorasyon na takip": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "saradong libro": { "replacement": "📕", "description": "closed book" },
+  "libro": { "replacement": "📖", "description": "open book" },
+  "berdeng libro": { "replacement": "📗", "description": "green book" },
+  "asul na libro": { "replacement": "📘", "description": "blue book" },
+  "aklat na kahel": { "replacement": "📙", "description": "orange book" },
+  "mga libro": { "replacement": "📚", "description": "books" },
+  "kuwaderno": { "replacement": "📓", "description": "notebook" },
+  "ledger": { "replacement": "📒", "description": "ledger" },
+  "pahina na may kulot": {
+    "replacement": "📃",
+    "description": "page with curl"
+  },
+  "mag-scroll": { "replacement": "📜", "description": "scroll" },
+  "paharap ang pahina": {
+    "replacement": "📄",
+    "description": "page facing up"
+  },
+  "pahayagan": { "replacement": "📰", "description": "newspaper" },
+  "roll ng dyaryo": {
+    "replacement": "🗞️",
+    "description": "rolled-up newspaper"
+  },
+  "mga tab na bookmark": {
+    "replacement": "📑",
+    "description": "bookmark tabs"
+  },
+  "bookmark": { "replacement": "🔖", "description": "bookmark" },
+  "pera": { "replacement": "💰", "description": "money bag" },
+  "barya": { "replacement": "🪙", "description": "coin" },
+  "yen": { "replacement": "💴", "description": "yen banknote" },
+  "dolyar": { "replacement": "💵", "description": "dollar banknote" },
+  "euro": { "replacement": "💶", "description": "euro banknote" },
+  "pound": { "replacement": "💷", "description": "pound banknote" },
+  "pera na may pakpak": {
+    "replacement": "💸",
+    "description": "money with wings"
+  },
+  "credit card": { "replacement": "💳", "description": "credit card" },
+  "resibo": { "replacement": "🧾", "description": "receipt" },
+  "tsart": { "replacement": "💹", "description": "chart increasing with yen" },
+  "email": { "replacement": "✉️", "description": "envelope" },
+  "e-mail": { "replacement": "📧", "description": "e-mail" },
+  "papasok na sobre": {
+    "replacement": "📨",
+    "description": "incoming envelope"
+  },
+  "sobre na may arrow": {
+    "replacement": "📩",
+    "description": "envelope with arrow"
+  },
+  "tray ng outbox": { "replacement": "📤", "description": "outbox tray" },
+  "inbox tray": { "replacement": "📥", "description": "inbox tray" },
+  "pakete": { "replacement": "📦", "description": "package" },
+  "mailbox": {
+    "replacement": "📫",
+    "description": "closed mailbox with raised flag"
+  },
+  "sarado ang mailbox": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "mailbox na may mail": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "mailbox na walang mail": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "post box": { "replacement": "📮", "description": "postbox" },
+  "kahon ng balota": {
+    "replacement": "🗳️",
+    "description": "ballot box with ballot"
+  },
+  "lapis2": { "replacement": "✏️", "description": "pencil" },
+  "itim na nib": { "replacement": "✒️", "description": "black nib" },
+  "bolpen": { "replacement": "🖋️", "description": "fountain pen" },
+  "panulat": { "replacement": "🖊️", "description": "pen" },
+  "pintura": { "replacement": "🖌️", "description": "paintbrush" },
+  "krayola": { "replacement": "🖍️", "description": "crayon" },
+  "memo": { "replacement": "📝", "description": "memo" },
+  "lalagyan": { "replacement": "💼", "description": "briefcase" },
+  "folder ng file": { "replacement": "📁", "description": "file folder" },
+  "buksan ang folder ng file": {
+    "replacement": "📂",
+    "description": "open file folder"
+  },
+  "mga divider ng card index": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "petsa": { "replacement": "📅", "description": "calendar" },
+  "kalendaryo": { "replacement": "📆", "description": "tear-off calendar" },
+  "notal ng spiral": { "replacement": "🗒️", "description": "spiral notepad" },
+  "kalendaryo ng spiral": {
+    "replacement": "🗓️",
+    "description": "spiral calendar"
+  },
+  "Kard ng talatuntunan": { "replacement": "📇", "description": "card index" },
+  "tsart na may paitaas na kalakaran": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "tsart na may pababang takbo": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "bar chart": { "replacement": "📊", "description": "bar chart" },
+  "clipboard": { "replacement": "📋", "description": "clipboard" },
+  "tulak": { "replacement": "📌", "description": "pushpin" },
+  "paikot na pushpin": { "replacement": "📍", "description": "round pushpin" },
+  "pang ipit ng papel": { "replacement": "📎", "description": "paperclip" },
+  "paperclips": { "replacement": "🖇️", "description": "linked paperclips" },
+  "tuwid na pinuno": { "replacement": "📏", "description": "straight ruler" },
+  "tatsulok na pinuno": {
+    "replacement": "📐",
+    "description": "triangular ruler"
+  },
+  "gunting": { "replacement": "✂️", "description": "scissors" },
+  "kahon ng file ng card": {
+    "replacement": "🗃️",
+    "description": "card file box"
+  },
+  "file cabinet": { "replacement": "🗄️", "description": "file cabinet" },
+  "basurahan": { "replacement": "🗑️", "description": "wastebasket" },
+  "magkandado": { "replacement": "🔒", "description": "locked" },
+  "i-unlock": { "replacement": "🔓", "description": "unlocked" },
+  "lock na may tinta pen": {
+    "replacement": "🔏",
+    "description": "locked with pen"
+  },
+  "saradong kandado na may susi": {
+    "replacement": "🔐",
+    "description": "locked with key"
+  },
+  "susi": { "replacement": "🔑", "description": "key" },
+  "old key": { "replacement": "🗝️", "description": "old key" },
+  "martilyo": { "replacement": "🔨", "description": "hammer" },
+  "palakol": { "replacement": "🪓", "description": "axe" },
+  "Pumili": { "replacement": "⛏️", "description": "pick" },
+  "martilyo at pumili": {
+    "replacement": "⚒️",
+    "description": "hammer and pick"
+  },
+  "martilyo at wrench": {
+    "replacement": "🛠️",
+    "description": "hammer and wrench"
+  },
+  "punyal": { "replacement": "🗡️", "description": "dagger" },
+  "tumawid na mga espada": {
+    "replacement": "⚔️",
+    "description": "crossed swords"
+  },
+  "baril": { "replacement": "🔫", "description": "pistol" },
+  "boomerang": { "replacement": "🪃", "description": "boomerang" },
+  "bow at arrow": { "replacement": "🏹", "description": "bow and arrow" },
+  "kalasag": { "replacement": "🛡️", "description": "shield" },
+  "nakita ng karpintero": {
+    "replacement": "🪚",
+    "description": "carpentry saw"
+  },
+  "sapol": { "replacement": "🔧", "description": "wrench" },
+  "distornilyador": { "replacement": "🪛", "description": "screwdriver" },
+  "nut at bolt": { "replacement": "🔩", "description": "nut and bolt" },
+  "gamit": { "replacement": "⚙️", "description": "gear" },
+  "salansan": { "replacement": "🗜️", "description": "clamp" },
+  "sukatan ng balanse": { "replacement": "⚖️", "description": "balance scale" },
+  "nagsisiyasat ng tungkod": {
+    "replacement": "🦯",
+    "description": "white cane"
+  },
+  "link": { "replacement": "🔗", "description": "link" },
+  "mga tanikala": { "replacement": "⛓️", "description": "chains" },
+  "kawit": { "replacement": "🪝", "description": "hook" },
+  "toolbox": { "replacement": "🧰", "description": "toolbox" },
+  "pang-akit": { "replacement": "🧲", "description": "magnet" },
+  "hagdan": { "replacement": "🪜", "description": "ladder" },
+  "alembic": { "replacement": "⚗️", "description": "alembic" },
+  "tubo ng pagsubok": { "replacement": "🧪", "description": "test tube" },
+  "petri dish": { "replacement": "🧫", "description": "petri dish" },
+  "dna": { "replacement": "🧬", "description": "dna" },
+  "mikroskopyo": { "replacement": "🔬", "description": "microscope" },
+  "teleskopyo": { "replacement": "🔭", "description": "telescope" },
+  "satellite": { "replacement": "📡", "description": "satellite antenna" },
+  "hiringgilya": { "replacement": "💉", "description": "syringe" },
+  "patak ng dugo": { "replacement": "🩸", "description": "drop of blood" },
+  "tableta": { "replacement": "💊", "description": "pill" },
+  "malagkit na bendahe": {
+    "replacement": "🩹",
+    "description": "adhesive bandage"
+  },
+  "istetoskopyo": { "replacement": "🩺", "description": "stethoscope" },
+  "pinto": { "replacement": "🚪", "description": "door" },
+  "elevator": { "replacement": "🛗", "description": "elevator" },
+  "salamin": { "replacement": "🪞", "description": "mirror" },
+  "bintana": { "replacement": "🪟", "description": "window" },
+  "kama": { "replacement": "🛏️", "description": "bed" },
+  "sopa at ilawan": { "replacement": "🛋️", "description": "couch and lamp" },
+  "palikuran": { "replacement": "🚽", "description": "toilet" },
+  "plunger": { "replacement": "🪠", "description": "plunger" },
+  "shower": { "replacement": "🚿", "description": "shower" },
+  "bathtub": { "replacement": "🛁", "description": "bathtub" },
+  "bitag ng mouse": { "replacement": "🪤", "description": "mouse trap" },
+  "pang-ahit": { "replacement": "🪒", "description": "razor" },
+  "bote ng losyon": { "replacement": "🧴", "description": "lotion bottle" },
+  "safety pin": { "replacement": "🧷", "description": "safety pin" },
+  "walis": { "replacement": "🧹", "description": "broom" },
+  "basket": { "replacement": "🧺", "description": "basket" },
+  "rolyo ng papel": { "replacement": "🧻", "description": "roll of paper" },
+  "balde": { "replacement": "🪣", "description": "bucket" },
+  "sabon": { "replacement": "🧼", "description": "soap" },
+  "sipilyo ng ngipin": { "replacement": "🪥", "description": "toothbrush" },
+  "punasan ng espongha": { "replacement": "🧽", "description": "sponge" },
+  "pamuksa ng apoy": {
+    "replacement": "🧯",
+    "description": "fire extinguisher"
+  },
+  "shopping cart": { "replacement": "🛒", "description": "shopping cart" },
+  "naninigarilyo": { "replacement": "🚬", "description": "cigarette" },
+  "kabaong": { "replacement": "⚰️", "description": "coffin" },
+  "bato ng ulo": { "replacement": "🪦", "description": "headstone" },
+  "libing ng libing": { "replacement": "⚱️", "description": "funeral urn" },
+  "moyai": { "replacement": "🗿", "description": "moai" },
+  "plakard": { "replacement": "🪧", "description": "placard" },
+  "atm": { "replacement": "🏧", "description": "ATM sign" },
+  "ilagay ang magkalat sa lugar nito": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "inuming tubig": { "replacement": "🚰", "description": "potable water" },
+  "wheelchair": { "replacement": "♿", "description": "wheelchair symbol" },
+  "mens": { "replacement": "🚹", "description": "men’s room" },
+  "mga babae": { "replacement": "🚺", "description": "women’s room" },
+  "banyo": { "replacement": "🚻", "description": "restroom" },
+  "simbolo ng sanggol": { "replacement": "🚼", "description": "baby symbol" },
+  "wc": { "replacement": "🚾", "description": "water closet" },
+  "pagkontrol sa pasaporte": {
+    "replacement": "🛂",
+    "description": "passport control"
+  },
+  "Adwana": { "replacement": "🛃", "description": "customs" },
+  "pag-angkin ng bagahe": {
+    "replacement": "🛄",
+    "description": "baggage claim"
+  },
+  "kaliwang maleta": { "replacement": "🛅", "description": "left luggage" },
+  "babala": { "replacement": "⚠️", "description": "warning" },
+  "tumatawid ang mga bata": {
+    "replacement": "🚸",
+    "description": "children crossing"
+  },
+  "Bawal pumasok": { "replacement": "⛔", "description": "no entry" },
+  "walang entry sign": { "replacement": "🚫", "description": "prohibited" },
+  "walang bisikleta": { "replacement": "🚳", "description": "no bicycles" },
+  "Bawal manigarilyo": { "replacement": "🚭", "description": "no smoking" },
+  "Huwag magkalat": { "replacement": "🚯", "description": "no littering" },
+  "tubig na hindi maiinom": {
+    "replacement": "🚱",
+    "description": "non-potable water"
+  },
+  "Walang tawiran": { "replacement": "🚷", "description": "no pedestrians" },
+  "walang mga mobile phone": {
+    "replacement": "📵",
+    "description": "no mobile phones"
+  },
+  "wala pang edad": {
+    "replacement": "🔞",
+    "description": "no one under eighteen"
+  },
+  "radioactive": { "replacement": "☢️", "description": "radioactive" },
+  "biohazard": { "replacement": "☣️", "description": "biohazard" },
+  "arrow up": { "replacement": "⬆️", "description": "up arrow" },
+  "arrow sa itaas pakanan": {
+    "replacement": "↗️",
+    "description": "up-right arrow"
+  },
+  "tama ang arrow": { "replacement": "➡️", "description": "right arrow" },
+  "palaso pababa sa kanan": {
+    "replacement": "↘️",
+    "description": "down-right arrow"
+  },
+  "arrow down": { "replacement": "⬇️", "description": "down arrow" },
+  "arrow pababa sa kaliwa": {
+    "replacement": "↙️",
+    "description": "down-left arrow"
+  },
+  "naiwan ang arrow": { "replacement": "⬅️", "description": "left arrow" },
+  "arrow sa kaliwang itaas": {
+    "replacement": "↖️",
+    "description": "up-left arrow"
+  },
+  "palaso pataas": { "replacement": "↕️", "description": "up-down arrow" },
+  "kaliwang kanang arrow": {
+    "replacement": "↔️",
+    "description": "left-right arrow"
+  },
+  "pakaliwa arrow na may kawit": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "arrow right hook": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "heading ng arrow": {
+    "replacement": "⤴️",
+    "description": "right arrow curving up"
+  },
+  "pababang arrow": {
+    "replacement": "⤵️",
+    "description": "right arrow curving down"
+  },
+  "palaso ng pakaliwa": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "arrow arrow pakaliwa": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "bumalik": { "replacement": "🔙", "description": "BACK arrow" },
+  "tapusin": { "replacement": "🔚", "description": "END arrow" },
+  "sa": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "malapit na": { "replacement": "🔜", "description": "SOON arrow" },
+  "tuktok": { "replacement": "🔝", "description": "TOP arrow" },
+  "lugar ng pagsamba": {
+    "replacement": "🛐",
+    "description": "place of worship"
+  },
+  "simbolo ng atom": { "replacement": "⚛️", "description": "atom symbol" },
+  "om": { "replacement": "🕉️", "description": "om" },
+  "bituin ni David": { "replacement": "✡️", "description": "star of David" },
+  "gulong ng dharma": { "replacement": "☸️", "description": "wheel of dharma" },
+  "yin yang": { "replacement": "☯️", "description": "yin yang" },
+  "latin cross": { "replacement": "✝️", "description": "latin cross" },
+  "orthodox cross": { "replacement": "☦️", "description": "orthodox cross" },
+  "bituin at gasuklay": {
+    "replacement": "☪️",
+    "description": "star and crescent"
+  },
+  "simbolo ng kapayapaan": {
+    "replacement": "☮️",
+    "description": "peace symbol"
+  },
+  "menorah": { "replacement": "🕎", "description": "menorah" },
+  "anim na matulis na bituin": {
+    "replacement": "🔯",
+    "description": "dotted six-pointed star"
+  },
+  "Aries": { "replacement": "♈", "description": "Aries" },
+  "taurus": { "replacement": "♉", "description": "Taurus" },
+  "gemini": { "replacement": "♊", "description": "Gemini" },
+  "cancer": { "replacement": "♋", "description": "Cancer" },
+  "leo": { "replacement": "♌", "description": "Leo" },
+  "birhen": { "replacement": "♍", "description": "Virgo" },
+  "libra": { "replacement": "♎", "description": "Libra" },
+  "scorpius": { "replacement": "♏", "description": "Scorpio" },
+  "sagittarius": { "replacement": "♐", "description": "Sagittarius" },
+  "capricorn": { "replacement": "♑", "description": "Capricorn" },
+  "aquarius": { "replacement": "♒", "description": "Aquarius" },
+  "pisces": { "replacement": "♓", "description": "Pisces" },
+  "ophiuchus": { "replacement": "⛎", "description": "Ophiuchus" },
+  "baluktot pakanan arrow": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "ulitin": { "replacement": "🔁", "description": "repeat button" },
+  "ulitin ang isa": {
+    "replacement": "🔂",
+    "description": "repeat single button"
+  },
+  "arrow pasulong": { "replacement": "▶️", "description": "play button" },
+  "pasulong na": { "replacement": "⏩", "description": "fast-forward button" },
+  "susunod na pindutan ng track": {
+    "replacement": "⏭️",
+    "description": "next track button"
+  },
+  "pindutan ng pag-play o pag-pause": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "arrow paatras": { "replacement": "◀️", "description": "reverse button" },
+  "pag-rewind": { "replacement": "⏪", "description": "fast reverse button" },
+  "nakaraang pindutan ng track": {
+    "replacement": "⏮️",
+    "description": "last track button"
+  },
+  "maliit na arrow up": {
+    "replacement": "🔼",
+    "description": "upwards button"
+  },
+  "arrow doble": { "replacement": "⏫", "description": "fast up button" },
+  "maliit na arrow down": {
+    "replacement": "🔽",
+    "description": "downwards button"
+  },
+  "palaso ng doble": { "replacement": "⏬", "description": "fast down button" },
+  "pause button": { "replacement": "⏸️", "description": "pause button" },
+  "pindutan ng tigil": { "replacement": "⏹️", "description": "stop button" },
+  "pindutan ng record": { "replacement": "⏺️", "description": "record button" },
+  "pindutan ng eject": { "replacement": "⏏️", "description": "eject button" },
+  "sinehan": { "replacement": "🎦", "description": "cinema" },
+  "mababang ningning": { "replacement": "🔅", "description": "dim button" },
+  "mataas na ningning": { "replacement": "🔆", "description": "bright button" },
+  "Lakas ng signal": { "replacement": "📶", "description": "antenna bars" },
+  "mode ng panginginig ng boses": {
+    "replacement": "📳",
+    "description": "vibration mode"
+  },
+  "naka-off ang mobile phone": {
+    "replacement": "📴",
+    "description": "mobile phone off"
+  },
+  "tanda ng babae": { "replacement": "♀️", "description": "female sign" },
+  "lalaking sign": { "replacement": "♂️", "description": "male sign" },
+  "simbolo ng transgender": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "mabibigat na pagpaparami x": {
+    "replacement": "✖️",
+    "description": "multiply"
+  },
+  "mabigat plus sign": { "replacement": "➕", "description": "plus" },
+  "mabigat na minus sign": { "replacement": "➖", "description": "minus" },
+  "mabigat na pag-sign sign": { "replacement": "➗", "description": "divide" },
+  "kawalang-hanggan": { "replacement": "♾️", "description": "infinity" },
+  "bangbang": { "replacement": "‼️", "description": "double exclamation mark" },
+  "interrobang": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "tanong": { "replacement": "❓", "description": "question mark" },
+  "tanong na grey": {
+    "replacement": "❔",
+    "description": "white question mark"
+  },
+  "bulalas na bulalas": {
+    "replacement": "❕",
+    "description": "white exclamation mark"
+  },
+  "bulalas": { "replacement": "❗", "description": "exclamation mark" },
+  "wavy dash": { "replacement": "〰️", "description": "wavy dash" },
+  "palitan ng pera": {
+    "replacement": "💱",
+    "description": "currency exchange"
+  },
+  "mabigat na dolyar na tanda": {
+    "replacement": "💲",
+    "description": "heavy dollar sign"
+  },
+  "simbolo ng medisina": {
+    "replacement": "⚕️",
+    "description": "medical symbol"
+  },
+  "recycle": { "replacement": "♻️", "description": "recycling symbol" },
+  "fleur de lis": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "trident": { "replacement": "🔱", "description": "trident emblem" },
+  "badge ng pangalan": { "replacement": "📛", "description": "name badge" },
+  "baguhan": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "o": { "replacement": "⭕", "description": "hollow red circle" },
+  "puting tsek": { "replacement": "✅", "description": "check mark button" },
+  "kahon ng balota na may tseke": {
+    "replacement": "☑️",
+    "description": "check box with check"
+  },
+  "mabigat na marka ng tseke": {
+    "replacement": "✔️",
+    "description": "check mark"
+  },
+  "x": { "replacement": "❌", "description": "cross mark" },
+  "negatibong parisukat na marka ng krus": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "kulot na loop": { "replacement": "➰", "description": "curly loop" },
+  "loop": { "replacement": "➿", "description": "double curly loop" },
+  "marka ng paghahalili ng bahagi": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "walong spelled asterisk": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "walong matulis na itim na bituin": {
+    "replacement": "✴️",
+    "description": "eight-pointed star"
+  },
+  "ningning": { "replacement": "❇️", "description": "sparkle" },
+  "copyright": { "replacement": "©️", "description": "copyright" },
+  "nakarehistro": { "replacement": "®️", "description": "registered" },
+  "tm": { "replacement": "™️", "description": "trade mark" },
+  "hash": { "replacement": "#️⃣", "description": "keycap: #" },
+  "asterisk": { "replacement": "*️⃣", "description": "keycap: *" },
+  "zero": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "isa": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "dalawa": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "tatlo": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "apat": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "lima": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "anim": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "pitong": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "walong": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "siyam": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "keycap sampu": { "replacement": "🔟", "description": "keycap: 10" },
+  "capital abcd": {
+    "replacement": "🔠",
+    "description": "input latin uppercase"
+  },
+  "a B C D": { "replacement": "🔡", "description": "input latin lowercase" },
+  "simbolo": { "replacement": "🔣", "description": "input symbols" },
+  "abc": { "replacement": "🔤", "description": "input latin letters" },
+  "a": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "ab": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "b": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "cl": { "replacement": "🆑", "description": "CL button" },
+  "malamig": { "replacement": "🆒", "description": "COOL button" },
+  "libre": { "replacement": "🆓", "description": "FREE button" },
+  "pinagmulan ng impormasyon": {
+    "replacement": "ℹ️",
+    "description": "information"
+  },
+  "id": { "replacement": "🆔", "description": "ID button" },
+  "m": { "replacement": "Ⓜ️", "description": "circled M" },
+  "bago": { "replacement": "🆕", "description": "NEW button" },
+  "ng": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "ok lang": { "replacement": "🆗", "description": "OK button" },
+  "paradahan": { "replacement": "🅿️", "description": "P button" },
+  "sos": { "replacement": "🆘", "description": "SOS button" },
+  "pataas": { "replacement": "🆙", "description": "UP! button" },
+  "vs.": { "replacement": "🆚", "description": "VS button" },
+  "koko": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "kalamangan sa idyograp": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "tanggapin": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "binabati kita": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "lihim": { "replacement": "㊙️", "description": "Japanese “secret” button" },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "pulang bilog": { "replacement": "🔴", "description": "red circle" },
+  "orange na bilog": { "replacement": "🟠", "description": "orange circle" },
+  "dilaw na bilog": { "replacement": "🟡", "description": "yellow circle" },
+  "berdeng bilog": { "replacement": "🟢", "description": "green circle" },
+  "malaking asul na bilog": {
+    "replacement": "🔵",
+    "description": "blue circle"
+  },
+  "lilang bilog": { "replacement": "🟣", "description": "purple circle" },
+  "kayumanggi bilog": { "replacement": "🟤", "description": "brown circle" },
+  "itim na bilog": { "replacement": "⚫", "description": "black circle" },
+  "puting bilog": { "replacement": "⚪", "description": "white circle" },
+  "pulang parisukat": { "replacement": "🟥", "description": "red square" },
+  "orange square": { "replacement": "🟧", "description": "orange square" },
+  "dilaw na parisukat": { "replacement": "🟨", "description": "yellow square" },
+  "berdeng parisukat": { "replacement": "🟩", "description": "green square" },
+  "asul na parisukat": { "replacement": "🟦", "description": "blue square" },
+  "lilang parisukat": { "replacement": "🟪", "description": "purple square" },
+  "brown square": { "replacement": "🟫", "description": "brown square" },
+  "itim na malaking parisukat": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "puting malaking parisukat": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "itim na daluyan ng parisukat": {
+    "replacement": "◼️",
+    "description": "black medium square"
+  },
+  "puting daluyan ng parisukat": {
+    "replacement": "◻️",
+    "description": "white medium square"
+  },
+  "itim na daluyan maliit na parisukat": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "puting daluyan maliit na parisukat": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "itim na maliit na parisukat": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "puting maliit na parisukat": {
+    "replacement": "▫️",
+    "description": "white small square"
+  },
+  "malaking orange na brilyante": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "malaking asul na brilyante": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "maliit na orange na brilyante": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "maliit na asul na brilyante": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "maliit na pulang tatsulok": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "maliit na pulang tatsulok pababa": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "brilyante na hugis na may tuldok sa loob": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "pindutan ng radyo": { "replacement": "🔘", "description": "radio button" },
+  "puting square button": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "itim na pindutan ng parisukat": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "may takip na watawat": {
+    "replacement": "🏁",
+    "description": "chequered flag"
+  },
+  "tatsulok na watawat sa post": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "tumawid na mga watawat": {
+    "replacement": "🎌",
+    "description": "crossed flags"
+  },
+  "itim na bandila": { "replacement": "🏴", "description": "black flag" },
+  "puting watawat": { "replacement": "🏳️", "description": "white flag" },
+  "bandila ng bahaghari": {
+    "replacement": "🏳️‍🌈",
+    "description": "rainbow flag"
+  },
+  "watawat ng transgender": {
+    "replacement": "🏳️‍⚧️",
+    "description": "transgender flag"
+  },
+  "watawat ng pirata": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "pag-akyat na isla": {
+    "replacement": "🇦🇨",
+    "description": "flag: Ascension Island"
+  },
+  "andorra": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "united emirates ng arab": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "afghanistan": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "antigua barbuda": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "anguilla": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "albania": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "armenia": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "angola": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "antarctica": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "argentina": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "American Samoa": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "austria": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "australia": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "aruba": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "mga isla ng aland": {
+    "replacement": "🇦🇽",
+    "description": "flag: Åland Islands"
+  },
+  "azerbaijan": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "bosnia herzegovina": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "mga barbado": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "banglatera": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "belgian": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "burkina faso": { "replacement": "🇧🇫", "description": "flag: Burkina Faso" },
+  "bulgaria": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "bahrain": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "burundi": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "benin": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "st barthelemy": {
+    "replacement": "🇧🇱",
+    "description": "flag: St. Barthélemy"
+  },
+  "bermuda": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "brunei": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "bolivia": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "caribbean netherlands": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "brazil": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "bahamas": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "Bhutan": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "isla ng bouvet": {
+    "replacement": "🇧🇻",
+    "description": "flag: Bouvet Island"
+  },
+  "botswana": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "belarus": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "belize": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "canada": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "mga isla ng cocos": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "congo kinshasa": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "sentral na republika ng african": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "congo brazzaville": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "Switzerland": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "cote divoire": { "replacement": "🇨🇮", "description": "flag: Côte d’Ivoire" },
+  "mga Isla ng Cook": {
+    "replacement": "🇨🇰",
+    "description": "flag: Cook Islands"
+  },
+  "chile": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "cameroon": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "cn": { "replacement": "🇨🇳", "description": "flag: China" },
+  "colombia": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "isla ng clipperton": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "costa rica": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "cuba": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "cape verde": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "curacao": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "isla ng pasko": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "cyprus": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "republika ng Czech": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "de": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "diego garcia": { "replacement": "🇩🇬", "description": "flag: Diego Garcia" },
+  "djibouti": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "denmark": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "dominica": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "Dominican Republic": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "algeria": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "ceuta melilla": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "ecuador": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "estonia": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "Egypt": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "kanlurang sahara": {
+    "replacement": "🇪🇭",
+    "description": "flag: Western Sahara"
+  },
+  "eritrea": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "es": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "ethiopia": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "eu": { "replacement": "🇪🇺", "description": "flag: European Union" },
+  "finland": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "fiji": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "mga isla ng Falkland": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "micronesia": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "isla ng Faroe": {
+    "replacement": "🇫🇴",
+    "description": "flag: Faroe Islands"
+  },
+  "fr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "gabon": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "gb": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "granada": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "georgia": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "French Guiana": {
+    "replacement": "🇬🇫",
+    "description": "flag: French Guiana"
+  },
+  "guernsey": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "ghana": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "gibraltar": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "greenland": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "gambia": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "guinea": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "guadeloupe": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "equatorial guinea": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "greece": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "timog georgia timog mga isla ng sandwich": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "guatemala": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "guam": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "guinea bissau": {
+    "replacement": "🇬🇼",
+    "description": "flag: Guinea-Bissau"
+  },
+  "guyana": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "Hong Kong": {
+    "replacement": "🇭🇰",
+    "description": "flag: Hong Kong SAR China"
+  },
+  "narinig ang mga isla ng mcdonald": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "honduras": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "croatia": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "haiti": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "nagugutom": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "isla ng Canary": {
+    "replacement": "🇮🇨",
+    "description": "flag: Canary Islands"
+  },
+  "indonesia": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "ireland": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "israel": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "isla ng tao": { "replacement": "🇮🇲", "description": "flag: Isle of Man" },
+  "india": { "replacement": "🇮🇳", "description": "flag: India" },
+  "teritoryo ng karagatan ng India": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "iraq": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "iran": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "isla": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "ito": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "jersey": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "jamaica": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "jordan": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "jp": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "kenya": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "kyrgyzstan": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "cambodia": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "kiribati": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "comoros": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "st kitts nevis": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "Hilagang Korea": { "replacement": "🇰🇵", "description": "flag: North Korea" },
+  "kr": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "kuwait": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "mga isla ng cayman": {
+    "replacement": "🇰🇾",
+    "description": "flag: Cayman Islands"
+  },
+  "kazakhstan": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "laos": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "lebanon": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "st lucia": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "liechtenstein": {
+    "replacement": "🇱🇮",
+    "description": "flag: Liechtenstein"
+  },
+  "Sri Lanka": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "liberia": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "lesotho": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "lithuania": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "Luxembourg": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "latvia": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "libya": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "morocco": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "monaco": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "moldova": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "montenegro": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "st martin": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "madagascar": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "mga isla ng marshall": {
+    "replacement": "🇲🇭",
+    "description": "flag: Marshall Islands"
+  },
+  "macedonia": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "mali": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "myanmar": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "mongolia": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "macau": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "mga isla ng hilagang mariana": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "martinique": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "mauritania": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "montserrat": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "malta": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "mauritius": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "maldives": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "malawi": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "mexico": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "malaysia": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "mozambique": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "namibia": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "bagong caledonia": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "niger": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "isla ng norfolk": {
+    "replacement": "🇳🇫",
+    "description": "flag: Norfolk Island"
+  },
+  "nigeria": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "nikaragua": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "mga lupain": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "norway": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "nepal": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "nauru": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "niue": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "new zealand": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "oman": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "panama": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "peru": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "french polynesia": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "Papua New Guinea": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "pilipinas": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "pakistan": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "poland": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "st pierre miquelon": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "mga isla ng pitcairn": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "puerto rico": { "replacement": "🇵🇷", "description": "flag: Puerto Rico" },
+  "teritoryo ng palestinyo": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "portugal": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "palau": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "paraguay": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "qatar": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "muling pagkikita": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "romania": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "serbia": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "ru": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "rwanda": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "saudi arabia": { "replacement": "🇸🇦", "description": "flag: Saudi Arabia" },
+  "Solomon Islands": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "seychelles": { "replacement": "🇸🇨", "description": "flag: Seychelles" },
+  "sudan": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "Sweden": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "singapore": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "st helena": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "slovenia": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "svalbard jan mayen": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "slovakia": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "sierra leone": { "replacement": "🇸🇱", "description": "flag: Sierra Leone" },
+  "san marino": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "senegal": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "somalia": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "suriname": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "timog sudan": { "replacement": "🇸🇸", "description": "flag: South Sudan" },
+  "sao tome principe": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "El Salvador": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "sint maarten": { "replacement": "🇸🇽", "description": "flag: Sint Maarten" },
+  "syria": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "swaziland": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "tristan da cunha": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "mga isla ng caicos": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "si chad": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "french southern teritoryo": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "togo": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "thailand": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "tajikistan": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "tokelau": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "timor leste": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "turkmenistan": { "replacement": "🇹🇲", "description": "flag: Turkmenistan" },
+  "tunisia": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "Tonga": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "tr": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "trinidad tobago": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "tuvalu": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "taiwan": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "tanzania": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "ukraina": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "uganda": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "sa amin sa labas ng mga isla": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "Nagkakaisang Bansa": {
+    "replacement": "🇺🇳",
+    "description": "flag: United Nations"
+  },
+  "tayo": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "uruguay": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "uzbekistan": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "lungsod ng vatican": {
+    "replacement": "🇻🇦",
+    "description": "flag: Vatican City"
+  },
+  "st vincent grenadines": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "venezuela": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "mga isla ng birhen ng britanya": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "kaming mga isla ng birhen": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "vietnam": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "vanuatu": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "wallis futuna": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "samoa": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "kosovo": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "yemen": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "mayotte": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "Timog Africa": { "replacement": "🇿🇦", "description": "flag: South Africa" },
+  "zambia": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "zimbabwe": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "Inglatera": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "Eskosya": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "wales": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

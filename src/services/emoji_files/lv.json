@@ -1,0 +1,3057 @@
+{
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "smaidot": { "replacement": "😀", "description": "grinning face" },
+  "smaidiņš": {
+    "replacement": "😃",
+    "description": "grinning face with big eyes"
+  },
+  "smaids": {
+    "replacement": "😄",
+    "description": "grinning face with smiling eyes"
+  },
+  "smīnēt": {
+    "replacement": "😁",
+    "description": "beaming face with smiling eyes"
+  },
+  "smejoties": {
+    "replacement": "😆",
+    "description": "grinning squinting face"
+  },
+  "sviedru smaids": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "prieks": { "replacement": "😂", "description": "face with tears of joy" },
+  "viegli smaidoša seja": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "seja otrādi": { "replacement": "🙃", "description": "upside-down face" },
+  "piemiedz": { "replacement": "😉", "description": "winking face" },
+  "sarkt": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "nevainīgs": { "replacement": "😇", "description": "smiling face with halo" },
+  "smaidoša seja ar trim sirdīm": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "sirds acis": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "zvaigzne skāra": { "replacement": "🤩", "description": "star-struck" },
+  "skūpstoša sirds": {
+    "replacement": "😘",
+    "description": "face blowing a kiss"
+  },
+  "skūpstīšanās": { "replacement": "😗", "description": "kissing face" },
+  "atvieglinātas": { "replacement": "☺️", "description": "smiling face" },
+  "skūpstot aizvērtas acis": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "skūpstot smaidīgas acis": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "smaidoša seja ar asarām": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "yum": { "replacement": "😋", "description": "face savoring food" },
+  "izspiesta mēle": { "replacement": "😛", "description": "face with tongue" },
+  "iestrēdzis mēles acis": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "zany seja": { "replacement": "🤪", "description": "zany face" },
+  "izbāzta mēle aizvērtām acīm": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "naudas mute seja": {
+    "replacement": "🤑",
+    "description": "money-mouth face"
+  },
+  "apskāvieni": { "replacement": "🤗", "description": "hugging face" },
+  "nodod muti": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "seja": { "replacement": "🤫", "description": "shushing face" },
+  "domāšana": { "replacement": "🤔", "description": "thinking face" },
+  "rāvējslēdzēja mutes seja": {
+    "replacement": "🤐",
+    "description": "zipper-mouth face"
+  },
+  "pacelta uzacs": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "neitrāla seja": { "replacement": "😐", "description": "neutral face" },
+  "bez izteiksmes": {
+    "replacement": "😑",
+    "description": "expressionless face"
+  },
+  "nav mutes": { "replacement": "😶", "description": "face without mouth" },
+  "pasmīnēt": { "replacement": "😏", "description": "smirking face" },
+  "neizmantots": { "replacement": "😒", "description": "unamused face" },
+  "saritināt acis": {
+    "replacement": "🙄",
+    "description": "face with rolling eyes"
+  },
+  "grimases": { "replacement": "😬", "description": "grimacing face" },
+  "melīga seja": { "replacement": "🤥", "description": "lying face" },
+  "atvieglots": { "replacement": "😌", "description": "relieved face" },
+  "domīgs": { "replacement": "😔", "description": "pensive face" },
+  "miegains": { "replacement": "😪", "description": "sleepy face" },
+  "nosmakusi seja": { "replacement": "🤤", "description": "drooling face" },
+  "guļot": { "replacement": "😴", "description": "sleeping face" },
+  "maska": { "replacement": "😷", "description": "face with medical mask" },
+  "seja ar termometru": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "seja ar galvas pārsēju": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "slikta dūša": { "replacement": "🤢", "description": "nauseated face" },
+  "vemjoša seja": { "replacement": "🤮", "description": "face vomiting" },
+  "šķaudoša seja": { "replacement": "🤧", "description": "sneezing face" },
+  "karsta seja": { "replacement": "🥵", "description": "hot face" },
+  "auksta seja": { "replacement": "🥶", "description": "cold face" },
+  "šausmīga seja": { "replacement": "🥴", "description": "woozy face" },
+  "reibstoša seja": { "replacement": "😵", "description": "dizzy face" },
+  "eksplodējoša galva": {
+    "replacement": "🤯",
+    "description": "exploding head"
+  },
+  "kovboju cepures seja": {
+    "replacement": "🤠",
+    "description": "cowboy hat face"
+  },
+  "ballīšu seja": { "replacement": "🥳", "description": "partying face" },
+  "nomaskēta seja": { "replacement": "🥸", "description": "disguised face" },
+  "saulesbrilles": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "nerd seja": { "replacement": "🤓", "description": "nerd face" },
+  "monokļa seja": { "replacement": "🧐", "description": "face with monocle" },
+  "apjucis": { "replacement": "😕", "description": "confused face" },
+  "noraizējies": { "replacement": "😟", "description": "worried face" },
+  "nedaudz saraukta seja": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "sarauktā seja": { "replacement": "☹️", "description": "frowning face" },
+  "atvērta mute": {
+    "replacement": "😮",
+    "description": "face with open mouth"
+  },
+  "pieklusis": { "replacement": "😯", "description": "hushed face" },
+  "pārsteigts": { "replacement": "😲", "description": "astonished face" },
+  "pietvīka": { "replacement": "😳", "description": "flushed face" },
+  "lūdzoša seja": { "replacement": "🥺", "description": "pleading face" },
+  "saraucis pieri": { "replacement": "🙍", "description": "person frowning" },
+  "nomocīts": { "replacement": "😧", "description": "anguished face" },
+  "bailīgs": { "replacement": "😨", "description": "fearful face" },
+  "auksti sviedri": {
+    "replacement": "😰",
+    "description": "anxious face with sweat"
+  },
+  "vīlušies atviegloti": {
+    "replacement": "😥",
+    "description": "sad but relieved face"
+  },
+  "raudāt": { "replacement": "😢", "description": "crying face" },
+  "šņukstēt": { "replacement": "😭", "description": "loudly crying face" },
+  "kliedz": { "replacement": "😱", "description": "face screaming in fear" },
+  "apjukusi": { "replacement": "😖", "description": "confounded face" },
+  "neatlaidīgi": { "replacement": "😣", "description": "persevering face" },
+  "vīlušies": { "replacement": "😞", "description": "disappointed face" },
+  "sviedri": { "replacement": "😓", "description": "downcast face with sweat" },
+  "noguris": { "replacement": "😩", "description": "weary face" },
+  "nogurusi seja": { "replacement": "😫", "description": "tired face" },
+  "žāvājoša seja": { "replacement": "🥱", "description": "yawning face" },
+  "triumfs": {
+    "replacement": "😤",
+    "description": "face with steam from nose"
+  },
+  "dusmas": { "replacement": "💢", "description": "anger symbol" },
+  "dusmīgs": { "replacement": "😠", "description": "angry face" },
+  "lamājoša seja": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "smaidīgs imp": {
+    "replacement": "😈",
+    "description": "smiling face with horns"
+  },
+  "imp": { "replacement": "👿", "description": "angry face with horns" },
+  "galvaskauss": { "replacement": "💀", "description": "skull" },
+  "galvaskauss un krustu kauli": {
+    "replacement": "☠️",
+    "description": "skull and crossbones"
+  },
+  "Hankey": { "replacement": "💩", "description": "pile of poo" },
+  "klauna seja": { "replacement": "🤡", "description": "clown face" },
+  "japāņu ogre": { "replacement": "👹", "description": "ogre" },
+  "japāņu goblin": { "replacement": "👺", "description": "goblin" },
+  "spoks": { "replacement": "👻", "description": "ghost" },
+  "citplanētietis": { "replacement": "👽", "description": "alien" },
+  "kosmosa iebrucējs": { "replacement": "👾", "description": "alien monster" },
+  "robots": { "replacement": "🤖", "description": "robot" },
+  "smaidīgs kaķis": { "replacement": "😺", "description": "grinning cat" },
+  "smaida kaķis": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "prieka kaķis": {
+    "replacement": "😹",
+    "description": "cat with tears of joy"
+  },
+  "sirds acis kaķis": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "pasmīn kaķis": { "replacement": "😼", "description": "cat with wry smile" },
+  "skūpstās kaķi": { "replacement": "😽", "description": "kissing cat" },
+  "kliedz kaķis": { "replacement": "🙀", "description": "weary cat" },
+  "raudoša kaķa seja": { "replacement": "😿", "description": "crying cat" },
+  "pouting cat": { "replacement": "😾", "description": "pouting cat" },
+  "neredzi ļaunu": { "replacement": "🙈", "description": "see-no-evil monkey" },
+  "nedzird ļaunu": {
+    "replacement": "🙉",
+    "description": "hear-no-evil monkey"
+  },
+  "nerunā ļaunu": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "skūpsts": { "replacement": "💋", "description": "kiss mark" },
+  "mīlestības vēstule": { "replacement": "💌", "description": "love letter" },
+  "cupid": { "replacement": "💘", "description": "heart with arrow" },
+  "dāvanu sirds": { "replacement": "💝", "description": "heart with ribbon" },
+  "dzirkstoša sirds": { "replacement": "💖", "description": "sparkling heart" },
+  "sirdsdarbība": { "replacement": "💓", "description": "beating heart" },
+  "rotējošas sirdis": {
+    "replacement": "💞",
+    "description": "revolving hearts"
+  },
+  "divas sirdis": { "replacement": "💕", "description": "two hearts" },
+  "sirds rotājumi": { "replacement": "💟", "description": "heart decoration" },
+  "smags sirds izsaukums": {
+    "replacement": "❣️",
+    "description": "heart exclamation"
+  },
+  "salauzta sirds": { "replacement": "💔", "description": "broken heart" },
+  "sirds": { "replacement": "❤️", "description": "red heart" },
+  "oranža sirds": { "replacement": "🧡", "description": "orange heart" },
+  "dzeltena sirds": { "replacement": "💛", "description": "yellow heart" },
+  "zaļa sirds": { "replacement": "💚", "description": "green heart" },
+  "zila sirds": { "replacement": "💙", "description": "blue heart" },
+  "violeta sirds": { "replacement": "💜", "description": "purple heart" },
+  "brūna sirds": { "replacement": "🤎", "description": "brown heart" },
+  "melna sirds": { "replacement": "🖤", "description": "black heart" },
+  "balta sirds": { "replacement": "🤍", "description": "white heart" },
+  "bums": { "replacement": "💥", "description": "collision" },
+  "reibst galva": { "replacement": "💫", "description": "dizzy" },
+  "sviedru pilieni": { "replacement": "💦", "description": "sweat droplets" },
+  "domuzīme": { "replacement": "💨", "description": "dashing away" },
+  "caurums": { "replacement": "🕳️", "description": "hole" },
+  "bumba": { "replacement": "💣", "description": "bomb" },
+  "runas balons": { "replacement": "💬", "description": "speech balloon" },
+  "acu runas burbulis": {
+    "replacement": "👁️‍🗨️",
+    "description": "eye in speech bubble"
+  },
+  "kreisais runas burbulis": {
+    "replacement": "🗨️",
+    "description": "left speech bubble"
+  },
+  "pareizais dusmu burbulis": {
+    "replacement": "🗯️",
+    "description": "right anger bubble"
+  },
+  "domu balons": { "replacement": "💭", "description": "thought balloon" },
+  "zzz": { "replacement": "💤", "description": "zzz" },
+  "vilnis": { "replacement": "👋", "description": "waving hand" },
+  "pacelta rokas aizmugurē": {
+    "replacement": "🤚",
+    "description": "raised back of hand"
+  },
+  "pacelta roka ar izplestiem pirkstiem": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "roka": { "replacement": "✋", "description": "raised hand" },
+  "vulkāna salūts": { "replacement": "🖖", "description": "vulcan salute" },
+  "ok roka": { "replacement": "👌", "description": "OK hand" },
+  "saspiesti pirksti": { "replacement": "🤌", "description": "pinched fingers" },
+  "saspiežot roku": { "replacement": "🤏", "description": "pinching hand" },
+  "v": { "replacement": "✌️", "description": "victory hand" },
+  "sakrustoti pirksti": {
+    "replacement": "🤞",
+    "description": "crossed fingers"
+  },
+  "mīlu tevi žests": { "replacement": "🤟", "description": "love-you gesture" },
+  "metāls": { "replacement": "🤘", "description": "sign of the horns" },
+  "sauc mani par roku": { "replacement": "🤙", "description": "call me hand" },
+  "punkts pa kreisi": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "punkts pa labi": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "2. punkts uz augšu": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "Vidējais pirksts": { "replacement": "🖕", "description": "middle finger" },
+  "norādīt uz leju": {
+    "replacement": "👇",
+    "description": "backhand index pointing down"
+  },
+  "norādīt uz augšu": {
+    "replacement": "☝️",
+    "description": "index pointing up"
+  },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "dūri pacēla": { "replacement": "✊", "description": "raised fist" },
+  "dūri pretī": { "replacement": "👊", "description": "oncoming fist" },
+  "dūri pa kreisi": { "replacement": "🤛", "description": "left-facing fist" },
+  "dūri pareizi": { "replacement": "🤜", "description": "right-facing fist" },
+  "aplaudēt": { "replacement": "👏", "description": "clapping hands" },
+  "paceltas rokas": { "replacement": "🙌", "description": "raising hands" },
+  "atvērtas rokas": { "replacement": "👐", "description": "open hands" },
+  "plaukstas uz augšu kopā": {
+    "replacement": "🤲",
+    "description": "palms up together"
+  },
+  "rokasspiediens": { "replacement": "🤝", "description": "handshake" },
+  "lūgties": { "replacement": "🙏", "description": "folded hands" },
+  "rakstīšanas roka": { "replacement": "✍️", "description": "writing hand" },
+  "nagu kopšana": { "replacement": "💅", "description": "nail polish" },
+  "selfijs": { "replacement": "🤳", "description": "selfie" },
+  "muskuļi": { "replacement": "💪", "description": "flexed biceps" },
+  "mehāniskā roka": { "replacement": "🦾", "description": "mechanical arm" },
+  "mehāniskā kāja": { "replacement": "🦿", "description": "mechanical leg" },
+  "kāja": { "replacement": "🦵", "description": "leg" },
+  "kāju": { "replacement": "🦶", "description": "foot" },
+  "auss": { "replacement": "👂", "description": "ear" },
+  "auss ar dzirdes aparātu": {
+    "replacement": "🦻",
+    "description": "ear with hearing aid"
+  },
+  "deguns": { "replacement": "👃", "description": "nose" },
+  "smadzenes": { "replacement": "🧠", "description": "brain" },
+  "anatomiskā sirds": { "replacement": "🫀", "description": "anatomical heart" },
+  "plaušas": { "replacement": "🫁", "description": "lungs" },
+  "zobs": { "replacement": "🦷", "description": "tooth" },
+  "kauls": { "replacement": "🦴", "description": "bone" },
+  "acis": { "replacement": "👀", "description": "eyes" },
+  "acs": { "replacement": "👁️", "description": "eye" },
+  "mēle": { "replacement": "👅", "description": "tongue" },
+  "lūpas": { "replacement": "👄", "description": "mouth" },
+  "mazulis": { "replacement": "👶", "description": "baby" },
+  "bērns": { "replacement": "🧒", "description": "child" },
+  "zēns": { "replacement": "👦", "description": "boy" },
+  "meitene": { "replacement": "👧", "description": "girl" },
+  "pieaugušais": { "replacement": "🧑", "description": "person" },
+  "gaišmatains cilvēks": {
+    "replacement": "👱",
+    "description": "person: blond hair"
+  },
+  "cilvēks": { "replacement": "🧜‍♂️", "description": "merman" },
+  "bārdains cilvēks": { "replacement": "🧔", "description": "man: beard" },
+  "rudmatis vīrietis": { "replacement": "👨‍🦰", "description": "man: red hair" },
+  "cirtaini matains cilvēks": {
+    "replacement": "👨‍🦱",
+    "description": "man: curly hair"
+  },
+  "balts matains cilvēks": {
+    "replacement": "👨‍🦳",
+    "description": "man: white hair"
+  },
+  "kails cilvēks": { "replacement": "👨‍🦲", "description": "man: bald" },
+  "sieviete": { "replacement": "👩", "description": "woman" },
+  "rudmataina sieviete": {
+    "replacement": "👩‍🦰",
+    "description": "woman: red hair"
+  },
+  "personai sarkani mati": {
+    "replacement": "🧑‍🦰",
+    "description": "person: red hair"
+  },
+  "cirtaini mataina sieviete": {
+    "replacement": "👩‍🦱",
+    "description": "woman: curly hair"
+  },
+  "cilvēks cirtaini mati": {
+    "replacement": "🧑‍🦱",
+    "description": "person: curly hair"
+  },
+  "balta mataina sieviete": {
+    "replacement": "👩‍🦳",
+    "description": "woman: white hair"
+  },
+  "persona balti mati": {
+    "replacement": "🧑‍🦳",
+    "description": "person: white hair"
+  },
+  "plika sieviete": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "cilvēks kails": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "gaišmataina sieviete": {
+    "replacement": "👱‍♀️",
+    "description": "woman: blond hair"
+  },
+  "gaišmatains vīrietis": {
+    "replacement": "👱‍♂️",
+    "description": "man: blond hair"
+  },
+  "vecāks pieaugušais": { "replacement": "🧓", "description": "older person" },
+  "vecāks vīrietis": { "replacement": "👴", "description": "old man" },
+  "vecāka sieviete": { "replacement": "👵", "description": "old woman" },
+  "saraucis pieri cilvēks": {
+    "replacement": "🙍‍♂️",
+    "description": "man frowning"
+  },
+  "saraucoša uzacis sieviete": {
+    "replacement": "🙍‍♀️",
+    "description": "woman frowning"
+  },
+  "ņurdoša seja": { "replacement": "🙎", "description": "person pouting" },
+  "pouting cilvēks": { "replacement": "🙎‍♂️", "description": "man pouting" },
+  "pouting sieviete": { "replacement": "🙎‍♀️", "description": "woman pouting" },
+  "nav labi": { "replacement": "🙅", "description": "person gesturing NO" },
+  "nav laba cilvēka": {
+    "replacement": "🙅‍♂️",
+    "description": "man gesturing NO"
+  },
+  "nav laba sieviete": {
+    "replacement": "🙅‍♀️",
+    "description": "woman gesturing NO"
+  },
+  "labi cilvēks": { "replacement": "🙆", "description": "person gesturing OK" },
+  "labi, cilvēks": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "labi sieviete": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "apgāžama roka cilvēks": {
+    "replacement": "💁",
+    "description": "person tipping hand"
+  },
+  "noliekamais roku cilvēks": {
+    "replacement": "💁‍♂️",
+    "description": "man tipping hand"
+  },
+  "apgāžama roka sieviete": {
+    "replacement": "💁‍♀️",
+    "description": "woman tipping hand"
+  },
+  "paceļot roku": { "replacement": "🙋", "description": "person raising hand" },
+  "paceļot roku cilvēks": {
+    "replacement": "🙋‍♂️",
+    "description": "man raising hand"
+  },
+  "pacelt roku sieviete": {
+    "replacement": "🙋‍♀️",
+    "description": "woman raising hand"
+  },
+  "nedzirdīgs cilvēks": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "nedzirdīga sieviete": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "priekšgala": { "replacement": "🙇", "description": "person bowing" },
+  "klanās cilvēks": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "locījusies sieviete": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "facepalm": { "replacement": "🤦", "description": "person facepalming" },
+  "cilvēks sejas balzams": {
+    "replacement": "🤦‍♂️",
+    "description": "man facepalming"
+  },
+  "sieviete, facepalming": {
+    "replacement": "🤦‍♀️",
+    "description": "woman facepalming"
+  },
+  "paraustīt plecus": {
+    "replacement": "🤷",
+    "description": "person shrugging"
+  },
+  "vīrietis parausta plecus": {
+    "replacement": "🤷‍♂️",
+    "description": "man shrugging"
+  },
+  "sieviete parausta plecus": {
+    "replacement": "🤷‍♀️",
+    "description": "woman shrugging"
+  },
+  "veselības darbinieks": {
+    "replacement": "🧑‍⚕️",
+    "description": "health worker"
+  },
+  "vīrietis veselības darbinieks": {
+    "replacement": "👨‍⚕️",
+    "description": "man health worker"
+  },
+  "sieviete veselības aprūpes darbinieks": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "students": { "replacement": "🧑‍🎓", "description": "student" },
+  "vīrietis students": { "replacement": "👨‍🎓", "description": "man student" },
+  "sieviete studente": { "replacement": "👩‍🎓", "description": "woman student" },
+  "skolotājs": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "cilvēks skolotājs": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "sieviete skolotāja": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "tiesnesis": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "cilvēks tiesnesis": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "sieviete tiesnese": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "zemnieks": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "vīrietis lauksaimnieks": {
+    "replacement": "👨‍🌾",
+    "description": "man farmer"
+  },
+  "sieviete zemniece": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "pavārs": { "replacement": "🧑‍🍳", "description": "cook" },
+  "cilvēks pavārs": { "replacement": "👨‍🍳", "description": "man cook" },
+  "sieviete pavārs": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "mehāniķis": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "cilvēks mehāniķis": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "sieviete mehāniķe": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "rūpnīcas strādnieks": {
+    "replacement": "🧑‍🏭",
+    "description": "factory worker"
+  },
+  "vīrietis fabrikas darbinieks": {
+    "replacement": "👨‍🏭",
+    "description": "man factory worker"
+  },
+  "sieviete fabrikas darbiniece": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "biroja darbinieks": {
+    "replacement": "🧑‍💼",
+    "description": "office worker"
+  },
+  "vīrietis biroja darbinieks": {
+    "replacement": "👨‍💼",
+    "description": "man office worker"
+  },
+  "sieviete, biroja darbiniece": {
+    "replacement": "👩‍💼",
+    "description": "woman office worker"
+  },
+  "zinātnieks": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "cilvēks zinātnieks": { "replacement": "👨‍🔬", "description": "man scientist" },
+  "sieviete zinātniece": {
+    "replacement": "👩‍🔬",
+    "description": "woman scientist"
+  },
+  "tehnologs": { "replacement": "🧑‍💻", "description": "technologist" },
+  "cilvēks tehnologs": {
+    "replacement": "👨‍💻",
+    "description": "man technologist"
+  },
+  "sieviete tehnoloģe": {
+    "replacement": "👩‍💻",
+    "description": "woman technologist"
+  },
+  "dziedātāja": { "replacement": "🧑‍🎤", "description": "singer" },
+  "vīrietis dziedātājs": { "replacement": "👨‍🎤", "description": "man singer" },
+  "sieviete dziedātāja": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "mākslinieks": { "replacement": "🧑‍🎨", "description": "artist" },
+  "cilvēks mākslinieks": { "replacement": "👨‍🎨", "description": "man artist" },
+  "māksliniece": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "pilots": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "cilvēks pilots": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "sieviete pilote": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "astronauts": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "cilvēks astronauts": { "replacement": "👨‍🚀", "description": "man astronaut" },
+  "sieviete astronaute": {
+    "replacement": "👩‍🚀",
+    "description": "woman astronaut"
+  },
+  "ugunsdzēsējs": { "replacement": "🧑‍🚒", "description": "firefighter" },
+  "vīrietis ugunsdzēsējs": {
+    "replacement": "👨‍🚒",
+    "description": "man firefighter"
+  },
+  "sieviete ugunsdzēsēja": {
+    "replacement": "👩‍🚒",
+    "description": "woman firefighter"
+  },
+  "policists": { "replacement": "👮‍♂️", "description": "man police officer" },
+  "policiste": { "replacement": "👮‍♀️", "description": "woman police officer" },
+  "detektīvs": { "replacement": "🕵️", "description": "detective" },
+  "vīriešu detektīvs": { "replacement": "🕵️‍♂️", "description": "man detective" },
+  "sieviešu detektīvs": {
+    "replacement": "🕵️‍♀️",
+    "description": "woman detective"
+  },
+  "sargs": { "replacement": "💂‍♂️", "description": "man guard" },
+  "aizsargs": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "ninja": { "replacement": "🥷", "description": "ninja" },
+  "celtnieks": { "replacement": "👷", "description": "construction worker" },
+  "celtnieks strādnieks": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "celtniecības sieviete": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "princis": { "replacement": "🤴", "description": "prince" },
+  "princese": { "replacement": "👸", "description": "princess" },
+  "persona ar turbānu": {
+    "replacement": "👳",
+    "description": "person wearing turban"
+  },
+  "vīrietis ar turbānu": {
+    "replacement": "👳‍♂️",
+    "description": "man wearing turban"
+  },
+  "sieviete ar turbānu": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "vīrietis ar gua pi mao": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "sieviete ar lakatu": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "cilvēks smokings": {
+    "replacement": "🤵",
+    "description": "person in tuxedo"
+  },
+  "vīrietis smokings": {
+    "replacement": "🤵‍♂️",
+    "description": "man in tuxedo"
+  },
+  "sieviete smokings": {
+    "replacement": "🤵‍♀️",
+    "description": "woman in tuxedo"
+  },
+  "cilvēks ar plīvuru": {
+    "replacement": "👰‍♂️",
+    "description": "man with veil"
+  },
+  "sieviete ar plīvuru": {
+    "replacement": "👰‍♀️",
+    "description": "woman with veil"
+  },
+  "sieviete stāvoklī": { "replacement": "🤰", "description": "pregnant woman" },
+  "barošana ar krūti": { "replacement": "🤱", "description": "breast-feeding" },
+  "sieviete baro bērnu": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "vīrietis baro bērnu": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "persona, kas baro bērnu": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "eņģelis": { "replacement": "👼", "description": "baby angel" },
+  "santa": { "replacement": "🎅", "description": "Santa Claus" },
+  "kundze klausi": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "mx klauzula": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "supervaronis": { "replacement": "🦸", "description": "superhero" },
+  "superhero cilvēks": { "replacement": "🦸‍♂️", "description": "man superhero" },
+  "supervaroņu sieviete": {
+    "replacement": "🦸‍♀️",
+    "description": "woman superhero"
+  },
+  "supervillain": { "replacement": "🦹", "description": "supervillain" },
+  "supervillain cilvēks": {
+    "replacement": "🦹‍♂️",
+    "description": "man supervillain"
+  },
+  "supervillain sieviete": {
+    "replacement": "🦹‍♀️",
+    "description": "woman supervillain"
+  },
+  "mags": { "replacement": "🧙", "description": "mage" },
+  "mags cilvēks": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "burvju sieviete": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "pasaku": { "replacement": "🧚", "description": "fairy" },
+  "pasaku cilvēks": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "pasaku sieviete": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "vampīrs": { "replacement": "🧛", "description": "vampire" },
+  "vīrietis vampīrs": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "vampīru sieviete": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "tirgotājs": { "replacement": "🧜", "description": "merperson" },
+  "nāra": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "elfs": { "replacement": "🧝", "description": "elf" },
+  "elfs cilvēks": { "replacement": "🧝‍♂️", "description": "man elf" },
+  "elf sieviete": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "džins": { "replacement": "🧞", "description": "genie" },
+  "džins cilvēks": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "džins sieviete": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "zombijs": { "replacement": "🧟", "description": "zombie" },
+  "zombiju cilvēks": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "zombiju sieviete": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "masāža": { "replacement": "💆", "description": "person getting massage" },
+  "masāžas cilvēks": {
+    "replacement": "💆‍♂️",
+    "description": "man getting massage"
+  },
+  "masāžas sieviete": {
+    "replacement": "💆‍♀️",
+    "description": "woman getting massage"
+  },
+  "frizūra": { "replacement": "💇", "description": "person getting haircut" },
+  "frizūra cilvēks": {
+    "replacement": "💇‍♂️",
+    "description": "man getting haircut"
+  },
+  "frizūra sieviete": {
+    "replacement": "💇‍♀️",
+    "description": "woman getting haircut"
+  },
+  "staigāšana": { "replacement": "🚶", "description": "person walking" },
+  "staigājošs cilvēks": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "staigājoša sieviete": {
+    "replacement": "🚶‍♀️",
+    "description": "woman walking"
+  },
+  "stāvoša persona": { "replacement": "🧍", "description": "person standing" },
+  "stāvošs cilvēks": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "stāvoša sieviete": {
+    "replacement": "🧍‍♀️",
+    "description": "woman standing"
+  },
+  "ceļos ceļojošs cilvēks": {
+    "replacement": "🧎",
+    "description": "person kneeling"
+  },
+  "ceļos ceļojošais vīrietis": {
+    "replacement": "🧎‍♂️",
+    "description": "man kneeling"
+  },
+  "ceļojošā sieviete": {
+    "replacement": "🧎‍♀️",
+    "description": "woman kneeling"
+  },
+  "persona ar zondēšanas spieķi": {
+    "replacement": "🧑‍🦯",
+    "description": "person with white cane"
+  },
+  "vīrietis ar zondēšanas spieķi": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "sieviete ar zondēšanas spieķi": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "persona motorizētā ratiņkrēslā": {
+    "replacement": "🧑‍🦼",
+    "description": "person in motorized wheelchair"
+  },
+  "cilvēks motorizētā ratiņkrēslā": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "sieviete motorizētā ratiņkrēslā": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "persona rokas ratiņkrēslā": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "vīrietis rokas ratiņkrēslā": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "sieviete rokas ratiņkrēslā": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "skrējējs": { "replacement": "🏃", "description": "person running" },
+  "skrienošs Vīrietis": { "replacement": "🏃‍♂️", "description": "man running" },
+  "skrienoša sieviete": { "replacement": "🏃‍♀️", "description": "woman running" },
+  "sieviete dejo": { "replacement": "💃", "description": "woman dancing" },
+  "cilvēks dejo": { "replacement": "🕺", "description": "man dancing" },
+  "lietišķais uzvalks": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "dejotāji": { "replacement": "👯", "description": "people with bunny ears" },
+  "dejojoši vīrieši": {
+    "replacement": "👯‍♂️",
+    "description": "men with bunny ears"
+  },
+  "dejojošas sievietes": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "pirts cilvēks": { "replacement": "🧖‍♂️", "description": "man in steamy room" },
+  "pirts sieviete": {
+    "replacement": "🧖‍♀️",
+    "description": "woman in steamy room"
+  },
+  "kāpšana": { "replacement": "🧗", "description": "person climbing" },
+  "kāpšanas cilvēks": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "kāpšanas sieviete": { "replacement": "🧗‍♀️", "description": "woman climbing" },
+  "cilvēks nožogojums": {
+    "replacement": "🤺",
+    "description": "person fencing"
+  },
+  "zirgu skriešanās sacīkstes": {
+    "replacement": "🏇",
+    "description": "horse racing"
+  },
+  "slēpotājs": { "replacement": "⛷️", "description": "skier" },
+  "snovbordists": { "replacement": "🏂", "description": "snowboarder" },
+  "golfs": { "replacement": "⛳", "description": "flag in hole" },
+  "golfa spēlētājs": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "golfa sieviete": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "sērfotājs": { "replacement": "🏄", "description": "person surfing" },
+  "sērfojošs vīrietis": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "sērfojoša sieviete": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "airu laiva": { "replacement": "🚣", "description": "person rowing boat" },
+  "airēšanas cilvēks": {
+    "replacement": "🚣‍♂️",
+    "description": "man rowing boat"
+  },
+  "airētāja": { "replacement": "🚣‍♀️", "description": "woman rowing boat" },
+  "peldētājs": { "replacement": "🏊", "description": "person swimming" },
+  "peldošs cilvēks": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "peldoša sieviete": { "replacement": "🏊‍♀️", "description": "woman swimming" },
+  "atlecoša bumba persona": {
+    "replacement": "⛹️",
+    "description": "person bouncing ball"
+  },
+  "atlecošs bumbas cilvēks": {
+    "replacement": "⛹️‍♂️",
+    "description": "man bouncing ball"
+  },
+  "veselīga bumbiņa sieviete": {
+    "replacement": "⛹️‍♀️",
+    "description": "woman bouncing ball"
+  },
+  "Svarcelšana": {
+    "replacement": "🏋️",
+    "description": "person lifting weights"
+  },
+  "svara celšanas cilvēks": {
+    "replacement": "🏋️‍♂️",
+    "description": "man lifting weights"
+  },
+  "svara celšanas sieviete": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "velosipēdists": { "replacement": "🚴", "description": "person biking" },
+  "riteņbraukšanas cilvēks": {
+    "replacement": "🚴‍♂️",
+    "description": "man biking"
+  },
+  "riteņbraukšanas sieviete": {
+    "replacement": "🚴‍♀️",
+    "description": "woman biking"
+  },
+  "kalnu velosipēdists": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "kalnu riteņbraukšanas cilvēks": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "kalnu riteņbraukšanas sieviete": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "ratu ritenis": { "replacement": "🤸", "description": "person cartwheeling" },
+  "vīrietis ritenis": {
+    "replacement": "🤸‍♂️",
+    "description": "man cartwheeling"
+  },
+  "sieviete rati": { "replacement": "🤸‍♀️", "description": "woman cartwheeling" },
+  "cīņas": { "replacement": "🤼", "description": "people wrestling" },
+  "vīrieši cīnās": { "replacement": "🤼‍♂️", "description": "men wrestling" },
+  "sievietes cīnās": { "replacement": "🤼‍♀️", "description": "women wrestling" },
+  "ūdens polo": {
+    "replacement": "🤽",
+    "description": "person playing water polo"
+  },
+  "vīrietis spēlējot ūdens polo": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "sieviete, playing, water polo": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "handbola cilvēks": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "vīrietis spēlē handbolu": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "sieviete, playing, handball": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "žonglēšana": { "replacement": "🤹", "description": "person juggling" },
+  "cilvēks žonglē": { "replacement": "🤹‍♂️", "description": "man juggling" },
+  "sieviete žonglē": { "replacement": "🤹‍♀️", "description": "woman juggling" },
+  "lotosa poza": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "lotosa pozas cilvēks": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "lotosa poza sieviete": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "vanna": { "replacement": "🛁", "description": "bathtub" },
+  "guļamgulta": { "replacement": "🛌", "description": "person in bed" },
+  "cilvēki, kas sadevušies rokās": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "divas sievietes sadevušās rokās": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "pāris": {
+    "replacement": "👫",
+    "description": "woman and man holding hands"
+  },
+  "divi vīrieši, kas sadevušies rokās": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "kuplekiss": { "replacement": "💏", "description": "kiss" },
+  "couplekiss vīrietis sieviete": {
+    "replacement": "👩‍❤️‍💋‍👨",
+    "description": "kiss: woman, man"
+  },
+  "couplekiss vīrietis cilvēks": {
+    "replacement": "👨‍❤️‍💋‍👨",
+    "description": "kiss: man, man"
+  },
+  "couplekiss sieviete sieviete": {
+    "replacement": "👩‍❤️‍💋‍👩",
+    "description": "kiss: woman, woman"
+  },
+  "pāris ar sirdi": { "replacement": "💑", "description": "couple with heart" },
+  "pāris ar sirdi sieviete vīrietis": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "pāris ar sirdi vīrietis vīrietis": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "kupeja, ar, drosme, sieviete, sieviete": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "ģimene": { "replacement": "👪", "description": "family" },
+  "ģimenes cilvēks sieviete zēns": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "ģimenes cilvēks sieviete meitene": {
+    "replacement": "👨‍👩‍👧",
+    "description": "family: man, woman, girl"
+  },
+  "ģimenes cilvēks sieviete meitene zēns": {
+    "replacement": "👨‍👩‍👧‍👦",
+    "description": "family: man, woman, girl, boy"
+  },
+  "ģimenes cilvēks sieviete zēns zēns": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "ģimenes cilvēks sieviete meitene meitene": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "ģimenes cilvēks vīrietis zēns": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "ģimenes cilvēks vīrietis meitene": {
+    "replacement": "👨‍👨‍👧",
+    "description": "family: man, man, girl"
+  },
+  "ģimenes cilvēks vīrietis meitene zēns": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "ģimenes cilvēks vīrietis zēns zēns": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "ģimenes cilvēks vīrietis meitene meitene": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "ģimenes sieviete sieviete zēns": {
+    "replacement": "👩‍👩‍👦",
+    "description": "family: woman, woman, boy"
+  },
+  "ģimene sieviete sieviete meitene": {
+    "replacement": "👩‍👩‍👧",
+    "description": "family: woman, woman, girl"
+  },
+  "ģimene sieviete sieviete meitene zēns": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "ģimene sieviete sieviete zēns puika": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "ģimene sieviete sieviete meitene meitene": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "ģimenes cilvēks zēns": {
+    "replacement": "👨‍👦",
+    "description": "family: man, boy"
+  },
+  "ģimenes cilvēks zēns zēns": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "ģimenes cilvēks meitene": {
+    "replacement": "👨‍👧",
+    "description": "family: man, girl"
+  },
+  "ģimenes cilvēks meitene zēns": {
+    "replacement": "👨‍👧‍👦",
+    "description": "family: man, girl, boy"
+  },
+  "ģimenes cilvēks meitene meitene": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "ģimenes sieviete zēns": {
+    "replacement": "👩‍👦",
+    "description": "family: woman, boy"
+  },
+  "ģimenes sieviete zēns zēns": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "ģimenes sieviete meitene": {
+    "replacement": "👩‍👧",
+    "description": "family: woman, girl"
+  },
+  "ģimenes sieviete meitene zēns": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "ģimenes sieviete meitene meitene": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "runājoša galva": { "replacement": "🗣️", "description": "speaking head" },
+  "krūtis siluetā": {
+    "replacement": "👥",
+    "description": "busts in silhouette"
+  },
+  "cilvēki apskāvās": { "replacement": "🫂", "description": "people hugging" },
+  "pēdu nospiedumi": { "replacement": "👣", "description": "footprints" },
+  "mērkaķa seja": { "replacement": "🐵", "description": "monkey face" },
+  "mērkaķis": { "replacement": "🐒", "description": "monkey" },
+  "gorilla": { "replacement": "🦍", "description": "gorilla" },
+  "orangutāns": { "replacement": "🦧", "description": "orangutan" },
+  "suns": { "replacement": "🐶", "description": "dog face" },
+  "suns2": { "replacement": "🐕", "description": "dog" },
+  "suns-pavadonis": { "replacement": "🦮", "description": "guide dog" },
+  "dienesta suns": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "pūdelis": { "replacement": "🐩", "description": "poodle" },
+  "vilks": { "replacement": "🐺", "description": "wolf" },
+  "lapsas seja": { "replacement": "🦊", "description": "fox" },
+  "jenots": { "replacement": "🦝", "description": "raccoon" },
+  "kaķis": { "replacement": "🐱", "description": "cat face" },
+  "cat2": { "replacement": "🐈", "description": "cat" },
+  "melns kaķis": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "lauva": { "replacement": "🦁", "description": "lion" },
+  "tīģeris": { "replacement": "🐯", "description": "tiger face" },
+  "tīģeris2": { "replacement": "🐅", "description": "tiger" },
+  "leopards": { "replacement": "🐆", "description": "leopard" },
+  "zirgs": { "replacement": "🐴", "description": "horse face" },
+  "sacīkšu zirgs": { "replacement": "🐎", "description": "horse" },
+  "vienradzis": { "replacement": "🦄", "description": "unicorn" },
+  "zebra": { "replacement": "🦓", "description": "zebra" },
+  "brieži": { "replacement": "🦌", "description": "deer" },
+  "bizons": { "replacement": "🦬", "description": "bison" },
+  "govs": { "replacement": "🐮", "description": "cow face" },
+  "vērsis": { "replacement": "🐂", "description": "ox" },
+  "ūdens bifeļs": { "replacement": "🐃", "description": "water buffalo" },
+  "govs2": { "replacement": "🐄", "description": "cow" },
+  "cūka": { "replacement": "🐷", "description": "pig face" },
+  "cūka2": { "replacement": "🐖", "description": "pig" },
+  "kuilis": { "replacement": "🐗", "description": "boar" },
+  "cūkas deguns": { "replacement": "🐽", "description": "pig nose" },
+  "auns": { "replacement": "♈", "description": "Aries" },
+  "aitas": { "replacement": "🐑", "description": "ewe" },
+  "kaza": { "replacement": "🐐", "description": "goat" },
+  "dromedārais kamielis": { "replacement": "🐪", "description": "camel" },
+  "kamielis": { "replacement": "🐫", "description": "two-hump camel" },
+  "lama": { "replacement": "🦙", "description": "llama" },
+  "žirafe": { "replacement": "🦒", "description": "giraffe" },
+  "zilonis": { "replacement": "🐘", "description": "elephant" },
+  "mamuts": { "replacement": "🦣", "description": "mammoth" },
+  "degunradzis": { "replacement": "🦏", "description": "rhinoceros" },
+  "nīlzirgs": { "replacement": "🦛", "description": "hippopotamus" },
+  "pele": { "replacement": "🐭", "description": "mouse face" },
+  "pele2": { "replacement": "🐁", "description": "mouse" },
+  "žurka": { "replacement": "🐀", "description": "rat" },
+  "kāmis": { "replacement": "🐹", "description": "hamster" },
+  "trusis": { "replacement": "🐰", "description": "rabbit face" },
+  "trusis2": { "replacement": "🐇", "description": "rabbit" },
+  "burunduks": { "replacement": "🐿️", "description": "chipmunk" },
+  "bebrs": { "replacement": "🦫", "description": "beaver" },
+  "ezis": { "replacement": "🦔", "description": "hedgehog" },
+  "sikspārnis": { "replacement": "🦇", "description": "bat" },
+  "lācis": { "replacement": "🐻", "description": "bear" },
+  "polārlācis": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "koala": { "replacement": "🐨", "description": "koala" },
+  "pandas seja": { "replacement": "🐼", "description": "panda" },
+  "slinķis": { "replacement": "🦥", "description": "sloth" },
+  "ūdrs": { "replacement": "🦦", "description": "otter" },
+  "skunk": { "replacement": "🦨", "description": "skunk" },
+  "ķengurs": { "replacement": "🦘", "description": "kangaroo" },
+  "āpsis": { "replacement": "🦡", "description": "badger" },
+  "pēdas": { "replacement": "🐾", "description": "paw prints" },
+  "tītars": { "replacement": "🦃", "description": "turkey" },
+  "cālis": { "replacement": "🐔", "description": "chicken" },
+  "gailis": { "replacement": "🐓", "description": "rooster" },
+  "inkubējams cālis": { "replacement": "🐣", "description": "hatching chick" },
+  "mazuļa cāli": { "replacement": "🐤", "description": "baby chick" },
+  "izperēts cālis": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "putns": { "replacement": "🐦", "description": "bird" },
+  "pingvīns": { "replacement": "🐧", "description": "penguin" },
+  "balodis": { "replacement": "🕊️", "description": "dove" },
+  "ērglis": { "replacement": "🦅", "description": "eagle" },
+  "pīle": { "replacement": "🦆", "description": "duck" },
+  "gulbis": { "replacement": "🦢", "description": "swan" },
+  "pūce": { "replacement": "🦉", "description": "owl" },
+  "dodo": { "replacement": "🦤", "description": "dodo" },
+  "spalvu": { "replacement": "🪶", "description": "feather" },
+  "flamingo": { "replacement": "🦩", "description": "flamingo" },
+  "pāvs": { "replacement": "🦚", "description": "peacock" },
+  "papagailis": { "replacement": "🦜", "description": "parrot" },
+  "varde": { "replacement": "🐸", "description": "frog" },
+  "krokodils": { "replacement": "🐊", "description": "crocodile" },
+  "bruņurupucis": { "replacement": "🐢", "description": "turtle" },
+  "ķirzaka": { "replacement": "🦎", "description": "lizard" },
+  "čūska": { "replacement": "🐍", "description": "snake" },
+  "pūķa seja": { "replacement": "🐲", "description": "dragon face" },
+  "pūķis": { "replacement": "🪁", "description": "kite" },
+  "sauropods": { "replacement": "🦕", "description": "sauropod" },
+  "t-reks": { "replacement": "🦖", "description": "T-Rex" },
+  "valis": { "replacement": "🐳", "description": "spouting whale" },
+  "vaļa2": { "replacement": "🐋", "description": "whale" },
+  "delfīns": { "replacement": "🐬", "description": "dolphin" },
+  "Ronis": { "replacement": "🦭", "description": "seal" },
+  "zivis": { "replacement": "🐟", "description": "fish" },
+  "tropu zivis": { "replacement": "🐠", "description": "tropical fish" },
+  "trieciens": { "replacement": "🐡", "description": "blowfish" },
+  "haizivs": { "replacement": "🦈", "description": "shark" },
+  "astoņkājis": { "replacement": "🐙", "description": "octopus" },
+  "apvalks": { "replacement": "🐚", "description": "spiral shell" },
+  "gliemezis": { "replacement": "🐌", "description": "snail" },
+  "tauriņš": { "replacement": "🦋", "description": "butterfly" },
+  "kļūda": { "replacement": "🐛", "description": "bug" },
+  "skudra": { "replacement": "🐜", "description": "ant" },
+  "bite": { "replacement": "🐝", "description": "honeybee" },
+  "vabole": { "replacement": "🪲", "description": "beetle" },
+  "vaboles kundze": { "replacement": "🐞", "description": "lady beetle" },
+  "krikets": { "replacement": "🦗", "description": "cricket" },
+  "tarakāns": { "replacement": "🪳", "description": "cockroach" },
+  "zirneklis": { "replacement": "🕷️", "description": "spider" },
+  "zirnekļa tīkls": { "replacement": "🕸️", "description": "spider web" },
+  "skorpions": { "replacement": "🦂", "description": "scorpion" },
+  "ods": { "replacement": "🦟", "description": "mosquito" },
+  "lidot": { "replacement": "🪰", "description": "fly" },
+  "tārps": { "replacement": "🪱", "description": "worm" },
+  "mikrobs": { "replacement": "🦠", "description": "microbe" },
+  "pušķis": { "replacement": "💐", "description": "bouquet" },
+  "ķiršu ziedi": { "replacement": "🌸", "description": "cherry blossom" },
+  "balts zieds": { "replacement": "💮", "description": "white flower" },
+  "rozete": { "replacement": "🏵️", "description": "rosette" },
+  "pieauga": { "replacement": "🌹", "description": "rose" },
+  "savītušais zieds": { "replacement": "🥀", "description": "wilted flower" },
+  "hibisks": { "replacement": "🌺", "description": "hibiscus" },
+  "saulespuķu": { "replacement": "🌻", "description": "sunflower" },
+  "ziedēt": { "replacement": "🌼", "description": "blossom" },
+  "tulpe": { "replacement": "🌷", "description": "tulip" },
+  "stāds": { "replacement": "🌱", "description": "seedling" },
+  "augs iestādīts podā": { "replacement": "🪴", "description": "potted plant" },
+  "mūžzaļais koks": { "replacement": "🌲", "description": "evergreen tree" },
+  "lapu koks": { "replacement": "🌳", "description": "deciduous tree" },
+  "palma": { "replacement": "🌴", "description": "palm tree" },
+  "kaktuss": { "replacement": "🌵", "description": "cactus" },
+  "rīsu auss": { "replacement": "🌾", "description": "sheaf of rice" },
+  "zāle": { "replacement": "🌿", "description": "herb" },
+  "shamrock": { "replacement": "☘️", "description": "shamrock" },
+  "Četrlapu āboliņš": {
+    "replacement": "🍀",
+    "description": "four leaf clover"
+  },
+  "Kļavas lapa": { "replacement": "🍁", "description": "maple leaf" },
+  "nokritusi lapa": { "replacement": "🍂", "description": "fallen leaf" },
+  "lapas": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "vīnogas": { "replacement": "🍇", "description": "grapes" },
+  "melone": { "replacement": "🍈", "description": "melon" },
+  "arbūzs": { "replacement": "🍉", "description": "watermelon" },
+  "mandarīns": { "replacement": "🍊", "description": "tangerine" },
+  "citrona": { "replacement": "🍋", "description": "lemon" },
+  "banāns": { "replacement": "🍌", "description": "banana" },
+  "ananāsu": { "replacement": "🍍", "description": "pineapple" },
+  "mango": { "replacement": "🥭", "description": "mango" },
+  "ābolu": { "replacement": "🍎", "description": "red apple" },
+  "zaļš ābols": { "replacement": "🍏", "description": "green apple" },
+  "bumbieris": { "replacement": "🍐", "description": "pear" },
+  "persiks": { "replacement": "🍑", "description": "peach" },
+  "ķirši": { "replacement": "🍒", "description": "cherries" },
+  "zemeņu": { "replacement": "🍓", "description": "strawberry" },
+  "mellenes": { "replacement": "🫐", "description": "blueberries" },
+  "kivi": { "replacement": "🥝", "description": "kiwi fruit" },
+  "tomātu": { "replacement": "🍅", "description": "tomato" },
+  "olīvu": { "replacement": "🫒", "description": "olive" },
+  "kokosrieksts": { "replacement": "🥥", "description": "coconut" },
+  "avokado": { "replacement": "🥑", "description": "avocado" },
+  "baklažāns": { "replacement": "🍆", "description": "eggplant" },
+  "kartupeļi": { "replacement": "🥔", "description": "potato" },
+  "burkāns": { "replacement": "🥕", "description": "carrot" },
+  "kukurūza": { "replacement": "🌽", "description": "ear of corn" },
+  "asais pipars": { "replacement": "🌶️", "description": "hot pepper" },
+  "paprikas": { "replacement": "🫑", "description": "bell pepper" },
+  "gurķis": { "replacement": "🥒", "description": "cucumber" },
+  "lapu zaļa": { "replacement": "🥬", "description": "leafy green" },
+  "brokoļi": { "replacement": "🥦", "description": "broccoli" },
+  "ķiploki": { "replacement": "🧄", "description": "garlic" },
+  "sīpols": { "replacement": "🧅", "description": "onion" },
+  "sēne": { "replacement": "🍄", "description": "mushroom" },
+  "zemesrieksti": { "replacement": "🥜", "description": "peanuts" },
+  "kastanis": { "replacement": "🌰", "description": "chestnut" },
+  "maize": { "replacement": "🍞", "description": "bread" },
+  "kruasāns": { "replacement": "🥐", "description": "croissant" },
+  "bagetes maize": { "replacement": "🥖", "description": "baguette bread" },
+  "plātsmaize": { "replacement": "🫓", "description": "flatbread" },
+  "kliņģeris": { "replacement": "🥨", "description": "pretzel" },
+  "bagel": { "replacement": "🥯", "description": "bagel" },
+  "pankūkas": { "replacement": "🥞", "description": "pancakes" },
+  "vafele": { "replacement": "🧇", "description": "waffle" },
+  "siers": { "replacement": "🧀", "description": "cheese wedge" },
+  "gaļa uz kaula": { "replacement": "🍖", "description": "meat on bone" },
+  "mājputnu kāja": { "replacement": "🍗", "description": "poultry leg" },
+  "sagriezta gaļa": { "replacement": "🥩", "description": "cut of meat" },
+  "bekons": { "replacement": "🥓", "description": "bacon" },
+  "hamburgers": { "replacement": "🍔", "description": "hamburger" },
+  "frī": { "replacement": "🍟", "description": "french fries" },
+  "pica": { "replacement": "🍕", "description": "pizza" },
+  "hotdog": { "replacement": "🌭", "description": "hot dog" },
+  "sviestmaize": { "replacement": "🥪", "description": "sandwich" },
+  "tako": { "replacement": "🌮", "description": "taco" },
+  "burrito": { "replacement": "🌯", "description": "burrito" },
+  "tamale": { "replacement": "🫔", "description": "tamale" },
+  "pildīta plātsmaize": {
+    "replacement": "🥙",
+    "description": "stuffed flatbread"
+  },
+  "falafelis": { "replacement": "🧆", "description": "falafel" },
+  "olu": { "replacement": "🥚", "description": "egg" },
+  "cepta ola": { "replacement": "🍳", "description": "cooking" },
+  "sekla pārtikas panna": {
+    "replacement": "🥘",
+    "description": "shallow pan of food"
+  },
+  "sautējums": { "replacement": "🍲", "description": "pot of food" },
+  "fondī": { "replacement": "🫕", "description": "fondue" },
+  "bļoda ar karoti": { "replacement": "🥣", "description": "bowl with spoon" },
+  "Zaļie salāti": { "replacement": "🥗", "description": "green salad" },
+  "popkorns": { "replacement": "🍿", "description": "popcorn" },
+  "sviests": { "replacement": "🧈", "description": "butter" },
+  "sāls": { "replacement": "🧂", "description": "salt" },
+  "konservēts ēdiens": { "replacement": "🥫", "description": "canned food" },
+  "bento": { "replacement": "🍱", "description": "bento box" },
+  "rīsu krekings": { "replacement": "🍘", "description": "rice cracker" },
+  "rīsu bumba": { "replacement": "🍙", "description": "rice ball" },
+  "rīsi": { "replacement": "🍚", "description": "cooked rice" },
+  "karijs": { "replacement": "🍛", "description": "curry rice" },
+  "ramens": { "replacement": "🍜", "description": "steaming bowl" },
+  "spageti": { "replacement": "🍝", "description": "spaghetti" },
+  "saldais kartupelis": {
+    "replacement": "🍠",
+    "description": "roasted sweet potato"
+  },
+  "oden": { "replacement": "🍢", "description": "oden" },
+  "suši": { "replacement": "🍣", "description": "sushi" },
+  "ceptas garneles": { "replacement": "🍤", "description": "fried shrimp" },
+  "zivju kūka": { "replacement": "🍥", "description": "fish cake with swirl" },
+  "Mēness kūka": { "replacement": "🥮", "description": "moon cake" },
+  "dango": { "replacement": "🍡", "description": "dango" },
+  "klimpas": { "replacement": "🥟", "description": "dumpling" },
+  "laimes cepums": { "replacement": "🥠", "description": "fortune cookie" },
+  "izņemšanas kaste": { "replacement": "🥡", "description": "takeout box" },
+  "krabis": { "replacement": "🦀", "description": "crab" },
+  "omārs": { "replacement": "🦞", "description": "lobster" },
+  "garneles": { "replacement": "🦐", "description": "shrimp" },
+  "kalmārs": { "replacement": "🦑", "description": "squid" },
+  "austere": { "replacement": "🦪", "description": "oyster" },
+  "saldējums": { "replacement": "🍨", "description": "ice cream" },
+  "shaved ledus": { "replacement": "🍧", "description": "shaved ice" },
+  "virtulis": { "replacement": "🍩", "description": "doughnut" },
+  "cepums": { "replacement": "🍪", "description": "cookie" },
+  "dzimšanas diena": { "replacement": "🎂", "description": "birthday cake" },
+  "kūka": { "replacement": "🍰", "description": "shortcake" },
+  "kēksiņš": { "replacement": "🧁", "description": "cupcake" },
+  "pīrāgs": { "replacement": "🥧", "description": "pie" },
+  "šokolādes tāfelīte": { "replacement": "🍫", "description": "chocolate bar" },
+  "konfektes": { "replacement": "🍬", "description": "candy" },
+  "konfekte": { "replacement": "🍭", "description": "lollipop" },
+  "olu krēms": { "replacement": "🍮", "description": "custard" },
+  "medus pods": { "replacement": "🍯", "description": "honey pot" },
+  "zīdaiņa pudelīte": { "replacement": "🍼", "description": "baby bottle" },
+  "piena glāze": { "replacement": "🥛", "description": "glass of milk" },
+  "kafija": { "replacement": "☕", "description": "hot beverage" },
+  "tējkanna": { "replacement": "🫖", "description": "teapot" },
+  "tēja": { "replacement": "🍵", "description": "teacup without handle" },
+  "dēļ": { "replacement": "🍶", "description": "sake" },
+  "šampanietis": {
+    "replacement": "🍾",
+    "description": "bottle with popping cork"
+  },
+  "vīna glāze": { "replacement": "🍷", "description": "wine glass" },
+  "kokteilis": { "replacement": "🍸", "description": "cocktail glass" },
+  "tropu dzēriens": { "replacement": "🍹", "description": "tropical drink" },
+  "alus": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "klaigājošas brilles": {
+    "replacement": "🥂",
+    "description": "clinking glasses"
+  },
+  "glāzes stikls": { "replacement": "🥃", "description": "tumbler glass" },
+  "kauss ar salmiem": { "replacement": "🥤", "description": "cup with straw" },
+  "burbuļu tēja": { "replacement": "🧋", "description": "bubble tea" },
+  "dzērienu kaste": { "replacement": "🧃", "description": "beverage box" },
+  "pārinieks": { "replacement": "🧉", "description": "mate" },
+  "ledus gabals": { "replacement": "🧊", "description": "ice" },
+  "irbulīši": { "replacement": "🥢", "description": "chopsticks" },
+  "šķīvis ar galda piederumiem": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "dakša un nazis": { "replacement": "🍴", "description": "fork and knife" },
+  "karote": { "replacement": "🥄", "description": "spoon" },
+  "hoho": { "replacement": "🔪", "description": "kitchen knife" },
+  "amfora": { "replacement": "🏺", "description": "amphora" },
+  "zeme afrikā": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "zemes amerika": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "zemes Āzija": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "globuss ar meridiāniem": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "pasaules karte": { "replacement": "🗺️", "description": "world map" },
+  "Japāna": { "replacement": "🗾", "description": "map of Japan" },
+  "kompass": { "replacement": "🧭", "description": "compass" },
+  "kalnu sniegs": {
+    "replacement": "🏔️",
+    "description": "snow-capped mountain"
+  },
+  "kalns": { "replacement": "⛰️", "description": "mountain" },
+  "vulkāns": { "replacement": "🌋", "description": "volcano" },
+  "Fudži kalns": { "replacement": "🗻", "description": "mount fuji" },
+  "kempings": { "replacement": "🏕️", "description": "camping" },
+  "pludmales lietussargs": {
+    "replacement": "🏖️",
+    "description": "beach with umbrella"
+  },
+  "tuksnesis": { "replacement": "🏜️", "description": "desert" },
+  "tuksneša sala": { "replacement": "🏝️", "description": "desert island" },
+  "Nacionālais parks": { "replacement": "🏞️", "description": "national park" },
+  "stadions": { "replacement": "🏟️", "description": "stadium" },
+  "klasiskā ēka": { "replacement": "🏛️", "description": "classical building" },
+  "ēku celtniecība": {
+    "replacement": "🏗️",
+    "description": "building construction"
+  },
+  "ķieģeļi": { "replacement": "🧱", "description": "brick" },
+  "akmens": { "replacement": "🪨", "description": "rock" },
+  "koks": { "replacement": "🪵", "description": "wood" },
+  "būda": { "replacement": "🛖", "description": "hut" },
+  "mājas": { "replacement": "🏘️", "description": "houses" },
+  "pamestā māja": { "replacement": "🏚️", "description": "derelict house" },
+  "māja": { "replacement": "🏠", "description": "house" },
+  "māja ar dārzu": { "replacement": "🏡", "description": "house with garden" },
+  "birojs": { "replacement": "🏢", "description": "office building" },
+  "pasts": { "replacement": "🏣", "description": "Japanese post office" },
+  "eiropas pasts": { "replacement": "🏤", "description": "post office" },
+  "slimnīca": { "replacement": "🏥", "description": "hospital" },
+  "banka": { "replacement": "🏦", "description": "bank" },
+  "viesnīca": { "replacement": "🏨", "description": "hotel" },
+  "mīlu viesnīcu": { "replacement": "🏩", "description": "love hotel" },
+  "veikals": { "replacement": "🏪", "description": "convenience store" },
+  "skolā": { "replacement": "🏫", "description": "school" },
+  "universālveikals": {
+    "replacement": "🏬",
+    "description": "department store"
+  },
+  "rūpnīcā": { "replacement": "🏭", "description": "factory" },
+  "japāņu pils": { "replacement": "🏯", "description": "Japanese castle" },
+  "eiropas pils": { "replacement": "🏰", "description": "castle" },
+  "kāzas": { "replacement": "💒", "description": "wedding" },
+  "Tokijas tornis": { "replacement": "🗼", "description": "Tokyo tower" },
+  "Brīvības statuja": {
+    "replacement": "🗽",
+    "description": "Statue of Liberty"
+  },
+  "baznīca": { "replacement": "⛪", "description": "church" },
+  "mošeja": { "replacement": "🕌", "description": "mosque" },
+  "hinduistu templis": { "replacement": "🛕", "description": "hindu temple" },
+  "sinagoga": { "replacement": "🕍", "description": "synagogue" },
+  "sintoistu svētnīca": { "replacement": "⛩️", "description": "shinto shrine" },
+  "kaaba": { "replacement": "🕋", "description": "kaaba" },
+  "strūklaka": { "replacement": "⛲", "description": "fountain" },
+  "telts": { "replacement": "⛺", "description": "tent" },
+  "miglains": { "replacement": "🌁", "description": "foggy" },
+  "nakts ar zvaigznēm": {
+    "replacement": "🌃",
+    "description": "night with stars"
+  },
+  "pilsētas ainava": { "replacement": "🏙️", "description": "cityscape" },
+  "saullēkts virs kalniem": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "saullēkts": { "replacement": "🌅", "description": "sunrise" },
+  "pilsētas saulriets": {
+    "replacement": "🌆",
+    "description": "cityscape at dusk"
+  },
+  "pilsētas saullēkts": { "replacement": "🌇", "description": "sunset" },
+  "tilts naktī": { "replacement": "🌉", "description": "bridge at night" },
+  "karstie avoti": { "replacement": "♨️", "description": "hot springs" },
+  "karuseļa zirgs": { "replacement": "🎠", "description": "carousel horse" },
+  "Panorāmas rats": { "replacement": "🎡", "description": "ferris wheel" },
+  "Amerikāņu kalniņi": { "replacement": "🎢", "description": "roller coaster" },
+  "frizieris": { "replacement": "💈", "description": "barber pole" },
+  "cirka telts": { "replacement": "🎪", "description": "circus tent" },
+  "tvaika lokomotīve": { "replacement": "🚂", "description": "locomotive" },
+  "dzelzceļa vagons": { "replacement": "🚃", "description": "railway car" },
+  "bulletrain puse": { "replacement": "🚄", "description": "high-speed train" },
+  "bulletrain priekšpuse": {
+    "replacement": "🚅",
+    "description": "bullet train"
+  },
+  "vilciens2": { "replacement": "🚆", "description": "train" },
+  "metro": { "replacement": "🚇", "description": "metro" },
+  "vieglais dzelzceļš": { "replacement": "🚈", "description": "light rail" },
+  "stacijā": { "replacement": "🚉", "description": "station" },
+  "tramvajs": { "replacement": "🚊", "description": "tram" },
+  "viena sliede": { "replacement": "🚝", "description": "monorail" },
+  "kalnu dzelzceļš": { "replacement": "🚞", "description": "mountain railway" },
+  "vilciens": { "replacement": "🚋", "description": "tram car" },
+  "autobuss": { "replacement": "🚌", "description": "bus" },
+  "pretimbraucošais autobuss": {
+    "replacement": "🚍",
+    "description": "oncoming bus"
+  },
+  "trolejbuss": { "replacement": "🚎", "description": "trolleybus" },
+  "mikroautobuss": { "replacement": "🚐", "description": "minibus" },
+  "ātrā palīdzība": { "replacement": "🚑", "description": "ambulance" },
+  "ugunsdzēsēju mašīna": { "replacement": "🚒", "description": "fire engine" },
+  "policijas auto": { "replacement": "🚓", "description": "police car" },
+  "pretimbraucoša policijas automašīna": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "taksometrs": { "replacement": "🚕", "description": "taxi" },
+  "pretimbraucošais taksometrs": {
+    "replacement": "🚖",
+    "description": "oncoming taxi"
+  },
+  "mašīna": { "replacement": "🚗", "description": "automobile" },
+  "pretimbraucošs automobilis": {
+    "replacement": "🚘",
+    "description": "oncoming automobile"
+  },
+  "zila mašīna": {
+    "replacement": "🚙",
+    "description": "sport utility vehicle"
+  },
+  "pikaps": { "replacement": "🛻", "description": "pickup truck" },
+  "smagā mašīna": { "replacement": "🚚", "description": "delivery truck" },
+  "šarnīrveida kravas automašīna": {
+    "replacement": "🚛",
+    "description": "articulated lorry"
+  },
+  "traktors": { "replacement": "🚜", "description": "tractor" },
+  "sacīkšu mašīna": { "replacement": "🏎️", "description": "racing car" },
+  "motocikls": { "replacement": "🏍️", "description": "motorcycle" },
+  "motorolleris": { "replacement": "🛵", "description": "motor scooter" },
+  "rokas ratiņkrēsls": {
+    "replacement": "🦽",
+    "description": "manual wheelchair"
+  },
+  "motorizēts ratiņkrēsls": {
+    "replacement": "🦼",
+    "description": "motorized wheelchair"
+  },
+  "auto rikša": { "replacement": "🛺", "description": "auto rickshaw" },
+  "velosipēds": { "replacement": "🚲", "description": "bicycle" },
+  "kick motorollers": { "replacement": "🛴", "description": "kick scooter" },
+  "skrituļdēlis": { "replacement": "🛹", "description": "skateboard" },
+  "skrituļslidas": { "replacement": "🛼", "description": "roller skate" },
+  "autobusa pietura": { "replacement": "🚏", "description": "bus stop" },
+  "automaģistrāle": { "replacement": "🛣️", "description": "motorway" },
+  "dzelzceļa sliežu ceļš": {
+    "replacement": "🛤️",
+    "description": "railway track"
+  },
+  "eļļas bungas": { "replacement": "🛢️", "description": "oil drum" },
+  "degvielas sūknis": { "replacement": "⛽", "description": "fuel pump" },
+  "rotējoša gaisma": { "replacement": "🚨", "description": "police car light" },
+  "luksofors": {
+    "replacement": "🚥",
+    "description": "horizontal traffic light"
+  },
+  "vertikāls luksofors": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "Stop zīmi": { "replacement": "🛑", "description": "stop sign" },
+  "būvniecība": { "replacement": "🚧", "description": "construction" },
+  "enkurs": { "replacement": "⚓", "description": "anchor" },
+  "laiva": { "replacement": "⛵", "description": "sailboat" },
+  "kanoe": { "replacement": "🛶", "description": "canoe" },
+  "ātrlaiva": { "replacement": "🚤", "description": "speedboat" },
+  "pasažieru kuģis": { "replacement": "🛳️", "description": "passenger ship" },
+  "prāmis": { "replacement": "⛴️", "description": "ferry" },
+  "motorlaiva": { "replacement": "🛥️", "description": "motor boat" },
+  "kuģis": { "replacement": "🚢", "description": "ship" },
+  "lidmašīna": { "replacement": "✈️", "description": "airplane" },
+  "maza lidmašīna": { "replacement": "🛩️", "description": "small airplane" },
+  "lidojuma izlidošana": {
+    "replacement": "🛫",
+    "description": "airplane departure"
+  },
+  "lidojuma ierašanās": {
+    "replacement": "🛬",
+    "description": "airplane arrival"
+  },
+  "izpletnis": { "replacement": "🪂", "description": "parachute" },
+  "sēdeklis": { "replacement": "💺", "description": "seat" },
+  "helikopters": { "replacement": "🚁", "description": "helicopter" },
+  "piekares dzelzceļš": {
+    "replacement": "🚟",
+    "description": "suspension railway"
+  },
+  "kalnu trošu ceļš": {
+    "replacement": "🚠",
+    "description": "mountain cableway"
+  },
+  "gaisa tramvaja ceļš": {
+    "replacement": "🚡",
+    "description": "aerial tramway"
+  },
+  "mākslīgais pavadonis": { "replacement": "🛰️", "description": "satellite" },
+  "raķete": { "replacement": "🚀", "description": "rocket" },
+  "lidojošais šķīvītis": {
+    "replacement": "🛸",
+    "description": "flying saucer"
+  },
+  "galdiņa zvans": { "replacement": "🛎️", "description": "bellhop bell" },
+  "bagāža": { "replacement": "🧳", "description": "luggage" },
+  "smilšu pulkstenis": { "replacement": "⌛", "description": "hourglass done" },
+  "smilšu pulkstenis plūst smiltis": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "skatīties": { "replacement": "⌚", "description": "watch" },
+  "modinātājs": { "replacement": "⏰", "description": "alarm clock" },
+  "hronometrs": { "replacement": "⏱️", "description": "stopwatch" },
+  "taimera pulkstenis": { "replacement": "⏲️", "description": "timer clock" },
+  "kamīna pulkstenis": {
+    "replacement": "🕰️",
+    "description": "mantelpiece clock"
+  },
+  "pulkstenis12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "pulkstenis1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "pulkstenis1": { "replacement": "🕐", "description": "one o’clock" },
+  "pulkstenis130": { "replacement": "🕜", "description": "one-thirty" },
+  "pulkstenis2": { "replacement": "🕑", "description": "two o’clock" },
+  "pulkstenis230": { "replacement": "🕝", "description": "two-thirty" },
+  "pulkstenis3": { "replacement": "🕒", "description": "three o’clock" },
+  "pulkstenis330": { "replacement": "🕞", "description": "three-thirty" },
+  "pulkstenis4": { "replacement": "🕓", "description": "four o’clock" },
+  "pulkstenis430": { "replacement": "🕟", "description": "four-thirty" },
+  "pulkstenis5": { "replacement": "🕔", "description": "five o’clock" },
+  "pulkstenis530": { "replacement": "🕠", "description": "five-thirty" },
+  "pulkstenis6": { "replacement": "🕕", "description": "six o’clock" },
+  "pulkstenis630": { "replacement": "🕡", "description": "six-thirty" },
+  "pulkstenis7": { "replacement": "🕖", "description": "seven o’clock" },
+  "pulkstenis730": { "replacement": "🕢", "description": "seven-thirty" },
+  "pulkstenis8": { "replacement": "🕗", "description": "eight o’clock" },
+  "pulkstenis830": { "replacement": "🕣", "description": "eight-thirty" },
+  "pulkstenis9": { "replacement": "🕘", "description": "nine o’clock" },
+  "pulkstenis930": { "replacement": "🕤", "description": "nine-thirty" },
+  "pulkstenis10": { "replacement": "🕙", "description": "ten o’clock" },
+  "pulkstenis1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "pulkstenis11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "pulkstenis1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "jauns mēness": { "replacement": "🌑", "description": "new moon" },
+  "augošs pusmēness": {
+    "replacement": "🌒",
+    "description": "waxing crescent moon"
+  },
+  "pirmā ceturkšņa mēness": {
+    "replacement": "🌓",
+    "description": "first quarter moon"
+  },
+  "mēness": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "pilnmēness": { "replacement": "🌕", "description": "full moon" },
+  "dilstošs mēness mēness": {
+    "replacement": "🌖",
+    "description": "waning gibbous moon"
+  },
+  "pagājušā ceturkšņa mēness": {
+    "replacement": "🌗",
+    "description": "last quarter moon"
+  },
+  "dilstošs pusmēness": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "pusmēness": { "replacement": "🌙", "description": "crescent moon" },
+  "jauns mēness ar seju": {
+    "replacement": "🌚",
+    "description": "new moon face"
+  },
+  "pirmā ceturkšņa mēness ar seju": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "pēdējā ceturtdaļa mēness ar seju": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "termometrs": { "replacement": "🌡️", "description": "thermometer" },
+  "saulains": { "replacement": "☀️", "description": "sun" },
+  "pilnmēness ar seju": {
+    "replacement": "🌝",
+    "description": "full moon face"
+  },
+  "saule ar seju": { "replacement": "🌞", "description": "sun with face" },
+  "gredzenota planēta": { "replacement": "🪐", "description": "ringed planet" },
+  "zvaigzne": { "replacement": "⭐", "description": "star" },
+  "zvaigzne2": { "replacement": "🌟", "description": "glowing star" },
+  "zvaigznes": { "replacement": "🌠", "description": "shooting star" },
+  "piena ceļš": { "replacement": "🌌", "description": "milky way" },
+  "mākonis": { "replacement": "☁️", "description": "cloud" },
+  "daļēji saulains": { "replacement": "⛅", "description": "sun behind cloud" },
+  "mākonis ar zibeni un lietu": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "saule aiz neliela mākoņa": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "saule aiz liela mākoņa": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "saule aiz lietus mākoņa": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "mākonis ar lietu": { "replacement": "🌧️", "description": "cloud with rain" },
+  "mākonis ar sniegu": {
+    "replacement": "🌨️",
+    "description": "cloud with snow"
+  },
+  "mākonis ar zibeni": {
+    "replacement": "🌩️",
+    "description": "cloud with lightning"
+  },
+  "viesuļvētra": { "replacement": "🌪️", "description": "tornado" },
+  "migla": { "replacement": "🌫️", "description": "fog" },
+  "vēja seja": { "replacement": "🌬️", "description": "wind face" },
+  "ciklons": { "replacement": "🌀", "description": "cyclone" },
+  "varavīksne": { "replacement": "🌈", "description": "rainbow" },
+  "slēgts lietussargs": {
+    "replacement": "🌂",
+    "description": "closed umbrella"
+  },
+  "atvērts lietussargs": { "replacement": "☂️", "description": "umbrella" },
+  "lietussargs": {
+    "replacement": "☔",
+    "description": "umbrella with rain drops"
+  },
+  "saulessargs uz zemes": {
+    "replacement": "⛱️",
+    "description": "umbrella on ground"
+  },
+  "zap": { "replacement": "⚡", "description": "high voltage" },
+  "sniegpārsla": { "replacement": "❄️", "description": "snowflake" },
+  "sniegavīrs ar sniegu": { "replacement": "☃️", "description": "snowman" },
+  "sniegavīrs": { "replacement": "⛄", "description": "snowman without snow" },
+  "komēta": { "replacement": "☄️", "description": "comet" },
+  "uguns": { "replacement": "🔥", "description": "fire" },
+  "piliens": { "replacement": "💧", "description": "droplet" },
+  "okeāns": { "replacement": "🌊", "description": "water wave" },
+  "jack o laterna": { "replacement": "🎃", "description": "jack-o-lantern" },
+  "Ziemassvētku eglīte": {
+    "replacement": "🎄",
+    "description": "Christmas tree"
+  },
+  "uguņošana": { "replacement": "🎆", "description": "fireworks" },
+  "dzirkstele": { "replacement": "🎇", "description": "sparkler" },
+  "petarde": { "replacement": "🧨", "description": "firecracker" },
+  "dzirksti": { "replacement": "❇️", "description": "sparkle" },
+  "balons": { "replacement": "🎈", "description": "balloon" },
+  "tada": { "replacement": "🎉", "description": "party popper" },
+  "konfeti bumba": { "replacement": "🎊", "description": "confetti ball" },
+  "tanabatas koks": { "replacement": "🎋", "description": "tanabata tree" },
+  "bambuss": { "replacement": "🎍", "description": "pine decoration" },
+  "lelles": { "replacement": "🎎", "description": "Japanese dolls" },
+  "karogi": { "replacement": "🎏", "description": "carp streamer" },
+  "vēja zvans": { "replacement": "🎐", "description": "wind chime" },
+  "rīsu aina": { "replacement": "🎑", "description": "moon viewing ceremony" },
+  "sarkana aploksne": { "replacement": "🧧", "description": "red envelope" },
+  "lente": { "replacement": "🎀", "description": "ribbon" },
+  "dāvana": { "replacement": "🎁", "description": "wrapped gift" },
+  "atgādinājuma lente": {
+    "replacement": "🎗️",
+    "description": "reminder ribbon"
+  },
+  "biļetes": { "replacement": "🎟️", "description": "admission tickets" },
+  "biļete": { "replacement": "🎫", "description": "ticket" },
+  "medaļa militārā": { "replacement": "🎖️", "description": "military medal" },
+  "trofeja": { "replacement": "🏆", "description": "trophy" },
+  "medaļu sports": { "replacement": "🏅", "description": "sports medal" },
+  "1. vietas medaļa": { "replacement": "🥇", "description": "1st place medal" },
+  "2. vietas medaļa": { "replacement": "🥈", "description": "2nd place medal" },
+  "3. vietas medaļa": { "replacement": "🥉", "description": "3rd place medal" },
+  "futbols": { "replacement": "🏈", "description": "american football" },
+  "beisbols": { "replacement": "⚾", "description": "baseball" },
+  "softbols": { "replacement": "🥎", "description": "softball" },
+  "basketbols": { "replacement": "🏀", "description": "basketball" },
+  "volejbols": { "replacement": "🏐", "description": "volleyball" },
+  "regbija futbols": { "replacement": "🏉", "description": "rugby football" },
+  "teniss": { "replacement": "🎾", "description": "tennis" },
+  "lidojošais disks": { "replacement": "🥏", "description": "flying disc" },
+  "boulings": { "replacement": "🎳", "description": "bowling" },
+  "kriketa spēle": { "replacement": "🏏", "description": "cricket game" },
+  "lauka hokejs": { "replacement": "🏑", "description": "field hockey" },
+  "Hokejs": { "replacement": "🏒", "description": "ice hockey" },
+  "lakrosa": { "replacement": "🥍", "description": "lacrosse" },
+  "pingpongs": { "replacement": "🏓", "description": "ping pong" },
+  "badmintons": { "replacement": "🏸", "description": "badminton" },
+  "boksa cimds": { "replacement": "🥊", "description": "boxing glove" },
+  "cīņas mākslas formas tērps": {
+    "replacement": "🥋",
+    "description": "martial arts uniform"
+  },
+  "vārtu tīkls": { "replacement": "🥅", "description": "goal net" },
+  "slidot": { "replacement": "⛸️", "description": "ice skate" },
+  "makšķeres stabs un zivis": {
+    "replacement": "🎣",
+    "description": "fishing pole"
+  },
+  "niršanas maska": { "replacement": "🤿", "description": "diving mask" },
+  "skriešanas krekls ar vērtni": {
+    "replacement": "🎽",
+    "description": "running shirt"
+  },
+  "slēpot": { "replacement": "🎿", "description": "skis" },
+  "ragavas": { "replacement": "🛷", "description": "sled" },
+  "kērlinga akmens": { "replacement": "🥌", "description": "curling stone" },
+  "šautriņas": { "replacement": "🎯", "description": "direct hit" },
+  "yo yo": { "replacement": "🪀", "description": "yo-yo" },
+  "8bumba": { "replacement": "🎱", "description": "pool 8 ball" },
+  "kristāla bumba": { "replacement": "🔮", "description": "crystal ball" },
+  "burvju nūjiņa": { "replacement": "🪄", "description": "magic wand" },
+  "nazāra amulets": { "replacement": "🧿", "description": "nazar amulet" },
+  "video spēle": { "replacement": "🎮", "description": "video game" },
+  "kursorsviru": { "replacement": "🕹️", "description": "joystick" },
+  "automāts": { "replacement": "🎰", "description": "slot machine" },
+  "spēle mirst": { "replacement": "🎲", "description": "game die" },
+  "finierzāģis": { "replacement": "🧩", "description": "puzzle piece" },
+  "rotaļu lācītis": { "replacement": "🧸", "description": "teddy bear" },
+  "pinata": { "replacement": "🪅", "description": "piñata" },
+  "ligzdojošās lelles": { "replacement": "🪆", "description": "nesting dolls" },
+  "lāpstas": { "replacement": "♠️", "description": "spade suit" },
+  "sirdis": { "replacement": "♥️", "description": "heart suit" },
+  "dimanti": { "replacement": "♦️", "description": "diamond suit" },
+  "klubi": { "replacement": "♣️", "description": "club suit" },
+  "šaha bandinieks": { "replacement": "♟️", "description": "chess pawn" },
+  "melnais jokdaris": { "replacement": "🃏", "description": "joker" },
+  "madžongs": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "ziedu spēļu kārtis": {
+    "replacement": "🎴",
+    "description": "flower playing cards"
+  },
+  "skatuves māksla": { "replacement": "🎭", "description": "performing arts" },
+  "ierāmēts attēls": { "replacement": "🖼️", "description": "framed picture" },
+  "māksla": { "replacement": "🎨", "description": "artist palette" },
+  "pavediens": { "replacement": "🧵", "description": "thread" },
+  "šūšanas adata": { "replacement": "🪡", "description": "sewing needle" },
+  "dzija": { "replacement": "🧶", "description": "yarn" },
+  "mezgls": { "replacement": "🪢", "description": "knot" },
+  "brilles": { "replacement": "👓", "description": "glasses" },
+  "tumšas saulesbrilles": { "replacement": "🕶️", "description": "sunglasses" },
+  "aizsargbrilles": { "replacement": "🥽", "description": "goggles" },
+  "laboratorijas mētelis": { "replacement": "🥼", "description": "lab coat" },
+  "drošības veste": { "replacement": "🦺", "description": "safety vest" },
+  "kaklasaite": { "replacement": "👔", "description": "necktie" },
+  "krekls": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "džinsi": { "replacement": "👖", "description": "jeans" },
+  "šalle": { "replacement": "🧣", "description": "scarf" },
+  "cimdi": { "replacement": "🧤", "description": "gloves" },
+  "mētelis": { "replacement": "🧥", "description": "coat" },
+  "zeķes": { "replacement": "🧦", "description": "socks" },
+  "kleita": { "replacement": "👗", "description": "dress" },
+  "kimono": { "replacement": "👘", "description": "kimono" },
+  "sari": { "replacement": "🥻", "description": "sari" },
+  "viengabala peldkostīms": {
+    "replacement": "🩱",
+    "description": "one-piece swimsuit"
+  },
+  "peldēt īsi": { "replacement": "🩲", "description": "briefs" },
+  "šorti": { "replacement": "🩳", "description": "shorts" },
+  "bikini": { "replacement": "👙", "description": "bikini" },
+  "sieviešu drēbes": { "replacement": "👚", "description": "woman’s clothes" },
+  "maku": { "replacement": "👛", "description": "purse" },
+  "rokassomu": { "replacement": "👜", "description": "handbag" },
+  "maisiņš": { "replacement": "👝", "description": "clutch bag" },
+  "iepirkšanās": { "replacement": "🛍️", "description": "shopping bags" },
+  "skolas soma": { "replacement": "🎒", "description": "backpack" },
+  "siksnas sandales": { "replacement": "🩴", "description": "thong sandal" },
+  "mans apavu": { "replacement": "👞", "description": "man’s shoe" },
+  "sporta apavu": { "replacement": "👟", "description": "running shoe" },
+  "pārgājienu zābaks": { "replacement": "🥾", "description": "hiking boot" },
+  "plakana kurpe": { "replacement": "🥿", "description": "flat shoe" },
+  "augsts papēdis": { "replacement": "👠", "description": "high-heeled shoe" },
+  "sandales": { "replacement": "👡", "description": "woman’s sandal" },
+  "baleta kurpes": { "replacement": "🩰", "description": "ballet shoes" },
+  "zābaks": { "replacement": "👢", "description": "woman’s boot" },
+  "vainags": { "replacement": "👑", "description": "crown" },
+  "sieviešu cepure": { "replacement": "👒", "description": "woman’s hat" },
+  "cilindrs": { "replacement": "🎩", "description": "top hat" },
+  "javas dēlis": { "replacement": "🎓", "description": "graduation cap" },
+  "rēķina vāciņš": { "replacement": "🧢", "description": "billed cap" },
+  "militārā ķivere": { "replacement": "🪖", "description": "military helmet" },
+  "glābšanas darbinieku ķivere": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "lūgšanu krelles": { "replacement": "📿", "description": "prayer beads" },
+  "lūpu krāsa": { "replacement": "💄", "description": "lipstick" },
+  "gredzens": { "replacement": "💍", "description": "ring" },
+  "dārgakmens": { "replacement": "💎", "description": "gem stone" },
+  "izslēgt": { "replacement": "🔇", "description": "muted speaker" },
+  "skaļrunis": { "replacement": "📢", "description": "loudspeaker" },
+  "skaņu": { "replacement": "🔉", "description": "speaker medium volume" },
+  "skaļa skaņa": { "replacement": "🔊", "description": "speaker high volume" },
+  "mega": { "replacement": "📣", "description": "megaphone" },
+  "pasta rags": { "replacement": "📯", "description": "postal horn" },
+  "zvans": { "replacement": "🔔", "description": "bell" },
+  "nav zvana": { "replacement": "🔕", "description": "bell with slash" },
+  "muzikālā partitūra": { "replacement": "🎼", "description": "musical score" },
+  "mūzikas nots": { "replacement": "🎵", "description": "musical note" },
+  "piezīmes": { "replacement": "🎶", "description": "musical notes" },
+  "studijas mikrofons": {
+    "replacement": "🎙️",
+    "description": "studio microphone"
+  },
+  "līmeņa slīdni": { "replacement": "🎚️", "description": "level slider" },
+  "vadības pogas": { "replacement": "🎛️", "description": "control knobs" },
+  "mikrofons": { "replacement": "🎤", "description": "microphone" },
+  "austiņas": { "replacement": "🎧", "description": "headphone" },
+  "radio": { "replacement": "📻", "description": "radio" },
+  "saksofons": { "replacement": "🎷", "description": "saxophone" },
+  "akordeons": { "replacement": "🪗", "description": "accordion" },
+  "ģitāra": { "replacement": "🎸", "description": "guitar" },
+  "muzikālā tastatūra": {
+    "replacement": "🎹",
+    "description": "musical keyboard"
+  },
+  "taure": { "replacement": "🎺", "description": "trumpet" },
+  "vijole": { "replacement": "🎻", "description": "violin" },
+  "bandžo": { "replacement": "🪕", "description": "banjo" },
+  "bungas": { "replacement": "🥁", "description": "drum" },
+  "garš bungas": { "replacement": "🪘", "description": "long drum" },
+  "iphone": { "replacement": "📱", "description": "mobile phone" },
+  "zvana": { "replacement": "📲", "description": "mobile phone with arrow" },
+  "tālruni": { "replacement": "☎️", "description": "telephone" },
+  "telefona uztvērējs": {
+    "replacement": "📞",
+    "description": "telephone receiver"
+  },
+  "peidžeris": { "replacement": "📟", "description": "pager" },
+  "fakss": { "replacement": "📠", "description": "fax machine" },
+  "akumulatoru": { "replacement": "🔋", "description": "battery" },
+  "elektrības kontaktdakša": {
+    "replacement": "🔌",
+    "description": "electric plug"
+  },
+  "dators": { "replacement": "💻", "description": "laptop" },
+  "galddators": { "replacement": "🖥️", "description": "desktop computer" },
+  "printeris": { "replacement": "🖨️", "description": "printer" },
+  "tastatūra": { "replacement": "⌨️", "description": "keyboard" },
+  "Datorpele": { "replacement": "🖱️", "description": "computer mouse" },
+  "trackball": { "replacement": "🖲️", "description": "trackball" },
+  "minidisks": { "replacement": "💽", "description": "computer disk" },
+  "diskete": { "replacement": "💾", "description": "floppy disk" },
+  "cd": { "replacement": "💿", "description": "optical disk" },
+  "dvd": { "replacement": "📀", "description": "dvd" },
+  "abacus": { "replacement": "🧮", "description": "abacus" },
+  "filmas kamera": { "replacement": "🎥", "description": "movie camera" },
+  "filmu sloksne": { "replacement": "🎞️", "description": "film frames" },
+  "filmu projektors": { "replacement": "📽️", "description": "film projector" },
+  "klapētājs": { "replacement": "🎬", "description": "clapper board" },
+  "tv": { "replacement": "📺", "description": "television" },
+  "kamera": { "replacement": "📷", "description": "camera" },
+  "kameras zibspuldze": {
+    "replacement": "📸",
+    "description": "camera with flash"
+  },
+  "videokamera": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "mag": { "replacement": "🔍", "description": "magnifying glass tilted left" },
+  "mag pareizi": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "svece": { "replacement": "🕯️", "description": "candle" },
+  "spuldze": { "replacement": "💡", "description": "light bulb" },
+  "lukturītis": { "replacement": "🔦", "description": "flashlight" },
+  "izakaya laterna": {
+    "replacement": "🏮",
+    "description": "red paper lantern"
+  },
+  "dijas lampa": { "replacement": "🪔", "description": "diya lamp" },
+  "piezīmju grāmatiņa ar dekoratīvu vāku": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "slēgta grāmata": { "replacement": "📕", "description": "closed book" },
+  "grāmata": { "replacement": "📖", "description": "open book" },
+  "zaļā grāmata": { "replacement": "📗", "description": "green book" },
+  "zilā grāmata": { "replacement": "📘", "description": "blue book" },
+  "oranža grāmata": { "replacement": "📙", "description": "orange book" },
+  "grāmatas": { "replacement": "📚", "description": "books" },
+  "piezīmju grāmatiņa": { "replacement": "📓", "description": "notebook" },
+  "virsgrāmata": { "replacement": "📒", "description": "ledger" },
+  "lapa ar čokurošanos": {
+    "replacement": "📃",
+    "description": "page with curl"
+  },
+  "ritiniet": { "replacement": "📜", "description": "scroll" },
+  "lappuse uz augšu": { "replacement": "📄", "description": "page facing up" },
+  "avīze": { "replacement": "📰", "description": "newspaper" },
+  "avīžu rullītis": {
+    "replacement": "🗞️",
+    "description": "rolled-up newspaper"
+  },
+  "grāmatzīmju cilnes": { "replacement": "📑", "description": "bookmark tabs" },
+  "grāmatzīme": { "replacement": "🔖", "description": "bookmark" },
+  "etiķete": { "replacement": "🏷️", "description": "label" },
+  "naudas soma": { "replacement": "💰", "description": "money bag" },
+  "monēta": { "replacement": "🪙", "description": "coin" },
+  "jenas": { "replacement": "💴", "description": "yen banknote" },
+  "dolāru": { "replacement": "💵", "description": "dollar banknote" },
+  "eiro": { "replacement": "💶", "description": "euro banknote" },
+  "mārciņa": { "replacement": "💷", "description": "pound banknote" },
+  "nauda ar spārniem": {
+    "replacement": "💸",
+    "description": "money with wings"
+  },
+  "kredītkarte": { "replacement": "💳", "description": "credit card" },
+  "kvīts": { "replacement": "🧾", "description": "receipt" },
+  "diagramma": {
+    "replacement": "💹",
+    "description": "chart increasing with yen"
+  },
+  "e-pasts": { "replacement": "✉️", "description": "envelope" },
+  "e-pastu": { "replacement": "📧", "description": "e-mail" },
+  "ienākošā aploksne": {
+    "replacement": "📨",
+    "description": "incoming envelope"
+  },
+  "aploksne ar bultiņu": {
+    "replacement": "📩",
+    "description": "envelope with arrow"
+  },
+  "izsūtnes paplāte": { "replacement": "📤", "description": "outbox tray" },
+  "iesūtnes paplāte": { "replacement": "📥", "description": "inbox tray" },
+  "iepakojums": { "replacement": "📦", "description": "package" },
+  "pastkasti": {
+    "replacement": "📫",
+    "description": "closed mailbox with raised flag"
+  },
+  "pastkaste ir slēgta": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "pastkaste ar pastu": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "pastkaste bez pasta": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "pastkastīte": { "replacement": "📮", "description": "postbox" },
+  "vēlēšanu urna": {
+    "replacement": "🗳️",
+    "description": "ballot box with ballot"
+  },
+  "zīmulis2": { "replacement": "✏️", "description": "pencil" },
+  "melns knipa": { "replacement": "✒️", "description": "black nib" },
+  "pildspalva": { "replacement": "🖊️", "description": "pen" },
+  "otu": { "replacement": "🖌️", "description": "paintbrush" },
+  "krītiņš": { "replacement": "🖍️", "description": "crayon" },
+  "piezīme": { "replacement": "📝", "description": "memo" },
+  "portfelis": { "replacement": "💼", "description": "briefcase" },
+  "failu mape": { "replacement": "📁", "description": "file folder" },
+  "atvērt failu mapi": {
+    "replacement": "📂",
+    "description": "open file folder"
+  },
+  "karšu indeksu dalītāji": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "datums": { "replacement": "📅", "description": "calendar" },
+  "kalendārs": { "replacement": "📆", "description": "tear-off calendar" },
+  "spirālveida bloknots": {
+    "replacement": "🗒️",
+    "description": "spiral notepad"
+  },
+  "spirālveida kalendārs": {
+    "replacement": "🗓️",
+    "description": "spiral calendar"
+  },
+  "karšu indekss": { "replacement": "📇", "description": "card index" },
+  "diagramma ar augšupejošu tendenci": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "diagramma ar lejupejošu tendenci": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "joslu diagramma": { "replacement": "📊", "description": "bar chart" },
+  "starpliktuve": { "replacement": "📋", "description": "clipboard" },
+  "piespraude": { "replacement": "📌", "description": "pushpin" },
+  "apaļa piespraude": { "replacement": "📍", "description": "round pushpin" },
+  "saspraude": { "replacement": "📎", "description": "paperclip" },
+  "Saspraudes": { "replacement": "🖇️", "description": "linked paperclips" },
+  "taisns lineāls": { "replacement": "📏", "description": "straight ruler" },
+  "trīsstūrveida lineāls": {
+    "replacement": "📐",
+    "description": "triangular ruler"
+  },
+  "šķēres": { "replacement": "✂️", "description": "scissors" },
+  "kartotēkas lodziņš": { "replacement": "🗃️", "description": "card file box" },
+  "failu kabinets": { "replacement": "🗄️", "description": "file cabinet" },
+  "atkritumu grozs": { "replacement": "🗑️", "description": "wastebasket" },
+  "slēdzene": { "replacement": "🔒", "description": "locked" },
+  "atbloķēt": { "replacement": "🔓", "description": "unlocked" },
+  "slēdzene ar tintes pildspalvu": {
+    "replacement": "🔏",
+    "description": "locked with pen"
+  },
+  "slēgta slēdzene ar atslēgu": {
+    "replacement": "🔐",
+    "description": "locked with key"
+  },
+  "taustiņu": { "replacement": "🔑", "description": "key" },
+  "vecā atslēga": { "replacement": "🗝️", "description": "old key" },
+  "āmurs": { "replacement": "🔨", "description": "hammer" },
+  "cirvis": { "replacement": "🪓", "description": "axe" },
+  "izvēlēties": { "replacement": "⛏️", "description": "pick" },
+  "āmuru un izvēlēties": {
+    "replacement": "⚒️",
+    "description": "hammer and pick"
+  },
+  "āmurs un uzgriežņu atslēga": {
+    "replacement": "🛠️",
+    "description": "hammer and wrench"
+  },
+  "duncis": { "replacement": "🗡️", "description": "dagger" },
+  "sakrustoti zobeni": { "replacement": "⚔️", "description": "crossed swords" },
+  "lielgabals": { "replacement": "🔫", "description": "pistol" },
+  "bumerangs": { "replacement": "🪃", "description": "boomerang" },
+  "loks un bulta": { "replacement": "🏹", "description": "bow and arrow" },
+  "vairogs": { "replacement": "🛡️", "description": "shield" },
+  "galdniecības zāģis": { "replacement": "🪚", "description": "carpentry saw" },
+  "uzgriežņu atslēga": { "replacement": "🔧", "description": "wrench" },
+  "skrūvgriezis": { "replacement": "🪛", "description": "screwdriver" },
+  "uzgrieznis un skrūve": {
+    "replacement": "🔩",
+    "description": "nut and bolt"
+  },
+  "pārnesumu": { "replacement": "⚙️", "description": "gear" },
+  "skava": { "replacement": "🗜️", "description": "clamp" },
+  "līdzsvara skala": { "replacement": "⚖️", "description": "balance scale" },
+  "zondēšanas spieķis": { "replacement": "🦯", "description": "white cane" },
+  "saite": { "replacement": "🔗", "description": "link" },
+  "ķēdes": { "replacement": "⛓️", "description": "chains" },
+  "āķis": { "replacement": "🪝", "description": "hook" },
+  "rīku kopa": { "replacement": "🧰", "description": "toolbox" },
+  "magnēts": { "replacement": "🧲", "description": "magnet" },
+  "kāpnes": { "replacement": "🪜", "description": "ladder" },
+  "līdzīgs": { "replacement": "⚗️", "description": "alembic" },
+  "mēģene": { "replacement": "🧪", "description": "test tube" },
+  "petri trauks": { "replacement": "🧫", "description": "petri dish" },
+  "DNS": { "replacement": "🧬", "description": "dna" },
+  "mikroskops": { "replacement": "🔬", "description": "microscope" },
+  "teleskops": { "replacement": "🔭", "description": "telescope" },
+  "satelīts": { "replacement": "📡", "description": "satellite antenna" },
+  "šļirce": { "replacement": "💉", "description": "syringe" },
+  "asins piliens": { "replacement": "🩸", "description": "drop of blood" },
+  "tablete": { "replacement": "💊", "description": "pill" },
+  "līmējošais pārsējs": {
+    "replacement": "🩹",
+    "description": "adhesive bandage"
+  },
+  "stetoskops": { "replacement": "🩺", "description": "stethoscope" },
+  "durvis": { "replacement": "🚪", "description": "door" },
+  "lifts": { "replacement": "🛗", "description": "elevator" },
+  "spogulis": { "replacement": "🪞", "description": "mirror" },
+  "logs": { "replacement": "🪟", "description": "window" },
+  "gulta": { "replacement": "🛏️", "description": "bed" },
+  "dīvāns un lampa": { "replacement": "🛋️", "description": "couch and lamp" },
+  "krēsls": { "replacement": "🪑", "description": "chair" },
+  "tualete": { "replacement": "🚾", "description": "water closet" },
+  "virzulis": { "replacement": "🪠", "description": "plunger" },
+  "duša": { "replacement": "🚿", "description": "shower" },
+  "peles slazds": { "replacement": "🪤", "description": "mouse trap" },
+  "skuveklis": { "replacement": "🪒", "description": "razor" },
+  "losjona pudele": { "replacement": "🧴", "description": "lotion bottle" },
+  "saspraužamā adata": { "replacement": "🧷", "description": "safety pin" },
+  "slota": { "replacement": "🧹", "description": "broom" },
+  "grozs": { "replacement": "🧺", "description": "basket" },
+  "papīra rullis": { "replacement": "🧻", "description": "roll of paper" },
+  "spainis": { "replacement": "🪣", "description": "bucket" },
+  "ziepes": { "replacement": "🧼", "description": "soap" },
+  "zobu birste": { "replacement": "🪥", "description": "toothbrush" },
+  "sūklis": { "replacement": "🧽", "description": "sponge" },
+  "ugunsdzēšamais aparāts": {
+    "replacement": "🧯",
+    "description": "fire extinguisher"
+  },
+  "iepirkšanās ratiņi": { "replacement": "🛒", "description": "shopping cart" },
+  "smēķēšana": { "replacement": "🚬", "description": "cigarette" },
+  "zārks": { "replacement": "⚰️", "description": "coffin" },
+  "galvas akmens": { "replacement": "🪦", "description": "headstone" },
+  "bēru urna": { "replacement": "⚱️", "description": "funeral urn" },
+  "moija": { "replacement": "🗿", "description": "moai" },
+  "plakāts": { "replacement": "🪧", "description": "placard" },
+  "atm": { "replacement": "🏧", "description": "ATM sign" },
+  "ielieciet metienu savā vietā": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "dzeramais ūdens": {
+    "replacement": "🚱",
+    "description": "non-potable water"
+  },
+  "ratiņkrēsls": { "replacement": "♿", "description": "wheelchair symbol" },
+  "Vīriešiem": { "replacement": "🚹", "description": "men’s room" },
+  "sievietes": { "replacement": "🚺", "description": "women’s room" },
+  "mazuļa simbols": { "replacement": "🚼", "description": "baby symbol" },
+  "pasu kontrole": { "replacement": "🛂", "description": "passport control" },
+  "paražas": { "replacement": "🛃", "description": "customs" },
+  "bagāžas pieprasījums": {
+    "replacement": "🛄",
+    "description": "baggage claim"
+  },
+  "atstātā bagāža": { "replacement": "🛅", "description": "left luggage" },
+  "brīdinājums": { "replacement": "⚠️", "description": "warning" },
+  "bērni šķērso": { "replacement": "🚸", "description": "children crossing" },
+  "Iebraukt aizliegts": { "replacement": "⛔", "description": "no entry" },
+  "nav ieejas zīmes": { "replacement": "🚫", "description": "prohibited" },
+  "nav velosipēdu": { "replacement": "🚳", "description": "no bicycles" },
+  "smēķēt aizliegts": { "replacement": "🚭", "description": "no smoking" },
+  "nepiesārņo": { "replacement": "🚯", "description": "no littering" },
+  "nav gājēju": { "replacement": "🚷", "description": "no pedestrians" },
+  "nav mobilo tālruņu": {
+    "replacement": "📵",
+    "description": "no mobile phones"
+  },
+  "nepilngadīgs": {
+    "replacement": "🔞",
+    "description": "no one under eighteen"
+  },
+  "radioaktīvs": { "replacement": "☢️", "description": "radioactive" },
+  "bioloģisks apdraudējums": {
+    "replacement": "☣️",
+    "description": "biohazard"
+  },
+  "bultiņa uz augšu": { "replacement": "⬆️", "description": "up arrow" },
+  "bultiņa augšējā labajā stūrī": {
+    "replacement": "↗️",
+    "description": "up-right arrow"
+  },
+  "bultiņa pa labi": { "replacement": "➡️", "description": "right arrow" },
+  "bultiņa apakšējā labajā stūrī": {
+    "replacement": "↘️",
+    "description": "down-right arrow"
+  },
+  "bultiņa uz leju": { "replacement": "⬇️", "description": "down arrow" },
+  "bultiņa apakšējā kreisajā stūrī": {
+    "replacement": "↙️",
+    "description": "down-left arrow"
+  },
+  "bultiņa pa kreisi": { "replacement": "⬅️", "description": "left arrow" },
+  "bultiņa augšējā kreisajā stūrī": {
+    "replacement": "↖️",
+    "description": "up-left arrow"
+  },
+  "bultiņa uz augšu uz leju": {
+    "replacement": "↕️",
+    "description": "up-down arrow"
+  },
+  "kreisā labā bultiņa": {
+    "replacement": "↔️",
+    "description": "left-right arrow"
+  },
+  "bultiņa pa kreisi ar āķi": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "bultiņa labais āķis": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "bultiņa virzās uz augšu": {
+    "replacement": "⤴️",
+    "description": "right arrow curving up"
+  },
+  "bultiņa virzās uz leju": {
+    "replacement": "⤵️",
+    "description": "right arrow curving down"
+  },
+  "bultiņas pulksteņrādītāja virzienā": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "bultiņas pretēji pulksteņrādītāja virzienam": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "atpakaļ": { "replacement": "🔙", "description": "BACK arrow" },
+  "beigas": { "replacement": "🔚", "description": "END arrow" },
+  "ieslēgts": { "replacement": "🔛", "description": "ON! arrow" },
+  "drīz": { "replacement": "🔜", "description": "SOON arrow" },
+  "tops": { "replacement": "🔝", "description": "TOP arrow" },
+  "pielūgsmes vieta": {
+    "replacement": "🛐",
+    "description": "place of worship"
+  },
+  "atoma simbols": { "replacement": "⚛️", "description": "atom symbol" },
+  "om": { "replacement": "🕉️", "description": "om" },
+  "Dāvida zvaigzne": { "replacement": "✡️", "description": "star of David" },
+  "dharmas ritenis": { "replacement": "☸️", "description": "wheel of dharma" },
+  "iņ jaņ": { "replacement": "☯️", "description": "yin yang" },
+  "latīņu krusts": { "replacement": "✝️", "description": "latin cross" },
+  "pareizticīgo krusts": {
+    "replacement": "☦️",
+    "description": "orthodox cross"
+  },
+  "zvaigzne un pusmēness": {
+    "replacement": "☪️",
+    "description": "star and crescent"
+  },
+  "miera simbols": { "replacement": "☮️", "description": "peace symbol" },
+  "menora": { "replacement": "🕎", "description": "menorah" },
+  "sešstaru zvaigzne": {
+    "replacement": "🔯",
+    "description": "dotted six-pointed star"
+  },
+  "taurus": { "replacement": "♉", "description": "Taurus" },
+  "dvīņi": { "replacement": "♊", "description": "Gemini" },
+  "vēzis": { "replacement": "♋", "description": "Cancer" },
+  "leo": { "replacement": "♌", "description": "Leo" },
+  "jaunava": { "replacement": "♍", "description": "Virgo" },
+  "svari": { "replacement": "♎", "description": "Libra" },
+  "skorpijs": { "replacement": "♏", "description": "Scorpio" },
+  "strēlnieks": { "replacement": "♐", "description": "Sagittarius" },
+  "mežāzis": { "replacement": "♑", "description": "Capricorn" },
+  "ūdensvīrs": { "replacement": "♒", "description": "Aquarius" },
+  "zivs": { "replacement": "♓", "description": "Pisces" },
+  "ophiuchus": { "replacement": "⛎", "description": "Ophiuchus" },
+  "savītas bultiņas pa labi": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "atkārtot": { "replacement": "🔁", "description": "repeat button" },
+  "atkārtojiet vienu": {
+    "replacement": "🔂",
+    "description": "repeat single button"
+  },
+  "bultiņa uz priekšu": { "replacement": "▶️", "description": "play button" },
+  "ātri uz priekšu": {
+    "replacement": "⏩",
+    "description": "fast-forward button"
+  },
+  "nākamā ieraksta poga": {
+    "replacement": "⏭️",
+    "description": "next track button"
+  },
+  "atskaņošanas vai pauzes poga": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "bultiņa atpakaļ": { "replacement": "◀️", "description": "reverse button" },
+  "pārtīt": { "replacement": "⏪", "description": "fast reverse button" },
+  "iepriekšējā dziesmas poga": {
+    "replacement": "⏮️",
+    "description": "last track button"
+  },
+  "bultiņa uz augšu maza": {
+    "replacement": "🔼",
+    "description": "upwards button"
+  },
+  "bultiņa dubultojas uz augšu": {
+    "replacement": "⏫",
+    "description": "fast up button"
+  },
+  "bultiņa uz leju maza": {
+    "replacement": "🔽",
+    "description": "downwards button"
+  },
+  "bultiņa dubultojas uz leju": {
+    "replacement": "⏬",
+    "description": "fast down button"
+  },
+  "pauzes poga": { "replacement": "⏸️", "description": "pause button" },
+  "apturēšanas poga": { "replacement": "⏹️", "description": "stop button" },
+  "ierakstīšanas poga": { "replacement": "⏺️", "description": "record button" },
+  "izstumšanas poga": { "replacement": "⏏️", "description": "eject button" },
+  "kino": { "replacement": "🎦", "description": "cinema" },
+  "zems spilgtums": { "replacement": "🔅", "description": "dim button" },
+  "liels spilgtums": { "replacement": "🔆", "description": "bright button" },
+  "signāla stiprums": { "replacement": "📶", "description": "antenna bars" },
+  "vibrācijas režīms": { "replacement": "📳", "description": "vibration mode" },
+  "mobilais tālrunis izslēgts": {
+    "replacement": "📴",
+    "description": "mobile phone off"
+  },
+  "sieviešu zīme": { "replacement": "♀️", "description": "female sign" },
+  "vīriešu zīme": { "replacement": "♂️", "description": "male sign" },
+  "transpersonas simbols": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "smags reizinājums x": { "replacement": "✖️", "description": "multiply" },
+  "smagā plus zīme": { "replacement": "➕", "description": "plus" },
+  "smaga mīnus zīme": { "replacement": "➖", "description": "minus" },
+  "smagā dalījuma zīme": { "replacement": "➗", "description": "divide" },
+  "bezgalība": { "replacement": "♾️", "description": "infinity" },
+  "Bang Bang": {
+    "replacement": "‼️",
+    "description": "double exclamation mark"
+  },
+  "interrobang": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "jautājums": { "replacement": "❓", "description": "question mark" },
+  "pelēks jautājums": {
+    "replacement": "❔",
+    "description": "white question mark"
+  },
+  "pelēks izsaukums": {
+    "replacement": "❕",
+    "description": "white exclamation mark"
+  },
+  "izsaukums": { "replacement": "❗", "description": "exclamation mark" },
+  "viļņota domuzīme": { "replacement": "〰️", "description": "wavy dash" },
+  "valūtas maiņa": { "replacement": "💱", "description": "currency exchange" },
+  "smagā dolāra zīme": {
+    "replacement": "💲",
+    "description": "heavy dollar sign"
+  },
+  "medicīnas simbols": { "replacement": "⚕️", "description": "medical symbol" },
+  "pārstrādāt": { "replacement": "♻️", "description": "recycling symbol" },
+  "fleur de lis": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "trīsstūris": { "replacement": "🔱", "description": "trident emblem" },
+  "vārda zīme": { "replacement": "📛", "description": "name badge" },
+  "iesācējs": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "o": { "replacement": "⭕", "description": "hollow red circle" },
+  "balta atzīme": { "replacement": "✅", "description": "check mark button" },
+  "vēlēšanu kastīte ar čeku": {
+    "replacement": "☑️",
+    "description": "check box with check"
+  },
+  "smaga pārbaude": { "replacement": "✔️", "description": "check mark" },
+  "x": { "replacement": "❌", "description": "cross mark" },
+  "negatīva kvadrātveida krusta atzīme": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "cirtainā cilpa": { "replacement": "➰", "description": "curly loop" },
+  "cilpa": { "replacement": "➿", "description": "double curly loop" },
+  "daļas maiņas zīme": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "astoņi spieķu zvaigznīte": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "astoņstaru melnā zvaigzne": {
+    "replacement": "✴️",
+    "description": "eight-pointed star"
+  },
+  "autortiesības": { "replacement": "©️", "description": "copyright" },
+  "reģistrēts": { "replacement": "®️", "description": "registered" },
+  "tm": { "replacement": "™️", "description": "trade mark" },
+  "hash": { "replacement": "#️⃣", "description": "keycap: #" },
+  "zvaigznīte": { "replacement": "*️⃣", "description": "keycap: *" },
+  "nulle": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "viens": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "divi": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "trīs": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "četri": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "pieci": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "seši": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "septiņi": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "astoņi": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "deviņi": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "taustiņu atslēga desmit": {
+    "replacement": "🔟",
+    "description": "keycap: 10"
+  },
+  "kapitāla abcd": {
+    "replacement": "🔠",
+    "description": "input latin uppercase"
+  },
+  "abcd": { "replacement": "🔡", "description": "input latin lowercase" },
+  "simboli": { "replacement": "🔣", "description": "input symbols" },
+  "abc": { "replacement": "🔤", "description": "input latin letters" },
+  "a": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "ab": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "b": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "kl": { "replacement": "🆑", "description": "CL button" },
+  "forši": { "replacement": "🆒", "description": "COOL button" },
+  "bez maksas": { "replacement": "🆓", "description": "FREE button" },
+  "informācijas avots": { "replacement": "ℹ️", "description": "information" },
+  "id": { "replacement": "🆔", "description": "ID button" },
+  "m": { "replacement": "Ⓜ️", "description": "circled M" },
+  "jauns": { "replacement": "🆕", "description": "NEW button" },
+  "ng": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "labi": { "replacement": "🆗", "description": "OK button" },
+  "autostāvvieta": { "replacement": "🅿️", "description": "P button" },
+  "sos": { "replacement": "🆘", "description": "SOS button" },
+  "uz augšu": { "replacement": "🆙", "description": "UP! button" },
+  "pret": { "replacement": "🆚", "description": "VS button" },
+  "koko": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "sa": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "ideogrāfa priekšrocība": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "pieņemt": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "apsveicu": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "noslēpums": {
+    "replacement": "㊙️",
+    "description": "Japanese “secret” button"
+  },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "sarkans aplis": { "replacement": "🔴", "description": "red circle" },
+  "oranžs aplis": { "replacement": "🟠", "description": "orange circle" },
+  "dzeltens aplis": { "replacement": "🟡", "description": "yellow circle" },
+  "zaļš aplis": { "replacement": "🟢", "description": "green circle" },
+  "liels zils aplis": { "replacement": "🔵", "description": "blue circle" },
+  "violets aplis": { "replacement": "🟣", "description": "purple circle" },
+  "brūns aplis": { "replacement": "🟤", "description": "brown circle" },
+  "melns aplis": { "replacement": "⚫", "description": "black circle" },
+  "balts aplis": { "replacement": "⚪", "description": "white circle" },
+  "sarkanais Kvadrāts": { "replacement": "🟥", "description": "red square" },
+  "oranžs kvadrāts": { "replacement": "🟧", "description": "orange square" },
+  "dzeltens kvadrāts": { "replacement": "🟨", "description": "yellow square" },
+  "zaļš laukums": { "replacement": "🟩", "description": "green square" },
+  "zils kvadrāts": { "replacement": "🟦", "description": "blue square" },
+  "violets kvadrāts": { "replacement": "🟪", "description": "purple square" },
+  "brūns kvadrāts": { "replacement": "🟫", "description": "brown square" },
+  "melns liels kvadrāts": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "balts liels kvadrāts": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "melns vidējs kvadrāts": {
+    "replacement": "◼️",
+    "description": "black medium square"
+  },
+  "balts vidējs kvadrāts": {
+    "replacement": "◻️",
+    "description": "white medium square"
+  },
+  "melns vidējs mazs kvadrāts": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "balts vidējs mazs kvadrāts": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "melns mazs kvadrāts": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "balts mazs kvadrāts": {
+    "replacement": "▫️",
+    "description": "white small square"
+  },
+  "liels oranžs dimants": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "liels zils dimants": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "mazs oranžs dimants": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "mazs zils dimants": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "mazs sarkans trīsstūris": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "mazs sarkans trīsstūris uz leju": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "dimanta forma ar punktu iekšpusē": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "radio poga": { "replacement": "🔘", "description": "radio button" },
+  "balta kvadrātveida poga": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "melna kvadrātveida poga": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "rūtainais karogs": { "replacement": "🏁", "description": "chequered flag" },
+  "trīsstūrveida karogs uz statņa": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "šķērsoja karogus": { "replacement": "🎌", "description": "crossed flags" },
+  "melns karogs": { "replacement": "🏴", "description": "black flag" },
+  "baltais karogs": { "replacement": "🏳️", "description": "white flag" },
+  "varavīksnes karogs": { "replacement": "🏳️‍🌈", "description": "rainbow flag" },
+  "transpersonu karogs": {
+    "replacement": "🏳️‍⚧️",
+    "description": "transgender flag"
+  },
+  "pirātu karogs": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "pacelšanās sala": {
+    "replacement": "🇦🇨",
+    "description": "flag: Ascension Island"
+  },
+  "Andora": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "Apvienotie Arābu Emirāti": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "Afganistāna": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "antigua barbuda": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "angilja": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "albanija": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "Armēnija": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "angola": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "antarktīda": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "argentīna": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "amerikāņu Samoa": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "austrija": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "Austrālija": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "aruba": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "alandu salas": { "replacement": "🇦🇽", "description": "flag: Åland Islands" },
+  "Azerbaidžāna": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "bosnia hercegovina": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "barbadosas": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "Bangladeša": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "Beļģija": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "burkinafaso": { "replacement": "🇧🇫", "description": "flag: Burkina Faso" },
+  "Bulgārija": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "Bahreina": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "burundi": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "benin": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "barthelemy": { "replacement": "🇧🇱", "description": "flag: St. Barthélemy" },
+  "bermudu salas": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "brunei": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "bolīvija": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "karību nīderlande": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "Brazīlija": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "bahamas": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "butāna": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "puķu sala": { "replacement": "🇧🇻", "description": "flag: Bouvet Island" },
+  "Botsvāna": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "baltkrievija": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "Belize": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "Kanāda": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "kokosa salas": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "kongo kinšasa": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "Centrālāfrikas Republika": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "kongo brazavila": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "Šveice": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "Cote divoire": { "replacement": "🇨🇮", "description": "flag: Côte d’Ivoire" },
+  "gatavot salas": { "replacement": "🇨🇰", "description": "flag: Cook Islands" },
+  "Čīle": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "kamerūna": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "cn": { "replacement": "🇨🇳", "description": "flag: China" },
+  "Kolumbija": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "Clipperton sala": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "Kostarika": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "Kuba": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "zemesrags": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "kurakao": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "Ziemassvētku sala": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "Kipra": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "Čehu Republika": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "de": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "diego garcia": { "replacement": "🇩🇬", "description": "flag: Diego Garcia" },
+  "Džibutija": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "Dānija": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "dominika": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "Dominikānas republika": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "alžīrija": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "ceuta melilla": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "Ekvadora": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "igaunija": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "Ēģipte": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "rietumu sahara": {
+    "replacement": "🇪🇭",
+    "description": "flag: Western Sahara"
+  },
+  "eritrea": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "es": { "replacement": "🇪🇺", "description": "flag: European Union" },
+  "etiopija": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "somija": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "Fidži": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "Folklendas salas": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "mikronēzija": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "Farēru salas": { "replacement": "🇫🇴", "description": "flag: Faroe Islands" },
+  "fr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "gabons": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "gb": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "grenāda": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "gruzija": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "franču gviana": {
+    "replacement": "🇬🇫",
+    "description": "flag: French Guiana"
+  },
+  "Gērnsija": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "Gana": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "gibraltārs": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "Grenlande": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "gambija": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "Gvineja": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "Gvadelupa": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "Ekvatoriālā Gvineja": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "grieķija": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "dienvidgruzija dienvidu sviestmaižu salas": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "Gvatemala": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "guam": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "Gvineja-Bisava": {
+    "replacement": "🇬🇼",
+    "description": "flag: Guinea-Bissau"
+  },
+  "guyana": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "Honkonga": {
+    "replacement": "🇭🇰",
+    "description": "flag: Hong Kong SAR China"
+  },
+  "dzirdējušas Mcdonald salas": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "hondurasa": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "Horvātija": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "haiti": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "ungārija": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "Kanāriju salas": {
+    "replacement": "🇮🇨",
+    "description": "flag: Canary Islands"
+  },
+  "Indonēzija": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "īrija": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "Izraēla": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "cilvēka sala": { "replacement": "🇮🇲", "description": "flag: Isle of Man" },
+  "indija": { "replacement": "🇮🇳", "description": "flag: India" },
+  "britu Indijas okeāna teritorija": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "Irāka": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "Irāna": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "Īslande": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "to": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "jamaika": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "Jordānija": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "jp": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "Kenija": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "Kirgizstāna": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "Kambodža": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "kiribati": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "komori": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "st kitts nevis": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "Ziemeļkoreja": { "replacement": "🇰🇵", "description": "flag: North Korea" },
+  "kr": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "Kuveita": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "Kaimanu salas": {
+    "replacement": "🇰🇾",
+    "description": "flag: Cayman Islands"
+  },
+  "kazahstāna": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "laosa": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "Libāna": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "st lucia": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "Lihtenšteina": { "replacement": "🇱🇮", "description": "flag: Liechtenstein" },
+  "Šrilanka": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "libērija": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "lesoto": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "lietuviete": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "Luksemburga": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "latvija": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "lībija": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "maroka": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "monako": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "moldova": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "montenegro": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "svētais Mārtiņš": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "Madagaskara": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "Māršala salas": {
+    "replacement": "🇲🇭",
+    "description": "flag: Marshall Islands"
+  },
+  "maķedonija": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "mali": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "Mjanma": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "mongolija": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "macau": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "ziemeļu marianas salas": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "Martinika": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "mauritānija": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "montserrat": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "malta": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "Maurīcija": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "Maldīvija": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "malāvija": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "Meksika": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "malaizija": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "mozambika": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "namībija": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "Jaunkaledonija": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "Nigēra": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "norfolkas sala": {
+    "replacement": "🇳🇫",
+    "description": "flag: Norfolk Island"
+  },
+  "Nigērija": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "Nikaragva": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "Nīderlande": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "Norvēģija": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "Nepāla": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "nauru": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "niue": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "Jaunzēlande": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "Omāna": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "panama": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "Peru": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "franču polinēzija": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "Papua Jaungvineja": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "Filipīnas": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "pakistāna": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "polija": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "St Pierre Miquelon": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "Pitkērnas salas": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "Puertoriko": { "replacement": "🇵🇷", "description": "flag: Puerto Rico" },
+  "palestīniešu teritorijas": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "Portugāle": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "palau": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "Paragvaja": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "Katara": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "atkalapvienošanās": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "rumānija": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "serbija": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "ru": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "Ruanda": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "Saūda Arābija": { "replacement": "🇸🇦", "description": "flag: Saudi Arabia" },
+  "Zālamana salas": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "Seišelu salas": { "replacement": "🇸🇨", "description": "flag: Seychelles" },
+  "sudāns": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "Zviedrija": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "Singapūra": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "st Helēna": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "slovēnija": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "svalbard jan mayen": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "slovakija": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "Sjerraleone": { "replacement": "🇸🇱", "description": "flag: Sierra Leone" },
+  "sanmarīno": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "senegāla": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "somālija": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "surinama": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "dienvidu Sudāna": {
+    "replacement": "🇸🇸",
+    "description": "flag: South Sudan"
+  },
+  "sao tome principe": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "Salvadora": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "sint maarten": { "replacement": "🇸🇽", "description": "flag: Sint Maarten" },
+  "Sīrija": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "svazilenda": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "tristans da kunja": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "turks caicos salas": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "čada": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "franču dienvidu teritorijas": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "iet": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "Taizeme": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "tadžikistāna": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "tokelau": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "Timor leste": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "Turkmenistāna": { "replacement": "🇹🇲", "description": "flag: Turkmenistan" },
+  "Tunisija": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "tonga": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "tr": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "trinidad tobago": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "tuvalu": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "Taivāna": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "tanzānija": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "ukraina": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "uganda": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "mums, nomaļajām salām": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "Apvienotās Nācijas": {
+    "replacement": "🇺🇳",
+    "description": "flag: United Nations"
+  },
+  "mums": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "urugvaja": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "uzbekistāna": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "Vatikāna pilsēta": {
+    "replacement": "🇻🇦",
+    "description": "flag: Vatican City"
+  },
+  "st vincent grenadīni": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "Venecuēla": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "Britu jaunavas salas": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "mūs neapstrādātas salas": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "vjetnama": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "vanuatu": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "wallis futuna": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "samoa": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "kosovo": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "jemena": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "majonote": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "Dienvidāfrika": { "replacement": "🇿🇦", "description": "flag: South Africa" },
+  "zambija": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "zimbabve": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "anglija": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "skotija": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "Velsa": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

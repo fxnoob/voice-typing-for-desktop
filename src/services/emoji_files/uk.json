@@ -1,0 +1,2968 @@
+{
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "посміхаючись": { "replacement": "😀", "description": "grinning face" },
+  "смайлик": {
+    "replacement": "😃",
+    "description": "grinning face with big eyes"
+  },
+  "посмішка": {
+    "replacement": "😄",
+    "description": "grinning face with smiling eyes"
+  },
+  "посміхатися": { "replacement": "😏", "description": "smirking face" },
+  "сміятися": { "replacement": "😆", "description": "grinning squinting face" },
+  "пітна посмішка": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "радість": { "replacement": "😂", "description": "face with tears of joy" },
+  "злегка усміхнене обличчя": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "перевернуте обличчя": {
+    "replacement": "🙃",
+    "description": "upside-down face"
+  },
+  "підморгування": { "replacement": "😉", "description": "winking face" },
+  "рум'янець": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "невинний": { "replacement": "😇", "description": "smiling face with halo" },
+  "усміхнене обличчя з трьома сердечками": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "серцеві очі": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "зірка вдарила": { "replacement": "🤩", "description": "star-struck" },
+  "цілую серце": { "replacement": "😘", "description": "face blowing a kiss" },
+  "цілуватися": { "replacement": "😗", "description": "kissing face" },
+  "розслаблений": { "replacement": "☺️", "description": "smiling face" },
+  "цілувати закриті очі": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "цілувати усміхнені очі": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "усміхнене обличчя зі сльозами": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "ням": { "replacement": "😋", "description": "face savoring food" },
+  "висунутий язик": { "replacement": "😛", "description": "face with tongue" },
+  "стирчить язик, підморгуючи оком": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "задирливе обличчя": { "replacement": "🤪", "description": "zany face" },
+  "стирчав язик із заплющеними очима": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "гроші рот обличчя": {
+    "replacement": "🤑",
+    "description": "money-mouth face"
+  },
+  "обійми": { "replacement": "🤗", "description": "hugging face" },
+  "здати рот": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "шутливе обличчя": { "replacement": "🤫", "description": "shushing face" },
+  "мислення": { "replacement": "🤔", "description": "thinking face" },
+  "рот на блискавці обличчя": {
+    "replacement": "🤐",
+    "description": "zipper-mouth face"
+  },
+  "піднята брова": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "нейтральне обличчя": { "replacement": "😐", "description": "neutral face" },
+  "безвиразний": { "replacement": "😑", "description": "expressionless face" },
+  "немає рота": { "replacement": "😶", "description": "face without mouth" },
+  "незабавно": { "replacement": "😒", "description": "unamused face" },
+  "закотити очі": {
+    "replacement": "🙄",
+    "description": "face with rolling eyes"
+  },
+  "кривлячись": { "replacement": "😬", "description": "grimacing face" },
+  "лежаче обличчя": { "replacement": "🤥", "description": "lying face" },
+  "полегшено": { "replacement": "😌", "description": "relieved face" },
+  "задумливий": { "replacement": "😔", "description": "pensive face" },
+  "сонний": { "replacement": "😪", "description": "sleepy face" },
+  "слюні обличчя": { "replacement": "🤤", "description": "drooling face" },
+  "спати": { "replacement": "😴", "description": "sleeping face" },
+  "маска": { "replacement": "😷", "description": "face with medical mask" },
+  "обличчя з термометром": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "обличчя з бинтом на голові": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "нудотне обличчя": { "replacement": "🤢", "description": "nauseated face" },
+  "блювота обличчя": { "replacement": "🤮", "description": "face vomiting" },
+  "чхання обличчя": { "replacement": "🤧", "description": "sneezing face" },
+  "гаряче обличчя": { "replacement": "🥵", "description": "hot face" },
+  "холодне обличчя": { "replacement": "🥶", "description": "cold face" },
+  "ослаблене обличчя": { "replacement": "🥴", "description": "woozy face" },
+  "запаморочення обличчя": { "replacement": "😵", "description": "dizzy face" },
+  "вибухає голова": { "replacement": "🤯", "description": "exploding head" },
+  "обличчя ковбойської капелюхи": {
+    "replacement": "🤠",
+    "description": "cowboy hat face"
+  },
+  "вечірка обличчя": { "replacement": "🥳", "description": "partying face" },
+  "замасковане обличчя": {
+    "replacement": "🥸",
+    "description": "disguised face"
+  },
+  "сонцезахисні окуляри": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "обличчя ботаніка": { "replacement": "🤓", "description": "nerd face" },
+  "монокль обличчя": {
+    "replacement": "🧐",
+    "description": "face with monocle"
+  },
+  "розгублений": { "replacement": "😕", "description": "confused face" },
+  "стурбований": { "replacement": "😟", "description": "worried face" },
+  "злегка насуплене обличчя": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "нахмурене обличчя": { "replacement": "☹️", "description": "frowning face" },
+  "відкритий рот": {
+    "replacement": "😮",
+    "description": "face with open mouth"
+  },
+  "замовк": { "replacement": "😯", "description": "hushed face" },
+  "здивований": { "replacement": "😲", "description": "astonished face" },
+  "почервоніла": { "replacement": "😳", "description": "flushed face" },
+  "благальне обличчя": { "replacement": "🥺", "description": "pleading face" },
+  "насупившись": {
+    "replacement": "😦",
+    "description": "frowning face with open mouth"
+  },
+  "страждання": { "replacement": "😧", "description": "anguished face" },
+  "страшний": { "replacement": "😨", "description": "fearful face" },
+  "холодний піт": {
+    "replacement": "😰",
+    "description": "anxious face with sweat"
+  },
+  "розчарований полегшення": {
+    "replacement": "😥",
+    "description": "sad but relieved face"
+  },
+  "плакати": { "replacement": "😢", "description": "crying face" },
+  "ридати": { "replacement": "😭", "description": "loudly crying face" },
+  "кричати": { "replacement": "😱", "description": "face screaming in fear" },
+  "збентежений": { "replacement": "😖", "description": "confounded face" },
+  "витримати": { "replacement": "😣", "description": "persevering face" },
+  "розчарований": { "replacement": "😞", "description": "disappointed face" },
+  "піт": { "replacement": "😓", "description": "downcast face with sweat" },
+  "втомлений": { "replacement": "😩", "description": "weary face" },
+  "втомлене обличчя": { "replacement": "😫", "description": "tired face" },
+  "позіхаюче обличчя": { "replacement": "🥱", "description": "yawning face" },
+  "тріумф": { "replacement": "😤", "description": "face with steam from nose" },
+  "лють": { "replacement": "😡", "description": "pouting face" },
+  "злий": { "replacement": "😠", "description": "angry face" },
+  "лайка обличчя": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "усміхнений імп": {
+    "replacement": "😈",
+    "description": "smiling face with horns"
+  },
+  "імп": { "replacement": "👿", "description": "angry face with horns" },
+  "череп": { "replacement": "💀", "description": "skull" },
+  "череп і кістки": {
+    "replacement": "☠️",
+    "description": "skull and crossbones"
+  },
+  "Хенкі": { "replacement": "💩", "description": "pile of poo" },
+  "клоунське обличчя": { "replacement": "🤡", "description": "clown face" },
+  "японський огр": { "replacement": "👹", "description": "ogre" },
+  "японський гоблін": { "replacement": "👺", "description": "goblin" },
+  "привид": { "replacement": "👻", "description": "ghost" },
+  "чужий": { "replacement": "👽", "description": "alien" },
+  "космічний загарбник": {
+    "replacement": "👾",
+    "description": "alien monster"
+  },
+  "робот": { "replacement": "🤖", "description": "robot" },
+  "смайлик кішка": { "replacement": "😺", "description": "grinning cat" },
+  "посмішка кішка": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "радість кішка": {
+    "replacement": "😹",
+    "description": "cat with tears of joy"
+  },
+  "серце очі кішка": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "котик-посмішка": {
+    "replacement": "😼",
+    "description": "cat with wry smile"
+  },
+  "цілуватися кішка": { "replacement": "😽", "description": "kissing cat" },
+  "крик кота": { "replacement": "🙀", "description": "weary cat" },
+  "плаче котяче обличчя": { "replacement": "😿", "description": "crying cat" },
+  "надутий кіт": { "replacement": "😾", "description": "pouting cat" },
+  "не бачу зла": { "replacement": "🙈", "description": "see-no-evil monkey" },
+  "не чути зла": { "replacement": "🙉", "description": "hear-no-evil monkey" },
+  "не говоріть зла": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "поцілунок": { "replacement": "💋", "description": "kiss mark" },
+  "любовний лист": { "replacement": "💌", "description": "love letter" },
+  "амур": { "replacement": "💘", "description": "heart with arrow" },
+  "подарунок серця": {
+    "replacement": "💝",
+    "description": "heart with ribbon"
+  },
+  "іскристе серце": { "replacement": "💖", "description": "sparkling heart" },
+  "серцебиття": { "replacement": "💓", "description": "beating heart" },
+  "обертаються серця": {
+    "replacement": "💞",
+    "description": "revolving hearts"
+  },
+  "два серця": { "replacement": "💕", "description": "two hearts" },
+  "прикраса серця": { "replacement": "💟", "description": "heart decoration" },
+  "важкий вигук серця": {
+    "replacement": "❣️",
+    "description": "heart exclamation"
+  },
+  "розбите серце": { "replacement": "💔", "description": "broken heart" },
+  "серце": { "replacement": "❤️", "description": "red heart" },
+  "помаранчеве серце": { "replacement": "🧡", "description": "orange heart" },
+  "жовте серце": { "replacement": "💛", "description": "yellow heart" },
+  "зелене серце": { "replacement": "💚", "description": "green heart" },
+  "синє серце": { "replacement": "💙", "description": "blue heart" },
+  "фіолетове серце": { "replacement": "💜", "description": "purple heart" },
+  "коричневе серце": { "replacement": "🤎", "description": "brown heart" },
+  "Чорне серце": { "replacement": "🖤", "description": "black heart" },
+  "біле серце": { "replacement": "🤍", "description": "white heart" },
+  "гнів": { "replacement": "💢", "description": "anger symbol" },
+  "бум": { "replacement": "💥", "description": "collision" },
+  "запаморочення": { "replacement": "💫", "description": "dizzy" },
+  "краплі поту": { "replacement": "💦", "description": "sweat droplets" },
+  "тире": { "replacement": "💨", "description": "dashing away" },
+  "отвір": { "replacement": "🕳️", "description": "hole" },
+  "бомба": { "replacement": "💣", "description": "bomb" },
+  "повітряна куля": { "replacement": "🎈", "description": "balloon" },
+  "око міхур мови": {
+    "replacement": "👁️‍🗨️",
+    "description": "eye in speech bubble"
+  },
+  "ліва спливаюча підказка": {
+    "replacement": "🗨️",
+    "description": "left speech bubble"
+  },
+  "права гнів міхур": {
+    "replacement": "🗯️",
+    "description": "right anger bubble"
+  },
+  "повітряна куля думки": {
+    "replacement": "💭",
+    "description": "thought balloon"
+  },
+  "zzz": { "replacement": "💤", "description": "zzz" },
+  "хвиля": { "replacement": "👋", "description": "waving hand" },
+  "піднята тильна сторона руки": {
+    "replacement": "🤚",
+    "description": "raised back of hand"
+  },
+  "піднята рука з розігнаними пальцями": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "рука": { "replacement": "✋", "description": "raised hand" },
+  "вулканічний салют": { "replacement": "🖖", "description": "vulcan salute" },
+  "гаразд рука": { "replacement": "👌", "description": "OK hand" },
+  "затиснуті пальці": { "replacement": "🤌", "description": "pinched fingers" },
+  "щипання руки": { "replacement": "🤏", "description": "pinching hand" },
+  "v": { "replacement": "✌️", "description": "victory hand" },
+  "схрещені пальці": { "replacement": "🤞", "description": "crossed fingers" },
+  "люблю тебе жест": { "replacement": "🤟", "description": "love-you gesture" },
+  "металеві": { "replacement": "🤘", "description": "sign of the horns" },
+  "поклич мене рукою": { "replacement": "🤙", "description": "call me hand" },
+  "точка вліво": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "точка вправо": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "вгору 2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "середній палець": { "replacement": "🖕", "description": "middle finger" },
+  "вказувати вниз": {
+    "replacement": "👇",
+    "description": "backhand index pointing down"
+  },
+  "вказувати вгору": {
+    "replacement": "☝️",
+    "description": "index pointing up"
+  },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "кулак піднятий": { "replacement": "✊", "description": "raised fist" },
+  "кулак зустрічний": { "replacement": "👊", "description": "oncoming fist" },
+  "кулак ліворуч": { "replacement": "🤛", "description": "left-facing fist" },
+  "кулак праворуч": { "replacement": "🤜", "description": "right-facing fist" },
+  "плескати": { "replacement": "👏", "description": "clapping hands" },
+  "підняті руки": { "replacement": "🙌", "description": "raising hands" },
+  "розкритими руками": { "replacement": "👐", "description": "open hands" },
+  "долоні вгору разом": {
+    "replacement": "🤲",
+    "description": "palms up together"
+  },
+  "рукостискання": { "replacement": "🤝", "description": "handshake" },
+  "молитися": { "replacement": "🙏", "description": "folded hands" },
+  "написання руки": { "replacement": "✍️", "description": "writing hand" },
+  "догляд за нігтями": { "replacement": "💅", "description": "nail polish" },
+  "селфі": { "replacement": "🤳", "description": "selfie" },
+  "м'язи": { "replacement": "💪", "description": "flexed biceps" },
+  "механічна рука": { "replacement": "🦾", "description": "mechanical arm" },
+  "механічна нога": { "replacement": "🦿", "description": "mechanical leg" },
+  "нога": { "replacement": "🦵", "description": "leg" },
+  "стопа": { "replacement": "🦶", "description": "foot" },
+  "вухо": { "replacement": "👂", "description": "ear" },
+  "вухо зі слуховим апаратом": {
+    "replacement": "🦻",
+    "description": "ear with hearing aid"
+  },
+  "ніс": { "replacement": "👃", "description": "nose" },
+  "мозку": { "replacement": "🧠", "description": "brain" },
+  "анатомічне серце": { "replacement": "🫀", "description": "anatomical heart" },
+  "легені": { "replacement": "🫁", "description": "lungs" },
+  "зуба": { "replacement": "🦷", "description": "tooth" },
+  "кістка": { "replacement": "🦴", "description": "bone" },
+  "очі": { "replacement": "👀", "description": "eyes" },
+  "око": { "replacement": "👁️", "description": "eye" },
+  "язик": { "replacement": "👅", "description": "tongue" },
+  "губи": { "replacement": "👄", "description": "mouth" },
+  "дитина": { "replacement": "🧒", "description": "child" },
+  "хлопчик": { "replacement": "👦", "description": "boy" },
+  "дівчина": { "replacement": "👧", "description": "girl" },
+  "дорослий": { "replacement": "🧑", "description": "person" },
+  "білява людина": { "replacement": "👱‍♂️", "description": "man: blond hair" },
+  "людина": { "replacement": "👨", "description": "man" },
+  "бородатий": { "replacement": "🧔", "description": "man: beard" },
+  "рудий чоловік": { "replacement": "👨‍🦰", "description": "man: red hair" },
+  "Кучеряве волосся": { "replacement": "👨‍🦱", "description": "man: curly hair" },
+  "білолосий чоловік": {
+    "replacement": "👨‍🦳",
+    "description": "man: white hair"
+  },
+  "лисий чоловік": { "replacement": "👨‍🦲", "description": "man: bald" },
+  "жінка": { "replacement": "👩", "description": "woman" },
+  "руда жінка": { "replacement": "👩‍🦰", "description": "woman: red hair" },
+  "людина руде волосся": {
+    "replacement": "🧑‍🦰",
+    "description": "person: red hair"
+  },
+  "Кучеряве волосся жінки": {
+    "replacement": "👩‍🦱",
+    "description": "woman: curly hair"
+  },
+  "людина кучеряве волосся": {
+    "replacement": "🧑‍🦱",
+    "description": "person: curly hair"
+  },
+  "білокоса жінка": { "replacement": "👩‍🦳", "description": "woman: white hair" },
+  "людина біле волосся": {
+    "replacement": "🧑‍🦳",
+    "description": "person: white hair"
+  },
+  "лиса жінка": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "людина лисий": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "білява жінка": { "replacement": "👱‍♀️", "description": "woman: blond hair" },
+  "старший дорослий": { "replacement": "🧓", "description": "older person" },
+  "старший чоловік": { "replacement": "👴", "description": "old man" },
+  "старша жінка": { "replacement": "👵", "description": "old woman" },
+  "нахмурена людина": { "replacement": "🙍", "description": "person frowning" },
+  "нахмурений чоловік": { "replacement": "🙍‍♂️", "description": "man frowning" },
+  "нахмурена жінка": { "replacement": "🙍‍♀️", "description": "woman frowning" },
+  "надуте обличчя": { "replacement": "🙎", "description": "person pouting" },
+  "надутий чоловік": { "replacement": "🙎‍♂️", "description": "man pouting" },
+  "надута жінка": { "replacement": "🙎‍♀️", "description": "woman pouting" },
+  "не добре": { "replacement": "🙅", "description": "person gesturing NO" },
+  "жодної доброї людини": {
+    "replacement": "🙅‍♂️",
+    "description": "man gesturing NO"
+  },
+  "жодної доброї жінки": {
+    "replacement": "🙅‍♀️",
+    "description": "woman gesturing NO"
+  },
+  "добре людина": { "replacement": "🙆", "description": "person gesturing OK" },
+  "добре, чоловіче": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "добре жінка": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "чайові рука людини": {
+    "replacement": "💁‍♂️",
+    "description": "man tipping hand"
+  },
+  "чайові рука жінка": {
+    "replacement": "💁‍♀️",
+    "description": "woman tipping hand"
+  },
+  "піднімаючи руку": {
+    "replacement": "🙋",
+    "description": "person raising hand"
+  },
+  "підняття руки людина": {
+    "replacement": "🙋‍♂️",
+    "description": "man raising hand"
+  },
+  "підняття боку жінки": {
+    "replacement": "🙋‍♀️",
+    "description": "woman raising hand"
+  },
+  "глуха людина": { "replacement": "🧏", "description": "deaf person" },
+  "глухий чоловік": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "глуха жінка": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "уклін": { "replacement": "🙇", "description": "person bowing" },
+  "кланяючись людині": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "кланяючись жінка": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "лицева долоня": { "replacement": "🤦", "description": "person facepalming" },
+  "людина facepalming": {
+    "replacement": "🤦‍♂️",
+    "description": "man facepalming"
+  },
+  "жінка facepalming": {
+    "replacement": "🤦‍♀️",
+    "description": "woman facepalming"
+  },
+  "знизати плечима": { "replacement": "🤷", "description": "person shrugging" },
+  "чоловік знизує плечима": {
+    "replacement": "🤷‍♂️",
+    "description": "man shrugging"
+  },
+  "жінка знизує плечима": {
+    "replacement": "🤷‍♀️",
+    "description": "woman shrugging"
+  },
+  "медичний працівник": {
+    "replacement": "🧑‍⚕️",
+    "description": "health worker"
+  },
+  "чоловік медичний працівник": {
+    "replacement": "👨‍⚕️",
+    "description": "man health worker"
+  },
+  "жінка медичний працівник": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "студент": { "replacement": "🧑‍🎓", "description": "student" },
+  "людина студент": { "replacement": "👨‍🎓", "description": "man student" },
+  "жінка студентка": { "replacement": "👩‍🎓", "description": "woman student" },
+  "вчитель": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "людина вчитель": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "жінка-вчитель": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "суддя": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "людина суддя": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "жінка суддя": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "фермер": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "людина фермер": { "replacement": "👨‍🌾", "description": "man farmer" },
+  "жінка фермер": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "кухар": { "replacement": "🧑‍🍳", "description": "cook" },
+  "людина кухар": { "replacement": "👨‍🍳", "description": "man cook" },
+  "жінка кухар": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "механік": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "людина механік": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "жінка механік": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "працівник заводу": {
+    "replacement": "🧑‍🏭",
+    "description": "factory worker"
+  },
+  "людина фабричний працівник": {
+    "replacement": "👨‍🏭",
+    "description": "man factory worker"
+  },
+  "жінка працівник заводу": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "офісний робітник": {
+    "replacement": "🧑‍💼",
+    "description": "office worker"
+  },
+  "людина службовий працівник": {
+    "replacement": "👨‍💼",
+    "description": "man office worker"
+  },
+  "жінка офісний працівник": {
+    "replacement": "👩‍💼",
+    "description": "woman office worker"
+  },
+  "вчений": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "людина вчений": { "replacement": "👨‍🔬", "description": "man scientist" },
+  "жінка вчений": { "replacement": "👩‍🔬", "description": "woman scientist" },
+  "технолог": { "replacement": "🧑‍💻", "description": "technologist" },
+  "людина технолог": { "replacement": "👨‍💻", "description": "man technologist" },
+  "жінка-технолог": {
+    "replacement": "👩‍💻",
+    "description": "woman technologist"
+  },
+  "співак": { "replacement": "🧑‍🎤", "description": "singer" },
+  "людина співак": { "replacement": "👨‍🎤", "description": "man singer" },
+  "жінка співачка": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "художник": { "replacement": "🧑‍🎨", "description": "artist" },
+  "людина художник": { "replacement": "👨‍🎨", "description": "man artist" },
+  "жінка художник": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "пілот": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "людина пілот": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "жінка-пілот": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "космонавт": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "людина космонавт": { "replacement": "👨‍🚀", "description": "man astronaut" },
+  "жінка космонавт": { "replacement": "👩‍🚀", "description": "woman astronaut" },
+  "пожежник": { "replacement": "🧑‍🚒", "description": "firefighter" },
+  "людина пожежний": { "replacement": "👨‍🚒", "description": "man firefighter" },
+  "жінка пожежник": { "replacement": "👩‍🚒", "description": "woman firefighter" },
+  "офіцер поліції": { "replacement": "👮", "description": "police officer" },
+  "поліцейський": { "replacement": "👮‍♂️", "description": "man police officer" },
+  "поліцейська": { "replacement": "👮‍♀️", "description": "woman police officer" },
+  "детектив": { "replacement": "🕵️", "description": "detective" },
+  "чоловік-детектив": { "replacement": "🕵️‍♂️", "description": "man detective" },
+  "жінка-детектив": { "replacement": "🕵️‍♀️", "description": "woman detective" },
+  "вартовий": { "replacement": "💂", "description": "guard" },
+  "гвардієць": { "replacement": "💂‍♂️", "description": "man guard" },
+  "гвардійка": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "ніндзя": { "replacement": "🥷", "description": "ninja" },
+  "Будівельник": { "replacement": "👷", "description": "construction worker" },
+  "чоловік будівельник": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "жінка будівельник": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "князь": { "replacement": "🤴", "description": "prince" },
+  "принцеса": { "replacement": "👸", "description": "princess" },
+  "людина з тюрбаном": {
+    "replacement": "👳‍♂️",
+    "description": "man wearing turban"
+  },
+  "жінка з тюрбаном": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "людина з гуа пі мао": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "жінка з хусткою": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "людина в смокінгу": {
+    "replacement": "🤵‍♂️",
+    "description": "man in tuxedo"
+  },
+  "жінка в смокінгу": {
+    "replacement": "🤵‍♀️",
+    "description": "woman in tuxedo"
+  },
+  "людина з вуаллю": { "replacement": "👰‍♂️", "description": "man with veil" },
+  "жінка з вуаллю": {
+    "replacement": "👰‍♀️",
+    "description": "woman with veil"
+  },
+  "вагітна жінка": { "replacement": "🤰", "description": "pregnant woman" },
+  "грудне вигодовування": {
+    "replacement": "🤱",
+    "description": "breast-feeding"
+  },
+  "жінка годує дитину": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "чоловік годує дитину": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "людина, яка годує дитину": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "ангел": { "replacement": "👼", "description": "baby angel" },
+  "Санта": { "replacement": "🎅", "description": "Santa Claus" },
+  "пані Клаус": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "mx claus": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "супергерой": { "replacement": "🦸", "description": "superhero" },
+  "людина супергероя": { "replacement": "🦸‍♂️", "description": "man superhero" },
+  "жінка супергероя": { "replacement": "🦸‍♀️", "description": "woman superhero" },
+  "суперзлодей": { "replacement": "🦹", "description": "supervillain" },
+  "суперзлодей людина": {
+    "replacement": "🦹‍♂️",
+    "description": "man supervillain"
+  },
+  "суперзлодійна жінка": {
+    "replacement": "🦹‍♀️",
+    "description": "woman supervillain"
+  },
+  "маг": { "replacement": "🔍", "description": "magnifying glass tilted left" },
+  "маг маг": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "маг-жінка": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "фея": { "replacement": "🧚", "description": "fairy" },
+  "фея людина": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "фея жінка": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "вампір": { "replacement": "🧛", "description": "vampire" },
+  "людина-вампір": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "жінка-вампір": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "мерперсон": { "replacement": "🧜", "description": "merperson" },
+  "мерман": { "replacement": "🧜‍♂️", "description": "merman" },
+  "русалка": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "ельф": { "replacement": "🧝", "description": "elf" },
+  "людина-ельф": { "replacement": "🧝‍♂️", "description": "man elf" },
+  "жінка-ельф": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "джин": { "replacement": "🧞", "description": "genie" },
+  "людина джин": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "жінка-джин": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "зомбі": { "replacement": "🧟", "description": "zombie" },
+  "зомбі людина": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "жінка-зомбі": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "масаж": { "replacement": "💆", "description": "person getting massage" },
+  "масаж людини": { "replacement": "💆‍♂️", "description": "man getting massage" },
+  "масаж жінки": {
+    "replacement": "💆‍♀️",
+    "description": "woman getting massage"
+  },
+  "стрижка": { "replacement": "💇", "description": "person getting haircut" },
+  "стрижка людини": {
+    "replacement": "💇‍♂️",
+    "description": "man getting haircut"
+  },
+  "стрижка жінки": {
+    "replacement": "💇‍♀️",
+    "description": "woman getting haircut"
+  },
+  "ходьба": { "replacement": "🚶", "description": "person walking" },
+  "ходьба людина": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "ходьба жінка": { "replacement": "🚶‍♀️", "description": "woman walking" },
+  "стояча людина": { "replacement": "🧍", "description": "person standing" },
+  "стоячий чоловік": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "стоячи жінка": { "replacement": "🧍‍♀️", "description": "woman standing" },
+  "людина, що стоїть на колінах": {
+    "replacement": "🧎",
+    "description": "person kneeling"
+  },
+  "чоловік на колінах": {
+    "replacement": "🧎‍♂️",
+    "description": "man kneeling"
+  },
+  "жінка на колінах": {
+    "replacement": "🧎‍♀️",
+    "description": "woman kneeling"
+  },
+  "людина з зондуючої тростини": {
+    "replacement": "🧑‍🦯",
+    "description": "person with white cane"
+  },
+  "людина з зондування тростини": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "жінка з зондуючої тростини": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "людина в інвалідному візку": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "жінка в інвалідному візку": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "людина в ручному інвалідному візку": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "жінка в ручному інвалідному візку": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "бігун": { "replacement": "🏃", "description": "person running" },
+  "людина, що біжить": { "replacement": "🏃‍♂️", "description": "man running" },
+  "працює жінка": { "replacement": "🏃‍♀️", "description": "woman running" },
+  "жінка танцює": { "replacement": "💃", "description": "woman dancing" },
+  "людина танцює": { "replacement": "🕺", "description": "man dancing" },
+  "діловий костюм, що левітує": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "танцюристи": {
+    "replacement": "👯",
+    "description": "people with bunny ears"
+  },
+  "танцюючі чоловіки": {
+    "replacement": "👯‍♂️",
+    "description": "men with bunny ears"
+  },
+  "танцюючі жінки": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "сауна людина": { "replacement": "🧖‍♂️", "description": "man in steamy room" },
+  "жінка-сауна": { "replacement": "🧖‍♀️", "description": "woman in steamy room" },
+  "сходження": { "replacement": "🧗", "description": "person climbing" },
+  "сходження людина": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "сходження жінка": { "replacement": "🧗‍♀️", "description": "woman climbing" },
+  "фехтування людини": { "replacement": "🤺", "description": "person fencing" },
+  "скачки": { "replacement": "🏇", "description": "horse racing" },
+  "лижник": { "replacement": "⛷️", "description": "skier" },
+  "сноубордист": { "replacement": "🏂", "description": "snowboarder" },
+  "гольф": { "replacement": "⛳", "description": "flag in hole" },
+  "людина в гольф": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "жінка в гольф": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "серфер": { "replacement": "🏄", "description": "person surfing" },
+  "серфінг людина": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "серфінг жінка": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "гребний човен": { "replacement": "🚣", "description": "person rowing boat" },
+  "людина, що веслує": {
+    "replacement": "🚣‍♂️",
+    "description": "man rowing boat"
+  },
+  "веслувальник": { "replacement": "🚣‍♀️", "description": "woman rowing boat" },
+  "плавець": { "replacement": "🏊", "description": "person swimming" },
+  "плавальний чоловік": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "плавання жінка": { "replacement": "🏊‍♀️", "description": "woman swimming" },
+  "підстрибуючий м'яч людини": {
+    "replacement": "⛹️",
+    "description": "person bouncing ball"
+  },
+  "підстрибуючи м'яч людина": {
+    "replacement": "⛹️‍♂️",
+    "description": "man bouncing ball"
+  },
+  "підстрибуючи м'яч жінка": {
+    "replacement": "⛹️‍♀️",
+    "description": "woman bouncing ball"
+  },
+  "Важка атлетика": {
+    "replacement": "🏋️",
+    "description": "person lifting weights"
+  },
+  "важка атлетика людина": {
+    "replacement": "🏋️‍♂️",
+    "description": "man lifting weights"
+  },
+  "важкої атлетики жінка": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "велосипедист": { "replacement": "🚴", "description": "person biking" },
+  "людина на велосипеді": { "replacement": "🚴‍♂️", "description": "man biking" },
+  "жінка на велосипеді": { "replacement": "🚴‍♀️", "description": "woman biking" },
+  "гірський велосипедист": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "гірський велосипед людина": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "гірський велосипед жінка": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "віз колеса": { "replacement": "🤸", "description": "person cartwheeling" },
+  "людина колесо": { "replacement": "🤸‍♂️", "description": "man cartwheeling" },
+  "жінка колесо": { "replacement": "🤸‍♀️", "description": "woman cartwheeling" },
+  "боротьба": { "replacement": "🤼", "description": "people wrestling" },
+  "чоловіча боротьба": { "replacement": "🤼‍♂️", "description": "men wrestling" },
+  "боротьба жінок": { "replacement": "🤼‍♀️", "description": "women wrestling" },
+  "водне поло": {
+    "replacement": "🤽",
+    "description": "person playing water polo"
+  },
+  "людина грає у водне поло": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "жінка грає у водне поло": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "гандбольна людина": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "людина грає в гандбол": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "жінка, що грає в гандбол": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "жонглювання людиною": {
+    "replacement": "🤹",
+    "description": "person juggling"
+  },
+  "людина жонглювання": { "replacement": "🤹‍♂️", "description": "man juggling" },
+  "жінка жонглювання": { "replacement": "🤹‍♀️", "description": "woman juggling" },
+  "положення лотоса": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "Позиція лотоса людина": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "лотоса позиції жінки": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "ванна": { "replacement": "🛁", "description": "bathtub" },
+  "спальне ліжко": { "replacement": "🛌", "description": "person in bed" },
+  "люди, що тримаються за руки": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "дві жінки, тримаючись за руки": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "пара": { "replacement": "👫", "description": "woman and man holding hands" },
+  "двоє чоловіків, тримаючись за руки": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "парний поцілунок": { "replacement": "💏", "description": "kiss" },
+  "couplekiss чоловік жінка": {
+    "replacement": "👩‍❤️‍💋‍👨",
+    "description": "kiss: woman, man"
+  },
+  "пара чоловічий чоловік": {
+    "replacement": "👨‍❤️‍💋‍👨",
+    "description": "kiss: man, man"
+  },
+  "couplekiss жінка жінка": {
+    "replacement": "👩‍❤️‍💋‍👩",
+    "description": "kiss: woman, woman"
+  },
+  "пара з серцем": { "replacement": "💑", "description": "couple with heart" },
+  "пара з серцем жінка чоловік": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "пара з серцем людина людина": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "пара з серцем жінка жінка": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "сім'я": { "replacement": "👪", "description": "family" },
+  "сім'я чоловік жінка хлопчик": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "сім'я чоловік жінка дівчина": {
+    "replacement": "👨‍👩‍👧",
+    "description": "family: man, woman, girl"
+  },
+  "сім'я чоловік жінка дівчина хлопчик": {
+    "replacement": "👨‍👩‍👧‍👦",
+    "description": "family: man, woman, girl, boy"
+  },
+  "сім'я чоловік жінка хлопчик хлопчик": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "сім'я чоловік жінка дівчина дівчина": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "сім'я людина чоловік хлопчик": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "сім'я людина чоловік дівчина": {
+    "replacement": "👨‍👨‍👧",
+    "description": "family: man, man, girl"
+  },
+  "сім'я людина чоловік дівчина хлопчик": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "сім'я людина чоловік хлопчик хлопчик": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "сім'я людина чоловік дівчина дівчина": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "сім'я жінка жінка хлопчик": {
+    "replacement": "👩‍👩‍👦",
+    "description": "family: woman, woman, boy"
+  },
+  "сім'я жінка жінка дівчина": {
+    "replacement": "👩‍👩‍👧",
+    "description": "family: woman, woman, girl"
+  },
+  "сім'я жінка жінка дівчина хлопчик": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "сім'я жінка жінка хлопчик хлопчик": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "сім'я жінка жінка дівчина дівчина": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "сім'я хлопчик": { "replacement": "👨‍👦", "description": "family: man, boy" },
+  "сім'я хлопчик хлопчик": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "сім'янка дівчина": {
+    "replacement": "👨‍👧",
+    "description": "family: man, girl"
+  },
+  "сім'я людина дівчина хлопчик": {
+    "replacement": "👨‍👧‍👦",
+    "description": "family: man, girl, boy"
+  },
+  "сім'янка дівчина дівчина": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "сім'я жінка хлопчик": {
+    "replacement": "👩‍👦",
+    "description": "family: woman, boy"
+  },
+  "сім'я жінка хлопчик хлопчик": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "родина жінка дівчина": {
+    "replacement": "👩‍👧",
+    "description": "family: woman, girl"
+  },
+  "сім'я жінка дівчина хлопчик": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "сім'я жінка дівчина дівчина": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "говоряча голова": { "replacement": "🗣️", "description": "speaking head" },
+  "бюст в силуеті": {
+    "replacement": "👤",
+    "description": "bust in silhouette"
+  },
+  "бюсти в силуеті": {
+    "replacement": "👥",
+    "description": "busts in silhouette"
+  },
+  "люди обіймаються": { "replacement": "🫂", "description": "people hugging" },
+  "сліди ніг": { "replacement": "👣", "description": "footprints" },
+  "обличчя мавпи": { "replacement": "🐵", "description": "monkey face" },
+  "мавпа": { "replacement": "🐒", "description": "monkey" },
+  "горила": { "replacement": "🦍", "description": "gorilla" },
+  "орангутанг": { "replacement": "🦧", "description": "orangutan" },
+  "пес": { "replacement": "🐶", "description": "dog face" },
+  "собака2": { "replacement": "🐕", "description": "dog" },
+  "собака-поводир": { "replacement": "🦮", "description": "guide dog" },
+  "службова собака": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "пудель": { "replacement": "🐩", "description": "poodle" },
+  "вовк": { "replacement": "🐺", "description": "wolf" },
+  "лисяче обличчя": { "replacement": "🦊", "description": "fox" },
+  "єнот": { "replacement": "🦝", "description": "raccoon" },
+  "кішка": { "replacement": "🐱", "description": "cat face" },
+  "кішка2": { "replacement": "🐈", "description": "cat" },
+  "Чорна кішка": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "лев": { "replacement": "🦁", "description": "lion" },
+  "тигр": { "replacement": "🐯", "description": "tiger face" },
+  "тигр2": { "replacement": "🐅", "description": "tiger" },
+  "леопард": { "replacement": "🐆", "description": "leopard" },
+  "кінь": { "replacement": "🐴", "description": "horse face" },
+  "скаковий кінь": { "replacement": "🐎", "description": "horse" },
+  "єдиноріг": { "replacement": "🦄", "description": "unicorn" },
+  "зебра": { "replacement": "🦓", "description": "zebra" },
+  "олень": { "replacement": "🦌", "description": "deer" },
+  "зубри": { "replacement": "🦬", "description": "bison" },
+  "корова": { "replacement": "🐮", "description": "cow face" },
+  "вол": { "replacement": "🐂", "description": "ox" },
+  "водяний буйвол": { "replacement": "🐃", "description": "water buffalo" },
+  "корова2": { "replacement": "🐄", "description": "cow" },
+  "свиня": { "replacement": "🐷", "description": "pig face" },
+  "свиня2": { "replacement": "🐖", "description": "pig" },
+  "кабан": { "replacement": "🐗", "description": "boar" },
+  "свинячий ніс": { "replacement": "🐽", "description": "pig nose" },
+  "ОЗП": { "replacement": "🐏", "description": "ram" },
+  "овець": { "replacement": "🐑", "description": "ewe" },
+  "козел": { "replacement": "🐐", "description": "goat" },
+  "верблюд дромадер": { "replacement": "🐪", "description": "camel" },
+  "верблюд": { "replacement": "🐫", "description": "two-hump camel" },
+  "лама": { "replacement": "🦙", "description": "llama" },
+  "жирафа": { "replacement": "🦒", "description": "giraffe" },
+  "слон": { "replacement": "🐘", "description": "elephant" },
+  "мамонт": { "replacement": "🦣", "description": "mammoth" },
+  "носоріг": { "replacement": "🦏", "description": "rhinoceros" },
+  "бегемот": { "replacement": "🦛", "description": "hippopotamus" },
+  "миша": { "replacement": "🐭", "description": "mouse face" },
+  "миша2": { "replacement": "🐁", "description": "mouse" },
+  "щур": { "replacement": "🐀", "description": "rat" },
+  "хом'як": { "replacement": "🐹", "description": "hamster" },
+  "кролик": { "replacement": "🐰", "description": "rabbit face" },
+  "кролик2": { "replacement": "🐇", "description": "rabbit" },
+  "бурундук": { "replacement": "🐿️", "description": "chipmunk" },
+  "бобер": { "replacement": "🦫", "description": "beaver" },
+  "їжачок": { "replacement": "🦔", "description": "hedgehog" },
+  "кажан": { "replacement": "🦇", "description": "bat" },
+  "ведмідь": { "replacement": "🐻", "description": "bear" },
+  "полярний ведмідь": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "коала": { "replacement": "🐨", "description": "koala" },
+  "обличчя панди": { "replacement": "🐼", "description": "panda" },
+  "лінивець": { "replacement": "🦥", "description": "sloth" },
+  "видра": { "replacement": "🦦", "description": "otter" },
+  "скунс": { "replacement": "🦨", "description": "skunk" },
+  "кенгуру": { "replacement": "🦘", "description": "kangaroo" },
+  "борсук": { "replacement": "🦡", "description": "badger" },
+  "стопи": { "replacement": "🐾", "description": "paw prints" },
+  "індичка": { "replacement": "🦃", "description": "turkey" },
+  "курка": { "replacement": "🐔", "description": "chicken" },
+  "півень": { "replacement": "🐓", "description": "rooster" },
+  "інкубаційний курча": {
+    "replacement": "🐣",
+    "description": "hatching chick"
+  },
+  "дитина курча": { "replacement": "🐤", "description": "baby chick" },
+  "вилупився курча": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "птах": { "replacement": "🐦", "description": "bird" },
+  "пінгвін": { "replacement": "🐧", "description": "penguin" },
+  "голуб": { "replacement": "🕊️", "description": "dove" },
+  "орел": { "replacement": "🦅", "description": "eagle" },
+  "качка": { "replacement": "🦆", "description": "duck" },
+  "лебідь": { "replacement": "🦢", "description": "swan" },
+  "сова": { "replacement": "🦉", "description": "owl" },
+  "додо": { "replacement": "🦤", "description": "dodo" },
+  "перо": { "replacement": "🪶", "description": "feather" },
+  "фламінго": { "replacement": "🦩", "description": "flamingo" },
+  "павич": { "replacement": "🦚", "description": "peacock" },
+  "папуга": { "replacement": "🦜", "description": "parrot" },
+  "жаба": { "replacement": "🐸", "description": "frog" },
+  "крокодил": { "replacement": "🐊", "description": "crocodile" },
+  "черепаха": { "replacement": "🐢", "description": "turtle" },
+  "ящірка": { "replacement": "🦎", "description": "lizard" },
+  "змія": { "replacement": "🐍", "description": "snake" },
+  "обличчя дракона": { "replacement": "🐲", "description": "dragon face" },
+  "дракон": { "replacement": "🐉", "description": "dragon" },
+  "зауропод": { "replacement": "🦕", "description": "sauropod" },
+  "т-рекс": { "replacement": "🦖", "description": "T-Rex" },
+  "кит": { "replacement": "🐳", "description": "spouting whale" },
+  "кит2": { "replacement": "🐋", "description": "whale" },
+  "дельфін": { "replacement": "🐬", "description": "dolphin" },
+  "печатка": { "replacement": "🦭", "description": "seal" },
+  "риба": { "replacement": "🐟", "description": "fish" },
+  "тропічна риба": { "replacement": "🐠", "description": "tropical fish" },
+  "видувна риба": { "replacement": "🐡", "description": "blowfish" },
+  "акула": { "replacement": "🦈", "description": "shark" },
+  "восьминіг": { "replacement": "🐙", "description": "octopus" },
+  "оболонка": { "replacement": "🐚", "description": "spiral shell" },
+  "равлик": { "replacement": "🐌", "description": "snail" },
+  "метелик": { "replacement": "🦋", "description": "butterfly" },
+  "помилка": { "replacement": "🐛", "description": "bug" },
+  "мурашка": { "replacement": "🐜", "description": "ant" },
+  "бджола": { "replacement": "🐝", "description": "honeybee" },
+  "жук": { "replacement": "🪲", "description": "beetle" },
+  "леді жук": { "replacement": "🐞", "description": "lady beetle" },
+  "крикет": { "replacement": "🏏", "description": "cricket game" },
+  "тарган": { "replacement": "🪳", "description": "cockroach" },
+  "павук": { "replacement": "🕷️", "description": "spider" },
+  "павутина": { "replacement": "🕸️", "description": "spider web" },
+  "скорпіон": { "replacement": "🦂", "description": "scorpion" },
+  "комар": { "replacement": "🦟", "description": "mosquito" },
+  "літати": { "replacement": "🪰", "description": "fly" },
+  "черв'як": { "replacement": "🪱", "description": "worm" },
+  "мікроб": { "replacement": "🦠", "description": "microbe" },
+  "букет": { "replacement": "💐", "description": "bouquet" },
+  "цвітіння вишні": { "replacement": "🌸", "description": "cherry blossom" },
+  "біла квітка": { "replacement": "💮", "description": "white flower" },
+  "розетка": { "replacement": "🏵️", "description": "rosette" },
+  "троянда": { "replacement": "🌹", "description": "rose" },
+  "в’яла квітка": { "replacement": "🥀", "description": "wilted flower" },
+  "гібіскус": { "replacement": "🌺", "description": "hibiscus" },
+  "соняшник": { "replacement": "🌻", "description": "sunflower" },
+  "цвітіння": { "replacement": "🌼", "description": "blossom" },
+  "тюльпан": { "replacement": "🌷", "description": "tulip" },
+  "розсада": { "replacement": "🌱", "description": "seedling" },
+  "горщикова рослина": { "replacement": "🪴", "description": "potted plant" },
+  "вічнозелене дерево": {
+    "replacement": "🌲",
+    "description": "evergreen tree"
+  },
+  "листяне дерево": { "replacement": "🌳", "description": "deciduous tree" },
+  "Пальма": { "replacement": "🌴", "description": "palm tree" },
+  "кактус": { "replacement": "🌵", "description": "cactus" },
+  "колос рису": { "replacement": "🌾", "description": "sheaf of rice" },
+  "трава": { "replacement": "🌿", "description": "herb" },
+  "трилисник": { "replacement": "☘️", "description": "shamrock" },
+  "чотири листа конюшини": {
+    "replacement": "🍀",
+    "description": "four leaf clover"
+  },
+  "кленовий листок": { "replacement": "🍁", "description": "maple leaf" },
+  "опале листя": { "replacement": "🍂", "description": "fallen leaf" },
+  "листя": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "виноград": { "replacement": "🍇", "description": "grapes" },
+  "дині": { "replacement": "🍈", "description": "melon" },
+  "кавун": { "replacement": "🍉", "description": "watermelon" },
+  "мандарин": { "replacement": "🍊", "description": "tangerine" },
+  "лимон": { "replacement": "🍋", "description": "lemon" },
+  "банан": { "replacement": "🍌", "description": "banana" },
+  "ананас": { "replacement": "🍍", "description": "pineapple" },
+  "манго": { "replacement": "🥭", "description": "mango" },
+  "яблуко": { "replacement": "🍎", "description": "red apple" },
+  "зелене яблуко": { "replacement": "🍏", "description": "green apple" },
+  "груша": { "replacement": "🍐", "description": "pear" },
+  "персиковий": { "replacement": "🍑", "description": "peach" },
+  "вишні": { "replacement": "🍒", "description": "cherries" },
+  "полуниця": { "replacement": "🍓", "description": "strawberry" },
+  "чорниця": { "replacement": "🫐", "description": "blueberries" },
+  "ківі": { "replacement": "🥝", "description": "kiwi fruit" },
+  "помідор": { "replacement": "🍅", "description": "tomato" },
+  "оливкова": { "replacement": "🫒", "description": "olive" },
+  "кокосового горіха": { "replacement": "🥥", "description": "coconut" },
+  "авокадо": { "replacement": "🥑", "description": "avocado" },
+  "баклажани": { "replacement": "🍆", "description": "eggplant" },
+  "картопля": { "replacement": "🥔", "description": "potato" },
+  "морква": { "replacement": "🥕", "description": "carrot" },
+  "кукурудза": { "replacement": "🌽", "description": "ear of corn" },
+  "гострий перець": { "replacement": "🌶️", "description": "hot pepper" },
+  "перець": { "replacement": "🫑", "description": "bell pepper" },
+  "огірок": { "replacement": "🥒", "description": "cucumber" },
+  "листовий зелений": { "replacement": "🥬", "description": "leafy green" },
+  "брокколі": { "replacement": "🥦", "description": "broccoli" },
+  "часник": { "replacement": "🧄", "description": "garlic" },
+  "цибуля": { "replacement": "🧅", "description": "onion" },
+  "гриб": { "replacement": "🍄", "description": "mushroom" },
+  "арахіс": { "replacement": "🥜", "description": "peanuts" },
+  "Каштан": { "replacement": "🌰", "description": "chestnut" },
+  "хліб": { "replacement": "🍞", "description": "bread" },
+  "круасан": { "replacement": "🥐", "description": "croissant" },
+  "багетний хліб": { "replacement": "🥖", "description": "baguette bread" },
+  "лепешка": { "replacement": "🫓", "description": "flatbread" },
+  "крендель": { "replacement": "🥨", "description": "pretzel" },
+  "бублик": { "replacement": "🥯", "description": "bagel" },
+  "млинці": { "replacement": "🥞", "description": "pancakes" },
+  "вафельні": { "replacement": "🧇", "description": "waffle" },
+  "сир": { "replacement": "🧀", "description": "cheese wedge" },
+  "м'ясо на кістці": { "replacement": "🍖", "description": "meat on bone" },
+  "нога птиці": { "replacement": "🍗", "description": "poultry leg" },
+  "нарізка м'яса": { "replacement": "🥩", "description": "cut of meat" },
+  "бекон": { "replacement": "🥓", "description": "bacon" },
+  "гамбургер": { "replacement": "🍔", "description": "hamburger" },
+  "картопля фрі": { "replacement": "🍟", "description": "french fries" },
+  "піца": { "replacement": "🍕", "description": "pizza" },
+  "хот-дог": { "replacement": "🌭", "description": "hot dog" },
+  "сендвіч": { "replacement": "🥪", "description": "sandwich" },
+  "тако": { "replacement": "🌮", "description": "taco" },
+  "буріто": { "replacement": "🌯", "description": "burrito" },
+  "тамале": { "replacement": "🫔", "description": "tamale" },
+  "фаршировані коржі": {
+    "replacement": "🥙",
+    "description": "stuffed flatbread"
+  },
+  "фалафель": { "replacement": "🧆", "description": "falafel" },
+  "яйце": { "replacement": "🥚", "description": "egg" },
+  "смажені яйця": { "replacement": "🍳", "description": "cooking" },
+  "неглибока каструля з їжею": {
+    "replacement": "🥘",
+    "description": "shallow pan of food"
+  },
+  "рагу": { "replacement": "🍲", "description": "pot of food" },
+  "фондю": { "replacement": "🫕", "description": "fondue" },
+  "миска з ложкою": { "replacement": "🥣", "description": "bowl with spoon" },
+  "зелений салат": { "replacement": "🥗", "description": "green salad" },
+  "попкорн": { "replacement": "🍿", "description": "popcorn" },
+  "вершкового масла": { "replacement": "🧈", "description": "butter" },
+  "сіль": { "replacement": "🧂", "description": "salt" },
+  "консерви": { "replacement": "🥫", "description": "canned food" },
+  "бенто": { "replacement": "🍱", "description": "bento box" },
+  "рисовий крекер": { "replacement": "🍘", "description": "rice cracker" },
+  "рисова кулька": { "replacement": "🍙", "description": "rice ball" },
+  "рис": { "replacement": "🍚", "description": "cooked rice" },
+  "каррі": { "replacement": "🍛", "description": "curry rice" },
+  "рамен": { "replacement": "🍜", "description": "steaming bowl" },
+  "спагетті": { "replacement": "🍝", "description": "spaghetti" },
+  "Солодка картопля": {
+    "replacement": "🍠",
+    "description": "roasted sweet potato"
+  },
+  "оден": { "replacement": "🍢", "description": "oden" },
+  "суші": { "replacement": "🍣", "description": "sushi" },
+  "смажені креветки": { "replacement": "🍤", "description": "fried shrimp" },
+  "рибний пиріг": {
+    "replacement": "🍥",
+    "description": "fish cake with swirl"
+  },
+  "місячний торт": { "replacement": "🥮", "description": "moon cake" },
+  "данго": { "replacement": "🍡", "description": "dango" },
+  "вареник": { "replacement": "🥟", "description": "dumpling" },
+  "печиво фортуни": { "replacement": "🥠", "description": "fortune cookie" },
+  "винос коробка": { "replacement": "🥡", "description": "takeout box" },
+  "краб": { "replacement": "🦀", "description": "crab" },
+  "омари": { "replacement": "🦞", "description": "lobster" },
+  "креветки": { "replacement": "🦐", "description": "shrimp" },
+  "кальмари": { "replacement": "🦑", "description": "squid" },
+  "устриця": { "replacement": "🦪", "description": "oyster" },
+  "морозиво": { "replacement": "🍨", "description": "ice cream" },
+  "поголений лід": { "replacement": "🍧", "description": "shaved ice" },
+  "пончик": { "replacement": "🍩", "description": "doughnut" },
+  "печиво": { "replacement": "🍪", "description": "cookie" },
+  "день народження": { "replacement": "🎂", "description": "birthday cake" },
+  "торт": { "replacement": "🍰", "description": "shortcake" },
+  "кекс": { "replacement": "🧁", "description": "cupcake" },
+  "пиріг": { "replacement": "🥧", "description": "pie" },
+  "плитка шоколаду": { "replacement": "🍫", "description": "chocolate bar" },
+  "цукерки": { "replacement": "🍬", "description": "candy" },
+  "льодяник": { "replacement": "🍭", "description": "lollipop" },
+  "заварний крем": { "replacement": "🍮", "description": "custard" },
+  "горщик для меду": { "replacement": "🍯", "description": "honey pot" },
+  "дитяча пляшечка": { "replacement": "🍼", "description": "baby bottle" },
+  "молочний стакан": { "replacement": "🥛", "description": "glass of milk" },
+  "кава": { "replacement": "☕", "description": "hot beverage" },
+  "чайник": { "replacement": "🫖", "description": "teapot" },
+  "чай": { "replacement": "🍵", "description": "teacup without handle" },
+  "користь": { "replacement": "🍶", "description": "sake" },
+  "шампанське": {
+    "replacement": "🍾",
+    "description": "bottle with popping cork"
+  },
+  "келих": { "replacement": "🍷", "description": "wine glass" },
+  "коктейль": { "replacement": "🍸", "description": "cocktail glass" },
+  "тропічний напій": { "replacement": "🍹", "description": "tropical drink" },
+  "пиво": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "дзвеніння окулярів": {
+    "replacement": "🥂",
+    "description": "clinking glasses"
+  },
+  "скляний стакан": { "replacement": "🥃", "description": "tumbler glass" },
+  "чашка з соломою": { "replacement": "🥤", "description": "cup with straw" },
+  "бульбашковий чай": { "replacement": "🧋", "description": "bubble tea" },
+  "коробка для напоїв": { "replacement": "🧃", "description": "beverage box" },
+  "товариш": { "replacement": "🧉", "description": "mate" },
+  "кубик льоду": { "replacement": "🧊", "description": "ice" },
+  "палички для їжі": { "replacement": "🥢", "description": "chopsticks" },
+  "тарілка з столовими приборами": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "виделкою та ножем": { "replacement": "🍴", "description": "fork and knife" },
+  "ложка": { "replacement": "🥄", "description": "spoon" },
+  "хочо": { "replacement": "🔪", "description": "kitchen knife" },
+  "амфора": { "replacement": "🏺", "description": "amphora" },
+  "земля Африка": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "Земля Америки": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "земля Азія": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "глобус з меридіанами": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "карта світу": { "replacement": "🗺️", "description": "world map" },
+  "Японія": { "replacement": "🗾", "description": "map of Japan" },
+  "компас": { "replacement": "🧭", "description": "compass" },
+  "гірський сніг": {
+    "replacement": "🏔️",
+    "description": "snow-capped mountain"
+  },
+  "гірський": { "replacement": "⛰️", "description": "mountain" },
+  "вулкан": { "replacement": "🌋", "description": "volcano" },
+  "гора Фудзі": { "replacement": "🗻", "description": "mount fuji" },
+  "кемпінг": { "replacement": "🏕️", "description": "camping" },
+  "пляжна парасолька": {
+    "replacement": "🏖️",
+    "description": "beach with umbrella"
+  },
+  "пустеля": { "replacement": "🏜️", "description": "desert" },
+  "пустельний острів": { "replacement": "🏝️", "description": "desert island" },
+  "Національний парк": { "replacement": "🏞️", "description": "national park" },
+  "стадіон": { "replacement": "🏟️", "description": "stadium" },
+  "класична будівля": {
+    "replacement": "🏛️",
+    "description": "classical building"
+  },
+  "будівельне будівництво": {
+    "replacement": "🏗️",
+    "description": "building construction"
+  },
+  "цегла": { "replacement": "🧱", "description": "brick" },
+  "рок": { "replacement": "🪨", "description": "rock" },
+  "дерево": { "replacement": "🪵", "description": "wood" },
+  "хатина": { "replacement": "🛖", "description": "hut" },
+  "будинків": { "replacement": "🏘️", "description": "houses" },
+  "занедбаний будинок": {
+    "replacement": "🏚️",
+    "description": "derelict house"
+  },
+  "будинок": { "replacement": "🏠", "description": "house" },
+  "будинок з садом": {
+    "replacement": "🏡",
+    "description": "house with garden"
+  },
+  "офіс": { "replacement": "🏢", "description": "office building" },
+  "Пошта": { "replacement": "🏣", "description": "Japanese post office" },
+  "європейське поштове відділення": {
+    "replacement": "🏤",
+    "description": "post office"
+  },
+  "лікарні": { "replacement": "🏥", "description": "hospital" },
+  "банку": { "replacement": "🏦", "description": "bank" },
+  "готель": { "replacement": "🏨", "description": "hotel" },
+  "готель любові": { "replacement": "🏩", "description": "love hotel" },
+  "магазин": { "replacement": "🏪", "description": "convenience store" },
+  "школу": { "replacement": "🏫", "description": "school" },
+  "універмаг": { "replacement": "🏬", "description": "department store" },
+  "завод": { "replacement": "🏭", "description": "factory" },
+  "японський замок": { "replacement": "🏯", "description": "Japanese castle" },
+  "європейський замок": { "replacement": "🏰", "description": "castle" },
+  "весілля": { "replacement": "💒", "description": "wedding" },
+  "башта Токіо": { "replacement": "🗼", "description": "Tokyo tower" },
+  "статуя Свободи": { "replacement": "🗽", "description": "Statue of Liberty" },
+  "церква": { "replacement": "⛪", "description": "church" },
+  "мечеть": { "replacement": "🕌", "description": "mosque" },
+  "індуїстський храм": { "replacement": "🛕", "description": "hindu temple" },
+  "синагога": { "replacement": "🕍", "description": "synagogue" },
+  "синтоїстська святиня": {
+    "replacement": "⛩️",
+    "description": "shinto shrine"
+  },
+  "кааба": { "replacement": "🕋", "description": "kaaba" },
+  "фонтан": { "replacement": "⛲", "description": "fountain" },
+  "намет": { "replacement": "⛺", "description": "tent" },
+  "туманний": { "replacement": "🌁", "description": "foggy" },
+  "ніч із зірками": { "replacement": "🌃", "description": "night with stars" },
+  "міський пейзаж": { "replacement": "🏙️", "description": "cityscape" },
+  "Схід сонця над горами": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "схід сонця": { "replacement": "🌅", "description": "sunrise" },
+  "захід сонця міста": {
+    "replacement": "🌆",
+    "description": "cityscape at dusk"
+  },
+  "місто схід сонця": { "replacement": "🌇", "description": "sunset" },
+  "міст вночі": { "replacement": "🌉", "description": "bridge at night" },
+  "гарячі джерела": { "replacement": "♨️", "description": "hot springs" },
+  "карусель кінь": { "replacement": "🎠", "description": "carousel horse" },
+  "колесо огляду": { "replacement": "🎡", "description": "ferris wheel" },
+  "американські гірки": {
+    "replacement": "🎢",
+    "description": "roller coaster"
+  },
+  "перукарня": { "replacement": "💈", "description": "barber pole" },
+  "цирковий намет": { "replacement": "🎪", "description": "circus tent" },
+  "паровоз": { "replacement": "🚂", "description": "locomotive" },
+  "залізничний вагон": { "replacement": "🚃", "description": "railway car" },
+  "сторона куля": { "replacement": "🚄", "description": "high-speed train" },
+  "bullettrain спереду": { "replacement": "🚅", "description": "bullet train" },
+  "поїзд2": { "replacement": "🚆", "description": "train" },
+  "метро": { "replacement": "🚇", "description": "metro" },
+  "легка рейка": { "replacement": "🚈", "description": "light rail" },
+  "станції": { "replacement": "🚉", "description": "station" },
+  "трамвай": { "replacement": "🚊", "description": "tram" },
+  "монорейка": { "replacement": "🚝", "description": "monorail" },
+  "гірська залізниця": {
+    "replacement": "🚞",
+    "description": "mountain railway"
+  },
+  "поїзд": { "replacement": "🚋", "description": "tram car" },
+  "автобус": { "replacement": "🚌", "description": "bus" },
+  "зустрічний автобус": { "replacement": "🚍", "description": "oncoming bus" },
+  "тролейбус": { "replacement": "🚎", "description": "trolleybus" },
+  "мікроавтобус": { "replacement": "🚐", "description": "minibus" },
+  "швидкої допомоги": { "replacement": "🚑", "description": "ambulance" },
+  "пожежна машина": { "replacement": "🚒", "description": "fire engine" },
+  "поліцейська машина": { "replacement": "🚓", "description": "police car" },
+  "зустрічна поліцейська машина": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "таксі": { "replacement": "🚕", "description": "taxi" },
+  "зустрічне таксі": { "replacement": "🚖", "description": "oncoming taxi" },
+  "автомобіль": { "replacement": "🚗", "description": "automobile" },
+  "зустрічний автомобіль": {
+    "replacement": "🚘",
+    "description": "oncoming automobile"
+  },
+  "синій автомобіль": {
+    "replacement": "🚙",
+    "description": "sport utility vehicle"
+  },
+  "пікап": { "replacement": "🛻", "description": "pickup truck" },
+  "вантажівка": { "replacement": "🚚", "description": "delivery truck" },
+  "зчленований вантажівка": {
+    "replacement": "🚛",
+    "description": "articulated lorry"
+  },
+  "трактор": { "replacement": "🚜", "description": "tractor" },
+  "гоночний автомобіль": { "replacement": "🏎️", "description": "racing car" },
+  "мотоцикл": { "replacement": "🏍️", "description": "motorcycle" },
+  "моторолер": { "replacement": "🛵", "description": "motor scooter" },
+  "ручний інвалідний візок": {
+    "replacement": "🦽",
+    "description": "manual wheelchair"
+  },
+  "моторизований інвалідний візок": {
+    "replacement": "🦼",
+    "description": "motorized wheelchair"
+  },
+  "авто рикша": { "replacement": "🛺", "description": "auto rickshaw" },
+  "велосипед": { "replacement": "🚲", "description": "bicycle" },
+  "ударний скутер": { "replacement": "🛴", "description": "kick scooter" },
+  "скейтборд": { "replacement": "🛹", "description": "skateboard" },
+  "роликові ковзани": { "replacement": "🛼", "description": "roller skate" },
+  "автобусна зупинка": { "replacement": "🚏", "description": "bus stop" },
+  "автострада": { "replacement": "🛣️", "description": "motorway" },
+  "залізнична колія": { "replacement": "🛤️", "description": "railway track" },
+  "масляний барабан": { "replacement": "🛢️", "description": "oil drum" },
+  "Паливний насос": { "replacement": "⛽", "description": "fuel pump" },
+  "обертається світло": {
+    "replacement": "🚨",
+    "description": "police car light"
+  },
+  "світлофор": {
+    "replacement": "🚥",
+    "description": "horizontal traffic light"
+  },
+  "вертикальний світлофор": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "знак зупинки": { "replacement": "🛑", "description": "stop sign" },
+  "будівництво": { "replacement": "🚧", "description": "construction" },
+  "якір": { "replacement": "⚓", "description": "anchor" },
+  "човен": { "replacement": "⛵", "description": "sailboat" },
+  "каное": { "replacement": "🛶", "description": "canoe" },
+  "швидкісний катер": { "replacement": "🚤", "description": "speedboat" },
+  "пасажирське судно": { "replacement": "🛳️", "description": "passenger ship" },
+  "пором": { "replacement": "⛴️", "description": "ferry" },
+  "моторний човен": { "replacement": "🛥️", "description": "motor boat" },
+  "корабель": { "replacement": "🚢", "description": "ship" },
+  "літак": { "replacement": "✈️", "description": "airplane" },
+  "невеликий літак": { "replacement": "🛩️", "description": "small airplane" },
+  "виліт рейсу": { "replacement": "🛫", "description": "airplane departure" },
+  "приліт рейсу": { "replacement": "🛬", "description": "airplane arrival" },
+  "парашутний": { "replacement": "🪂", "description": "parachute" },
+  "сидіння": { "replacement": "💺", "description": "seat" },
+  "вертоліт": { "replacement": "🚁", "description": "helicopter" },
+  "підвісна залізниця": {
+    "replacement": "🚟",
+    "description": "suspension railway"
+  },
+  "гірська канатна дорога": {
+    "replacement": "🚠",
+    "description": "mountain cableway"
+  },
+  "повітряний трамвай": {
+    "replacement": "🚡",
+    "description": "aerial tramway"
+  },
+  "штучний супутник": { "replacement": "🛰️", "description": "satellite" },
+  "ракета": { "replacement": "🚀", "description": "rocket" },
+  "літаюча тарілка": { "replacement": "🛸", "description": "flying saucer" },
+  "дзвіночок дзвоник": { "replacement": "🛎️", "description": "bellhop bell" },
+  "багаж": { "replacement": "🧳", "description": "luggage" },
+  "пісочний годинник": { "replacement": "⌛", "description": "hourglass done" },
+  "пісочний годинник, що тече пісок": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "дивитися": { "replacement": "⌚", "description": "watch" },
+  "будильник": { "replacement": "⏰", "description": "alarm clock" },
+  "секундомір": { "replacement": "⏱️", "description": "stopwatch" },
+  "годинник таймера": { "replacement": "⏲️", "description": "timer clock" },
+  "камінний годинник": {
+    "replacement": "🕰️",
+    "description": "mantelpiece clock"
+  },
+  "годинник12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "годинник1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "годинник1": { "replacement": "🕐", "description": "one o’clock" },
+  "годинник130": { "replacement": "🕜", "description": "one-thirty" },
+  "годинник2": { "replacement": "🕑", "description": "two o’clock" },
+  "годинник230": { "replacement": "🕝", "description": "two-thirty" },
+  "годинник3": { "replacement": "🕒", "description": "three o’clock" },
+  "годинник330": { "replacement": "🕞", "description": "three-thirty" },
+  "годинник4": { "replacement": "🕓", "description": "four o’clock" },
+  "годинник430": { "replacement": "🕟", "description": "four-thirty" },
+  "годинник5": { "replacement": "🕔", "description": "five o’clock" },
+  "годинник530": { "replacement": "🕠", "description": "five-thirty" },
+  "годинник6": { "replacement": "🕕", "description": "six o’clock" },
+  "годинник630": { "replacement": "🕡", "description": "six-thirty" },
+  "годинник7": { "replacement": "🕖", "description": "seven o’clock" },
+  "годинник730": { "replacement": "🕢", "description": "seven-thirty" },
+  "годинник8": { "replacement": "🕗", "description": "eight o’clock" },
+  "годинник830": { "replacement": "🕣", "description": "eight-thirty" },
+  "годинник9": { "replacement": "🕘", "description": "nine o’clock" },
+  "годинник930": { "replacement": "🕤", "description": "nine-thirty" },
+  "годинник10": { "replacement": "🕙", "description": "ten o’clock" },
+  "годинник1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "годинник11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "годинник1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "новий місяць": { "replacement": "🌑", "description": "new moon" },
+  "зростаючий півмісяць": {
+    "replacement": "🌒",
+    "description": "waxing crescent moon"
+  },
+  "перша чверть місяця": {
+    "replacement": "🌓",
+    "description": "first quarter moon"
+  },
+  "місяць": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "повний місяць": { "replacement": "🌕", "description": "full moon" },
+  "спадаючий мінливий місяць": {
+    "replacement": "🌖",
+    "description": "waning gibbous moon"
+  },
+  "остання чверть місяця": {
+    "replacement": "🌗",
+    "description": "last quarter moon"
+  },
+  "спадаючий півмісяць": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "півмісяць": { "replacement": "🌙", "description": "crescent moon" },
+  "молодий місяць з обличчям": {
+    "replacement": "🌚",
+    "description": "new moon face"
+  },
+  "місяць першої чверті з обличчям": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "остання чверть місяця з обличчям": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "термометр": { "replacement": "🌡️", "description": "thermometer" },
+  "сонячний": { "replacement": "☀️", "description": "sun" },
+  "повний місяць з обличчям": {
+    "replacement": "🌝",
+    "description": "full moon face"
+  },
+  "сонце з обличчям": { "replacement": "🌞", "description": "sun with face" },
+  "кільчаста планета": { "replacement": "🪐", "description": "ringed planet" },
+  "зірка": { "replacement": "⭐", "description": "star" },
+  "зірка2": { "replacement": "🌟", "description": "glowing star" },
+  "зірок": { "replacement": "🌠", "description": "shooting star" },
+  "Чумацький шлях": { "replacement": "🌌", "description": "milky way" },
+  "хмара": { "replacement": "☁️", "description": "cloud" },
+  "частково сонячно": {
+    "replacement": "⛅",
+    "description": "sun behind cloud"
+  },
+  "хмара з блискавкою та дощем": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "сонце за невеликою хмарою": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "сонце за великою хмарою": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "сонце за дощовою хмарою": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "хмара з дощем": { "replacement": "🌧️", "description": "cloud with rain" },
+  "хмара зі снігом": { "replacement": "🌨️", "description": "cloud with snow" },
+  "хмара з блискавкою": {
+    "replacement": "🌩️",
+    "description": "cloud with lightning"
+  },
+  "смерч": { "replacement": "🌪️", "description": "tornado" },
+  "туман": { "replacement": "🌫️", "description": "fog" },
+  "вітер обличчя": { "replacement": "🌬️", "description": "wind face" },
+  "циклон": { "replacement": "🌀", "description": "cyclone" },
+  "веселка": { "replacement": "🌈", "description": "rainbow" },
+  "закрита парасолька": {
+    "replacement": "🌂",
+    "description": "closed umbrella"
+  },
+  "розкрита парасолька": { "replacement": "☂️", "description": "umbrella" },
+  "парасольку": {
+    "replacement": "☔",
+    "description": "umbrella with rain drops"
+  },
+  "парасольку на землі": {
+    "replacement": "⛱️",
+    "description": "umbrella on ground"
+  },
+  "зап": { "replacement": "⚡", "description": "high voltage" },
+  "сніжинка": { "replacement": "❄️", "description": "snowflake" },
+  "сніговик зі снігом": { "replacement": "☃️", "description": "snowman" },
+  "сніговик": { "replacement": "⛄", "description": "snowman without snow" },
+  "комета": { "replacement": "☄️", "description": "comet" },
+  "вогонь": { "replacement": "🔥", "description": "fire" },
+  "крапельниця": { "replacement": "💧", "description": "droplet" },
+  "океану": { "replacement": "🌊", "description": "water wave" },
+  "домкрат o ліхтар": { "replacement": "🎃", "description": "jack-o-lantern" },
+  "Різдвяна ялинка": { "replacement": "🎄", "description": "Christmas tree" },
+  "феєрверки": { "replacement": "🎆", "description": "fireworks" },
+  "бенгальський вогонь": { "replacement": "🎇", "description": "sparkler" },
+  "петарда": { "replacement": "🧨", "description": "firecracker" },
+  "виблискує": { "replacement": "✨", "description": "sparkles" },
+  "тада": { "replacement": "🎉", "description": "party popper" },
+  "куля для конфетті": { "replacement": "🎊", "description": "confetti ball" },
+  "дерево танабата": { "replacement": "🎋", "description": "tanabata tree" },
+  "бамбук": { "replacement": "🎍", "description": "pine decoration" },
+  "ляльки": { "replacement": "🎎", "description": "Japanese dolls" },
+  "прапори": { "replacement": "🎏", "description": "carp streamer" },
+  "передзвін вітру": { "replacement": "🎐", "description": "wind chime" },
+  "рисова сцена": {
+    "replacement": "🎑",
+    "description": "moon viewing ceremony"
+  },
+  "червоний конверт": { "replacement": "🧧", "description": "red envelope" },
+  "стрічка": { "replacement": "🎀", "description": "ribbon" },
+  "подарунок": { "replacement": "🎁", "description": "wrapped gift" },
+  "стрічка нагадування": {
+    "replacement": "🎗️",
+    "description": "reminder ribbon"
+  },
+  "квитки": { "replacement": "🎟️", "description": "admission tickets" },
+  "квиток": { "replacement": "🎫", "description": "ticket" },
+  "медаль військова": { "replacement": "🎖️", "description": "military medal" },
+  "трофей": { "replacement": "🏆", "description": "trophy" },
+  "медальний спорт": { "replacement": "🏅", "description": "sports medal" },
+  "Медаль за 1 місце": {
+    "replacement": "🥇",
+    "description": "1st place medal"
+  },
+  "Медаль 2 місце": { "replacement": "🥈", "description": "2nd place medal" },
+  "Медаль 3 місце": { "replacement": "🥉", "description": "3rd place medal" },
+  "футбол": { "replacement": "🏈", "description": "american football" },
+  "бейсбол": { "replacement": "⚾", "description": "baseball" },
+  "софтбол": { "replacement": "🥎", "description": "softball" },
+  "баскетбол": { "replacement": "🏀", "description": "basketball" },
+  "волейбол": { "replacement": "🏐", "description": "volleyball" },
+  "регбі": { "replacement": "🏉", "description": "rugby football" },
+  "теніс": { "replacement": "🎾", "description": "tennis" },
+  "літаючий диск": { "replacement": "🥏", "description": "flying disc" },
+  "боулінг": { "replacement": "🎳", "description": "bowling" },
+  "хокей на траві": { "replacement": "🏑", "description": "field hockey" },
+  "хокей": { "replacement": "🏒", "description": "ice hockey" },
+  "лакрос": { "replacement": "🥍", "description": "lacrosse" },
+  "пінг Понг": { "replacement": "🏓", "description": "ping pong" },
+  "бадмінтон": { "replacement": "🏸", "description": "badminton" },
+  "боксерська рукавичка": {
+    "replacement": "🥊",
+    "description": "boxing glove"
+  },
+  "форма єдиноборств": {
+    "replacement": "🥋",
+    "description": "martial arts uniform"
+  },
+  "сітка голів": { "replacement": "🥅", "description": "goal net" },
+  "ковзани": { "replacement": "⛸️", "description": "ice skate" },
+  "вудка та риба": { "replacement": "🎣", "description": "fishing pole" },
+  "маска для дайвінгу": { "replacement": "🤿", "description": "diving mask" },
+  "бігова сорочка з стулкою": {
+    "replacement": "🎽",
+    "description": "running shirt"
+  },
+  "лижні": { "replacement": "🎿", "description": "skis" },
+  "сани": { "replacement": "🛷", "description": "sled" },
+  "плойка": { "replacement": "🥌", "description": "curling stone" },
+  "дротик": { "replacement": "🎯", "description": "direct hit" },
+  "йо йо": { "replacement": "🪀", "description": "yo-yo" },
+  "змій": { "replacement": "🪁", "description": "kite" },
+  "8бол": { "replacement": "🎱", "description": "pool 8 ball" },
+  "Кришталева куля": { "replacement": "🔮", "description": "crystal ball" },
+  "Чарівна паличка": { "replacement": "🪄", "description": "magic wand" },
+  "амулет назар": { "replacement": "🧿", "description": "nazar amulet" },
+  "відеогра": { "replacement": "🎮", "description": "video game" },
+  "джойстик": { "replacement": "🕹️", "description": "joystick" },
+  "ігровий автомат": { "replacement": "🎰", "description": "slot machine" },
+  "гра вмирають": { "replacement": "🎲", "description": "game die" },
+  "лобзик": { "replacement": "🧩", "description": "puzzle piece" },
+  "плюшевий ведмедик": { "replacement": "🧸", "description": "teddy bear" },
+  "піньята": { "replacement": "🪅", "description": "piñata" },
+  "гніздових ляльок": { "replacement": "🪆", "description": "nesting dolls" },
+  "лопати": { "replacement": "♠️", "description": "spade suit" },
+  "серця": { "replacement": "♥️", "description": "heart suit" },
+  "діаманти": { "replacement": "♦️", "description": "diamond suit" },
+  "клуби": { "replacement": "♣️", "description": "club suit" },
+  "шахова пішак": { "replacement": "♟️", "description": "chess pawn" },
+  "чорний жартівник": { "replacement": "🃏", "description": "joker" },
+  "маджонг": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "квіткові гральні карти": {
+    "replacement": "🎴",
+    "description": "flower playing cards"
+  },
+  "виконавські види мистецтва": {
+    "replacement": "🎭",
+    "description": "performing arts"
+  },
+  "обрамлена картинка": {
+    "replacement": "🖼️",
+    "description": "framed picture"
+  },
+  "мистецтво": { "replacement": "🎨", "description": "artist palette" },
+  "нитка": { "replacement": "🧵", "description": "thread" },
+  "швейна голка": { "replacement": "🪡", "description": "sewing needle" },
+  "пряжа": { "replacement": "🧶", "description": "yarn" },
+  "вузол": { "replacement": "🪢", "description": "knot" },
+  "окуляри": { "replacement": "🥽", "description": "goggles" },
+  "темні сонцезахисні окуляри": {
+    "replacement": "🕶️",
+    "description": "sunglasses"
+  },
+  "лабораторний халат": { "replacement": "🥼", "description": "lab coat" },
+  "захисний жилет": { "replacement": "🦺", "description": "safety vest" },
+  "краватка": { "replacement": "👔", "description": "necktie" },
+  "сорочка": { "replacement": "👕", "description": "t-shirt" },
+  "джинси": { "replacement": "👖", "description": "jeans" },
+  "шарф": { "replacement": "🧣", "description": "scarf" },
+  "рукавички": { "replacement": "🧤", "description": "gloves" },
+  "пальто": { "replacement": "🧥", "description": "coat" },
+  "шкарпетки": { "replacement": "🧦", "description": "socks" },
+  "сукня": { "replacement": "👗", "description": "dress" },
+  "кімоно": { "replacement": "👘", "description": "kimono" },
+  "сарі": { "replacement": "🥻", "description": "sari" },
+  "цільний купальник": {
+    "replacement": "🩱",
+    "description": "one-piece swimsuit"
+  },
+  "плавати коротко": { "replacement": "🩲", "description": "briefs" },
+  "шорти": { "replacement": "🩳", "description": "shorts" },
+  "бікіні": { "replacement": "👙", "description": "bikini" },
+  "жіночий одяг": { "replacement": "👚", "description": "woman’s clothes" },
+  "гаманець": { "replacement": "👛", "description": "purse" },
+  "сумочка": { "replacement": "👜", "description": "handbag" },
+  "мішечок": { "replacement": "👝", "description": "clutch bag" },
+  "покупки": { "replacement": "🛍️", "description": "shopping bags" },
+  "шкільний ранець": { "replacement": "🎒", "description": "backpack" },
+  "сандалі-стрінги": { "replacement": "🩴", "description": "thong sandal" },
+  "чоловіче взуття": { "replacement": "👞", "description": "man’s shoe" },
+  "спортивне взуття": { "replacement": "👟", "description": "running shoe" },
+  "туристичний черевик": { "replacement": "🥾", "description": "hiking boot" },
+  "плоска взуття": { "replacement": "🥿", "description": "flat shoe" },
+  "високі підбори": { "replacement": "👠", "description": "high-heeled shoe" },
+  "сандалі": { "replacement": "👡", "description": "woman’s sandal" },
+  "балетки": { "replacement": "🩰", "description": "ballet shoes" },
+  "завантаження": { "replacement": "👢", "description": "woman’s boot" },
+  "вінець": { "replacement": "👑", "description": "crown" },
+  "капелюх жінок": { "replacement": "👒", "description": "woman’s hat" },
+  "топхат": { "replacement": "🎩", "description": "top hat" },
+  "мінометна дошка": { "replacement": "🎓", "description": "graduation cap" },
+  "виставлений рахунок": { "replacement": "🧢", "description": "billed cap" },
+  "військовий шолом": { "replacement": "🪖", "description": "military helmet" },
+  "рятувальник шолом": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "чотки": { "replacement": "📿", "description": "prayer beads" },
+  "помада": { "replacement": "💄", "description": "lipstick" },
+  "каблучка": { "replacement": "💍", "description": "ring" },
+  "самоцвіт": { "replacement": "💎", "description": "gem stone" },
+  "німий": { "replacement": "🔇", "description": "muted speaker" },
+  "динамік": { "replacement": "🔈", "description": "speaker low volume" },
+  "звук": { "replacement": "🔉", "description": "speaker medium volume" },
+  "гучний звук": { "replacement": "🔊", "description": "speaker high volume" },
+  "гучномовець": { "replacement": "📢", "description": "loudspeaker" },
+  "мега": { "replacement": "📣", "description": "megaphone" },
+  "поштовий ріг": { "replacement": "📯", "description": "postal horn" },
+  "дзвоник": { "replacement": "🔔", "description": "bell" },
+  "жодного дзвоника": { "replacement": "🔕", "description": "bell with slash" },
+  "музична партитура": { "replacement": "🎼", "description": "musical score" },
+  "музична нота": { "replacement": "🎵", "description": "musical note" },
+  "нотатки": { "replacement": "🎶", "description": "musical notes" },
+  "студійний мікрофон": {
+    "replacement": "🎙️",
+    "description": "studio microphone"
+  },
+  "повзунок рівня": { "replacement": "🎚️", "description": "level slider" },
+  "ручки управління": { "replacement": "🎛️", "description": "control knobs" },
+  "мікрофон": { "replacement": "🎤", "description": "microphone" },
+  "навушники": { "replacement": "🎧", "description": "headphone" },
+  "радіо": { "replacement": "📻", "description": "radio" },
+  "саксофон": { "replacement": "🎷", "description": "saxophone" },
+  "акордеон": { "replacement": "🪗", "description": "accordion" },
+  "гітара": { "replacement": "🎸", "description": "guitar" },
+  "музична клавіатура": {
+    "replacement": "🎹",
+    "description": "musical keyboard"
+  },
+  "труба": { "replacement": "🎺", "description": "trumpet" },
+  "скрипка": { "replacement": "🎻", "description": "violin" },
+  "банджо": { "replacement": "🪕", "description": "banjo" },
+  "барабан": { "replacement": "🥁", "description": "drum" },
+  "довгий барабан": { "replacement": "🪘", "description": "long drum" },
+  "iphone": { "replacement": "📱", "description": "mobile phone" },
+  "дзвонячи": { "replacement": "📲", "description": "mobile phone with arrow" },
+  "телефон": { "replacement": "☎️", "description": "telephone" },
+  "телефонна приймач": {
+    "replacement": "📞",
+    "description": "telephone receiver"
+  },
+  "пейджер": { "replacement": "📟", "description": "pager" },
+  "факс": { "replacement": "📠", "description": "fax machine" },
+  "акумулятор": { "replacement": "🔋", "description": "battery" },
+  "електрична вилка": { "replacement": "🔌", "description": "electric plug" },
+  "комп'ютер": { "replacement": "💻", "description": "laptop" },
+  "настільний компютер": {
+    "replacement": "🖥️",
+    "description": "desktop computer"
+  },
+  "принтер": { "replacement": "🖨️", "description": "printer" },
+  "клавіатура": { "replacement": "⌨️", "description": "keyboard" },
+  "комп'ютерна миша": { "replacement": "🖱️", "description": "computer mouse" },
+  "трекбол": { "replacement": "🖲️", "description": "trackball" },
+  "мінідиск": { "replacement": "💽", "description": "computer disk" },
+  "дискета": { "replacement": "💾", "description": "floppy disk" },
+  "компакт-диск": { "replacement": "💿", "description": "optical disk" },
+  "DVD": { "replacement": "📀", "description": "dvd" },
+  "рахівниця": { "replacement": "🧮", "description": "abacus" },
+  "кінокамера": { "replacement": "🎥", "description": "movie camera" },
+  "кіноплівка": { "replacement": "🎞️", "description": "film frames" },
+  "кінопроектор": { "replacement": "📽️", "description": "film projector" },
+  "хлопушка": { "replacement": "🎬", "description": "clapper board" },
+  "телевізор": { "replacement": "📺", "description": "television" },
+  "камери": { "replacement": "📷", "description": "camera" },
+  "спалах камери": { "replacement": "📸", "description": "camera with flash" },
+  "відеокамера": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "маг право": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "свічка": { "replacement": "🕯️", "description": "candle" },
+  "цибулина": { "replacement": "💡", "description": "light bulb" },
+  "ліхтарик": { "replacement": "🔦", "description": "flashlight" },
+  "ізакая ліхтар": { "replacement": "🏮", "description": "red paper lantern" },
+  "дія лампа": { "replacement": "🪔", "description": "diya lamp" },
+  "блокнот з декоративною обкладинкою": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "закрита книга": { "replacement": "📕", "description": "closed book" },
+  "книга": { "replacement": "📒", "description": "ledger" },
+  "зелена книга": { "replacement": "📗", "description": "green book" },
+  "блакитна книга": { "replacement": "📘", "description": "blue book" },
+  "помаранчева книга": { "replacement": "📙", "description": "orange book" },
+  "книги": { "replacement": "📚", "description": "books" },
+  "зошит": { "replacement": "📓", "description": "notebook" },
+  "сторінка з завитком": {
+    "replacement": "📃",
+    "description": "page with curl"
+  },
+  "прокрутка": { "replacement": "📜", "description": "scroll" },
+  "сторінка догори": { "replacement": "📄", "description": "page facing up" },
+  "газета": { "replacement": "📰", "description": "newspaper" },
+  "газетний рулон": {
+    "replacement": "🗞️",
+    "description": "rolled-up newspaper"
+  },
+  "вкладки закладки": { "replacement": "📑", "description": "bookmark tabs" },
+  "закладки": { "replacement": "🔖", "description": "bookmark" },
+  "етикетці": { "replacement": "🏷️", "description": "label" },
+  "мішок грошей": { "replacement": "💰", "description": "money bag" },
+  "монета": { "replacement": "🪙", "description": "coin" },
+  "єни": { "replacement": "💴", "description": "yen banknote" },
+  "долар": { "replacement": "💵", "description": "dollar banknote" },
+  "євро": { "replacement": "💶", "description": "euro banknote" },
+  "фунт": { "replacement": "💷", "description": "pound banknote" },
+  "гроші з крилами": { "replacement": "💸", "description": "money with wings" },
+  "кредитна карта": { "replacement": "💳", "description": "credit card" },
+  "квитанція": { "replacement": "🧾", "description": "receipt" },
+  "діаграми": {
+    "replacement": "💹",
+    "description": "chart increasing with yen"
+  },
+  "електронною поштою": { "replacement": "📧", "description": "e-mail" },
+  "вхідний конверт": {
+    "replacement": "📨",
+    "description": "incoming envelope"
+  },
+  "конверт зі стрілкою": {
+    "replacement": "📩",
+    "description": "envelope with arrow"
+  },
+  "вихідний лоток": { "replacement": "📤", "description": "outbox tray" },
+  "лоток вхідних": { "replacement": "📥", "description": "inbox tray" },
+  "пакет": { "replacement": "📦", "description": "package" },
+  "поштова скринька": {
+    "replacement": "📫",
+    "description": "closed mailbox with raised flag"
+  },
+  "поштову скриньку закрито": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "поштова скринька з поштою": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "поштова скринька без пошти": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "Поштову скриньку": { "replacement": "📮", "description": "postbox" },
+  "виборча урна": {
+    "replacement": "🗳️",
+    "description": "ballot box with ballot"
+  },
+  "олівець2": { "replacement": "✏️", "description": "pencil" },
+  "чорний перо": { "replacement": "✒️", "description": "black nib" },
+  "авторучка": { "replacement": "🖋️", "description": "fountain pen" },
+  "ручка": { "replacement": "🖊️", "description": "pen" },
+  "кисть": { "replacement": "🖌️", "description": "paintbrush" },
+  "кольоровий олівець": { "replacement": "🖍️", "description": "crayon" },
+  "пам’ятка": { "replacement": "📝", "description": "memo" },
+  "портфель": { "replacement": "💼", "description": "briefcase" },
+  "папка з файлами": { "replacement": "📁", "description": "file folder" },
+  "відкрити папку": { "replacement": "📂", "description": "open file folder" },
+  "дільники картотеки": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "дата": { "replacement": "📅", "description": "calendar" },
+  "календар": { "replacement": "📆", "description": "tear-off calendar" },
+  "спіральний блокнот": {
+    "replacement": "🗒️",
+    "description": "spiral notepad"
+  },
+  "спіральний календар": {
+    "replacement": "🗓️",
+    "description": "spiral calendar"
+  },
+  "картотека": { "replacement": "🗄️", "description": "file cabinet" },
+  "діаграма з тенденцією до зростання": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "діаграма з тенденцією до зниження": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "гістограма": { "replacement": "📊", "description": "bar chart" },
+  "буфер обміну": { "replacement": "📋", "description": "clipboard" },
+  "кнопка": { "replacement": "📌", "description": "pushpin" },
+  "кругла кнопка": { "replacement": "📍", "description": "round pushpin" },
+  "скріпка": { "replacement": "📎", "description": "paperclip" },
+  "скріпки": { "replacement": "🖇️", "description": "linked paperclips" },
+  "пряма лінійка": { "replacement": "📏", "description": "straight ruler" },
+  "трикутна лінійка": {
+    "replacement": "📐",
+    "description": "triangular ruler"
+  },
+  "ножиці": { "replacement": "✂️", "description": "scissors" },
+  "кошик для сміття": { "replacement": "🗑️", "description": "wastebasket" },
+  "замок": { "replacement": "🔒", "description": "locked" },
+  "розблокувати": { "replacement": "🔓", "description": "unlocked" },
+  "замок чорнильною ручкою": {
+    "replacement": "🔏",
+    "description": "locked with pen"
+  },
+  "закритий замок на ключ": {
+    "replacement": "🔐",
+    "description": "locked with key"
+  },
+  "ключ": { "replacement": "🔑", "description": "key" },
+  "старий ключ": { "replacement": "🗝️", "description": "old key" },
+  "молоток": { "replacement": "🔨", "description": "hammer" },
+  "сокира": { "replacement": "🪓", "description": "axe" },
+  "вибрати": { "replacement": "⛏️", "description": "pick" },
+  "молоток і пікіровка": {
+    "replacement": "⚒️",
+    "description": "hammer and pick"
+  },
+  "молоток і гайковий ключ": {
+    "replacement": "🛠️",
+    "description": "hammer and wrench"
+  },
+  "кинджал": { "replacement": "🗡️", "description": "dagger" },
+  "схрещені мечі": { "replacement": "⚔️", "description": "crossed swords" },
+  "пістолет": { "replacement": "🔫", "description": "pistol" },
+  "бумеранг": { "replacement": "🪃", "description": "boomerang" },
+  "лук і стріла": { "replacement": "🏹", "description": "bow and arrow" },
+  "щит": { "replacement": "🛡️", "description": "shield" },
+  "столярна пила": { "replacement": "🪚", "description": "carpentry saw" },
+  "гайковий ключ": { "replacement": "🔧", "description": "wrench" },
+  "викрутка": { "replacement": "🪛", "description": "screwdriver" },
+  "гайка і болт": { "replacement": "🔩", "description": "nut and bolt" },
+  "передач": { "replacement": "⚙️", "description": "gear" },
+  "затискач": { "replacement": "🗜️", "description": "clamp" },
+  "шкала балансу": { "replacement": "⚖️", "description": "balance scale" },
+  "зондуючий очерет": { "replacement": "🦯", "description": "white cane" },
+  "посилання": { "replacement": "🔗", "description": "link" },
+  "ланцюги": { "replacement": "⛓️", "description": "chains" },
+  "гачок": { "replacement": "🪝", "description": "hook" },
+  "набір інструментів": { "replacement": "🧰", "description": "toolbox" },
+  "магніт": { "replacement": "🧲", "description": "magnet" },
+  "сходи": { "replacement": "🪜", "description": "ladder" },
+  "алембічний": { "replacement": "⚗️", "description": "alembic" },
+  "пробірка": { "replacement": "🧪", "description": "test tube" },
+  "чашка Петрі": { "replacement": "🧫", "description": "petri dish" },
+  "днк": { "replacement": "🧬", "description": "dna" },
+  "мікроскоп": { "replacement": "🔬", "description": "microscope" },
+  "телескоп": { "replacement": "🔭", "description": "telescope" },
+  "супутник": { "replacement": "📡", "description": "satellite antenna" },
+  "шприц": { "replacement": "💉", "description": "syringe" },
+  "крапля крові": { "replacement": "🩸", "description": "drop of blood" },
+  "таблетки": { "replacement": "💊", "description": "pill" },
+  "лейкопластир": { "replacement": "🩹", "description": "adhesive bandage" },
+  "стетоскоп": { "replacement": "🩺", "description": "stethoscope" },
+  "двері": { "replacement": "🚪", "description": "door" },
+  "ліфт": { "replacement": "🛗", "description": "elevator" },
+  "дзеркало": { "replacement": "🪞", "description": "mirror" },
+  "вікно": { "replacement": "🪟", "description": "window" },
+  "ліжко": { "replacement": "🛏️", "description": "bed" },
+  "кушетка і світильник": {
+    "replacement": "🛋️",
+    "description": "couch and lamp"
+  },
+  "стілець": { "replacement": "🪑", "description": "chair" },
+  "туалет": { "replacement": "🚾", "description": "water closet" },
+  "поршень": { "replacement": "🪠", "description": "plunger" },
+  "душ": { "replacement": "🚿", "description": "shower" },
+  "мишоловка": { "replacement": "🪤", "description": "mouse trap" },
+  "бритва": { "replacement": "🪒", "description": "razor" },
+  "пляшка з лосьйоном": { "replacement": "🧴", "description": "lotion bottle" },
+  "запобіжна шпилька": { "replacement": "🧷", "description": "safety pin" },
+  "віник": { "replacement": "🧹", "description": "broom" },
+  "кошик": { "replacement": "🧺", "description": "basket" },
+  "рулон паперу": { "replacement": "🧻", "description": "roll of paper" },
+  "відро": { "replacement": "🪣", "description": "bucket" },
+  "мило": { "replacement": "🧼", "description": "soap" },
+  "зубна щітка": { "replacement": "🪥", "description": "toothbrush" },
+  "губка": { "replacement": "🧽", "description": "sponge" },
+  "вогнегасник": { "replacement": "🧯", "description": "fire extinguisher" },
+  "магазинний візок": { "replacement": "🛒", "description": "shopping cart" },
+  "куріння": { "replacement": "🚬", "description": "cigarette" },
+  "труна": { "replacement": "⚰️", "description": "coffin" },
+  "надгробний камінь": { "replacement": "🪦", "description": "headstone" },
+  "похоронна урна": { "replacement": "⚱️", "description": "funeral urn" },
+  "moyai": { "replacement": "🗿", "description": "moai" },
+  "плакат": { "replacement": "🪧", "description": "placard" },
+  "банкомат": { "replacement": "🏧", "description": "ATM sign" },
+  "поставити підстилку на своє місце": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "Питна вода": { "replacement": "🚰", "description": "potable water" },
+  "інвалідне крісло": {
+    "replacement": "♿",
+    "description": "wheelchair symbol"
+  },
+  "чоловіча": { "replacement": "🚹", "description": "men’s room" },
+  "жіночі": { "replacement": "🚺", "description": "women’s room" },
+  "дитина символ": { "replacement": "🚼", "description": "baby symbol" },
+  "паспортний контроль": {
+    "replacement": "🛂",
+    "description": "passport control"
+  },
+  "митниця": { "replacement": "🛃", "description": "customs" },
+  "отримання багажу": { "replacement": "🛄", "description": "baggage claim" },
+  "залишений багаж": { "replacement": "🛅", "description": "left luggage" },
+  "увага": { "replacement": "⚠️", "description": "warning" },
+  "перетин дітей": { "replacement": "🚸", "description": "children crossing" },
+  "в'їзд заборонений": { "replacement": "⛔", "description": "no entry" },
+  "немає входу знак": { "replacement": "🚫", "description": "prohibited" },
+  "відсутність велосипедів": {
+    "replacement": "🚳",
+    "description": "no bicycles"
+  },
+  "куріння заборонено": { "replacement": "🚭", "description": "no smoking" },
+  "не смітити": { "replacement": "🚯", "description": "no littering" },
+  "не питна вода": { "replacement": "🚱", "description": "non-potable water" },
+  "відсутність пішоходів": {
+    "replacement": "🚷",
+    "description": "no pedestrians"
+  },
+  "немає мобільних телефонів": {
+    "replacement": "📵",
+    "description": "no mobile phones"
+  },
+  "неповнолітній": {
+    "replacement": "🔞",
+    "description": "no one under eighteen"
+  },
+  "радіоактивний": { "replacement": "☢️", "description": "radioactive" },
+  "біологічна небезпека": { "replacement": "☣️", "description": "biohazard" },
+  "стрілка вгору": {
+    "replacement": "⤴️",
+    "description": "right arrow curving up"
+  },
+  "стрілка вгорі праворуч": {
+    "replacement": "↗️",
+    "description": "up-right arrow"
+  },
+  "стрілка вправо": { "replacement": "➡️", "description": "right arrow" },
+  "стрілка внизу праворуч": {
+    "replacement": "↘️",
+    "description": "down-right arrow"
+  },
+  "стрілка вниз": { "replacement": "⬇️", "description": "down arrow" },
+  "стрілка внизу ліворуч": {
+    "replacement": "↙️",
+    "description": "down-left arrow"
+  },
+  "стрілка вліво": { "replacement": "⬅️", "description": "left arrow" },
+  "стрілка вгорі ліворуч": {
+    "replacement": "↖️",
+    "description": "up-left arrow"
+  },
+  "стрілка вгору вниз": { "replacement": "↕️", "description": "up-down arrow" },
+  "стрілка вліво вправо": {
+    "replacement": "↔️",
+    "description": "left-right arrow"
+  },
+  "стрілка вліво з гачком": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "стрілка вправо гачок": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "стрілка, спрямована вниз": {
+    "replacement": "⤵️",
+    "description": "right arrow curving down"
+  },
+  "стрілки за годинниковою стрілкою": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "стрілки проти годинникової стрілки": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "назад": { "replacement": "🔙", "description": "BACK arrow" },
+  "кінець": { "replacement": "🔚", "description": "END arrow" },
+  "на": { "replacement": "🔛", "description": "ON! arrow" },
+  "найближчим часом": { "replacement": "🔜", "description": "SOON arrow" },
+  "зверху": { "replacement": "🔝", "description": "TOP arrow" },
+  "місце поклоніння": {
+    "replacement": "🛐",
+    "description": "place of worship"
+  },
+  "атом символ": { "replacement": "⚛️", "description": "atom symbol" },
+  "ом": { "replacement": "🕉️", "description": "om" },
+  "зірка Давида": { "replacement": "✡️", "description": "star of David" },
+  "колесо дхарми": { "replacement": "☸️", "description": "wheel of dharma" },
+  "Інь Янь": { "replacement": "☯️", "description": "yin yang" },
+  "латинський хрест": { "replacement": "✝️", "description": "latin cross" },
+  "православний хрест": {
+    "replacement": "☦️",
+    "description": "orthodox cross"
+  },
+  "зірка і півмісяць": {
+    "replacement": "☪️",
+    "description": "star and crescent"
+  },
+  "символ миру": { "replacement": "☮️", "description": "peace symbol" },
+  "менора": { "replacement": "🕎", "description": "menorah" },
+  "шестикутна зірка": {
+    "replacement": "🔯",
+    "description": "dotted six-pointed star"
+  },
+  "овен": { "replacement": "♈", "description": "Aries" },
+  "Телець": { "replacement": "♉", "description": "Taurus" },
+  "Близнюки": { "replacement": "♊", "description": "Gemini" },
+  "рак": { "replacement": "♋", "description": "Cancer" },
+  "Лео": { "replacement": "♌", "description": "Leo" },
+  "Діва": { "replacement": "♍", "description": "Virgo" },
+  "ваги": { "replacement": "♎", "description": "Libra" },
+  "Скорпіон": { "replacement": "♏", "description": "Scorpio" },
+  "Стрілець": { "replacement": "♐", "description": "Sagittarius" },
+  "Козеріг": { "replacement": "♑", "description": "Capricorn" },
+  "Водолій": { "replacement": "♒", "description": "Aquarius" },
+  "риби": { "replacement": "♓", "description": "Pisces" },
+  "змієносець": { "replacement": "⛎", "description": "Ophiuchus" },
+  "скручені вправо стрілки": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "повторити": { "replacement": "🔁", "description": "repeat button" },
+  "повторіть один": {
+    "replacement": "🔂",
+    "description": "repeat single button"
+  },
+  "стрілка вперед": { "replacement": "▶️", "description": "play button" },
+  "швидко вперед": {
+    "replacement": "⏩",
+    "description": "fast-forward button"
+  },
+  "кнопка наступної доріжки": {
+    "replacement": "⏭️",
+    "description": "next track button"
+  },
+  "кнопку відтворення або паузи": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "стрілка назад": { "replacement": "◀️", "description": "reverse button" },
+  "перемотати назад": {
+    "replacement": "⏪",
+    "description": "fast reverse button"
+  },
+  "кнопка попередньої доріжки": {
+    "replacement": "⏮️",
+    "description": "last track button"
+  },
+  "стрілка вгору мала": {
+    "replacement": "🔼",
+    "description": "upwards button"
+  },
+  "стрілка вдвічі": { "replacement": "⏫", "description": "fast up button" },
+  "стрілка вниз мала": {
+    "replacement": "🔽",
+    "description": "downwards button"
+  },
+  "стрілка вдвічі вниз": {
+    "replacement": "⏬",
+    "description": "fast down button"
+  },
+  "кнопка паузи": { "replacement": "⏸️", "description": "pause button" },
+  "кнопка зупинки": { "replacement": "⏹️", "description": "stop button" },
+  "кнопка запису": { "replacement": "⏺️", "description": "record button" },
+  "кнопка виймання": { "replacement": "⏏️", "description": "eject button" },
+  "кіно": { "replacement": "🎦", "description": "cinema" },
+  "низька яскравість": { "replacement": "🔅", "description": "dim button" },
+  "висока яскравість": { "replacement": "🔆", "description": "bright button" },
+  "сила сигналу": { "replacement": "📶", "description": "antenna bars" },
+  "режим вібрації": { "replacement": "📳", "description": "vibration mode" },
+  "мобільний телефон вимкнено": {
+    "replacement": "📴",
+    "description": "mobile phone off"
+  },
+  "жіночий знак": { "replacement": "♀️", "description": "female sign" },
+  "чоловічий знак": { "replacement": "♂️", "description": "male sign" },
+  "трансгендерний символ": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "важке множення x": { "replacement": "✖️", "description": "multiply" },
+  "важкий знак плюс": { "replacement": "➕", "description": "plus" },
+  "важкий знак мінус": { "replacement": "➖", "description": "minus" },
+  "важкий поділ знак": { "replacement": "➗", "description": "divide" },
+  "нескінченність": { "replacement": "♾️", "description": "infinity" },
+  "чубчик": { "replacement": "‼️", "description": "double exclamation mark" },
+  "інтербанг": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "питання": { "replacement": "❓", "description": "question mark" },
+  "сіре питання": { "replacement": "❔", "description": "white question mark" },
+  "сірий вигук": {
+    "replacement": "❕",
+    "description": "white exclamation mark"
+  },
+  "вигук": { "replacement": "❗", "description": "exclamation mark" },
+  "хвиляста тире": { "replacement": "〰️", "description": "wavy dash" },
+  "обмін валюти": { "replacement": "💱", "description": "currency exchange" },
+  "важкий знак долара": {
+    "replacement": "💲",
+    "description": "heavy dollar sign"
+  },
+  "медичний символ": { "replacement": "⚕️", "description": "medical symbol" },
+  "переробити": { "replacement": "♻️", "description": "recycling symbol" },
+  "fleur de lis": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "тризуб": { "replacement": "🔱", "description": "trident emblem" },
+  "іменний значок": { "replacement": "📛", "description": "name badge" },
+  "новачок": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "o": { "replacement": "⭕", "description": "hollow red circle" },
+  "біла галочка": { "replacement": "✅", "description": "check mark button" },
+  "урна з чеком": {
+    "replacement": "☑️",
+    "description": "check box with check"
+  },
+  "важка галочка": { "replacement": "✔️", "description": "check mark" },
+  "х": { "replacement": "❌", "description": "cross mark" },
+  "від’ємний квадратний хрест": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "кучерява петля": { "replacement": "➰", "description": "curly loop" },
+  "петля": { "replacement": "➿", "description": "double curly loop" },
+  "знак чергування частин": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "вісім зірочок зі спицями": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "восьмиконечна чорна зірка": {
+    "replacement": "✴️",
+    "description": "eight-pointed star"
+  },
+  "блиск": { "replacement": "❇️", "description": "sparkle" },
+  "авторські права": { "replacement": "©️", "description": "copyright" },
+  "зареєстрований": { "replacement": "®️", "description": "registered" },
+  "tm": { "replacement": "™️", "description": "trade mark" },
+  "хеш": { "replacement": "#️⃣", "description": "keycap: #" },
+  "зірочка": { "replacement": "*️⃣", "description": "keycap: *" },
+  "нуль": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "один": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "два": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "три": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "чотири": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "п'ять": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "шість": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "сім": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "вісім": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "дев'ять": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "клавіша десять": { "replacement": "🔟", "description": "keycap: 10" },
+  "капітал abcd": {
+    "replacement": "🔠",
+    "description": "input latin uppercase"
+  },
+  "а Б В Г": { "replacement": "🔡", "description": "input latin lowercase" },
+  "символи": { "replacement": "🔣", "description": "input symbols" },
+  "abc": { "replacement": "🔤", "description": "input latin letters" },
+  "a": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "ab": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "b": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "cl": { "replacement": "🆑", "description": "CL button" },
+  "круто": { "replacement": "🆒", "description": "COOL button" },
+  "безкоштовно": { "replacement": "🆓", "description": "FREE button" },
+  "джерело інформації": { "replacement": "ℹ️", "description": "information" },
+  "ідентифікатор": { "replacement": "🆔", "description": "ID button" },
+  "м": { "replacement": "Ⓜ️", "description": "circled M" },
+  "новий": { "replacement": "🆕", "description": "NEW button" },
+  "нг": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "в порядку": { "replacement": "🆗", "description": "OK button" },
+  "парковка": { "replacement": "🅿️", "description": "P button" },
+  "сос": { "replacement": "🆘", "description": "SOS button" },
+  "вгору": { "replacement": "🆙", "description": "UP! button" },
+  "проти": { "replacement": "🆚", "description": "VS button" },
+  "коко": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "sa": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "перевага ідеографа": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "прийняти": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "вітаю": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "таємний": { "replacement": "㊙️", "description": "Japanese “secret” button" },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "червоне коло": { "replacement": "🔴", "description": "red circle" },
+  "помаранчеве коло": { "replacement": "🟠", "description": "orange circle" },
+  "жовте коло": { "replacement": "🟡", "description": "yellow circle" },
+  "зелене коло": { "replacement": "🟢", "description": "green circle" },
+  "великий синій круг": { "replacement": "🔵", "description": "blue circle" },
+  "фіолетове коло": { "replacement": "🟣", "description": "purple circle" },
+  "коричневе коло": { "replacement": "🟤", "description": "brown circle" },
+  "чорне коло": { "replacement": "⚫", "description": "black circle" },
+  "біле коло": { "replacement": "⚪", "description": "white circle" },
+  "червоний квадрат": { "replacement": "🟥", "description": "red square" },
+  "помаранчевий квадрат": {
+    "replacement": "🟧",
+    "description": "orange square"
+  },
+  "жовтий квадрат": { "replacement": "🟨", "description": "yellow square" },
+  "зелений квадрат": { "replacement": "🟩", "description": "green square" },
+  "синій квадрат": { "replacement": "🟦", "description": "blue square" },
+  "фіолетовий квадрат": { "replacement": "🟪", "description": "purple square" },
+  "коричневий квадрат": { "replacement": "🟫", "description": "brown square" },
+  "чорний великий квадрат": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "білий великий квадрат": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "чорний середній квадрат": {
+    "replacement": "◼️",
+    "description": "black medium square"
+  },
+  "білий середній квадрат": {
+    "replacement": "◻️",
+    "description": "white medium square"
+  },
+  "чорний середній маленький квадрат": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "білий середній маленький квадрат": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "чорний маленький квадрат": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "білий маленький квадрат": {
+    "replacement": "▫️",
+    "description": "white small square"
+  },
+  "великий оранжевий діамант": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "великий синій діамант": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "маленький помаранчевий діамант": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "маленький блакитний діамант": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "маленький червоний трикутник": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "маленький червоний трикутник вниз": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "ромбовидна форма з крапкою всередині": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "радіо-кнопка": { "replacement": "🔘", "description": "radio button" },
+  "біла квадратна кнопка": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "чорна квадратна кнопка": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "картатий прапор": { "replacement": "🏁", "description": "chequered flag" },
+  "трикутний прапор на посту": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "схрещені прапори": { "replacement": "🎌", "description": "crossed flags" },
+  "чорний прапор": { "replacement": "🏴", "description": "black flag" },
+  "білий прапор": { "replacement": "🏳️", "description": "white flag" },
+  "веселка прапор": { "replacement": "🏳️‍🌈", "description": "rainbow flag" },
+  "трансгендерний прапор": {
+    "replacement": "🏳️‍⚧️",
+    "description": "transgender flag"
+  },
+  "піратський прапор": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "острів сходження": {
+    "replacement": "🇦🇨",
+    "description": "flag: Ascension Island"
+  },
+  "Андорра": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "Об'єднані Арабські Емірати": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "Афганістан": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "антигуа барбуда": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "ангіла": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "Альбанія": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "Вірменія": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "ангола": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "антарктида": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "Аргентина": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "американське самоа": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "Австрія": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "Австралія": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "аруба": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "аландські острови": {
+    "replacement": "🇦🇽",
+    "description": "flag: Åland Islands"
+  },
+  "азербайджан": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "Боснія Герцеговина": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "Барбадос": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "Бангладеш": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "Бельгія": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "Буркіна-Фасо": { "replacement": "🇧🇫", "description": "flag: Burkina Faso" },
+  "болгарія": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "Бахрейн": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "бурунді": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "Бенін": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "св. Бартелемі": {
+    "replacement": "🇧🇱",
+    "description": "flag: St. Barthélemy"
+  },
+  "бермуди": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "Бруней": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "Болівія": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "Кариби Нідерланди": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "Бразилія": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "Багамські острови": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "Бутан": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "острів буве": { "replacement": "🇧🇻", "description": "flag: Bouvet Island" },
+  "Ботсвана": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "Білорусь": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "беліз": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "Канада": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "кокосові острови": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "Конго Кіншаса": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "центральноафриканська республіка": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "Конго-Браззавіль": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "Швейцарія": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "Кот-дівоар": { "replacement": "🇨🇮", "description": "flag: Côte d’Ivoire" },
+  "острови Кука": { "replacement": "🇨🇰", "description": "flag: Cook Islands" },
+  "чилі": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "камерун": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "cn": { "replacement": "🇨🇳", "description": "flag: China" },
+  "Колумбія": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "острів Кліппертон": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "Коста-Ріка": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "куба": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "Кабо-Верде": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "кюрасао": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "острів Різдва": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "Кіпр": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "Чеська Республіка": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "де": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "Дієго Гарсія": { "replacement": "🇩🇬", "description": "flag: Diego Garcia" },
+  "джибуті": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "Данія": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "домініка": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "Домініканська республіка": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "Алжир": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "ceuta melilla": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "Еквадор": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "естонія": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "Єгипет": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "західна сахара": {
+    "replacement": "🇪🇭",
+    "description": "flag: Western Sahara"
+  },
+  "еритрея": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "es": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "ефіопія": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "ЄС": { "replacement": "🇪🇺", "description": "flag: European Union" },
+  "Фінляндія": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "Фіджі": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "Фолклендські острови": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "мікронезія": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "Фарерські острови": {
+    "replacement": "🇫🇴",
+    "description": "flag: Faroe Islands"
+  },
+  "fr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "габон": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "gb": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "Гренада": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "грузія": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "Французька Гвіана": {
+    "replacement": "🇬🇫",
+    "description": "flag: French Guiana"
+  },
+  "Гернсі": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "Гана": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "Гібралтар": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "Гренландія": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "гамбія": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "гвінея": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "Гваделупа": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "Екваторіальна Гвінея": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "Греція": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "південна грузія південні сандвічеві острови": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "гватемала": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "гуам": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "гвінея бісау": { "replacement": "🇬🇼", "description": "flag: Guinea-Bissau" },
+  "Гайана": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "Гонконг": {
+    "replacement": "🇭🇰",
+    "description": "flag: Hong Kong SAR China"
+  },
+  "почув острови Макдональд": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "Гондурас": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "Хорватія": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "Гаїті": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "Угорщина": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "Канарські острови": {
+    "replacement": "🇮🇨",
+    "description": "flag: Canary Islands"
+  },
+  "Індонезія": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "Ірландія": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "Ізраїль": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "Острів Мен": { "replacement": "🇮🇲", "description": "flag: Isle of Man" },
+  "Індія": { "replacement": "🇮🇳", "description": "flag: India" },
+  "Британська територія Індійського океану": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "ірак": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "Іран": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "Ісландія": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "це": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "трикотаж": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "Ямайка": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "Йорданія": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "jp": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "кенія": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "Киргизстан": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "Камбоджа": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "кірібаті": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "Коморські острови": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "Сент-Кітс Невіс": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "Північна Корея": { "replacement": "🇰🇵", "description": "flag: North Korea" },
+  "кр": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "Кувейт": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "Кайманові острови": {
+    "replacement": "🇰🇾",
+    "description": "flag: Cayman Islands"
+  },
+  "Казахстан": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "Лаос": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "Ліван": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "Сент-Люсія": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "ліхтенштейн": { "replacement": "🇱🇮", "description": "flag: Liechtenstein" },
+  "Шрі Ланка": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "ліберія": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "лезото": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "Литва": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "Люксембург": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "латвія": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "лівія": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "Марокко": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "Монако": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "молдова": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "Чорногорія": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "Святого Мартіна": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "Мадагаскар": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "Маршаллові острови": {
+    "replacement": "🇲🇭",
+    "description": "flag: Marshall Islands"
+  },
+  "македонія": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "малі": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "М'янма": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "Монголія": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "Макао": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "північні маріанські острови": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "мартініка": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "мавританія": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "монсеррат": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "Мальта": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "маврикій": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "Мальдіви": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "малаві": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "Мексика": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "Малайзія": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "Мозамбік": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "намібія": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "нова Каледонія": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "нігер": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "острів Норфолк": {
+    "replacement": "🇳🇫",
+    "description": "flag: Norfolk Island"
+  },
+  "нігерія": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "Нікарагуа": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "Нідерланди": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "Норвегія": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "Непал": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "науру": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "ніуе": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "Нова Зеландія": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "оман": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "Панама": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "Перу": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "Французька Полінезія": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "Папуа-Нова Гвінея": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "Філіппіни": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "Пакистан": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "Польща": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "st Pierre miquelon": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "острови Піткерн": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "Пуерто-Рико": { "replacement": "🇵🇷", "description": "flag: Puerto Rico" },
+  "палестинські території": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "Португалія": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "палау": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "Парагвай": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "катар": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "возз'єднання": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "румунія": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "Сербія": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "ru": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "Руанда": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "Саудівська Аравія": {
+    "replacement": "🇸🇦",
+    "description": "flag: Saudi Arabia"
+  },
+  "Соломонові острови": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "Сейшельські острови": {
+    "replacement": "🇸🇨",
+    "description": "flag: Seychelles"
+  },
+  "Судан": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "Швеція": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "Сінгапур": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "Св. Єлена": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "Словенія": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "Шпіцберген Ян Майен": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "Словаччина": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "Сьєрра-Леоне": { "replacement": "🇸🇱", "description": "flag: Sierra Leone" },
+  "Сан-Марино": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "сенегал": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "сомалі": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "Суринам": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "південний Судан": {
+    "replacement": "🇸🇸",
+    "description": "flag: South Sudan"
+  },
+  "sao tome principe": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "Сальвадор": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "sint maarten": { "replacement": "🇸🇽", "description": "flag: Sint Maarten" },
+  "сирія": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "Свазіленд": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "трістан да кунья": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "острови Кайкос Теркс": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "Чад": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "французькі південні території": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "йти": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "Таїланд": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "таджикистан": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "токелау": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "Тимор Лесте": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "Туркменістан": { "replacement": "🇹🇲", "description": "flag: Turkmenistan" },
+  "Туніс": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "тонга": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "тр": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "тринідад тобаго": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "Тувалу": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "тайвань": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "танзанія": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "україна": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "Уганда": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "нам віддалених островів": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "Об'єднані Нації": {
+    "replacement": "🇺🇳",
+    "description": "flag: United Nations"
+  },
+  "нас": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "Уругвай": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "Узбекистан": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "Ватикан": { "replacement": "🇻🇦", "description": "flag: Vatican City" },
+  "Сент-Вінсент Гренадини": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "Венесуела": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "Британські Віргінські острови": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "нам незаймані острови": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "В'єтнам": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "вануату": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "wallis futuna": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "самоа": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "косово": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "Ємен": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "майотта": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "Південна Африка": {
+    "replacement": "🇿🇦",
+    "description": "flag: South Africa"
+  },
+  "Замбія": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "Зімбабве": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "Англії": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "Шотландія": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "Уельс": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

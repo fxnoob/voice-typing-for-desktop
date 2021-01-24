@@ -1,0 +1,3024 @@
+{
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "சிரிக்கிறார்": { "replacement": "😀", "description": "grinning face" },
+  "ஸ்மைலி": {
+    "replacement": "😃",
+    "description": "grinning face with big eyes"
+  },
+  "புன்னகை": { "replacement": "😏", "description": "smirking face" },
+  "சிரிப்பு": {
+    "replacement": "😁",
+    "description": "beaming face with smiling eyes"
+  },
+  "சிரித்து": { "replacement": "😆", "description": "grinning squinting face" },
+  "வியர்வை புன்னகை": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "மகிழ்ச்சி": { "replacement": "😂", "description": "face with tears of joy" },
+  "சற்று சிரிக்கும் முகம்": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "தலைகீழான முகம்": { "replacement": "🙃", "description": "upside-down face" },
+  "கண் சிமிட்டும்": { "replacement": "😉", "description": "winking face" },
+  "வெட்கப்படுமளவிற்கு": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "அப்பாவி": { "replacement": "😇", "description": "smiling face with halo" },
+  "மூன்று இதயங்களுடன் சிரிக்கும் முகம்": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "இதய கண்கள்": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "நட்சத்திரம் தாக்கியது": {
+    "replacement": "🤩",
+    "description": "star-struck"
+  },
+  "முத்த இதயம்": { "replacement": "😘", "description": "face blowing a kiss" },
+  "முத்தம்": { "replacement": "💋", "description": "kiss mark" },
+  "நிதானமாக": { "replacement": "☺️", "description": "smiling face" },
+  "மூடிய கண்களை முத்தமிடுவது": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "சிரிக்கும் கண்களை முத்தமிடுவது": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "கண்ணீருடன் சிரித்த முகம்": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "yum": { "replacement": "😋", "description": "face savoring food" },
+  "நாக்கை மாட்டிக்கொண்டது": {
+    "replacement": "😛",
+    "description": "face with tongue"
+  },
+  "நாக்கை வெளியில் துருத்தி கண்ணை சிமிட்டி": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "zany முகம்": { "replacement": "🤪", "description": "zany face" },
+  "நாக்கு மூடிய கண்கள்": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "பணம் வாய் முகம்": { "replacement": "🤑", "description": "money-mouth face" },
+  "அணைத்துக்கொள்கிறது": { "replacement": "🤗", "description": "hugging face" },
+  "வாய் மீது கை": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "முகம்": { "replacement": "🤦", "description": "person facepalming" },
+  "சிந்தனை": { "replacement": "🤔", "description": "thinking face" },
+  "zipper வாய் முகம்": {
+    "replacement": "🤐",
+    "description": "zipper-mouth face"
+  },
+  "புருவம் உயர்த்தப்பட்டது": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "நடுநிலை முகம்": { "replacement": "😐", "description": "neutral face" },
+  "வெளிப்பாடற்ற": { "replacement": "😑", "description": "expressionless face" },
+  "வாய் இல்லை": { "replacement": "😶", "description": "face without mouth" },
+  "பயன்படுத்தப்படாத": { "replacement": "😒", "description": "unamused face" },
+  "கண்சுழற்றுதல்": {
+    "replacement": "🙄",
+    "description": "face with rolling eyes"
+  },
+  "grimacing": { "replacement": "😬", "description": "grimacing face" },
+  "பொய் முகம்": { "replacement": "🤥", "description": "lying face" },
+  "நிம்மதியாக": { "replacement": "😌", "description": "relieved face" },
+  "தீவிரமான": { "replacement": "😔", "description": "pensive face" },
+  "தூக்கம்": { "replacement": "😪", "description": "sleepy face" },
+  "தூங்குகிறது": { "replacement": "😴", "description": "sleeping face" },
+  "முகமூடி": { "replacement": "😷", "description": "face with medical mask" },
+  "வெப்பமானியுடன் முகம்": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "தலை கட்டுடன் முகம்": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "குமட்டல் முகம்": { "replacement": "🤢", "description": "nauseated face" },
+  "வாந்தி முகம்": { "replacement": "🤮", "description": "face vomiting" },
+  "தும்மல் முகம்": { "replacement": "🤧", "description": "sneezing face" },
+  "சூடான முகம்": { "replacement": "🥵", "description": "hot face" },
+  "குளிர் முகம்": { "replacement": "🥶", "description": "cold face" },
+  "கம்பளி முகம்": { "replacement": "🥴", "description": "woozy face" },
+  "மயக்கம் முகம்": { "replacement": "😵", "description": "dizzy face" },
+  "வெடிக்கும் தலை": { "replacement": "🤯", "description": "exploding head" },
+  "கவ்பாய் தொப்பி முகம்": {
+    "replacement": "🤠",
+    "description": "cowboy hat face"
+  },
+  "பார்ட்டி முகம்": { "replacement": "🥳", "description": "partying face" },
+  "மாறுவேடமிட்ட முகம்": { "replacement": "🥸", "description": "disguised face" },
+  "சன்கிளாசஸ்": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "முட்டாள்தனமான முகம்": { "replacement": "🤓", "description": "nerd face" },
+  "மோனோக்கிள் முகம்": {
+    "replacement": "🧐",
+    "description": "face with monocle"
+  },
+  "குழப்பமான": { "replacement": "😕", "description": "confused face" },
+  "கவலைப்படுகிறார்": { "replacement": "😟", "description": "worried face" },
+  "சற்று முகம் சுளிக்கும் முகம்": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "முகம் சுளிக்கும் முகம்": {
+    "replacement": "☹️",
+    "description": "frowning face"
+  },
+  "திறந்த வாய்": { "replacement": "😮", "description": "face with open mouth" },
+  "தள்ளப்பட்டது": { "replacement": "😯", "description": "hushed face" },
+  "ஆச்சரியப்பட்டார்": { "replacement": "😲", "description": "astonished face" },
+  "சுத்தப்படுத்தப்பட்டது": {
+    "replacement": "😳",
+    "description": "flushed face"
+  },
+  "கெஞ்சும் முகம்": { "replacement": "🥺", "description": "pleading face" },
+  "கோபம்": { "replacement": "💢", "description": "anger symbol" },
+  "வேதனை": { "replacement": "😧", "description": "anguished face" },
+  "பயம்": { "replacement": "😨", "description": "fearful face" },
+  "குளிர் வியர்வை": {
+    "replacement": "😰",
+    "description": "anxious face with sweat"
+  },
+  "ஏமாற்றம் நிம்மதி": {
+    "replacement": "😥",
+    "description": "sad but relieved face"
+  },
+  "கலங்குவது": { "replacement": "😢", "description": "crying face" },
+  "sob": { "replacement": "😭", "description": "loudly crying face" },
+  "அலறல்": { "replacement": "😱", "description": "face screaming in fear" },
+  "குழப்பம்": { "replacement": "😖", "description": "confounded face" },
+  "விடாமுயற்சி": { "replacement": "😣", "description": "persevering face" },
+  "ஏமாற்றம்": { "replacement": "😞", "description": "disappointed face" },
+  "வியர்வை": { "replacement": "😓", "description": "downcast face with sweat" },
+  "களைப்பு": { "replacement": "😩", "description": "weary face" },
+  "சோர்வான முகம்": { "replacement": "😫", "description": "tired face" },
+  "வெற்றி": { "replacement": "😤", "description": "face with steam from nose" },
+  "ஆத்திரம்": { "replacement": "😡", "description": "pouting face" },
+  "சபிக்கும் முகம்": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "சிரிக்கும் imp": {
+    "replacement": "😈",
+    "description": "smiling face with horns"
+  },
+  "imp": { "replacement": "👿", "description": "angry face with horns" },
+  "மண்டை ஓடு": { "replacement": "💀", "description": "skull" },
+  "மண்டை ஓடு மற்றும் குறுக்கு எலும்புகள்": {
+    "replacement": "☠️",
+    "description": "skull and crossbones"
+  },
+  "ஹான்கி": { "replacement": "💩", "description": "pile of poo" },
+  "கோமாளி முகம்": { "replacement": "🤡", "description": "clown face" },
+  "ஜப்பானிய ogre": { "replacement": "👹", "description": "ogre" },
+  "ஜப்பானிய கோப்ளின்": { "replacement": "👺", "description": "goblin" },
+  "பேய்": { "replacement": "👻", "description": "ghost" },
+  "அன்னிய": { "replacement": "👽", "description": "alien" },
+  "விண்வெளி படையெடுப்பாளர்": {
+    "replacement": "👾",
+    "description": "alien monster"
+  },
+  "ரோபோ": { "replacement": "🤖", "description": "robot" },
+  "ஸ்மைலி பூனை": { "replacement": "😺", "description": "grinning cat" },
+  "புன்னகை பூனை": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "மகிழ்ச்சி பூனை": {
+    "replacement": "😹",
+    "description": "cat with tears of joy"
+  },
+  "இதய கண்கள் பூனை": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "smirk cat": { "replacement": "😼", "description": "cat with wry smile" },
+  "முத்தம் பூனை": { "replacement": "😽", "description": "kissing cat" },
+  "அலறல் பூனை": { "replacement": "🙀", "description": "weary cat" },
+  "அழுகிற பூனை முகம்": { "replacement": "😿", "description": "crying cat" },
+  "பூனை பூட்டுதல்": { "replacement": "😾", "description": "pouting cat" },
+  "எந்த தீமையும் பார்க்க வேண்டாம்": {
+    "replacement": "🙈",
+    "description": "see-no-evil monkey"
+  },
+  "எந்த தீமையையும் கேட்க வேண்டாம்": {
+    "replacement": "🙉",
+    "description": "hear-no-evil monkey"
+  },
+  "எந்த தீமையும் பேசாதே": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "காதல் கடிதம்": { "replacement": "💌", "description": "love letter" },
+  "மன்மதன்": { "replacement": "💘", "description": "heart with arrow" },
+  "பரிசு இதயம்": { "replacement": "💝", "description": "heart with ribbon" },
+  "பிரகாசிக்கும் இதயம்": {
+    "replacement": "💖",
+    "description": "sparkling heart"
+  },
+  "இதய துடிப்பு": { "replacement": "💓", "description": "beating heart" },
+  "சுழலும் இதயங்கள்": {
+    "replacement": "💞",
+    "description": "revolving hearts"
+  },
+  "இரண்டு இதயங்கள்": { "replacement": "💕", "description": "two hearts" },
+  "இதய அலங்காரம்": { "replacement": "💟", "description": "heart decoration" },
+  "கனமான இதய ஆச்சரியம்": {
+    "replacement": "❣️",
+    "description": "heart exclamation"
+  },
+  "உடைந்த இதயம்": { "replacement": "💔", "description": "broken heart" },
+  "இதயம்": { "replacement": "❤️", "description": "red heart" },
+  "ஆரஞ்சு இதயம்": { "replacement": "🧡", "description": "orange heart" },
+  "மஞ்சள் இதயம்": { "replacement": "💛", "description": "yellow heart" },
+  "பச்சை இதயம்": { "replacement": "💚", "description": "green heart" },
+  "நீல இதயம்": { "replacement": "💙", "description": "blue heart" },
+  "ஊதா இதயம்": { "replacement": "💜", "description": "purple heart" },
+  "பழுப்பு இதயம்": { "replacement": "🤎", "description": "brown heart" },
+  "கருப்பு இதயம்": { "replacement": "🖤", "description": "black heart" },
+  "வெள்ளை இதயம்": { "replacement": "🤍", "description": "white heart" },
+  "ஏற்றம்": { "replacement": "💥", "description": "collision" },
+  "மயக்கம்": { "replacement": "💫", "description": "dizzy" },
+  "வியர்வை சொட்டுகள்": { "replacement": "💦", "description": "sweat droplets" },
+  "கோடு": { "replacement": "💨", "description": "dashing away" },
+  "துளை": { "replacement": "🕳️", "description": "hole" },
+  "குண்டு": { "replacement": "🍲", "description": "pot of food" },
+  "பேச்சு பலூன்": { "replacement": "💬", "description": "speech balloon" },
+  "கண் பேச்சு குமிழி": {
+    "replacement": "👁️‍🗨️",
+    "description": "eye in speech bubble"
+  },
+  "இடது பேச்சு குமிழி": {
+    "replacement": "🗨️",
+    "description": "left speech bubble"
+  },
+  "சரியான கோபம் குமிழி": {
+    "replacement": "🗯️",
+    "description": "right anger bubble"
+  },
+  "பலூன் என்று நினைத்தேன்": {
+    "replacement": "💭",
+    "description": "thought balloon"
+  },
+  "zzz": { "replacement": "💤", "description": "zzz" },
+  "அலை": { "replacement": "👋", "description": "waving hand" },
+  "கையின் பின்புறம் எழுப்பப்பட்டது": {
+    "replacement": "🤚",
+    "description": "raised back of hand"
+  },
+  "விரல்களால் கையை உயர்த்தியது": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "கை": { "replacement": "✋", "description": "raised hand" },
+  "வல்கன் வணக்கம்": { "replacement": "🖖", "description": "vulcan salute" },
+  "சரி கை": { "replacement": "👌", "description": "OK hand" },
+  "கிள்ளிய விரல்கள்": { "replacement": "🤌", "description": "pinched fingers" },
+  "கிள்ளுதல் கை": { "replacement": "🤏", "description": "pinching hand" },
+  "v": { "replacement": "✌️", "description": "victory hand" },
+  "குறுக்கு விரல்கள்": {
+    "replacement": "🤞",
+    "description": "crossed fingers"
+  },
+  "லவ் யூ சைகை": { "replacement": "🤟", "description": "love-you gesture" },
+  "உலோகம்": { "replacement": "🤘", "description": "sign of the horns" },
+  "என்னை கை என்று அழைக்கவும்": {
+    "replacement": "🤙",
+    "description": "call me hand"
+  },
+  "புள்ளி இடது": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "வலது புள்ளி": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "புள்ளி 2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "நடுத்தர விரல்": { "replacement": "🖕", "description": "middle finger" },
+  "கீழே சுட்டிக்காட்டவும்": {
+    "replacement": "👇",
+    "description": "backhand index pointing down"
+  },
+  "சுட்டிக்காட்டவும்": {
+    "replacement": "☝️",
+    "description": "index pointing up"
+  },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "முஷ்டி எழுப்பப்பட்டது": {
+    "replacement": "✊",
+    "description": "raised fist"
+  },
+  "ஃபிஸ்ட் எதிர்வரும்": { "replacement": "👊", "description": "oncoming fist" },
+  "முஷ்டி இடது": { "replacement": "🤛", "description": "left-facing fist" },
+  "ஃபிஸ்ட் வலது": { "replacement": "🤜", "description": "right-facing fist" },
+  "கைதட்டல்": { "replacement": "👏", "description": "clapping hands" },
+  "உயர்த்தப்பட்ட கைகள்": {
+    "replacement": "🙌",
+    "description": "raising hands"
+  },
+  "திறந்த கைகள்": { "replacement": "👐", "description": "open hands" },
+  "உள்ளங்கைகள் ஒன்றாக": {
+    "replacement": "🤲",
+    "description": "palms up together"
+  },
+  "ஹேண்ட்ஷேக்": { "replacement": "🤝", "description": "handshake" },
+  "பிரார்த்தனை": { "replacement": "🙏", "description": "folded hands" },
+  "எழுதும் கை": { "replacement": "✍️", "description": "writing hand" },
+  "ஆணி பராமரிப்பு": { "replacement": "💅", "description": "nail polish" },
+  "சுயபடம்": { "replacement": "🤳", "description": "selfie" },
+  "தசை": { "replacement": "💪", "description": "flexed biceps" },
+  "இயந்திர கை": { "replacement": "🦾", "description": "mechanical arm" },
+  "இயந்திர கால்": { "replacement": "🦿", "description": "mechanical leg" },
+  "கால்": { "replacement": "🦶", "description": "foot" },
+  "காது": { "replacement": "👂", "description": "ear" },
+  "காது கேட்கும் உதவியுடன் காது": {
+    "replacement": "🦻",
+    "description": "ear with hearing aid"
+  },
+  "மூக்கு": { "replacement": "👃", "description": "nose" },
+  "மூளை": { "replacement": "🧠", "description": "brain" },
+  "உடற்கூறியல் இதயம்": {
+    "replacement": "🫀",
+    "description": "anatomical heart"
+  },
+  "நுரையீரல்": { "replacement": "🫁", "description": "lungs" },
+  "பல்": { "replacement": "🦷", "description": "tooth" },
+  "எலும்பு": { "replacement": "🦴", "description": "bone" },
+  "கண்கள்": { "replacement": "👀", "description": "eyes" },
+  "கண்": { "replacement": "👁️", "description": "eye" },
+  "நாக்கு": { "replacement": "👅", "description": "tongue" },
+  "உதடுகள்": { "replacement": "👄", "description": "mouth" },
+  "குழந்தை": { "replacement": "🧒", "description": "child" },
+  "சிறுவன்": { "replacement": "👦", "description": "boy" },
+  "பெண்": { "replacement": "👩", "description": "woman" },
+  "வயது வந்தோர்": { "replacement": "🧑", "description": "person" },
+  "மஞ்சள் நிற ஹேர்டு நபர்": {
+    "replacement": "👱",
+    "description": "person: blond hair"
+  },
+  "ஆண்": { "replacement": "👨", "description": "man" },
+  "தாடி வைத்த நபர்": { "replacement": "🧔", "description": "man: beard" },
+  "சிவப்பு ஹேர்டு மனிதன்": {
+    "replacement": "👨‍🦰",
+    "description": "man: red hair"
+  },
+  "சுருள் ஹேர்டு மனிதன்": {
+    "replacement": "👨‍🦱",
+    "description": "man: curly hair"
+  },
+  "வெள்ளை ஹேர்டு மனிதன்": {
+    "replacement": "👨‍🦳",
+    "description": "man: white hair"
+  },
+  "வழுக்கை தலை மனிதன்": { "replacement": "👨‍🦲", "description": "man: bald" },
+  "சிவப்பு ஹேர்டு பெண்": {
+    "replacement": "👩‍🦰",
+    "description": "woman: red hair"
+  },
+  "நபர் சிவப்பு முடி": {
+    "replacement": "🧑‍🦰",
+    "description": "person: red hair"
+  },
+  "சுருள் ஹேர்டு பெண்": {
+    "replacement": "👩‍🦱",
+    "description": "woman: curly hair"
+  },
+  "நபர் சுருள் முடி": {
+    "replacement": "🧑‍🦱",
+    "description": "person: curly hair"
+  },
+  "வெள்ளை ஹேர்டு பெண்": {
+    "replacement": "👩‍🦳",
+    "description": "woman: white hair"
+  },
+  "நபர் வெள்ளை முடி": {
+    "replacement": "🧑‍🦳",
+    "description": "person: white hair"
+  },
+  "வழுக்கை பெண்": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "நபர் வழுக்கை": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "மஞ்சள் நிற ஹேர்டு பெண்": {
+    "replacement": "👱‍♀️",
+    "description": "woman: blond hair"
+  },
+  "மஞ்சள் நிற ஹேர்டு மனிதன்": {
+    "replacement": "👱‍♂️",
+    "description": "man: blond hair"
+  },
+  "வயதானவர்": { "replacement": "👴", "description": "old man" },
+  "வயதான பெண்": { "replacement": "👵", "description": "old woman" },
+  "முகம் சுளிக்கும் நபர்": {
+    "replacement": "🙍",
+    "description": "person frowning"
+  },
+  "கோபமான மனிதன்": { "replacement": "🙍‍♂️", "description": "man frowning" },
+  "முகம் சுளிக்கும் பெண்": {
+    "replacement": "🙍‍♀️",
+    "description": "woman frowning"
+  },
+  "துடிக்கும் முகம்": { "replacement": "🙎", "description": "person pouting" },
+  "மனிதனைத் துரத்துகிறது": {
+    "replacement": "🙎‍♂️",
+    "description": "man pouting"
+  },
+  "துடிக்கும் பெண்": { "replacement": "🙎‍♀️", "description": "woman pouting" },
+  "நல்லது இல்லை": { "replacement": "🙅", "description": "person gesturing NO" },
+  "நல்ல மனிதர் இல்லை": {
+    "replacement": "🙅‍♂️",
+    "description": "man gesturing NO"
+  },
+  "நல்ல பெண் இல்லை": {
+    "replacement": "🙅‍♀️",
+    "description": "woman gesturing NO"
+  },
+  "சரி நபர்": { "replacement": "🙆", "description": "person gesturing OK" },
+  "சரி மனிதன்": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "சரி பெண்": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "கை நபர்": { "replacement": "💁", "description": "person tipping hand" },
+  "கை மனிதன்": { "replacement": "💁‍♂️", "description": "man tipping hand" },
+  "கை பெண்": { "replacement": "💁‍♀️", "description": "woman tipping hand" },
+  "கையை உயர்த்துவது": {
+    "replacement": "🙋",
+    "description": "person raising hand"
+  },
+  "கை மனிதனை உயர்த்துவது": {
+    "replacement": "🙋‍♂️",
+    "description": "man raising hand"
+  },
+  "கை பெண் வளர்ப்பது": {
+    "replacement": "🙋‍♀️",
+    "description": "woman raising hand"
+  },
+  "காது கேளாத நபர்": { "replacement": "🧏", "description": "deaf person" },
+  "காது கேளாத மனிதன்": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "காது கேளாத பெண்": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "வில்": { "replacement": "🙇", "description": "person bowing" },
+  "குனிந்த மனிதன்": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "குனிந்த பெண்": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "மனிதன் முகம்": { "replacement": "🤦‍♂️", "description": "man facepalming" },
+  "பெண் முகநூல்": { "replacement": "🤦‍♀️", "description": "woman facepalming" },
+  "shrug": { "replacement": "🤷", "description": "person shrugging" },
+  "மனிதன் கூச்சலிடுகிறான்": {
+    "replacement": "🤷‍♂️",
+    "description": "man shrugging"
+  },
+  "பெண் திணறல்": { "replacement": "🤷‍♀️", "description": "woman shrugging" },
+  "சுகாதார பணியாளர்": {
+    "replacement": "🧑‍⚕️",
+    "description": "health worker"
+  },
+  "மனித சுகாதார பணியாளர்": {
+    "replacement": "👨‍⚕️",
+    "description": "man health worker"
+  },
+  "பெண் சுகாதார பணியாளர்": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "மாணவர்": { "replacement": "🧑‍🎓", "description": "student" },
+  "மனிதன் மாணவர்": { "replacement": "👨‍🎓", "description": "man student" },
+  "பெண் மாணவி": { "replacement": "👩‍🎓", "description": "woman student" },
+  "ஆசிரியர்": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "மனித ஆசிரியர்": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "பெண் ஆசிரியர்": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "நீதிபதி": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "மனிதன் நீதிபதி": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "பெண் நீதிபதி": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "உழவர்": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "மனிதன் விவசாயி": { "replacement": "👨‍🌾", "description": "man farmer" },
+  "பெண் விவசாயி": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "சமைக்கவும்": { "replacement": "🧑‍🍳", "description": "cook" },
+  "மனிதன் சமையல்காரன்": { "replacement": "👨‍🍳", "description": "man cook" },
+  "பெண் சமையல்காரர்": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "பொறிமுறையாளர்": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "மனிதன் மெக்கானிக்": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "பெண் மெக்கானிக்": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "தொழிற்சாலை தொழிலாளி": {
+    "replacement": "🧑‍🏭",
+    "description": "factory worker"
+  },
+  "மனித தொழிற்சாலை தொழிலாளி": {
+    "replacement": "👨‍🏭",
+    "description": "man factory worker"
+  },
+  "பெண் தொழிற்சாலை தொழிலாளி": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "அலுவலக ஊழியர்": { "replacement": "🧑‍💼", "description": "office worker" },
+  "மனித அலுவலக ஊழியர்": {
+    "replacement": "👨‍💼",
+    "description": "man office worker"
+  },
+  "பெண் அலுவலக ஊழியர்": {
+    "replacement": "👩‍💼",
+    "description": "woman office worker"
+  },
+  "விஞ்ஞானி": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "மனித விஞ்ஞானி": { "replacement": "👨‍🔬", "description": "man scientist" },
+  "பெண் விஞ்ஞானி": { "replacement": "👩‍🔬", "description": "woman scientist" },
+  "தொழில்நுட்பவியலாளர்": {
+    "replacement": "🧑‍💻",
+    "description": "technologist"
+  },
+  "மனித தொழில்நுட்பவியலாளர்": {
+    "replacement": "👨‍💻",
+    "description": "man technologist"
+  },
+  "பெண் தொழில்நுட்பவியலாளர்": {
+    "replacement": "👩‍💻",
+    "description": "woman technologist"
+  },
+  "பாடகர்": { "replacement": "🧑‍🎤", "description": "singer" },
+  "மனித பாடகர்": { "replacement": "👨‍🎤", "description": "man singer" },
+  "பெண் பாடகி": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "கலைஞர்": { "replacement": "🧑‍🎨", "description": "artist" },
+  "மனிதன் கலைஞர்": { "replacement": "👨‍🎨", "description": "man artist" },
+  "பெண் கலைஞர்": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "பைலட்": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "மனிதன் பைலட்": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "பெண் பைலட்": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "விண்வெளி": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "மனிதன் விண்வெளி வீரர்": {
+    "replacement": "👨‍🚀",
+    "description": "man astronaut"
+  },
+  "பெண் விண்வெளி வீரர்": {
+    "replacement": "👩‍🚀",
+    "description": "woman astronaut"
+  },
+  "தீயணைப்பு வீரர்": { "replacement": "🧑‍🚒", "description": "firefighter" },
+  "மனிதன் தீயணைப்பு வீரர்": {
+    "replacement": "👨‍🚒",
+    "description": "man firefighter"
+  },
+  "பெண் தீயணைப்பு வீரர்": {
+    "replacement": "👩‍🚒",
+    "description": "woman firefighter"
+  },
+  "காவல்துறை அதிகாரி": { "replacement": "👮", "description": "police officer" },
+  "போலீஸ்காரர்": { "replacement": "👮‍♂️", "description": "man police officer" },
+  "பொலிஸ் பெண்": { "replacement": "👮‍♀️", "description": "woman police officer" },
+  "துப்பறியும்": { "replacement": "🕵️", "description": "detective" },
+  "ஆண் துப்பறியும்": { "replacement": "🕵️‍♂️", "description": "man detective" },
+  "பெண் துப்பறியும்": { "replacement": "🕵️‍♀️", "description": "woman detective" },
+  "காவலர்": { "replacement": "💂‍♂️", "description": "man guard" },
+  "காவலாளி": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "நிஞ்ஜா": { "replacement": "🥷", "description": "ninja" },
+  "கட்டுமான தொழிலாளி": {
+    "replacement": "👷",
+    "description": "construction worker"
+  },
+  "கட்டுமான தொழிலாளி மனிதன்": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "கட்டுமான தொழிலாளி பெண்": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "இளவரசன்": { "replacement": "🤴", "description": "prince" },
+  "இளவரசி": { "replacement": "👸", "description": "princess" },
+  "தலைப்பாகை கொண்ட நபர்": {
+    "replacement": "👳",
+    "description": "person wearing turban"
+  },
+  "தலைப்பாகை கொண்ட மனிதன்": {
+    "replacement": "👳‍♂️",
+    "description": "man wearing turban"
+  },
+  "தலைப்பாகை கொண்ட பெண்": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "குவா பை மாவோவுடன் மனிதன்": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "தலைக்கவசம் கொண்ட பெண்": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "டக்ஷீடோவில் நபர்": {
+    "replacement": "🤵",
+    "description": "person in tuxedo"
+  },
+  "டக்ஷீடோவில் மனிதன்": {
+    "replacement": "🤵‍♂️",
+    "description": "man in tuxedo"
+  },
+  "டக்ஷீடோவில் பெண்": {
+    "replacement": "🤵‍♀️",
+    "description": "woman in tuxedo"
+  },
+  "முக்காடு கொண்ட நபர்": {
+    "replacement": "👰",
+    "description": "person with veil"
+  },
+  "முக்காடு கொண்ட மனிதன்": {
+    "replacement": "👰‍♂️",
+    "description": "man with veil"
+  },
+  "முக்காடு கொண்ட பெண்": {
+    "replacement": "👰‍♀️",
+    "description": "woman with veil"
+  },
+  "கர்ப்பிணி பெண்": { "replacement": "🤰", "description": "pregnant woman" },
+  "தாய்ப்பால்": { "replacement": "🤱", "description": "breast-feeding" },
+  "பெண் குழந்தைக்கு உணவளிக்கிறது": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "மனிதன் குழந்தைக்கு உணவளிக்கிறான்": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "குழந்தைக்கு உணவளிக்கும் நபர்": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "தேவதை": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "சாந்தா": { "replacement": "🎅", "description": "Santa Claus" },
+  "mrs பிரிவு": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "mx பிரிவு": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "சூப்பர் ஹீரோ": { "replacement": "🦸", "description": "superhero" },
+  "சூப்பர் ஹீரோ மனிதன்": {
+    "replacement": "🦸‍♂️",
+    "description": "man superhero"
+  },
+  "சூப்பர் ஹீரோ பெண்": {
+    "replacement": "🦸‍♀️",
+    "description": "woman superhero"
+  },
+  "மேற்பார்வையாளர்": { "replacement": "🦹", "description": "supervillain" },
+  "supervillain மனிதன்": {
+    "replacement": "🦹‍♂️",
+    "description": "man supervillain"
+  },
+  "supervillain பெண்": {
+    "replacement": "🦹‍♀️",
+    "description": "woman supervillain"
+  },
+  "mage": { "replacement": "🧙", "description": "mage" },
+  "mage மனிதன்": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "mage பெண்": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "தேவதை மனிதன்": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "தேவதை பெண்": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "காட்டேரி": { "replacement": "🧛", "description": "vampire" },
+  "காட்டேரி மனிதன்": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "காட்டேரி பெண்": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "மெர்பர்சன்": { "replacement": "🧜", "description": "merperson" },
+  "மெர்மன்": { "replacement": "🧜‍♂️", "description": "merman" },
+  "elf": { "replacement": "🧝", "description": "elf" },
+  "elf மனிதன்": { "replacement": "🧝‍♂️", "description": "man elf" },
+  "elf பெண்": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "ஜீனி": { "replacement": "🧞", "description": "genie" },
+  "genie man": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "genie பெண்": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "ஜாம்பி": { "replacement": "🧟", "description": "zombie" },
+  "ஜாம்பி மனிதன்": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "ஜாம்பி பெண்": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "மசாஜ்": { "replacement": "💆", "description": "person getting massage" },
+  "மசாஜ் மனிதன்": { "replacement": "💆‍♂️", "description": "man getting massage" },
+  "மசாஜ் பெண்": { "replacement": "💆‍♀️", "description": "woman getting massage" },
+  "ஹேர்கட்": { "replacement": "💇", "description": "person getting haircut" },
+  "ஹேர்கட் மனிதன்": {
+    "replacement": "💇‍♂️",
+    "description": "man getting haircut"
+  },
+  "ஹேர்கட் பெண்": {
+    "replacement": "💇‍♀️",
+    "description": "woman getting haircut"
+  },
+  "நடைபயிற்சி": { "replacement": "🚶", "description": "person walking" },
+  "நடைபயிற்சி மனிதன்": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "நடைபயிற்சி பெண்": { "replacement": "🚶‍♀️", "description": "woman walking" },
+  "நிற்கும் நபர்": { "replacement": "🧍", "description": "person standing" },
+  "நிற்கும் மனிதன்": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "நிற்கும் பெண்": { "replacement": "🧍‍♀️", "description": "woman standing" },
+  "மண்டியிடும் நபர்": { "replacement": "🧎", "description": "person kneeling" },
+  "மண்டியிடும் மனிதன்": {
+    "replacement": "🧎‍♂️",
+    "description": "man kneeling"
+  },
+  "மண்டியிடும் பெண்": {
+    "replacement": "🧎‍♀️",
+    "description": "woman kneeling"
+  },
+  "கரும்பு ஆய்வு செய்யும் நபர்": {
+    "replacement": "🧑‍🦯",
+    "description": "person with white cane"
+  },
+  "கரும்பு ஆய்வு செய்யும் மனிதன்": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "கரும்பு ஆய்வு செய்யும் பெண்": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "மோட்டார் சக்கர நாற்காலியில் நபர்": {
+    "replacement": "🧑‍🦼",
+    "description": "person in motorized wheelchair"
+  },
+  "மோட்டார் சக்கர நாற்காலியில் மனிதன்": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "மோட்டார் சக்கர நாற்காலியில் பெண்": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "கையேடு சக்கர நாற்காலியில் நபர்": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "கையேடு சக்கர நாற்காலியில் மனிதன்": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "கையேடு சக்கர நாற்காலியில் பெண்": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "ரன்னர்": { "replacement": "🏃", "description": "person running" },
+  "ஓடும் மனிதன்": { "replacement": "🏃‍♂️", "description": "man running" },
+  "ஓடும் பெண்": { "replacement": "🏃‍♀️", "description": "woman running" },
+  "பெண் நடனம்": { "replacement": "💃", "description": "woman dancing" },
+  "மனிதன் நடனம்": { "replacement": "🕺", "description": "man dancing" },
+  "வணிக வழக்கு": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "நடனக் கலைஞர்கள்": {
+    "replacement": "👯",
+    "description": "people with bunny ears"
+  },
+  "நடனம் ஆண்கள்": { "replacement": "👯‍♂️", "description": "men with bunny ears" },
+  "நடனமாடும் பெண்கள்": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "sauna நபர்": { "replacement": "🧖", "description": "person in steamy room" },
+  "sauna மனிதன்": { "replacement": "🧖‍♂️", "description": "man in steamy room" },
+  "sauna பெண்": { "replacement": "🧖‍♀️", "description": "woman in steamy room" },
+  "ஏறும்": { "replacement": "🧗", "description": "person climbing" },
+  "ஏறும் மனிதன்": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "ஏறும் பெண்": { "replacement": "🧗‍♀️", "description": "woman climbing" },
+  "நபர் ஃபென்சிங்": { "replacement": "🤺", "description": "person fencing" },
+  "குதிரை பந்தயம்": { "replacement": "🏇", "description": "horse racing" },
+  "skier": { "replacement": "⛷️", "description": "skier" },
+  "பனிச்சறுக்கு வீரர்": { "replacement": "🏂", "description": "snowboarder" },
+  "கோல்ஃப்": { "replacement": "⛳", "description": "flag in hole" },
+  "கோல்ஃப் மனிதன்": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "கோல்ஃப் பெண்": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "உலாவர்": { "replacement": "🏄", "description": "person surfing" },
+  "உலாவல் மனிதன்": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "உலாவல் பெண்": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "ரோபோட்": { "replacement": "🚣", "description": "person rowing boat" },
+  "ரோயிங் மனிதன்": { "replacement": "🚣‍♂️", "description": "man rowing boat" },
+  "ரோயிங் பெண்": { "replacement": "🚣‍♀️", "description": "woman rowing boat" },
+  "நீச்சல்": { "replacement": "🏊", "description": "person swimming" },
+  "நீச்சல் மனிதன்": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "நீச்சல் பெண்": { "replacement": "🏊‍♀️", "description": "woman swimming" },
+  "பந்து நபர் துள்ளல்": {
+    "replacement": "⛹️",
+    "description": "person bouncing ball"
+  },
+  "பந்து மனிதனை எதிர்க்கிறது": {
+    "replacement": "⛹️‍♂️",
+    "description": "man bouncing ball"
+  },
+  "பந்து பெண் துள்ளல்": {
+    "replacement": "⛹️‍♀️",
+    "description": "woman bouncing ball"
+  },
+  "பளு தூக்குதல்": {
+    "replacement": "🏋️",
+    "description": "person lifting weights"
+  },
+  "பளு தூக்கும் மனிதன்": {
+    "replacement": "🏋️‍♂️",
+    "description": "man lifting weights"
+  },
+  "பளு தூக்கும் பெண்": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "சைக்கிள் ஓட்டுநர்": { "replacement": "🚴", "description": "person biking" },
+  "பைக்கிங் மனிதன்": { "replacement": "🚴‍♂️", "description": "man biking" },
+  "பைக்கிங் பெண்": { "replacement": "🚴‍♀️", "description": "woman biking" },
+  "மலை சைக்கிள் ஓட்டுநர்": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "மவுண்டன் பைக்கிங் மனிதன்": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "மவுண்டன் பைக்கிங் பெண்": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "கார்ட்வீலிங்": { "replacement": "🤸", "description": "person cartwheeling" },
+  "மனிதன் வண்டி வீலிங்": {
+    "replacement": "🤸‍♂️",
+    "description": "man cartwheeling"
+  },
+  "பெண் கார்ட்வீலிங்": {
+    "replacement": "🤸‍♀️",
+    "description": "woman cartwheeling"
+  },
+  "மல்யுத்தம்": { "replacement": "🤼", "description": "people wrestling" },
+  "ஆண்கள் மல்யுத்தம்": { "replacement": "🤼‍♂️", "description": "men wrestling" },
+  "பெண்கள் மல்யுத்தம்": {
+    "replacement": "🤼‍♀️",
+    "description": "women wrestling"
+  },
+  "தண்ணீர் பந்தாட்டம்": {
+    "replacement": "🤽",
+    "description": "person playing water polo"
+  },
+  "மனிதன் வாட்டர் போலோ விளையாடுகிறான்": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "வாட்டர் போலோ விளையாடும் பெண்": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "ஹேண்ட்பால் நபர்": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "ஹேண்ட்பால் விளையாடும் மனிதன்": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "ஹேண்ட்பால் விளையாடும் பெண்": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "ஏமாற்று வித்தை": { "replacement": "🤹", "description": "person juggling" },
+  "மனிதன் ஏமாற்று வித்தை": {
+    "replacement": "🤹‍♂️",
+    "description": "man juggling"
+  },
+  "பெண் ஏமாற்று வித்தை": {
+    "replacement": "🤹‍♀️",
+    "description": "woman juggling"
+  },
+  "தாமரை நிலை": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "தாமரை நிலை மனிதன்": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "தாமரை நிலை பெண்": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "குளியல்": { "replacement": "🛀", "description": "person taking bath" },
+  "தூங்கும் படுக்கை": { "replacement": "🛌", "description": "person in bed" },
+  "கைகளை வைத்திருக்கும் மக்கள்": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "இரண்டு பெண்கள் கைகளை வைத்திருக்கிறார்கள்": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "ஜோடி": { "replacement": "👫", "description": "woman and man holding hands" },
+  "இரண்டு ஆண்கள் கைகளை வைத்திருக்கிறார்கள்": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "couplekiss": { "replacement": "💏", "description": "kiss" },
+  "couplekiss ஆண் பெண்": {
+    "replacement": "👩‍❤️‍💋‍👨",
+    "description": "kiss: woman, man"
+  },
+  "couplekiss மனிதன்": { "replacement": "👨‍❤️‍💋‍👨", "description": "kiss: man, man" },
+  "couplekiss பெண் பெண்": {
+    "replacement": "👩‍❤️‍💋‍👩",
+    "description": "kiss: woman, woman"
+  },
+  "இதயத்துடன் ஜோடி": {
+    "replacement": "💑",
+    "description": "couple with heart"
+  },
+  "இதய பெண் ஆணுடன் ஜோடி": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "இதய மனிதனுடன் ஜோடி": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "இதய பெண் பெண்ணுடன் ஜோடி": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "குடும்பம்": { "replacement": "👪", "description": "family" },
+  "குடும்ப மனிதன் பெண் பையன்": {
+    "replacement": "👨‍👧‍👦",
+    "description": "family: man, girl, boy"
+  },
+  "குடும்ப மனிதன் பெண் பெண்": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "குடும்ப மனிதன் பெண் பெண் பையன்": {
+    "replacement": "👨‍👩‍👧‍👦",
+    "description": "family: man, woman, girl, boy"
+  },
+  "குடும்ப மனிதன் பெண் பெண் பெண்": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "குடும்ப மனிதன் பையன்": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "குடும்ப மனிதன் ஆண் பெண்": {
+    "replacement": "👨‍👨‍👧",
+    "description": "family: man, man, girl"
+  },
+  "குடும்ப மனிதன் ஆண் பெண் பையன்": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "குடும்ப மனிதன் ஆண் பையன்": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "குடும்ப மனிதன் ஆண் பெண் பெண்": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "குடும்ப பெண் பெண் பையன்": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "குடும்ப பெண் பெண் பெண்": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "குடும்ப பெண் பெண் பெண் பையன்": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "குடும்ப பெண் பெண் பையன் பையன்": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "குடும்ப பெண் பெண் பெண் பெண்": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "குடும்ப மனிதன் சிறுவன்": {
+    "replacement": "👨‍👦",
+    "description": "family: man, boy"
+  },
+  "குடும்ப மனிதன் சிறுவன் பையன்": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "குடும்ப மனிதன் பெண்": {
+    "replacement": "👨‍👧",
+    "description": "family: man, girl"
+  },
+  "குடும்ப பெண் பையன்": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "குடும்ப பெண் பெண்": {
+    "replacement": "👩‍👧",
+    "description": "family: woman, girl"
+  },
+  "பேசும் தலை": { "replacement": "🗣️", "description": "speaking head" },
+  "நிழலில் மார்பளவு": {
+    "replacement": "👤",
+    "description": "bust in silhouette"
+  },
+  "நிழலில் வெடிப்புகள்": {
+    "replacement": "👥",
+    "description": "busts in silhouette"
+  },
+  "மக்கள் கட்டிப்பிடிப்பது": {
+    "replacement": "🫂",
+    "description": "people hugging"
+  },
+  "கால்தடங்கள்": { "replacement": "👣", "description": "footprints" },
+  "குரங்கு முகம்": { "replacement": "🐵", "description": "monkey face" },
+  "குரங்கு": { "replacement": "🐒", "description": "monkey" },
+  "கொரில்லா": { "replacement": "🦍", "description": "gorilla" },
+  "ஒராங்குட்டான்": { "replacement": "🦧", "description": "orangutan" },
+  "நாய்": { "replacement": "🐶", "description": "dog face" },
+  "நாய் 2": { "replacement": "🐕", "description": "dog" },
+  "வழிகாட்டி நாய்": { "replacement": "🦮", "description": "guide dog" },
+  "சேவை நாய்": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "பூடில்": { "replacement": "🐩", "description": "poodle" },
+  "ஓநாய்": { "replacement": "🐺", "description": "wolf" },
+  "நரி முகம்": { "replacement": "🦊", "description": "fox" },
+  "ரக்கூன்": { "replacement": "🦝", "description": "raccoon" },
+  "பூனை": { "replacement": "🐱", "description": "cat face" },
+  "cat2": { "replacement": "🐈", "description": "cat" },
+  "கருப்பு பூனை": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "சிங்கம்": { "replacement": "🦁", "description": "lion" },
+  "புலி": { "replacement": "🐯", "description": "tiger face" },
+  "புலி 2": { "replacement": "🐅", "description": "tiger" },
+  "சிறுத்தை": { "replacement": "🐆", "description": "leopard" },
+  "குதிரை": { "replacement": "🐴", "description": "horse face" },
+  "பந்தய குதிரை": { "replacement": "🐎", "description": "horse" },
+  "யூனிகார்ன்": { "replacement": "🦄", "description": "unicorn" },
+  "வரிக்குதிரை": { "replacement": "🦓", "description": "zebra" },
+  "மான்": { "replacement": "🦌", "description": "deer" },
+  "காட்டெருமை": { "replacement": "🦬", "description": "bison" },
+  "மாடு": { "replacement": "🐮", "description": "cow face" },
+  "எருது": { "replacement": "🐂", "description": "ox" },
+  "நீர் எருமை": { "replacement": "🐃", "description": "water buffalo" },
+  "cow2": { "replacement": "🐄", "description": "cow" },
+  "பன்றி": { "replacement": "🐗", "description": "boar" },
+  "pig2": { "replacement": "🐖", "description": "pig" },
+  "பன்றி மூக்கு": { "replacement": "🐽", "description": "pig nose" },
+  "ரேம்": { "replacement": "🐏", "description": "ram" },
+  "ஆடுகள்": { "replacement": "🐑", "description": "ewe" },
+  "வெள்ளாடு": { "replacement": "🐐", "description": "goat" },
+  "dromedary ஒட்டகம்": { "replacement": "🐪", "description": "camel" },
+  "ஒட்டகம்": { "replacement": "🐫", "description": "two-hump camel" },
+  "லாமா": { "replacement": "🦙", "description": "llama" },
+  "ஒட்டகச்சிவிங்கி": { "replacement": "🦒", "description": "giraffe" },
+  "யானை": { "replacement": "🐘", "description": "elephant" },
+  "மாமத்": { "replacement": "🦣", "description": "mammoth" },
+  "காண்டாமிருகம்": { "replacement": "🦏", "description": "rhinoceros" },
+  "நீர்யானை": { "replacement": "🦛", "description": "hippopotamus" },
+  "சுட்டி": { "replacement": "🐭", "description": "mouse face" },
+  "mouse2": { "replacement": "🐁", "description": "mouse" },
+  "எலி": { "replacement": "🐀", "description": "rat" },
+  "வெள்ளெலி": { "replacement": "🐹", "description": "hamster" },
+  "முயல்": { "replacement": "🐰", "description": "rabbit face" },
+  "முயல் 2": { "replacement": "🐇", "description": "rabbit" },
+  "சிப்மங்க்": { "replacement": "🐿️", "description": "chipmunk" },
+  "பீவர்": { "replacement": "🦫", "description": "beaver" },
+  "முள்ளம்பன்றி": { "replacement": "🦔", "description": "hedgehog" },
+  "மட்டை": { "replacement": "🦇", "description": "bat" },
+  "தாங்க": { "replacement": "🐻", "description": "bear" },
+  "துருவ கரடி": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "கோலா": { "replacement": "🐨", "description": "koala" },
+  "பாண்டா முகம்": { "replacement": "🐼", "description": "panda" },
+  "சோம்பல்": { "replacement": "🦥", "description": "sloth" },
+  "otter": { "replacement": "🦦", "description": "otter" },
+  "skunk": { "replacement": "🦨", "description": "skunk" },
+  "கங்காரு": { "replacement": "🦘", "description": "kangaroo" },
+  "பேட்ஜர்": { "replacement": "🦡", "description": "badger" },
+  "அடி": { "replacement": "🐾", "description": "paw prints" },
+  "வான்கோழி": { "replacement": "🦃", "description": "turkey" },
+  "கோழி": { "replacement": "🐔", "description": "chicken" },
+  "சேவல்": { "replacement": "🐓", "description": "rooster" },
+  "குஞ்சு பொரிக்கும் குஞ்சு": {
+    "replacement": "🐣",
+    "description": "hatching chick"
+  },
+  "குழந்தை குஞ்சு": { "replacement": "🐤", "description": "baby chick" },
+  "குஞ்சு பொரித்த குஞ்சு": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "பறவை": { "replacement": "🐦", "description": "bird" },
+  "பென்குயின்": { "replacement": "🐧", "description": "penguin" },
+  "புறா": { "replacement": "🕊️", "description": "dove" },
+  "கழுகு": { "replacement": "🦅", "description": "eagle" },
+  "வாத்து": { "replacement": "🦆", "description": "duck" },
+  "அன்ன பறவை": { "replacement": "🦢", "description": "swan" },
+  "ஆந்தை": { "replacement": "🦉", "description": "owl" },
+  "டோடோ": { "replacement": "🦤", "description": "dodo" },
+  "இறகு": { "replacement": "🪶", "description": "feather" },
+  "ஃபிளமிங்கோ": { "replacement": "🦩", "description": "flamingo" },
+  "மயில்": { "replacement": "🦚", "description": "peacock" },
+  "கிளி": { "replacement": "🦜", "description": "parrot" },
+  "தவளை": { "replacement": "🐸", "description": "frog" },
+  "முதலை": { "replacement": "🐊", "description": "crocodile" },
+  "ஆமை": { "replacement": "🐢", "description": "turtle" },
+  "பல்லி": { "replacement": "🦎", "description": "lizard" },
+  "பாம்பு": { "replacement": "🐍", "description": "snake" },
+  "டிராகன் முகம்": { "replacement": "🐲", "description": "dragon face" },
+  "டிராகன்": { "replacement": "🐉", "description": "dragon" },
+  "sauropod": { "replacement": "🦕", "description": "sauropod" },
+  "டி-ரெக்ஸ்": { "replacement": "🦖", "description": "T-Rex" },
+  "திமிங்கிலம்": { "replacement": "🐳", "description": "spouting whale" },
+  "திமிங்கலம் 2": { "replacement": "🐋", "description": "whale" },
+  "டால்பின்": { "replacement": "🐬", "description": "dolphin" },
+  "முத்திரை": { "replacement": "🦭", "description": "seal" },
+  "மீன்": { "replacement": "🐟", "description": "fish" },
+  "நன்னீர் மீன் வளர்ப்பு": {
+    "replacement": "🐠",
+    "description": "tropical fish"
+  },
+  "ஊதுகுழல்": { "replacement": "🐡", "description": "blowfish" },
+  "சுறா": { "replacement": "🦈", "description": "shark" },
+  "ஆக்டோபஸ்": { "replacement": "🐙", "description": "octopus" },
+  "ஷெல்": { "replacement": "🐚", "description": "spiral shell" },
+  "நத்தை": { "replacement": "🐌", "description": "snail" },
+  "பட்டாம்பூச்சி": { "replacement": "🦋", "description": "butterfly" },
+  "பிழை": { "replacement": "🐛", "description": "bug" },
+  "எறும்பு": { "replacement": "🐜", "description": "ant" },
+  "தேனீ": { "replacement": "🐝", "description": "honeybee" },
+  "வண்டு": { "replacement": "🪲", "description": "beetle" },
+  "பெண் வண்டு": { "replacement": "🐞", "description": "lady beetle" },
+  "மட்டைப்பந்து": { "replacement": "🦗", "description": "cricket" },
+  "கரப்பான் பூச்சி": { "replacement": "🪳", "description": "cockroach" },
+  "சிலந்தி": { "replacement": "🕷️", "description": "spider" },
+  "சிலந்தி வலை": { "replacement": "🕸️", "description": "spider web" },
+  "தேள்": { "replacement": "🦂", "description": "scorpion" },
+  "கொசு": { "replacement": "🦟", "description": "mosquito" },
+  "ஈ": { "replacement": "🪰", "description": "fly" },
+  "புழு": { "replacement": "🪱", "description": "worm" },
+  "நுண்ணுயிர்": { "replacement": "🦠", "description": "microbe" },
+  "மலர்கொத்து": { "replacement": "💐", "description": "bouquet" },
+  "செர்ரி மலரும்": { "replacement": "🌸", "description": "cherry blossom" },
+  "வெள்ளை மலர்": { "replacement": "💮", "description": "white flower" },
+  "ரொசெட்": { "replacement": "🏵️", "description": "rosette" },
+  "உயர்ந்தது": { "replacement": "🌹", "description": "rose" },
+  "wilted மலர்": { "replacement": "🥀", "description": "wilted flower" },
+  "ஒளி வண்ண மலர்கள் கொண்ட ஒரு செடி வகை": {
+    "replacement": "🌺",
+    "description": "hibiscus"
+  },
+  "சூரியகாந்தி": { "replacement": "🌻", "description": "sunflower" },
+  "மலரும்": { "replacement": "🌼", "description": "blossom" },
+  "துலிப்": { "replacement": "🌷", "description": "tulip" },
+  "நாற்று": { "replacement": "🌱", "description": "seedling" },
+  "சட்டி தாவரம்": { "replacement": "🪴", "description": "potted plant" },
+  "பசுமையான மரம்": { "replacement": "🌲", "description": "evergreen tree" },
+  "இலையுதிர் மரம்": { "replacement": "🌳", "description": "deciduous tree" },
+  "பனை மரம்": { "replacement": "🌴", "description": "palm tree" },
+  "கற்றாழை": { "replacement": "🌵", "description": "cactus" },
+  "அரிசி காது": { "replacement": "🌾", "description": "sheaf of rice" },
+  "மூலிகை": { "replacement": "🌿", "description": "herb" },
+  "ஷாம்ராக்": { "replacement": "☘️", "description": "shamrock" },
+  "நான்கு இலை குளோவர்": {
+    "replacement": "🍀",
+    "description": "four leaf clover"
+  },
+  "மேப்பிள் இலை": { "replacement": "🍁", "description": "maple leaf" },
+  "விழுந்த இலை": { "replacement": "🍂", "description": "fallen leaf" },
+  "இலைகள்": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "திராட்சை": { "replacement": "🍇", "description": "grapes" },
+  "முலாம்பழம்": { "replacement": "🍈", "description": "melon" },
+  "தர்பூசணி": { "replacement": "🍉", "description": "watermelon" },
+  "டேன்ஜரின்": { "replacement": "🍊", "description": "tangerine" },
+  "எலுமிச்சை": { "replacement": "🍋", "description": "lemon" },
+  "வாழை": { "replacement": "🍌", "description": "banana" },
+  "அன்னாசி": { "replacement": "🍍", "description": "pineapple" },
+  "மாங்கனி": { "replacement": "🥭", "description": "mango" },
+  "ஆப்பிள்": { "replacement": "🍎", "description": "red apple" },
+  "பச்சை ஆப்பிள்": { "replacement": "🍏", "description": "green apple" },
+  "பேரிக்காய்": { "replacement": "🍐", "description": "pear" },
+  "பீச்": { "replacement": "🍑", "description": "peach" },
+  "செர்ரி": { "replacement": "🍒", "description": "cherries" },
+  "ஸ்ட்ராபெரி": { "replacement": "🍓", "description": "strawberry" },
+  "அவுரிநெல்லிகள்": { "replacement": "🫐", "description": "blueberries" },
+  "கிவி பழம்": { "replacement": "🥝", "description": "kiwi fruit" },
+  "தக்காளி": { "replacement": "🍅", "description": "tomato" },
+  "ஆலிவ்": { "replacement": "🫒", "description": "olive" },
+  "தேங்காய்": { "replacement": "🥥", "description": "coconut" },
+  "வெண்ணெய்": { "replacement": "🧈", "description": "butter" },
+  "கத்திரிக்காய்": { "replacement": "🍆", "description": "eggplant" },
+  "உருளைக்கிழங்கு": { "replacement": "🥔", "description": "potato" },
+  "கேரட்": { "replacement": "🥕", "description": "carrot" },
+  "சோளம்": { "replacement": "🌽", "description": "ear of corn" },
+  "காரமான மிளகு": { "replacement": "🌶️", "description": "hot pepper" },
+  "மணி மிளகு": { "replacement": "🫑", "description": "bell pepper" },
+  "வெள்ளரி": { "replacement": "🥒", "description": "cucumber" },
+  "இலை பச்சை": { "replacement": "🥬", "description": "leafy green" },
+  "ப்ரோக்கோலி": { "replacement": "🥦", "description": "broccoli" },
+  "பூண்டு": { "replacement": "🧄", "description": "garlic" },
+  "வெங்காயம்": { "replacement": "🧅", "description": "onion" },
+  "காளான்": { "replacement": "🍄", "description": "mushroom" },
+  "வேர்க்கடலை": { "replacement": "🥜", "description": "peanuts" },
+  "கஷ்கொட்டை": { "replacement": "🌰", "description": "chestnut" },
+  "ரொட்டி": { "replacement": "🍞", "description": "bread" },
+  "குரோசண்ட்": { "replacement": "🥐", "description": "croissant" },
+  "பாகுட் ரொட்டி": { "replacement": "🥖", "description": "baguette bread" },
+  "பிளாட்பிரெட்": { "replacement": "🫓", "description": "flatbread" },
+  "pretzel": { "replacement": "🥨", "description": "pretzel" },
+  "பேகல்": { "replacement": "🥯", "description": "bagel" },
+  "அப்பத்தை": { "replacement": "🥞", "description": "pancakes" },
+  "வாப்பிள்": { "replacement": "🧇", "description": "waffle" },
+  "சீஸ்": { "replacement": "🧀", "description": "cheese wedge" },
+  "எலும்பு மீது இறைச்சி": {
+    "replacement": "🍖",
+    "description": "meat on bone"
+  },
+  "கோழி கால்": { "replacement": "🍗", "description": "poultry leg" },
+  "இறைச்சி வெட்டு": { "replacement": "🥩", "description": "cut of meat" },
+  "பன்றி இறைச்சி": { "replacement": "🥓", "description": "bacon" },
+  "ஹாம்பர்கர்": { "replacement": "🍔", "description": "hamburger" },
+  "பொரியலாக": { "replacement": "🍟", "description": "french fries" },
+  "பீஸ்ஸா": { "replacement": "🍕", "description": "pizza" },
+  "ஹாட் டாக்": { "replacement": "🌭", "description": "hot dog" },
+  "சாண்ட்விச்": { "replacement": "🥪", "description": "sandwich" },
+  "டகோ": { "replacement": "🌮", "description": "taco" },
+  "காத்திருக்கிறேன்": { "replacement": "🌯", "description": "burrito" },
+  "தமலே": { "replacement": "🫔", "description": "tamale" },
+  "அடைத்த பிளாட்பிரெட்": {
+    "replacement": "🥙",
+    "description": "stuffed flatbread"
+  },
+  "ஃபாலாஃபெல்": { "replacement": "🧆", "description": "falafel" },
+  "முட்டை": { "replacement": "🥚", "description": "egg" },
+  "வறுத்த முட்டை": { "replacement": "🍳", "description": "cooking" },
+  "உணவு ஆழமற்ற பான்": {
+    "replacement": "🥘",
+    "description": "shallow pan of food"
+  },
+  "fondue": { "replacement": "🫕", "description": "fondue" },
+  "கரண்டியால் கிண்ணம்": {
+    "replacement": "🥣",
+    "description": "bowl with spoon"
+  },
+  "பச்சை சாலட்": { "replacement": "🥗", "description": "green salad" },
+  "பாப்கார்ன்": { "replacement": "🍿", "description": "popcorn" },
+  "உப்பு": { "replacement": "🧂", "description": "salt" },
+  "பதிவு செய்யப்பட்ட உணவு": {
+    "replacement": "🥫",
+    "description": "canned food"
+  },
+  "பெண்டோ": { "replacement": "🍱", "description": "bento box" },
+  "அரிசி பட்டாசு": { "replacement": "🍘", "description": "rice cracker" },
+  "அரிசி பந்து": { "replacement": "🍙", "description": "rice ball" },
+  "அரிசி": { "replacement": "🍚", "description": "cooked rice" },
+  "கறி": { "replacement": "🍛", "description": "curry rice" },
+  "ராமன்": { "replacement": "🍜", "description": "steaming bowl" },
+  "ஆரவாரமான": { "replacement": "🍝", "description": "spaghetti" },
+  "இனிப்பு உருளைக்கிழங்கு": {
+    "replacement": "🍠",
+    "description": "roasted sweet potato"
+  },
+  "ஓடன்": { "replacement": "🍢", "description": "oden" },
+  "சுஷி": { "replacement": "🍣", "description": "sushi" },
+  "வறுத்த இறால்": { "replacement": "🍤", "description": "fried shrimp" },
+  "மீன் கேக்": { "replacement": "🍥", "description": "fish cake with swirl" },
+  "நிலவு கேக்": { "replacement": "🥮", "description": "moon cake" },
+  "டேங்கோ": { "replacement": "🍡", "description": "dango" },
+  "பாலாடை": { "replacement": "🥟", "description": "dumpling" },
+  "அதிர்ஷ்ட குக்கீ": { "replacement": "🥠", "description": "fortune cookie" },
+  "எடுத்துக்கொள்ளும் பெட்டி": {
+    "replacement": "🥡",
+    "description": "takeout box"
+  },
+  "நண்டு": { "replacement": "🖍️", "description": "crayon" },
+  "இரால்": { "replacement": "🦞", "description": "lobster" },
+  "இறால்": { "replacement": "🦐", "description": "shrimp" },
+  "மீன் வகை": { "replacement": "🦑", "description": "squid" },
+  "சிப்பி": { "replacement": "🦪", "description": "oyster" },
+  "பனிக்கூழ்": { "replacement": "🍨", "description": "ice cream" },
+  "மொட்டையடித்த பனி": { "replacement": "🍧", "description": "shaved ice" },
+  "டோனட்": { "replacement": "🍩", "description": "doughnut" },
+  "குக்கீ": { "replacement": "🍪", "description": "cookie" },
+  "பிறந்த நாள்": { "replacement": "🎂", "description": "birthday cake" },
+  "கேக்": { "replacement": "🍰", "description": "shortcake" },
+  "கப்கேக்": { "replacement": "🧁", "description": "cupcake" },
+  "பை": { "replacement": "👝", "description": "clutch bag" },
+  "சாக்லேட் பட்டையில்": { "replacement": "🍫", "description": "chocolate bar" },
+  "மிட்டாய்": { "replacement": "🍬", "description": "candy" },
+  "லாலிபாப்": { "replacement": "🍭", "description": "lollipop" },
+  "கஸ்டார்ட்": { "replacement": "🍮", "description": "custard" },
+  "தேன் கிண்ணம்": { "replacement": "🍯", "description": "honey pot" },
+  "குழந்தை பாட்டில்": { "replacement": "🍼", "description": "baby bottle" },
+  "பால் கண்ணாடி": { "replacement": "🥛", "description": "glass of milk" },
+  "கொட்டைவடி நீர்": { "replacement": "☕", "description": "hot beverage" },
+  "தேனீர்": { "replacement": "🫖", "description": "teapot" },
+  "தேநீர்": { "replacement": "🍵", "description": "teacup without handle" },
+  "நிமித்தம்": { "replacement": "🍶", "description": "sake" },
+  "ஷாம்பெயின்": {
+    "replacement": "🍾",
+    "description": "bottle with popping cork"
+  },
+  "மது கிண்ணம்": { "replacement": "🍷", "description": "wine glass" },
+  "காக்டெய்ல்": { "replacement": "🍸", "description": "cocktail glass" },
+  "வெப்பமண்டல பானம்": { "replacement": "🍹", "description": "tropical drink" },
+  "பீர்": { "replacement": "🍺", "description": "beer mug" },
+  "பியர்ஸ்": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "கிளிங்கிங் கண்ணாடிகள்": {
+    "replacement": "🥂",
+    "description": "clinking glasses"
+  },
+  "டம்ளர் கண்ணாடி": { "replacement": "🥃", "description": "tumbler glass" },
+  "வைக்கோலுடன் கப்": { "replacement": "🥤", "description": "cup with straw" },
+  "நுரை தேனீர்": { "replacement": "🧋", "description": "bubble tea" },
+  "குளிர்பான பெட்டி": { "replacement": "🧃", "description": "beverage box" },
+  "துணையை": { "replacement": "🧉", "description": "mate" },
+  "ஐஸ் கியூப்": { "replacement": "🧊", "description": "ice" },
+  "சாப்ஸ்டிக்ஸ்": { "replacement": "🥢", "description": "chopsticks" },
+  "கட்லரி கொண்ட தட்டு": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "முட்கரண்டி மற்றும் கத்தி": {
+    "replacement": "🍴",
+    "description": "fork and knife"
+  },
+  "ஸ்பூன்": { "replacement": "🥄", "description": "spoon" },
+  "ஹோச்சோ": { "replacement": "🔪", "description": "kitchen knife" },
+  "ஆம்போரா": { "replacement": "🏺", "description": "amphora" },
+  "பூமி ஆப்பிரிக்கா": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "பூமி அமெரிக்காக்கள்": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "பூமி ஆசியா": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "மெரிடியன்களுடன் பூகோளம்": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "உலக வரைபடம்": { "replacement": "🗺️", "description": "world map" },
+  "ஜப்பான்": { "replacement": "🗾", "description": "map of Japan" },
+  "திசைகாட்டி": { "replacement": "🧭", "description": "compass" },
+  "மலை பனி": { "replacement": "🏔️", "description": "snow-capped mountain" },
+  "மலை": { "replacement": "⛰️", "description": "mountain" },
+  "எரிமலை": { "replacement": "🌋", "description": "volcano" },
+  "ஃ புஜி மலை": { "replacement": "🗻", "description": "mount fuji" },
+  "முகாம்": { "replacement": "🏕️", "description": "camping" },
+  "கடற்கரை குடை": { "replacement": "🏖️", "description": "beach with umbrella" },
+  "பாலைவனம்": { "replacement": "🏜️", "description": "desert" },
+  "பாலைவன தீவு": { "replacement": "🏝️", "description": "desert island" },
+  "தேசிய பூங்கா": { "replacement": "🏞️", "description": "national park" },
+  "அரங்கம்": { "replacement": "🏟️", "description": "stadium" },
+  "கிளாசிக்கல் கட்டிடம்": {
+    "replacement": "🏛️",
+    "description": "classical building"
+  },
+  "கட்டிட கட்டுமானம்": {
+    "replacement": "🏗️",
+    "description": "building construction"
+  },
+  "செங்கற்கள்": { "replacement": "🧱", "description": "brick" },
+  "பாறை": { "replacement": "🪨", "description": "rock" },
+  "மரம்": { "replacement": "🪵", "description": "wood" },
+  "குடிசை": { "replacement": "🛖", "description": "hut" },
+  "வீடுகள்": { "replacement": "🏘️", "description": "houses" },
+  "விலகிய வீடு": { "replacement": "🏚️", "description": "derelict house" },
+  "வீடு": { "replacement": "🏠", "description": "house" },
+  "தோட்டத்துடன் வீடு": {
+    "replacement": "🏡",
+    "description": "house with garden"
+  },
+  "அலுவலகம்": { "replacement": "🏢", "description": "office building" },
+  "தபால் அலுவலகம்": {
+    "replacement": "🏣",
+    "description": "Japanese post office"
+  },
+  "ஐரோப்பிய தபால் அலுவலகம்": {
+    "replacement": "🏤",
+    "description": "post office"
+  },
+  "மருத்துவமனை": { "replacement": "🏥", "description": "hospital" },
+  "வங்கி": { "replacement": "🏦", "description": "bank" },
+  "ஹோட்டல்": { "replacement": "🏨", "description": "hotel" },
+  "காதல் ஹோட்டல்": { "replacement": "🏩", "description": "love hotel" },
+  "வசதியான கடை": { "replacement": "🏪", "description": "convenience store" },
+  "பள்ளி": { "replacement": "🏫", "description": "school" },
+  "பல் பொருள் அங்காடி": {
+    "replacement": "🏬",
+    "description": "department store"
+  },
+  "தொழிற்சாலை": { "replacement": "🏭", "description": "factory" },
+  "ஜப்பானிய கோட்டை": { "replacement": "🏯", "description": "Japanese castle" },
+  "ஐரோப்பிய கோட்டை": { "replacement": "🏰", "description": "castle" },
+  "திருமண": { "replacement": "💒", "description": "wedding" },
+  "டோக்கியோ கோபுரம்": { "replacement": "🗼", "description": "Tokyo tower" },
+  "சுதந்திர தேவி சிலை": {
+    "replacement": "🗽",
+    "description": "Statue of Liberty"
+  },
+  "தேவாலயம்": { "replacement": "⛪", "description": "church" },
+  "பள்ளிவாசல்": { "replacement": "🕌", "description": "mosque" },
+  "ஹிந்து கோயில்": { "replacement": "🛕", "description": "hindu temple" },
+  "ஜெப ஆலயம்": { "replacement": "🕍", "description": "synagogue" },
+  "ஷின்டோ சன்னதி": { "replacement": "⛩️", "description": "shinto shrine" },
+  "காபா": { "replacement": "🕋", "description": "kaaba" },
+  "நீரூற்று": { "replacement": "⛲", "description": "fountain" },
+  "கூடாரம்": { "replacement": "⛺", "description": "tent" },
+  "மூடுபனி": { "replacement": "🌫️", "description": "fog" },
+  "நட்சத்திரங்களுடன் இரவு": {
+    "replacement": "🌃",
+    "description": "night with stars"
+  },
+  "நகரமைப்பு": { "replacement": "🏙️", "description": "cityscape" },
+  "மலைகள் மீது சூரிய உதயம்": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "சூரிய உதயம்": { "replacement": "🌅", "description": "sunrise" },
+  "நகர சூரிய அஸ்தமனம்": {
+    "replacement": "🌆",
+    "description": "cityscape at dusk"
+  },
+  "நகர சூரிய உதயம்": { "replacement": "🌇", "description": "sunset" },
+  "இரவில் பாலம்": { "replacement": "🌉", "description": "bridge at night" },
+  "ஹாட்ஸ்ப்ரிங்ஸ்": { "replacement": "♨️", "description": "hot springs" },
+  "கொணர்வி குதிரை": { "replacement": "🎠", "description": "carousel horse" },
+  "ஃபெர்ரிஸ் சக்கரம்": { "replacement": "🎡", "description": "ferris wheel" },
+  "ரோலர் கோஸ்டர்": { "replacement": "🎢", "description": "roller coaster" },
+  "முடிதிருத்தும்": { "replacement": "💈", "description": "barber pole" },
+  "சர்க்கஸ் கூடாரம்": { "replacement": "🎪", "description": "circus tent" },
+  "நீராவி என்ஜின்": { "replacement": "🚂", "description": "locomotive" },
+  "ரயில்வே கார்": { "replacement": "🚃", "description": "railway car" },
+  "புல்லட்ரெய்ன் பக்கம்": {
+    "replacement": "🚄",
+    "description": "high-speed train"
+  },
+  "புல்லட்ரெய்ன் முன்": { "replacement": "🚅", "description": "bullet train" },
+  "ரயில் 2": { "replacement": "🚆", "description": "train" },
+  "மெட்ரோ": { "replacement": "🚇", "description": "metro" },
+  "லைட் ரெயில்": { "replacement": "🚈", "description": "light rail" },
+  "நிலையம்": { "replacement": "🚉", "description": "station" },
+  "டிராம்": { "replacement": "🚊", "description": "tram" },
+  "மோனோரயில்": { "replacement": "🚝", "description": "monorail" },
+  "மலை ரயில்வே": { "replacement": "🚞", "description": "mountain railway" },
+  "தொடர்வண்டி": { "replacement": "🚋", "description": "tram car" },
+  "பேருந்து": { "replacement": "🚌", "description": "bus" },
+  "வரும் பஸ்": { "replacement": "🚍", "description": "oncoming bus" },
+  "டிராலிபஸ்": { "replacement": "🚎", "description": "trolleybus" },
+  "மினிபஸ்": { "replacement": "🚐", "description": "minibus" },
+  "மருத்துவ அவசர ஊர்தி": { "replacement": "🚑", "description": "ambulance" },
+  "தீயணைப்பு வாகனம்": { "replacement": "🚒", "description": "fire engine" },
+  "காவல் வாகனம்": { "replacement": "🚓", "description": "police car" },
+  "வரும் போலீஸ் கார்": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "டாக்ஸி": { "replacement": "🚕", "description": "taxi" },
+  "வரவிருக்கும் டாக்ஸி": {
+    "replacement": "🚖",
+    "description": "oncoming taxi"
+  },
+  "கார்": { "replacement": "🚗", "description": "automobile" },
+  "எதிர்வரும் ஆட்டோமொபைல்": {
+    "replacement": "🚘",
+    "description": "oncoming automobile"
+  },
+  "நீல கார்": { "replacement": "🚙", "description": "sport utility vehicle" },
+  "பிக்கப் டிரக்": { "replacement": "🛻", "description": "pickup truck" },
+  "டிரக்": { "replacement": "🚚", "description": "delivery truck" },
+  "வெளிப்படையான லாரி": {
+    "replacement": "🚛",
+    "description": "articulated lorry"
+  },
+  "டிராக்டர்": { "replacement": "🚜", "description": "tractor" },
+  "பந்தய கார்": { "replacement": "🏎️", "description": "racing car" },
+  "மோட்டார் சைக்கிள்": { "replacement": "🏍️", "description": "motorcycle" },
+  "மோட்டார் ஸ்கூட்டர்": { "replacement": "🛵", "description": "motor scooter" },
+  "கையேடு சக்கர நாற்காலி": {
+    "replacement": "🦽",
+    "description": "manual wheelchair"
+  },
+  "மோட்டார் சக்கர நாற்காலி": {
+    "replacement": "🦼",
+    "description": "motorized wheelchair"
+  },
+  "ஆட்டோ ரிக்‌ஷா": { "replacement": "🛺", "description": "auto rickshaw" },
+  "உந்துஉருளி": { "replacement": "🚲", "description": "bicycle" },
+  "கிக் ஸ்கூட்டர்": { "replacement": "🛴", "description": "kick scooter" },
+  "ஸ்கேட்போர்டு": { "replacement": "🛹", "description": "skateboard" },
+  "ரோலர் ஸ்கேட்": { "replacement": "🛼", "description": "roller skate" },
+  "பேருந்து நிறுத்தம்": { "replacement": "🚏", "description": "bus stop" },
+  "மோட்டார் பாதை": { "replacement": "🛣️", "description": "motorway" },
+  "தொடர்வண்டி தடம்": { "replacement": "🛤️", "description": "railway track" },
+  "எண்ணெய் டிரம்": { "replacement": "🛢️", "description": "oil drum" },
+  "எரிபொருள்": { "replacement": "⛽", "description": "fuel pump" },
+  "சுழலும் ஒளி": { "replacement": "🚨", "description": "police car light" },
+  "போக்குவரத்து ஒளி": {
+    "replacement": "🚥",
+    "description": "horizontal traffic light"
+  },
+  "செங்குத்து போக்குவரத்து ஒளி": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "நிறுத்தல் குறி": { "replacement": "🛑", "description": "stop sign" },
+  "கட்டுமானம்": { "replacement": "🚧", "description": "construction" },
+  "நங்கூரம்": { "replacement": "⚓", "description": "anchor" },
+  "படகு": { "replacement": "⛴️", "description": "ferry" },
+  "கேனோ": { "replacement": "🛶", "description": "canoe" },
+  "வேக படகு": { "replacement": "🚤", "description": "speedboat" },
+  "பயணிகள் கப்பல்": { "replacement": "🛳️", "description": "passenger ship" },
+  "மோட்டார் படகு": { "replacement": "🛥️", "description": "motor boat" },
+  "கப்பல்": { "replacement": "🚢", "description": "ship" },
+  "விமானம்": { "replacement": "✈️", "description": "airplane" },
+  "சிறிய விமானம்": { "replacement": "🛩️", "description": "small airplane" },
+  "விமானம் புறப்படுதல்": {
+    "replacement": "🛫",
+    "description": "airplane departure"
+  },
+  "விமான வருகை": { "replacement": "🛬", "description": "airplane arrival" },
+  "பாராசூட்": { "replacement": "🪂", "description": "parachute" },
+  "இருக்கை": { "replacement": "💺", "description": "seat" },
+  "ஹெலிகாப்டர்": { "replacement": "🚁", "description": "helicopter" },
+  "இடைநீக்கம் ரயில்வே": {
+    "replacement": "🚟",
+    "description": "suspension railway"
+  },
+  "மலை கேபிள்வே": { "replacement": "🚠", "description": "mountain cableway" },
+  "வான்வழி டிராம்வே": { "replacement": "🚡", "description": "aerial tramway" },
+  "செயற்கை செயற்கைக்கோள்": { "replacement": "🛰️", "description": "satellite" },
+  "ராக்கெட்": { "replacement": "🚀", "description": "rocket" },
+  "பறக்கும் தட்டு": { "replacement": "🛸", "description": "flying saucer" },
+  "பெல்ஹாப் மணி": { "replacement": "🛎️", "description": "bellhop bell" },
+  "சாமான்கள்": { "replacement": "🧳", "description": "luggage" },
+  "மணிநேரம்": { "replacement": "⌛", "description": "hourglass done" },
+  "மணிநேர கண்ணாடி பாயும் மணல்": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "வாட்ச்": { "replacement": "⌚", "description": "watch" },
+  "அலாரம் கடிகாரம்": { "replacement": "⏰", "description": "alarm clock" },
+  "stopwatch": { "replacement": "⏱️", "description": "stopwatch" },
+  "டைமர் கடிகாரம்": { "replacement": "⏲️", "description": "timer clock" },
+  "mantelpiece கடிகாரம்": {
+    "replacement": "🕰️",
+    "description": "mantelpiece clock"
+  },
+  "கடிகாரம் 12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "கடிகாரம் 1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "கடிகாரம் 1": { "replacement": "🕐", "description": "one o’clock" },
+  "கடிகாரம் 130": { "replacement": "🕜", "description": "one-thirty" },
+  "கடிகாரம் 2": { "replacement": "🕑", "description": "two o’clock" },
+  "கடிகாரம் 230": { "replacement": "🕝", "description": "two-thirty" },
+  "கடிகாரம் 3": { "replacement": "🕒", "description": "three o’clock" },
+  "கடிகாரம் 330": { "replacement": "🕞", "description": "three-thirty" },
+  "கடிகாரம் 4": { "replacement": "🕓", "description": "four o’clock" },
+  "கடிகாரம் 430": { "replacement": "🕟", "description": "four-thirty" },
+  "கடிகாரம் 5": { "replacement": "🕔", "description": "five o’clock" },
+  "கடிகாரம் 530": { "replacement": "🕠", "description": "five-thirty" },
+  "கடிகாரம் 6": { "replacement": "🕕", "description": "six o’clock" },
+  "கடிகாரம் 630": { "replacement": "🕡", "description": "six-thirty" },
+  "கடிகாரம் 7": { "replacement": "🕖", "description": "seven o’clock" },
+  "கடிகாரம் 730": { "replacement": "🕢", "description": "seven-thirty" },
+  "கடிகாரம் 8": { "replacement": "🕗", "description": "eight o’clock" },
+  "கடிகாரம் 830": { "replacement": "🕣", "description": "eight-thirty" },
+  "கடிகாரம் 9": { "replacement": "🕘", "description": "nine o’clock" },
+  "கடிகாரம் 930": { "replacement": "🕤", "description": "nine-thirty" },
+  "கடிகாரம் 10": { "replacement": "🕙", "description": "ten o’clock" },
+  "கடிகாரம் 1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "கடிகாரம் 11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "கடிகாரம் 1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "அமாவாசை": { "replacement": "🌑", "description": "new moon" },
+  "வளர்பிறை நிலவு": {
+    "replacement": "🌒",
+    "description": "waxing crescent moon"
+  },
+  "முதல் கால் நிலவு": {
+    "replacement": "🌓",
+    "description": "first quarter moon"
+  },
+  "நிலா": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "முழு நிலவு": { "replacement": "🌕", "description": "full moon" },
+  "கிப்பஸ் நிலவு குறைந்து வருகிறது": {
+    "replacement": "🌖",
+    "description": "waning gibbous moon"
+  },
+  "கடைசி கால் நிலவு": {
+    "replacement": "🌗",
+    "description": "last quarter moon"
+  },
+  "பிறை நிலவு குறைந்து வருகிறது": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "பிறைநிலா": { "replacement": "🌙", "description": "crescent moon" },
+  "முகத்துடன் அமாவாசை": { "replacement": "🌚", "description": "new moon face" },
+  "முகத்துடன் முதல் காலாண்டு நிலவு": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "முகத்துடன் கடைசி கால் நிலவு": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "வெப்பமானி": { "replacement": "🌡️", "description": "thermometer" },
+  "சூரியன் தீண்டும்": { "replacement": "☀️", "description": "sun" },
+  "முகத்துடன் ப moon ர்ணமி": {
+    "replacement": "🌝",
+    "description": "full moon face"
+  },
+  "முகத்துடன் சூரியன்": { "replacement": "🌞", "description": "sun with face" },
+  "வளைய கிரகம்": { "replacement": "🪐", "description": "ringed planet" },
+  "நட்சத்திரம்": { "replacement": "*️⃣", "description": "keycap: *" },
+  "நட்சத்திர 2": { "replacement": "🌟", "description": "glowing star" },
+  "நட்சத்திரங்கள்": { "replacement": "🌠", "description": "shooting star" },
+  "பால் வழி": { "replacement": "🌌", "description": "milky way" },
+  "மேகம்": { "replacement": "☁️", "description": "cloud" },
+  "ஓரளவு வெயில்": { "replacement": "⛅", "description": "sun behind cloud" },
+  "மின்னல் மற்றும் மழையுடன் மேகம்": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "சிறிய மேகத்தின் பின்னால் சூரியன்": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "பெரிய மேகத்தின் பின்னால் சூரியன்": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "மழை மேகத்தின் பின்னால் சூரியன்": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "மழையுடன் மேகம்": { "replacement": "🌧️", "description": "cloud with rain" },
+  "பனியால் மேகம்": { "replacement": "🌨️", "description": "cloud with snow" },
+  "மின்னலுடன் மேகம்": {
+    "replacement": "🌩️",
+    "description": "cloud with lightning"
+  },
+  "சூறாவளி": { "replacement": "🌀", "description": "cyclone" },
+  "காற்று முகம்": { "replacement": "🌬️", "description": "wind face" },
+  "வானவில்": { "replacement": "🌈", "description": "rainbow" },
+  "undefined": { "replacement": "🌂", "description": "closed umbrella" },
+  "திறந்த குடை": { "replacement": "☂️", "description": "umbrella" },
+  "குடை": { "replacement": "☔", "description": "umbrella with rain drops" },
+  "தரையில் பராசோல்": {
+    "replacement": "⛱️",
+    "description": "umbrella on ground"
+  },
+  "zap": { "replacement": "⚡", "description": "high voltage" },
+  "ஸ்னோஃப்ளேக்": { "replacement": "❄️", "description": "snowflake" },
+  "பனி கொண்ட பனிமனிதன்": { "replacement": "☃️", "description": "snowman" },
+  "பனிமனிதன்": { "replacement": "⛄", "description": "snowman without snow" },
+  "வால் நட்சத்திரம்": { "replacement": "☄️", "description": "comet" },
+  "தீ": { "replacement": "🔥", "description": "fire" },
+  "துளி": { "replacement": "💧", "description": "droplet" },
+  "கடல்": { "replacement": "🌊", "description": "water wave" },
+  "jack o விளக்கு": { "replacement": "🎃", "description": "jack-o-lantern" },
+  "கிறிஸ்துமஸ் மரம்": { "replacement": "🎄", "description": "Christmas tree" },
+  "வானவேடிக்கை": { "replacement": "🎆", "description": "fireworks" },
+  "பிரகாசமான": { "replacement": "🎇", "description": "sparkler" },
+  "பட்டாசு": { "replacement": "🧨", "description": "firecracker" },
+  "பிரகாசங்கள்": { "replacement": "✨", "description": "sparkles" },
+  "பலூன்": { "replacement": "🎈", "description": "balloon" },
+  "தடா": { "replacement": "🎉", "description": "party popper" },
+  "confetti பந்து": { "replacement": "🎊", "description": "confetti ball" },
+  "tanabata மரம்": { "replacement": "🎋", "description": "tanabata tree" },
+  "மூங்கில்": { "replacement": "🎍", "description": "pine decoration" },
+  "பொம்மைகள்": { "replacement": "🎎", "description": "Japanese dolls" },
+  "கொடிகள்": { "replacement": "🎏", "description": "carp streamer" },
+  "காற்று மணி": { "replacement": "🎐", "description": "wind chime" },
+  "அரிசி காட்சி": {
+    "replacement": "🎑",
+    "description": "moon viewing ceremony"
+  },
+  "சிவப்பு உறை": { "replacement": "🧧", "description": "red envelope" },
+  "நாடா": { "replacement": "🎀", "description": "ribbon" },
+  "பரிசு": { "replacement": "🎁", "description": "wrapped gift" },
+  "நினைவூட்டல் நாடா": { "replacement": "🎗️", "description": "reminder ribbon" },
+  "டிக்கெட்": { "replacement": "🎫", "description": "ticket" },
+  "பதக்க இராணுவம்": { "replacement": "🎖️", "description": "military medal" },
+  "கோப்பை": { "replacement": "🏆", "description": "trophy" },
+  "பதக்க விளையாட்டு": { "replacement": "🏅", "description": "sports medal" },
+  "முதல் இடம் பதக்கம்": {
+    "replacement": "🥇",
+    "description": "1st place medal"
+  },
+  "2 வது இடம் பதக்கம்": {
+    "replacement": "🥈",
+    "description": "2nd place medal"
+  },
+  "3 வது இடம் பதக்கம்": {
+    "replacement": "🥉",
+    "description": "3rd place medal"
+  },
+  "கால்பந்து": { "replacement": "🏈", "description": "american football" },
+  "பேஸ்பால்": { "replacement": "⚾", "description": "baseball" },
+  "சாப்ட்பால்": { "replacement": "🥎", "description": "softball" },
+  "கூடைப்பந்து": { "replacement": "🏀", "description": "basketball" },
+  "கைப்பந்து": { "replacement": "🏐", "description": "volleyball" },
+  "ரக்பி கால்பந்து": { "replacement": "🏉", "description": "rugby football" },
+  "டென்னிஸ்": { "replacement": "🎾", "description": "tennis" },
+  "பறக்கும் வட்டு": { "replacement": "🥏", "description": "flying disc" },
+  "பந்துவீச்சு": { "replacement": "🎳", "description": "bowling" },
+  "கிரிக்கெட் விளையாட்டு": {
+    "replacement": "🏏",
+    "description": "cricket game"
+  },
+  "கள வளைகோல் பந்தாட்டம்": {
+    "replacement": "🏑",
+    "description": "field hockey"
+  },
+  "ஐஸ் ஹாக்கி": { "replacement": "🏒", "description": "ice hockey" },
+  "லாக்ரோஸ்": { "replacement": "🥍", "description": "lacrosse" },
+  "பிங் பாங்": { "replacement": "🏓", "description": "ping pong" },
+  "பூப்பந்து": { "replacement": "🏸", "description": "badminton" },
+  "குத்துச்சண்டை கையுறை": {
+    "replacement": "🥊",
+    "description": "boxing glove"
+  },
+  "தற்காப்பு கலை சீருடை": {
+    "replacement": "🥋",
+    "description": "martial arts uniform"
+  },
+  "கோல் நிகர": { "replacement": "🥅", "description": "goal net" },
+  "பனி சறுக்கு": { "replacement": "⛸️", "description": "ice skate" },
+  "மீன்பிடி கம்பம் மற்றும் மீன்": {
+    "replacement": "🎣",
+    "description": "fishing pole"
+  },
+  "டைவிங் மாஸ்க்": { "replacement": "🤿", "description": "diving mask" },
+  "சட்டை ஓடும் சட்டை": { "replacement": "🎽", "description": "running shirt" },
+  "ஸ்கை": { "replacement": "🎿", "description": "skis" },
+  "சவாரி": { "replacement": "🛷", "description": "sled" },
+  "கர்லிங் கல்": { "replacement": "🥌", "description": "curling stone" },
+  "டார்ட்": { "replacement": "🎯", "description": "direct hit" },
+  "யோ யோ": { "replacement": "🪀", "description": "yo-yo" },
+  "காத்தாடி": { "replacement": "🪁", "description": "kite" },
+  "8 பந்து": { "replacement": "🎱", "description": "pool 8 ball" },
+  "பளிங்கு பந்து": { "replacement": "🔮", "description": "crystal ball" },
+  "மந்திரக்கோலை": { "replacement": "🪄", "description": "magic wand" },
+  "nazar amulet": { "replacement": "🧿", "description": "nazar amulet" },
+  "வீடியோ கேம்": { "replacement": "🎮", "description": "video game" },
+  "ஜாய்ஸ்டிக்": { "replacement": "🕹️", "description": "joystick" },
+  "துளை இயந்திரம்": { "replacement": "🎰", "description": "slot machine" },
+  "விளையாட்டு இறக்க": { "replacement": "🎲", "description": "game die" },
+  "ஜிக்சா": { "replacement": "🧩", "description": "puzzle piece" },
+  "கரடி பொம்மை": { "replacement": "🧸", "description": "teddy bear" },
+  "பினாட்டா": { "replacement": "🪅", "description": "piñata" },
+  "கூடுகள் பொம்மைகள்": { "replacement": "🪆", "description": "nesting dolls" },
+  "மண்வெட்டிகள்": { "replacement": "♠️", "description": "spade suit" },
+  "இதயங்கள்": { "replacement": "♥️", "description": "heart suit" },
+  "வைரங்கள்": { "replacement": "♦️", "description": "diamond suit" },
+  "கிளப்புகள்": { "replacement": "♣️", "description": "club suit" },
+  "சதுரங்க சிப்பாய்": { "replacement": "♟️", "description": "chess pawn" },
+  "கருப்பு ஜோக்கர்": { "replacement": "🃏", "description": "joker" },
+  "மஹ்ஜோங்": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "மலர் விளையாட்டு அட்டைகள்": {
+    "replacement": "🎴",
+    "description": "flower playing cards"
+  },
+  "கலை நிகழ்ச்சி": { "replacement": "🎭", "description": "performing arts" },
+  "கட்டமைக்கப்பட்ட படம்": {
+    "replacement": "🖼️",
+    "description": "framed picture"
+  },
+  "கலை": { "replacement": "🎨", "description": "artist palette" },
+  "நூல்": { "replacement": "📖", "description": "open book" },
+  "தையல் ஊசி": { "replacement": "🪡", "description": "sewing needle" },
+  "முடிச்சு": { "replacement": "🪢", "description": "knot" },
+  "கண்கண்ணாடிகள்": { "replacement": "👓", "description": "glasses" },
+  "இருண்ட சன்கிளாஸ்கள்": { "replacement": "🕶️", "description": "sunglasses" },
+  "கண்ணாடி": { "replacement": "🪞", "description": "mirror" },
+  "ஆய்வுக்கூட மேலணி": { "replacement": "🥼", "description": "lab coat" },
+  "பாதுகாப்பு உடுப்பு": { "replacement": "🦺", "description": "safety vest" },
+  "கழுத்து": { "replacement": "👔", "description": "necktie" },
+  "சட்டை": { "replacement": "👕", "description": "t-shirt" },
+  "ஜீன்ஸ்": { "replacement": "👖", "description": "jeans" },
+  "தாவணி": { "replacement": "🧣", "description": "scarf" },
+  "கையுறைகள்": { "replacement": "🧤", "description": "gloves" },
+  "கோட்": { "replacement": "🧥", "description": "coat" },
+  "சாக்ஸ்": { "replacement": "🧦", "description": "socks" },
+  "உடை": { "replacement": "👗", "description": "dress" },
+  "கிமோனோ": { "replacement": "👘", "description": "kimono" },
+  "புடவை": { "replacement": "🥻", "description": "sari" },
+  "ஒரு துண்டு நீச்சலுடை": {
+    "replacement": "🩱",
+    "description": "one-piece swimsuit"
+  },
+  "சுருக்கமாக நீந்தவும்": { "replacement": "🩲", "description": "briefs" },
+  "குறும்படங்கள்": { "replacement": "🩳", "description": "shorts" },
+  "பிகினி": { "replacement": "👙", "description": "bikini" },
+  "பெண்கள் உடைகள்": { "replacement": "👚", "description": "woman’s clothes" },
+  "பர்ஸ்": { "replacement": "👛", "description": "purse" },
+  "கைப்பை": { "replacement": "👜", "description": "handbag" },
+  "கடையில் பொருட்கள் வாங்குதல்": {
+    "replacement": "🛍️",
+    "description": "shopping bags"
+  },
+  "பள்ளி சாட்செல்": { "replacement": "🎒", "description": "backpack" },
+  "தாங் செருப்பு": { "replacement": "🩴", "description": "thong sandal" },
+  "மேன்ஸ் ஷூ": { "replacement": "👞", "description": "man’s shoe" },
+  "தடகள ஷூ": { "replacement": "👟", "description": "running shoe" },
+  "ஹைகிங் பூட்": { "replacement": "🥾", "description": "hiking boot" },
+  "தட்டையான காலணி": { "replacement": "🥿", "description": "flat shoe" },
+  "உயர் குதிகால்": { "replacement": "👠", "description": "high-heeled shoe" },
+  "செருப்பு": { "replacement": "👡", "description": "woman’s sandal" },
+  "பாலே ஷூக்கள்": { "replacement": "🩰", "description": "ballet shoes" },
+  "துவக்க": { "replacement": "👢", "description": "woman’s boot" },
+  "கிரீடம்": { "replacement": "👑", "description": "crown" },
+  "பெண்கள் தொப்பி": { "replacement": "👒", "description": "woman’s hat" },
+  "tophat": { "replacement": "🎩", "description": "top hat" },
+  "மோட்டார் பலகை": { "replacement": "🎓", "description": "graduation cap" },
+  "பில் தொப்பி": { "replacement": "🧢", "description": "billed cap" },
+  "இராணுவ ஹெல்மெட்": { "replacement": "🪖", "description": "military helmet" },
+  "மீட்பு தொழிலாளி ஹெல்மெட்": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "பிரார்த்தனை மணிகள்": { "replacement": "📿", "description": "prayer beads" },
+  "உதட்டுச்சாயம்": { "replacement": "💄", "description": "lipstick" },
+  "மோதிரம்": { "replacement": "💍", "description": "ring" },
+  "மாணிக்கம்": { "replacement": "💎", "description": "gem stone" },
+  "ஊமையாக": { "replacement": "🔇", "description": "muted speaker" },
+  "பேச்சாளர்": { "replacement": "🔈", "description": "speaker low volume" },
+  "ஒலி": { "replacement": "🔉", "description": "speaker medium volume" },
+  "அதிக சத்தம்": { "replacement": "🔊", "description": "speaker high volume" },
+  "ஒலிபெருக்கி": { "replacement": "📢", "description": "loudspeaker" },
+  "மெகா": { "replacement": "📣", "description": "megaphone" },
+  "அஞ்சல் கொம்பு": { "replacement": "📯", "description": "postal horn" },
+  "மணி": { "replacement": "🔔", "description": "bell" },
+  "மணி இல்லை": { "replacement": "🔕", "description": "bell with slash" },
+  "இசை மதிப்பெண்": { "replacement": "🎼", "description": "musical score" },
+  "இசை குறிப்பு": { "replacement": "🎵", "description": "musical note" },
+  "குறிப்புகள்": { "replacement": "🎶", "description": "musical notes" },
+  "ஸ்டுடியோ மைக்ரோஃபோன்": {
+    "replacement": "🎙️",
+    "description": "studio microphone"
+  },
+  "நிலை ஸ்லைடர்": { "replacement": "🎚️", "description": "level slider" },
+  "கட்டுப்பாட்டு கைப்பிடிகள்": {
+    "replacement": "🎛️",
+    "description": "control knobs"
+  },
+  "மைக்ரோஃபோன்": { "replacement": "🎤", "description": "microphone" },
+  "ஹெட்ஃபோன்கள்": { "replacement": "🎧", "description": "headphone" },
+  "வானொலி": { "replacement": "📻", "description": "radio" },
+  "சாக்ஸபோன்": { "replacement": "🎷", "description": "saxophone" },
+  "துருத்தி": { "replacement": "🪗", "description": "accordion" },
+  "கிட்டார்": { "replacement": "🎸", "description": "guitar" },
+  "இசை விசைப்பலகை": { "replacement": "🎹", "description": "musical keyboard" },
+  "எக்காளம்": { "replacement": "🎺", "description": "trumpet" },
+  "வயலின்": { "replacement": "🎻", "description": "violin" },
+  "banjo": { "replacement": "🪕", "description": "banjo" },
+  "டிரம்": { "replacement": "🥁", "description": "drum" },
+  "நீண்ட டிரம்": { "replacement": "🪘", "description": "long drum" },
+  "ஐபோன்": { "replacement": "📱", "description": "mobile phone" },
+  "அழைப்பு": { "replacement": "📲", "description": "mobile phone with arrow" },
+  "தொலைபேசி": { "replacement": "☎️", "description": "telephone" },
+  "தொலைபேசி பெறுதல்": {
+    "replacement": "📞",
+    "description": "telephone receiver"
+  },
+  "பேஜர்": { "replacement": "📟", "description": "pager" },
+  "தொலைநகல்": { "replacement": "📠", "description": "fax machine" },
+  "மின்கலம்": { "replacement": "🔋", "description": "battery" },
+  "மின்சார பிளக்": { "replacement": "🔌", "description": "electric plug" },
+  "கணினி": { "replacement": "💻", "description": "laptop" },
+  "மேசை கணினி": { "replacement": "🖥️", "description": "desktop computer" },
+  "அச்சுப்பொறி": { "replacement": "🖨️", "description": "printer" },
+  "விசைப்பலகை": { "replacement": "⌨️", "description": "keyboard" },
+  "கணினி சுட்டி": { "replacement": "🖱️", "description": "computer mouse" },
+  "டிராக்பால்": { "replacement": "🖲️", "description": "trackball" },
+  "minidisc": { "replacement": "💽", "description": "computer disk" },
+  "நெகிழ் வட்டு": { "replacement": "💾", "description": "floppy disk" },
+  "சி.டி.": { "replacement": "💿", "description": "optical disk" },
+  "டிவிடி": { "replacement": "📀", "description": "dvd" },
+  "அபாகஸ்": { "replacement": "🧮", "description": "abacus" },
+  "திரைப்பட கேமரா": { "replacement": "🎥", "description": "movie camera" },
+  "திரைப்பட துண்டு": { "replacement": "🎞️", "description": "film frames" },
+  "திரைப்பட ப்ரொஜெக்டர்": {
+    "replacement": "📽️",
+    "description": "film projector"
+  },
+  "கிளாப்பர்": { "replacement": "🎬", "description": "clapper board" },
+  "தொலைக்காட்சி": { "replacement": "📺", "description": "television" },
+  "புகைப்பட கருவி": { "replacement": "📷", "description": "camera" },
+  "கேமரா ஃபிளாஷ்": { "replacement": "📸", "description": "camera with flash" },
+  "நிகழ்பதிவி": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "மாக்": {
+    "replacement": "🔍",
+    "description": "magnifying glass tilted left"
+  },
+  "மாக் சரி": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "மெழுகுவர்த்தி": { "replacement": "🕯️", "description": "candle" },
+  "விளக்கை": { "replacement": "💡", "description": "light bulb" },
+  "ஒளிரும் விளக்கு": { "replacement": "🔦", "description": "flashlight" },
+  "izakaya விளக்கு": {
+    "replacement": "🏮",
+    "description": "red paper lantern"
+  },
+  "தியா விளக்கு": { "replacement": "🪔", "description": "diya lamp" },
+  "அலங்கார அட்டையுடன் நோட்புக்": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "மூடிய புத்தகம்": { "replacement": "📕", "description": "closed book" },
+  "பச்சை புத்தகம்": { "replacement": "📗", "description": "green book" },
+  "நீல புத்தகம்": { "replacement": "📘", "description": "blue book" },
+  "ஆரஞ்சு புத்தகம்": { "replacement": "📙", "description": "orange book" },
+  "புத்தகங்கள்": { "replacement": "📚", "description": "books" },
+  "நோட்புக்": { "replacement": "📓", "description": "notebook" },
+  "பேரேடு": { "replacement": "📒", "description": "ledger" },
+  "சுருட்டை கொண்ட பக்கம்": {
+    "replacement": "📃",
+    "description": "page with curl"
+  },
+  "உருள்": { "replacement": "📜", "description": "scroll" },
+  "பக்கம் எதிர்கொள்ளும்": {
+    "replacement": "📄",
+    "description": "page facing up"
+  },
+  "செய்தித்தாள்": { "replacement": "📰", "description": "newspaper" },
+  "செய்தித்தாள் ரோல்": {
+    "replacement": "🗞️",
+    "description": "rolled-up newspaper"
+  },
+  "புக்மார்க் தாவல்கள்": {
+    "replacement": "📑",
+    "description": "bookmark tabs"
+  },
+  "புத்தககுறி": { "replacement": "🔖", "description": "bookmark" },
+  "லேபிள்": { "replacement": "🏷️", "description": "label" },
+  "பணப்பை": { "replacement": "💰", "description": "money bag" },
+  "நாணயம்": { "replacement": "🪙", "description": "coin" },
+  "யென்": { "replacement": "💴", "description": "yen banknote" },
+  "டாலர்": { "replacement": "💵", "description": "dollar banknote" },
+  "யூரோ": { "replacement": "💶", "description": "euro banknote" },
+  "பவுண்டு": { "replacement": "💷", "description": "pound banknote" },
+  "இறக்கைகள் கொண்ட பணம்": {
+    "replacement": "💸",
+    "description": "money with wings"
+  },
+  "கடன் அட்டை": { "replacement": "💳", "description": "credit card" },
+  "ரசீது": { "replacement": "🧾", "description": "receipt" },
+  "விளக்கப்படம்": {
+    "replacement": "💹",
+    "description": "chart increasing with yen"
+  },
+  "மின்னஞ்சல்": { "replacement": "📧", "description": "e-mail" },
+  "உள்வரும் உறை": { "replacement": "📨", "description": "incoming envelope" },
+  "அம்புடன் உறை": { "replacement": "📩", "description": "envelope with arrow" },
+  "அவுட்பாக்ஸ் தட்டு": { "replacement": "📤", "description": "outbox tray" },
+  "இன்பாக்ஸ் தட்டு": { "replacement": "📥", "description": "inbox tray" },
+  "தொகுப்பு": { "replacement": "📦", "description": "package" },
+  "அஞ்சல் பெட்டி": {
+    "replacement": "📫",
+    "description": "closed mailbox with raised flag"
+  },
+  "அஞ்சல் பெட்டி மூடப்பட்டது": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "அஞ்சலுடன் அஞ்சல் பெட்டி": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "அஞ்சல் இல்லாத அஞ்சல் பெட்டி": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "தபால் பெட்டி": { "replacement": "📮", "description": "postbox" },
+  "வாக்கு பெட்டி": {
+    "replacement": "🗳️",
+    "description": "ballot box with ballot"
+  },
+  "பென்சில் 2": { "replacement": "✏️", "description": "pencil" },
+  "கருப்பு நிப்": { "replacement": "✒️", "description": "black nib" },
+  "நீரூற்று பேனா": { "replacement": "🖋️", "description": "fountain pen" },
+  "பேனா": { "replacement": "🖊️", "description": "pen" },
+  "வர்ண தூரிகை": { "replacement": "🖌️", "description": "paintbrush" },
+  "மெமோ": { "replacement": "📝", "description": "memo" },
+  "பிரீஃப்கேஸ்": { "replacement": "💼", "description": "briefcase" },
+  "கோப்பு கோப்புறை": { "replacement": "📁", "description": "file folder" },
+  "கோப்புறை திறக்க": { "replacement": "📂", "description": "open file folder" },
+  "அட்டை குறியீட்டு வகுப்பிகள்": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "தேதி": { "replacement": "📅", "description": "calendar" },
+  "நாட்காட்டி": { "replacement": "📆", "description": "tear-off calendar" },
+  "சுழல் நோட்பேட்": { "replacement": "🗒️", "description": "spiral notepad" },
+  "சுழல் காலண்டர்": { "replacement": "🗓️", "description": "spiral calendar" },
+  "அட்டை அட்டவணை": { "replacement": "📇", "description": "card index" },
+  "மேல்நோக்கி போக்குடன் விளக்கப்படம்": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "கீழ்நோக்கிய போக்குடன் விளக்கப்படம்": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "பார் விளக்கப்படம்": { "replacement": "📊", "description": "bar chart" },
+  "கிளிப்போர்டு": { "replacement": "📋", "description": "clipboard" },
+  "புஷ்பின்": { "replacement": "📌", "description": "pushpin" },
+  "சுற்று புஷ்பின்": { "replacement": "📍", "description": "round pushpin" },
+  "காகிதக் கிளிப்": { "replacement": "📎", "description": "paperclip" },
+  "தாள் இனைப்பீ": { "replacement": "🖇️", "description": "linked paperclips" },
+  "நேரான ஆட்சியாளர்": { "replacement": "📏", "description": "straight ruler" },
+  "முக்கோண ஆட்சியாளர்": {
+    "replacement": "📐",
+    "description": "triangular ruler"
+  },
+  "கத்தரிக்கோல்": { "replacement": "✂️", "description": "scissors" },
+  "அட்டை கோப்பு பெட்டி": {
+    "replacement": "🗃️",
+    "description": "card file box"
+  },
+  "கோப்பு அமைச்சரவை": { "replacement": "🗄️", "description": "file cabinet" },
+  "குப்பைத்தொட்டி": { "replacement": "🗑️", "description": "wastebasket" },
+  "பூட்டு": { "replacement": "🔒", "description": "locked" },
+  "திறத்தல்": { "replacement": "🔓", "description": "unlocked" },
+  "மை பேனாவுடன் பூட்டு": {
+    "replacement": "🔏",
+    "description": "locked with pen"
+  },
+  "விசையுடன் மூடிய பூட்டு": {
+    "replacement": "🔐",
+    "description": "locked with key"
+  },
+  "விசை": { "replacement": "🔑", "description": "key" },
+  "பழைய விசை": { "replacement": "🗝️", "description": "old key" },
+  "சுத்தி": { "replacement": "🔨", "description": "hammer" },
+  "கோடரி": { "replacement": "🪓", "description": "axe" },
+  "தேர்ந்தெடு": { "replacement": "⛏️", "description": "pick" },
+  "சுத்தி மற்றும் எடு": {
+    "replacement": "⚒️",
+    "description": "hammer and pick"
+  },
+  "சுத்தி மற்றும் குறடு": {
+    "replacement": "🛠️",
+    "description": "hammer and wrench"
+  },
+  "டாகர்": { "replacement": "🗡️", "description": "dagger" },
+  "குறுக்கு வாள்கள்": { "replacement": "⚔️", "description": "crossed swords" },
+  "துப்பாக்கி": { "replacement": "🔫", "description": "pistol" },
+  "எறிவளைதடு": { "replacement": "🪃", "description": "boomerang" },
+  "வில் மற்றும் அம்பு": { "replacement": "🏹", "description": "bow and arrow" },
+  "கவசம்": { "replacement": "🛡️", "description": "shield" },
+  "தச்சு பார்த்தேன்": { "replacement": "🪚", "description": "carpentry saw" },
+  "குறடு": { "replacement": "🔧", "description": "wrench" },
+  "ஸ்க்ரூடிரைவர்": { "replacement": "🪛", "description": "screwdriver" },
+  "நட்டு மற்றும் போல்ட்": {
+    "replacement": "🔩",
+    "description": "nut and bolt"
+  },
+  "கியர்": { "replacement": "⚙️", "description": "gear" },
+  "கிளம்ப": { "replacement": "🗜️", "description": "clamp" },
+  "இருப்பு அளவு": { "replacement": "⚖️", "description": "balance scale" },
+  "கரும்பு ஆய்வு": { "replacement": "🦯", "description": "white cane" },
+  "இணைப்பு": { "replacement": "🔗", "description": "link" },
+  "சங்கிலிகள்": { "replacement": "⛓️", "description": "chains" },
+  "கொக்கி": { "replacement": "🪝", "description": "hook" },
+  "கருவிப்பெட்டி": { "replacement": "🧰", "description": "toolbox" },
+  "காந்தம்": { "replacement": "🧲", "description": "magnet" },
+  "ஏணி": { "replacement": "🪜", "description": "ladder" },
+  "அலெம்பிக்": { "replacement": "⚗️", "description": "alembic" },
+  "சோதனை குழாய்": { "replacement": "🧪", "description": "test tube" },
+  "பெட்ரி டிஷ்": { "replacement": "🧫", "description": "petri dish" },
+  "dna": { "replacement": "🧬", "description": "dna" },
+  "நுண்ணோக்கி": { "replacement": "🔬", "description": "microscope" },
+  "தொலைநோக்கி": { "replacement": "🔭", "description": "telescope" },
+  "செயற்கைக்கோள்": { "replacement": "📡", "description": "satellite antenna" },
+  "சிரிஞ்ச்": { "replacement": "💉", "description": "syringe" },
+  "இரத்த துளி": { "replacement": "🩸", "description": "drop of blood" },
+  "மாத்திரை": { "replacement": "💊", "description": "pill" },
+  "பிசின் கட்டு": { "replacement": "🩹", "description": "adhesive bandage" },
+  "ஸ்டெதாஸ்கோப்": { "replacement": "🩺", "description": "stethoscope" },
+  "கதவு": { "replacement": "🚪", "description": "door" },
+  "லிஃப்ட்": { "replacement": "🛗", "description": "elevator" },
+  "ஜன்னல்": { "replacement": "🪟", "description": "window" },
+  "படுக்கை": { "replacement": "🛏️", "description": "bed" },
+  "படுக்கை மற்றும் விளக்கு": {
+    "replacement": "🛋️",
+    "description": "couch and lamp"
+  },
+  "நாற்காலி": { "replacement": "🪑", "description": "chair" },
+  "கழிப்பறை": { "replacement": "🚽", "description": "toilet" },
+  "உலக்கை": { "replacement": "🪠", "description": "plunger" },
+  "மழை": { "replacement": "🚿", "description": "shower" },
+  "குளியல் தொட்டி": { "replacement": "🛁", "description": "bathtub" },
+  "சுட்டி பொறி": { "replacement": "🪤", "description": "mouse trap" },
+  "ரேஸர்": { "replacement": "🪒", "description": "razor" },
+  "லோஷன் பாட்டில்": { "replacement": "🧴", "description": "lotion bottle" },
+  "பாதுகாப்பு முள்": { "replacement": "🧷", "description": "safety pin" },
+  "துடைப்பம்": { "replacement": "🧹", "description": "broom" },
+  "கூடை": { "replacement": "🧺", "description": "basket" },
+  "காகித ரோல்": { "replacement": "🧻", "description": "roll of paper" },
+  "வாளி": { "replacement": "🪣", "description": "bucket" },
+  "வழலை": { "replacement": "🧼", "description": "soap" },
+  "பல் துலக்குதல்": { "replacement": "🪥", "description": "toothbrush" },
+  "கடற்பாசி": { "replacement": "🧽", "description": "sponge" },
+  "தீ அணைப்பான்": { "replacement": "🧯", "description": "fire extinguisher" },
+  "வணிக கூடை": { "replacement": "🛒", "description": "shopping cart" },
+  "புகைத்தல்": { "replacement": "🚬", "description": "cigarette" },
+  "சவப்பெட்டி": { "replacement": "⚰️", "description": "coffin" },
+  "ஹெட்ஸ்டோன்": { "replacement": "🪦", "description": "headstone" },
+  "இறுதி சடங்கு": { "replacement": "⚱️", "description": "funeral urn" },
+  "moyai": { "replacement": "🗿", "description": "moai" },
+  "பலகை": { "replacement": "🪧", "description": "placard" },
+  "atm": { "replacement": "🏧", "description": "ATM sign" },
+  "குப்பைகளை அதன் இடத்தில் வைக்கவும்": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "குடிநீர்": { "replacement": "🚰", "description": "potable water" },
+  "சக்கர நாற்காலி": { "replacement": "♿", "description": "wheelchair symbol" },
+  "ஆண்கள்": { "replacement": "🚹", "description": "men’s room" },
+  "பெண்கள்": { "replacement": "🚺", "description": "women’s room" },
+  "ஓய்வறை": { "replacement": "🚻", "description": "restroom" },
+  "குழந்தை சின்னம்": { "replacement": "🚼", "description": "baby symbol" },
+  "wc": { "replacement": "🚾", "description": "water closet" },
+  "கடவுச்சீட்டு கட்டுப்பாடு": {
+    "replacement": "🛂",
+    "description": "passport control"
+  },
+  "சுங்க": { "replacement": "🛃", "description": "customs" },
+  "சாமான்கள் உரிமைகோரல்": {
+    "replacement": "🛄",
+    "description": "baggage claim"
+  },
+  "விடுபட்ட சுமைகள்": { "replacement": "🛅", "description": "left luggage" },
+  "எச்சரிக்கை": { "replacement": "⚠️", "description": "warning" },
+  "குழந்தைகள் கடக்கும்": {
+    "replacement": "🚸",
+    "description": "children crossing"
+  },
+  "செல்லக்கூடாது": { "replacement": "⛔", "description": "no entry" },
+  "நுழைவு அடையாளம் இல்லை": { "replacement": "🚫", "description": "prohibited" },
+  "மிதிவண்டிகள் இல்லை": { "replacement": "🚳", "description": "no bicycles" },
+  "புகை பிடிக்காதீர்": { "replacement": "🚭", "description": "no smoking" },
+  "குப்பை போடாதே": { "replacement": "🚯", "description": "no littering" },
+  "குடிக்க முடியாத நீர்": {
+    "replacement": "🚱",
+    "description": "non-potable water"
+  },
+  "பாதசாரிகள் இல்லை": { "replacement": "🚷", "description": "no pedestrians" },
+  "மொபைல் போன்கள் இல்லை": {
+    "replacement": "📵",
+    "description": "no mobile phones"
+  },
+  "வயது குறைந்த": {
+    "replacement": "🔞",
+    "description": "no one under eighteen"
+  },
+  "கதிரியக்க": { "replacement": "☢️", "description": "radioactive" },
+  "biohazard": { "replacement": "☣️", "description": "biohazard" },
+  "அம்பு மேலே": { "replacement": "⬆️", "description": "up arrow" },
+  "அம்பு மேல் வலது": { "replacement": "↗️", "description": "up-right arrow" },
+  "அம்பு வலது": { "replacement": "➡️", "description": "right arrow" },
+  "அம்பு கீழ் வலது": { "replacement": "↘️", "description": "down-right arrow" },
+  "அம்பு கீழே": { "replacement": "↕️", "description": "up-down arrow" },
+  "அம்பு கீழ் இடது": { "replacement": "↙️", "description": "down-left arrow" },
+  "அம்பு இடது": { "replacement": "⬅️", "description": "left arrow" },
+  "அம்பு மேல் இடது": { "replacement": "↖️", "description": "up-left arrow" },
+  "இடது வலது அம்பு": { "replacement": "↔️", "description": "left-right arrow" },
+  "கொக்கி கொண்டு இடதுபுற அம்பு": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "அம்பு வலது கொக்கி": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "அம்பு மேலே செல்கிறது": {
+    "replacement": "⤴️",
+    "description": "right arrow curving up"
+  },
+  "அம்பு கீழே செல்கிறது": {
+    "replacement": "⤵️",
+    "description": "right arrow curving down"
+  },
+  "அம்புகள் கடிகார திசையில்": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "அம்புகள் எதிரெதிர் திசையில்": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "மீண்டும்": { "replacement": "🔁", "description": "repeat button" },
+  "முடிவு": { "replacement": "🔚", "description": "END arrow" },
+  "ஆன்": { "replacement": "🔛", "description": "ON! arrow" },
+  "விரைவில்": { "replacement": "🔜", "description": "SOON arrow" },
+  "மேல்": { "replacement": "🔝", "description": "TOP arrow" },
+  "வழிபாட்டுத் தலம்": {
+    "replacement": "🛐",
+    "description": "place of worship"
+  },
+  "அணு சின்னம்": { "replacement": "⚛️", "description": "atom symbol" },
+  "ஓம்": { "replacement": "🕉️", "description": "om" },
+  "டேவிட் நட்சத்திரம்": { "replacement": "✡️", "description": "star of David" },
+  "தர்ம சக்கரம்": { "replacement": "☸️", "description": "wheel of dharma" },
+  "யின் யாங்": { "replacement": "☯️", "description": "yin yang" },
+  "லத்தீன் குறுக்கு": { "replacement": "✝️", "description": "latin cross" },
+  "மரபுவழி குறுக்கு": { "replacement": "☦️", "description": "orthodox cross" },
+  "நட்சத்திரம் மற்றும் பிறை": {
+    "replacement": "☪️",
+    "description": "star and crescent"
+  },
+  "அமைதி சின்னம்": { "replacement": "☮️", "description": "peace symbol" },
+  "மெனோரா": { "replacement": "🕎", "description": "menorah" },
+  "ஆறு புள்ளிகள் கொண்ட நட்சத்திரம்": {
+    "replacement": "🔯",
+    "description": "dotted six-pointed star"
+  },
+  "மேஷம்": { "replacement": "♈", "description": "Aries" },
+  "டாரஸ்": { "replacement": "♉", "description": "Taurus" },
+  "ஜெமினி": { "replacement": "♊", "description": "Gemini" },
+  "புற்றுநோய்": { "replacement": "♋", "description": "Cancer" },
+  "லியோ": { "replacement": "♌", "description": "Leo" },
+  "கன்னி": { "replacement": "♍", "description": "Virgo" },
+  "துலாம்": { "replacement": "♎", "description": "Libra" },
+  "ஸ்கார்பியஸ்": { "replacement": "♏", "description": "Scorpio" },
+  "தனுசு": { "replacement": "♐", "description": "Sagittarius" },
+  "மகர": { "replacement": "♑", "description": "Capricorn" },
+  "கும்பம்": { "replacement": "♒", "description": "Aquarius" },
+  "மீனம்": { "replacement": "♓", "description": "Pisces" },
+  "ophiuchus": { "replacement": "⛎", "description": "Ophiuchus" },
+  "முறுக்கப்பட்ட வலதுபுற அம்புகள்": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "ஒன்றை மீண்டும் செய்யவும்": {
+    "replacement": "🔂",
+    "description": "repeat single button"
+  },
+  "அம்பு முன்னோக்கி": { "replacement": "▶️", "description": "play button" },
+  "வேகமாக முன்னோக்கி": {
+    "replacement": "⏩",
+    "description": "fast-forward button"
+  },
+  "அடுத்த டிராக் பொத்தான்": {
+    "replacement": "⏭️",
+    "description": "next track button"
+  },
+  "பொத்தானை இயக்கு அல்லது இடைநிறுத்து": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "அம்பு பின்னோக்கி": { "replacement": "◀️", "description": "reverse button" },
+  "முன்னாடி": { "replacement": "⏪", "description": "fast reverse button" },
+  "முந்தைய தட பொத்தானை": {
+    "replacement": "⏮️",
+    "description": "last track button"
+  },
+  "சிறிய அம்பு": { "replacement": "🔼", "description": "upwards button" },
+  "அம்பு இரட்டிப்பாகும்": {
+    "replacement": "⏫",
+    "description": "fast up button"
+  },
+  "சிறிய அம்பு கீழே": {
+    "replacement": "🔽",
+    "description": "downwards button"
+  },
+  "அம்பு இரட்டை கீழே": {
+    "replacement": "⏬",
+    "description": "fast down button"
+  },
+  "இடைநிறுத்த பொத்தானை": { "replacement": "⏸️", "description": "pause button" },
+  "நிறுத்த பொத்தானை": { "replacement": "⏹️", "description": "stop button" },
+  "பதிவு பொத்தான்": { "replacement": "⏺️", "description": "record button" },
+  "பொத்தானை வெளியேற்று": { "replacement": "⏏️", "description": "eject button" },
+  "சினிமா": { "replacement": "🎦", "description": "cinema" },
+  "குறைந்த பிரகாசம்": { "replacement": "🔅", "description": "dim button" },
+  "அதிக பிரகாசம்": { "replacement": "🔆", "description": "bright button" },
+  "சமிக்ஞை வலிமை": { "replacement": "📶", "description": "antenna bars" },
+  "அதிர்வு முறை": { "replacement": "📳", "description": "vibration mode" },
+  "மொபைல் போன் முடக்கப்பட்டுள்ளது": {
+    "replacement": "📴",
+    "description": "mobile phone off"
+  },
+  "பெண் அடையாளம்": { "replacement": "♀️", "description": "female sign" },
+  "ஆண் அடையாளம்": { "replacement": "♂️", "description": "male sign" },
+  "திருநங்கைகளின் சின்னம்": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "கனமான பெருக்கல் x": { "replacement": "✖️", "description": "multiply" },
+  "கனமான பிளஸ் அடையாளம்": { "replacement": "➕", "description": "plus" },
+  "கனமான கழித்தல் அடையாளம்": { "replacement": "➖", "description": "minus" },
+  "கனமான பிரிவு அடையாளம்": { "replacement": "➗", "description": "divide" },
+  "முடிவிலி": { "replacement": "♾️", "description": "infinity" },
+  "பேங் பேங்": {
+    "replacement": "‼️",
+    "description": "double exclamation mark"
+  },
+  "interrobang": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "கேள்வி": { "replacement": "❓", "description": "question mark" },
+  "சாம்பல் கேள்வி": {
+    "replacement": "❔",
+    "description": "white question mark"
+  },
+  "சாம்பல் ஆச்சரியம்": {
+    "replacement": "❕",
+    "description": "white exclamation mark"
+  },
+  "ஆச்சரியம்": { "replacement": "❗", "description": "exclamation mark" },
+  "அலை அலையான கோடு": { "replacement": "〰️", "description": "wavy dash" },
+  "நாணய மாற்று": { "replacement": "💱", "description": "currency exchange" },
+  "கனமான டாலர் அடையாளம்": {
+    "replacement": "💲",
+    "description": "heavy dollar sign"
+  },
+  "மருத்துவ சின்னம்": { "replacement": "⚕️", "description": "medical symbol" },
+  "மறுசுழற்சி": { "replacement": "♻️", "description": "recycling symbol" },
+  "fleur de lis": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "திரிசூலம்": { "replacement": "🔱", "description": "trident emblem" },
+  "பெயர் அட்டை": { "replacement": "📛", "description": "name badge" },
+  "தொடக்க": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "o": { "replacement": "⭕", "description": "hollow red circle" },
+  "வெள்ளை காசோலை குறி": {
+    "replacement": "✅",
+    "description": "check mark button"
+  },
+  "காசோலை கொண்ட வாக்கு பெட்டி": {
+    "replacement": "☑️",
+    "description": "check box with check"
+  },
+  "கனமான காசோலை குறி": { "replacement": "✔️", "description": "check mark" },
+  "எக்ஸ்": { "replacement": "❌", "description": "cross mark" },
+  "எதிர்மறை ஸ்கொயர் குறுக்கு குறி": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "சுருள் வளைய": { "replacement": "➰", "description": "curly loop" },
+  "வளைய": { "replacement": "➿", "description": "double curly loop" },
+  "பகுதி மாற்று குறி": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "எட்டு ஸ்போக் நட்சத்திரம்": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "எட்டு புள்ளிகள் கொண்ட கருப்பு நட்சத்திரம்": {
+    "replacement": "✴️",
+    "description": "eight-pointed star"
+  },
+  "பிரகாசம்": { "replacement": "❇️", "description": "sparkle" },
+  "பதிப்புரிமை": { "replacement": "©️", "description": "copyright" },
+  "பதிவுசெய்யப்பட்டது": { "replacement": "®️", "description": "registered" },
+  "tm": { "replacement": "™️", "description": "trade mark" },
+  "ஹாஷ்": { "replacement": "#️⃣", "description": "keycap: #" },
+  "பூஜ்யம்": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "ஒன்று": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "இரண்டு": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "மூன்று": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "நான்கு": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "ஐந்து": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "ஆறு": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "ஏழு": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "எட்டு": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "ஒன்பது": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "கீ கேப் பத்து": { "replacement": "🔟", "description": "keycap: 10" },
+  "மூலதனம் abcd": {
+    "replacement": "🔠",
+    "description": "input latin uppercase"
+  },
+  "ஏ பி சி டி": { "replacement": "🔡", "description": "input latin lowercase" },
+  "சின்னங்கள்": { "replacement": "🔣", "description": "input symbols" },
+  "abc": { "replacement": "🔤", "description": "input latin letters" },
+  "a": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "ab": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "b": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "cl": { "replacement": "🆑", "description": "CL button" },
+  "குளிர்": { "replacement": "🆒", "description": "COOL button" },
+  "இலவசம்": { "replacement": "🆓", "description": "FREE button" },
+  "தகவல் மூல": { "replacement": "ℹ️", "description": "information" },
+  "ஐடி": { "replacement": "🆔", "description": "ID button" },
+  "மீ": { "replacement": "Ⓜ️", "description": "circled M" },
+  "புதியது": { "replacement": "🆕", "description": "NEW button" },
+  "ng": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "சரி": { "replacement": "🆗", "description": "OK button" },
+  "வாகன நிறுத்துமிடம்": { "replacement": "🅿️", "description": "P button" },
+  "sos": { "replacement": "🆘", "description": "SOS button" },
+  "மேலே": { "replacement": "🆙", "description": "UP! button" },
+  "எதிராக": { "replacement": "🆚", "description": "VS button" },
+  "கோகோ": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "sa": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "ஐடியோகிராஃப் நன்மை": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "ஏற்றுக்கொள்": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "வாழ்த்துக்கள்": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "ரகசியம்": { "replacement": "㊙️", "description": "Japanese “secret” button" },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "சிவப்பு வட்டம்": { "replacement": "🔴", "description": "red circle" },
+  "ஆரஞ்சு வட்டம்": { "replacement": "🟠", "description": "orange circle" },
+  "மஞ்சள் வட்டம்": { "replacement": "🟡", "description": "yellow circle" },
+  "பச்சை வட்டம்": { "replacement": "🟢", "description": "green circle" },
+  "பெரிய நீல வட்டம்": { "replacement": "🔵", "description": "blue circle" },
+  "ஊதா வட்டம்": { "replacement": "🟣", "description": "purple circle" },
+  "பழுப்பு வட்டம்": { "replacement": "🟤", "description": "brown circle" },
+  "கருப்பு வட்டம்": { "replacement": "⚫", "description": "black circle" },
+  "வெள்ளை வட்டம்": { "replacement": "⚪", "description": "white circle" },
+  "சிவப்பு சதுரம்": { "replacement": "🟥", "description": "red square" },
+  "ஆரஞ்சு சதுரம்": { "replacement": "🟧", "description": "orange square" },
+  "மஞ்சள் சதுரம்": { "replacement": "🟨", "description": "yellow square" },
+  "பச்சை சதுரம்": { "replacement": "🟩", "description": "green square" },
+  "நீல சதுரம்": { "replacement": "🟦", "description": "blue square" },
+  "ஊதா சதுரம்": { "replacement": "🟪", "description": "purple square" },
+  "பழுப்பு சதுரம்": { "replacement": "🟫", "description": "brown square" },
+  "கருப்பு பெரிய சதுரம்": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "வெள்ளை பெரிய சதுரம்": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "கருப்பு நடுத்தர சதுரம்": {
+    "replacement": "◼️",
+    "description": "black medium square"
+  },
+  "வெள்ளை நடுத்தர சதுரம்": {
+    "replacement": "◻️",
+    "description": "white medium square"
+  },
+  "கருப்பு நடுத்தர சிறிய சதுரம்": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "வெள்ளை நடுத்தர சிறிய சதுரம்": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "கருப்பு சிறிய சதுரம்": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "வெள்ளை சிறிய சதுரம்": {
+    "replacement": "▫️",
+    "description": "white small square"
+  },
+  "பெரிய ஆரஞ்சு வைரம்": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "பெரிய நீல வைரம்": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "சிறிய ஆரஞ்சு வைரம்": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "சிறிய நீல வைரம்": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "சிறிய சிவப்பு முக்கோணம்": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "சிறிய சிவப்பு முக்கோணம் கீழே": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "வைர புள்ளி உள்ளே ஒரு புள்ளி": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "ரேடியோ பொத்தான்": { "replacement": "🔘", "description": "radio button" },
+  "வெள்ளை சதுர பொத்தான்": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "கருப்பு சதுர பொத்தான்": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "சரிபார்க்கப்பட்ட கொடி": {
+    "replacement": "🏁",
+    "description": "chequered flag"
+  },
+  "இடுகையில் முக்கோணக் கொடி": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "குறுக்கு கொடிகள்": { "replacement": "🎌", "description": "crossed flags" },
+  "கருப்பு கொடி": { "replacement": "🏴", "description": "black flag" },
+  "வெள்ளை கொடி": { "replacement": "🏳️", "description": "white flag" },
+  "வானவில் கொடி": { "replacement": "🏳️‍🌈", "description": "rainbow flag" },
+  "திருநங்கைகளின் கொடி": {
+    "replacement": "🏳️‍⚧️",
+    "description": "transgender flag"
+  },
+  "கொள்ளையர் கொடி": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "அசென்ஷன் தீவு": {
+    "replacement": "🇦🇨",
+    "description": "flag: Ascension Island"
+  },
+  "andorra": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "ஐக்கிய அரபு நாடுகள்": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "ஆப்கானிஸ்தான்": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "ஆன்டிகுவா பார்புடா": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "anguilla": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "அல்பேனியா": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "ஆர்மீனியா": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "அங்கோலா": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "அண்டார்டிகா": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "அர்ஜெண்டினா": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "அமெரிக்கன் சமோவா": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "ஆஸ்ட்ரியா": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "ஆஸ்திரேலியா": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "அருபா": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "aland தீவுகள்": {
+    "replacement": "🇦🇽",
+    "description": "flag: Åland Islands"
+  },
+  "அஜர்பைஜான்": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "போஸ்னியா ஹெர்சகோவினா": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "பார்படோஸ்": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "பங்களாதேஷ்": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "பெல்ஜியம்": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "burkina faso": { "replacement": "🇧🇫", "description": "flag: Burkina Faso" },
+  "பல்கேரியா": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "பஹ்ரைன்": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "புருண்டி": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "பெனின்": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "st barthelemy": {
+    "replacement": "🇧🇱",
+    "description": "flag: St. Barthélemy"
+  },
+  "பெர்முடா": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "புருனே": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "பொலிவியா": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "கரீபியன் நெதர்லாந்து": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "பிரேசில்": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "பஹாமாஸ்": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "பூட்டான்": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "போவெட் தீவு": { "replacement": "🇧🇻", "description": "flag: Bouvet Island" },
+  "போட்ஸ்வானா": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "பெலாரஸ்": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "பெலிஸ்": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "கனடா": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "கோகோஸ் தீவுகள்": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "congo kinshasa": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "மத்திய ஆப்பிரிக்க குடியரசு": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "காங்கோ பிரஸ்ஸாவில்": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "சுவிட்சர்லாந்து": {
+    "replacement": "🇨🇭",
+    "description": "flag: Switzerland"
+  },
+  "கோட் டி 'ஐவோரி": {
+    "replacement": "🇨🇮",
+    "description": "flag: Côte d’Ivoire"
+  },
+  "தீவுகளை சமைக்கவும்": {
+    "replacement": "🇨🇰",
+    "description": "flag: Cook Islands"
+  },
+  "சிலி": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "கேமரூன்": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "cn": { "replacement": "🇨🇳", "description": "flag: China" },
+  "கொலம்பியா": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "கிளிப்பர்டன் தீவு": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "கோஸ்ட்டா ரிக்கா": {
+    "replacement": "🇨🇷",
+    "description": "flag: Costa Rica"
+  },
+  "கியூபா": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "கேப் வெர்டே": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "curacao": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "கிறிஸ்துமஸ் தீவு": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "சைப்ரஸ்": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "செ குடியரசு": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "டி": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "டியாகோ கார்சியா": {
+    "replacement": "🇩🇬",
+    "description": "flag: Diego Garcia"
+  },
+  "djibouti": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "டென்மார்க்": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "டோமினிகா": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "டொமினிக்கன் குடியரசு": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "அல்ஜீரியா": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "ceuta melilla": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "ஈக்வடார்": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "எஸ்டோனியா": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "எகிப்து": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "மேற்கு சாஹாரா": {
+    "replacement": "🇪🇭",
+    "description": "flag: Western Sahara"
+  },
+  "எரித்திரியா": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "எஸ்": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "எத்தியோப்பியா": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "eu": { "replacement": "🇪🇺", "description": "flag: European Union" },
+  "பின்லாந்து": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "ஃபிஜி": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "பால்க்லாண்ட் தீவுகள்": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "மைக்ரோனேஷியா": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "ஃபாரோ தீவுகள்": {
+    "replacement": "🇫🇴",
+    "description": "flag: Faroe Islands"
+  },
+  "fr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "காபோன்": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "gb": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "கிரெனடா": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "ஜார்ஜியா": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "பிரஞ்சு கயானா": {
+    "replacement": "🇬🇫",
+    "description": "flag: French Guiana"
+  },
+  "guernsey": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "கானா": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "ஜிப்ரால்டர்": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "கிரீன்லாந்து": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "காம்பியா": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "கினியா": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "guadeloupe": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "பூமத்திய ரேகை கினியா": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "கிரீஸ்": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "தெற்கு ஜார்ஜியா தெற்கு சாண்ட்விச் தீவுகள்": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "குவாத்தமாலா": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "குவாம்": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "கினியா பிசாவு": {
+    "replacement": "🇬🇼",
+    "description": "flag: Guinea-Bissau"
+  },
+  "guyana": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "ஹாங்காங்": {
+    "replacement": "🇭🇰",
+    "description": "flag: Hong Kong SAR China"
+  },
+  "mcdonald தீவுகள் கேட்டது": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "ஹோண்டுராஸ்": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "குரோஷியா": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "ஹைட்டி": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "பசி": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "கேனரி தீவுகள்": {
+    "replacement": "🇮🇨",
+    "description": "flag: Canary Islands"
+  },
+  "இந்தோனேசியா": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "ireland": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "இஸ்ரேல்": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "மனித தீவு": { "replacement": "🇮🇲", "description": "flag: Isle of Man" },
+  "இந்தியா": { "replacement": "🇮🇳", "description": "flag: India" },
+  "பிரிட்டிஷ் இந்திய கடல் பகுதி": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "iraq": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "iran": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "ஐஸ்லாந்து": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "அது": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "ஜெர்சி": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "ஜமைக்கா": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "ஜோர்டான்": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "jp": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "கென்யா": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "கிர்கிஸ்தான்": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "கம்போடியா": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "கிரிபதி": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "comoros": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "ஸ்ட் கிட்ஸ் நெவிஸ்": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "வட கொரியா": { "replacement": "🇰🇵", "description": "flag: North Korea" },
+  "kr": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "குவைத்": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "கெய்மன் தீவுகள்": {
+    "replacement": "🇰🇾",
+    "description": "flag: Cayman Islands"
+  },
+  "கஜகஸ்தான்": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "லாவோஸ்": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "லெபனான்": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "st lucia": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "liechtenstein": {
+    "replacement": "🇱🇮",
+    "description": "flag: Liechtenstein"
+  },
+  "இலங்கை": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "லைபீரியா": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "lesotho": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "லிதுவேனியா": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "லக்ஸம்பர்க்": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "லாட்வியா": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "லிபியா": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "மொராக்கோ": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "மொனாக்கோ": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "மோல்டோவா": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "montenegro": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "st மார்டின்": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "மடகாஸ்கர்": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "மார்ஷல் தீவுகள்": {
+    "replacement": "🇲🇭",
+    "description": "flag: Marshall Islands"
+  },
+  "மாசிடோனியா": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "மாலி": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "மியான்மர்": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "மங்கோலியா": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "மக்காவு": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "வடக்கு மரியானா தீவுகள்": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "மார்டினிக்": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "மவுரித்தேனியா": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "montserrat": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "மால்டா": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "மொரீஷியஸ்": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "மாலத்தீவுகள்": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "மலாவி": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "மெக்ஸிகோ": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "மலேசியா": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "மொசாம்பிக்": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "நமீபியா": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "புதிய கலிடோனியா": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "நைஜர்": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "நோர்போக் தீவு": {
+    "replacement": "🇳🇫",
+    "description": "flag: Norfolk Island"
+  },
+  "நைஜீரியா": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "nicaragua": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "நெதர்லாந்து": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "நோர்வே": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "நேபால்": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "nauru": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "niue": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "நியூசிலாந்து": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "ஓமான்": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "பனாமா": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "பெரு": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "பிரெஞ்சு பாலினேசியா": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "பப்புவா நியூ கினி": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "பிலிப்பைன்ஸ்": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "பாக்கிஸ்தான்": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "போலந்து": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "st pierre miquelon": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "பிட்காயின் தீவுகள்": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "puerto rico": { "replacement": "🇵🇷", "description": "flag: Puerto Rico" },
+  "பாலஸ்தீனிய பிரதேசங்கள்": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "போர்ச்சுகல்": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "palau": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "பராகுவே": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "கத்தார்": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "மீண்டும் இணைதல்": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "ரோமானியா": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "செர்பியா": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "ரு": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "ருவாண்டா": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "சவூதி அரேபியா": { "replacement": "🇸🇦", "description": "flag: Saudi Arabia" },
+  "சாலமன் தீவுகள்": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "சீஷெல்ஸ்": { "replacement": "🇸🇨", "description": "flag: Seychelles" },
+  "சூடான்": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "sweden": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "சிங்கப்பூர்": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "st ஹெலினா": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "ஸ்லோவேனியா": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "svalbard jan mayen": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "ஸ்லோவாக்கியா": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "சியரா லியோன்": { "replacement": "🇸🇱", "description": "flag: Sierra Leone" },
+  "சான் மரினோ": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "செனகல்": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "சோமாலியா": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "suriname": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "தெற்கு சூடான்": { "replacement": "🇸🇸", "description": "flag: South Sudan" },
+  "sao tome principe": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "எல் சல்வடோர்": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "sint maarten": { "replacement": "🇸🇽", "description": "flag: Sint Maarten" },
+  "சிரியா": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "swaziland": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "tristan da cunha": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "டர்க்ஸ் கைகோஸ் தீவுகள்": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "சாட்": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "பிரஞ்சு தெற்கு பிரதேசங்கள்": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "போவதற்கு": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "தாய்லாந்து": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "தஜிகிஸ்தான்": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "tokelau": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "timor leste": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "டர்க்மெனிஸ்தான்": {
+    "replacement": "🇹🇲",
+    "description": "flag: Turkmenistan"
+  },
+  "துனிசியா": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "டோங்கா": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "tr": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "டிரினிடாட் டொபாகோ": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "tuvalu": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "taiwan": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "தான்சானியா": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "உக்ரைன்": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "uganda": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "எங்களுக்கு தீவுகள்": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "ஐக்கிய நாடுகள்": {
+    "replacement": "🇺🇳",
+    "description": "flag: United Nations"
+  },
+  "எங்களுக்கு": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "உருகுவே": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "உஸ்பெகிஸ்தான்": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "வாடிகன் நகரம்": { "replacement": "🇻🇦", "description": "flag: Vatican City" },
+  "ஸ்ட் வின்சென்ட் கிரெனடைன்கள்": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "venezuela": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "பிரிட்டிஷ் கன்னி தீவுகள்": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "எங்களுக்கு கன்னி தீவுகள்": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "வியட்நாம்": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "vanuatu": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "wallis futuna": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "சமோவா": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "கொசோவோ": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "யேமன்": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "மயோட்": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "தெற்கு ஆப்பிரிக்கா": {
+    "replacement": "🇿🇦",
+    "description": "flag: South Africa"
+  },
+  "சாம்பியா": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "ஜிம்பாப்வே": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "இங்கிலாந்து": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "ஸ்காட்லாந்து": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "வேல்ஸ்": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

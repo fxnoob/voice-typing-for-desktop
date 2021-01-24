@@ -1,0 +1,16 @@
+{
+  "name": "voice-typing-for-desktop",
+  "productName": "vtfd",
+  "version": "2.2.0",
+  "description": "Voice typing for desktop, powered by electronJS and chrome extension.",
+  "main": "./main.prod.js",
+  "scripts": {
+    "electron-rebuild": "node -r ../.erb/scripts/BabelRegister.js ../.erb/scripts/ElectronRebuild.js",
+    "postinstall": "yarn electron-rebuild"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lottie-react-web": "^2.2.2",
+    "robotjs": "^0.6.0"
+  }
+}

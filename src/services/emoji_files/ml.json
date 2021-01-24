@@ -1,0 +1,3084 @@
+{
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "ചിരിക്കുന്നു": {
+    "replacement": "😆",
+    "description": "grinning squinting face"
+  },
+  "സ്മൈലി": {
+    "replacement": "😃",
+    "description": "grinning face with big eyes"
+  },
+  "പുഞ്ചിരി": { "replacement": "😏", "description": "smirking face" },
+  "ചിരി": {
+    "replacement": "😁",
+    "description": "beaming face with smiling eyes"
+  },
+  "വിയർപ്പ് പുഞ്ചിരി": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "സന്തോഷം": { "replacement": "😂", "description": "face with tears of joy" },
+  "ചെറുതായി പുഞ്ചിരിക്കുന്ന മുഖം": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "തലകീഴായി മുഖം": { "replacement": "🙃", "description": "upside-down face" },
+  "കണ്ണുചിമ്മുക": { "replacement": "😉", "description": "winking face" },
+  "നാണംകെട്ടത്": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "നിരപരാധികൾ": {
+    "replacement": "😇",
+    "description": "smiling face with halo"
+  },
+  "മൂന്ന് ഹൃദയങ്ങളുള്ള പുഞ്ചിരിക്കുന്ന മുഖം": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "ഹൃദയ കണ്ണുകൾ": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "നക്ഷത്രം അടിച്ചു": { "replacement": "🤩", "description": "star-struck" },
+  "ചുംബിക്കുന്ന ഹൃദയം": {
+    "replacement": "😘",
+    "description": "face blowing a kiss"
+  },
+  "ചുംബനം": { "replacement": "💋", "description": "kiss mark" },
+  "വിശ്രമിച്ചു": { "replacement": "☺️", "description": "smiling face" },
+  "അടഞ്ഞ കണ്ണുകൾ ചുംബിക്കുന്നു": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "പുഞ്ചിരിക്കുന്ന കണ്ണുകളിൽ ചുംബനം": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "കണ്ണീരോടെ പുഞ്ചിരിക്കുന്ന മുഖം": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "yum": { "replacement": "😋", "description": "face savoring food" },
+  "നാവിൽ കുടുങ്ങി": { "replacement": "😛", "description": "face with tongue" },
+  "നാവ് കണ്ണുചിമ്മുന്നു": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "zany മുഖം": { "replacement": "🤪", "description": "zany face" },
+  "നാക്ക് പുറത്തേക്കിട്ട് കണ്ണുമടച്ച്": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "പണം വായ മുഖം": { "replacement": "🤑", "description": "money-mouth face" },
+  "ആലിംഗനം": { "replacement": "🤗", "description": "hugging face" },
+  "വായിൽ കൈമാറുക": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "മുഖം വിറക്കുന്നു": { "replacement": "🤫", "description": "shushing face" },
+  "ചിന്തിക്കുന്നതെന്ന്": {
+    "replacement": "🤔",
+    "description": "thinking face"
+  },
+  "സിപ്പർ വായ മുഖം": {
+    "replacement": "🤐",
+    "description": "zipper-mouth face"
+  },
+  "പുരികം ഉയർത്തി": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "നിഷ്പക്ഷ മുഖം": { "replacement": "😐", "description": "neutral face" },
+  "പ്രകടനരഹിതം": { "replacement": "😑", "description": "expressionless face" },
+  "വായ ഇല്ല": { "replacement": "😶", "description": "face without mouth" },
+  "ഉപയോഗിക്കാത്ത": { "replacement": "😒", "description": "unamused face" },
+  "കണ്ണുരുട്ടുക": {
+    "replacement": "🙄",
+    "description": "face with rolling eyes"
+  },
+  "കഠിനത": { "replacement": "😬", "description": "grimacing face" },
+  "കിടക്കുന്ന മുഖം": { "replacement": "🤥", "description": "lying face" },
+  "ആശ്വാസം": { "replacement": "😌", "description": "relieved face" },
+  "പെൻസീവ്": { "replacement": "😔", "description": "pensive face" },
+  "ഉറക്കം": { "replacement": "😪", "description": "sleepy face" },
+  "മുഖം വീഴുന്നു": { "replacement": "🤤", "description": "drooling face" },
+  "ഉറങ്ങുന്നു": { "replacement": "😴", "description": "sleeping face" },
+  "മാസ്ക്": { "replacement": "😷", "description": "face with medical mask" },
+  "തെർമോമീറ്ററുള്ള മുഖം": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "തല തലപ്പാവു ഉപയോഗിച്ച് മുഖം": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "ഓക്കാനം നിറഞ്ഞ മുഖം": {
+    "replacement": "🤢",
+    "description": "nauseated face"
+  },
+  "മുഖം ഛർദ്ദിക്കുന്നു": {
+    "replacement": "🤮",
+    "description": "face vomiting"
+  },
+  "തുമ്മൽ മുഖം": { "replacement": "🤧", "description": "sneezing face" },
+  "ചൂടുള്ള മുഖം": { "replacement": "🥵", "description": "hot face" },
+  "തണുത്ത മുഖം": { "replacement": "🥶", "description": "cold face" },
+  "കമ്പിളി മുഖം": { "replacement": "🥴", "description": "woozy face" },
+  "തലകറങ്ങുന്ന മുഖം": { "replacement": "😵", "description": "dizzy face" },
+  "പൊട്ടിത്തെറിക്കുന്ന തല": {
+    "replacement": "🤯",
+    "description": "exploding head"
+  },
+  "കൗബോയ് തൊപ്പി മുഖം": {
+    "replacement": "🤠",
+    "description": "cowboy hat face"
+  },
+  "പാർട്ടി മുഖം": { "replacement": "🥳", "description": "partying face" },
+  "വേഷംമാറിയ മുഖം": { "replacement": "🥸", "description": "disguised face" },
+  "സൺഗ്ലാസുകൾ": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "വൃത്തികെട്ട മുഖം": { "replacement": "🤓", "description": "nerd face" },
+  "മോണോക്കിൾ മുഖം": { "replacement": "🧐", "description": "face with monocle" },
+  "ആശയക്കുഴപ്പം": { "replacement": "😕", "description": "confused face" },
+  "വിഷമിക്കുന്നു": { "replacement": "😟", "description": "worried face" },
+  "ചെറുതായി മുഖം ചുളിക്കുന്ന മുഖം": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "മുഖം ചുളിക്കുന്നു": { "replacement": "🙎", "description": "person pouting" },
+  "വായ തുറക്കുക": {
+    "replacement": "😮",
+    "description": "face with open mouth"
+  },
+  "വലിച്ചെറിഞ്ഞു": { "replacement": "😯", "description": "hushed face" },
+  "ആശ്ചര്യപ്പെട്ടു": { "replacement": "😲", "description": "astonished face" },
+  "ഫ്ലഷ് ചെയ്തു": { "replacement": "😳", "description": "flushed face" },
+  "അപേക്ഷിക്കുന്ന മുഖം": {
+    "replacement": "🥺",
+    "description": "pleading face"
+  },
+  "വേദനിച്ചു": { "replacement": "😧", "description": "anguished face" },
+  "ഭയം": { "replacement": "😨", "description": "fearful face" },
+  "തണുത്ത വിയർപ്പ്": {
+    "replacement": "😰",
+    "description": "anxious face with sweat"
+  },
+  "നിരാശാജനകമായ ആശ്വാസം": {
+    "replacement": "😥",
+    "description": "sad but relieved face"
+  },
+  "കരയുക": { "replacement": "😢", "description": "crying face" },
+  "sob": { "replacement": "😭", "description": "loudly crying face" },
+  "നിലവിളി": { "replacement": "😱", "description": "face screaming in fear" },
+  "ആശയക്കുഴപ്പത്തിലായി": {
+    "replacement": "😖",
+    "description": "confounded face"
+  },
+  "സ്ഥിരോത്സാഹം": { "replacement": "😣", "description": "persevering face" },
+  "നിരാശനായി": { "replacement": "😞", "description": "disappointed face" },
+  "വിയർപ്പ്": {
+    "replacement": "😓",
+    "description": "downcast face with sweat"
+  },
+  "ക്ഷീണിതനാണ്": { "replacement": "😩", "description": "weary face" },
+  "ക്ഷീണിച്ച മുഖം": { "replacement": "😫", "description": "tired face" },
+  "അലറുന്ന മുഖം": { "replacement": "🥱", "description": "yawning face" },
+  "വിജയം": { "replacement": "😤", "description": "face with steam from nose" },
+  "ക്രോധം": { "replacement": "😡", "description": "pouting face" },
+  "ദേഷ്യം": { "replacement": "😠", "description": "angry face" },
+  "ശപിക്കുന്ന മുഖം": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "പുഞ്ചിരിക്കുന്ന imp": {
+    "replacement": "😈",
+    "description": "smiling face with horns"
+  },
+  "imp": { "replacement": "👿", "description": "angry face with horns" },
+  "തലയോട്ടി": { "replacement": "💀", "description": "skull" },
+  "തലയോട്ടി ആൻഡ് crossbones": {
+    "replacement": "☠️",
+    "description": "skull and crossbones"
+  },
+  "ഹാൻകി": { "replacement": "💩", "description": "pile of poo" },
+  "കോമാളി മുഖം": { "replacement": "🤡", "description": "clown face" },
+  "ജാപ്പനീസ് ogre": { "replacement": "👹", "description": "ogre" },
+  "ജാപ്പനീസ് ഗോബ്ലിൻ": { "replacement": "👺", "description": "goblin" },
+  "പ്രേതം": { "replacement": "👻", "description": "ghost" },
+  "അന്യഗ്രഹ": { "replacement": "👽", "description": "alien" },
+  "ബഹിരാകാശ ആക്രമണകാരി": {
+    "replacement": "👾",
+    "description": "alien monster"
+  },
+  "റോബോട്ട്": { "replacement": "🤖", "description": "robot" },
+  "സ്മൈലി പൂച്ച": { "replacement": "😺", "description": "grinning cat" },
+  "പുഞ്ചിരി പൂച്ച": {
+    "replacement": "😼",
+    "description": "cat with wry smile"
+  },
+  "സന്തോഷ പൂച്ച": {
+    "replacement": "😹",
+    "description": "cat with tears of joy"
+  },
+  "ഹൃദയ കണ്ണുകൾ പൂച്ച": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "ചുംബിക്കുന്ന പൂച്ച": { "replacement": "😽", "description": "kissing cat" },
+  "നിലവിളി പൂച്ച": { "replacement": "🙀", "description": "weary cat" },
+  "കരയുന്ന പൂച്ച മുഖം": { "replacement": "😿", "description": "crying cat" },
+  "പൂച്ച പൂച്ച": { "replacement": "😾", "description": "pouting cat" },
+  "തിന്മ കാണരുത്": { "replacement": "🙈", "description": "see-no-evil monkey" },
+  "തിന്മ കേൾക്കരുത്": {
+    "replacement": "🙉",
+    "description": "hear-no-evil monkey"
+  },
+  "തിന്മ പറയരുത്": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "പ്രണയ ലേഖനം": { "replacement": "💌", "description": "love letter" },
+  "കവിഡ്": { "replacement": "💘", "description": "heart with arrow" },
+  "സമ്മാനം ഹൃദയം": { "replacement": "💝", "description": "heart with ribbon" },
+  "തിളങ്ങുന്ന ഹൃദയം": { "replacement": "💖", "description": "sparkling heart" },
+  "ഹൃദയമിടിപ്പ്": { "replacement": "💓", "description": "beating heart" },
+  "കറങ്ങുന്ന ഹൃദയങ്ങൾ": {
+    "replacement": "💞",
+    "description": "revolving hearts"
+  },
+  "രണ്ട് ഹൃദയങ്ങൾ": { "replacement": "💕", "description": "two hearts" },
+  "ഹൃദയ അലങ്കാരം": { "replacement": "💟", "description": "heart decoration" },
+  "കനത്ത ഹൃദയ ആശ്ചര്യ": {
+    "replacement": "❣️",
+    "description": "heart exclamation"
+  },
+  "തകർന്ന ഹൃദയം": { "replacement": "💔", "description": "broken heart" },
+  "ഹൃദയം": { "replacement": "❤️", "description": "red heart" },
+  "ഓറഞ്ച് ഹൃദയം": { "replacement": "🧡", "description": "orange heart" },
+  "മഞ്ഞ ഹൃദയം": { "replacement": "💛", "description": "yellow heart" },
+  "പച്ച ഹൃദയം": { "replacement": "💚", "description": "green heart" },
+  "നീല ഹൃദയം": { "replacement": "💙", "description": "blue heart" },
+  "പർപ്പിൾ ഹൃദയം": { "replacement": "💜", "description": "purple heart" },
+  "തവിട്ട് ഹൃദയം": { "replacement": "🤎", "description": "brown heart" },
+  "കറുത്ത ഹൃദയം": { "replacement": "🖤", "description": "black heart" },
+  "വെളുത്ത ഹൃദയം": { "replacement": "🤍", "description": "white heart" },
+  "കോപം": { "replacement": "💢", "description": "anger symbol" },
+  "കുതിച്ചുചാട്ടം": { "replacement": "💥", "description": "collision" },
+  "തലകറക്കം": { "replacement": "💫", "description": "dizzy" },
+  "വിയർപ്പ് തുള്ളികൾ": { "replacement": "💦", "description": "sweat droplets" },
+  "ഡാഷ്": { "replacement": "💨", "description": "dashing away" },
+  "ദ്വാരം": { "replacement": "🕳️", "description": "hole" },
+  "ബോംബ്": { "replacement": "💣", "description": "bomb" },
+  "സ്പീച്ച് ബലൂൺ": { "replacement": "💬", "description": "speech balloon" },
+  "കണ്ണ് സംഭാഷണ ബബിൾ": {
+    "replacement": "👁️‍🗨️",
+    "description": "eye in speech bubble"
+  },
+  "ഇടത് സംഭാഷണ ബബിൾ": {
+    "replacement": "🗨️",
+    "description": "left speech bubble"
+  },
+  "വലത് കോപം ബബിൾ": {
+    "replacement": "🗯️",
+    "description": "right anger bubble"
+  },
+  "ബലൂൺ ചിന്തിച്ചു": { "replacement": "💭", "description": "thought balloon" },
+  "zzz": { "replacement": "💤", "description": "zzz" },
+  "തരംഗം": { "replacement": "👋", "description": "waving hand" },
+  "കൈയുടെ പിന്നിലേക്ക് ഉയർത്തി": {
+    "replacement": "🤚",
+    "description": "raised back of hand"
+  },
+  "വിരലുകൾ കൊണ്ട് കൈ ഉയർത്തി": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "കൈ": { "replacement": "✋", "description": "raised hand" },
+  "വൾക്കൺ സല്യൂട്ട്": { "replacement": "🖖", "description": "vulcan salute" },
+  "ശരി കൈ": { "replacement": "👌", "description": "OK hand" },
+  "നുള്ളിയ വിരലുകൾ": { "replacement": "🤌", "description": "pinched fingers" },
+  "കൈ നുള്ളുന്നു": { "replacement": "🤏", "description": "pinching hand" },
+  "v": { "replacement": "✌️", "description": "victory hand" },
+  "വിരലുകൾ മറികടന്നു": {
+    "replacement": "🤞",
+    "description": "crossed fingers"
+  },
+  "ലവ് യു ജെസ്റ്റർ": { "replacement": "🤟", "description": "love-you gesture" },
+  "ലോഹം": { "replacement": "🤘", "description": "sign of the horns" },
+  "എന്നെ കൈ വിളിക്കൂ": { "replacement": "🤙", "description": "call me hand" },
+  "പോയിന്റ് ഇടത്": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "പോയിന്റ് വലത്തേക്ക്": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "പോയിന്റ് 2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "നടുവിരൽ": { "replacement": "🖕", "description": "middle finger" },
+  "താഴേക്ക് പോയിന്റ് ചെയ്യുക": {
+    "replacement": "👇",
+    "description": "backhand index pointing down"
+  },
+  "ചൂണ്ടിക്കാണിക്കുക": {
+    "replacement": "☝️",
+    "description": "index pointing up"
+  },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "മുഷ്ടി ഉയർത്തി": { "replacement": "✊", "description": "raised fist" },
+  "മുഷ്ടി വരുന്നു": { "replacement": "👊", "description": "oncoming fist" },
+  "മുഷ്ടി ഇടത്": { "replacement": "🤛", "description": "left-facing fist" },
+  "മുഷ്ടി വലത്": { "replacement": "🤜", "description": "right-facing fist" },
+  "കയ്യടി": { "replacement": "👏", "description": "clapping hands" },
+  "കൈകൾ ഉയർത്തി": { "replacement": "🙌", "description": "raising hands" },
+  "കൈകൾ തുറക്കുക": { "replacement": "👐", "description": "open hands" },
+  "ഈന്തപ്പനകൾ ഒരുമിച്ച്": {
+    "replacement": "🤲",
+    "description": "palms up together"
+  },
+  "ഹാൻ‌ഡ്‌ഷേക്ക്": { "replacement": "🤝", "description": "handshake" },
+  "പ്രാർത്ഥിക്കുക": { "replacement": "🙏", "description": "folded hands" },
+  "എഴുത്ത് കൈ": { "replacement": "✍️", "description": "writing hand" },
+  "നഖ സംരക്ഷണം": { "replacement": "💅", "description": "nail polish" },
+  "സെൽഫി": { "replacement": "🤳", "description": "selfie" },
+  "മാംസപേശി": { "replacement": "💪", "description": "flexed biceps" },
+  "മെക്കാനിക്കൽ ഭുജം": { "replacement": "🦾", "description": "mechanical arm" },
+  "മെക്കാനിക്കൽ ലെഗ്": { "replacement": "🦿", "description": "mechanical leg" },
+  "കാല്": { "replacement": "🦵", "description": "leg" },
+  "കാൽ": { "replacement": "🦶", "description": "foot" },
+  "ചെവി": { "replacement": "👂", "description": "ear" },
+  "ശ്രവണസഹായി ഉപയോഗിച്ച് ചെവി": {
+    "replacement": "🦻",
+    "description": "ear with hearing aid"
+  },
+  "മൂക്ക്": { "replacement": "👃", "description": "nose" },
+  "തലച്ചോറ്": { "replacement": "🧠", "description": "brain" },
+  "ശരീരഘടന": { "replacement": "🫀", "description": "anatomical heart" },
+  "ശ്വാസകോശം": { "replacement": "🫁", "description": "lungs" },
+  "പല്ല്": { "replacement": "🦷", "description": "tooth" },
+  "അസ്ഥി": { "replacement": "🦴", "description": "bone" },
+  "കണ്ണുകൾ": { "replacement": "👀", "description": "eyes" },
+  "കണ്ണ്": { "replacement": "👁️", "description": "eye" },
+  "നാവ്": { "replacement": "👅", "description": "tongue" },
+  "അധരങ്ങൾ": { "replacement": "👄", "description": "mouth" },
+  "കുഞ്ഞ്": { "replacement": "👶", "description": "baby" },
+  "കുട്ടി": { "replacement": "🧒", "description": "child" },
+  "പയ്യൻ": { "replacement": "👦", "description": "boy" },
+  "പെൺകുട്ടി": { "replacement": "👧", "description": "girl" },
+  "മുതിർന്നവർ": { "replacement": "🧑", "description": "person" },
+  "സുന്ദരമായ മുടിയുള്ള വ്യക്തി": {
+    "replacement": "👱",
+    "description": "person: blond hair"
+  },
+  "മനുഷ്യൻ": { "replacement": "👨", "description": "man" },
+  "താടിയുള്ള വ്യക്തി": { "replacement": "🧔", "description": "man: beard" },
+  "ചുവന്ന മുടിയുള്ള മനുഷ്യൻ": {
+    "replacement": "👨‍🦰",
+    "description": "man: red hair"
+  },
+  "ചുരുണ്ട മുടിയുള്ള മനുഷ്യൻ": {
+    "replacement": "👨‍🦱",
+    "description": "man: curly hair"
+  },
+  "വെളുത്ത മുടിയുള്ള മനുഷ്യൻ": {
+    "replacement": "👨‍🦳",
+    "description": "man: white hair"
+  },
+  "കഷണ്ടിയായ മനുഷ്യൻ": { "replacement": "👨‍🦲", "description": "man: bald" },
+  "സ്ത്രീ": { "replacement": "👩", "description": "woman" },
+  "ചുവന്ന മുടിയുള്ള സ്ത്രീ": {
+    "replacement": "👩‍🦰",
+    "description": "woman: red hair"
+  },
+  "വ്യക്തി ചുവന്ന മുടി": {
+    "replacement": "🧑‍🦰",
+    "description": "person: red hair"
+  },
+  "ചുരുണ്ട മുടിയുള്ള സ്ത്രീ": {
+    "replacement": "👩‍🦱",
+    "description": "woman: curly hair"
+  },
+  "വ്യക്തി ചുരുണ്ട മുടി": {
+    "replacement": "🧑‍🦱",
+    "description": "person: curly hair"
+  },
+  "വെളുത്ത മുടിയുള്ള സ്ത്രീ": {
+    "replacement": "👩‍🦳",
+    "description": "woman: white hair"
+  },
+  "വ്യക്തി വെളുത്ത മുടി": {
+    "replacement": "🧑‍🦳",
+    "description": "person: white hair"
+  },
+  "കഷണ്ടിയായ സ്ത്രീ": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "കഷണ്ടിയായ വ്യക്തി": {
+    "replacement": "🧑‍🦲",
+    "description": "person: bald"
+  },
+  "സുന്ദരമായ മുടിയുള്ള സ്ത്രീ": {
+    "replacement": "👱‍♀️",
+    "description": "woman: blond hair"
+  },
+  "സുന്ദരമായ മുടിയുള്ള മനുഷ്യൻ": {
+    "replacement": "👱‍♂️",
+    "description": "man: blond hair"
+  },
+  "പ്രായപൂർത്തിയായവർ": { "replacement": "🧓", "description": "older person" },
+  "മൂത്ത മനുഷ്യൻ": { "replacement": "👴", "description": "old man" },
+  "പ്രായമായ സ്ത്രീ": { "replacement": "👵", "description": "old woman" },
+  "മുഖം ചുളിക്കുന്ന വ്യക്തി": {
+    "replacement": "🙍",
+    "description": "person frowning"
+  },
+  "മുഖം ചുളിക്കുന്ന മനുഷ്യൻ": {
+    "replacement": "🙍‍♂️",
+    "description": "man frowning"
+  },
+  "മുഖം ചുളിക്കുന്ന സ്ത്രീ": {
+    "replacement": "🙍‍♀️",
+    "description": "woman frowning"
+  },
+  "മനുഷ്യനെ ചൂഷണം ചെയ്യുന്നു": {
+    "replacement": "🙎‍♂️",
+    "description": "man pouting"
+  },
+  "സ്ത്രീയെ ചൂഷണം ചെയ്യുന്നു": {
+    "replacement": "🙎‍♀️",
+    "description": "woman pouting"
+  },
+  "നല്ലതല്ല": { "replacement": "🙅", "description": "person gesturing NO" },
+  "നല്ല മനുഷ്യൻ ഇല്ല": {
+    "replacement": "🙅‍♂️",
+    "description": "man gesturing NO"
+  },
+  "നല്ല സ്ത്രീ ഇല്ല": {
+    "replacement": "🙅‍♀️",
+    "description": "woman gesturing NO"
+  },
+  "ശരി വ്യക്തി": { "replacement": "🙆", "description": "person gesturing OK" },
+  "ശരി മനുഷ്യൻ": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "ശരി സ്ത്രീ": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "ടിപ്പിംഗ് ഹാൻഡ് പേഴ്‌സൺ": {
+    "replacement": "💁",
+    "description": "person tipping hand"
+  },
+  "ടിപ്പിംഗ് ഹാൻഡ് മാൻ": {
+    "replacement": "💁‍♂️",
+    "description": "man tipping hand"
+  },
+  "കൈ സ്ത്രീ": { "replacement": "💁‍♀️", "description": "woman tipping hand" },
+  "കൈ ഉയർത്തുന്നു": {
+    "replacement": "🙋",
+    "description": "person raising hand"
+  },
+  "കൈ ഉയർത്തുന്ന മനുഷ്യൻ": {
+    "replacement": "🙋‍♂️",
+    "description": "man raising hand"
+  },
+  "കൈ സ്ത്രീയെ വളർത്തുന്നു": {
+    "replacement": "🙋‍♀️",
+    "description": "woman raising hand"
+  },
+  "ബധിര വ്യക്തി": { "replacement": "🧏", "description": "deaf person" },
+  "ബധിരനായ മനുഷ്യൻ": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "ബധിര സ്ത്രീ": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "വില്ലു": { "replacement": "🙇", "description": "person bowing" },
+  "കുനിയുന്ന മനുഷ്യൻ": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "കുമ്പിടുന്ന സ്ത്രീ": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "ഫെയ്‌സ് പാം": { "replacement": "🤦", "description": "person facepalming" },
+  "മനുഷ്യൻ ഫെയ്‌സ് പാൽമിംഗ്": {
+    "replacement": "🤦‍♂️",
+    "description": "man facepalming"
+  },
+  "സ്ത്രീ ഫെയ്‌സ് പാൽമിംഗ്": {
+    "replacement": "🤦‍♀️",
+    "description": "woman facepalming"
+  },
+  "ചുരുക്കുക": { "replacement": "🤷", "description": "person shrugging" },
+  "മനുഷ്യൻ ചുരുങ്ങുന്നു": {
+    "replacement": "🤷‍♂️",
+    "description": "man shrugging"
+  },
+  "സ്ത്രീ കുലുക്കുന്നു": {
+    "replacement": "🤷‍♀️",
+    "description": "woman shrugging"
+  },
+  "ആരോഗ്യ പ്രവർത്തകൻ": {
+    "replacement": "🧑‍⚕️",
+    "description": "health worker"
+  },
+  "മനുഷ്യ ആരോഗ്യ പ്രവർത്തകൻ": {
+    "replacement": "👨‍⚕️",
+    "description": "man health worker"
+  },
+  "വനിതാ ആരോഗ്യ പ്രവർത്തകൻ": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "വിദ്യാർത്ഥി": { "replacement": "🧑‍🎓", "description": "student" },
+  "മാൻ വിദ്യാർത്ഥി": { "replacement": "👨‍🎓", "description": "man student" },
+  "വനിതാ വിദ്യാർത്ഥിനി": {
+    "replacement": "👩‍🎓",
+    "description": "woman student"
+  },
+  "അധ്യാപകൻ": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "മാൻ ടീച്ചർ": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "വനിതാ അധ്യാപിക": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "ന്യായാധിപൻ": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "വനിതാ വിധികർത്താവ്": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "കർഷകൻ": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "മനുഷ്യ കൃഷിക്കാരൻ": { "replacement": "👨‍🌾", "description": "man farmer" },
+  "സ്ത്രീ കർഷകൻ": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "വേവിക്കുക": { "replacement": "🧑‍🍳", "description": "cook" },
+  "മനുഷ്യൻ പാചകം": { "replacement": "👨‍🍳", "description": "man cook" },
+  "സ്ത്രീ പാചകക്കാരി": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "മെക്കാനിക്ക്": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "മാൻ മെക്കാനിക്ക്": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "വനിതാ മെക്കാനിക്ക്": {
+    "replacement": "👩‍🔧",
+    "description": "woman mechanic"
+  },
+  "ഫാക്ടറി തൊഴിലാളി": {
+    "replacement": "🧑‍🏭",
+    "description": "factory worker"
+  },
+  "മാൻ ഫാക്ടറി തൊഴിലാളി": {
+    "replacement": "👨‍🏭",
+    "description": "man factory worker"
+  },
+  "വനിതാ ഫാക്ടറി തൊഴിലാളി": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "ഓഫീസ് ജീവനക്കാരൻ": {
+    "replacement": "🧑‍💼",
+    "description": "office worker"
+  },
+  "മാൻ ഓഫീസ് വർക്കർ": {
+    "replacement": "👨‍💼",
+    "description": "man office worker"
+  },
+  "വനിതാ ഓഫീസ് ജീവനക്കാരി": {
+    "replacement": "👩‍💼",
+    "description": "woman office worker"
+  },
+  "ശാസ്ത്രജ്ഞൻ": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "മനുഷ്യ ശാസ്ത്രജ്ഞൻ": { "replacement": "👨‍🔬", "description": "man scientist" },
+  "വനിതാ ശാസ്ത്രജ്ഞൻ": {
+    "replacement": "👩‍🔬",
+    "description": "woman scientist"
+  },
+  "സാങ്കേതിക വിദഗ്ധൻ": {
+    "replacement": "🧑‍💻",
+    "description": "technologist"
+  },
+  "മാൻ ടെക്നോളജിസ്റ്റ്": {
+    "replacement": "👨‍💻",
+    "description": "man technologist"
+  },
+  "വനിതാ സാങ്കേതിക വിദഗ്ധൻ": {
+    "replacement": "👩‍💻",
+    "description": "woman technologist"
+  },
+  "ഗായകൻ": { "replacement": "🧑‍🎤", "description": "singer" },
+  "മാൻ ഗായകൻ": { "replacement": "👨‍🎤", "description": "man singer" },
+  "വനിതാ ഗായിക": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "ആർട്ടിസ്റ്റ്": { "replacement": "🧑‍🎨", "description": "artist" },
+  "മാൻ ആർട്ടിസ്റ്റ്": { "replacement": "👨‍🎨", "description": "man artist" },
+  "വനിതാ ആർട്ടിസ്റ്റ്": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "പൈലറ്റ്": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "മാൻ പൈലറ്റ്": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "വനിതാ പൈലറ്റ്": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "ബഹിരാകാശയാത്രികൻ": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "മനുഷ്യൻ ബഹിരാകാശയാത്രികൻ": {
+    "replacement": "👨‍🚀",
+    "description": "man astronaut"
+  },
+  "സ്ത്രീ ബഹിരാകാശയാത്രികൻ": {
+    "replacement": "👩‍🚀",
+    "description": "woman astronaut"
+  },
+  "അഗ്നിശമന സേന": { "replacement": "🧑‍🚒", "description": "firefighter" },
+  "മനുഷ്യ അഗ്നിശമന സേന": {
+    "replacement": "👨‍🚒",
+    "description": "man firefighter"
+  },
+  "വനിതാ അഗ്നിശമന സേന": {
+    "replacement": "👩‍🚒",
+    "description": "woman firefighter"
+  },
+  "പോലീസ് ഉദ്യോഗസ്ഥന്": {
+    "replacement": "👮",
+    "description": "police officer"
+  },
+  "പോലീസുകാരൻ": { "replacement": "👮‍♂️", "description": "man police officer" },
+  "പോലീസ് വനിത": { "replacement": "👮‍♀️", "description": "woman police officer" },
+  "ഡിറ്റക്ടീവ്": { "replacement": "🕵️", "description": "detective" },
+  "പുരുഷ ഡിറ്റക്ടീവ്": { "replacement": "🕵️‍♂️", "description": "man detective" },
+  "പെൺ ഡിറ്റക്ടീവ്": { "replacement": "🕵️‍♀️", "description": "woman detective" },
+  "കാവൽ": { "replacement": "⌚", "description": "watch" },
+  "കാവൽക്കാരൻ": { "replacement": "💂‍♂️", "description": "man guard" },
+  "കാവൽക്കാരി": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "നിൻജ": { "replacement": "🥷", "description": "ninja" },
+  "നിർമ്മാണത്തൊഴിലാളി": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "നിർമ്മാണത്തൊഴിലാളി സ്ത്രീ": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "രാജകുമാരൻ": { "replacement": "🤴", "description": "prince" },
+  "രാജകുമാരി": { "replacement": "👸", "description": "princess" },
+  "തലപ്പാവ് ഉള്ള വ്യക്തി": {
+    "replacement": "👳",
+    "description": "person wearing turban"
+  },
+  "തലപ്പാവ് ഉള്ള മനുഷ്യൻ": {
+    "replacement": "👳‍♂️",
+    "description": "man wearing turban"
+  },
+  "തലപ്പാവ് ധരിച്ച സ്ത്രീ": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "മാൻ വിത്ത് ഗുവ പൈ മാവോ": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "ശിരോവസ്ത്രം ധരിച്ച സ്ത്രീ": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "ടക്സീഡോയിലെ വ്യക്തി": {
+    "replacement": "🤵",
+    "description": "person in tuxedo"
+  },
+  "ടക്സീഡോയിലെ മനുഷ്യൻ": {
+    "replacement": "🤵‍♂️",
+    "description": "man in tuxedo"
+  },
+  "ടക്സീഡോയിലെ സ്ത്രീ": {
+    "replacement": "🤵‍♀️",
+    "description": "woman in tuxedo"
+  },
+  "മൂടുപടം ഉള്ള വ്യക്തി": {
+    "replacement": "👰",
+    "description": "person with veil"
+  },
+  "മൂടുപടം ഉള്ള മനുഷ്യൻ": {
+    "replacement": "👰‍♂️",
+    "description": "man with veil"
+  },
+  "മൂടുപടം ഉള്ള സ്ത്രീ": {
+    "replacement": "👰‍♀️",
+    "description": "woman with veil"
+  },
+  "ഗര്ഭിണിയായ സ്ത്രീ": { "replacement": "🤰", "description": "pregnant woman" },
+  "മുലയൂട്ടൽ": { "replacement": "🤱", "description": "breast-feeding" },
+  "സ്ത്രീ കുഞ്ഞിനെ പോറ്റുന്നു": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "മനുഷ്യൻ കുഞ്ഞിനെ പോറ്റുന്നു": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "കുഞ്ഞിനെ പോറ്റുന്ന വ്യക്തി": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "മാലാഖ": { "replacement": "👼", "description": "baby angel" },
+  "സാന്ത": { "replacement": "🎅", "description": "Santa Claus" },
+  "mrs ക്ലോസ്": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "mx ക്ലോസ്": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "സൂപ്പർഹീറോ": { "replacement": "🦸", "description": "superhero" },
+  "സൂപ്പർഹീറോ മനുഷ്യൻ": { "replacement": "🦸‍♂️", "description": "man superhero" },
+  "സൂപ്പർഹീറോ സ്ത്രീ": {
+    "replacement": "🦸‍♀️",
+    "description": "woman superhero"
+  },
+  "സൂപ്പർവൈലിൻ": { "replacement": "🦹", "description": "supervillain" },
+  "സൂപ്പർവൈലിൻ മനുഷ്യൻ": {
+    "replacement": "🦹‍♂️",
+    "description": "man supervillain"
+  },
+  "സൂപ്പർവൈലിൻ സ്ത്രീ": {
+    "replacement": "🦹‍♀️",
+    "description": "woman supervillain"
+  },
+  "mage": { "replacement": "🧙", "description": "mage" },
+  "mage man": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "mage സ്ത്രീ": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "ഫെയറി": { "replacement": "🧚", "description": "fairy" },
+  "ഫെയറി മാൻ": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "ഫെയറി സ്ത്രീ": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "വാമ്പയർ": { "replacement": "🧛", "description": "vampire" },
+  "വാമ്പയർ മാൻ": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "വാമ്പയർ സ്ത്രീ": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "മെർപേഴ്സൺ": { "replacement": "🧜", "description": "merperson" },
+  "മെർമൻ": { "replacement": "🧜‍♂️", "description": "merman" },
+  "മെർമെയ്ഡ്": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "elf": { "replacement": "🧝", "description": "elf" },
+  "elf man": { "replacement": "🧝‍♂️", "description": "man elf" },
+  "elf സ്ത്രീ": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "ജീനി": { "replacement": "🧞", "description": "genie" },
+  "genie man": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "ജീനി സ്ത്രീ": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "സോംബി": { "replacement": "🧟", "description": "zombie" },
+  "സോംബി മാൻ": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "സോംബി സ്ത്രീ": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "മസാജ് ചെയ്യുക": {
+    "replacement": "💆",
+    "description": "person getting massage"
+  },
+  "മസാജ് മാൻ": { "replacement": "💆‍♂️", "description": "man getting massage" },
+  "മസാജ് സ്ത്രീ": {
+    "replacement": "💆‍♀️",
+    "description": "woman getting massage"
+  },
+  "മുടിവെട്ട്": {
+    "replacement": "💇",
+    "description": "person getting haircut"
+  },
+  "ഹെയർകട്ട് മനുഷ്യൻ": {
+    "replacement": "💇‍♂️",
+    "description": "man getting haircut"
+  },
+  "ഹെയർകട്ട് സ്ത്രീ": {
+    "replacement": "💇‍♀️",
+    "description": "woman getting haircut"
+  },
+  "നടത്തം": { "replacement": "🚶", "description": "person walking" },
+  "നടക്കുന്ന മനുഷ്യൻ": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "നടക്കുന്ന സ്ത്രീ": { "replacement": "🚶‍♀️", "description": "woman walking" },
+  "നിൽക്കുന്ന വ്യക്തി": {
+    "replacement": "🧍",
+    "description": "person standing"
+  },
+  "നിൽക്കുന്ന മനുഷ്യൻ": {
+    "replacement": "🧍‍♂️",
+    "description": "man standing"
+  },
+  "നിൽക്കുന്ന സ്ത്രീ": {
+    "replacement": "🧍‍♀️",
+    "description": "woman standing"
+  },
+  "മുട്ടുകുത്തിയ വ്യക്തി": {
+    "replacement": "🧎",
+    "description": "person kneeling"
+  },
+  "മുട്ടുകുത്തിയ മനുഷ്യൻ": {
+    "replacement": "🧎‍♂️",
+    "description": "man kneeling"
+  },
+  "മുട്ടുകുത്തിയ സ്ത്രീ": {
+    "replacement": "🧎‍♀️",
+    "description": "woman kneeling"
+  },
+  "ചൂരൽ അന്വേഷിക്കുന്ന വ്യക്തി": {
+    "replacement": "🧑‍🦯",
+    "description": "person with white cane"
+  },
+  "ചൂരൽ അന്വേഷിക്കുന്ന മനുഷ്യൻ": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "ചൂരൽ അന്വേഷിക്കുന്ന സ്ത്രീ": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "മോട്ടോർ വീൽചെയറിലുള്ള വ്യക്തി": {
+    "replacement": "🧑‍🦼",
+    "description": "person in motorized wheelchair"
+  },
+  "മോട്ടോർ വീൽചെയറിൽ മനുഷ്യൻ": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "മോട്ടോർ വീൽചെയറിലുള്ള സ്ത്രീ": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "മാനുവൽ വീൽചെയറിലുള്ള വ്യക്തി": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "മാനുവൽ വീൽചെയറിൽ മനുഷ്യൻ": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "മാനുവൽ വീൽചെയറിലുള്ള സ്ത്രീ": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "റണ്ണർ": { "replacement": "🏃", "description": "person running" },
+  "ഓടുന്നയാൾ": { "replacement": "🏃‍♂️", "description": "man running" },
+  "ഓടുന്ന സ്ത്രീ": { "replacement": "🏃‍♀️", "description": "woman running" },
+  "സ്ത്രീ നൃത്തം": { "replacement": "💃", "description": "woman dancing" },
+  "മനുഷ്യൻ നൃത്തം ചെയ്യുന്നു": {
+    "replacement": "🕺",
+    "description": "man dancing"
+  },
+  "ബിസിനസ്സ് സ്യൂട്ട് ലെവിറ്റിംഗ്": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "നർത്തകർ": { "replacement": "👯", "description": "people with bunny ears" },
+  "നൃത്തം ചെയ്യുന്ന പുരുഷന്മാർ": {
+    "replacement": "👯‍♂️",
+    "description": "men with bunny ears"
+  },
+  "നൃത്തം ചെയ്യുന്ന സ്ത്രീകൾ": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "sauna വ്യക്തി": {
+    "replacement": "🧖",
+    "description": "person in steamy room"
+  },
+  "sauna man": { "replacement": "🧖‍♂️", "description": "man in steamy room" },
+  "sauna സ്ത്രീ": {
+    "replacement": "🧖‍♀️",
+    "description": "woman in steamy room"
+  },
+  "മലകയറ്റം": { "replacement": "🧗", "description": "person climbing" },
+  "കയറുന്ന മനുഷ്യൻ": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "കയറുന്ന സ്ത്രീ": { "replacement": "🧗‍♀️", "description": "woman climbing" },
+  "വ്യക്തി ഫെൻസിംഗ്": { "replacement": "🤺", "description": "person fencing" },
+  "കുതിര പന്തയം": { "replacement": "🏇", "description": "horse racing" },
+  "സ്കയർ": { "replacement": "⛷️", "description": "skier" },
+  "സ്നോബോർഡർ": { "replacement": "🏂", "description": "snowboarder" },
+  "ഗോൾഫിംഗ്": { "replacement": "🏌️", "description": "person golfing" },
+  "ഗോൾഫിംഗ് മാൻ": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "ഗോൾഫിംഗ് സ്ത്രീ": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "സർഫർ": { "replacement": "🏄", "description": "person surfing" },
+  "സർഫിംഗ് മാൻ": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "സർഫിംഗ് സ്ത്രീ": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "റോ ബോട്ട്": { "replacement": "🚣", "description": "person rowing boat" },
+  "റോയിംഗ് മാൻ": { "replacement": "🚣‍♂️", "description": "man rowing boat" },
+  "റോയിംഗ് സ്ത്രീ": { "replacement": "🚣‍♀️", "description": "woman rowing boat" },
+  "നീന്തൽ": { "replacement": "🏊", "description": "person swimming" },
+  "നീന്തൽ മനുഷ്യൻ": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "നീന്തൽ സ്ത്രീ": { "replacement": "🏊‍♀️", "description": "woman swimming" },
+  "ബോൾ വ്യക്തിയെ കുതിക്കുന്നു": {
+    "replacement": "⛹️",
+    "description": "person bouncing ball"
+  },
+  "ബോൾ മാൻ": { "replacement": "⛹️‍♂️", "description": "man bouncing ball" },
+  "ബോൾ വുമൺ": { "replacement": "⛹️‍♀️", "description": "woman bouncing ball" },
+  "ഭാരദ്വഹനം": { "replacement": "🏋️", "description": "person lifting weights" },
+  "ഭാരോദ്വഹനം മനുഷ്യൻ": {
+    "replacement": "🏋️‍♂️",
+    "description": "man lifting weights"
+  },
+  "ഭാരോദ്വഹന സ്ത്രീ": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "സൈക്കിൾ സവാരി": { "replacement": "🚴", "description": "person biking" },
+  "ബൈക്കിംഗ് മനുഷ്യൻ": { "replacement": "🚴‍♂️", "description": "man biking" },
+  "ബൈക്കിംഗ് സ്ത്രീ": { "replacement": "🚴‍♀️", "description": "woman biking" },
+  "പർവത സൈക്കിൾ യാത്രക്കാരൻ": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "മൗണ്ടൻ ബൈക്കിംഗ് മനുഷ്യൻ": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "മൗണ്ടൻ ബൈക്കിംഗ് സ്ത്രീ": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "കാർട്ട് വീലിംഗ്": {
+    "replacement": "🤸",
+    "description": "person cartwheeling"
+  },
+  "മനുഷ്യൻ കാർട്ട് വീലിംഗ്": {
+    "replacement": "🤸‍♂️",
+    "description": "man cartwheeling"
+  },
+  "സ്ത്രീ കാർട്ട് വീലിംഗ്": {
+    "replacement": "🤸‍♀️",
+    "description": "woman cartwheeling"
+  },
+  "ഗുസ്തി": { "replacement": "🤼", "description": "people wrestling" },
+  "പുരുഷ ഗുസ്തി": { "replacement": "🤼‍♂️", "description": "men wrestling" },
+  "സ്ത്രീകൾ ഗുസ്തി": { "replacement": "🤼‍♀️", "description": "women wrestling" },
+  "വാട്ടർ പോളോ": {
+    "replacement": "🤽",
+    "description": "person playing water polo"
+  },
+  "മനുഷ്യൻ വാട്ടർ പോളോ കളിക്കുന്നു": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "വാട്ടർ പോളോ കളിക്കുന്ന സ്ത്രീ": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "ഹാൻഡ്‌ബോൾ വ്യക്തി": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "മനുഷ്യൻ ഹാൻഡ്‌ബോൾ കളിക്കുന്നു": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "ഹാൻഡ്‌ബോൾ കളിക്കുന്ന സ്ത്രീ": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "തന്ത്രപ്രധാനമായ വ്യക്തി": {
+    "replacement": "🤹",
+    "description": "person juggling"
+  },
+  "മനുഷ്യൻ തമാശ": { "replacement": "🤹‍♂️", "description": "man juggling" },
+  "സ്ത്രീ തമാശ": { "replacement": "🤹‍♀️", "description": "woman juggling" },
+  "താമര സ്ഥാനം": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "താമര സ്ഥാനം മനുഷ്യൻ": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "താമര സ്ഥാനം സ്ത്രീ": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "കുളി": { "replacement": "🛀", "description": "person taking bath" },
+  "ഉറങ്ങുന്ന കിടക്ക": { "replacement": "🛌", "description": "person in bed" },
+  "കൈകോർത്ത ആളുകൾ": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "രണ്ട് സ്ത്രീകൾ കൈ പിടിക്കുന്നു": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "ദമ്പതികൾ": {
+    "replacement": "👫",
+    "description": "woman and man holding hands"
+  },
+  "രണ്ടുപേർ കൈ പിടിക്കുന്നു": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "കപ്പിൾകിസ്": { "replacement": "💏", "description": "kiss" },
+  "couplekiss പുരുഷ സ്ത്രീ": {
+    "replacement": "👩‍❤️‍💋‍👨",
+    "description": "kiss: woman, man"
+  },
+  "couplekiss man man": {
+    "replacement": "👨‍❤️‍💋‍👨",
+    "description": "kiss: man, man"
+  },
+  "couplekiss സ്ത്രീ സ്ത്രീ": {
+    "replacement": "👩‍❤️‍💋‍👩",
+    "description": "kiss: woman, woman"
+  },
+  "ഹൃദയമുള്ള ദമ്പതികൾ": {
+    "replacement": "💑",
+    "description": "couple with heart"
+  },
+  "ഹൃദയമുള്ള സ്ത്രീ പുരുഷനുമായി": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "ഹൃദയം ഉള്ള മനുഷ്യൻ": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "ഹൃദയ സ്ത്രീ സ്ത്രീയുമായി ദമ്പതികൾ": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "കുടുംബം": { "replacement": "👪", "description": "family" },
+  "ഫാമിലി മാൻ സ്ത്രീ കുട്ടി": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "ഫാമിലി മാൻ സ്ത്രീ പെൺകുട്ടി": {
+    "replacement": "👨‍👩‍👧‍👦",
+    "description": "family: man, woman, girl, boy"
+  },
+  "ഫാമിലി മാൻ സ്ത്രീ ബോയ് ബോയ്": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "family man woman girl girl": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "ഫാമിലി മാൻ മാൻ ബോയ്": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "ഫാമിലി മാൻ മാൻ പെൺകുട്ടി": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "ഫാമിലി മാൻ പെൺകുട്ടി": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "ഫാമിലി മാൻ മാൻ ബോയ് ബോയ്": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "കുടുംബ സ്ത്രീ പെൺകുട്ടി": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "കുടുംബ സ്ത്രീ സ്ത്രീ പെൺകുട്ടി": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "കുടുംബ വനിത പെൺകുട്ടി": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "കുടുംബ സ്ത്രീ സ്ത്രീ ആൺകുട്ടി": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "ഫാമിലി മാൻ ബോയ്": { "replacement": "👨‍👦", "description": "family: man, boy" },
+  "ഫാമിലി മാൻ ബോയ് ബോയ്": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "കുടുംബ പെൺകുട്ടി": {
+    "replacement": "👩‍👦",
+    "description": "family: woman, boy"
+  },
+  "ഫാമിലി വുമൺ ബോയ് ബോയ്": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "സംസാരിക്കുന്ന തല": { "replacement": "🗣️", "description": "speaking head" },
+  "സിലൗറ്റിൽ തകർക്കുക": {
+    "replacement": "👤",
+    "description": "bust in silhouette"
+  },
+  "സിലൗറ്റിലെ ബസ്റ്റുകൾ": {
+    "replacement": "👥",
+    "description": "busts in silhouette"
+  },
+  "ആളുകൾ കെട്ടിപ്പിടിക്കുന്നു": {
+    "replacement": "🫂",
+    "description": "people hugging"
+  },
+  "കാൽപ്പാടുകൾ": { "replacement": "👣", "description": "footprints" },
+  "കുരങ്ങന്റെ മുഖം": { "replacement": "🐵", "description": "monkey face" },
+  "കുരങ്ങൻ": { "replacement": "🐒", "description": "monkey" },
+  "ഗോറില്ല": { "replacement": "🦍", "description": "gorilla" },
+  "ഒറംഗുട്ടാൻ": { "replacement": "🦧", "description": "orangutan" },
+  "നായ": { "replacement": "🐶", "description": "dog face" },
+  "dog2": { "replacement": "🐕", "description": "dog" },
+  "ഗൈഡ് നായ": { "replacement": "🦮", "description": "guide dog" },
+  "സർവീസ് ഡോഗ്": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "പൂഡിൽ": { "replacement": "🐩", "description": "poodle" },
+  "ചെന്നായ": { "replacement": "🐺", "description": "wolf" },
+  "കുറുക്കൻ മുഖം": { "replacement": "🦊", "description": "fox" },
+  "റാക്കൂൺ": { "replacement": "🦝", "description": "raccoon" },
+  "പൂച്ച": { "replacement": "🐱", "description": "cat face" },
+  "cat2": { "replacement": "🐈", "description": "cat" },
+  "കറുത്ത പൂച്ച": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "സിംഹം": { "replacement": "🦁", "description": "lion" },
+  "കടുവ": { "replacement": "🐯", "description": "tiger face" },
+  "കടുവ 2": { "replacement": "🐅", "description": "tiger" },
+  "പുള്ളിപ്പുലി": { "replacement": "🐆", "description": "leopard" },
+  "കുതിര": { "replacement": "🐴", "description": "horse face" },
+  "റേസ്‌ഹോഴ്‌സ്": { "replacement": "🐎", "description": "horse" },
+  "യൂണികോൺ": { "replacement": "🦄", "description": "unicorn" },
+  "സീബ്ര": { "replacement": "🦓", "description": "zebra" },
+  "മാൻ": { "replacement": "🦌", "description": "deer" },
+  "കാട്ടുപോത്ത്": { "replacement": "🦬", "description": "bison" },
+  "പശു": { "replacement": "🐮", "description": "cow face" },
+  "കാള": { "replacement": "🐂", "description": "ox" },
+  "എരുമ": { "replacement": "🐃", "description": "water buffalo" },
+  "cow2": { "replacement": "🐄", "description": "cow" },
+  "പന്നി": { "replacement": "🐗", "description": "boar" },
+  "pig2": { "replacement": "🐖", "description": "pig" },
+  "പന്നി മൂക്ക്": { "replacement": "🐽", "description": "pig nose" },
+  "RAM": { "replacement": "🐏", "description": "ram" },
+  "ആടുകൾ": { "replacement": "🐑", "description": "ewe" },
+  "ആട്": { "replacement": "🐐", "description": "goat" },
+  "ഡ്രോമെഡറി ഒട്ടകം": { "replacement": "🐪", "description": "camel" },
+  "ഒട്ടകം": { "replacement": "🐫", "description": "two-hump camel" },
+  "ലാമ": { "replacement": "🦙", "description": "llama" },
+  "ജിറാഫ്": { "replacement": "🦒", "description": "giraffe" },
+  "ആന": { "replacement": "🐘", "description": "elephant" },
+  "മാമോത്ത്": { "replacement": "🦣", "description": "mammoth" },
+  "കാണ്ടാമൃഗം": { "replacement": "🦏", "description": "rhinoceros" },
+  "ഹിപ്പോപ്പൊട്ടാമസ്": { "replacement": "🦛", "description": "hippopotamus" },
+  "മൗസ്": { "replacement": "🐭", "description": "mouse face" },
+  "മൗസ് 2": { "replacement": "🐁", "description": "mouse" },
+  "എലി": { "replacement": "🐀", "description": "rat" },
+  "എലിച്ചക്രം": { "replacement": "🐹", "description": "hamster" },
+  "മുയൽ": { "replacement": "🐰", "description": "rabbit face" },
+  "മുയൽ 2": { "replacement": "🐇", "description": "rabbit" },
+  "ചിപ്മങ്ക്": { "replacement": "🐿️", "description": "chipmunk" },
+  "ബീവർ": { "replacement": "🦫", "description": "beaver" },
+  "മുള്ളന്പന്നി": { "replacement": "🦔", "description": "hedgehog" },
+  "ബാറ്റ്": { "replacement": "🦇", "description": "bat" },
+  "കരടി": { "replacement": "🐻", "description": "bear" },
+  "ധ്രുവക്കരടി": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "കോല": { "replacement": "🐨", "description": "koala" },
+  "പാണ്ട മുഖം": { "replacement": "🐼", "description": "panda" },
+  "മടി": { "replacement": "🦥", "description": "sloth" },
+  "ഒട്ടർ": { "replacement": "🦦", "description": "otter" },
+  "സ്കങ്ക്": { "replacement": "🦨", "description": "skunk" },
+  "കംഗാരു": { "replacement": "🦘", "description": "kangaroo" },
+  "ബാഡ്ജർ": { "replacement": "🦡", "description": "badger" },
+  "പാദം": { "replacement": "🐾", "description": "paw prints" },
+  "ടർക്കി": { "replacement": "🦃", "description": "turkey" },
+  "കോഴി": { "replacement": "🐔", "description": "chicken" },
+  "കോഴി": { "replacement": "🐓", "description": "rooster" },
+  "വിരിയിക്കുന്ന ചിക്ക്": {
+    "replacement": "🐣",
+    "description": "hatching chick"
+  },
+  "കുഞ്ഞ് കുഞ്ഞ്": { "replacement": "🐤", "description": "baby chick" },
+  "വിരിഞ്ഞ കുഞ്ഞ്": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "പക്ഷി": { "replacement": "🐦", "description": "bird" },
+  "പെന്ഗിന് പക്ഷി": { "replacement": "🐧", "description": "penguin" },
+  "പ്രാവ്": { "replacement": "🕊️", "description": "dove" },
+  "കഴുകൻ": { "replacement": "🦅", "description": "eagle" },
+  "ഡക്ക്": { "replacement": "🦆", "description": "duck" },
+  "സ്വാൻ": { "replacement": "🦢", "description": "swan" },
+  "മൂങ്ങ": { "replacement": "🦉", "description": "owl" },
+  "ഡോഡോ": { "replacement": "🦤", "description": "dodo" },
+  "തൂവൽ": { "replacement": "🪶", "description": "feather" },
+  "അരയന്നം": { "replacement": "🦩", "description": "flamingo" },
+  "മയിൽ": { "replacement": "🦚", "description": "peacock" },
+  "കിളി": { "replacement": "🦜", "description": "parrot" },
+  "തവള": { "replacement": "🐸", "description": "frog" },
+  "മുതല": { "replacement": "🐊", "description": "crocodile" },
+  "ആമ": { "replacement": "🐢", "description": "turtle" },
+  "പല്ലി": { "replacement": "🦎", "description": "lizard" },
+  "പാമ്പ്": { "replacement": "🐍", "description": "snake" },
+  "ഡ്രാഗൺ മുഖം": { "replacement": "🐲", "description": "dragon face" },
+  "ഡ്രാഗൺ": { "replacement": "🐉", "description": "dragon" },
+  "സ u രോപോഡ്": { "replacement": "🦕", "description": "sauropod" },
+  "ടി-റെക്സ്": { "replacement": "🦖", "description": "T-Rex" },
+  "തിമിംഗലം": { "replacement": "🐳", "description": "spouting whale" },
+  "തിമിംഗലം 2": { "replacement": "🐋", "description": "whale" },
+  "ഡോൾഫിൻ": { "replacement": "🐬", "description": "dolphin" },
+  "മുദ്ര": { "replacement": "🦭", "description": "seal" },
+  "മത്സ്യം": { "replacement": "🐟", "description": "fish" },
+  "ഉഷ്ണമേഖലാ മത്സ്യം": { "replacement": "🐠", "description": "tropical fish" },
+  "blow തി മത്സ്യം": { "replacement": "🐡", "description": "blowfish" },
+  "സ്രാവ്": { "replacement": "🦈", "description": "shark" },
+  "നീരാളി": { "replacement": "🐙", "description": "octopus" },
+  "ഷെൽ": { "replacement": "🐚", "description": "spiral shell" },
+  "ഒച്ച": { "replacement": "🐌", "description": "snail" },
+  "ചിത്രശലഭം": { "replacement": "🦋", "description": "butterfly" },
+  "ബഗ്": { "replacement": "🐛", "description": "bug" },
+  "ഉറുമ്പ്": { "replacement": "🐜", "description": "ant" },
+  "തേനീച്ച": { "replacement": "🐝", "description": "honeybee" },
+  "വണ്ട്": { "replacement": "🪲", "description": "beetle" },
+  "ലേഡി വണ്ട്": { "replacement": "🐞", "description": "lady beetle" },
+  "ക്രിക്കറ്റ്": { "replacement": "🦗", "description": "cricket" },
+  "പാറ്റ": { "replacement": "🪳", "description": "cockroach" },
+  "ചിലന്തി": { "replacement": "🕷️", "description": "spider" },
+  "ചിലന്തിവല": { "replacement": "🕸️", "description": "spider web" },
+  "തേൾ": { "replacement": "🦂", "description": "scorpion" },
+  "കൊതുക്": { "replacement": "🦟", "description": "mosquito" },
+  "പറക്കുക": { "replacement": "🪰", "description": "fly" },
+  "വിര": { "replacement": "🪱", "description": "worm" },
+  "സൂക്ഷ്മാണുക്കൾ": { "replacement": "🦠", "description": "microbe" },
+  "പൂച്ചെണ്ട്": { "replacement": "💐", "description": "bouquet" },
+  "ചെറി പുഷ്പം": { "replacement": "🌸", "description": "cherry blossom" },
+  "വെളുത്ത പുഷ്പം": { "replacement": "💮", "description": "white flower" },
+  "റോസെറ്റ്": { "replacement": "🏵️", "description": "rosette" },
+  "റോസ്": { "replacement": "🌹", "description": "rose" },
+  "വാടിപ്പോയ പുഷ്പം": { "replacement": "🥀", "description": "wilted flower" },
+  "ചെമ്പരുത്തി": { "replacement": "🌺", "description": "hibiscus" },
+  "സൂര്യകാന്തി": { "replacement": "🌻", "description": "sunflower" },
+  "പുഷ്പം": { "replacement": "🌼", "description": "blossom" },
+  "തുലിപ്": { "replacement": "🌷", "description": "tulip" },
+  "തൈകൾ": { "replacement": "🌱", "description": "seedling" },
+  "പോട്ടിംഗ് പ്ലാന്റ്": { "replacement": "🪴", "description": "potted plant" },
+  "നിത്യഹരിത മരം": { "replacement": "🌲", "description": "evergreen tree" },
+  "ഇലപൊഴിയും മരം": { "replacement": "🌳", "description": "deciduous tree" },
+  "ഈന്തപ്പന": { "replacement": "🌴", "description": "palm tree" },
+  "കള്ളിച്ചെടി": { "replacement": "🌵", "description": "cactus" },
+  "അരിയുടെ ചെവി": { "replacement": "🌾", "description": "sheaf of rice" },
+  "സസ്യം": { "replacement": "🌿", "description": "herb" },
+  "ഷാംറോക്ക്": { "replacement": "☘️", "description": "shamrock" },
+  "നാല് ഇല ക്ലോവർ": { "replacement": "🍀", "description": "four leaf clover" },
+  "മേപ്പിള് ഇല": { "replacement": "🍁", "description": "maple leaf" },
+  "വീണുപോയ ഇല": { "replacement": "🍂", "description": "fallen leaf" },
+  "ഇലകൾ": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "മുന്തിരി": { "replacement": "🍇", "description": "grapes" },
+  "മത്തങ്ങ": { "replacement": "🍈", "description": "melon" },
+  "തണ്ണിമത്തൻ": { "replacement": "🍉", "description": "watermelon" },
+  "ടാംഗറിൻ": { "replacement": "🍊", "description": "tangerine" },
+  "ചെറുനാരങ്ങ": { "replacement": "🍋", "description": "lemon" },
+  "വാഴപ്പഴം": { "replacement": "🍌", "description": "banana" },
+  "കൈതച്ചക്ക": { "replacement": "🍍", "description": "pineapple" },
+  "മാമ്പഴം": { "replacement": "🥭", "description": "mango" },
+  "ആപ്പിൾ": { "replacement": "🍎", "description": "red apple" },
+  "പച്ച ആപ്പിൾ": { "replacement": "🍏", "description": "green apple" },
+  "പിയർ": { "replacement": "🍐", "description": "pear" },
+  "പീച്ച്": { "replacement": "🍑", "description": "peach" },
+  "ചെറി": { "replacement": "🍒", "description": "cherries" },
+  "സ്ട്രോബെറി": { "replacement": "🍓", "description": "strawberry" },
+  "ബ്ലൂബെറി": { "replacement": "🫐", "description": "blueberries" },
+  "കിവി പഴം": { "replacement": "🥝", "description": "kiwi fruit" },
+  "തക്കാളി": { "replacement": "🍅", "description": "tomato" },
+  "ഒലിവ്": { "replacement": "🫒", "description": "olive" },
+  "നാളികേരം": { "replacement": "🥥", "description": "coconut" },
+  "അവോക്കാഡോ": { "replacement": "🥑", "description": "avocado" },
+  "എഗ്പ്ലാന്റ്": { "replacement": "🍆", "description": "eggplant" },
+  "ഉരുളക്കിഴങ്ങ്": { "replacement": "🥔", "description": "potato" },
+  "കാരറ്റ്": { "replacement": "🥕", "description": "carrot" },
+  "ചോളം": { "replacement": "🌽", "description": "ear of corn" },
+  "ചൂടുള്ള കുരുമുളക്": { "replacement": "🌶️", "description": "hot pepper" },
+  "മണി കുരുമുളക്": { "replacement": "🫑", "description": "bell pepper" },
+  "വെള്ളരിക്ക": { "replacement": "🥒", "description": "cucumber" },
+  "ഇലക്കറികൾ": { "replacement": "🥬", "description": "leafy green" },
+  "ബ്രോക്കോളി": { "replacement": "🥦", "description": "broccoli" },
+  "വെളുത്തുള്ളി": { "replacement": "🧄", "description": "garlic" },
+  "ഉള്ളി": { "replacement": "🧅", "description": "onion" },
+  "കൂണ്": { "replacement": "🍄", "description": "mushroom" },
+  "നിലക്കടല": { "replacement": "🥜", "description": "peanuts" },
+  "ചെസ്റ്റ്നട്ട്": { "replacement": "🌰", "description": "chestnut" },
+  "റൊട്ടി": { "replacement": "🍞", "description": "bread" },
+  "ക്രോസന്റ്": { "replacement": "🥐", "description": "croissant" },
+  "ബാഗെറ്റ് ബ്രെഡ്": { "replacement": "🥖", "description": "baguette bread" },
+  "ഫ്ലാറ്റ്ബ്രെഡ്": { "replacement": "🫓", "description": "flatbread" },
+  "പ്രിറ്റ്സെൽ": { "replacement": "🥨", "description": "pretzel" },
+  "ബാഗൽ": { "replacement": "🥯", "description": "bagel" },
+  "പാൻകേക്കുകൾ": { "replacement": "🥞", "description": "pancakes" },
+  "വാഫിൾ": { "replacement": "🧇", "description": "waffle" },
+  "ചീസ്": { "replacement": "🧀", "description": "cheese wedge" },
+  "അസ്ഥിയിൽ മാംസം": { "replacement": "🍖", "description": "meat on bone" },
+  "കോഴി ലെഗ്": { "replacement": "🍗", "description": "poultry leg" },
+  "മാംസം മുറിക്കുക": { "replacement": "🥩", "description": "cut of meat" },
+  "ഉപ്പിട്ടുണക്കിയ മാംസം": { "replacement": "🥓", "description": "bacon" },
+  "ഹാംബർഗർ": { "replacement": "🍔", "description": "hamburger" },
+  "ഫ്രൈ": { "replacement": "🍟", "description": "french fries" },
+  "പിസ്സ": { "replacement": "🍕", "description": "pizza" },
+  "ഹോട്ട് ഡോഗ്": { "replacement": "🌭", "description": "hot dog" },
+  "സാന്ഡ്വിച്ച്": { "replacement": "🥪", "description": "sandwich" },
+  "ടാക്കോ": { "replacement": "🌮", "description": "taco" },
+  "ബുറിറ്റോ": { "replacement": "🌯", "description": "burrito" },
+  "തമലെ": { "replacement": "🫔", "description": "tamale" },
+  "സ്റ്റഫ് ചെയ്ത ഫ്ലാറ്റ്ബ്രെഡ്": {
+    "replacement": "🥙",
+    "description": "stuffed flatbread"
+  },
+  "ഫലാഫൽ": { "replacement": "🧆", "description": "falafel" },
+  "മുട്ട": { "replacement": "🥚", "description": "egg" },
+  "വറുത്ത മുട്ട": { "replacement": "🍳", "description": "cooking" },
+  "ആഴം കുറഞ്ഞ ഭക്ഷണം": {
+    "replacement": "🥘",
+    "description": "shallow pan of food"
+  },
+  "പായസം": { "replacement": "🍲", "description": "pot of food" },
+  "fondue": { "replacement": "🫕", "description": "fondue" },
+  "സ്പൂൺ ഉപയോഗിച്ച് പാത്രം": {
+    "replacement": "🥣",
+    "description": "bowl with spoon"
+  },
+  "പച്ച സാലഡ്": { "replacement": "🥗", "description": "green salad" },
+  "പോപ്പ്കോൺ": { "replacement": "🍿", "description": "popcorn" },
+  "വെണ്ണ": { "replacement": "🧈", "description": "butter" },
+  "ഉപ്പ്": { "replacement": "🧂", "description": "salt" },
+  "ടിന്നിലടച്ച ഭക്ഷണം": { "replacement": "🥫", "description": "canned food" },
+  "ബെന്റോ": { "replacement": "🍱", "description": "bento box" },
+  "അരി പടക്കം": { "replacement": "🍘", "description": "rice cracker" },
+  "അരിയുണ്ട": { "replacement": "🍙", "description": "rice ball" },
+  "അരി": { "replacement": "🍚", "description": "cooked rice" },
+  "കറി": { "replacement": "🍛", "description": "curry rice" },
+  "രാമൻ": { "replacement": "🍜", "description": "steaming bowl" },
+  "സ്പാഗെട്ടി": { "replacement": "🍝", "description": "spaghetti" },
+  "മധുരക്കിഴങ്ങ്": {
+    "replacement": "🍠",
+    "description": "roasted sweet potato"
+  },
+  "ഓഡൻ": { "replacement": "🍢", "description": "oden" },
+  "സുഷി": { "replacement": "🍣", "description": "sushi" },
+  "വറുത്ത ചെമ്മീൻ": { "replacement": "🍤", "description": "fried shrimp" },
+  "ഫിഷ് കേക്ക്": { "replacement": "🍥", "description": "fish cake with swirl" },
+  "ചന്ദ്രൻ കേക്ക്": { "replacement": "🥮", "description": "moon cake" },
+  "ഡാങ്കോ": { "replacement": "🍡", "description": "dango" },
+  "പറഞ്ഞല്ലോ": { "replacement": "🥟", "description": "dumpling" },
+  "ഭാഗ്യ കുക്കി": { "replacement": "🥠", "description": "fortune cookie" },
+  "ടേക്ക് out ട്ട് ബോക്സ്": {
+    "replacement": "🥡",
+    "description": "takeout box"
+  },
+  "ഞണ്ട്": { "replacement": "🦀", "description": "crab" },
+  "വലിയ ചെമ്മീൻ": { "replacement": "🦞", "description": "lobster" },
+  "ചെമ്മീൻ": { "replacement": "🦐", "description": "shrimp" },
+  "കണവ": { "replacement": "🦑", "description": "squid" },
+  "മുത്തുചിപ്പി": { "replacement": "🦪", "description": "oyster" },
+  "ഐസ്ക്രീം": { "replacement": "🍨", "description": "ice cream" },
+  "ഷേവ് ചെയ്ത ഐസ്": { "replacement": "🍧", "description": "shaved ice" },
+  "ഡോണട്ട്": { "replacement": "🍩", "description": "doughnut" },
+  "കുക്കി": { "replacement": "🍪", "description": "cookie" },
+  "ജന്മദിനം": { "replacement": "🎂", "description": "birthday cake" },
+  "കേക്ക്": { "replacement": "🍰", "description": "shortcake" },
+  "കപ്പ് കേക്ക്": { "replacement": "🧁", "description": "cupcake" },
+  "പൈ": { "replacement": "🥧", "description": "pie" },
+  "ചോക്കലേറ്റ് ബാർ": { "replacement": "🍫", "description": "chocolate bar" },
+  "മിഠായി": { "replacement": "🍬", "description": "candy" },
+  "ലോലിപോപ്പ്": { "replacement": "🍭", "description": "lollipop" },
+  "കസ്റ്റാർഡ്": { "replacement": "🍮", "description": "custard" },
+  "തേൻ കലം": { "replacement": "🍯", "description": "honey pot" },
+  "പാൽകുപ്പി": { "replacement": "🍼", "description": "baby bottle" },
+  "പാൽ ഗ്ലാസ്": { "replacement": "🥛", "description": "glass of milk" },
+  "കോഫി": { "replacement": "☕", "description": "hot beverage" },
+  "ചായകോപ്പ": { "replacement": "🫖", "description": "teapot" },
+  "ചായ": { "replacement": "🍵", "description": "teacup without handle" },
+  "നിമിത്തം": { "replacement": "🍶", "description": "sake" },
+  "ഷാംപെയിൻ": {
+    "replacement": "🍾",
+    "description": "bottle with popping cork"
+  },
+  "വീഞ്ഞു ഗ്ലാസ്": { "replacement": "🍷", "description": "wine glass" },
+  "കോക്ടെയ്ൽ": { "replacement": "🍸", "description": "cocktail glass" },
+  "ഉഷ്ണമേഖലാ പാനീയം": { "replacement": "🍹", "description": "tropical drink" },
+  "ബിയർ": { "replacement": "🍺", "description": "beer mug" },
+  "ബിയറുകൾ": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "ക്ലിങ്കിംഗ് ഗ്ലാസുകൾ": {
+    "replacement": "🥂",
+    "description": "clinking glasses"
+  },
+  "ടംബ്ലർ ഗ്ലാസ്": { "replacement": "🥃", "description": "tumbler glass" },
+  "വൈക്കോൽ ഉപയോഗിച്ച് കപ്പ്": {
+    "replacement": "🥤",
+    "description": "cup with straw"
+  },
+  "ബബിൾ ടീ": { "replacement": "🧋", "description": "bubble tea" },
+  "പാനീയ ബോക്സ്": { "replacement": "🧃", "description": "beverage box" },
+  "ഇണയെ": { "replacement": "🧉", "description": "mate" },
+  "ഐസുകട്ട": { "replacement": "🧊", "description": "ice" },
+  "ചോപ്സ്റ്റിക്കുകൾ": { "replacement": "🥢", "description": "chopsticks" },
+  "കട്ട്ലറിയുള്ള പ്ലേറ്റ്": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "നാൽക്കവലയും കത്തിയും": {
+    "replacement": "🍴",
+    "description": "fork and knife"
+  },
+  "കരണ്ടി": { "replacement": "🥄", "description": "spoon" },
+  "ഹോച്ചോ": { "replacement": "🔪", "description": "kitchen knife" },
+  "ആംഫോറ": { "replacement": "🏺", "description": "amphora" },
+  "എർത്ത് ആഫ്രിക്ക": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "എർത്ത് അമേരിക്കകൾ": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "എർത്ത് ഏഷ്യ": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "മെറിഡിയൻ‌സുള്ള ഗ്ലോബ്": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "ലോക ഭൂപടം": { "replacement": "🗺️", "description": "world map" },
+  "ജപ്പാൻ": { "replacement": "🗾", "description": "map of Japan" },
+  "കോമ്പസ്": { "replacement": "🧭", "description": "compass" },
+  "പർവ്വത മഞ്ഞ്": {
+    "replacement": "🏔️",
+    "description": "snow-capped mountain"
+  },
+  "പർവ്വതം": { "replacement": "⛰️", "description": "mountain" },
+  "അഗ്നിപർവ്വതം": { "replacement": "🌋", "description": "volcano" },
+  "ഫ്യൂജി മ mount ണ്ട് ചെയ്യുക": {
+    "replacement": "🗻",
+    "description": "mount fuji"
+  },
+  "ക്യാമ്പിംഗ്": { "replacement": "🏕️", "description": "camping" },
+  "ബീച്ച് കുട": { "replacement": "🏖️", "description": "beach with umbrella" },
+  "ഏകാന്ത": { "replacement": "🏜️", "description": "desert" },
+  "മരു ദ്വീപ്": { "replacement": "🏝️", "description": "desert island" },
+  "ദേശിയ ഉദ്യാനം": { "replacement": "🏞️", "description": "national park" },
+  "സ്റ്റേഡിയം": { "replacement": "🏟️", "description": "stadium" },
+  "ക്ലാസിക്കൽ കെട്ടിടം": {
+    "replacement": "🏛️",
+    "description": "classical building"
+  },
+  "കെട്ടിട നിർമ്മാണം": {
+    "replacement": "🏗️",
+    "description": "building construction"
+  },
+  "ഇഷ്ടികകൾ": { "replacement": "🧱", "description": "brick" },
+  "പാറ": { "replacement": "🪨", "description": "rock" },
+  "മരം": { "replacement": "🪵", "description": "wood" },
+  "കുടിലുകൾ": { "replacement": "🛖", "description": "hut" },
+  "വീടുകൾ": { "replacement": "🏘️", "description": "houses" },
+  "ഒഴിവാക്കിയ വീട്": { "replacement": "🏚️", "description": "derelict house" },
+  "വീട്": { "replacement": "🏠", "description": "house" },
+  "പൂന്തോട്ടമുള്ള വീട്": {
+    "replacement": "🏡",
+    "description": "house with garden"
+  },
+  "ഓഫീസ്": { "replacement": "🏢", "description": "office building" },
+  "പോസ്റ്റ് ഓഫീസ്": {
+    "replacement": "🏣",
+    "description": "Japanese post office"
+  },
+  "യൂറോപ്യൻ പോസ്റ്റോഫീസ്": {
+    "replacement": "🏤",
+    "description": "post office"
+  },
+  "ആശുപത്രി": { "replacement": "🏥", "description": "hospital" },
+  "ബാങ്ക്": { "replacement": "🏦", "description": "bank" },
+  "ഹോട്ടൽ": { "replacement": "🏨", "description": "hotel" },
+  "ലവ് ഹോട്ടൽ": { "replacement": "🏩", "description": "love hotel" },
+  "കൺവീനിയൻസ് സ്റ്റോർ": {
+    "replacement": "🏪",
+    "description": "convenience store"
+  },
+  "സ്കൂൾ": { "replacement": "🏫", "description": "school" },
+  "ഡിപ്പാർട്ട്‌മെന്റ് സ്റ്റോർ": {
+    "replacement": "🏬",
+    "description": "department store"
+  },
+  "ഫാക്ടറി": { "replacement": "🏭", "description": "factory" },
+  "ജാപ്പനീസ് കോട്ട": { "replacement": "🏯", "description": "Japanese castle" },
+  "യൂറോപ്യൻ കോട്ട": { "replacement": "🏰", "description": "castle" },
+  "കല്യാണം": { "replacement": "💒", "description": "wedding" },
+  "ടോക്കിയോ ടവർ": { "replacement": "🗼", "description": "Tokyo tower" },
+  "സ്വാതന്ത്ര്യ പ്രതിമ": {
+    "replacement": "🗽",
+    "description": "Statue of Liberty"
+  },
+  "ക്രിസ്ത്യൻ പള്ളി": { "replacement": "⛪", "description": "church" },
+  "മുസ്ലിം പള്ളി": { "replacement": "🕌", "description": "mosque" },
+  "ഹിന്ദു ക്ഷേത്രം": { "replacement": "🛕", "description": "hindu temple" },
+  "ജൂത പള്ളി": { "replacement": "🕍", "description": "synagogue" },
+  "ഷിന്റോ ദേവാലയം": { "replacement": "⛩️", "description": "shinto shrine" },
+  "kaaba": { "replacement": "🕋", "description": "kaaba" },
+  "ഉറവ": { "replacement": "⛲", "description": "fountain" },
+  "കൂടാരം": { "replacement": "⛺", "description": "tent" },
+  "മൂടൽമഞ്ഞ്": { "replacement": "🌫️", "description": "fog" },
+  "നക്ഷത്രങ്ങളുള്ള രാത്രി": {
+    "replacement": "🌃",
+    "description": "night with stars"
+  },
+  "നഗരദൃശ്യം": { "replacement": "🏙️", "description": "cityscape" },
+  "പർവതങ്ങളിൽ സൂര്യോദയം": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "സൂര്യോദയം": { "replacement": "🌅", "description": "sunrise" },
+  "നഗര സൂര്യാസ്തമയം": {
+    "replacement": "🌆",
+    "description": "cityscape at dusk"
+  },
+  "നഗരം സൂര്യോദയം": { "replacement": "🌇", "description": "sunset" },
+  "രാത്രി പാലം": { "replacement": "🌉", "description": "bridge at night" },
+  "ഹോട്ട്‌സ്‌പ്രിംഗുകൾ": { "replacement": "♨️", "description": "hot springs" },
+  "കറൗസൽ കുതിര": { "replacement": "🎠", "description": "carousel horse" },
+  "ഫെറിസ് വീൽ": { "replacement": "🎡", "description": "ferris wheel" },
+  "റോളർ കോസ്റ്റർ": { "replacement": "🎢", "description": "roller coaster" },
+  "ബാർബർ": { "replacement": "💈", "description": "barber pole" },
+  "സർക്കസ് കൂടാരം": { "replacement": "🎪", "description": "circus tent" },
+  "സ്റ്റീം ലോക്കോമോട്ടീവ്": {
+    "replacement": "🚂",
+    "description": "locomotive"
+  },
+  "റെയിൽവേ കാർ": { "replacement": "🚃", "description": "railway car" },
+  "ബുള്ളട്രെയിൻ വശം": {
+    "replacement": "🚄",
+    "description": "high-speed train"
+  },
+  "ബുള്ളട്രെയിൻ ഫ്രണ്ട്": {
+    "replacement": "🚅",
+    "description": "bullet train"
+  },
+  "ട്രെയിൻ 2": { "replacement": "🚆", "description": "train" },
+  "മെട്രോ": { "replacement": "🚇", "description": "metro" },
+  "ചെറിയ റെയിൽ സംവിധാനം": { "replacement": "🚈", "description": "light rail" },
+  "സ്റ്റേഷൻ": { "replacement": "🚉", "description": "station" },
+  "ട്രാം": { "replacement": "🚊", "description": "tram" },
+  "മോണോറെയിൽ": { "replacement": "🚝", "description": "monorail" },
+  "മൗണ്ടൻ റെയിൽവേ": { "replacement": "🚞", "description": "mountain railway" },
+  "ട്രെയിൻ": { "replacement": "🚋", "description": "tram car" },
+  "ബസ്": { "replacement": "🚌", "description": "bus" },
+  "വരുന്ന ബസ്": { "replacement": "🚍", "description": "oncoming bus" },
+  "ട്രോളിബസ്": { "replacement": "🚎", "description": "trolleybus" },
+  "മിനിബസ്": { "replacement": "🚐", "description": "minibus" },
+  "ആംബുലന്സ്": { "replacement": "🚑", "description": "ambulance" },
+  "ഫയർ എഞ്ചിൻ": { "replacement": "🚒", "description": "fire engine" },
+  "പോലീസ് കാർ": { "replacement": "🚓", "description": "police car" },
+  "വരുന്ന പോലീസ് കാർ": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "ടാക്സി": { "replacement": "🚕", "description": "taxi" },
+  "വരുന്ന ടാക്സി": { "replacement": "🚖", "description": "oncoming taxi" },
+  "കാർ": { "replacement": "🚗", "description": "automobile" },
+  "വരുന്ന ഓട്ടോമൊബൈൽ": {
+    "replacement": "🚘",
+    "description": "oncoming automobile"
+  },
+  "നീല കാർ": { "replacement": "🚙", "description": "sport utility vehicle" },
+  "പിക്കപ്പ് ട്രക്ക്": { "replacement": "🛻", "description": "pickup truck" },
+  "ട്രക്ക്": { "replacement": "🚚", "description": "delivery truck" },
+  "വ്യക്തമായ ലോറി": { "replacement": "🚛", "description": "articulated lorry" },
+  "ട്രാക്ടർ": { "replacement": "🚜", "description": "tractor" },
+  "റേസിംഗ് കാർ": { "replacement": "🏎️", "description": "racing car" },
+  "മോട്ടോർ സൈക്കിൾ": { "replacement": "🏍️", "description": "motorcycle" },
+  "മോട്ടോർ സ്കൂട്ടർ": { "replacement": "🛵", "description": "motor scooter" },
+  "മാനുവൽ വീൽചെയർ": { "replacement": "🦽", "description": "manual wheelchair" },
+  "മോട്ടോർ വീൽചെയർ": {
+    "replacement": "🦼",
+    "description": "motorized wheelchair"
+  },
+  "ഓട്ടോ റിക്ഷ": { "replacement": "🛺", "description": "auto rickshaw" },
+  "ബൈക്ക്": { "replacement": "🚲", "description": "bicycle" },
+  "കിക്ക് സ്കൂട്ടർ": { "replacement": "🛴", "description": "kick scooter" },
+  "സ്കേറ്റ്ബോർഡ്": { "replacement": "🛹", "description": "skateboard" },
+  "റോളർ സ്കേറ്റിംഗ്": { "replacement": "🛼", "description": "roller skate" },
+  "ബസ് സ്റ്റോപ്പ്": { "replacement": "🚏", "description": "bus stop" },
+  "മോട്ടോർവേ": { "replacement": "🛣️", "description": "motorway" },
+  "റെയിൽ‌വേ ട്രാക്ക്": { "replacement": "🛤️", "description": "railway track" },
+  "ഓയിൽ ഡ്രം": { "replacement": "🛢️", "description": "oil drum" },
+  "ഇന്ധന പമ്പ്": { "replacement": "⛽", "description": "fuel pump" },
+  "കറങ്ങുന്ന പ്രകാശം": {
+    "replacement": "🚨",
+    "description": "police car light"
+  },
+  "ട്രാഫിക് ലൈറ്റ്": {
+    "replacement": "🚥",
+    "description": "horizontal traffic light"
+  },
+  "ലംബ ട്രാഫിക് ലൈറ്റ്": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "അടയാളം നിർത്തുക": { "replacement": "🛑", "description": "stop sign" },
+  "നിർമ്മാണം": { "replacement": "🚧", "description": "construction" },
+  "ആങ്കർ": { "replacement": "⚓", "description": "anchor" },
+  "ബോട്ട്": { "replacement": "⛵", "description": "sailboat" },
+  "കാനോ": { "replacement": "🛶", "description": "canoe" },
+  "സ്പീഡ് ബോട്ട്": { "replacement": "🚤", "description": "speedboat" },
+  "പാസഞ്ചർ കപ്പൽ": { "replacement": "🛳️", "description": "passenger ship" },
+  "കടത്തുവള്ളം": { "replacement": "⛴️", "description": "ferry" },
+  "മോട്ടോർ ബോട്ട്": { "replacement": "🛥️", "description": "motor boat" },
+  "കപ്പൽ": { "replacement": "🚢", "description": "ship" },
+  "വിമാനം": { "replacement": "✈️", "description": "airplane" },
+  "ചെറിയ വിമാനം": { "replacement": "🛩️", "description": "small airplane" },
+  "ഫ്ലൈറ്റ് പുറപ്പെടൽ": {
+    "replacement": "🛫",
+    "description": "airplane departure"
+  },
+  "ഫ്ലൈറ്റ് വരവ്": { "replacement": "🛬", "description": "airplane arrival" },
+  "പാരച്യൂട്ട്": { "replacement": "🪂", "description": "parachute" },
+  "ഇരിപ്പിടം": { "replacement": "💺", "description": "seat" },
+  "ഹെലികോപ്റ്റർ": { "replacement": "🚁", "description": "helicopter" },
+  "സസ്പെൻഷൻ റെയിൽ‌വേ": {
+    "replacement": "🚟",
+    "description": "suspension railway"
+  },
+  "പർവത കേബിൾ വേ": { "replacement": "🚠", "description": "mountain cableway" },
+  "ഏരിയൽ‌ ട്രാം‌വേ": { "replacement": "🚡", "description": "aerial tramway" },
+  "കൃത്രിമ ഉപഗ്രഹം": { "replacement": "🛰️", "description": "satellite" },
+  "റോക്കറ്റ്": { "replacement": "🚀", "description": "rocket" },
+  "പറക്കും തളിക": { "replacement": "🛸", "description": "flying saucer" },
+  "ബെൽഹോപ്പ് മണി": { "replacement": "🛎️", "description": "bellhop bell" },
+  "ലഗേജ്": { "replacement": "🧳", "description": "luggage" },
+  "മണിക്കൂർഗ്ലാസ്": { "replacement": "⌛", "description": "hourglass done" },
+  "മണിക്കൂർഗ്ലാസ് ഒഴുകുന്ന മണൽ": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "അലാറം ക്ലോക്ക്": { "replacement": "⏰", "description": "alarm clock" },
+  "സ്റ്റോപ്പ് വാച്ച്": { "replacement": "⏱️", "description": "stopwatch" },
+  "ടൈമർ ക്ലോക്ക്": { "replacement": "⏲️", "description": "timer clock" },
+  "മാന്റൽ‌പീസ് ക്ലോക്ക്": {
+    "replacement": "🕰️",
+    "description": "mantelpiece clock"
+  },
+  "ക്ലോക്ക് 12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "ക്ലോക്ക് 1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "ക്ലോക്ക് 1": { "replacement": "🕐", "description": "one o’clock" },
+  "ക്ലോക്ക് 130": { "replacement": "🕜", "description": "one-thirty" },
+  "ക്ലോക്ക് 2": { "replacement": "🕑", "description": "two o’clock" },
+  "ക്ലോക്ക് 230": { "replacement": "🕝", "description": "two-thirty" },
+  "ക്ലോക്ക് 3": { "replacement": "🕒", "description": "three o’clock" },
+  "ക്ലോക്ക് 330": { "replacement": "🕞", "description": "three-thirty" },
+  "ക്ലോക്ക് 4": { "replacement": "🕓", "description": "four o’clock" },
+  "ക്ലോക്ക് 430": { "replacement": "🕟", "description": "four-thirty" },
+  "ക്ലോക്ക് 5": { "replacement": "🕔", "description": "five o’clock" },
+  "ക്ലോക്ക് 530": { "replacement": "🕠", "description": "five-thirty" },
+  "ക്ലോക്ക് 6": { "replacement": "🕕", "description": "six o’clock" },
+  "ക്ലോക്ക് 630": { "replacement": "🕡", "description": "six-thirty" },
+  "ഘടികാരം 7": { "replacement": "🕖", "description": "seven o’clock" },
+  "ഘടികാരം 730": { "replacement": "🕢", "description": "seven-thirty" },
+  "ഘടികാരം 8": { "replacement": "🕗", "description": "eight o’clock" },
+  "ക്ലോക്ക് 830": { "replacement": "🕣", "description": "eight-thirty" },
+  "ഘടികാരം 9": { "replacement": "🕘", "description": "nine o’clock" },
+  "ക്ലോക്ക് 930": { "replacement": "🕤", "description": "nine-thirty" },
+  "ക്ലോക്ക് 10": { "replacement": "🕙", "description": "ten o’clock" },
+  "ക്ലോക്ക് 1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "ക്ലോക്ക് 11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "ക്ലോക്ക് 1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "അമാവാസി": { "replacement": "🌑", "description": "new moon" },
+  "വാക്സിംഗ് ചന്ദ്രക്കല": {
+    "replacement": "🌒",
+    "description": "waxing crescent moon"
+  },
+  "ആദ്യ പാദ ചന്ദ്രൻ": {
+    "replacement": "🌓",
+    "description": "first quarter moon"
+  },
+  "ചന്ദ്രൻ": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "പൂർണ്ണചന്ദ്രൻ": { "replacement": "🌕", "description": "full moon" },
+  "ക്ഷീണിച്ച ചന്ദ്രൻ": {
+    "replacement": "🌖",
+    "description": "waning gibbous moon"
+  },
+  "അവസാന പാദ ചന്ദ്രൻ": {
+    "replacement": "🌗",
+    "description": "last quarter moon"
+  },
+  "ചന്ദ്രക്കല ക്ഷയിക്കുന്നു": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "ചന്ദ്രക്കല": { "replacement": "🌙", "description": "crescent moon" },
+  "മുഖമുള്ള അമാവാസി": { "replacement": "🌚", "description": "new moon face" },
+  "മുഖത്തോടുകൂടിയ ആദ്യ പാദ ചന്ദ്രൻ": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "മുഖവുമായി അവസാന പാദ ചന്ദ്രൻ": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "തെർമോമീറ്റർ": { "replacement": "🌡️", "description": "thermometer" },
+  "തെളിഞ്ഞതായ": { "replacement": "☀️", "description": "sun" },
+  "മുഖമുള്ള പൂർണ്ണചന്ദ്രൻ": {
+    "replacement": "🌝",
+    "description": "full moon face"
+  },
+  "മുഖമുള്ള സൂര്യൻ": { "replacement": "🌞", "description": "sun with face" },
+  "വളഞ്ഞ ഗ്രഹം": { "replacement": "🪐", "description": "ringed planet" },
+  "നക്ഷത്രം": { "replacement": "⭐", "description": "star" },
+  "നക്ഷത്രം 2": { "replacement": "🌟", "description": "glowing star" },
+  "നക്ഷത്രങ്ങൾ": { "replacement": "🌠", "description": "shooting star" },
+  "ക്ഷീരപഥം": { "replacement": "🌌", "description": "milky way" },
+  "മേഘം": { "replacement": "☁️", "description": "cloud" },
+  "ഭാഗികമായി സണ്ണി": { "replacement": "⛅", "description": "sun behind cloud" },
+  "ഇടിമിന്നലും മഴയുമുള്ള മേഘം": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "ചെറിയ മേഘത്തിന് പിന്നിൽ സൂര്യൻ": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "വലിയ മേഘത്തിന് പിന്നിൽ സൂര്യൻ": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "മഴ മേഘത്തിന് പിന്നിൽ സൂര്യൻ": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "മഴയുള്ള മേഘം": { "replacement": "🌧️", "description": "cloud with rain" },
+  "മഞ്ഞുമൂടിയ മേഘം": { "replacement": "🌨️", "description": "cloud with snow" },
+  "ഇടിമിന്നലോടുകൂടിയ മേഘം": {
+    "replacement": "🌩️",
+    "description": "cloud with lightning"
+  },
+  "ചുഴലിക്കാറ്റ്": { "replacement": "🌀", "description": "cyclone" },
+  "കാറ്റിന്റെ മുഖം": { "replacement": "🌬️", "description": "wind face" },
+  "മഴവില്ല്": { "replacement": "🌈", "description": "rainbow" },
+  "അടച്ച കുട": { "replacement": "🌂", "description": "closed umbrella" },
+  "തുറന്ന കുട": { "replacement": "☂️", "description": "umbrella" },
+  "കുട": { "replacement": "☔", "description": "umbrella with rain drops" },
+  "പാരസോൾ നിലത്ത്": {
+    "replacement": "⛱️",
+    "description": "umbrella on ground"
+  },
+  "zap": { "replacement": "⚡", "description": "high voltage" },
+  "സ്നോഫ്ലേക്ക്": { "replacement": "❄️", "description": "snowflake" },
+  "മഞ്ഞുമൂടിയ മഞ്ഞുമനുഷ്യൻ": { "replacement": "☃️", "description": "snowman" },
+  "സ്നോമാൻ": { "replacement": "⛄", "description": "snowman without snow" },
+  "ധൂമകേതു": { "replacement": "☄️", "description": "comet" },
+  "തീ": { "replacement": "🔥", "description": "fire" },
+  "തുള്ളി": { "replacement": "💧", "description": "droplet" },
+  "സമുദ്രം": { "replacement": "🌊", "description": "water wave" },
+  "ജാക്ക് ഓ വിളക്ക്": { "replacement": "🎃", "description": "jack-o-lantern" },
+  "ക്രിസ്മസ് ട്രീ": { "replacement": "🎄", "description": "Christmas tree" },
+  "വെടിക്കെട്ട്": { "replacement": "🎆", "description": "fireworks" },
+  "മിന്നുന്ന": { "replacement": "🎇", "description": "sparkler" },
+  "പടക്കം": { "replacement": "🧨", "description": "firecracker" },
+  "തിളങ്ങുന്നു": { "replacement": "✨", "description": "sparkles" },
+  "ബലൂണ്": { "replacement": "🎈", "description": "balloon" },
+  "tada": { "replacement": "🎉", "description": "party popper" },
+  "confetti പന്ത്": { "replacement": "🎊", "description": "confetti ball" },
+  "തനബാറ്റ ട്രീ": { "replacement": "🎋", "description": "tanabata tree" },
+  "മുള": { "replacement": "🎍", "description": "pine decoration" },
+  "പാവകൾ": { "replacement": "🎎", "description": "Japanese dolls" },
+  "പതാകകൾ": { "replacement": "🎏", "description": "carp streamer" },
+  "കാറ്റ് ചിം": { "replacement": "🎐", "description": "wind chime" },
+  "അരി രംഗം": { "replacement": "🎑", "description": "moon viewing ceremony" },
+  "ചുവന്ന എൻ‌വലപ്പ്": { "replacement": "🧧", "description": "red envelope" },
+  "റിബൺ": { "replacement": "🎀", "description": "ribbon" },
+  "സമ്മാനം": { "replacement": "🎁", "description": "wrapped gift" },
+  "ഓർമ്മപ്പെടുത്തൽ റിബൺ": {
+    "replacement": "🎗️",
+    "description": "reminder ribbon"
+  },
+  "ടിക്കറ്റ്": { "replacement": "🎫", "description": "ticket" },
+  "മെഡൽ മിലിട്ടറി": { "replacement": "🎖️", "description": "military medal" },
+  "ട്രോഫി": { "replacement": "🏆", "description": "trophy" },
+  "മെഡൽ സ്പോർട്സ്": { "replacement": "🏅", "description": "sports medal" },
+  "ഒന്നാം സ്ഥാനം": { "replacement": "🥇", "description": "1st place medal" },
+  "രണ്ടാം സ്ഥാനം": { "replacement": "🥈", "description": "2nd place medal" },
+  "മൂന്നാം സ്ഥാനം": { "replacement": "🥉", "description": "3rd place medal" },
+  "സോക്കർ": { "replacement": "⚽", "description": "soccer ball" },
+  "ബേസ്ബോൾ": { "replacement": "⚾", "description": "baseball" },
+  "സോഫ്റ്റ്ബോൾ": { "replacement": "🥎", "description": "softball" },
+  "ബാസ്കറ്റ്ബോൾ": { "replacement": "🏀", "description": "basketball" },
+  "വോളിബോൾ": { "replacement": "🏐", "description": "volleyball" },
+  "ഫുട്ബോൾ": { "replacement": "🏈", "description": "american football" },
+  "റഗ്ബി ഫുട്ബോൾ": { "replacement": "🏉", "description": "rugby football" },
+  "ടെന്നീസ്": { "replacement": "🎾", "description": "tennis" },
+  "ഫ്ലൈയിംഗ് ഡിസ്ക്": { "replacement": "🥏", "description": "flying disc" },
+  "ബ ling ളിംഗ്": { "replacement": "🎳", "description": "bowling" },
+  "ക്രിക്കറ്റ് ഗെയിം": { "replacement": "🏏", "description": "cricket game" },
+  "ഫീൽഡ് ഹോക്കി": { "replacement": "🏑", "description": "field hockey" },
+  "ഐസ് ഹോക്കി": { "replacement": "🏒", "description": "ice hockey" },
+  "ലാക്രോസ്": { "replacement": "🥍", "description": "lacrosse" },
+  "പിംഗ് പോംഗ്": { "replacement": "🏓", "description": "ping pong" },
+  "ബാഡ്മിന്റൺ": { "replacement": "🏸", "description": "badminton" },
+  "ബോക്സിംഗ് കയ്യുറ": { "replacement": "🥊", "description": "boxing glove" },
+  "ആയോധനകല യൂണിഫോം": {
+    "replacement": "🥋",
+    "description": "martial arts uniform"
+  },
+  "ഗോൾ നെറ്റ്": { "replacement": "🥅", "description": "goal net" },
+  "ഗോൾഫ്": { "replacement": "⛳", "description": "flag in hole" },
+  "ഐസ് സ്കേറ്റിംഗ്": { "replacement": "⛸️", "description": "ice skate" },
+  "ഫിഷിംഗ് പോളും മത്സ്യവും": {
+    "replacement": "🎣",
+    "description": "fishing pole"
+  },
+  "ഡൈവിംഗ് മാസ്ക്": { "replacement": "🤿", "description": "diving mask" },
+  "ഓടുന്ന ഷർട്ട്": { "replacement": "🎽", "description": "running shirt" },
+  "സ്കീ": { "replacement": "🎿", "description": "skis" },
+  "സ്ലെഡ്": { "replacement": "🛷", "description": "sled" },
+  "കേളിംഗ് കല്ല്": { "replacement": "🥌", "description": "curling stone" },
+  "അസ്ത്രം": { "replacement": "🎯", "description": "direct hit" },
+  "യോ യോ": { "replacement": "🪀", "description": "yo-yo" },
+  "കൈറ്റ്": { "replacement": "🪁", "description": "kite" },
+  "8 ബോൾ": { "replacement": "🎱", "description": "pool 8 ball" },
+  "ക്രിസ്റ്റൽ ബോൾ": { "replacement": "🔮", "description": "crystal ball" },
+  "മാന്ത്രിക വടി": { "replacement": "🪄", "description": "magic wand" },
+  "nazar amulet": { "replacement": "🧿", "description": "nazar amulet" },
+  "വീഡിയോ ഗെയിം": { "replacement": "🎮", "description": "video game" },
+  "ജോയിസ്റ്റിക്ക്": { "replacement": "🕹️", "description": "joystick" },
+  "സ്ലോട്ട് മെഷീൻ": { "replacement": "🎰", "description": "slot machine" },
+  "ഗെയിം മരിക്കും": { "replacement": "🎲", "description": "game die" },
+  "ജൈസ": { "replacement": "🧩", "description": "puzzle piece" },
+  "ടെഡി ബെയർ": { "replacement": "🧸", "description": "teddy bear" },
+  "പിനാറ്റ": { "replacement": "🪅", "description": "piñata" },
+  "കൂടുണ്ടാക്കുന്ന പാവകൾ": {
+    "replacement": "🪆",
+    "description": "nesting dolls"
+  },
+  "സ്പേഡുകൾ": { "replacement": "♠️", "description": "spade suit" },
+  "ഹൃദയങ്ങൾ": { "replacement": "♥️", "description": "heart suit" },
+  "വജ്രങ്ങൾ": { "replacement": "♦️", "description": "diamond suit" },
+  "ക്ലബ്ബുകൾ": { "replacement": "♣️", "description": "club suit" },
+  "ചെസ്സ് പണയം": { "replacement": "♟️", "description": "chess pawn" },
+  "കറുത്ത ജോക്കർ": { "replacement": "🃏", "description": "joker" },
+  "മഹ്ജോംഗ്": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "ഫ്ലവർ പ്ലേയിംഗ് കാർഡുകൾ": {
+    "replacement": "🎴",
+    "description": "flower playing cards"
+  },
+  "പ്രകടന കലകൾ": { "replacement": "🎭", "description": "performing arts" },
+  "ഫ്രെയിം ചെയ്ത ചിത്രം": {
+    "replacement": "🖼️",
+    "description": "framed picture"
+  },
+  "കല": { "replacement": "🎨", "description": "artist palette" },
+  "ത്രെഡ്": { "replacement": "🧵", "description": "thread" },
+  "തയ്യൽ സൂചി": { "replacement": "🪡", "description": "sewing needle" },
+  "നൂൽ": { "replacement": "🧶", "description": "yarn" },
+  "കെട്ട്": { "replacement": "🪢", "description": "knot" },
+  "കണ്ണട": { "replacement": "🥽", "description": "goggles" },
+  "ഇരുണ്ട സൺഗ്ലാസുകൾ": { "replacement": "🕶️", "description": "sunglasses" },
+  "ലാബ് കോട്ട്": { "replacement": "🥼", "description": "lab coat" },
+  "സുരക്ഷാ വസ്ത്രം": { "replacement": "🦺", "description": "safety vest" },
+  "നെക്റ്റി": { "replacement": "👔", "description": "necktie" },
+  "ഷർട്ട്": { "replacement": "👕", "description": "t-shirt" },
+  "ജീൻസ്": { "replacement": "👖", "description": "jeans" },
+  "സ്കാർഫ്": { "replacement": "🧣", "description": "scarf" },
+  "കയ്യുറകൾ": { "replacement": "🧤", "description": "gloves" },
+  "കോട്ട്": { "replacement": "🧥", "description": "coat" },
+  "സോക്സ്": { "replacement": "🧦", "description": "socks" },
+  "വസ്ത്രം": { "replacement": "👗", "description": "dress" },
+  "കിമോണോ": { "replacement": "👘", "description": "kimono" },
+  "സാരി": { "replacement": "🥻", "description": "sari" },
+  "ഒരു കഷണം നീന്തൽക്കുപ്പായം": {
+    "replacement": "🩱",
+    "description": "one-piece swimsuit"
+  },
+  "ഹ്രസ്വമായി നീന്തുക": { "replacement": "🩲", "description": "briefs" },
+  "ഷോർട്ട്സ്": { "replacement": "🩳", "description": "shorts" },
+  "ബിക്കിനി": { "replacement": "👙", "description": "bikini" },
+  "സ്ത്രീകളുടെ വസ്ത്രങ്ങൾ": {
+    "replacement": "👚",
+    "description": "woman’s clothes"
+  },
+  "പേഴ്സ്": { "replacement": "👛", "description": "purse" },
+  "ഹാൻഡ്‌ബാഗ്": { "replacement": "👜", "description": "handbag" },
+  "സഞ്ചി": { "replacement": "👝", "description": "clutch bag" },
+  "ഷോപ്പിംഗ്": { "replacement": "🛍️", "description": "shopping bags" },
+  "സ്കൂൾ സാച്ചൽ": { "replacement": "🎒", "description": "backpack" },
+  "തോങ്ങ് ചെരുപ്പ്": { "replacement": "🩴", "description": "thong sandal" },
+  "മാൻസ് ഷൂ": { "replacement": "👞", "description": "man’s shoe" },
+  "അത്‌ലറ്റിക് ഷൂ": { "replacement": "👟", "description": "running shoe" },
+  "ഹൈക്കിംഗ് ബൂട്ട്": { "replacement": "🥾", "description": "hiking boot" },
+  "ഫ്ലാറ്റ് ഷൂ": { "replacement": "🥿", "description": "flat shoe" },
+  "ഉയർന്ന കുതികാൽ": { "replacement": "👠", "description": "high-heeled shoe" },
+  "ചെരുപ്പ്": { "replacement": "👡", "description": "woman’s sandal" },
+  "ബാലെ ഷൂസ്": { "replacement": "🩰", "description": "ballet shoes" },
+  "ബൂട്ട്": { "replacement": "👢", "description": "woman’s boot" },
+  "കിരീടം": { "replacement": "👑", "description": "crown" },
+  "സ്ത്രീകൾ തൊപ്പി": { "replacement": "👒", "description": "woman’s hat" },
+  "ടോപ്പ്ഹാറ്റ്": { "replacement": "🎩", "description": "top hat" },
+  "മോർട്ടാർ ബോർഡ്": { "replacement": "🎓", "description": "graduation cap" },
+  "ബിൽ ചെയ്ത തൊപ്പി": { "replacement": "🧢", "description": "billed cap" },
+  "സൈനിക ഹെൽമെറ്റ്": { "replacement": "🪖", "description": "military helmet" },
+  "റെസ്ക്യൂ വർക്കർ ഹെൽമെറ്റ്": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "പ്രാർത്ഥന മുത്തുകൾ": { "replacement": "📿", "description": "prayer beads" },
+  "ലിപ്സ്റ്റിക്ക്": { "replacement": "💄", "description": "lipstick" },
+  "റിംഗ്": { "replacement": "💍", "description": "ring" },
+  "രത്നം": { "replacement": "💎", "description": "gem stone" },
+  "നിശബ്ദമാക്കുക": { "replacement": "🔇", "description": "muted speaker" },
+  "സ്പീക്കർ": { "replacement": "🔈", "description": "speaker low volume" },
+  "ശബ്ദം": { "replacement": "🔉", "description": "speaker medium volume" },
+  "ഉച്ചത്തിലുള്ള ശബ്ദം": {
+    "replacement": "🔊",
+    "description": "speaker high volume"
+  },
+  "ഉച്ചഭാഷിണി": { "replacement": "📢", "description": "loudspeaker" },
+  "മെഗാ": { "replacement": "📣", "description": "megaphone" },
+  "തപാൽ കൊമ്പ്": { "replacement": "📯", "description": "postal horn" },
+  "മണി": { "replacement": "🔔", "description": "bell" },
+  "മണിയില്ല": { "replacement": "🔕", "description": "bell with slash" },
+  "സംഗീത സ്കോർ": { "replacement": "🎼", "description": "musical score" },
+  "സംഗീത കുറിപ്പ്": { "replacement": "🎵", "description": "musical note" },
+  "കുറിപ്പുകൾ": { "replacement": "🎶", "description": "musical notes" },
+  "സ്റ്റുഡിയോ മൈക്രോഫോൺ": {
+    "replacement": "🎙️",
+    "description": "studio microphone"
+  },
+  "ലെവൽ സ്ലൈഡർ": { "replacement": "🎚️", "description": "level slider" },
+  "നോബുകൾ നിയന്ത്രിക്കുക": {
+    "replacement": "🎛️",
+    "description": "control knobs"
+  },
+  "മൈക്രോഫോൺ": { "replacement": "🎤", "description": "microphone" },
+  "ഹെഡ്‌ഫോണുകൾ": { "replacement": "🎧", "description": "headphone" },
+  "റേഡിയോ": { "replacement": "📻", "description": "radio" },
+  "സാക്സോഫോൺ": { "replacement": "🎷", "description": "saxophone" },
+  "അക്രോഡിയൻ": { "replacement": "🪗", "description": "accordion" },
+  "ഗിത്താർ": { "replacement": "🎸", "description": "guitar" },
+  "സംഗീത കീബോർഡ്": { "replacement": "🎹", "description": "musical keyboard" },
+  "കാഹളം": { "replacement": "🎺", "description": "trumpet" },
+  "വയലിൻ": { "replacement": "🎻", "description": "violin" },
+  "ബാഞ്ചോ": { "replacement": "🪕", "description": "banjo" },
+  "ഡ്രം": { "replacement": "🥁", "description": "drum" },
+  "നീളമുള്ള ഡ്രം": { "replacement": "🪘", "description": "long drum" },
+  "ഐഫോൺ": { "replacement": "📱", "description": "mobile phone" },
+  "വിളിക്കുന്നു": {
+    "replacement": "📲",
+    "description": "mobile phone with arrow"
+  },
+  "ഫോൺ": { "replacement": "☎️", "description": "telephone" },
+  "ടെലിഫോൺ റിസീവർ": {
+    "replacement": "📞",
+    "description": "telephone receiver"
+  },
+  "പേജർ": { "replacement": "📟", "description": "pager" },
+  "ഫാക്സ്": { "replacement": "📠", "description": "fax machine" },
+  "ബാറ്ററി": { "replacement": "🔋", "description": "battery" },
+  "ഇലക്ട്രിക് പ്ലഗ്": { "replacement": "🔌", "description": "electric plug" },
+  "കമ്പ്യൂട്ടർ": { "replacement": "💻", "description": "laptop" },
+  "ഡെസ്ക്ടോപ്പ് കമ്പ്യൂട്ടർ": {
+    "replacement": "🖥️",
+    "description": "desktop computer"
+  },
+  "പ്രിന്റർ": { "replacement": "🖨️", "description": "printer" },
+  "കീബോർഡ്": { "replacement": "⌨️", "description": "keyboard" },
+  "കമ്പ്യൂട്ടർ മൗസ്": { "replacement": "🖱️", "description": "computer mouse" },
+  "ട്രാക്ക്ബോൾ": { "replacement": "🖲️", "description": "trackball" },
+  "മിനിഡിസ്ക്": { "replacement": "💽", "description": "computer disk" },
+  "ഫ്ലോപ്പി ഡിസ്ക്": { "replacement": "💾", "description": "floppy disk" },
+  "സിഡി": { "replacement": "💿", "description": "optical disk" },
+  "ഡിവിഡി": { "replacement": "📀", "description": "dvd" },
+  "അബാക്കസ്": { "replacement": "🧮", "description": "abacus" },
+  "മൂവി ക്യാമറ": { "replacement": "🎥", "description": "movie camera" },
+  "ഫിലിം സ്ട്രിപ്പ്": { "replacement": "🎞️", "description": "film frames" },
+  "ഫിലിം പ്രൊജക്ടർ": { "replacement": "📽️", "description": "film projector" },
+  "കൈയ്യടി": { "replacement": "🎬", "description": "clapper board" },
+  "ടിവി": { "replacement": "📺", "description": "television" },
+  "ക്യാമറ": { "replacement": "📷", "description": "camera" },
+  "ക്യാമറ ഫ്ലാഷ്": { "replacement": "📸", "description": "camera with flash" },
+  "വീഡിയോ ക്യാമറ": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "മാഗ്": {
+    "replacement": "🔍",
+    "description": "magnifying glass tilted left"
+  },
+  "മാഗ് വലത്": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "മെഴുകുതിരി": { "replacement": "🕯️", "description": "candle" },
+  "ബൾബ്": { "replacement": "💡", "description": "light bulb" },
+  "മിന്നല്പകാശം": { "replacement": "🔦", "description": "flashlight" },
+  "izakaya വിളക്ക്": {
+    "replacement": "🏮",
+    "description": "red paper lantern"
+  },
+  "ഡയ വിളക്ക്": { "replacement": "🪔", "description": "diya lamp" },
+  "അലങ്കാര കവറുള്ള നോട്ട്ബുക്ക്": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "അടച്ച പുസ്തകം": { "replacement": "📕", "description": "closed book" },
+  "പുസ്തകം": { "replacement": "📖", "description": "open book" },
+  "പച്ച പുസ്തകം": { "replacement": "📗", "description": "green book" },
+  "നീല പുസ്തകം": { "replacement": "📘", "description": "blue book" },
+  "ഓറഞ്ച് പുസ്തകം": { "replacement": "📙", "description": "orange book" },
+  "പുസ്തകങ്ങൾ": { "replacement": "📚", "description": "books" },
+  "നോട്ടുബുക്ക്": { "replacement": "📓", "description": "notebook" },
+  "ലെഡ്ജർ": { "replacement": "📒", "description": "ledger" },
+  "ചുരുളൻ ഉള്ള പേജ്": { "replacement": "📃", "description": "page with curl" },
+  "സ്ക്രോൾ ചെയ്യുക": { "replacement": "📜", "description": "scroll" },
+  "പേജ് അഭിമുഖീകരിക്കുന്നു": {
+    "replacement": "📄",
+    "description": "page facing up"
+  },
+  "പത്രം": { "replacement": "📰", "description": "newspaper" },
+  "പത്രം റോൾ": { "replacement": "🗞️", "description": "rolled-up newspaper" },
+  "ബുക്ക്മാർക്ക് ടാബുകൾ": {
+    "replacement": "📑",
+    "description": "bookmark tabs"
+  },
+  "ബുക്ക്മാർക്ക്": { "replacement": "🔖", "description": "bookmark" },
+  "ലേബൽ": { "replacement": "🏷️", "description": "label" },
+  "മണിബാഗ്": { "replacement": "💰", "description": "money bag" },
+  "നാണയം": { "replacement": "🪙", "description": "coin" },
+  "യെൻ": { "replacement": "💴", "description": "yen banknote" },
+  "ഡോളർ": { "replacement": "💵", "description": "dollar banknote" },
+  "യൂറോ": { "replacement": "💶", "description": "euro banknote" },
+  "പൗണ്ട്": { "replacement": "💷", "description": "pound banknote" },
+  "ചിറകുള്ള പണം": { "replacement": "💸", "description": "money with wings" },
+  "ക്രെഡിറ്റ് കാർഡ്": { "replacement": "💳", "description": "credit card" },
+  "രസീത്": { "replacement": "🧾", "description": "receipt" },
+  "ചാർട്ട്": {
+    "replacement": "💹",
+    "description": "chart increasing with yen"
+  },
+  "ഇമെയിൽ": { "replacement": "✉️", "description": "envelope" },
+  "ഇ-മെയിൽ": { "replacement": "📧", "description": "e-mail" },
+  "ഇൻകമിംഗ് എൻ‌വലപ്പ്": {
+    "replacement": "📨",
+    "description": "incoming envelope"
+  },
+  "അമ്പടയാളം": { "replacement": "⬇️", "description": "down arrow" },
+  "box ട്ട്‌ബോക്സ് ട്രേ": { "replacement": "📤", "description": "outbox tray" },
+  "ഇൻ‌ബോക്സ് ട്രേ": { "replacement": "📥", "description": "inbox tray" },
+  "പാക്കേജ്": { "replacement": "📦", "description": "package" },
+  "മെയിൽ‌ബോക്സ്": {
+    "replacement": "📫",
+    "description": "closed mailbox with raised flag"
+  },
+  "മെയിൽ‌ബോക്സ് അടച്ചു": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "മെയിലുള്ള മെയിൽ‌ബോക്സ്": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "മെയിലില്ലാത്ത മെയിൽ‌ബോക്സ്": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "പോസ്റ്റ് ബോക്സ്": { "replacement": "📮", "description": "postbox" },
+  "ബാലറ്റ് ബോക്സ്": {
+    "replacement": "🗳️",
+    "description": "ballot box with ballot"
+  },
+  "പെൻസിൽ 2": { "replacement": "✏️", "description": "pencil" },
+  "കറുത്ത നിബ്": { "replacement": "✒️", "description": "black nib" },
+  "ജലധാര പേന": { "replacement": "🖋️", "description": "fountain pen" },
+  "പേന": { "replacement": "🖊️", "description": "pen" },
+  "പെയിന്റ് ബ്രഷ്": { "replacement": "🖌️", "description": "paintbrush" },
+  "ക്രയോൺ": { "replacement": "🖍️", "description": "crayon" },
+  "മെമ്മോ": { "replacement": "📝", "description": "memo" },
+  "ബ്രീഫ്കേസ്": { "replacement": "💼", "description": "briefcase" },
+  "ഫയൽ ഫോൾഡർ": { "replacement": "📁", "description": "file folder" },
+  "ഫയൽ ഫോൾഡർ തുറക്കുക": {
+    "replacement": "📂",
+    "description": "open file folder"
+  },
+  "കാർഡ് സൂചിക ഡിവൈഡറുകൾ": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "തീയതി": { "replacement": "📅", "description": "calendar" },
+  "കലണ്ടർ": { "replacement": "📆", "description": "tear-off calendar" },
+  "സർപ്പിള നോട്ട്പാഡ്": {
+    "replacement": "🗒️",
+    "description": "spiral notepad"
+  },
+  "സർപ്പിള കലണ്ടർ": { "replacement": "🗓️", "description": "spiral calendar" },
+  "കാർഡ് സൂചിക": { "replacement": "📇", "description": "card index" },
+  "മുകളിലേക്കുള്ള പ്രവണതയുള്ള ചാർട്ട്": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "താഴേക്കുള്ള പ്രവണതയുള്ള ചാർട്ട്": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "ബാർ ചാർട്ട്": { "replacement": "📊", "description": "bar chart" },
+  "ക്ലിപ്പ്ബോർഡ്": { "replacement": "📋", "description": "clipboard" },
+  "പുഷ്പിൻ": { "replacement": "📌", "description": "pushpin" },
+  "റൗണ്ട് പുഷ്പിൻ": { "replacement": "📍", "description": "round pushpin" },
+  "പേപ്പർ ക്ലിപ്പ്": { "replacement": "📎", "description": "paperclip" },
+  "പേപ്പർ ക്ലിപ്പുകൾ": {
+    "replacement": "🖇️",
+    "description": "linked paperclips"
+  },
+  "നേരായ ഭരണാധികാരി": { "replacement": "📏", "description": "straight ruler" },
+  "ത്രികോണ ഭരണാധികാരി": {
+    "replacement": "📐",
+    "description": "triangular ruler"
+  },
+  "കത്രിക": { "replacement": "✂️", "description": "scissors" },
+  "കാർഡ് ഫയൽ ബോക്സ്": { "replacement": "🗃️", "description": "card file box" },
+  "ഫയൽ കാബിനറ്റ്": { "replacement": "🗄️", "description": "file cabinet" },
+  "വേസ്റ്റ് ബാസ്‌ക്കറ്റ്": {
+    "replacement": "🗑️",
+    "description": "wastebasket"
+  },
+  "ലോക്ക് ചെയ്യുക": { "replacement": "🔒", "description": "locked" },
+  "അൺലോക്കുചെയ്യുക": { "replacement": "🔓", "description": "unlocked" },
+  "മഷി പേന ഉപയോഗിച്ച് ലോക്ക് ചെയ്യുക": {
+    "replacement": "🔏",
+    "description": "locked with pen"
+  },
+  "കീ ഉപയോഗിച്ച് അടച്ച ലോക്ക്": {
+    "replacement": "🔐",
+    "description": "locked with key"
+  },
+  "കീ": { "replacement": "🔑", "description": "key" },
+  "പഴയ കീ": { "replacement": "🗝️", "description": "old key" },
+  "ചുറ്റിക": { "replacement": "🔨", "description": "hammer" },
+  "കോടാലി": { "replacement": "🪓", "description": "axe" },
+  "തിരഞ്ഞെടുക്കുക": { "replacement": "⛏️", "description": "pick" },
+  "ചുറ്റികയും എടുക്കുക": {
+    "replacement": "⚒️",
+    "description": "hammer and pick"
+  },
+  "ചുറ്റികയും റെഞ്ചും": {
+    "replacement": "🛠️",
+    "description": "hammer and wrench"
+  },
+  "കുള്ളൻ": { "replacement": "🗡️", "description": "dagger" },
+  "വാളുകളെ മറികടന്നു": { "replacement": "⚔️", "description": "crossed swords" },
+  "തോക്ക്": { "replacement": "🔫", "description": "pistol" },
+  "ബൂമറാംഗ്": { "replacement": "🪃", "description": "boomerang" },
+  "അമ്പും വില്ലും": { "replacement": "🏹", "description": "bow and arrow" },
+  "പരിച": { "replacement": "🛡️", "description": "shield" },
+  "മരപ്പണി കണ്ടു": { "replacement": "🪚", "description": "carpentry saw" },
+  "റെഞ്ച്": { "replacement": "🔧", "description": "wrench" },
+  "സ്ക്രൂഡ്രൈവർ": { "replacement": "🪛", "description": "screwdriver" },
+  "നട്ട്, ബോൾട്ട്": { "replacement": "🔩", "description": "nut and bolt" },
+  "ഗിയര്": { "replacement": "⚙️", "description": "gear" },
+  "പട്ട": { "replacement": "🗜️", "description": "clamp" },
+  "ബാലൻസ് സ്കെയിൽ": { "replacement": "⚖️", "description": "balance scale" },
+  "ചൂരൽ അന്വേഷിക്കുന്നു": { "replacement": "🦯", "description": "white cane" },
+  "ലിങ്ക്": { "replacement": "🔗", "description": "link" },
+  "ചങ്ങലകൾ": { "replacement": "⛓️", "description": "chains" },
+  "ഹുക്ക്": { "replacement": "🪝", "description": "hook" },
+  "ടൂൾബോക്സ്": { "replacement": "🧰", "description": "toolbox" },
+  "കാന്തം": { "replacement": "🧲", "description": "magnet" },
+  "ഗോവണി": { "replacement": "🪜", "description": "ladder" },
+  "അലെംബിക്": { "replacement": "⚗️", "description": "alembic" },
+  "ടെസ്റ്റ് ട്യൂബ്": { "replacement": "🧪", "description": "test tube" },
+  "പെട്രി വിഭവം": { "replacement": "🧫", "description": "petri dish" },
+  "dna": { "replacement": "🧬", "description": "dna" },
+  "മൈക്രോസ്കോപ്പ്": { "replacement": "🔬", "description": "microscope" },
+  "ദൂരദർശിനി": { "replacement": "🔭", "description": "telescope" },
+  "ഉപഗ്രഹം": { "replacement": "📡", "description": "satellite antenna" },
+  "സിറിഞ്ച്": { "replacement": "💉", "description": "syringe" },
+  "രക്തത്തുള്ളി": { "replacement": "🩸", "description": "drop of blood" },
+  "ഗുളിക": { "replacement": "💊", "description": "pill" },
+  "പശ തലപ്പാവു": { "replacement": "🩹", "description": "adhesive bandage" },
+  "സ്റ്റെതസ്കോപ്പ്": { "replacement": "🩺", "description": "stethoscope" },
+  "വാതിൽ": { "replacement": "🚪", "description": "door" },
+  "എലിവേറ്റർ": { "replacement": "🛗", "description": "elevator" },
+  "കണ്ണാടി": { "replacement": "🪞", "description": "mirror" },
+  "ജാലകം": { "replacement": "🪟", "description": "window" },
+  "കിടക്ക": { "replacement": "🛏️", "description": "bed" },
+  "കിടക്കയും വിളക്കും": {
+    "replacement": "🛋️",
+    "description": "couch and lamp"
+  },
+  "കസേര": { "replacement": "🪑", "description": "chair" },
+  "ടോയ്‌ലറ്റ്": { "replacement": "🚽", "description": "toilet" },
+  "പ്ലങ്കർ": { "replacement": "🪠", "description": "plunger" },
+  "ഷവർ": { "replacement": "🚿", "description": "shower" },
+  "ബാത്ത് ടബ്": { "replacement": "🛁", "description": "bathtub" },
+  "മൗസ് കെണി": { "replacement": "🪤", "description": "mouse trap" },
+  "റേസർ": { "replacement": "🪒", "description": "razor" },
+  "ലോഷൻ കുപ്പി": { "replacement": "🧴", "description": "lotion bottle" },
+  "സുരക്ഷാ പിൻ": { "replacement": "🧷", "description": "safety pin" },
+  "ചൂല്": { "replacement": "🧹", "description": "broom" },
+  "കൊട്ടയിൽ": { "replacement": "🧺", "description": "basket" },
+  "പേപ്പർ റോൾ": { "replacement": "🧻", "description": "roll of paper" },
+  "ബക്കറ്റ്": { "replacement": "🪣", "description": "bucket" },
+  "സോപ്പ്": { "replacement": "🧼", "description": "soap" },
+  "ടൂത്ത് ബ്രഷ്": { "replacement": "🪥", "description": "toothbrush" },
+  "സ്പോഞ്ച്": { "replacement": "🧽", "description": "sponge" },
+  "അഗ്നിശമന ഉപകരണം": {
+    "replacement": "🧯",
+    "description": "fire extinguisher"
+  },
+  "ഷോപ്പിംഗ് കാർട്ട്": { "replacement": "🛒", "description": "shopping cart" },
+  "പുകവലി": { "replacement": "🚬", "description": "cigarette" },
+  "ശവപ്പെട്ടി": { "replacement": "⚰️", "description": "coffin" },
+  "ഹെഡ്‌സ്റ്റോൺ": { "replacement": "🪦", "description": "headstone" },
+  "ശവസംസ്കാരം": { "replacement": "⚱️", "description": "funeral urn" },
+  "മൊയായ്": { "replacement": "🗿", "description": "moai" },
+  "പ്ലക്കാർഡ്": { "replacement": "🪧", "description": "placard" },
+  "atm": { "replacement": "🏧", "description": "ATM sign" },
+  "ലിറ്റർ അതിന്റെ സ്ഥാനത്ത് വയ്ക്കുക": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "കുടി വെള്ളം": { "replacement": "🚰", "description": "potable water" },
+  "വീൽചെയർ": { "replacement": "♿", "description": "wheelchair symbol" },
+  "പുരുഷന്മാർക്കുള്ള": { "replacement": "🚹", "description": "men’s room" },
+  "സ്ത്രീകളുടെ": { "replacement": "🚺", "description": "women’s room" },
+  "വിശ്രമമുറി": { "replacement": "🚻", "description": "restroom" },
+  "ശിശു ചിഹ്നം": { "replacement": "🚼", "description": "baby symbol" },
+  "സ്വാഗതം": { "replacement": "🚾", "description": "water closet" },
+  "പാസ്പോർട്ട് നിയന്ത്രണം": {
+    "replacement": "🛂",
+    "description": "passport control"
+  },
+  "കസ്റ്റംസ്": { "replacement": "🛃", "description": "customs" },
+  "ബാഗേജ് ക്ലെയിം": { "replacement": "🛄", "description": "baggage claim" },
+  "ഇടത് ലഗേജ്": { "replacement": "🛅", "description": "left luggage" },
+  "മുന്നറിയിപ്പ്": { "replacement": "⚠️", "description": "warning" },
+  "കുട്ടികൾ കടക്കുന്നു": {
+    "replacement": "🚸",
+    "description": "children crossing"
+  },
+  "പ്രവേശനമില്ല": { "replacement": "⛔", "description": "no entry" },
+  "പ്രവേശന ചിഹ്നമില്ല": { "replacement": "🚫", "description": "prohibited" },
+  "സൈക്കിൾ പാടില്ല": { "replacement": "🚳", "description": "no bicycles" },
+  "പുകവലി പാടില്ല": { "replacement": "🚭", "description": "no smoking" },
+  "മാലിന്യം നിക്ഷേപിക്കരുത്": {
+    "replacement": "🚯",
+    "description": "no littering"
+  },
+  "കുടിക്കാൻ പറ്റാത്ത വെള്ളം": {
+    "replacement": "🚱",
+    "description": "non-potable water"
+  },
+  "കാൽനടക്കാർ അനുവദനീയമല്ല": {
+    "replacement": "🚷",
+    "description": "no pedestrians"
+  },
+  "മൊബൈൽ ഫോണുകളൊന്നുമില്ല": {
+    "replacement": "📵",
+    "description": "no mobile phones"
+  },
+  "പ്രായപൂർത്തിയാകാത്തവർ": {
+    "replacement": "🔞",
+    "description": "no one under eighteen"
+  },
+  "റേഡിയോ ആക്ടീവ്": { "replacement": "☢️", "description": "radioactive" },
+  "ബയോഹാസാർഡ്": { "replacement": "☣️", "description": "biohazard" },
+  "അമ്പടയാളം മുകളിൽ വലത്": {
+    "replacement": "↗️",
+    "description": "up-right arrow"
+  },
+  "അമ്പടയാളം വലത്": { "replacement": "➡️", "description": "right arrow" },
+  "അമ്പടയാളം താഴെ വലത്": {
+    "replacement": "↘️",
+    "description": "down-right arrow"
+  },
+  "അമ്പടയാളം താഴെ ഇടത്": {
+    "replacement": "↙️",
+    "description": "down-left arrow"
+  },
+  "അമ്പടയാളം ഇടത്": { "replacement": "⬅️", "description": "left arrow" },
+  "അമ്പടയാളം മുകളിൽ ഇടത്": {
+    "replacement": "↖️",
+    "description": "up-left arrow"
+  },
+  "താഴേക്ക് അമ്പടയാളം": { "replacement": "↕️", "description": "up-down arrow" },
+  "ഇടത് വലത് അമ്പടയാളം": {
+    "replacement": "↔️",
+    "description": "left-right arrow"
+  },
+  "ഹുക്ക് ഉപയോഗിച്ച് ഇടത് അമ്പടയാളം": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "അമ്പടയാളം വലത് ഹുക്ക്": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "അമ്പടയാളം മുകളിലേക്ക്": {
+    "replacement": "⤴️",
+    "description": "right arrow curving up"
+  },
+  "അമ്പടയാളം താഴേക്ക്": {
+    "replacement": "⤵️",
+    "description": "right arrow curving down"
+  },
+  "അമ്പടയാളങ്ങൾ ഘടികാരദിശയിൽ": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "എതിർ ഘടികാരദിശയിൽ അമ്പുകൾ": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "തിരികെ": { "replacement": "🔙", "description": "BACK arrow" },
+  "അവസാനിക്കുന്നു": { "replacement": "🔚", "description": "END arrow" },
+  "ഓണാണ്": { "replacement": "🔛", "description": "ON! arrow" },
+  "ഉടൻ": { "replacement": "🔜", "description": "SOON arrow" },
+  "മുകളിൽ": { "replacement": "🔝", "description": "TOP arrow" },
+  "ആരാധനാലയം": { "replacement": "🛐", "description": "place of worship" },
+  "ആറ്റം ചിഹ്നം": { "replacement": "⚛️", "description": "atom symbol" },
+  "om": { "replacement": "🕉️", "description": "om" },
+  "ഡേവിഡ് നക്ഷത്രം": { "replacement": "✡️", "description": "star of David" },
+  "ധർമ്മ ചക്രം": { "replacement": "☸️", "description": "wheel of dharma" },
+  "യിൻ യാങ്": { "replacement": "☯️", "description": "yin yang" },
+  "ലാറ്റിൻ ക്രോസ്": { "replacement": "✝️", "description": "latin cross" },
+  "ഓർത്തഡോക്സ് ക്രോസ്": {
+    "replacement": "☦️",
+    "description": "orthodox cross"
+  },
+  "നക്ഷത്രവും ചന്ദ്രക്കലയും": {
+    "replacement": "☪️",
+    "description": "star and crescent"
+  },
+  "സമാധാന ചിഹ്നം": { "replacement": "☮️", "description": "peace symbol" },
+  "മെനോറ": { "replacement": "🕎", "description": "menorah" },
+  "ആറ് പോയിന്റുള്ള നക്ഷത്രം": {
+    "replacement": "🔯",
+    "description": "dotted six-pointed star"
+  },
+  "ഏരീസ്": { "replacement": "♈", "description": "Aries" },
+  "ഇടവം": { "replacement": "♉", "description": "Taurus" },
+  "ജെമിനി": { "replacement": "♊", "description": "Gemini" },
+  "കാൻസർ": { "replacement": "♋", "description": "Cancer" },
+  "ലിയോ": { "replacement": "♌", "description": "Leo" },
+  "കന്നി": { "replacement": "♍", "description": "Virgo" },
+  "തുലാം": { "replacement": "♎", "description": "Libra" },
+  "സ്കോർപിയസ്": { "replacement": "♏", "description": "Scorpio" },
+  "ധനു": { "replacement": "♐", "description": "Sagittarius" },
+  "കാപ്രിക്കോൺ": { "replacement": "♑", "description": "Capricorn" },
+  "അക്വേറിയസ്": { "replacement": "♒", "description": "Aquarius" },
+  "മീനം": { "replacement": "♓", "description": "Pisces" },
+  "ഒഫിയൂച്ചസ്": { "replacement": "⛎", "description": "Ophiuchus" },
+  "വളച്ചൊടിച്ച വലതുവശത്തെ അമ്പുകൾ": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "ആവർത്തിച്ച്": { "replacement": "🔁", "description": "repeat button" },
+  "ഒന്ന് ആവർത്തിക്കുക": {
+    "replacement": "🔂",
+    "description": "repeat single button"
+  },
+  "അമ്പടയാളം മുന്നോട്ട്": { "replacement": "▶️", "description": "play button" },
+  "വേഗത്തിൽ മുന്നോട്ട്": {
+    "replacement": "⏩",
+    "description": "fast-forward button"
+  },
+  "അടുത്ത ട്രാക്ക് ബട്ടൺ": {
+    "replacement": "⏭️",
+    "description": "next track button"
+  },
+  "ബട്ടൺ പ്ലേ ചെയ്യുക അല്ലെങ്കിൽ താൽക്കാലികമായി നിർത്തുക": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "അമ്പടയാളം പിന്നിലേക്ക്": {
+    "replacement": "◀️",
+    "description": "reverse button"
+  },
+  "റിവൈൻഡ് ചെയ്യുക": {
+    "replacement": "⏪",
+    "description": "fast reverse button"
+  },
+  "മുമ്പത്തെ ട്രാക്ക് ബട്ടൺ": {
+    "replacement": "⏮️",
+    "description": "last track button"
+  },
+  "ചെറിയ അമ്പടയാളം": { "replacement": "🔽", "description": "downwards button" },
+  "അമ്പടയാളം ഇരട്ടിയാക്കുക": {
+    "replacement": "⏫",
+    "description": "fast up button"
+  },
+  "അമ്പടയാളം ഇരട്ട": { "replacement": "⏬", "description": "fast down button" },
+  "താൽക്കാലികമായി നിർത്തുക ബട്ടൺ": {
+    "replacement": "⏸️",
+    "description": "pause button"
+  },
+  "നിർത്തുക ബട്ടൺ": { "replacement": "⏹️", "description": "stop button" },
+  "റെക്കോർഡ് ബട്ടൺ": { "replacement": "⏺️", "description": "record button" },
+  "പുറംതള്ളുക ബട്ടൺ": { "replacement": "⏏️", "description": "eject button" },
+  "സിനിമ": { "replacement": "🎦", "description": "cinema" },
+  "കുറഞ്ഞ തെളിച്ചം": { "replacement": "🔅", "description": "dim button" },
+  "ഉയർന്ന തെളിച്ചം": { "replacement": "🔆", "description": "bright button" },
+  "സിഗ്നൽ ബലം": { "replacement": "📶", "description": "antenna bars" },
+  "വൈബ്രേഷൻ മോഡ്": { "replacement": "📳", "description": "vibration mode" },
+  "മൊബൈൽ ഫോൺ ഓഫാണ്": { "replacement": "📴", "description": "mobile phone off" },
+  "സ്ത്രീ അടയാളം": { "replacement": "♀️", "description": "female sign" },
+  "പുരുഷ അടയാളം": { "replacement": "♂️", "description": "male sign" },
+  "ട്രാൻസ്ജെൻഡർ ചിഹ്നം": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "കനത്ത ഗുണനം x": { "replacement": "✖️", "description": "multiply" },
+  "കനത്ത പ്ലസ് ചിഹ്നം": { "replacement": "➕", "description": "plus" },
+  "കനത്ത മൈനസ് ചിഹ്നം": { "replacement": "➖", "description": "minus" },
+  "ഹെവി ഡിവിഷൻ ചിഹ്നം": { "replacement": "➗", "description": "divide" },
+  "അനന്തത": { "replacement": "♾️", "description": "infinity" },
+  "ബാംഗ്ബാംഗ്": {
+    "replacement": "‼️",
+    "description": "double exclamation mark"
+  },
+  "ഇന്റർറോബാംഗ്": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "ചോദ്യം": { "replacement": "❓", "description": "question mark" },
+  "ചാരനിറത്തിലുള്ള ചോദ്യം": {
+    "replacement": "❔",
+    "description": "white question mark"
+  },
+  "ചാരനിറം": { "replacement": "❕", "description": "white exclamation mark" },
+  "ആശ്ചര്യചിഹ്നം": { "replacement": "❗", "description": "exclamation mark" },
+  "അലകളുടെ ഡാഷ്": { "replacement": "〰️", "description": "wavy dash" },
+  "നാണയ വിനിമയം": { "replacement": "💱", "description": "currency exchange" },
+  "കനത്ത ഡോളർ ചിഹ്നം": {
+    "replacement": "💲",
+    "description": "heavy dollar sign"
+  },
+  "മെഡിക്കൽ ചിഹ്നം": { "replacement": "⚕️", "description": "medical symbol" },
+  "റീസൈക്കിൾ ചെയ്യുക": {
+    "replacement": "♻️",
+    "description": "recycling symbol"
+  },
+  "fleur de lis": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "ത്രിശൂലം": { "replacement": "🔱", "description": "trident emblem" },
+  "പേര് ബാഡ്ജ്": { "replacement": "📛", "description": "name badge" },
+  "തുടക്കക്കാരൻ": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "ഒ": { "replacement": "⭕", "description": "hollow red circle" },
+  "വെളുത്ത ചെക്ക് അടയാളം": {
+    "replacement": "✅",
+    "description": "check mark button"
+  },
+  "ചെക്ക് ഉള്ള ബാലറ്റ് ബോക്സ്": {
+    "replacement": "☑️",
+    "description": "check box with check"
+  },
+  "കനത്ത ചെക്ക് അടയാളം": { "replacement": "✔️", "description": "check mark" },
+  "x": { "replacement": "❌", "description": "cross mark" },
+  "നെഗറ്റീവ് ചതുര ക്രോസ് മാർക്ക്": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "ചുരുണ്ട ലൂപ്പ്": { "replacement": "➰", "description": "curly loop" },
+  "ലൂപ്പ്": { "replacement": "➿", "description": "double curly loop" },
+  "ഭാഗം ഇതര അടയാളം": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "എട്ട് സ്പോക്ക്ഡ് നക്ഷത്രചിഹ്നം": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "എട്ട് പോയിന്റുള്ള കറുത്ത നക്ഷത്രം": {
+    "replacement": "✴️",
+    "description": "eight-pointed star"
+  },
+  "തിളക്കം": { "replacement": "❇️", "description": "sparkle" },
+  "പകർപ്പവകാശം": { "replacement": "©️", "description": "copyright" },
+  "രജിസ്റ്റർ ചെയ്തു": { "replacement": "®️", "description": "registered" },
+  "ടിഎം": { "replacement": "™️", "description": "trade mark" },
+  "ഹാഷ്": { "replacement": "#️⃣", "description": "keycap: #" },
+  "നക്ഷത്രചിഹ്നം": { "replacement": "*️⃣", "description": "keycap: *" },
+  "പൂജ്യം": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "ഒന്ന്": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "രണ്ട്": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "മൂന്ന്": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "നാല്": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "അഞ്ച്": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "ആറ്": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "ഏഴ്": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "എട്ട്": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "ഒമ്പത്": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "കീകാപ്പ് പത്ത്": { "replacement": "🔟", "description": "keycap: 10" },
+  "മൂലധനം abcd": {
+    "replacement": "🔠",
+    "description": "input latin uppercase"
+  },
+  "എ ബി സി ഡി": { "replacement": "🔡", "description": "input latin lowercase" },
+  "ചിഹ്നങ്ങൾ": { "replacement": "🔣", "description": "input symbols" },
+  "abc": { "replacement": "🔤", "description": "input latin letters" },
+  "a": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "ab": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "b": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "cl": { "replacement": "🆑", "description": "CL button" },
+  "അടിപൊളി": { "replacement": "🆒", "description": "COOL button" },
+  "സൗ ജന്യം": { "replacement": "🆓", "description": "FREE button" },
+  "വിവര ഉറവിടം": { "replacement": "ℹ️", "description": "information" },
+  "ഐഡി": { "replacement": "🆔", "description": "ID button" },
+  "മീ": { "replacement": "Ⓜ️", "description": "circled M" },
+  "പുതിയത്": { "replacement": "🆕", "description": "NEW button" },
+  "ng": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "ശരി": { "replacement": "🆗", "description": "OK button" },
+  "പാർക്കിംഗ്": { "replacement": "🅿️", "description": "P button" },
+  "sos": { "replacement": "🆘", "description": "SOS button" },
+  "മുകളിലേക്ക്": { "replacement": "🆙", "description": "UP! button" },
+  "vs.": { "replacement": "🆚", "description": "VS button" },
+  "കൊക്കോ": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "sa": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "ഐഡിയോഗ്രാഫ് നേട്ടം": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "അംഗീകരിക്കുക": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "അഭിനന്ദനങ്ങൾ": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "രഹസ്യം": { "replacement": "㊙️", "description": "Japanese “secret” button" },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "ചുവന്ന സർക്കിൾ": { "replacement": "🔴", "description": "red circle" },
+  "ഓറഞ്ച് സർക്കിൾ": { "replacement": "🟠", "description": "orange circle" },
+  "മഞ്ഞ സർക്കിൾ": { "replacement": "🟡", "description": "yellow circle" },
+  "പച്ച വൃത്തം": { "replacement": "🟢", "description": "green circle" },
+  "വലിയ നീല വൃത്തം": { "replacement": "🔵", "description": "blue circle" },
+  "പർപ്പിൾ സർക്കിൾ": { "replacement": "🟣", "description": "purple circle" },
+  "തവിട്ട് വൃത്തം": { "replacement": "🟤", "description": "brown circle" },
+  "കറുത്ത വൃത്തം": { "replacement": "⚫", "description": "black circle" },
+  "വെളുത്ത വൃത്തം": { "replacement": "⚪", "description": "white circle" },
+  "ചുവന്ന ചതുരം": { "replacement": "🟥", "description": "red square" },
+  "ഓറഞ്ച് ചതുരം": { "replacement": "🟧", "description": "orange square" },
+  "മഞ്ഞ ചതുരം": { "replacement": "🟨", "description": "yellow square" },
+  "പച്ച ചതുരം": { "replacement": "🟩", "description": "green square" },
+  "നീല ചതുരം": { "replacement": "🟦", "description": "blue square" },
+  "പർപ്പിൾ ചതുരം": { "replacement": "🟪", "description": "purple square" },
+  "തവിട്ട് ചതുരം": { "replacement": "🟫", "description": "brown square" },
+  "കറുത്ത വലിയ ചതുരം": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "വെളുത്ത വലിയ ചതുരം": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "കറുത്ത ഇടത്തരം ചതുരം": {
+    "replacement": "◼️",
+    "description": "black medium square"
+  },
+  "വെളുത്ത ഇടത്തരം ചതുരം": {
+    "replacement": "◻️",
+    "description": "white medium square"
+  },
+  "കറുത്ത ഇടത്തരം ചെറിയ ചതുരം": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "വെളുത്ത ഇടത്തരം ചെറിയ ചതുരം": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "കറുത്ത ചെറിയ ചതുരം": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "വെളുത്ത ചെറിയ ചതുരം": {
+    "replacement": "▫️",
+    "description": "white small square"
+  },
+  "വലിയ ഓറഞ്ച് ഡയമണ്ട്": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "വലിയ നീല വജ്രം": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "ചെറിയ ഓറഞ്ച് ഡയമണ്ട്": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "ചെറിയ നീല വജ്രം": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "ചെറിയ ചുവന്ന ത്രികോണം": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "ചെറിയ ചുവന്ന ത്രികോണം താഴേക്ക്": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "ഉള്ളിൽ ഒരു ഡോട്ട് ഉള്ള ഡയമണ്ട് ആകാരം": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "റേഡിയോ ബട്ടൺ": { "replacement": "🔘", "description": "radio button" },
+  "വെളുത്ത ചതുര ബട്ടൺ": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "കറുത്ത ചതുര ബട്ടൺ": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "പരിശോധിച്ച പതാക": { "replacement": "🏁", "description": "chequered flag" },
+  "പോസ്റ്റിലെ ത്രികോണ പതാക": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "പതാകകൾ മറികടന്നു": { "replacement": "🎌", "description": "crossed flags" },
+  "കറുത്ത കൊടി": { "replacement": "🏴", "description": "black flag" },
+  "വെള്ള കൊടി": { "replacement": "🏳️", "description": "white flag" },
+  "മഴവില്ല് പതാക": { "replacement": "🏳️‍🌈", "description": "rainbow flag" },
+  "ട്രാൻസ്ജെൻഡർ ഫ്ലാഗ്": {
+    "replacement": "🏳️‍⚧️",
+    "description": "transgender flag"
+  },
+  "കടൽക്കൊള്ളക്കാരുടെ പതാക": {
+    "replacement": "🏴‍☠️",
+    "description": "pirate flag"
+  },
+  "അസൻഷൻ ദ്വീപ്": {
+    "replacement": "🇦🇨",
+    "description": "flag: Ascension Island"
+  },
+  "andorra": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "യുണൈറ്റഡ് അറബ് എമിറേറ്റ്സ്": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "അഫ്ഗാനിസ്ഥാൻ": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "ആന്റിഗ്വ ബാർബുഡ": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "anguilla": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "അൽബേനിയ": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "അർമേനിയ": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "അംഗോള": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "അന്റാർട്ടിക്ക": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "അർജന്റീന": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "അമേരിക്കൻ സമോവ": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "ഓസ്ട്രിയ": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "ഓസ്‌ട്രേലിയ": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "അരുബ": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "അലാൻഡ് ദ്വീപുകൾ": {
+    "replacement": "🇦🇽",
+    "description": "flag: Åland Islands"
+  },
+  "അസർബൈജാൻ": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "ബോസ്നിയ ഹെർസഗോവിന": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "ബാർബഡോസ്": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "ബംഗ്ലാദേശ്": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "ബെൽജിയം": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "ബർകിന ഫാസോ": { "replacement": "🇧🇫", "description": "flag: Burkina Faso" },
+  "ബൾഗേറിയ": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "ബഹ്‌റൈൻ": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "ബുറുണ്ടി": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "ബെനിൻ": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "സെന്റ് ബാർത്തലെമി": {
+    "replacement": "🇧🇱",
+    "description": "flag: St. Barthélemy"
+  },
+  "ബെർമുഡ": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "ബ്രൂണൈ": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "ബൊളീവിയ": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "കരീബിയൻ നെതർലാന്റ്സ്": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "ബ്രസീൽ": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "ബഹാമസ്": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "ഭൂട്ടാൻ": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "ബോവെറ്റ് ദ്വീപ്": {
+    "replacement": "🇧🇻",
+    "description": "flag: Bouvet Island"
+  },
+  "ബോട്സ്വാന": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "ബെലാറസ്": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "ബെലീസ്": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "കാനഡ": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "കൊക്കോസ് ദ്വീപുകൾ": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "congo kinshasa": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "മധ്യ ആഫ്രിക്കൻ റിപ്പബ്ലിക്": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "congo brazzaville": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "സ്വിറ്റ്സർലൻഡ്": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "cote divoire": { "replacement": "🇨🇮", "description": "flag: Côte d’Ivoire" },
+  "ദ്വീപുകൾ പാചകം ചെയ്യുക": {
+    "replacement": "🇨🇰",
+    "description": "flag: Cook Islands"
+  },
+  "ചിലി": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "കാമറൂൺ": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "cn": { "replacement": "🇨🇳", "description": "flag: China" },
+  "കൊളംബിയ": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "ക്ലിപ്പർട്ടൺ ദ്വീപ്": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "കോസ്റ്റാറിക്ക": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "ക്യൂബ": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "കേപ്പ് വെർഡെ": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "കുറാക്കാവോ": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "ക്രിസ്മസ് ദ്വീപ്": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "സൈപ്രസ്": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "ചെക്ക് റിപ്പബ്ലിക്": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "ഡി": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "ഡീഗോ ഗാർസിയ": { "replacement": "🇩🇬", "description": "flag: Diego Garcia" },
+  "djibouti": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "ഡെൻമാർക്ക്": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "ഡൊമിനിക്ക": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "ഡൊമിനിക്കന് റിപ്പബ്ലിക്ക്": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "അൾജീരിയ": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "ceuta melilla": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "ഇക്വഡോർ": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "എസ്റ്റോണിയ": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "ഈജിപ്റ്റ്": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "പടിഞ്ഞാറൻ സഹാറ": {
+    "replacement": "🇪🇭",
+    "description": "flag: Western Sahara"
+  },
+  "എറിട്രിയ": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "es": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "എത്യോപ്യ": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "യൂറോപ്യൻ യൂണിയൻ": {
+    "replacement": "🇪🇺",
+    "description": "flag: European Union"
+  },
+  "ഫിൻ‌ലാൻ‌ഡ്": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "ഫിജി": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "ഫോക്ലാൻഡ് ദ്വീപുകൾ": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "മൈക്രോനേഷ്യ": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "ഫറോ ദ്വീപുകൾ": { "replacement": "🇫🇴", "description": "flag: Faroe Islands" },
+  "fr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "ഗാബൺ": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "gb": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "ഗ്രനേഡ": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "ജോർജിയ": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "ഫ്രഞ്ച് ഗയാന": { "replacement": "🇬🇫", "description": "flag: French Guiana" },
+  "ഗ്വെൺസി": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "ഘാന": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "ജിബ്രാൾട്ടർ": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "ഗ്രീൻലാൻഡ്": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "ഗാംബിയ": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "ഗിനിയ": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "ഗ്വാഡലൂപ്പ്": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "ഇക്വറ്റോറിയൽ ഗിനിയ": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "ഗ്രീസ്": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "തെക്കൻ ജോർജിയ തെക്കൻ സാൻഡ്‌വിച്ച് ദ്വീപുകൾ": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "ഗ്വാട്ടിമാല": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "ഗ്വാം": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "ഗിനിയ ബിസ au": { "replacement": "🇬🇼", "description": "flag: Guinea-Bissau" },
+  "ഗയാന": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "ഹോങ് കോംഗ്": {
+    "replacement": "🇭🇰",
+    "description": "flag: Hong Kong SAR China"
+  },
+  "എംസിഡൊണാൾഡ് ദ്വീപുകൾ കേട്ടു": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "ഹോണ്ടുറാസ്": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "ക്രൊയേഷ്യ": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "ഹെയ്തി": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "ഹംഗറി": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "കാനറി ദ്വീപുകൾ": {
+    "replacement": "🇮🇨",
+    "description": "flag: Canary Islands"
+  },
+  "ഇന്തോനേഷ്യ": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "അയർലാൻഡ്": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "ഇസ്രായേൽ": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "മനുഷ്യന്റെ ദ്വീപ്": {
+    "replacement": "🇮🇲",
+    "description": "flag: Isle of Man"
+  },
+  "ഇന്ത്യ": { "replacement": "🇮🇳", "description": "flag: India" },
+  "ബ്രിട്ടീഷ് ഇന്ത്യൻ സമുദ്ര പ്രദേശം": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "ഇറാഖ്": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "ഇറാൻ": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "ഐസ്‌ലാന്റ്": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "അത്": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "ജേഴ്സി": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "ജമൈക്ക": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "ജോർദാൻ": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "jp": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "കെനിയ": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "കിർഗിസ്ഥാൻ": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "കംബോഡിയ": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "കിരിബതി": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "കോമോറോസ്": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "സെന്റ് കിറ്റ്സ് നെവിസ്": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "ഉത്തര കൊറിയ": { "replacement": "🇰🇵", "description": "flag: North Korea" },
+  "kr": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "കുവൈറ്റ്": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "കേമാൻ ദ്വീപുകൾ": {
+    "replacement": "🇰🇾",
+    "description": "flag: Cayman Islands"
+  },
+  "കസാക്കിസ്ഥാൻ": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "ലാവോസ്": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "ലെബനൻ": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "സെന്റ് ലൂസിയ": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "ലിച്ചെൻ‌സ്റ്റൈൻ": {
+    "replacement": "🇱🇮",
+    "description": "flag: Liechtenstein"
+  },
+  "ശ്രീ ലങ്ക": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "ലൈബീരിയ": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "ലെസോത്തോ": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "ലിത്വാനിയ": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "ലക്സംബർഗ്": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "ലാത്വിയ": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "ലിബിയ": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "മൊറോക്കോ": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "മൊണാക്കോ": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "മോൾഡോവ": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "മോണ്ടെനെഗ്രോ": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "സെന്റ് മാർട്ടിൻ": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "മഡഗാസ്കർ": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "മാർഷൽ ദ്വീപുകൾ": {
+    "replacement": "🇲🇭",
+    "description": "flag: Marshall Islands"
+  },
+  "മാസിഡോണിയ": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "മാലി": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "മ്യാൻമർ": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "മംഗോളിയ": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "മക്കാവു": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "വടക്കൻ മരിയാന ദ്വീപുകൾ": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "മാർട്ടിനിക്": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "മൗറിറ്റാനിയ": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "മോണ്ട്സെറാത്ത്": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "മാൾട്ട": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "മൗറീഷ്യസ്": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "മാലിദ്വീപുകൾ": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "മലാവി": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "മെക്സിക്കോ": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "മലേഷ്യ": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "മൊസാംബിക്ക്": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "നമീബിയ": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "ന്യൂ കാലിഡോണിയ": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "നൈഗർ": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "നോർഫോക്ക് ദ്വീപ്": {
+    "replacement": "🇳🇫",
+    "description": "flag: Norfolk Island"
+  },
+  "നൈജീരിയ": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "നിക്കരാഗ്വ": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "നെതർലാന്റ്സ്": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "നോർവേ": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "നേപ്പാൾ": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "ന uru റു": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "niue": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "ന്യൂസിലാന്റ്": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "ഒമാൻ": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "പനാമ": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "പെറു": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "ഫ്രഞ്ച് പോളിനേഷ്യ": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "പാപുവ ന്യൂ ഗ്വിനിയ": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "ഫിലിപ്പൈൻസ്": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "പാക്കിസ്ഥാൻ": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "പോളണ്ട്": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "സെന്റ് പിയറി മൈക്ലോൺ": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "പിറ്റ്കെയ്ൻ ദ്വീപുകൾ": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "പ്യൂർട്ടോ റിക്കോ": {
+    "replacement": "🇵🇷",
+    "description": "flag: Puerto Rico"
+  },
+  "പാലസ്തീനിയൻ പ്രദേശങ്ങൾ": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "പോർച്ചുഗൽ": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "പലാവു": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "പരാഗ്വേ": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "ഖത്തർ": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "പുന un സമാഗമം": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "റൊമാനിയ": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "സെർബിയ": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "റു": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "റുവാണ്ട": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "സൗദി അറേബ്യ": { "replacement": "🇸🇦", "description": "flag: Saudi Arabia" },
+  "സോളമൻ ദ്വീപുകൾ": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "സീഷെൽസ്": { "replacement": "🇸🇨", "description": "flag: Seychelles" },
+  "സുഡാൻ": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "സ്വീഡൻ": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "സിംഗപ്പൂർ": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "സെന്റ് ഹെലീന": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "സ്ലൊവേനിയ": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "svalbard jan mayen": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "സ്ലൊവാക്യ": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "സിയറ ലിയോൺ": { "replacement": "🇸🇱", "description": "flag: Sierra Leone" },
+  "സാൻ മറിനോ": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "സെനഗൽ": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "സൊമാലിയ": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "suriname": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "തെക്കൻ സുഡാൻ": { "replacement": "🇸🇸", "description": "flag: South Sudan" },
+  "സാവോ ടോം പ്രിൻസിപ്പി": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "എൽ സാൽ‌വദോർ": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "സിന്റ് മാർട്ടൻ": {
+    "replacement": "🇸🇽",
+    "description": "flag: Sint Maarten"
+  },
+  "സിറിയ": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "സ്വാസിലാൻഡ്": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "ട്രിസ്ഥാൻ ഡാ കുൻഹ": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "ടർക്കുകൾ കൈക്കോസ് ദ്വീപുകൾ": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "ചാർജ്": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "ഫ്രഞ്ച് തെക്കൻ പ്രദേശങ്ങൾ": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "ടോഗോ": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "തായ്‌ലൻഡ്": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "താജിക്കിസ്ഥാൻ": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "tokelau": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "ടൈമർ ലെസ്റ്റെ": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "തുർക്ക്മെനിസ്ഥാൻ": {
+    "replacement": "🇹🇲",
+    "description": "flag: Turkmenistan"
+  },
+  "ടുണീഷ്യ": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "ടോംഗ": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "tr": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "ട്രിനിഡാഡ് ടൊബാഗോ": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "tuvalu": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "തായ്‌വാൻ": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "ടാൻസാനിയ": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "ഉക്രെയ്ൻ": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "ഉഗാണ്ട": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "ഞങ്ങൾ ദ്വീപുകൾക്ക് പുറത്താണ്": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "ഐയ്ക്യ രാഷ്ട്രസഭ": {
+    "replacement": "🇺🇳",
+    "description": "flag: United Nations"
+  },
+  "ഞങ്ങളെ": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "ഉറുഗ്വേ": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "ഉസ്ബെക്കിസ്ഥാൻ": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "വത്തിക്കാൻ സിറ്റി": {
+    "replacement": "🇻🇦",
+    "description": "flag: Vatican City"
+  },
+  "സെന്റ് വിൻസെന്റ് ഗ്രനേഡൈൻസ്": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "വെനിസ്വേല": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "ബ്രിട്ടീഷ് കന്യക ദ്വീപുകൾ": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "ഞങ്ങളെ കന്യക ദ്വീപുകൾ": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "വിയറ്റ്നാം": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "vanuatu": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "wallis futuna": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "സമോവ": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "കൊസോവോ": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "യെമൻ": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "മയോട്ടി": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "തെക്കേ ആഫ്രിക്ക": {
+    "replacement": "🇿🇦",
+    "description": "flag: South Africa"
+  },
+  "സാംബിയ": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "സിംബാബ്‌വെ": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "ഇംഗ്ലണ്ട്": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "സ്കോട്ട്ലൻഡ്": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "വെയിൽസ്": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

@@ -1,0 +1,2940 @@
+{
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "grijnzend": { "replacement": "😀", "description": "grinning face" },
+  "smiley": {
+    "replacement": "😃",
+    "description": "grinning face with big eyes"
+  },
+  "glimlach": {
+    "replacement": "😄",
+    "description": "grinning face with smiling eyes"
+  },
+  "grijns": { "replacement": "😏", "description": "smirking face" },
+  "lachend": { "replacement": "😆", "description": "grinning squinting face" },
+  "zweet glimlach": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "vreugde": { "replacement": "😂", "description": "face with tears of joy" },
+  "licht lachend gezicht": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "ondersteboven gezicht": {
+    "replacement": "🙃",
+    "description": "upside-down face"
+  },
+  "knipoog": { "replacement": "😉", "description": "winking face" },
+  "blozen": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "onschuldig": {
+    "replacement": "😇",
+    "description": "smiling face with halo"
+  },
+  "lachend gezicht met drie harten": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "hart ogen": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "ster geslagen": { "replacement": "🤩", "description": "star-struck" },
+  "kussend hart": { "replacement": "😘", "description": "face blowing a kiss" },
+  "zoenen": { "replacement": "😗", "description": "kissing face" },
+  "ontspannen": { "replacement": "☺️", "description": "smiling face" },
+  "zoenen gesloten ogen": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "zoenen lachende ogen": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "lachend gezicht met traan": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "jammie": { "replacement": "😋", "description": "face savoring food" },
+  "uitgestoken tong": {
+    "replacement": "😛",
+    "description": "face with tongue"
+  },
+  "uitgestoken tong knipogen oog": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "maf gezicht": { "replacement": "🤪", "description": "zany face" },
+  "uitgestoken tong gesloten ogen": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "geld mond gezicht": {
+    "replacement": "🤑",
+    "description": "money-mouth face"
+  },
+  "knuffels": { "replacement": "🤗", "description": "hugging face" },
+  "hand over de mond": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "zwijgend gezicht": { "replacement": "🤫", "description": "shushing face" },
+  "denken": { "replacement": "🤔", "description": "thinking face" },
+  "rits mond gezicht": {
+    "replacement": "🤐",
+    "description": "zipper-mouth face"
+  },
+  "opgetrokken wenkbrauw": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "neutraal gezicht": { "replacement": "😐", "description": "neutral face" },
+  "uitdrukkingsloos": {
+    "replacement": "😑",
+    "description": "expressionless face"
+  },
+  "geen mond": { "replacement": "😶", "description": "face without mouth" },
+  "niet geamuseerd": { "replacement": "😒", "description": "unamused face" },
+  "ogen rollen": {
+    "replacement": "🙄",
+    "description": "face with rolling eyes"
+  },
+  "grimassen": { "replacement": "😬", "description": "grimacing face" },
+  "liggend gezicht": { "replacement": "🤥", "description": "lying face" },
+  "opgelucht": { "replacement": "😌", "description": "relieved face" },
+  "nadenkend": { "replacement": "😔", "description": "pensive face" },
+  "slaperig": { "replacement": "😪", "description": "sleepy face" },
+  "kwijlend gezicht": { "replacement": "🤤", "description": "drooling face" },
+  "slapen": { "replacement": "😴", "description": "sleeping face" },
+  "masker": { "replacement": "😷", "description": "face with medical mask" },
+  "gezicht met thermometer": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "gezicht met hoofdverband": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "misselijk gezicht": { "replacement": "🤢", "description": "nauseated face" },
+  "braken gezicht": { "replacement": "🤮", "description": "face vomiting" },
+  "niezen gezicht": { "replacement": "🤧", "description": "sneezing face" },
+  "heet gezicht": { "replacement": "🥵", "description": "hot face" },
+  "koud gezicht": { "replacement": "🥶", "description": "cold face" },
+  "wazig gezicht": { "replacement": "🥴", "description": "woozy face" },
+  "duizelig gezicht": { "replacement": "😵", "description": "dizzy face" },
+  "exploderend hoofd": { "replacement": "🤯", "description": "exploding head" },
+  "cowboyhoed gezicht": {
+    "replacement": "🤠",
+    "description": "cowboy hat face"
+  },
+  "feestend gezicht": { "replacement": "🥳", "description": "partying face" },
+  "vermomd gezicht": { "replacement": "🥸", "description": "disguised face" },
+  "zonnebril": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "nerd gezicht": { "replacement": "🤓", "description": "nerd face" },
+  "monocle gezicht": {
+    "replacement": "🧐",
+    "description": "face with monocle"
+  },
+  "verward": { "replacement": "😕", "description": "confused face" },
+  "bezorgd": { "replacement": "😟", "description": "worried face" },
+  "licht fronsend gezicht": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "fronsend gezicht": { "replacement": "☹️", "description": "frowning face" },
+  "open mond": { "replacement": "😮", "description": "face with open mouth" },
+  "verstomd": { "replacement": "😯", "description": "hushed face" },
+  "verbaasd": { "replacement": "😖", "description": "confounded face" },
+  "gespoeld": { "replacement": "😳", "description": "flushed face" },
+  "smekend gezicht": { "replacement": "🥺", "description": "pleading face" },
+  "fronsend": {
+    "replacement": "😦",
+    "description": "frowning face with open mouth"
+  },
+  "gekweld": { "replacement": "😧", "description": "anguished face" },
+  "angstig": { "replacement": "😨", "description": "fearful face" },
+  "koud zweet": {
+    "replacement": "😰",
+    "description": "anxious face with sweat"
+  },
+  "teleurgesteld opgelucht": {
+    "replacement": "😥",
+    "description": "sad but relieved face"
+  },
+  "huilen": { "replacement": "😢", "description": "crying face" },
+  "snik": { "replacement": "😭", "description": "loudly crying face" },
+  "schreeuw": { "replacement": "😱", "description": "face screaming in fear" },
+  "volharden": { "replacement": "😣", "description": "persevering face" },
+  "teleurgesteld": { "replacement": "😞", "description": "disappointed face" },
+  "zweet": { "replacement": "😓", "description": "downcast face with sweat" },
+  "moe": { "replacement": "😩", "description": "weary face" },
+  "vermoeid gezicht": { "replacement": "😫", "description": "tired face" },
+  "gapend gezicht": { "replacement": "🥱", "description": "yawning face" },
+  "triomf": { "replacement": "😤", "description": "face with steam from nose" },
+  "woede": { "replacement": "💢", "description": "anger symbol" },
+  "boos": { "replacement": "😠", "description": "angry face" },
+  "vloekend gezicht": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "lachende imp": {
+    "replacement": "😈",
+    "description": "smiling face with horns"
+  },
+  "imp": { "replacement": "👿", "description": "angry face with horns" },
+  "schedel": { "replacement": "💀", "description": "skull" },
+  "doodshoofd met gekruiste beenderen": {
+    "replacement": "☠️",
+    "description": "skull and crossbones"
+  },
+  "hankey": { "replacement": "💩", "description": "pile of poo" },
+  "clown gezicht": { "replacement": "🤡", "description": "clown face" },
+  "Japanse boeman": { "replacement": "👹", "description": "ogre" },
+  "Japanse goblin": { "replacement": "👺", "description": "goblin" },
+  "geest": { "replacement": "🧞", "description": "genie" },
+  "buitenaards wezen": { "replacement": "👽", "description": "alien" },
+  "ruimte-indringer": { "replacement": "👾", "description": "alien monster" },
+  "robot": { "replacement": "🤖", "description": "robot" },
+  "smiley kat": { "replacement": "😺", "description": "grinning cat" },
+  "glimlach kat": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "vreugde kat": {
+    "replacement": "😹",
+    "description": "cat with tears of joy"
+  },
+  "hart ogen kat": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "grijns kat": { "replacement": "😼", "description": "cat with wry smile" },
+  "kussende kat": { "replacement": "😽", "description": "kissing cat" },
+  "schreeuw kat": { "replacement": "🙀", "description": "weary cat" },
+  "huilend kattengezicht": { "replacement": "😿", "description": "crying cat" },
+  "pruilende kat": { "replacement": "😾", "description": "pouting cat" },
+  "zie geen kwaad": {
+    "replacement": "🙈",
+    "description": "see-no-evil monkey"
+  },
+  "Geen kwaad horen": {
+    "replacement": "🙉",
+    "description": "hear-no-evil monkey"
+  },
+  "spreek geen kwaad": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "kus": { "replacement": "💋", "description": "kiss mark" },
+  "liefdesbrief": { "replacement": "💌", "description": "love letter" },
+  "Cupido": { "replacement": "💘", "description": "heart with arrow" },
+  "geschenk hart": { "replacement": "💝", "description": "heart with ribbon" },
+  "sprankelend hart": { "replacement": "💖", "description": "sparkling heart" },
+  "hartslag": { "replacement": "💓", "description": "beating heart" },
+  "draaiende harten": {
+    "replacement": "💞",
+    "description": "revolving hearts"
+  },
+  "twee harten": { "replacement": "💕", "description": "two hearts" },
+  "hart decoratie": { "replacement": "💟", "description": "heart decoration" },
+  "zware uitroep": { "replacement": "❣️", "description": "heart exclamation" },
+  "gebroken hart": { "replacement": "💔", "description": "broken heart" },
+  "hart-": { "replacement": "❤️", "description": "red heart" },
+  "oranje hart": { "replacement": "🧡", "description": "orange heart" },
+  "geel hart": { "replacement": "💛", "description": "yellow heart" },
+  "groen hart": { "replacement": "💚", "description": "green heart" },
+  "blauw hart": { "replacement": "💙", "description": "blue heart" },
+  "paars hart": { "replacement": "💜", "description": "purple heart" },
+  "bruin hart": { "replacement": "🤎", "description": "brown heart" },
+  "zwart hart": { "replacement": "🖤", "description": "black heart" },
+  "wit hart": { "replacement": "🤍", "description": "white heart" },
+  "boom": { "replacement": "💥", "description": "collision" },
+  "duizelig": { "replacement": "💫", "description": "dizzy" },
+  "zweet druppels": { "replacement": "💦", "description": "sweat droplets" },
+  "streepje": { "replacement": "💨", "description": "dashing away" },
+  "gat": { "replacement": "🕳️", "description": "hole" },
+  "bom": { "replacement": "💣", "description": "bomb" },
+  "spraakballon": { "replacement": "💬", "description": "speech balloon" },
+  "oog tekstballon": {
+    "replacement": "👁️‍🗨️",
+    "description": "eye in speech bubble"
+  },
+  "linker tekstballon": {
+    "replacement": "🗨️",
+    "description": "left speech bubble"
+  },
+  "juiste woede-zeepbel": {
+    "replacement": "🗯️",
+    "description": "right anger bubble"
+  },
+  "gedachte ballon": { "replacement": "💭", "description": "thought balloon" },
+  "zzz": { "replacement": "💤", "description": "zzz" },
+  "Golf": { "replacement": "👋", "description": "waving hand" },
+  "opgeheven handrug": {
+    "replacement": "🤚",
+    "description": "raised back of hand"
+  },
+  "opgeheven hand met uitgestrekte vingers": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "hand-": { "replacement": "✋", "description": "raised hand" },
+  "vulcanische groet": { "replacement": "🖖", "description": "vulcan salute" },
+  "ok hand": { "replacement": "👌", "description": "OK hand" },
+  "beknelde vingers": { "replacement": "🤌", "description": "pinched fingers" },
+  "knijpen hand": { "replacement": "🤏", "description": "pinching hand" },
+  "v": { "replacement": "✌️", "description": "victory hand" },
+  "duimen": { "replacement": "🤞", "description": "crossed fingers" },
+  "hou van je gebaar": {
+    "replacement": "🤟",
+    "description": "love-you gesture"
+  },
+  "metaal": { "replacement": "🤘", "description": "sign of the horns" },
+  "bel me hand": { "replacement": "🤙", "description": "call me hand" },
+  "punt naar links": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "wijs naar rechts": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "wijzen 2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "middelvinger": { "replacement": "🖕", "description": "middle finger" },
+  "naar beneden wijzen": {
+    "replacement": "👇",
+    "description": "backhand index pointing down"
+  },
+  "wijzen": { "replacement": "☝️", "description": "index pointing up" },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "vuist opgeheven": { "replacement": "✊", "description": "raised fist" },
+  "vuist tegemoetkomend": {
+    "replacement": "👊",
+    "description": "oncoming fist"
+  },
+  "vuist naar links": {
+    "replacement": "🤛",
+    "description": "left-facing fist"
+  },
+  "vuist goed": { "replacement": "🤜", "description": "right-facing fist" },
+  "klap": { "replacement": "👏", "description": "clapping hands" },
+  "opgeheven handen": { "replacement": "🙌", "description": "raising hands" },
+  "open handen": { "replacement": "👐", "description": "open hands" },
+  "handpalmen tegen elkaar": {
+    "replacement": "🤲",
+    "description": "palms up together"
+  },
+  "handdruk": { "replacement": "🤝", "description": "handshake" },
+  "bidden": { "replacement": "🙏", "description": "folded hands" },
+  "hand schrijven": { "replacement": "✍️", "description": "writing hand" },
+  "nagelverzorging": { "replacement": "💅", "description": "nail polish" },
+  "selfie": { "replacement": "🤳", "description": "selfie" },
+  "spier": { "replacement": "💪", "description": "flexed biceps" },
+  "mechanische arm": { "replacement": "🦾", "description": "mechanical arm" },
+  "mechanisch been": { "replacement": "🦿", "description": "mechanical leg" },
+  "been": { "replacement": "🦵", "description": "leg" },
+  "voet": { "replacement": "🦶", "description": "foot" },
+  "oor": { "replacement": "👂", "description": "ear" },
+  "oor met gehoorapparaat": {
+    "replacement": "🦻",
+    "description": "ear with hearing aid"
+  },
+  "neus-": { "replacement": "👃", "description": "nose" },
+  "hersenen": { "replacement": "🧠", "description": "brain" },
+  "anatomisch hart": { "replacement": "🫀", "description": "anatomical heart" },
+  "longen": { "replacement": "🫁", "description": "lungs" },
+  "tand": { "replacement": "🦷", "description": "tooth" },
+  "bot": { "replacement": "🦴", "description": "bone" },
+  "ogen": { "replacement": "👀", "description": "eyes" },
+  "oog": { "replacement": "👁️", "description": "eye" },
+  "tong": { "replacement": "👅", "description": "tongue" },
+  "lippen": { "replacement": "👄", "description": "mouth" },
+  "baby": { "replacement": "👶", "description": "baby" },
+  "kind": { "replacement": "🧒", "description": "child" },
+  "jongen": { "replacement": "👦", "description": "boy" },
+  "meisje": { "replacement": "👧", "description": "girl" },
+  "volwassen": { "replacement": "🧑", "description": "person" },
+  "blonde haren persoon": {
+    "replacement": "👱",
+    "description": "person: blond hair"
+  },
+  "Mens": { "replacement": "👨", "description": "man" },
+  "bebaarde persoon": { "replacement": "🧔", "description": "man: beard" },
+  "roodharige man": { "replacement": "👨‍🦰", "description": "man: red hair" },
+  "gekrulde man": { "replacement": "👨‍🦱", "description": "man: curly hair" },
+  "witharige man": { "replacement": "👨‍🦳", "description": "man: white hair" },
+  "kale man": { "replacement": "👨‍🦲", "description": "man: bald" },
+  "vrouw": { "replacement": "👩", "description": "woman" },
+  "roodharige vrouw": { "replacement": "👩‍🦰", "description": "woman: red hair" },
+  "persoon rood haar": {
+    "replacement": "🧑‍🦰",
+    "description": "person: red hair"
+  },
+  "gekrulde vrouw": { "replacement": "👩‍🦱", "description": "woman: curly hair" },
+  "persoon krullend haar": {
+    "replacement": "🧑‍🦱",
+    "description": "person: curly hair"
+  },
+  "witharige vrouw": {
+    "replacement": "👩‍🦳",
+    "description": "woman: white hair"
+  },
+  "persoon wit haar": {
+    "replacement": "🧑‍🦳",
+    "description": "person: white hair"
+  },
+  "kale vrouw": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "persoon kaal": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "blonde haren vrouw": {
+    "replacement": "👱‍♀️",
+    "description": "woman: blond hair"
+  },
+  "blonde harige man": {
+    "replacement": "👱‍♂️",
+    "description": "man: blond hair"
+  },
+  "oudere volwassene": { "replacement": "🧓", "description": "older person" },
+  "oudere man": { "replacement": "👴", "description": "old man" },
+  "oudere vrouw": { "replacement": "👵", "description": "old woman" },
+  "fronsend persoon": { "replacement": "🙍", "description": "person frowning" },
+  "fronsende man": { "replacement": "🙍‍♂️", "description": "man frowning" },
+  "fronsende vrouw": { "replacement": "🙍‍♀️", "description": "woman frowning" },
+  "pruilend gezicht": { "replacement": "🙎", "description": "person pouting" },
+  "pruilende man": { "replacement": "🙎‍♂️", "description": "man pouting" },
+  "pruilende vrouw": { "replacement": "🙎‍♀️", "description": "woman pouting" },
+  "niet goed": { "replacement": "🙅", "description": "person gesturing NO" },
+  "geen goede man": { "replacement": "🙅‍♂️", "description": "man gesturing NO" },
+  "geen goede vrouw": {
+    "replacement": "🙅‍♀️",
+    "description": "woman gesturing NO"
+  },
+  "ok persoon": { "replacement": "🙆", "description": "person gesturing OK" },
+  "oke man": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "ok vrouw": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "kantelende hand persoon": {
+    "replacement": "💁",
+    "description": "person tipping hand"
+  },
+  "kantelende hand man": {
+    "replacement": "💁‍♂️",
+    "description": "man tipping hand"
+  },
+  "kantelende hand vrouw": {
+    "replacement": "💁‍♀️",
+    "description": "woman tipping hand"
+  },
+  "hand opsteken": {
+    "replacement": "🙋",
+    "description": "person raising hand"
+  },
+  "hand opsteken man": {
+    "replacement": "🙋‍♂️",
+    "description": "man raising hand"
+  },
+  "hand omhoog vrouw": {
+    "replacement": "🙋‍♀️",
+    "description": "woman raising hand"
+  },
+  "Doof persoon": { "replacement": "🧏", "description": "deaf person" },
+  "dove man": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "dove vrouw": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "boog": { "replacement": "🙇", "description": "person bowing" },
+  "buigende man": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "buigende vrouw": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "facepalm": { "replacement": "🤦", "description": "person facepalming" },
+  "man met zijn gezicht": {
+    "replacement": "🤦‍♂️",
+    "description": "man facepalming"
+  },
+  "vrouw facepalming": {
+    "replacement": "🤦‍♀️",
+    "description": "woman facepalming"
+  },
+  "schouderophalend": {
+    "replacement": "🤷",
+    "description": "person shrugging"
+  },
+  "man schouderophalend": {
+    "replacement": "🤷‍♂️",
+    "description": "man shrugging"
+  },
+  "vrouw schouderophalend": {
+    "replacement": "🤷‍♀️",
+    "description": "woman shrugging"
+  },
+  "gezondheidswerker": {
+    "replacement": "🧑‍⚕️",
+    "description": "health worker"
+  },
+  "man gezondheidswerker": {
+    "replacement": "👨‍⚕️",
+    "description": "man health worker"
+  },
+  "vrouw gezondheidswerker": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "leerling": { "replacement": "🧑‍🎓", "description": "student" },
+  "man student": { "replacement": "👨‍🎓", "description": "man student" },
+  "vrouw student": { "replacement": "👩‍🎓", "description": "woman student" },
+  "leraar": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "man leraar": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "vrouw leraar": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "rechter": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "man rechter": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "vrouw rechter": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "boer": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "man boer": { "replacement": "👨‍🌾", "description": "man farmer" },
+  "vrouw boer": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "koken": { "replacement": "🧑‍🍳", "description": "cook" },
+  "man kok": { "replacement": "👨‍🍳", "description": "man cook" },
+  "vrouw kok": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "monteur": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "man monteur": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "vrouw monteur": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "fabrieksarbeider": {
+    "replacement": "🧑‍🏭",
+    "description": "factory worker"
+  },
+  "man fabrieksarbeider": {
+    "replacement": "👨‍🏭",
+    "description": "man factory worker"
+  },
+  "vrouw fabrieksarbeider": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "kantoormedewerker": {
+    "replacement": "🧑‍💼",
+    "description": "office worker"
+  },
+  "man kantoormedewerker": {
+    "replacement": "👨‍💼",
+    "description": "man office worker"
+  },
+  "vrouw kantoormedewerker": {
+    "replacement": "👩‍💼",
+    "description": "woman office worker"
+  },
+  "wetenschapper": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "man wetenschapper": { "replacement": "👨‍🔬", "description": "man scientist" },
+  "vrouw wetenschapper": {
+    "replacement": "👩‍🔬",
+    "description": "woman scientist"
+  },
+  "technoloog": { "replacement": "🧑‍💻", "description": "technologist" },
+  "man technoloog": { "replacement": "👨‍💻", "description": "man technologist" },
+  "vrouw technoloog": {
+    "replacement": "👩‍💻",
+    "description": "woman technologist"
+  },
+  "zanger": { "replacement": "🧑‍🎤", "description": "singer" },
+  "man zanger": { "replacement": "👨‍🎤", "description": "man singer" },
+  "zangeres": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "artiest": { "replacement": "🧑‍🎨", "description": "artist" },
+  "man kunstenaar": { "replacement": "👨‍🎨", "description": "man artist" },
+  "vrouw kunstenaar": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "piloot": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "man piloot": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "vrouw piloot": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "astronaut": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "man astronaut": { "replacement": "👨‍🚀", "description": "man astronaut" },
+  "vrouw astronaut": { "replacement": "👩‍🚀", "description": "woman astronaut" },
+  "brandweerman": { "replacement": "🧑‍🚒", "description": "firefighter" },
+  "man brandweerman": { "replacement": "👨‍🚒", "description": "man firefighter" },
+  "vrouw brandweerman": {
+    "replacement": "👩‍🚒",
+    "description": "woman firefighter"
+  },
+  "politie agent": { "replacement": "👮", "description": "police officer" },
+  "politieagent": { "replacement": "👮‍♂️", "description": "man police officer" },
+  "politieagente": {
+    "replacement": "👮‍♀️",
+    "description": "woman police officer"
+  },
+  "detective": { "replacement": "🕵️", "description": "detective" },
+  "mannelijke detective": {
+    "replacement": "🕵️‍♂️",
+    "description": "man detective"
+  },
+  "vrouwelijke detective": {
+    "replacement": "🕵️‍♀️",
+    "description": "woman detective"
+  },
+  "bewaker": { "replacement": "💂‍♂️", "description": "man guard" },
+  "wachtster": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "ninja": { "replacement": "🥷", "description": "ninja" },
+  "Bouwvakker": { "replacement": "👷", "description": "construction worker" },
+  "bouwvakker man": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "bouwvakker vrouw": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "prins": { "replacement": "🤴", "description": "prince" },
+  "prinses": { "replacement": "👸", "description": "princess" },
+  "persoon met tulband": {
+    "replacement": "👳",
+    "description": "person wearing turban"
+  },
+  "man met tulband": {
+    "replacement": "👳‍♂️",
+    "description": "man wearing turban"
+  },
+  "vrouw met tulband": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "man met gua pi mao": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "vrouw met hoofddoek": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "persoon in smoking": {
+    "replacement": "🤵",
+    "description": "person in tuxedo"
+  },
+  "man in smoking": { "replacement": "🤵‍♂️", "description": "man in tuxedo" },
+  "vrouw in smoking": {
+    "replacement": "🤵‍♀️",
+    "description": "woman in tuxedo"
+  },
+  "persoon met sluier": {
+    "replacement": "👰",
+    "description": "person with veil"
+  },
+  "man met sluier": { "replacement": "👰‍♂️", "description": "man with veil" },
+  "vrouw met sluier": {
+    "replacement": "👰‍♀️",
+    "description": "woman with veil"
+  },
+  "zwangere vrouw": { "replacement": "🤰", "description": "pregnant woman" },
+  "borstvoeding": { "replacement": "🤱", "description": "breast-feeding" },
+  "vrouw voedende baby": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "man voeding baby": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "persoon voedende baby": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "engel": { "replacement": "👼", "description": "baby angel" },
+  "de kerstman": { "replacement": "🎅", "description": "Santa Claus" },
+  "mevrouw claus": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "mx claus": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "superheld": { "replacement": "🦸", "description": "superhero" },
+  "superheld man": { "replacement": "🦸‍♂️", "description": "man superhero" },
+  "superheld vrouw": { "replacement": "🦸‍♀️", "description": "woman superhero" },
+  "superschurk": { "replacement": "🦹", "description": "supervillain" },
+  "superschurk man": { "replacement": "🦹‍♂️", "description": "man supervillain" },
+  "superschurk vrouw": {
+    "replacement": "🦹‍♀️",
+    "description": "woman supervillain"
+  },
+  "magiër": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "magiër vrouw": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "fee": { "replacement": "🧚", "description": "fairy" },
+  "sprookjesman": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "fee vrouw": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "vampier": { "replacement": "🧛", "description": "vampire" },
+  "vampier man": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "vampier vrouw": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "merperson": { "replacement": "🧜", "description": "merperson" },
+  "meerman": { "replacement": "🧜‍♂️", "description": "merman" },
+  "meermin": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "elf": { "replacement": "🧝", "description": "elf" },
+  "elf man": { "replacement": "🧝‍♂️", "description": "man elf" },
+  "elf vrouw": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "genie man": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "genie vrouw": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "zombie": { "replacement": "🧟", "description": "zombie" },
+  "zombie man": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "zombie vrouw": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "massage": { "replacement": "💆", "description": "person getting massage" },
+  "massage man": { "replacement": "💆‍♂️", "description": "man getting massage" },
+  "massage vrouw": {
+    "replacement": "💆‍♀️",
+    "description": "woman getting massage"
+  },
+  "kapsel": { "replacement": "💇", "description": "person getting haircut" },
+  "kapsel man": { "replacement": "💇‍♂️", "description": "man getting haircut" },
+  "kapsel vrouw": {
+    "replacement": "💇‍♀️",
+    "description": "woman getting haircut"
+  },
+  "wandelen": { "replacement": "🚶", "description": "person walking" },
+  "lopende man": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "lopende vrouw": { "replacement": "🏃‍♀️", "description": "woman running" },
+  "staande persoon": { "replacement": "🧍", "description": "person standing" },
+  "staande man": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "staande vrouw": { "replacement": "🧍‍♀️", "description": "woman standing" },
+  "knielende persoon": { "replacement": "🧎", "description": "person kneeling" },
+  "knielende man": { "replacement": "🧎‍♂️", "description": "man kneeling" },
+  "knielende vrouw": { "replacement": "🧎‍♀️", "description": "woman kneeling" },
+  "persoon met sonderende stok": {
+    "replacement": "🧑‍🦯",
+    "description": "person with white cane"
+  },
+  "man met sonderende stok": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "vrouw met sonderende stok": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "persoon in een gemotoriseerde rolstoel": {
+    "replacement": "🧑‍🦼",
+    "description": "person in motorized wheelchair"
+  },
+  "man in gemotoriseerde rolstoel": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "vrouw in gemotoriseerde rolstoel": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "persoon in handmatige rolstoel": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "man in handmatige rolstoel": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "vrouw in handmatige rolstoel": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "loper": { "replacement": "🏃", "description": "person running" },
+  "rennende man": { "replacement": "🏃‍♂️", "description": "man running" },
+  "vrouw dansen": { "replacement": "💃", "description": "woman dancing" },
+  "man dansen": { "replacement": "🕺", "description": "man dancing" },
+  "pak zwevend": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "dansers": { "replacement": "👯", "description": "people with bunny ears" },
+  "dansende mannen": {
+    "replacement": "👯‍♂️",
+    "description": "men with bunny ears"
+  },
+  "dansende vrouwen": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "sauna persoon": {
+    "replacement": "🧖",
+    "description": "person in steamy room"
+  },
+  "sauna man": { "replacement": "🧖‍♂️", "description": "man in steamy room" },
+  "sauna vrouw": { "replacement": "🧖‍♀️", "description": "woman in steamy room" },
+  "klimmen": { "replacement": "🧗", "description": "person climbing" },
+  "klimmende man": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "klimmende vrouw": { "replacement": "🧗‍♀️", "description": "woman climbing" },
+  "persoon schermen": { "replacement": "🤺", "description": "person fencing" },
+  "paardenracen": { "replacement": "🏇", "description": "horse racing" },
+  "skiër": { "replacement": "⛷️", "description": "skier" },
+  "snowboarder": { "replacement": "🏂", "description": "snowboarder" },
+  "golfen": { "replacement": "🏌️", "description": "person golfing" },
+  "golfende man": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "golfende vrouw": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "surfer": { "replacement": "🏄", "description": "person surfing" },
+  "surfen man": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "surfende vrouw": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "roeiboot": { "replacement": "🚣", "description": "person rowing boat" },
+  "roeiende man": { "replacement": "🚣‍♂️", "description": "man rowing boat" },
+  "roeiende vrouw": { "replacement": "🚣‍♀️", "description": "woman rowing boat" },
+  "zwemmer": { "replacement": "🏊", "description": "person swimming" },
+  "zwemmende man": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "zwemmende vrouw": { "replacement": "🏊‍♀️", "description": "woman swimming" },
+  "stuiterende bal persoon": {
+    "replacement": "⛹️",
+    "description": "person bouncing ball"
+  },
+  "stuiterende bal man": {
+    "replacement": "⛹️‍♂️",
+    "description": "man bouncing ball"
+  },
+  "stuiterende bal vrouw": {
+    "replacement": "⛹️‍♀️",
+    "description": "woman bouncing ball"
+  },
+  "gewichtheffen": {
+    "replacement": "🏋️",
+    "description": "person lifting weights"
+  },
+  "Gewichtheffen man": {
+    "replacement": "🏋️‍♂️",
+    "description": "man lifting weights"
+  },
+  "Gewichtheffen vrouw": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "fietser": { "replacement": "🚴", "description": "person biking" },
+  "fietsen man": { "replacement": "🚴‍♂️", "description": "man biking" },
+  "fietsen vrouw": { "replacement": "🚴‍♀️", "description": "woman biking" },
+  "bergfietser": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "mountainbiken man": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "mountainbiken vrouw": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "cartwheeling": { "replacement": "🤸", "description": "person cartwheeling" },
+  "man cartwheeling": {
+    "replacement": "🤸‍♂️",
+    "description": "man cartwheeling"
+  },
+  "vrouw cartwheeling": {
+    "replacement": "🤸‍♀️",
+    "description": "woman cartwheeling"
+  },
+  "worstelen": { "replacement": "🤼", "description": "people wrestling" },
+  "mannen worstelen": { "replacement": "🤼‍♂️", "description": "men wrestling" },
+  "vrouwen worstelen": {
+    "replacement": "🤼‍♀️",
+    "description": "women wrestling"
+  },
+  "waterpolo": {
+    "replacement": "🤽",
+    "description": "person playing water polo"
+  },
+  "man spelen waterpolo": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "vrouw spelen waterpolo": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "handbal persoon": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "man handbal spelen": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "vrouw handbal spelen": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "jonglerende persoon": {
+    "replacement": "🤹",
+    "description": "person juggling"
+  },
+  "man jongleren": { "replacement": "🤹‍♂️", "description": "man juggling" },
+  "vrouw jongleren": { "replacement": "🤹‍♀️", "description": "woman juggling" },
+  "lotushouding": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "lotuspositie man": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "lotuspositie vrouw": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "bad": { "replacement": "🛁", "description": "bathtub" },
+  "slaapbed": { "replacement": "🛌", "description": "person in bed" },
+  "mensen hand in hand": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "twee vrouwen hand in hand": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "paar": { "replacement": "👫", "description": "woman and man holding hands" },
+  "twee mannen hand in hand": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "couplekiss": { "replacement": "💏", "description": "kiss" },
+  "couplekiss man vrouw": {
+    "replacement": "👩‍❤️‍💋‍👨",
+    "description": "kiss: woman, man"
+  },
+  "couplekiss man man": {
+    "replacement": "👨‍❤️‍💋‍👨",
+    "description": "kiss: man, man"
+  },
+  "couplekiss vrouw vrouw": {
+    "replacement": "👩‍❤️‍💋‍👩",
+    "description": "kiss: woman, woman"
+  },
+  "koppel met hart": {
+    "replacement": "💑",
+    "description": "couple with heart"
+  },
+  "koppel met hart vrouw man": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "koppel met hart man man": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "koppel met hart vrouw vrouw": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "familie": { "replacement": "👪", "description": "family" },
+  "familie man vrouw jongen": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "familie man vrouw meisje": {
+    "replacement": "👨‍👩‍👧",
+    "description": "family: man, woman, girl"
+  },
+  "familie man vrouw meisje jongen": {
+    "replacement": "👨‍👩‍👧‍👦",
+    "description": "family: man, woman, girl, boy"
+  },
+  "familie man vrouw jongen jongen": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "familie man vrouw meisje meisje": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "familieman man jongen": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "familie man man meisje": {
+    "replacement": "👨‍👨‍👧",
+    "description": "family: man, man, girl"
+  },
+  "familie man man meisje jongen": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "familieman man jongen jongen": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "familie man man meisje meisje": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "familie vrouw vrouw jongen": {
+    "replacement": "👩‍👩‍👦",
+    "description": "family: woman, woman, boy"
+  },
+  "familie vrouw vrouw meisje": {
+    "replacement": "👩‍👩‍👧",
+    "description": "family: woman, woman, girl"
+  },
+  "familie vrouw vrouw meisje jongen": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "familie vrouw vrouw jongen jongen": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "familie vrouw vrouw meisje meisje": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "familieman jongen": {
+    "replacement": "👨‍👦",
+    "description": "family: man, boy"
+  },
+  "familie man jongen jongen": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "familie man meisje": {
+    "replacement": "👨‍👧",
+    "description": "family: man, girl"
+  },
+  "familie man meisje jongen": {
+    "replacement": "👨‍👧‍👦",
+    "description": "family: man, girl, boy"
+  },
+  "familie man meisje meisje": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "familie vrouw jongen": {
+    "replacement": "👩‍👦",
+    "description": "family: woman, boy"
+  },
+  "familie vrouw jongen jongen": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "familie vrouw meisje": {
+    "replacement": "👩‍👧",
+    "description": "family: woman, girl"
+  },
+  "familie vrouw meisje jongen": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "familie vrouw meisje meisje": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "sprekend hoofd": { "replacement": "🗣️", "description": "speaking head" },
+  "buste in silhouet": {
+    "replacement": "👤",
+    "description": "bust in silhouette"
+  },
+  "bustes in silhouet": {
+    "replacement": "👥",
+    "description": "busts in silhouette"
+  },
+  "mensen knuffelen": { "replacement": "🫂", "description": "people hugging" },
+  "voetafdrukken": { "replacement": "👣", "description": "footprints" },
+  "apen gezicht": { "replacement": "🐵", "description": "monkey face" },
+  "aap": { "replacement": "🐒", "description": "monkey" },
+  "gorilla": { "replacement": "🦍", "description": "gorilla" },
+  "orangoetan": { "replacement": "🦧", "description": "orangutan" },
+  "hond": { "replacement": "🐶", "description": "dog face" },
+  "hond2": { "replacement": "🐕", "description": "dog" },
+  "geleidehond": { "replacement": "🦮", "description": "guide dog" },
+  "hulphond": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "poedel": { "replacement": "🐩", "description": "poodle" },
+  "wolf": { "replacement": "🐺", "description": "wolf" },
+  "vos gezicht": { "replacement": "🦊", "description": "fox" },
+  "wasbeer": { "replacement": "🦝", "description": "raccoon" },
+  "kat": { "replacement": "🐱", "description": "cat face" },
+  "cat2": { "replacement": "🐈", "description": "cat" },
+  "zwarte kat": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "leeuw": { "replacement": "🦁", "description": "lion" },
+  "tijger": { "replacement": "🐯", "description": "tiger face" },
+  "tijger2": { "replacement": "🐅", "description": "tiger" },
+  "luipaard": { "replacement": "🐆", "description": "leopard" },
+  "paard": { "replacement": "🐴", "description": "horse face" },
+  "renpaard": { "replacement": "🐎", "description": "horse" },
+  "eenhoorn": { "replacement": "🦄", "description": "unicorn" },
+  "zebra": { "replacement": "🦓", "description": "zebra" },
+  "herten": { "replacement": "🦌", "description": "deer" },
+  "bizon": { "replacement": "🦬", "description": "bison" },
+  "koe": { "replacement": "🐮", "description": "cow face" },
+  "os": { "replacement": "🐂", "description": "ox" },
+  "water Buffel": { "replacement": "🐃", "description": "water buffalo" },
+  "koe2": { "replacement": "🐄", "description": "cow" },
+  "varken": { "replacement": "🐷", "description": "pig face" },
+  "varken2": { "replacement": "🐖", "description": "pig" },
+  "zwijn": { "replacement": "🐗", "description": "boar" },
+  "varkensneus": { "replacement": "🐽", "description": "pig nose" },
+  "RAM": { "replacement": "🐏", "description": "ram" },
+  "schapen": { "replacement": "🐑", "description": "ewe" },
+  "geit": { "replacement": "🐐", "description": "goat" },
+  "dromedaris kameel": { "replacement": "🐪", "description": "camel" },
+  "kameel": { "replacement": "🐫", "description": "two-hump camel" },
+  "lama": { "replacement": "🦙", "description": "llama" },
+  "giraffe": { "replacement": "🦒", "description": "giraffe" },
+  "olifant": { "replacement": "🐘", "description": "elephant" },
+  "mammoet-": { "replacement": "🦣", "description": "mammoth" },
+  "neushoorn": { "replacement": "🦏", "description": "rhinoceros" },
+  "nijlpaard": { "replacement": "🦛", "description": "hippopotamus" },
+  "muis": { "replacement": "🐭", "description": "mouse face" },
+  "muis2": { "replacement": "🐁", "description": "mouse" },
+  "Rat": { "replacement": "🐀", "description": "rat" },
+  "hamster": { "replacement": "🐹", "description": "hamster" },
+  "konijn": { "replacement": "🐰", "description": "rabbit face" },
+  "konijn2": { "replacement": "🐇", "description": "rabbit" },
+  "aardeekhoorn": { "replacement": "🐿️", "description": "chipmunk" },
+  "bever": { "replacement": "🦫", "description": "beaver" },
+  "egel": { "replacement": "🦔", "description": "hedgehog" },
+  "knuppel": { "replacement": "🦇", "description": "bat" },
+  "beer": { "replacement": "🐻", "description": "bear" },
+  "ijsbeer": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "koala": { "replacement": "🐨", "description": "koala" },
+  "panda gezicht": { "replacement": "🐼", "description": "panda" },
+  "luiaard": { "replacement": "🦥", "description": "sloth" },
+  "Otter": { "replacement": "🦦", "description": "otter" },
+  "stinkdier": { "replacement": "🦨", "description": "skunk" },
+  "kangoeroe": { "replacement": "🦘", "description": "kangaroo" },
+  "das": { "replacement": "🦡", "description": "badger" },
+  "voeten": { "replacement": "🐾", "description": "paw prints" },
+  "kalkoen": { "replacement": "🦃", "description": "turkey" },
+  "kip": { "replacement": "🐔", "description": "chicken" },
+  "haan": { "replacement": "🐓", "description": "rooster" },
+  "uitkomend kuiken": { "replacement": "🐣", "description": "hatching chick" },
+  "baby kuiken": { "replacement": "🐤", "description": "baby chick" },
+  "uitgekomen kuiken": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "vogel": { "replacement": "🐦", "description": "bird" },
+  "pinguïn": { "replacement": "🐧", "description": "penguin" },
+  "duif": { "replacement": "🕊️", "description": "dove" },
+  "adelaar": { "replacement": "🦅", "description": "eagle" },
+  "eend": { "replacement": "🦆", "description": "duck" },
+  "zwaan-": { "replacement": "🦢", "description": "swan" },
+  "uil": { "replacement": "🦉", "description": "owl" },
+  "dodo": { "replacement": "🦤", "description": "dodo" },
+  "veer": { "replacement": "🪶", "description": "feather" },
+  "flamingo": { "replacement": "🦩", "description": "flamingo" },
+  "Pauw": { "replacement": "🦚", "description": "peacock" },
+  "papegaai": { "replacement": "🦜", "description": "parrot" },
+  "kikker": { "replacement": "🐸", "description": "frog" },
+  "krokodil": { "replacement": "🐊", "description": "crocodile" },
+  "schildpad": { "replacement": "🐢", "description": "turtle" },
+  "hagedis": { "replacement": "🦎", "description": "lizard" },
+  "slang": { "replacement": "🐍", "description": "snake" },
+  "drakengezicht": { "replacement": "🐲", "description": "dragon face" },
+  "draak": { "replacement": "🐉", "description": "dragon" },
+  "sauropod": { "replacement": "🦕", "description": "sauropod" },
+  "t-rex": { "replacement": "🦖", "description": "T-Rex" },
+  "walvis": { "replacement": "🐳", "description": "spouting whale" },
+  "walvis 2": { "replacement": "🐋", "description": "whale" },
+  "dolfijn": { "replacement": "🐬", "description": "dolphin" },
+  "zegel": { "replacement": "🦭", "description": "seal" },
+  "vis": { "replacement": "🐟", "description": "fish" },
+  "tropische vis": { "replacement": "🐠", "description": "tropical fish" },
+  "kogelvis": { "replacement": "🐡", "description": "blowfish" },
+  "haai": { "replacement": "🦈", "description": "shark" },
+  "Octopus": { "replacement": "🐙", "description": "octopus" },
+  "schelp": { "replacement": "🐚", "description": "spiral shell" },
+  "slak": { "replacement": "🐌", "description": "snail" },
+  "vlinder": { "replacement": "🦋", "description": "butterfly" },
+  "bug": { "replacement": "🐛", "description": "bug" },
+  "mier": { "replacement": "🐜", "description": "ant" },
+  "bij": { "replacement": "🐝", "description": "honeybee" },
+  "kever": { "replacement": "🪲", "description": "beetle" },
+  "lieveheersbeestje": { "replacement": "🐞", "description": "lady beetle" },
+  "krekel": { "replacement": "🦗", "description": "cricket" },
+  "kakkerlak": { "replacement": "🪳", "description": "cockroach" },
+  "spin": { "replacement": "🕷️", "description": "spider" },
+  "spinnenweb": { "replacement": "🕸️", "description": "spider web" },
+  "schorpioen": { "replacement": "🦂", "description": "scorpion" },
+  "mug": { "replacement": "🦟", "description": "mosquito" },
+  "vlieg": { "replacement": "🪰", "description": "fly" },
+  "worm": { "replacement": "🪱", "description": "worm" },
+  "microbe": { "replacement": "🦠", "description": "microbe" },
+  "boeket": { "replacement": "💐", "description": "bouquet" },
+  "kersenbloesem": { "replacement": "🌸", "description": "cherry blossom" },
+  "witte bloem": { "replacement": "💮", "description": "white flower" },
+  "rozet": { "replacement": "🏵️", "description": "rosette" },
+  "roos": { "replacement": "🌹", "description": "rose" },
+  "verwelkte bloem": { "replacement": "🥀", "description": "wilted flower" },
+  "hibiscus": { "replacement": "🌺", "description": "hibiscus" },
+  "zonnebloem": { "replacement": "🌻", "description": "sunflower" },
+  "bloesem": { "replacement": "🌼", "description": "blossom" },
+  "tulp": { "replacement": "🌷", "description": "tulip" },
+  "zaailing": { "replacement": "🌱", "description": "seedling" },
+  "plant in bloempot": { "replacement": "🪴", "description": "potted plant" },
+  "groenblijvende boom": {
+    "replacement": "🌲",
+    "description": "evergreen tree"
+  },
+  "loofboom": { "replacement": "🌳", "description": "deciduous tree" },
+  "palmboom": { "replacement": "🌴", "description": "palm tree" },
+  "cactus": { "replacement": "🌵", "description": "cactus" },
+  "oor van rijst": { "replacement": "🌾", "description": "sheaf of rice" },
+  "kruid": { "replacement": "🌿", "description": "herb" },
+  "klaver": { "replacement": "☘️", "description": "shamrock" },
+  "Klavertje vier": { "replacement": "🍀", "description": "four leaf clover" },
+  "esdoorn blad": { "replacement": "🍁", "description": "maple leaf" },
+  "gevallen blad": { "replacement": "🍂", "description": "fallen leaf" },
+  "bladeren": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "druiven": { "replacement": "🍇", "description": "grapes" },
+  "meloen": { "replacement": "🍈", "description": "melon" },
+  "watermeloen": { "replacement": "🍉", "description": "watermelon" },
+  "mandarijn": { "replacement": "🍊", "description": "tangerine" },
+  "citroen": { "replacement": "🍋", "description": "lemon" },
+  "banaan": { "replacement": "🍌", "description": "banana" },
+  "ananas": { "replacement": "🍍", "description": "pineapple" },
+  "mango-": { "replacement": "🥭", "description": "mango" },
+  "appel": { "replacement": "🍎", "description": "red apple" },
+  "groene appel": { "replacement": "🍏", "description": "green apple" },
+  "Peer": { "replacement": "🍐", "description": "pear" },
+  "perzik": { "replacement": "🍑", "description": "peach" },
+  "kersen": { "replacement": "🍒", "description": "cherries" },
+  "aardbei": { "replacement": "🍓", "description": "strawberry" },
+  "bosbessen": { "replacement": "🫐", "description": "blueberries" },
+  "kiwi's": { "replacement": "🥝", "description": "kiwi fruit" },
+  "tomaat": { "replacement": "🍅", "description": "tomato" },
+  "olijf-": { "replacement": "🫒", "description": "olive" },
+  "kokosnoot": { "replacement": "🥥", "description": "coconut" },
+  "avocado": { "replacement": "🥑", "description": "avocado" },
+  "aubergine": { "replacement": "🍆", "description": "eggplant" },
+  "aardappel": { "replacement": "🥔", "description": "potato" },
+  "wortel": { "replacement": "🥕", "description": "carrot" },
+  "maïs": { "replacement": "🌽", "description": "ear of corn" },
+  "hete peper": { "replacement": "🌶️", "description": "hot pepper" },
+  "paprika": { "replacement": "🫑", "description": "bell pepper" },
+  "komkommer": { "replacement": "🥒", "description": "cucumber" },
+  "bladgroen": { "replacement": "🥬", "description": "leafy green" },
+  "broccoli": { "replacement": "🥦", "description": "broccoli" },
+  "knoflook": { "replacement": "🧄", "description": "garlic" },
+  "ui": { "replacement": "🧅", "description": "onion" },
+  "paddestoel": { "replacement": "🍄", "description": "mushroom" },
+  "pinda's": { "replacement": "🥜", "description": "peanuts" },
+  "kastanje": { "replacement": "🌰", "description": "chestnut" },
+  "brood": { "replacement": "🍞", "description": "bread" },
+  "croissant": { "replacement": "🥐", "description": "croissant" },
+  "stokbrood": { "replacement": "🥖", "description": "baguette bread" },
+  "flatbread": { "replacement": "🫓", "description": "flatbread" },
+  "krakeling": { "replacement": "🥨", "description": "pretzel" },
+  "bagel": { "replacement": "🥯", "description": "bagel" },
+  "pannekoeken": { "replacement": "🥞", "description": "pancakes" },
+  "wafel": { "replacement": "🧇", "description": "waffle" },
+  "kaas": { "replacement": "🧀", "description": "cheese wedge" },
+  "vlees op bot": { "replacement": "🍖", "description": "meat on bone" },
+  "pluimvee been": { "replacement": "🍗", "description": "poultry leg" },
+  "stuk vlees": { "replacement": "🥩", "description": "cut of meat" },
+  "spek": { "replacement": "🥓", "description": "bacon" },
+  "Hamburger": { "replacement": "🍔", "description": "hamburger" },
+  "Patat": { "replacement": "🍟", "description": "french fries" },
+  "pizza": { "replacement": "🍕", "description": "pizza" },
+  "hotdog": { "replacement": "🌭", "description": "hot dog" },
+  "broodje": { "replacement": "🥪", "description": "sandwich" },
+  "taco": { "replacement": "🌮", "description": "taco" },
+  "burrito": { "replacement": "🌯", "description": "burrito" },
+  "Tamale": { "replacement": "🫔", "description": "tamale" },
+  "gevulde flatbread": {
+    "replacement": "🥙",
+    "description": "stuffed flatbread"
+  },
+  "falafel": { "replacement": "🧆", "description": "falafel" },
+  "ei": { "replacement": "🥚", "description": "egg" },
+  "gefrituurd ei": { "replacement": "🍳", "description": "cooking" },
+  "ondiepe pan met voedsel": {
+    "replacement": "🥘",
+    "description": "shallow pan of food"
+  },
+  "stoofpot": { "replacement": "🍲", "description": "pot of food" },
+  "fondue": { "replacement": "🫕", "description": "fondue" },
+  "kom met lepel": { "replacement": "🥣", "description": "bowl with spoon" },
+  "groene salade": { "replacement": "🥗", "description": "green salad" },
+  "popcorn": { "replacement": "🍿", "description": "popcorn" },
+  "boter": { "replacement": "🧈", "description": "butter" },
+  "zout": { "replacement": "🧂", "description": "salt" },
+  "ingeblikt voedsel": { "replacement": "🥫", "description": "canned food" },
+  "bento": { "replacement": "🍱", "description": "bento box" },
+  "rijstwafel": { "replacement": "🍘", "description": "rice cracker" },
+  "rijstbal": { "replacement": "🍙", "description": "rice ball" },
+  "rijst": { "replacement": "🍚", "description": "cooked rice" },
+  "kerrie": { "replacement": "🍛", "description": "curry rice" },
+  "ramen": { "replacement": "🍜", "description": "steaming bowl" },
+  "spaghetti": { "replacement": "🍝", "description": "spaghetti" },
+  "zoete aardappel": {
+    "replacement": "🍠",
+    "description": "roasted sweet potato"
+  },
+  "oden": { "replacement": "🍢", "description": "oden" },
+  "sushi": { "replacement": "🍣", "description": "sushi" },
+  "gefrituurde garnaal": { "replacement": "🍤", "description": "fried shrimp" },
+  "vis taart": { "replacement": "🍥", "description": "fish cake with swirl" },
+  "maan cake": { "replacement": "🥮", "description": "moon cake" },
+  "dango": { "replacement": "🍡", "description": "dango" },
+  "knoedel": { "replacement": "🥟", "description": "dumpling" },
+  "gelukskoekje": { "replacement": "🥠", "description": "fortune cookie" },
+  "meeneemdoos": { "replacement": "🥡", "description": "takeout box" },
+  "krab": { "replacement": "🦀", "description": "crab" },
+  "kreeft": { "replacement": "🦞", "description": "lobster" },
+  "garnalen": { "replacement": "🦐", "description": "shrimp" },
+  "inktvis": { "replacement": "🦑", "description": "squid" },
+  "oester": { "replacement": "🦪", "description": "oyster" },
+  "ijsje": { "replacement": "🍨", "description": "ice cream" },
+  "geschoren ijs": { "replacement": "🍧", "description": "shaved ice" },
+  "donut": { "replacement": "🍩", "description": "doughnut" },
+  "koekje": { "replacement": "🍪", "description": "cookie" },
+  "verjaardag": { "replacement": "🎂", "description": "birthday cake" },
+  "taart": { "replacement": "🥧", "description": "pie" },
+  "cupcake": { "replacement": "🧁", "description": "cupcake" },
+  "chocoladereep": { "replacement": "🍫", "description": "chocolate bar" },
+  "snoep": { "replacement": "🍬", "description": "candy" },
+  "lolly": { "replacement": "🍭", "description": "lollipop" },
+  "vla": { "replacement": "🍮", "description": "custard" },
+  "honingpot": { "replacement": "🍯", "description": "honey pot" },
+  "Baby flesje": { "replacement": "🍼", "description": "baby bottle" },
+  "melkglas": { "replacement": "🥛", "description": "glass of milk" },
+  "koffie": { "replacement": "☕", "description": "hot beverage" },
+  "theepot": { "replacement": "🫖", "description": "teapot" },
+  "thee": { "replacement": "🍵", "description": "teacup without handle" },
+  "rijstwijn": { "replacement": "🍶", "description": "sake" },
+  "Champagne": {
+    "replacement": "🍾",
+    "description": "bottle with popping cork"
+  },
+  "wijnglas": { "replacement": "🍷", "description": "wine glass" },
+  "cocktail": { "replacement": "🍸", "description": "cocktail glass" },
+  "tropisch drankje": { "replacement": "🍹", "description": "tropical drink" },
+  "bier": { "replacement": "🍺", "description": "beer mug" },
+  "bieren": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "rammelende glazen": {
+    "replacement": "🥂",
+    "description": "clinking glasses"
+  },
+  "tumbler glas": { "replacement": "🥃", "description": "tumbler glass" },
+  "beker met rietje": { "replacement": "🥤", "description": "cup with straw" },
+  "bubbelthee": { "replacement": "🧋", "description": "bubble tea" },
+  "drankdoos": { "replacement": "🧃", "description": "beverage box" },
+  "maat": { "replacement": "🧉", "description": "mate" },
+  "ijsblokje": { "replacement": "🧊", "description": "ice" },
+  "eetstokjes": { "replacement": "🥢", "description": "chopsticks" },
+  "bord met bestek": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "vork en mes": { "replacement": "🍴", "description": "fork and knife" },
+  "lepel": { "replacement": "🥄", "description": "spoon" },
+  "hocho": { "replacement": "🔪", "description": "kitchen knife" },
+  "amfora": { "replacement": "🏺", "description": "amphora" },
+  "aarde afrika": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "Earth Americas": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "aarde azië": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "wereldbol met meridianen": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "wereldkaart": { "replacement": "🗺️", "description": "world map" },
+  "Japan": { "replacement": "🗾", "description": "map of Japan" },
+  "kompas": { "replacement": "🧭", "description": "compass" },
+  "berg sneeuw": { "replacement": "🏔️", "description": "snow-capped mountain" },
+  "berg-": { "replacement": "⛰️", "description": "mountain" },
+  "vulkaan": { "replacement": "🌋", "description": "volcano" },
+  "mount fuji": { "replacement": "🗻", "description": "mount fuji" },
+  "camping": { "replacement": "🏕️", "description": "camping" },
+  "parasol": { "replacement": "🏖️", "description": "beach with umbrella" },
+  "woestijn": { "replacement": "🏜️", "description": "desert" },
+  "onbewoond eiland": { "replacement": "🏝️", "description": "desert island" },
+  "Nationaal Park": { "replacement": "🏞️", "description": "national park" },
+  "stadion": { "replacement": "🏟️", "description": "stadium" },
+  "klassiek gebouw": {
+    "replacement": "🏛️",
+    "description": "classical building"
+  },
+  "bouwconstructie": {
+    "replacement": "🏗️",
+    "description": "building construction"
+  },
+  "bakstenen": { "replacement": "🧱", "description": "brick" },
+  "rots": { "replacement": "🪨", "description": "rock" },
+  "hout": { "replacement": "🪵", "description": "wood" },
+  "hut": { "replacement": "🛖", "description": "hut" },
+  "huizen": { "replacement": "🏘️", "description": "houses" },
+  "vervallen huis": { "replacement": "🏚️", "description": "derelict house" },
+  "huis": { "replacement": "🏠", "description": "house" },
+  "huis met tuin": { "replacement": "🏡", "description": "house with garden" },
+  "kantoor": { "replacement": "🏢", "description": "office building" },
+  "postkantoor": { "replacement": "🏣", "description": "Japanese post office" },
+  "europees postkantoor": { "replacement": "🏤", "description": "post office" },
+  "ziekenhuis": { "replacement": "🏥", "description": "hospital" },
+  "bank": { "replacement": "🏦", "description": "bank" },
+  "hotel": { "replacement": "🏨", "description": "hotel" },
+  "liefdeshotel": { "replacement": "🏩", "description": "love hotel" },
+  "gemakswinkel": { "replacement": "🏪", "description": "convenience store" },
+  "school-": { "replacement": "🏫", "description": "school" },
+  "warenhuis": { "replacement": "🏬", "description": "department store" },
+  "fabriek": { "replacement": "🏭", "description": "factory" },
+  "Japans kasteel": { "replacement": "🏯", "description": "Japanese castle" },
+  "europees kasteel": { "replacement": "🏰", "description": "castle" },
+  "bruiloft": { "replacement": "💒", "description": "wedding" },
+  "Tokyo toren": { "replacement": "🗼", "description": "Tokyo tower" },
+  "Vrijheidsbeeld": { "replacement": "🗽", "description": "Statue of Liberty" },
+  "kerk": { "replacement": "⛪", "description": "church" },
+  "moskee": { "replacement": "🕌", "description": "mosque" },
+  "hindoeïstische tempel": {
+    "replacement": "🛕",
+    "description": "hindu temple"
+  },
+  "synagoge": { "replacement": "🕍", "description": "synagogue" },
+  "Shinto altaar": { "replacement": "⛩️", "description": "shinto shrine" },
+  "kaaba": { "replacement": "🕋", "description": "kaaba" },
+  "fontein": { "replacement": "⛲", "description": "fountain" },
+  "tent": { "replacement": "⛺", "description": "tent" },
+  "mistig": { "replacement": "🌁", "description": "foggy" },
+  "nacht met sterren": {
+    "replacement": "🌃",
+    "description": "night with stars"
+  },
+  "stadsgezicht": { "replacement": "🏙️", "description": "cityscape" },
+  "zonsopgang boven bergen": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "zonsopkomst": { "replacement": "🌅", "description": "sunrise" },
+  "stad zonsondergang": {
+    "replacement": "🌆",
+    "description": "cityscape at dusk"
+  },
+  "stad zonsopgang": { "replacement": "🌇", "description": "sunset" },
+  "brug 's nachts": { "replacement": "🌉", "description": "bridge at night" },
+  "warmwaterbronnen": { "replacement": "♨️", "description": "hot springs" },
+  "carrousel paard": { "replacement": "🎠", "description": "carousel horse" },
+  "reuzenrad": { "replacement": "🎡", "description": "ferris wheel" },
+  "achtbaan": { "replacement": "🎢", "description": "roller coaster" },
+  "kapper": { "replacement": "💈", "description": "barber pole" },
+  "circustent": { "replacement": "🎪", "description": "circus tent" },
+  "stoomlocomotief": { "replacement": "🚂", "description": "locomotive" },
+  "treinwagon": { "replacement": "🚃", "description": "railway car" },
+  "bullettrain kant": {
+    "replacement": "🚄",
+    "description": "high-speed train"
+  },
+  "bullettrain voorkant": {
+    "replacement": "🚅",
+    "description": "bullet train"
+  },
+  "trein2": { "replacement": "🚆", "description": "train" },
+  "metro": { "replacement": "🚇", "description": "metro" },
+  "licht rails": { "replacement": "🚈", "description": "light rail" },
+  "station": { "replacement": "🚉", "description": "station" },
+  "tram-": { "replacement": "🚊", "description": "tram" },
+  "monorail": { "replacement": "🚝", "description": "monorail" },
+  "bergbaan": { "replacement": "🚞", "description": "mountain railway" },
+  "trein": { "replacement": "🚋", "description": "tram car" },
+  "bus": { "replacement": "🚌", "description": "bus" },
+  "tegemoetkomende bus": { "replacement": "🚍", "description": "oncoming bus" },
+  "trolleybus": { "replacement": "🚎", "description": "trolleybus" },
+  "minibus": { "replacement": "🚐", "description": "minibus" },
+  "ambulance": { "replacement": "🚑", "description": "ambulance" },
+  "brandweerwagen": { "replacement": "🚒", "description": "fire engine" },
+  "politieauto": { "replacement": "🚓", "description": "police car" },
+  "tegemoetkomende politieauto": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "taxi": { "replacement": "🚕", "description": "taxi" },
+  "tegemoetkomende taxi": {
+    "replacement": "🚖",
+    "description": "oncoming taxi"
+  },
+  "auto": { "replacement": "🚗", "description": "automobile" },
+  "tegemoetkomende auto": {
+    "replacement": "🚘",
+    "description": "oncoming automobile"
+  },
+  "blauwe auto": {
+    "replacement": "🚙",
+    "description": "sport utility vehicle"
+  },
+  "pick-up truck": { "replacement": "🛻", "description": "pickup truck" },
+  "vrachtwagen": { "replacement": "🚚", "description": "delivery truck" },
+  "vrachtwagen met oplegger": {
+    "replacement": "🚛",
+    "description": "articulated lorry"
+  },
+  "tractor": { "replacement": "🚜", "description": "tractor" },
+  "race auto": { "replacement": "🏎️", "description": "racing car" },
+  "motorfiets": { "replacement": "🏍️", "description": "motorcycle" },
+  "motor scooter": { "replacement": "🛵", "description": "motor scooter" },
+  "handmatige rolstoel": {
+    "replacement": "🦽",
+    "description": "manual wheelchair"
+  },
+  "gemotoriseerde rolstoel": {
+    "replacement": "🦼",
+    "description": "motorized wheelchair"
+  },
+  "auto-riksja": { "replacement": "🛺", "description": "auto rickshaw" },
+  "fiets": { "replacement": "🚲", "description": "bicycle" },
+  "kick scooter": { "replacement": "🛴", "description": "kick scooter" },
+  "skateboard": { "replacement": "🛹", "description": "skateboard" },
+  "rolschaats": { "replacement": "🛼", "description": "roller skate" },
+  "bushalte": { "replacement": "🚏", "description": "bus stop" },
+  "snelweg": { "replacement": "🛣️", "description": "motorway" },
+  "spoorlijn": { "replacement": "🛤️", "description": "railway track" },
+  "olie vat": { "replacement": "🛢️", "description": "oil drum" },
+  "benzine pomp": { "replacement": "⛽", "description": "fuel pump" },
+  "roterend licht": { "replacement": "🚨", "description": "police car light" },
+  "stoplicht": {
+    "replacement": "🚥",
+    "description": "horizontal traffic light"
+  },
+  "verticaal verkeerslicht": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "stopteken": { "replacement": "🛑", "description": "stop sign" },
+  "bouw": { "replacement": "🚧", "description": "construction" },
+  "anker": { "replacement": "⚓", "description": "anchor" },
+  "boot": { "replacement": "⛵", "description": "sailboat" },
+  "kano": { "replacement": "🛶", "description": "canoe" },
+  "speedboot": { "replacement": "🚤", "description": "speedboat" },
+  "passagiersschip": { "replacement": "🛳️", "description": "passenger ship" },
+  "veerboot": { "replacement": "⛴️", "description": "ferry" },
+  "motorboot": { "replacement": "🛥️", "description": "motor boat" },
+  "schip": { "replacement": "🚢", "description": "ship" },
+  "vliegtuig": { "replacement": "✈️", "description": "airplane" },
+  "klein vliegtuig": { "replacement": "🛩️", "description": "small airplane" },
+  "vertrek van de vlucht": {
+    "replacement": "🛫",
+    "description": "airplane departure"
+  },
+  "aankomst vlucht": { "replacement": "🛬", "description": "airplane arrival" },
+  "parachute": { "replacement": "🪂", "description": "parachute" },
+  "stoel": { "replacement": "🪑", "description": "chair" },
+  "helikopter": { "replacement": "🚁", "description": "helicopter" },
+  "hangende spoorlijn": {
+    "replacement": "🚟",
+    "description": "suspension railway"
+  },
+  "berg kabelbaan": { "replacement": "🚠", "description": "mountain cableway" },
+  "kabelbaan": { "replacement": "🚡", "description": "aerial tramway" },
+  "kunstmatige satelliet": { "replacement": "🛰️", "description": "satellite" },
+  "raket": { "replacement": "🚀", "description": "rocket" },
+  "vliegende schotel": { "replacement": "🛸", "description": "flying saucer" },
+  "piccolo bel": { "replacement": "🛎️", "description": "bellhop bell" },
+  "bagage": { "replacement": "🧳", "description": "luggage" },
+  "zandloper": { "replacement": "⌛", "description": "hourglass done" },
+  "zandloper stromend zand": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "kijk maar": { "replacement": "⌚", "description": "watch" },
+  "wekker": { "replacement": "⏰", "description": "alarm clock" },
+  "stopwatch": { "replacement": "⏱️", "description": "stopwatch" },
+  "timer klok": { "replacement": "⏲️", "description": "timer clock" },
+  "schoorsteenmantel klok": {
+    "replacement": "🕰️",
+    "description": "mantelpiece clock"
+  },
+  "klok 12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "klok 1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "klok 1": { "replacement": "🕐", "description": "one o’clock" },
+  "klok 130": { "replacement": "🕜", "description": "one-thirty" },
+  "klok 2": { "replacement": "🕑", "description": "two o’clock" },
+  "klok 230": { "replacement": "🕝", "description": "two-thirty" },
+  "klok3": { "replacement": "🕒", "description": "three o’clock" },
+  "klok 330": { "replacement": "🕞", "description": "three-thirty" },
+  "klok 4": { "replacement": "🕓", "description": "four o’clock" },
+  "klok 430": { "replacement": "🕟", "description": "four-thirty" },
+  "klok 5": { "replacement": "🕔", "description": "five o’clock" },
+  "klok530": { "replacement": "🕠", "description": "five-thirty" },
+  "klok 6": { "replacement": "🕕", "description": "six o’clock" },
+  "klok 630": { "replacement": "🕡", "description": "six-thirty" },
+  "klok 7": { "replacement": "🕖", "description": "seven o’clock" },
+  "klok 730": { "replacement": "🕢", "description": "seven-thirty" },
+  "klok 8": { "replacement": "🕗", "description": "eight o’clock" },
+  "klok 830": { "replacement": "🕣", "description": "eight-thirty" },
+  "klok 9": { "replacement": "🕘", "description": "nine o’clock" },
+  "klok 930": { "replacement": "🕤", "description": "nine-thirty" },
+  "klok 10": { "replacement": "🕙", "description": "ten o’clock" },
+  "klok1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "klok 11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "klok 1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "nieuwe maan": { "replacement": "🌑", "description": "new moon" },
+  "wassende wassende maan": {
+    "replacement": "🌒",
+    "description": "waxing crescent moon"
+  },
+  "eerste kwartier": {
+    "replacement": "🌓",
+    "description": "first quarter moon"
+  },
+  "maan": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "volle maan": { "replacement": "🌕", "description": "full moon" },
+  "afnemende maan": {
+    "replacement": "🌖",
+    "description": "waning gibbous moon"
+  },
+  "laatste kwartier": {
+    "replacement": "🌗",
+    "description": "last quarter moon"
+  },
+  "afnemende wassende maan": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "wassende maan": { "replacement": "🌙", "description": "crescent moon" },
+  "nieuwe maan met gezicht": {
+    "replacement": "🌚",
+    "description": "new moon face"
+  },
+  "eerste kwartier met gezicht": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "laatste kwartier met gezicht": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "thermometer": { "replacement": "🌡️", "description": "thermometer" },
+  "zonnig": { "replacement": "☀️", "description": "sun" },
+  "volle maan met gezicht": {
+    "replacement": "🌝",
+    "description": "full moon face"
+  },
+  "zon met gezicht": { "replacement": "🌞", "description": "sun with face" },
+  "geringde planeet": { "replacement": "🪐", "description": "ringed planet" },
+  "ster": { "replacement": "⭐", "description": "star" },
+  "ster2": { "replacement": "🌟", "description": "glowing star" },
+  "sterren": { "replacement": "🌠", "description": "shooting star" },
+  "Melkweg": { "replacement": "🌌", "description": "milky way" },
+  "wolk": { "replacement": "☁️", "description": "cloud" },
+  "gedeeltelijk zonnig": {
+    "replacement": "⛅",
+    "description": "sun behind cloud"
+  },
+  "wolk met bliksem en regen": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "zon achter kleine wolk": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "zon achter grote wolk": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "zon achter regenwolk": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "wolk met regen": { "replacement": "🌧️", "description": "cloud with rain" },
+  "wolk met sneeuw": { "replacement": "🌨️", "description": "cloud with snow" },
+  "wolk met bliksem": {
+    "replacement": "🌩️",
+    "description": "cloud with lightning"
+  },
+  "tornado": { "replacement": "🌪️", "description": "tornado" },
+  "mist": { "replacement": "🌫️", "description": "fog" },
+  "wind gezicht": { "replacement": "🌬️", "description": "wind face" },
+  "cycloon": { "replacement": "🌀", "description": "cyclone" },
+  "regenboog": { "replacement": "🌈", "description": "rainbow" },
+  "gesloten paraplu": { "replacement": "🌂", "description": "closed umbrella" },
+  "open paraplu": { "replacement": "☂️", "description": "umbrella" },
+  "paraplu": { "replacement": "☔", "description": "umbrella with rain drops" },
+  "parasol op de grond": {
+    "replacement": "⛱️",
+    "description": "umbrella on ground"
+  },
+  "zap": { "replacement": "⚡", "description": "high voltage" },
+  "sneeuwvlok": { "replacement": "❄️", "description": "snowflake" },
+  "sneeuwpop met sneeuw": { "replacement": "☃️", "description": "snowman" },
+  "sneeuwman": { "replacement": "⛄", "description": "snowman without snow" },
+  "komeet": { "replacement": "☄️", "description": "comet" },
+  "brand": { "replacement": "🔥", "description": "fire" },
+  "druppel": { "replacement": "💧", "description": "droplet" },
+  "oceaan": { "replacement": "🌊", "description": "water wave" },
+  "jack o lantaarn": { "replacement": "🎃", "description": "jack-o-lantern" },
+  "kerstboom": { "replacement": "🎄", "description": "Christmas tree" },
+  "vuurwerk": { "replacement": "🎆", "description": "fireworks" },
+  "sterretje": { "replacement": "🎇", "description": "sparkler" },
+  "voetzoeker": { "replacement": "🧨", "description": "firecracker" },
+  "schittert": { "replacement": "✨", "description": "sparkles" },
+  "ballon": { "replacement": "🎈", "description": "balloon" },
+  "tada": { "replacement": "🎉", "description": "party popper" },
+  "confetti bal": { "replacement": "🎊", "description": "confetti ball" },
+  "tanabata boom": { "replacement": "🎋", "description": "tanabata tree" },
+  "bamboe": { "replacement": "🎍", "description": "pine decoration" },
+  "poppen": { "replacement": "🎎", "description": "Japanese dolls" },
+  "vlaggen": { "replacement": "🎏", "description": "carp streamer" },
+  "wind gong": { "replacement": "🎐", "description": "wind chime" },
+  "rijstscène": { "replacement": "🎑", "description": "moon viewing ceremony" },
+  "rode envelop": { "replacement": "🧧", "description": "red envelope" },
+  "lint": { "replacement": "🎀", "description": "ribbon" },
+  "geschenk": { "replacement": "🎁", "description": "wrapped gift" },
+  "herinnering lint": { "replacement": "🎗️", "description": "reminder ribbon" },
+  "kaartjes": { "replacement": "🎟️", "description": "admission tickets" },
+  "ticket": { "replacement": "🎫", "description": "ticket" },
+  "medaille militair": { "replacement": "🎖️", "description": "military medal" },
+  "trofee": { "replacement": "🏆", "description": "trophy" },
+  "medaille sporten": { "replacement": "🏅", "description": "sports medal" },
+  "1e plaats medaille": {
+    "replacement": "🥇",
+    "description": "1st place medal"
+  },
+  "2e plaats medaille": {
+    "replacement": "🥈",
+    "description": "2nd place medal"
+  },
+  "3e plaats medaille": {
+    "replacement": "🥉",
+    "description": "3rd place medal"
+  },
+  "voetbal": { "replacement": "⚽", "description": "soccer ball" },
+  "basketbal": { "replacement": "🏀", "description": "basketball" },
+  "softbal": { "replacement": "🥎", "description": "softball" },
+  "volleybal": { "replacement": "🏐", "description": "volleyball" },
+  "Amerikaans voetbal": {
+    "replacement": "🏈",
+    "description": "american football"
+  },
+  "rugby voetbal": { "replacement": "🏉", "description": "rugby football" },
+  "tennis": { "replacement": "🎾", "description": "tennis" },
+  "vliegende schijf": { "replacement": "🥏", "description": "flying disc" },
+  "bowling": { "replacement": "🎳", "description": "bowling" },
+  "cricket spel": { "replacement": "🏏", "description": "cricket game" },
+  "veld hockey": { "replacement": "🏑", "description": "field hockey" },
+  "ijshockey": { "replacement": "🏒", "description": "ice hockey" },
+  "lacrosse": { "replacement": "🥍", "description": "lacrosse" },
+  "pingpong": { "replacement": "🏓", "description": "ping pong" },
+  "badminton": { "replacement": "🏸", "description": "badminton" },
+  "Bokshandschoen": { "replacement": "🥊", "description": "boxing glove" },
+  "vechtsporten uniform": {
+    "replacement": "🥋",
+    "description": "martial arts uniform"
+  },
+  "doel net": { "replacement": "🥅", "description": "goal net" },
+  "golf": { "replacement": "⛳", "description": "flag in hole" },
+  "schaatsen": { "replacement": "⛸️", "description": "ice skate" },
+  "hengel en vis": { "replacement": "🎣", "description": "fishing pole" },
+  "duikmasker": { "replacement": "🤿", "description": "diving mask" },
+  "hardloopshirt met sjerp": {
+    "replacement": "🎽",
+    "description": "running shirt"
+  },
+  "ski": { "replacement": "🎿", "description": "skis" },
+  "slee": { "replacement": "🛷", "description": "sled" },
+  "curling steen": { "replacement": "🥌", "description": "curling stone" },
+  "dart": { "replacement": "🎯", "description": "direct hit" },
+  "yo yo": { "replacement": "🪀", "description": "yo-yo" },
+  "vlieger": { "replacement": "🪁", "description": "kite" },
+  "8bal": { "replacement": "🎱", "description": "pool 8 ball" },
+  "kristallen bol": { "replacement": "🔮", "description": "crystal ball" },
+  "toverstaf": { "replacement": "🪄", "description": "magic wand" },
+  "Nazar amulet": { "replacement": "🧿", "description": "nazar amulet" },
+  "videogame": { "replacement": "🎮", "description": "video game" },
+  "joystick": { "replacement": "🕹️", "description": "joystick" },
+  "gokmachine": { "replacement": "🎰", "description": "slot machine" },
+  "spel sterven": { "replacement": "🎲", "description": "game die" },
+  "legpuzzel": { "replacement": "🧩", "description": "puzzle piece" },
+  "teddybeer": { "replacement": "🧸", "description": "teddy bear" },
+  "pinata": { "replacement": "🪅", "description": "piñata" },
+  "nestelende poppen": { "replacement": "🪆", "description": "nesting dolls" },
+  "schoppen": { "replacement": "♠️", "description": "spade suit" },
+  "harten": { "replacement": "♥️", "description": "heart suit" },
+  "diamanten": { "replacement": "♦️", "description": "diamond suit" },
+  "Clubs": { "replacement": "♣️", "description": "club suit" },
+  "schaakpion": { "replacement": "♟️", "description": "chess pawn" },
+  "zwarte joker": { "replacement": "🃏", "description": "joker" },
+  "mahjong": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "bloem speelkaarten": {
+    "replacement": "🎴",
+    "description": "flower playing cards"
+  },
+  "uitvoerende kunst": {
+    "replacement": "🎭",
+    "description": "performing arts"
+  },
+  "ingelijste foto": { "replacement": "🖼️", "description": "framed picture" },
+  "kunst": { "replacement": "🎨", "description": "artist palette" },
+  "draad": { "replacement": "🧵", "description": "thread" },
+  "naald": { "replacement": "🪡", "description": "sewing needle" },
+  "garen": { "replacement": "🧶", "description": "yarn" },
+  "knoop": { "replacement": "🪢", "description": "knot" },
+  "bril": { "replacement": "👓", "description": "glasses" },
+  "donkere zonnebril": { "replacement": "🕶️", "description": "sunglasses" },
+  "stofbril": { "replacement": "🥽", "description": "goggles" },
+  "Lab jas": { "replacement": "🥼", "description": "lab coat" },
+  "veiligheidsvest": { "replacement": "🦺", "description": "safety vest" },
+  "stropdas": { "replacement": "👔", "description": "necktie" },
+  "overhemd": { "replacement": "👕", "description": "t-shirt" },
+  "jeans": { "replacement": "👖", "description": "jeans" },
+  "sjaal": { "replacement": "🧣", "description": "scarf" },
+  "handschoenen": { "replacement": "🧤", "description": "gloves" },
+  "jas": { "replacement": "🧥", "description": "coat" },
+  "sokken": { "replacement": "🧦", "description": "socks" },
+  "jurk": { "replacement": "👗", "description": "dress" },
+  "kimono": { "replacement": "👘", "description": "kimono" },
+  "sari": { "replacement": "🥻", "description": "sari" },
+  "badpak uit één stuk": {
+    "replacement": "🩱",
+    "description": "one-piece swimsuit"
+  },
+  "zwem kort": { "replacement": "🩲", "description": "briefs" },
+  "shorts": { "replacement": "🩳", "description": "shorts" },
+  "bikini": { "replacement": "👙", "description": "bikini" },
+  "vrouwenkleding": { "replacement": "👚", "description": "woman’s clothes" },
+  "handtas": { "replacement": "👜", "description": "handbag" },
+  "zakje": { "replacement": "👝", "description": "clutch bag" },
+  "boodschappen doen": { "replacement": "🛍️", "description": "shopping bags" },
+  "schooltas": { "replacement": "🎒", "description": "backpack" },
+  "string sandaal": { "replacement": "🩴", "description": "thong sandal" },
+  "mans schoen": { "replacement": "👞", "description": "man’s shoe" },
+  "atletische schoen": { "replacement": "👟", "description": "running shoe" },
+  "wandelschoen": { "replacement": "🥾", "description": "hiking boot" },
+  "platte schoen": { "replacement": "🥿", "description": "flat shoe" },
+  "hoge hak": { "replacement": "👠", "description": "high-heeled shoe" },
+  "sandaal": { "replacement": "👡", "description": "woman’s sandal" },
+  "balletschoenen": { "replacement": "🩰", "description": "ballet shoes" },
+  "laars": { "replacement": "👢", "description": "woman’s boot" },
+  "kroon": { "replacement": "👑", "description": "crown" },
+  "vrouwen hoed": { "replacement": "👒", "description": "woman’s hat" },
+  "hoge hoed": { "replacement": "🎩", "description": "top hat" },
+  "mortel bord": { "replacement": "🎓", "description": "graduation cap" },
+  "gefactureerd cap": { "replacement": "🧢", "description": "billed cap" },
+  "militaire helm": { "replacement": "🪖", "description": "military helmet" },
+  "helm van de reddingswerker": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "gebed kralen": { "replacement": "📿", "description": "prayer beads" },
+  "lippenstift": { "replacement": "💄", "description": "lipstick" },
+  "ring": { "replacement": "💍", "description": "ring" },
+  "edelsteen": { "replacement": "💎", "description": "gem stone" },
+  "dempen": { "replacement": "🔇", "description": "muted speaker" },
+  "spreker": { "replacement": "🔈", "description": "speaker low volume" },
+  "geluid": { "replacement": "🔉", "description": "speaker medium volume" },
+  "luid geluid": { "replacement": "🔊", "description": "speaker high volume" },
+  "luidspreker": { "replacement": "📢", "description": "loudspeaker" },
+  "mega": { "replacement": "📣", "description": "megaphone" },
+  "posthoorn": { "replacement": "📯", "description": "postal horn" },
+  "klok": { "replacement": "🔔", "description": "bell" },
+  "geen bel": { "replacement": "🔕", "description": "bell with slash" },
+  "muzikale score": { "replacement": "🎼", "description": "musical score" },
+  "muziek noot": { "replacement": "🎵", "description": "musical note" },
+  "notities": { "replacement": "🎶", "description": "musical notes" },
+  "studio microfoon": {
+    "replacement": "🎙️",
+    "description": "studio microphone"
+  },
+  "niveau schuifregelaar": {
+    "replacement": "🎚️",
+    "description": "level slider"
+  },
+  "bedieningsknoppen": { "replacement": "🎛️", "description": "control knobs" },
+  "microfoon": { "replacement": "🎤", "description": "microphone" },
+  "koptelefoon": { "replacement": "🎧", "description": "headphone" },
+  "radio-": { "replacement": "📻", "description": "radio" },
+  "saxofoon": { "replacement": "🎷", "description": "saxophone" },
+  "accordeon": { "replacement": "🪗", "description": "accordion" },
+  "gitaar": { "replacement": "🎸", "description": "guitar" },
+  "muzikaal toetsenbord": {
+    "replacement": "🎹",
+    "description": "musical keyboard"
+  },
+  "trompet": { "replacement": "🎺", "description": "trumpet" },
+  "viool": { "replacement": "🎻", "description": "violin" },
+  "banjo": { "replacement": "🪕", "description": "banjo" },
+  "trommel": { "replacement": "🥁", "description": "drum" },
+  "lange trommel": { "replacement": "🪘", "description": "long drum" },
+  "iphone": { "replacement": "📱", "description": "mobile phone" },
+  "roeping": { "replacement": "📲", "description": "mobile phone with arrow" },
+  "telefoon": { "replacement": "☎️", "description": "telephone" },
+  "telefoon ontvanger": {
+    "replacement": "📞",
+    "description": "telephone receiver"
+  },
+  "pager": { "replacement": "📟", "description": "pager" },
+  "fax": { "replacement": "📠", "description": "fax machine" },
+  "accu": { "replacement": "🔋", "description": "battery" },
+  "stekker": { "replacement": "🔌", "description": "electric plug" },
+  "computer": { "replacement": "💻", "description": "laptop" },
+  "desktop computer": {
+    "replacement": "🖥️",
+    "description": "desktop computer"
+  },
+  "printer": { "replacement": "🖨️", "description": "printer" },
+  "toetsenbord": { "replacement": "⌨️", "description": "keyboard" },
+  "computermuis": { "replacement": "🖱️", "description": "computer mouse" },
+  "trackball": { "replacement": "🖲️", "description": "trackball" },
+  "minidisc": { "replacement": "💽", "description": "computer disk" },
+  "diskette": { "replacement": "💾", "description": "floppy disk" },
+  "CD": { "replacement": "💿", "description": "optical disk" },
+  "DVD": { "replacement": "📀", "description": "dvd" },
+  "telraam": { "replacement": "🧮", "description": "abacus" },
+  "film camera": { "replacement": "🎥", "description": "movie camera" },
+  "filmstrip": { "replacement": "🎞️", "description": "film frames" },
+  "filmprojector": { "replacement": "📽️", "description": "film projector" },
+  "klepel": { "replacement": "🎬", "description": "clapper board" },
+  "TV": { "replacement": "📺", "description": "television" },
+  "camera": { "replacement": "📷", "description": "camera" },
+  "camera flits": { "replacement": "📸", "description": "camera with flash" },
+  "videocamera": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "mag": { "replacement": "🔍", "description": "magnifying glass tilted left" },
+  "mag rechts": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "kaars": { "replacement": "🕯️", "description": "candle" },
+  "lamp": { "replacement": "💡", "description": "light bulb" },
+  "zaklamp": { "replacement": "🔦", "description": "flashlight" },
+  "izakaya lantaarn": {
+    "replacement": "🏮",
+    "description": "red paper lantern"
+  },
+  "diya lamp": { "replacement": "🪔", "description": "diya lamp" },
+  "notitieboekje met decoratieve omslag": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "gesloten boek": { "replacement": "📕", "description": "closed book" },
+  "boek": { "replacement": "📖", "description": "open book" },
+  "groen boek": { "replacement": "📗", "description": "green book" },
+  "blauw boek": { "replacement": "📘", "description": "blue book" },
+  "oranje boek": { "replacement": "📙", "description": "orange book" },
+  "boeken": { "replacement": "📚", "description": "books" },
+  "notitieboekje": { "replacement": "📓", "description": "notebook" },
+  "grootboek": { "replacement": "📒", "description": "ledger" },
+  "pagina met krul": { "replacement": "📃", "description": "page with curl" },
+  "rol": { "replacement": "📜", "description": "scroll" },
+  "pagina naar boven": { "replacement": "📄", "description": "page facing up" },
+  "krant-": { "replacement": "📰", "description": "newspaper" },
+  "krantenrol": { "replacement": "🗞️", "description": "rolled-up newspaper" },
+  "bladwijzertabbladen": {
+    "replacement": "📑",
+    "description": "bookmark tabs"
+  },
+  "bladwijzer": { "replacement": "🔖", "description": "bookmark" },
+  "etiket": { "replacement": "🏷️", "description": "label" },
+  "geldtas": { "replacement": "💰", "description": "money bag" },
+  "munt": { "replacement": "🪙", "description": "coin" },
+  "yen": { "replacement": "💴", "description": "yen banknote" },
+  "dollar": { "replacement": "💵", "description": "dollar banknote" },
+  "euro": { "replacement": "💶", "description": "euro banknote" },
+  "pond": { "replacement": "💷", "description": "pound banknote" },
+  "geld met vleugels": {
+    "replacement": "💸",
+    "description": "money with wings"
+  },
+  "kredietkaart": { "replacement": "💳", "description": "credit card" },
+  "bon": { "replacement": "🧾", "description": "receipt" },
+  "grafiek": {
+    "replacement": "💹",
+    "description": "chart increasing with yen"
+  },
+  "e-mail": { "replacement": "📧", "description": "e-mail" },
+  "inkomende envelop": {
+    "replacement": "📨",
+    "description": "incoming envelope"
+  },
+  "envelop met pijl": {
+    "replacement": "📩",
+    "description": "envelope with arrow"
+  },
+  "outbox lade": { "replacement": "📤", "description": "outbox tray" },
+  "inbox lade": { "replacement": "📥", "description": "inbox tray" },
+  "pakket": { "replacement": "📦", "description": "package" },
+  "postbus": {
+    "replacement": "📫",
+    "description": "closed mailbox with raised flag"
+  },
+  "mailbox gesloten": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "brievenbus met mail": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "mailbox zonder mail": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "brievenbus": { "replacement": "📮", "description": "postbox" },
+  "stembus": { "replacement": "🗳️", "description": "ballot box with ballot" },
+  "potlood2": { "replacement": "✏️", "description": "pencil" },
+  "zwarte punt": { "replacement": "✒️", "description": "black nib" },
+  "Vulpen": { "replacement": "🖋️", "description": "fountain pen" },
+  "pen": { "replacement": "🖊️", "description": "pen" },
+  "penseel": { "replacement": "🖌️", "description": "paintbrush" },
+  "krijt": { "replacement": "🖍️", "description": "crayon" },
+  "memo": { "replacement": "📝", "description": "memo" },
+  "aktentas": { "replacement": "💼", "description": "briefcase" },
+  "dossiermap": { "replacement": "📁", "description": "file folder" },
+  "open bestandsmap": {
+    "replacement": "📂",
+    "description": "open file folder"
+  },
+  "kaart index verdelers": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "datum": { "replacement": "📅", "description": "calendar" },
+  "kalender": { "replacement": "📆", "description": "tear-off calendar" },
+  "spiraal notitieblok": {
+    "replacement": "🗒️",
+    "description": "spiral notepad"
+  },
+  "spiraal kalender": { "replacement": "🗓️", "description": "spiral calendar" },
+  "kaart index": { "replacement": "📇", "description": "card index" },
+  "grafiek met opwaartse trend": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "grafiek met neerwaartse trend": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "staafdiagram": { "replacement": "📊", "description": "bar chart" },
+  "klembord": { "replacement": "📋", "description": "clipboard" },
+  "punaise": { "replacement": "📌", "description": "pushpin" },
+  "ronde punaise": { "replacement": "📍", "description": "round pushpin" },
+  "paperclip": { "replacement": "📎", "description": "paperclip" },
+  "paperclips": { "replacement": "🖇️", "description": "linked paperclips" },
+  "rechte liniaal": { "replacement": "📏", "description": "straight ruler" },
+  "driehoekige liniaal": {
+    "replacement": "📐",
+    "description": "triangular ruler"
+  },
+  "schaar": { "replacement": "✂️", "description": "scissors" },
+  "kaart archiefdoos": { "replacement": "🗃️", "description": "card file box" },
+  "archiefkast": { "replacement": "🗄️", "description": "file cabinet" },
+  "prullenbak": { "replacement": "🗑️", "description": "wastebasket" },
+  "slot": { "replacement": "🔒", "description": "locked" },
+  "ontgrendelen": { "replacement": "🔓", "description": "unlocked" },
+  "slot met inktpen": { "replacement": "🔏", "description": "locked with pen" },
+  "gesloten slot met sleutel": {
+    "replacement": "🔐",
+    "description": "locked with key"
+  },
+  "sleutel": { "replacement": "🔑", "description": "key" },
+  "oude sleutel": { "replacement": "🗝️", "description": "old key" },
+  "hamer": { "replacement": "🔨", "description": "hammer" },
+  "bijl": { "replacement": "🪓", "description": "axe" },
+  "plukken": { "replacement": "⛏️", "description": "pick" },
+  "hamer en pick": { "replacement": "⚒️", "description": "hammer and pick" },
+  "hamer en moersleutel": {
+    "replacement": "🛠️",
+    "description": "hammer and wrench"
+  },
+  "dolk": { "replacement": "🗡️", "description": "dagger" },
+  "gekruiste zwaarden": {
+    "replacement": "⚔️",
+    "description": "crossed swords"
+  },
+  "pistool": { "replacement": "🔫", "description": "pistol" },
+  "boemerang": { "replacement": "🪃", "description": "boomerang" },
+  "pijl en boog": { "replacement": "🏹", "description": "bow and arrow" },
+  "schild": { "replacement": "🛡️", "description": "shield" },
+  "timmerwerk zag": { "replacement": "🪚", "description": "carpentry saw" },
+  "moersleutel": { "replacement": "🔧", "description": "wrench" },
+  "schroevendraaier": { "replacement": "🪛", "description": "screwdriver" },
+  "moer en bout": { "replacement": "🔩", "description": "nut and bolt" },
+  "uitrusting": { "replacement": "⚙️", "description": "gear" },
+  "klem": { "replacement": "🗜️", "description": "clamp" },
+  "weegschaal": { "replacement": "⚖️", "description": "balance scale" },
+  "sonderende stok": { "replacement": "🦯", "description": "white cane" },
+  "koppeling": { "replacement": "🔗", "description": "link" },
+  "kettingen": { "replacement": "⛓️", "description": "chains" },
+  "haak": { "replacement": "🪝", "description": "hook" },
+  "gereedschapskist": { "replacement": "🧰", "description": "toolbox" },
+  "magneet": { "replacement": "🧲", "description": "magnet" },
+  "ladder": { "replacement": "🪜", "description": "ladder" },
+  "alambiek": { "replacement": "⚗️", "description": "alembic" },
+  "reageerbuis": { "replacement": "🧪", "description": "test tube" },
+  "petrischaal": { "replacement": "🧫", "description": "petri dish" },
+  "dna": { "replacement": "🧬", "description": "dna" },
+  "microscoop": { "replacement": "🔬", "description": "microscope" },
+  "telescoop": { "replacement": "🔭", "description": "telescope" },
+  "satelliet": { "replacement": "📡", "description": "satellite antenna" },
+  "spuit": { "replacement": "💉", "description": "syringe" },
+  "druppel bloed": { "replacement": "🩸", "description": "drop of blood" },
+  "pil": { "replacement": "💊", "description": "pill" },
+  "Zelfklevende pleister": {
+    "replacement": "🩹",
+    "description": "adhesive bandage"
+  },
+  "stethoscoop": { "replacement": "🩺", "description": "stethoscope" },
+  "deur-": { "replacement": "🚪", "description": "door" },
+  "lift": { "replacement": "🛗", "description": "elevator" },
+  "spiegel": { "replacement": "🪞", "description": "mirror" },
+  "venster": { "replacement": "🪟", "description": "window" },
+  "bed": { "replacement": "🛏️", "description": "bed" },
+  "bank en lamp": { "replacement": "🛋️", "description": "couch and lamp" },
+  "toilet": { "replacement": "🚻", "description": "restroom" },
+  "plunjer": { "replacement": "🪠", "description": "plunger" },
+  "douche": { "replacement": "🚿", "description": "shower" },
+  "muizenval": { "replacement": "🪤", "description": "mouse trap" },
+  "scheermes": { "replacement": "🪒", "description": "razor" },
+  "lotion fles": { "replacement": "🧴", "description": "lotion bottle" },
+  "veiligheidsspeld": { "replacement": "🧷", "description": "safety pin" },
+  "bezem": { "replacement": "🧹", "description": "broom" },
+  "mand": { "replacement": "🧺", "description": "basket" },
+  "rol papier": { "replacement": "🧻", "description": "roll of paper" },
+  "emmer": { "replacement": "🪣", "description": "bucket" },
+  "zeep": { "replacement": "🧼", "description": "soap" },
+  "tandenborstel": { "replacement": "🪥", "description": "toothbrush" },
+  "spons": { "replacement": "🧽", "description": "sponge" },
+  "brandblusser": { "replacement": "🧯", "description": "fire extinguisher" },
+  "winkelwagen": { "replacement": "🛒", "description": "shopping cart" },
+  "roken": { "replacement": "🚬", "description": "cigarette" },
+  "kist": { "replacement": "⚰️", "description": "coffin" },
+  "grafsteen": { "replacement": "🪦", "description": "headstone" },
+  "begrafenis urn": { "replacement": "⚱️", "description": "funeral urn" },
+  "moyai": { "replacement": "🗿", "description": "moai" },
+  "aanplakbiljet": { "replacement": "🪧", "description": "placard" },
+  "Geldautomaat": { "replacement": "🏧", "description": "ATM sign" },
+  "leg zwerfvuil op zijn plaats": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "drinkbaar water": { "replacement": "🚰", "description": "potable water" },
+  "rolstoel": { "replacement": "♿", "description": "wheelchair symbol" },
+  "Mannen": { "replacement": "🚹", "description": "men’s room" },
+  "vrouwen": { "replacement": "🚺", "description": "women’s room" },
+  "baby symbool": { "replacement": "🚼", "description": "baby symbol" },
+  "wc": { "replacement": "🚾", "description": "water closet" },
+  "paspoort controle": {
+    "replacement": "🛂",
+    "description": "passport control"
+  },
+  "douane": { "replacement": "🛃", "description": "customs" },
+  "Bagage afhalen": { "replacement": "🛄", "description": "baggage claim" },
+  "achtergelaten bagage": {
+    "replacement": "🛅",
+    "description": "left luggage"
+  },
+  "waarschuwing": { "replacement": "⚠️", "description": "warning" },
+  "kinderen oversteken": {
+    "replacement": "🚸",
+    "description": "children crossing"
+  },
+  "geen toegang": { "replacement": "⛔", "description": "no entry" },
+  "geen toegangsteken": { "replacement": "🚫", "description": "prohibited" },
+  "geen fietsen": { "replacement": "🚳", "description": "no bicycles" },
+  "niet roken": { "replacement": "🚭", "description": "no smoking" },
+  "geen rommel maken": { "replacement": "🚯", "description": "no littering" },
+  "niet-drinkbaar water": {
+    "replacement": "🚱",
+    "description": "non-potable water"
+  },
+  "geen voetgangers": { "replacement": "🚷", "description": "no pedestrians" },
+  "geen mobiele telefoons": {
+    "replacement": "📵",
+    "description": "no mobile phones"
+  },
+  "minderjarig": {
+    "replacement": "🔞",
+    "description": "no one under eighteen"
+  },
+  "radioactief": { "replacement": "☢️", "description": "radioactive" },
+  "biologisch gevaar": { "replacement": "☣️", "description": "biohazard" },
+  "pijl omhoog": { "replacement": "⬆️", "description": "up arrow" },
+  "pijl rechtsboven": { "replacement": "↗️", "description": "up-right arrow" },
+  "pijl naar rechts": { "replacement": "➡️", "description": "right arrow" },
+  "pijl rechtsonder": {
+    "replacement": "↘️",
+    "description": "down-right arrow"
+  },
+  "pijltje naar beneden": { "replacement": "⬇️", "description": "down arrow" },
+  "pijl linksonder": { "replacement": "↙️", "description": "down-left arrow" },
+  "pijl naar links": { "replacement": "⬅️", "description": "left arrow" },
+  "pijl linksboven": { "replacement": "↖️", "description": "up-left arrow" },
+  "pijl omhoog omlaag": { "replacement": "↕️", "description": "up-down arrow" },
+  "linker pijl naar rechts": {
+    "replacement": "↔️",
+    "description": "left-right arrow"
+  },
+  "pijl naar links met haak": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "pijl rechtse hoek": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "pijl naar boven": {
+    "replacement": "⤴️",
+    "description": "right arrow curving up"
+  },
+  "pijl naar beneden": {
+    "replacement": "⤵️",
+    "description": "right arrow curving down"
+  },
+  "pijlen met de klok mee": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "pijlen tegen de klok in": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "terug": { "replacement": "🔙", "description": "BACK arrow" },
+  "einde": { "replacement": "🔚", "description": "END arrow" },
+  "Aan": { "replacement": "🔛", "description": "ON! arrow" },
+  "spoedig": { "replacement": "🔜", "description": "SOON arrow" },
+  "top": { "replacement": "🔝", "description": "TOP arrow" },
+  "gebedsruimte": { "replacement": "🛐", "description": "place of worship" },
+  "atoom symbool": { "replacement": "⚛️", "description": "atom symbol" },
+  "om": { "replacement": "🕉️", "description": "om" },
+  "ster van David": { "replacement": "✡️", "description": "star of David" },
+  "wiel van dharma": { "replacement": "☸️", "description": "wheel of dharma" },
+  "Yin Yang": { "replacement": "☯️", "description": "yin yang" },
+  "latijns kruis": { "replacement": "✝️", "description": "latin cross" },
+  "orthodox kruis": { "replacement": "☦️", "description": "orthodox cross" },
+  "ster en halve maan": {
+    "replacement": "☪️",
+    "description": "star and crescent"
+  },
+  "vredessymbool": { "replacement": "☮️", "description": "peace symbol" },
+  "menora": { "replacement": "🕎", "description": "menorah" },
+  "zespuntige ster": {
+    "replacement": "🔯",
+    "description": "dotted six-pointed star"
+  },
+  "Ram": { "replacement": "♈", "description": "Aries" },
+  "Stier": { "replacement": "♉", "description": "Taurus" },
+  "Tweelingen": { "replacement": "♊", "description": "Gemini" },
+  "kanker": { "replacement": "♋", "description": "Cancer" },
+  "Leo": { "replacement": "♌", "description": "Leo" },
+  "Maagd": { "replacement": "♍", "description": "Virgo" },
+  "Weegschaal": { "replacement": "♎", "description": "Libra" },
+  "scorpius": { "replacement": "♏", "description": "Scorpio" },
+  "Boogschutter": { "replacement": "♐", "description": "Sagittarius" },
+  "Steenbok": { "replacement": "♑", "description": "Capricorn" },
+  "Waterman": { "replacement": "♒", "description": "Aquarius" },
+  "vissen": { "replacement": "♓", "description": "Pisces" },
+  "ophiuchus": { "replacement": "⛎", "description": "Ophiuchus" },
+  "gedraaide pijlen naar rechts": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "herhaling": { "replacement": "🔁", "description": "repeat button" },
+  "herhaal een": { "replacement": "🔂", "description": "repeat single button" },
+  "pijl vooruit": { "replacement": "▶️", "description": "play button" },
+  "snel vooruit": { "replacement": "⏩", "description": "fast-forward button" },
+  "volgende track knop": {
+    "replacement": "⏭️",
+    "description": "next track button"
+  },
+  "afspelen of pauzeren": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "pijl achteruit": { "replacement": "◀️", "description": "reverse button" },
+  "terugspoelen": { "replacement": "⏪", "description": "fast reverse button" },
+  "vorige track-knop": {
+    "replacement": "⏮️",
+    "description": "last track button"
+  },
+  "pijltje omhoog klein": {
+    "replacement": "🔼",
+    "description": "upwards button"
+  },
+  "pijl dubbel omhoog": {
+    "replacement": "⏫",
+    "description": "fast up button"
+  },
+  "pijltje naar beneden klein": {
+    "replacement": "🔽",
+    "description": "downwards button"
+  },
+  "pijl dubbel naar beneden": {
+    "replacement": "⏬",
+    "description": "fast down button"
+  },
+  "pauzeknop": { "replacement": "⏸️", "description": "pause button" },
+  "stop knop": { "replacement": "⏹️", "description": "stop button" },
+  "record knop": { "replacement": "⏺️", "description": "record button" },
+  "uitwerpknop": { "replacement": "⏏️", "description": "eject button" },
+  "bioscoop": { "replacement": "🎦", "description": "cinema" },
+  "lage helderheid": { "replacement": "🔅", "description": "dim button" },
+  "hoge helderheid": { "replacement": "🔆", "description": "bright button" },
+  "signaalsterkte": { "replacement": "📶", "description": "antenna bars" },
+  "trillingsmodus": { "replacement": "📳", "description": "vibration mode" },
+  "mobiele telefoon uit": {
+    "replacement": "📴",
+    "description": "mobile phone off"
+  },
+  "vrouwelijk teken": { "replacement": "♀️", "description": "female sign" },
+  "mannelijk teken": { "replacement": "♂️", "description": "male sign" },
+  "transgender symbool": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "zware vermenigvuldiging x": {
+    "replacement": "✖️",
+    "description": "multiply"
+  },
+  "zwaar plusteken": { "replacement": "➕", "description": "plus" },
+  "zwaar minteken": { "replacement": "➖", "description": "minus" },
+  "zware divisie teken": { "replacement": "➗", "description": "divide" },
+  "oneindigheid": { "replacement": "♾️", "description": "infinity" },
+  "bangbang": { "replacement": "‼️", "description": "double exclamation mark" },
+  "interrobang": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "vraag": { "replacement": "❓", "description": "question mark" },
+  "grijze vraag": { "replacement": "❔", "description": "white question mark" },
+  "grijze uitroep": {
+    "replacement": "❕",
+    "description": "white exclamation mark"
+  },
+  "uitroep": { "replacement": "❗", "description": "exclamation mark" },
+  "golvend streepje": { "replacement": "〰️", "description": "wavy dash" },
+  "wisselkantoor": { "replacement": "💱", "description": "currency exchange" },
+  "zwaar dollarteken": {
+    "replacement": "💲",
+    "description": "heavy dollar sign"
+  },
+  "medisch symbool": { "replacement": "⚕️", "description": "medical symbol" },
+  "recyclen": { "replacement": "♻️", "description": "recycling symbol" },
+  "fleur de lis": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "drietand": { "replacement": "🔱", "description": "trident emblem" },
+  "naambadge": { "replacement": "📛", "description": "name badge" },
+  "beginner": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "O": { "replacement": "⭕", "description": "hollow red circle" },
+  "wit vinkje": { "replacement": "✅", "description": "check mark button" },
+  "stembus met cheque": {
+    "replacement": "☑️",
+    "description": "check box with check"
+  },
+  "zwaar vinkje": { "replacement": "✔️", "description": "check mark" },
+  "X": { "replacement": "❌", "description": "cross mark" },
+  "negatief kwadraat kruisteken": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "gekrulde lus": { "replacement": "➰", "description": "curly loop" },
+  "lus": { "replacement": "➿", "description": "double curly loop" },
+  "deel afwisselingsteken": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "acht-spaaks asterisk": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "achtpuntige zwarte ster": {
+    "replacement": "✴️",
+    "description": "eight-pointed star"
+  },
+  "fonkeling": { "replacement": "❇️", "description": "sparkle" },
+  "auteursrechten": { "replacement": "©️", "description": "copyright" },
+  "geregistreerd": { "replacement": "®️", "description": "registered" },
+  "tm": { "replacement": "™️", "description": "trade mark" },
+  "hash": { "replacement": "#️⃣", "description": "keycap: #" },
+  "asterisk": { "replacement": "*️⃣", "description": "keycap: *" },
+  "nul": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "een": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "twee": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "drie": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "vier": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "vijf": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "zes": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "zeven": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "acht": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "negen": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "keycap tien": { "replacement": "🔟", "description": "keycap: 10" },
+  "kapitaal abcd": {
+    "replacement": "🔠",
+    "description": "input latin uppercase"
+  },
+  "abcd": { "replacement": "🔡", "description": "input latin lowercase" },
+  "symbolen": { "replacement": "🔣", "description": "input symbols" },
+  "abc": { "replacement": "🔤", "description": "input latin letters" },
+  "ab": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "b": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "cl": { "replacement": "🆑", "description": "CL button" },
+  "koel": { "replacement": "🆒", "description": "COOL button" },
+  "vrij": { "replacement": "🆓", "description": "FREE button" },
+  "informatiebron": { "replacement": "ℹ️", "description": "information" },
+  "ID kaart": { "replacement": "🆔", "description": "ID button" },
+  "m": { "replacement": "Ⓜ️", "description": "circled M" },
+  "nieuw": { "replacement": "🆕", "description": "NEW button" },
+  "ng": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "OK": { "replacement": "🆗", "description": "OK button" },
+  "parkeren": { "replacement": "🅿️", "description": "P button" },
+  "Sos": { "replacement": "🆘", "description": "SOS button" },
+  "omhoog": { "replacement": "🆙", "description": "UP! button" },
+  "vs": { "replacement": "🆚", "description": "VS button" },
+  "koko": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "sa": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "ideografisch voordeel": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "aanvaarden": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "Gefeliciteerd": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "geheim": { "replacement": "㊙️", "description": "Japanese “secret” button" },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "rode cirkel": { "replacement": "🔴", "description": "red circle" },
+  "oranje cirkel": { "replacement": "🟠", "description": "orange circle" },
+  "gele cirkel": { "replacement": "🟡", "description": "yellow circle" },
+  "groene cirkel": { "replacement": "🟢", "description": "green circle" },
+  "grote blauwe cirkel": { "replacement": "🔵", "description": "blue circle" },
+  "paarse cirkel": { "replacement": "🟣", "description": "purple circle" },
+  "bruine cirkel": { "replacement": "🟤", "description": "brown circle" },
+  "zwarte cirkel": { "replacement": "⚫", "description": "black circle" },
+  "witte cirkel": { "replacement": "⚪", "description": "white circle" },
+  "rood vierkant": { "replacement": "🟥", "description": "red square" },
+  "oranje vierkant": { "replacement": "🟧", "description": "orange square" },
+  "geel vierkant": { "replacement": "🟨", "description": "yellow square" },
+  "groen vierkant": { "replacement": "🟩", "description": "green square" },
+  "blauw vierkant": { "replacement": "🟦", "description": "blue square" },
+  "paars vierkant": { "replacement": "🟪", "description": "purple square" },
+  "bruin vierkant": { "replacement": "🟫", "description": "brown square" },
+  "zwart groot vierkant": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "wit groot vierkant": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "zwart middelgroot vierkant": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "wit middelgroot vierkant": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "zwart vierkantje": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "wit vierkantje": {
+    "replacement": "▫️",
+    "description": "white small square"
+  },
+  "grote oranje diamant": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "grote blauwe diamant": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "kleine oranje diamant": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "kleine blauwe diamant": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "kleine rode driehoek": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "kleine rode driehoek naar beneden": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "ruitvorm met een stip erin": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "Radio knop": { "replacement": "🔘", "description": "radio button" },
+  "witte vierkante knop": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "zwarte vierkante knop": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "geruite vlag": { "replacement": "🏁", "description": "chequered flag" },
+  "driehoekige vlag op post": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "gekruiste vlaggen": { "replacement": "🎌", "description": "crossed flags" },
+  "zwarte vlag": { "replacement": "🏴", "description": "black flag" },
+  "witte vlag": { "replacement": "🏳️", "description": "white flag" },
+  "regenboogvlag": { "replacement": "🏳️‍🌈", "description": "rainbow flag" },
+  "transgender vlag": {
+    "replacement": "🏳️‍⚧️",
+    "description": "transgender flag"
+  },
+  "piraten vlag": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "Ascension Island": {
+    "replacement": "🇦🇨",
+    "description": "flag: Ascension Island"
+  },
+  "Andorra": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "Verenigde Arabische Emiraten": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "afghanistan": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "antigua barbuda": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "Anguilla": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "albanië": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "Armenië": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "Angola": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "antarctica": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "Argentinië": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "Amerikaans Samoa": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "Oostenrijk": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "Australië": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "aruba": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "Aland-eilanden": {
+    "replacement": "🇦🇽",
+    "description": "flag: Åland Islands"
+  },
+  "Azerbeidzjan": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "bosnië herzegovina": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "Barbados": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "bangladesh": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "belgië": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "burkina faso": { "replacement": "🇧🇫", "description": "flag: Burkina Faso" },
+  "bulgarije": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "Bahrein": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "Burundi": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "Benin": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "st barthelemy": {
+    "replacement": "🇧🇱",
+    "description": "flag: St. Barthélemy"
+  },
+  "bermuda": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "Brunei": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "Bolivia": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "caribisch nederland": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "Brazilië": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "Bahamas": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "Bhutan": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "bouvet eiland": {
+    "replacement": "🇧🇻",
+    "description": "flag: Bouvet Island"
+  },
+  "botswana": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "wit-rusland": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "Belize": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "Canada": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "cocoseilanden": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "congo kinshasa": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "Centraal Afrikaanse Republiek": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "congo brazzaville": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "Zwitserland": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "cote divoire": { "replacement": "🇨🇮", "description": "flag: Côte d’Ivoire" },
+  "Cook eilanden": { "replacement": "🇨🇰", "description": "flag: Cook Islands" },
+  "Chili": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "Kameroen": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "cn": { "replacement": "🇨🇳", "description": "flag: China" },
+  "Colombia": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "clipperton eiland": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "Costa Rica": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "Cuba": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "Kaapverdië": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "Curacao": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "Kersteiland": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "Cyprus": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "Tsjechische Republiek": {
+    "replacement": "🇨🇿",
+    "description": "flag: Czechia"
+  },
+  "de": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "Diego Garcia": { "replacement": "🇩🇬", "description": "flag: Diego Garcia" },
+  "Djibouti": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "Denemarken": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "dominica": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "Dominicaanse Republiek": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "Algerije": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "ceuta melilla": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "Ecuador": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "Estland": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "Egypte": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "Westelijke Sahara": {
+    "replacement": "🇪🇭",
+    "description": "flag: Western Sahara"
+  },
+  "eritrea": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "es": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "Ethiopië": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "EU": { "replacement": "🇪🇺", "description": "flag: European Union" },
+  "Finland": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "Fiji": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "Falkland Eilanden": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "Micronesië": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "Faeröer": { "replacement": "🇫🇴", "description": "flag: Faroe Islands" },
+  "vr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "Gabon": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "nl": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "Grenada": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "Georgië": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "frans-guyana": { "replacement": "🇬🇫", "description": "flag: French Guiana" },
+  "Guernsey": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "Ghana": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "Gibraltar": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "Groenland": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "Gambia": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "Guinea": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "Guadeloupe": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "Equatoriaal-Guinea": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "Griekenland": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "zuid georgië zuid sandwich eilanden": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "Guatemala": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "guam": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "Guinea Bissau": {
+    "replacement": "🇬🇼",
+    "description": "flag: Guinea-Bissau"
+  },
+  "Guyana": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "hong kong": {
+    "replacement": "🇭🇰",
+    "description": "flag: Hong Kong SAR China"
+  },
+  "hoorde McDonald-eilanden": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "Honduras": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "Kroatië": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "Haïti": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "Hongarije": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "Canarische eilanden": {
+    "replacement": "🇮🇨",
+    "description": "flag: Canary Islands"
+  },
+  "Indonesië": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "Ierland": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "Israël": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "eiland van de mens": {
+    "replacement": "🇮🇲",
+    "description": "flag: Isle of Man"
+  },
+  "india": { "replacement": "🇮🇳", "description": "flag: India" },
+  "Brits-Indisch oceaan gebied": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "Irak": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "iran": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "IJsland": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "het": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "Jersey": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "Jamaica": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "Jordanië": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "jp": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "Kenia": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "Kirgizië": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "Cambodja": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "Kiribati": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "comoren": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "st kitts nevis": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "Noord Korea": { "replacement": "🇰🇵", "description": "flag: North Korea" },
+  "kr": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "Koeweit": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "Kaaiman Eilanden": {
+    "replacement": "🇰🇾",
+    "description": "flag: Cayman Islands"
+  },
+  "Kazachstan": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "Laos": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "Libanon": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "St Lucia": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "Liechtenstein": {
+    "replacement": "🇱🇮",
+    "description": "flag: Liechtenstein"
+  },
+  "Sri Lanka": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "Liberia": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "Lesotho": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "Litouwen": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "luxemburg": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "Letland": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "Libië": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "Marokko": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "Monaco": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "Moldavië": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "Montenegro": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "Sint Maarten": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "Madagascar": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "Marshall eilanden": {
+    "replacement": "🇲🇭",
+    "description": "flag: Marshall Islands"
+  },
+  "Macedonië": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "Mali": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "myanmar": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "Mongolië": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "Macau": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "noordelijke Mariana eilanden": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "martinique": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "mauritanië": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "montserrat": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "Malta": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "Mauritius": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "Maldiven": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "malawi": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "Mexico": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "Maleisië": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "Mozambique": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "Namibië": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "Nieuw-Caledonië": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "Niger": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "Norfolkeiland": {
+    "replacement": "🇳🇫",
+    "description": "flag: Norfolk Island"
+  },
+  "nigeria": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "Nicaragua": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "Nederland": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "Noorwegen": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "Nepal": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "nauru": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "niue": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "Nieuw-Zeeland": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "Oman": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "Panama": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "Peru": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "Frans-Polynesië": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "Papoea-Nieuw-Guinea": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "Filippijnen": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "Pakistan": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "Polen": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "st pierre miquelon": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "pitcairn-eilanden": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "Puerto Rico": { "replacement": "🇵🇷", "description": "flag: Puerto Rico" },
+  "Palestijnse grondgebieden": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "Portugal": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "Palau": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "Paraguay": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "qatar": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "bijeenkomst": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "Roemenië": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "servië": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "ru": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "rwanda": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "Saoedi-Arabië": { "replacement": "🇸🇦", "description": "flag: Saudi Arabia" },
+  "Solomon eilanden": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "Seychellen": { "replacement": "🇸🇨", "description": "flag: Seychelles" },
+  "Soedan": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "Zweden": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "Singapore": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "st helena": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "Slovenië": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "svalbard jan mayen": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "Slowakije": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "Sierra Leone": { "replacement": "🇸🇱", "description": "flag: Sierra Leone" },
+  "San Marino": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "Senegal": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "Somalië": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "suriname": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "Zuid Soedan": { "replacement": "🇸🇸", "description": "flag: South Sudan" },
+  "Sao Tomé Principe": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "el salvador": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "sint maarten": { "replacement": "🇸🇽", "description": "flag: Sint Maarten" },
+  "Syrië": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "Swaziland": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "tristan da cunha": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "turks caicos eilanden": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "Tsjaad": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "Franse zuidelijke gebieden": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "gaan": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "Thailand": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "tadzjikistan": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "tokelau": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "timor leste": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "turkmenistan": { "replacement": "🇹🇲", "description": "flag: Turkmenistan" },
+  "Tunesië": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "Tonga": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "tr": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "trinidad tobago": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "Tuvalu": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "Taiwan": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "Tanzania": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "Oekraïne": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "Oeganda": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "ons afgelegen eilanden": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "Verenigde Naties": {
+    "replacement": "🇺🇳",
+    "description": "flag: United Nations"
+  },
+  "ons": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "Uruguay": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "Oezbekistan": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "Vaticaanstad": { "replacement": "🇻🇦", "description": "flag: Vatican City" },
+  "st vincent grenadines": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "Venezuela": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "Britse Maagdeneilanden": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "Amerikaanse Maagdeneilanden": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "Vietnam": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "vanuatu": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "wallis futuna": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "samoa": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "Kosovo": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "Jemen": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "mayotte": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "Zuid-Afrika": { "replacement": "🇿🇦", "description": "flag: South Africa" },
+  "Zambia": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "Zimbabwe": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "Engeland": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "Schotland": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "Wales": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

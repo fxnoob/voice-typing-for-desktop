@@ -1,0 +1,2946 @@
+{
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "నవ్వుతూ": { "replacement": "😆", "description": "grinning squinting face" },
+  "స్మైలీ": {
+    "replacement": "😃",
+    "description": "grinning face with big eyes"
+  },
+  "చిరునవ్వు": {
+    "replacement": "😄",
+    "description": "grinning face with smiling eyes"
+  },
+  "నవ్వు": { "replacement": "😏", "description": "smirking face" },
+  "చెమట చిరునవ్వు": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "ఆనందం": { "replacement": "😂", "description": "face with tears of joy" },
+  "కొద్దిగా నవ్వుతున్న ముఖం": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "తలక్రిందులుగా ముఖం": {
+    "replacement": "🙃",
+    "description": "upside-down face"
+  },
+  "వింక్": { "replacement": "😉", "description": "winking face" },
+  "సిగ్గు": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "అమాయక": { "replacement": "😇", "description": "smiling face with halo" },
+  "మూడు హృదయాలతో నవ్వుతున్న ముఖం": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "గుండె కళ్ళు": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "నక్షత్రం తాకింది": { "replacement": "🤩", "description": "star-struck" },
+  "ప్రియ హృదయం": { "replacement": "😘", "description": "face blowing a kiss" },
+  "ముద్దు": { "replacement": "💋", "description": "kiss mark" },
+  "రిలాక్స్డ్": { "replacement": "☺️", "description": "smiling face" },
+  "మూసిన కళ్ళు ముద్దు": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "నవ్వుతున్న కళ్ళతో ముద్దు పెట్టుకోవడం": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "కన్నీటితో నవ్వుతున్న ముఖం": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "yum": { "replacement": "😋", "description": "face savoring food" },
+  "నాలుక బయటకు వచ్చింది": {
+    "replacement": "😛",
+    "description": "face with tongue"
+  },
+  "నాలుక కంటిచూపు కన్ను": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "zany ముఖం": { "replacement": "🤪", "description": "zany face" },
+  "కళ్ళు మూసుకుని నాలుక చూపడము": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "డబ్బు నోరు ముఖం": { "replacement": "🤑", "description": "money-mouth face" },
+  "కౌగిలింతలు": { "replacement": "🤗", "description": "hugging face" },
+  "నోటిపై చేయి": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "ముఖం కదిలించడం": { "replacement": "🤫", "description": "shushing face" },
+  "ఆలోచిస్తూ": { "replacement": "🤔", "description": "thinking face" },
+  "జిప్పర్ నోరు ముఖం": {
+    "replacement": "🤐",
+    "description": "zipper-mouth face"
+  },
+  "పెరిగిన కనుబొమ్మ": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "తటస్థ ముఖం": { "replacement": "😐", "description": "neutral face" },
+  "వ్యక్తీకరణ లేనిది": {
+    "replacement": "😑",
+    "description": "expressionless face"
+  },
+  "నోరు లేదు": { "replacement": "😶", "description": "face without mouth" },
+  "ఉపయోగించని": { "replacement": "😒", "description": "unamused face" },
+  "కళ్ళను తిప్పు": {
+    "replacement": "🙄",
+    "description": "face with rolling eyes"
+  },
+  "భయంకరమైన": { "replacement": "😬", "description": "grimacing face" },
+  "అబద్ధం ముఖం": { "replacement": "🤥", "description": "lying face" },
+  "ఉపశమనం": { "replacement": "😌", "description": "relieved face" },
+  "చురుకైన": { "replacement": "😔", "description": "pensive face" },
+  "నిద్ర": { "replacement": "😴", "description": "sleeping face" },
+  "ముఖం మందగించడం": { "replacement": "🤤", "description": "drooling face" },
+  "ముసుగు": { "replacement": "😷", "description": "face with medical mask" },
+  "థర్మామీటర్‌తో ముఖం": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "తల కట్టుతో ముఖం": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "వికారం ముఖం": { "replacement": "🤢", "description": "nauseated face" },
+  "ముఖం వాంతులు": { "replacement": "🤮", "description": "face vomiting" },
+  "తుమ్ము ముఖం": { "replacement": "🤧", "description": "sneezing face" },
+  "వేడి ముఖం": { "replacement": "🥵", "description": "hot face" },
+  "చల్లని ముఖం": { "replacement": "🥶", "description": "cold face" },
+  "వూజీ ముఖం": { "replacement": "🥴", "description": "woozy face" },
+  "డిజ్జి ముఖం": { "replacement": "😵", "description": "dizzy face" },
+  "పేలుతున్న తల": { "replacement": "🤯", "description": "exploding head" },
+  "కౌబాయ్ టోపీ ముఖం": { "replacement": "🤠", "description": "cowboy hat face" },
+  "పార్టీ ముఖం": { "replacement": "🥳", "description": "partying face" },
+  "మారువేషంలో ఉన్న ముఖం": {
+    "replacement": "🥸",
+    "description": "disguised face"
+  },
+  "సన్ గ్లాసెస్": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "తానే చెప్పుకున్నట్టూ ముఖం": {
+    "replacement": "🤓",
+    "description": "nerd face"
+  },
+  "మోనోకిల్ ముఖం": { "replacement": "🧐", "description": "face with monocle" },
+  "గందరగోళం": { "replacement": "😖", "description": "confounded face" },
+  "ఆందోళన": { "replacement": "😟", "description": "worried face" },
+  "కొద్దిగా కోపంగా ఉన్న ముఖం": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "కోపంగా ఉన్న ముఖం": { "replacement": "☹️", "description": "frowning face" },
+  "నోరు తెరవండి": {
+    "replacement": "😮",
+    "description": "face with open mouth"
+  },
+  "హష్": { "replacement": "😯", "description": "hushed face" },
+  "ఆశ్చర్యపోయారు": { "replacement": "😲", "description": "astonished face" },
+  "ఉడకబెట్టింది": { "replacement": "😳", "description": "flushed face" },
+  "విజ్ఞప్తి చేసే ముఖం": {
+    "replacement": "🥺",
+    "description": "pleading face"
+  },
+  "కోపంగా": {
+    "replacement": "😦",
+    "description": "frowning face with open mouth"
+  },
+  "వేదన": { "replacement": "😧", "description": "anguished face" },
+  "భయపడే": { "replacement": "😨", "description": "fearful face" },
+  "చల్లని చెమట": {
+    "replacement": "😰",
+    "description": "anxious face with sweat"
+  },
+  "నిరాశ ఉపశమనం": {
+    "replacement": "😥",
+    "description": "sad but relieved face"
+  },
+  "ఏడుపు": { "replacement": "😢", "description": "crying face" },
+  "sob": { "replacement": "😭", "description": "loudly crying face" },
+  "కేకలు": { "replacement": "😱", "description": "face screaming in fear" },
+  "పట్టుదలతో": { "replacement": "😣", "description": "persevering face" },
+  "నిరాశ": { "replacement": "😞", "description": "disappointed face" },
+  "చెమట": { "replacement": "😓", "description": "downcast face with sweat" },
+  "అలసిపోతుంది": { "replacement": "😩", "description": "weary face" },
+  "అలసిపోయిన ముఖం": { "replacement": "😫", "description": "tired face" },
+  "ఆవలింత ముఖం": { "replacement": "🥱", "description": "yawning face" },
+  "విజయం": { "replacement": "😤", "description": "face with steam from nose" },
+  "కోపం": { "replacement": "💢", "description": "anger symbol" },
+  "శపించే ముఖం": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "నవ్వుతున్న ఇంప్": {
+    "replacement": "😈",
+    "description": "smiling face with horns"
+  },
+  "imp": { "replacement": "👿", "description": "angry face with horns" },
+  "పుర్రె": { "replacement": "💀", "description": "skull" },
+  "పుర్రె మరియు క్రాస్బోన్స్": {
+    "replacement": "☠️",
+    "description": "skull and crossbones"
+  },
+  "హాంకీ": { "replacement": "💩", "description": "pile of poo" },
+  "విదూషకుడు ముఖం": { "replacement": "🤡", "description": "clown face" },
+  "జపనీస్ ఓగ్రే": { "replacement": "👹", "description": "ogre" },
+  "జపనీస్ గోబ్లిన్": { "replacement": "👺", "description": "goblin" },
+  "దెయ్యం": { "replacement": "👻", "description": "ghost" },
+  "గ్రహాంతర": { "replacement": "👽", "description": "alien" },
+  "స్పేస్ ఆక్రమణదారు": { "replacement": "👾", "description": "alien monster" },
+  "రోబోట్": { "replacement": "🚣", "description": "person rowing boat" },
+  "స్మైలీ పిల్లి": { "replacement": "😺", "description": "grinning cat" },
+  "చిరునవ్వు పిల్లి": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "ఆనందం పిల్లి": {
+    "replacement": "😹",
+    "description": "cat with tears of joy"
+  },
+  "గుండె కళ్ళు పిల్లి": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "స్మిర్క్ పిల్లి": {
+    "replacement": "😼",
+    "description": "cat with wry smile"
+  },
+  "ముద్దు పిల్లి": { "replacement": "😽", "description": "kissing cat" },
+  "స్క్రీమ్ పిల్లి": { "replacement": "🙀", "description": "weary cat" },
+  "ఏడుపు పిల్లి ముఖం": { "replacement": "😿", "description": "crying cat" },
+  "పిల్లి పిల్లి": { "replacement": "😾", "description": "pouting cat" },
+  "చెడు చూడకు": { "replacement": "🙈", "description": "see-no-evil monkey" },
+  "చెడు వినవద్దు": {
+    "replacement": "🙉",
+    "description": "hear-no-evil monkey"
+  },
+  "చెడు మాట్లాడకండి": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "ప్రేమ లేఖ": { "replacement": "💌", "description": "love letter" },
+  "మన్మథుడు": { "replacement": "💘", "description": "heart with arrow" },
+  "బహుమతి గుండె": { "replacement": "💝", "description": "heart with ribbon" },
+  "మెరిసే గుండె": { "replacement": "💖", "description": "sparkling heart" },
+  "హృదయ స్పందన": { "replacement": "💓", "description": "beating heart" },
+  "తిరిగే హృదయాలు": { "replacement": "💞", "description": "revolving hearts" },
+  "రెండు హృదయాలు": { "replacement": "💕", "description": "two hearts" },
+  "గుండె అలంకరణ": { "replacement": "💟", "description": "heart decoration" },
+  "భారీ గుండె ఆశ్చర్యార్థకం": {
+    "replacement": "❣️",
+    "description": "heart exclamation"
+  },
+  "విరిగిన గుండె": { "replacement": "💔", "description": "broken heart" },
+  "గుండె": { "replacement": "❤️", "description": "red heart" },
+  "నారింజ గుండె": { "replacement": "🧡", "description": "orange heart" },
+  "పసుపు గుండె": { "replacement": "💛", "description": "yellow heart" },
+  "ఆకుపచ్చ గుండె": { "replacement": "💚", "description": "green heart" },
+  "నీలం గుండె": { "replacement": "💙", "description": "blue heart" },
+  "ple దా గుండె": { "replacement": "💜", "description": "purple heart" },
+  "గోధుమ గుండె": { "replacement": "🤎", "description": "brown heart" },
+  "నల్ల గుండె": { "replacement": "🖤", "description": "black heart" },
+  "తెల్ల గుండె": { "replacement": "🤍", "description": "white heart" },
+  "బూమ్": { "replacement": "💥", "description": "collision" },
+  "డిజ్జి": { "replacement": "💫", "description": "dizzy" },
+  "చెమట చుక్కలు": { "replacement": "💦", "description": "sweat droplets" },
+  "డాష్": { "replacement": "💨", "description": "dashing away" },
+  "రంధ్రం": { "replacement": "🕳️", "description": "hole" },
+  "బాంబు": { "replacement": "💣", "description": "bomb" },
+  "స్పీచ్ బెలూన్": { "replacement": "💬", "description": "speech balloon" },
+  "కంటి ప్రసంగం బబుల్": {
+    "replacement": "👁️‍🗨️",
+    "description": "eye in speech bubble"
+  },
+  "ఎడమ ప్రసంగ బబుల్": {
+    "replacement": "🗨️",
+    "description": "left speech bubble"
+  },
+  "కుడి కోపం బబుల్": {
+    "replacement": "🗯️",
+    "description": "right anger bubble"
+  },
+  "ఆలోచన బెలూన్": { "replacement": "💭", "description": "thought balloon" },
+  "zzz": { "replacement": "💤", "description": "zzz" },
+  "అల": { "replacement": "👋", "description": "waving hand" },
+  "చేతి వెనుకకు పెంచింది": {
+    "replacement": "🤚",
+    "description": "raised back of hand"
+  },
+  "పెరిగిన చేతి వేళ్ళతో": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "చెయ్యి": { "replacement": "✋", "description": "raised hand" },
+  "వల్కాన్ సెల్యూట్": { "replacement": "🖖", "description": "vulcan salute" },
+  "సరే చేతి": { "replacement": "👌", "description": "OK hand" },
+  "పించ్డ్ వేళ్లు": { "replacement": "🤌", "description": "pinched fingers" },
+  "చిటికెడు చేతి": { "replacement": "🤏", "description": "pinching hand" },
+  "v": { "replacement": "✌️", "description": "victory hand" },
+  "దాటిన వేళ్లు": { "replacement": "🤞", "description": "crossed fingers" },
+  "లవ్ యు సంజ్ఞ": { "replacement": "🤟", "description": "love-you gesture" },
+  "లోహం": { "replacement": "🤘", "description": "sign of the horns" },
+  "నన్ను చేతితో పిలవండి": {
+    "replacement": "🤙",
+    "description": "call me hand"
+  },
+  "పాయింట్ మిగిలి ఉంది": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "కుడి పాయింట్": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "పాయింట్ 2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "మధ్య వేలు": { "replacement": "🖕", "description": "middle finger" },
+  "సూచించండి": { "replacement": "☝️", "description": "index pointing up" },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "పిడికిలి పెంచింది": { "replacement": "✊", "description": "raised fist" },
+  "పిడికిలి రాబోయే": { "replacement": "👊", "description": "oncoming fist" },
+  "పిడికిలి ఎడమ": { "replacement": "🤛", "description": "left-facing fist" },
+  "పిడికిలి కుడి": { "replacement": "🤜", "description": "right-facing fist" },
+  "చప్పట్లు": { "replacement": "🎬", "description": "clapper board" },
+  "చేతులు పెంచింది": { "replacement": "🙌", "description": "raising hands" },
+  "చేతులు తెరవండి": { "replacement": "👐", "description": "open hands" },
+  "అరచేతులు కలిసి": { "replacement": "🤲", "description": "palms up together" },
+  "హ్యాండ్షేక్": { "replacement": "🤝", "description": "handshake" },
+  "ప్రార్థన": { "replacement": "🙏", "description": "folded hands" },
+  "వ్రాసే చేతి": { "replacement": "✍️", "description": "writing hand" },
+  "గోరు సంరక్షణ": { "replacement": "💅", "description": "nail polish" },
+  "సెల్ఫీ": { "replacement": "🤳", "description": "selfie" },
+  "కండరము": { "replacement": "💪", "description": "flexed biceps" },
+  "యాంత్రిక చేయి": { "replacement": "🦾", "description": "mechanical arm" },
+  "యాంత్రిక కాలు": { "replacement": "🦿", "description": "mechanical leg" },
+  "కాలు": { "replacement": "🦵", "description": "leg" },
+  "అడుగు": { "replacement": "🦶", "description": "foot" },
+  "చెవి": { "replacement": "👂", "description": "ear" },
+  "వినికిడి సహాయంతో చెవి": {
+    "replacement": "🦻",
+    "description": "ear with hearing aid"
+  },
+  "ముక్కు": { "replacement": "👃", "description": "nose" },
+  "మె ద డు": { "replacement": "🧠", "description": "brain" },
+  "శరీర నిర్మాణ గుండె": {
+    "replacement": "🫀",
+    "description": "anatomical heart"
+  },
+  "ఊపిరితిత్తులు": { "replacement": "🫁", "description": "lungs" },
+  "పంటి": { "replacement": "🦷", "description": "tooth" },
+  "ఎముక": { "replacement": "🦴", "description": "bone" },
+  "నేత్రాలు": { "replacement": "👀", "description": "eyes" },
+  "కన్ను": { "replacement": "👁️", "description": "eye" },
+  "నాలుక": { "replacement": "👅", "description": "tongue" },
+  "పెదవులు": { "replacement": "👄", "description": "mouth" },
+  "బిడ్డ": { "replacement": "👶", "description": "baby" },
+  "పిల్లవాడు": { "replacement": "🧒", "description": "child" },
+  "అబ్బాయి": { "replacement": "👦", "description": "boy" },
+  "అమ్మాయి": { "replacement": "👧", "description": "girl" },
+  "వయోజన": { "replacement": "🧑", "description": "person" },
+  "రాగి జుట్టు గల వ్యక్తి": {
+    "replacement": "👱",
+    "description": "person: blond hair"
+  },
+  "మనిషి": { "replacement": "👨", "description": "man" },
+  "గడ్డం వ్యక్తి": { "replacement": "🧔", "description": "man: beard" },
+  "ఎర్ర బొచ్చు మనిషి": { "replacement": "👨‍🦰", "description": "man: red hair" },
+  "గిరజాల బొచ్చు మనిషి": {
+    "replacement": "👨‍🦱",
+    "description": "man: curly hair"
+  },
+  "తెల్ల బొచ్చు మనిషి": {
+    "replacement": "👨‍🦳",
+    "description": "man: white hair"
+  },
+  "బట్టతల మనిషి": { "replacement": "👨‍🦲", "description": "man: bald" },
+  "స్త్రీ": { "replacement": "👩", "description": "woman" },
+  "ఎర్ర బొచ్చు గల స్త్రీ": {
+    "replacement": "👩‍🦰",
+    "description": "woman: red hair"
+  },
+  "వ్యక్తి ఎరుపు జుట్టు": {
+    "replacement": "🧑‍🦰",
+    "description": "person: red hair"
+  },
+  "గిరజాల బొచ్చు గల స్త్రీ": {
+    "replacement": "👩‍🦱",
+    "description": "woman: curly hair"
+  },
+  "వ్యక్తి వంకర జుట్టు": {
+    "replacement": "🧑‍🦱",
+    "description": "person: curly hair"
+  },
+  "తెల్ల బొచ్చు గల స్త్రీ": {
+    "replacement": "👩‍🦳",
+    "description": "woman: white hair"
+  },
+  "వ్యక్తి తెల్ల జుట్టు": {
+    "replacement": "🧑‍🦳",
+    "description": "person: white hair"
+  },
+  "బట్టతల స్త్రీ": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "వ్యక్తి బట్టతల": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "రాగి జుట్టు గల స్త్రీ": {
+    "replacement": "👱‍♀️",
+    "description": "woman: blond hair"
+  },
+  "అందగత్తె బొచ్చు మనిషి": {
+    "replacement": "👱‍♂️",
+    "description": "man: blond hair"
+  },
+  "పాత పెద్దలు": { "replacement": "🧓", "description": "older person" },
+  "వృద్ధుడు": { "replacement": "👴", "description": "old man" },
+  "వృద్ధ మహిళ": { "replacement": "👵", "description": "old woman" },
+  "కోపంగా ఉన్న వ్యక్తి": {
+    "replacement": "🙍",
+    "description": "person frowning"
+  },
+  "కోపంగా ఉన్న మనిషి": { "replacement": "🙍‍♂️", "description": "man frowning" },
+  "కోపంగా ఉన్న స్త్రీ": {
+    "replacement": "🙍‍♀️",
+    "description": "woman frowning"
+  },
+  "ముఖం కొట్టుకోవడం": { "replacement": "🙎", "description": "person pouting" },
+  "మనిషిని కొట్టడం": { "replacement": "🙎‍♂️", "description": "man pouting" },
+  "pouting స్త్రీ": { "replacement": "🙎‍♀️", "description": "woman pouting" },
+  "మంచిది కాదు": { "replacement": "🙅", "description": "person gesturing NO" },
+  "మంచి మనిషి లేడు": { "replacement": "🙅‍♂️", "description": "man gesturing NO" },
+  "మంచి స్త్రీ లేదు": {
+    "replacement": "🙅‍♀️",
+    "description": "woman gesturing NO"
+  },
+  "సరే వ్యక్తి": { "replacement": "🙆", "description": "person gesturing OK" },
+  "సరే మనిషి": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "సరే స్త్రీ": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "చేతి వ్యక్తి చిట్కా": {
+    "replacement": "💁",
+    "description": "person tipping hand"
+  },
+  "చేతి మనిషిని కొనడం": {
+    "replacement": "💁‍♂️",
+    "description": "man tipping hand"
+  },
+  "చేతి మహిళ చిట్కా": {
+    "replacement": "💁‍♀️",
+    "description": "woman tipping hand"
+  },
+  "చేయి పైకెత్తి": {
+    "replacement": "🙋",
+    "description": "person raising hand"
+  },
+  "చేతి మనిషిని పెంచడం": {
+    "replacement": "🙋‍♂️",
+    "description": "man raising hand"
+  },
+  "చేతి స్త్రీని పెంచడం": {
+    "replacement": "🙋‍♀️",
+    "description": "woman raising hand"
+  },
+  "చెవిటి వ్యక్తి": { "replacement": "🧏", "description": "deaf person" },
+  "చెవిటి మనిషి": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "చెవిటి మహిళ": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "విల్లు": { "replacement": "🙇", "description": "person bowing" },
+  "వంగి మనిషి": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "వంగిపోయే స్త్రీ": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "ఫేస్ పామ్": { "replacement": "🤦", "description": "person facepalming" },
+  "మనిషి ఫేస్ పాల్మింగ్": {
+    "replacement": "🤦‍♂️",
+    "description": "man facepalming"
+  },
+  "స్త్రీ ఫేస్ పాల్మింగ్": {
+    "replacement": "🤦‍♀️",
+    "description": "woman facepalming"
+  },
+  "shrug": { "replacement": "🤷", "description": "person shrugging" },
+  "మనిషి ష్రగ్గింగ్": { "replacement": "🤷‍♂️", "description": "man shrugging" },
+  "స్త్రీ ష్రగ్గింగ్": {
+    "replacement": "🤷‍♀️",
+    "description": "woman shrugging"
+  },
+  "ఆరోగ్య కార్య కర్త": {
+    "replacement": "🧑‍⚕️",
+    "description": "health worker"
+  },
+  "మనిషి ఆరోగ్య కార్యకర్త": {
+    "replacement": "👨‍⚕️",
+    "description": "man health worker"
+  },
+  "మహిళా ఆరోగ్య కార్యకర్త": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "విద్యార్థి": { "replacement": "🧑‍🎓", "description": "student" },
+  "మనిషి విద్యార్థి": { "replacement": "👨‍🎓", "description": "man student" },
+  "మహిళా విద్యార్థి": { "replacement": "👩‍🎓", "description": "woman student" },
+  "గురువు": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "మనిషి గురువు": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "మహిళా ఉపాధ్యాయుడు": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "న్యాయమూర్తి": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "మనిషి న్యాయమూర్తి": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "మహిళా న్యాయమూర్తి": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "రైతు": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "మనిషి రైతు": { "replacement": "👨‍🌾", "description": "man farmer" },
+  "మహిళా రైతు": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "ఉడికించాలి": { "replacement": "🧑‍🍳", "description": "cook" },
+  "మనిషి కుక్": { "replacement": "👨‍🍳", "description": "man cook" },
+  "మహిళ కుక్": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "మెకానిక్": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "మనిషి మెకానిక్": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "మహిళా మెకానిక్": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "ఫ్యాక్టరీ కార్మికుడు": {
+    "replacement": "🧑‍🏭",
+    "description": "factory worker"
+  },
+  "మనిషి ఫ్యాక్టరీ కార్మికుడు": {
+    "replacement": "👨‍🏭",
+    "description": "man factory worker"
+  },
+  "మహిళా ఫ్యాక్టరీ వర్కర్": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "కార్యాలయ ఉద్యోగి": {
+    "replacement": "🧑‍💼",
+    "description": "office worker"
+  },
+  "మనిషి కార్యాలయ ఉద్యోగి": {
+    "replacement": "👨‍💼",
+    "description": "man office worker"
+  },
+  "మహిళా కార్యాలయ ఉద్యోగి": {
+    "replacement": "👩‍💼",
+    "description": "woman office worker"
+  },
+  "శాస్త్రవేత్త": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "మనిషి శాస్త్రవేత్త": { "replacement": "👨‍🔬", "description": "man scientist" },
+  "మహిళా శాస్త్రవేత్త": {
+    "replacement": "👩‍🔬",
+    "description": "woman scientist"
+  },
+  "సాంకేతిక నిపుణుడు": {
+    "replacement": "🧑‍💻",
+    "description": "technologist"
+  },
+  "మనిషి సాంకేతిక నిపుణుడు": {
+    "replacement": "👨‍💻",
+    "description": "man technologist"
+  },
+  "మహిళా సాంకేతిక నిపుణుడు": {
+    "replacement": "👩‍💻",
+    "description": "woman technologist"
+  },
+  "గాయకుడు": { "replacement": "🧑‍🎤", "description": "singer" },
+  "మనిషి గాయకుడు": { "replacement": "👨‍🎤", "description": "man singer" },
+  "మహిళా గాయని": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "కళాకారుడు": { "replacement": "🧑‍🎨", "description": "artist" },
+  "మనిషి కళాకారుడు": { "replacement": "👨‍🎨", "description": "man artist" },
+  "మహిళా కళాకారిణి": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "పైలట్": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "మ్యాన్ పైలట్": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "మహిళా పైలట్": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "వ్యోమగామి": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "మనిషి వ్యోమగామి": { "replacement": "👨‍🚀", "description": "man astronaut" },
+  "మహిళా వ్యోమగామి": { "replacement": "👩‍🚀", "description": "woman astronaut" },
+  "అగ్నిమాపక సిబ్బంది": {
+    "replacement": "🧑‍🚒",
+    "description": "firefighter"
+  },
+  "మనిషి అగ్నిమాపక సిబ్బంది": {
+    "replacement": "👨‍🚒",
+    "description": "man firefighter"
+  },
+  "మహిళా అగ్నిమాపక సిబ్బంది": {
+    "replacement": "👩‍🚒",
+    "description": "woman firefighter"
+  },
+  "పోలీసు అధికారి": { "replacement": "👮", "description": "police officer" },
+  "పోలీసు": { "replacement": "👮‍♂️", "description": "man police officer" },
+  "పోలీసు మహిళ": { "replacement": "👮‍♀️", "description": "woman police officer" },
+  "డిటెక్టివ్": { "replacement": "🕵️", "description": "detective" },
+  "మగ డిటెక్టివ్": { "replacement": "🕵️‍♂️", "description": "man detective" },
+  "మహిళా డిటెక్టివ్": { "replacement": "🕵️‍♀️", "description": "woman detective" },
+  "గార్డు": { "replacement": "💂", "description": "guard" },
+  "కాపలాదారు": { "replacement": "💂‍♂️", "description": "man guard" },
+  "గార్డ్ వుమన్": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "నింజా": { "replacement": "🥷", "description": "ninja" },
+  "నిర్మాణ కార్మికుడు": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "నిర్మాణ కార్మికుడు మహిళ": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "యువరాజు": { "replacement": "🤴", "description": "prince" },
+  "యువరాణి": { "replacement": "👸", "description": "princess" },
+  "తలపాగా ఉన్న వ్యక్తి": {
+    "replacement": "👳",
+    "description": "person wearing turban"
+  },
+  "తలపాగా ఉన్న మనిషి": {
+    "replacement": "👳‍♂️",
+    "description": "man wearing turban"
+  },
+  "తలపాగా ఉన్న మహిళ": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "గువా పై మావోతో మనిషి": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "శిరోజాలతో స్త్రీ": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "తక్సేడోలో వ్యక్తి": {
+    "replacement": "🤵",
+    "description": "person in tuxedo"
+  },
+  "తక్సేడోలో మనిషి": { "replacement": "🤵‍♂️", "description": "man in tuxedo" },
+  "తక్సేడోలో మహిళ": {
+    "replacement": "🤵‍♀️",
+    "description": "woman in tuxedo"
+  },
+  "వీల్ ఉన్న వ్యక్తి": {
+    "replacement": "👰",
+    "description": "person with veil"
+  },
+  "వీల్ తో మనిషి": { "replacement": "👰‍♂️", "description": "man with veil" },
+  "వీల్ తో స్త్రీ": {
+    "replacement": "👰‍♀️",
+    "description": "woman with veil"
+  },
+  "గర్భిణీ స్త్రీ": { "replacement": "🤰", "description": "pregnant woman" },
+  "తల్లి పాలివ్వడం": { "replacement": "🤱", "description": "breast-feeding" },
+  "స్త్రీకి బిడ్డ ఆహారం": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "మనిషి తినే మనిషి": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "శిశువుకు ఆహారం ఇచ్చే వ్యక్తి": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "దేవదూత": { "replacement": "👼", "description": "baby angel" },
+  "శాంటా": { "replacement": "🎅", "description": "Santa Claus" },
+  "mrs క్లాజ్": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "mx క్లాజ్": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "సూపర్ హీరో": { "replacement": "🦸", "description": "superhero" },
+  "సూపర్ హీరో మనిషి": { "replacement": "🦸‍♂️", "description": "man superhero" },
+  "సూపర్ హీరో మహిళ": { "replacement": "🦸‍♀️", "description": "woman superhero" },
+  "పర్యవేక్షకుడు": { "replacement": "🦹", "description": "supervillain" },
+  "పర్యవేక్షకుడు మనిషి": {
+    "replacement": "🦹‍♂️",
+    "description": "man supervillain"
+  },
+  "పర్యవేక్షక మహిళ": {
+    "replacement": "🦹‍♀️",
+    "description": "woman supervillain"
+  },
+  "mage": { "replacement": "🧙", "description": "mage" },
+  "mage మనిషి": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "mage స్త్రీ": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "అద్భుత": { "replacement": "🧚", "description": "fairy" },
+  "అద్భుత మనిషి": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "అద్భుత మహిళ": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "రక్త పిశాచి": { "replacement": "🧛", "description": "vampire" },
+  "రక్త పిశాచి మనిషి": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "పిశాచ మహిళ": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "మెర్పర్సన్": { "replacement": "🧜", "description": "merperson" },
+  "మెర్మన్": { "replacement": "🧜‍♂️", "description": "merman" },
+  "మత్స్యకన్య": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "elf": { "replacement": "🧝", "description": "elf" },
+  "elf మనిషి": { "replacement": "🧝‍♂️", "description": "man elf" },
+  "elf స్త్రీ": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "జెనీ": { "replacement": "🧞", "description": "genie" },
+  "genie man": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "జెనీ మహిళ": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "జోంబీ": { "replacement": "🧟", "description": "zombie" },
+  "జోంబీ మనిషి": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "జోంబీ మహిళ": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "మసాజ్": { "replacement": "💆", "description": "person getting massage" },
+  "మసాజ్ మనిషి": { "replacement": "💆‍♂️", "description": "man getting massage" },
+  "మసాజ్ మహిళ": { "replacement": "💆‍♀️", "description": "woman getting massage" },
+  "హ్యారీకట్": { "replacement": "💇", "description": "person getting haircut" },
+  "హ్యారీకట్ మనిషి": {
+    "replacement": "💇‍♂️",
+    "description": "man getting haircut"
+  },
+  "హ్యారీకట్ మహిళ": {
+    "replacement": "💇‍♀️",
+    "description": "woman getting haircut"
+  },
+  "నడక": { "replacement": "🚶", "description": "person walking" },
+  "వాకింగ్ మ్యాన్": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "వాకింగ్ మహిళ": { "replacement": "🚶‍♀️", "description": "woman walking" },
+  "నిలబడి ఉన్న వ్యక్తి": {
+    "replacement": "🧍",
+    "description": "person standing"
+  },
+  "నిలబడి ఉన్న మనిషి": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "నిలబడి ఉన్న స్త్రీ": {
+    "replacement": "🧍‍♀️",
+    "description": "woman standing"
+  },
+  "మోకాలి వ్యక్తి": { "replacement": "🧎", "description": "person kneeling" },
+  "మోకాలి మనిషి": { "replacement": "🧎‍♂️", "description": "man kneeling" },
+  "మోకాలి స్త్రీ": { "replacement": "🧎‍♀️", "description": "woman kneeling" },
+  "చెరకును పరిశీలించే వ్యక్తి": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "చెరకును పరిశీలించే మహిళ": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "మోటరైజ్డ్ వీల్ చైర్లో ఉన్న వ్యక్తి": {
+    "replacement": "🧑‍🦼",
+    "description": "person in motorized wheelchair"
+  },
+  "మోటరైజ్డ్ వీల్ చైర్లో మనిషి": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "మోటరైజ్డ్ వీల్ చైర్లో మహిళ": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "మాన్యువల్ వీల్ చైర్లో వ్యక్తి": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "మాన్యువల్ వీల్ చైర్లో మనిషి": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "మాన్యువల్ వీల్ చైర్లో మహిళ": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "రన్నర్": { "replacement": "🏃", "description": "person running" },
+  "పరిగెడుతున్న మనిషి": { "replacement": "🏃‍♂️", "description": "man running" },
+  "నడుస్తున్న మహిళ": { "replacement": "🏃‍♀️", "description": "woman running" },
+  "స్త్రీ డ్యాన్స్": { "replacement": "💃", "description": "woman dancing" },
+  "మనిషి డ్యాన్స్": { "replacement": "🕺", "description": "man dancing" },
+  "బిజినెస్ సూట్ లెవిటేటింగ్": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "నృత్యకారులు": {
+    "replacement": "👯",
+    "description": "people with bunny ears"
+  },
+  "డ్యాన్స్ పురుషులు": {
+    "replacement": "👯‍♂️",
+    "description": "men with bunny ears"
+  },
+  "డ్యాన్స్ మహిళలు": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "ఆవిరి వ్యక్తి": {
+    "replacement": "🧖",
+    "description": "person in steamy room"
+  },
+  "sauna మనిషి": { "replacement": "🧖‍♂️", "description": "man in steamy room" },
+  "sauna స్త్రీ": {
+    "replacement": "🧖‍♀️",
+    "description": "woman in steamy room"
+  },
+  "ఎక్కడం": { "replacement": "🧗", "description": "person climbing" },
+  "ఆరోహణ మనిషి": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "ఆరోహణ మహిళ": { "replacement": "🧗‍♀️", "description": "woman climbing" },
+  "వ్యక్తి ఫెన్సింగ్": { "replacement": "🤺", "description": "person fencing" },
+  "గుర్రపు పందెం": { "replacement": "🏇", "description": "horse racing" },
+  "స్కైయర్": { "replacement": "⛷️", "description": "skier" },
+  "స్నోబోర్డర్": { "replacement": "🏂", "description": "snowboarder" },
+  "గోల్ఫింగ్": { "replacement": "🏌️", "description": "person golfing" },
+  "గోల్ఫింగ్ మనిషి": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "గోల్ఫింగ్ మహిళ": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "సర్ఫర్": { "replacement": "🏄", "description": "person surfing" },
+  "సర్ఫింగ్ మనిషి": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "సర్ఫింగ్ మహిళ": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "రోయింగ్ మనిషి": { "replacement": "🚣‍♂️", "description": "man rowing boat" },
+  "రోయింగ్ మహిళ": { "replacement": "🚣‍♀️", "description": "woman rowing boat" },
+  "ఈతగాడు": { "replacement": "🏊", "description": "person swimming" },
+  "ఈత మనిషి": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "ఈత మహిళ": { "replacement": "🏊‍♀️", "description": "woman swimming" },
+  "బౌన్స్ బంతి వ్యక్తి": {
+    "replacement": "⛹️",
+    "description": "person bouncing ball"
+  },
+  "బౌన్స్ బాల్ మ్యాన్": {
+    "replacement": "⛹️‍♂️",
+    "description": "man bouncing ball"
+  },
+  "బౌన్స్ బంతి మహిళ": {
+    "replacement": "⛹️‍♀️",
+    "description": "woman bouncing ball"
+  },
+  "బరువులెత్తడం": {
+    "replacement": "🏋️",
+    "description": "person lifting weights"
+  },
+  "వెయిట్ లిఫ్టింగ్ మనిషి": {
+    "replacement": "🏋️‍♂️",
+    "description": "man lifting weights"
+  },
+  "వెయిట్ లిఫ్టింగ్ మహిళ": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "ద్విచక్రవాహన": { "replacement": "🚴", "description": "person biking" },
+  "బైకింగ్ మనిషి": { "replacement": "🚴‍♂️", "description": "man biking" },
+  "బైకింగ్ మహిళ": { "replacement": "🚴‍♀️", "description": "woman biking" },
+  "పర్వత ద్విచక్రవాహన": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "మౌంటెన్ బైకింగ్ మనిషి": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "పర్వత బైకింగ్ మహిళ": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "కార్ట్వీలింగ్": {
+    "replacement": "🤸",
+    "description": "person cartwheeling"
+  },
+  "మనిషి కార్ట్వీలింగ్": {
+    "replacement": "🤸‍♂️",
+    "description": "man cartwheeling"
+  },
+  "మహిళ కార్ట్వీలింగ్": {
+    "replacement": "🤸‍♀️",
+    "description": "woman cartwheeling"
+  },
+  "కుస్తీ": { "replacement": "🤼", "description": "people wrestling" },
+  "పురుషులు కుస్తీ": { "replacement": "🤼‍♂️", "description": "men wrestling" },
+  "మహిళలు కుస్తీ": { "replacement": "🤼‍♀️", "description": "women wrestling" },
+  "నీటి పోలో": {
+    "replacement": "🤽",
+    "description": "person playing water polo"
+  },
+  "మనిషి వాటర్ పోలో ఆడుతున్నాడు": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "వాటర్ పోలో ఆడుతున్న మహిళ": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "హ్యాండ్ బాల్ వ్యక్తి": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "మనిషి హ్యాండ్‌బాల్ ఆడుతున్నాడు": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "హ్యాండ్‌బాల్ ఆడుతున్న మహిళ": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "గారడీ వ్యక్తి": { "replacement": "🤹", "description": "person juggling" },
+  "మనిషి గారడి విద్య": { "replacement": "🤹‍♂️", "description": "man juggling" },
+  "మహిళ గారడీ": { "replacement": "🤹‍♀️", "description": "woman juggling" },
+  "తామర స్థానం": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "లోటస్ స్థానం మనిషి": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "లోటస్ స్థానం స్త్రీ": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "స్నానం": { "replacement": "🛀", "description": "person taking bath" },
+  "స్లీపింగ్ బెడ్": { "replacement": "🛌", "description": "person in bed" },
+  "చేతులు పట్టుకున్న ప్రజలు": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "ఇద్దరు మహిళలు చేతులు పట్టుకున్నారు": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "జంట": { "replacement": "👫", "description": "woman and man holding hands" },
+  "చేతులు పట్టుకున్న ఇద్దరు పురుషులు": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "కపుల్కిస్": { "replacement": "💏", "description": "kiss" },
+  "కపుల్కిస్ మనిషి స్త్రీ": {
+    "replacement": "👩‍❤️‍💋‍👨",
+    "description": "kiss: woman, man"
+  },
+  "కపుల్కిస్ మనిషి మనిషి": {
+    "replacement": "👨‍❤️‍💋‍👨",
+    "description": "kiss: man, man"
+  },
+  "కపుల్కిస్ మహిళ మహిళ": {
+    "replacement": "👩‍❤️‍💋‍👩",
+    "description": "kiss: woman, woman"
+  },
+  "హృదయంతో ఉన్న జంట": {
+    "replacement": "💑",
+    "description": "couple with heart"
+  },
+  "హృదయ స్త్రీ పురుషుడితో జంట": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "హార్ట్ మ్యాన్ మ్యాన్ తో జంట": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "హృదయ స్త్రీ స్త్రీతో జంట": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "కుటుంబం": { "replacement": "👪", "description": "family" },
+  "కుటుంబం మనిషి స్త్రీ అబ్బాయి": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "కుటుంబం మనిషి స్త్రీ అమ్మాయి": {
+    "replacement": "👨‍👩‍👧",
+    "description": "family: man, woman, girl"
+  },
+  "కుటుంబం మనిషి స్త్రీ అమ్మాయి అబ్బాయి": {
+    "replacement": "👨‍👩‍👧‍👦",
+    "description": "family: man, woman, girl, boy"
+  },
+  "family man woman boy boy": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "family man woman girl girl": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "ఫ్యామిలీ మ్యాన్ మ్యాన్ బాయ్": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "ఫ్యామిలీ మ్యాన్ మ్యాన్ గర్ల్": {
+    "replacement": "👨‍👨‍👧",
+    "description": "family: man, man, girl"
+  },
+  "ఫ్యామిలీ మ్యాన్ మ్యాన్ గర్ల్ బాయ్": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "ఫ్యామిలీ మ్యాన్ మ్యాన్ బాయ్ బాయ్": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "ఫ్యామిలీ మ్యాన్ మ్యాన్ గర్ల్ గర్ల్": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "కుటుంబ మహిళ స్త్రీ అబ్బాయి": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "కుటుంబ మహిళ స్త్రీ అమ్మాయి": {
+    "replacement": "👩‍👩‍👧",
+    "description": "family: woman, woman, girl"
+  },
+  "కుటుంబ మహిళ స్త్రీ అమ్మాయి అబ్బాయి": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "కుటుంబ మహిళ స్త్రీ అమ్మాయి అమ్మాయి": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "ఫ్యామిలీ మ్యాన్ బాయ్": {
+    "replacement": "👨‍👦",
+    "description": "family: man, boy"
+  },
+  "ఫ్యామిలీ మ్యాన్ బాయ్ బాయ్": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "కుటుంబం మనిషి అమ్మాయి": {
+    "replacement": "👨‍👧",
+    "description": "family: man, girl"
+  },
+  "ఫ్యామిలీ మ్యాన్ గర్ల్ బాయ్": {
+    "replacement": "👨‍👧‍👦",
+    "description": "family: man, girl, boy"
+  },
+  "కుటుంబం మనిషి అమ్మాయి అమ్మాయి": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "కుటుంబ మహిళ అబ్బాయి": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "కుటుంబ మహిళ అమ్మాయి": {
+    "replacement": "👩‍👧",
+    "description": "family: woman, girl"
+  },
+  "కుటుంబ మహిళ అమ్మాయి అబ్బాయి": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "కుటుంబ మహిళ అమ్మాయి అమ్మాయి": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "మాట్లాడే తల": { "replacement": "🗣️", "description": "speaking head" },
+  "సిల్హౌట్లో పతనం": {
+    "replacement": "👤",
+    "description": "bust in silhouette"
+  },
+  "సిల్హౌట్లో బస్ట్స్": {
+    "replacement": "👥",
+    "description": "busts in silhouette"
+  },
+  "ప్రజలు కౌగిలించుకుంటున్నారు": {
+    "replacement": "🫂",
+    "description": "people hugging"
+  },
+  "పాదముద్రలు": { "replacement": "👣", "description": "footprints" },
+  "కోతి ముఖం": { "replacement": "🐵", "description": "monkey face" },
+  "కోతి": { "replacement": "🐒", "description": "monkey" },
+  "గొరిల్లా": { "replacement": "🦍", "description": "gorilla" },
+  "ఒరంగుటాన్": { "replacement": "🦧", "description": "orangutan" },
+  "కుక్క": { "replacement": "🐶", "description": "dog face" },
+  "డాగ్ 2": { "replacement": "🐕", "description": "dog" },
+  "గైడ్ డాగ్": { "replacement": "🦮", "description": "guide dog" },
+  "సేవ కుక్క": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "పూడ్లే": { "replacement": "🐩", "description": "poodle" },
+  "తోడేలు": { "replacement": "🐺", "description": "wolf" },
+  "నక్క ముఖం": { "replacement": "🦊", "description": "fox" },
+  "రక్కూన్": { "replacement": "🦝", "description": "raccoon" },
+  "పిల్లి": { "replacement": "🐱", "description": "cat face" },
+  "cat2": { "replacement": "🐈", "description": "cat" },
+  "నల్ల పిల్లి": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "సింహం": { "replacement": "🦁", "description": "lion" },
+  "పులి": { "replacement": "🐯", "description": "tiger face" },
+  "పులి 2": { "replacement": "🐅", "description": "tiger" },
+  "చిరుతపులి": { "replacement": "🐆", "description": "leopard" },
+  "గుర్రం": { "replacement": "🐴", "description": "horse face" },
+  "రేసు గుర్రం": { "replacement": "🐎", "description": "horse" },
+  "యునికార్న్": { "replacement": "🦄", "description": "unicorn" },
+  "జీబ్రా": { "replacement": "🦓", "description": "zebra" },
+  "జింక": { "replacement": "🦌", "description": "deer" },
+  "బైసన్": { "replacement": "🦬", "description": "bison" },
+  "ఆవు": { "replacement": "🐮", "description": "cow face" },
+  "ఎద్దు": { "replacement": "🐂", "description": "ox" },
+  "నీటి గేదె": { "replacement": "🐃", "description": "water buffalo" },
+  "ఆవు 2": { "replacement": "🐄", "description": "cow" },
+  "పంది": { "replacement": "🐗", "description": "boar" },
+  "pig2": { "replacement": "🐖", "description": "pig" },
+  "పంది ముక్కు": { "replacement": "🐽", "description": "pig nose" },
+  "రామ్": { "replacement": "🐏", "description": "ram" },
+  "గొర్రె": { "replacement": "🐑", "description": "ewe" },
+  "మేక": { "replacement": "🐐", "description": "goat" },
+  "డ్రోమెడరీ ఒంటె": { "replacement": "🐪", "description": "camel" },
+  "ఒంటె": { "replacement": "🐫", "description": "two-hump camel" },
+  "లామా": { "replacement": "🦙", "description": "llama" },
+  "జిరాఫీ": { "replacement": "🦒", "description": "giraffe" },
+  "ఏనుగు": { "replacement": "🐘", "description": "elephant" },
+  "మముత్": { "replacement": "🦣", "description": "mammoth" },
+  "ఖడ్గమృగం": { "replacement": "🦏", "description": "rhinoceros" },
+  "హిప్పోపొటామస్": { "replacement": "🦛", "description": "hippopotamus" },
+  "మౌస్": { "replacement": "🐭", "description": "mouse face" },
+  "మౌస్ 2": { "replacement": "🐁", "description": "mouse" },
+  "ఎలుక": { "replacement": "🐀", "description": "rat" },
+  "చిట్టెలుక": { "replacement": "🐹", "description": "hamster" },
+  "కుందేలు": { "replacement": "🐰", "description": "rabbit face" },
+  "కుందేలు 2": { "replacement": "🐇", "description": "rabbit" },
+  "చిప్‌మంక్": { "replacement": "🐿️", "description": "chipmunk" },
+  "బీవర్": { "replacement": "🦫", "description": "beaver" },
+  "ముళ్ల ఉడుత": { "replacement": "🦔", "description": "hedgehog" },
+  "బ్యాట్": { "replacement": "🦇", "description": "bat" },
+  "ఎలుగుబంటి": { "replacement": "🐻", "description": "bear" },
+  "ధ్రువ ఎలుగుబంటి": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "కోలా": { "replacement": "🐨", "description": "koala" },
+  "పాండా ముఖం": { "replacement": "🐼", "description": "panda" },
+  "బద్ధకం": { "replacement": "🦥", "description": "sloth" },
+  "ఓటర్": { "replacement": "🦦", "description": "otter" },
+  "ఉడుము": { "replacement": "🦨", "description": "skunk" },
+  "కంగారు": { "replacement": "🦘", "description": "kangaroo" },
+  "బాడ్జర్": { "replacement": "🦡", "description": "badger" },
+  "అడుగులు": { "replacement": "🐾", "description": "paw prints" },
+  "టర్కీ": { "replacement": "🦃", "description": "turkey" },
+  "చికెన్": { "replacement": "🐔", "description": "chicken" },
+  "రూస్టర్": { "replacement": "🐓", "description": "rooster" },
+  "హాట్చింగ్ చిక్": { "replacement": "🐣", "description": "hatching chick" },
+  "బేబీ చిక్": { "replacement": "🐤", "description": "baby chick" },
+  "పొదిగిన చిక్": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "పక్షి": { "replacement": "🐦", "description": "bird" },
+  "పెంగ్విన్": { "replacement": "🐧", "description": "penguin" },
+  "పావురం": { "replacement": "🕊️", "description": "dove" },
+  "డేగ": { "replacement": "🦅", "description": "eagle" },
+  "బాతు": { "replacement": "🦆", "description": "duck" },
+  "హంస": { "replacement": "🦢", "description": "swan" },
+  "గుడ్లగూబ": { "replacement": "🦉", "description": "owl" },
+  "డోడో": { "replacement": "🦤", "description": "dodo" },
+  "ఈక": { "replacement": "🪶", "description": "feather" },
+  "ఫ్లెమింగో": { "replacement": "🦩", "description": "flamingo" },
+  "నెమలి": { "replacement": "🦚", "description": "peacock" },
+  "చిలుక": { "replacement": "🦜", "description": "parrot" },
+  "కప్ప": { "replacement": "🐸", "description": "frog" },
+  "మొసలి": { "replacement": "🐊", "description": "crocodile" },
+  "తాబేలు": { "replacement": "🐢", "description": "turtle" },
+  "బల్లి": { "replacement": "🦎", "description": "lizard" },
+  "పాము": { "replacement": "🐍", "description": "snake" },
+  "డ్రాగన్ ముఖం": { "replacement": "🐲", "description": "dragon face" },
+  "డ్రాగన్": { "replacement": "🐉", "description": "dragon" },
+  "సౌరోపాడ్": { "replacement": "🦕", "description": "sauropod" },
+  "టి-రెక్స్": { "replacement": "🦖", "description": "T-Rex" },
+  "తిమింగలం": { "replacement": "🐳", "description": "spouting whale" },
+  "తిమింగలం 2": { "replacement": "🐋", "description": "whale" },
+  "డాల్ఫిన్": { "replacement": "🐬", "description": "dolphin" },
+  "ముద్ర": { "replacement": "🦭", "description": "seal" },
+  "చేప": { "replacement": "🐟", "description": "fish" },
+  "ఉష్ణమండల చేప": { "replacement": "🐠", "description": "tropical fish" },
+  "బ్లో ఫిష్": { "replacement": "🐡", "description": "blowfish" },
+  "సొరచేప": { "replacement": "🦈", "description": "shark" },
+  "ఆక్టోపస్": { "replacement": "🐙", "description": "octopus" },
+  "షెల్": { "replacement": "🐚", "description": "spiral shell" },
+  "నత్త": { "replacement": "🐌", "description": "snail" },
+  "సీతాకోకచిలుక": { "replacement": "🦋", "description": "butterfly" },
+  "బగ్": { "replacement": "🐛", "description": "bug" },
+  "చీమ": { "replacement": "🐜", "description": "ant" },
+  "తేనెటీగ": { "replacement": "🐝", "description": "honeybee" },
+  "బీటిల్": { "replacement": "🪲", "description": "beetle" },
+  "లేడీ బీటిల్": { "replacement": "🐞", "description": "lady beetle" },
+  "క్రికెట్": { "replacement": "🦗", "description": "cricket" },
+  "బొద్దింక": { "replacement": "🪳", "description": "cockroach" },
+  "సాలీడు": { "replacement": "🕷️", "description": "spider" },
+  "సాలెగూడు": { "replacement": "🕸️", "description": "spider web" },
+  "తేలు": { "replacement": "🦂", "description": "scorpion" },
+  "దోమ": { "replacement": "🦟", "description": "mosquito" },
+  "ఎగురు": { "replacement": "🪰", "description": "fly" },
+  "పురుగు": { "replacement": "🪱", "description": "worm" },
+  "సూక్ష్మజీవి": { "replacement": "🦠", "description": "microbe" },
+  "గుత్తి": { "replacement": "💐", "description": "bouquet" },
+  "చెర్రీ మొగ్గ": { "replacement": "🌸", "description": "cherry blossom" },
+  "తెలుపు పువ్వు": { "replacement": "💮", "description": "white flower" },
+  "రోసెట్టే": { "replacement": "🏵️", "description": "rosette" },
+  "గులాబీ": { "replacement": "🌹", "description": "rose" },
+  "విల్టెడ్ ఫ్లవర్": { "replacement": "🥀", "description": "wilted flower" },
+  "మందార": { "replacement": "🌺", "description": "hibiscus" },
+  "పొద్దుతిరుగుడు": { "replacement": "🌻", "description": "sunflower" },
+  "వికసిస్తుంది": { "replacement": "🌼", "description": "blossom" },
+  "తులిప్": { "replacement": "🌷", "description": "tulip" },
+  "విత్తనాల": { "replacement": "🌱", "description": "seedling" },
+  "జేబులో పెట్టిన మొక్క": { "replacement": "🪴", "description": "potted plant" },
+  "సతత హరిత చెట్టు": { "replacement": "🌲", "description": "evergreen tree" },
+  "ఆకురాల్చే చెట్టు": { "replacement": "🌳", "description": "deciduous tree" },
+  "తాటి చెట్టు": { "replacement": "🌴", "description": "palm tree" },
+  "కాక్టస్": { "replacement": "🌵", "description": "cactus" },
+  "బియ్యం చెవి": { "replacement": "🌾", "description": "sheaf of rice" },
+  "హెర్బ్": { "replacement": "🌿", "description": "herb" },
+  "షామ్‌రాక్": { "replacement": "☘️", "description": "shamrock" },
+  "నాలుగు ముఖాల మెంతి ఆకు": {
+    "replacement": "🍀",
+    "description": "four leaf clover"
+  },
+  "మాపుల్ ఆకు": { "replacement": "🍁", "description": "maple leaf" },
+  "పడిపోయిన ఆకు": { "replacement": "🍂", "description": "fallen leaf" },
+  "ఆకులు": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "ద్రాక్ష": { "replacement": "🍇", "description": "grapes" },
+  "పుచ్చకాయ": { "replacement": "🍉", "description": "watermelon" },
+  "టాన్జేరిన్": { "replacement": "🍊", "description": "tangerine" },
+  "నిమ్మకాయ": { "replacement": "🍋", "description": "lemon" },
+  "అరటి": { "replacement": "🍌", "description": "banana" },
+  "అనాస పండు": { "replacement": "🍍", "description": "pineapple" },
+  "మామిడి": { "replacement": "🥭", "description": "mango" },
+  "ఆపిల్": { "replacement": "🍎", "description": "red apple" },
+  "ఆకుపచ్చ ఆపిల్": { "replacement": "🍏", "description": "green apple" },
+  "పియర్": { "replacement": "🍐", "description": "pear" },
+  "పీచు": { "replacement": "🍑", "description": "peach" },
+  "చెర్రీస్": { "replacement": "🍒", "description": "cherries" },
+  "స్ట్రాబెర్రీ": { "replacement": "🍓", "description": "strawberry" },
+  "బ్లూబెర్రీస్": { "replacement": "🫐", "description": "blueberries" },
+  "కీవీ పండు": { "replacement": "🥝", "description": "kiwi fruit" },
+  "టమోటా": { "replacement": "🍅", "description": "tomato" },
+  "ఆలివ్": { "replacement": "🫒", "description": "olive" },
+  "కొబ్బరి": { "replacement": "🥥", "description": "coconut" },
+  "అవోకాడో": { "replacement": "🥑", "description": "avocado" },
+  "వంగ మొక్క": { "replacement": "🍆", "description": "eggplant" },
+  "బంగాళాదుంప": { "replacement": "🥔", "description": "potato" },
+  "కారెట్": { "replacement": "🥕", "description": "carrot" },
+  "మొక్కజొన్న": { "replacement": "🌽", "description": "ear of corn" },
+  "ఘాటైన మిరియాలు": { "replacement": "🌶️", "description": "hot pepper" },
+  "బెల్ మిరియాలు": { "replacement": "🫑", "description": "bell pepper" },
+  "దోసకాయ": { "replacement": "🥒", "description": "cucumber" },
+  "ఆకు ఆకుపచ్చ": { "replacement": "🥬", "description": "leafy green" },
+  "బ్రోకలీ": { "replacement": "🥦", "description": "broccoli" },
+  "వెల్లుల్లి": { "replacement": "🧄", "description": "garlic" },
+  "ఉల్లిపాయ": { "replacement": "🧅", "description": "onion" },
+  "పుట్టగొడుగు": { "replacement": "🍄", "description": "mushroom" },
+  "వేరుశెనగ": { "replacement": "🥜", "description": "peanuts" },
+  "చెస్ట్నట్": { "replacement": "🌰", "description": "chestnut" },
+  "రొట్టె": { "replacement": "🍞", "description": "bread" },
+  "క్రోసెంట్": { "replacement": "🥐", "description": "croissant" },
+  "బాగెట్ బ్రెడ్": { "replacement": "🥖", "description": "baguette bread" },
+  "ఫ్లాట్ బ్రెడ్": { "replacement": "🫓", "description": "flatbread" },
+  "జంతిక": { "replacement": "🥨", "description": "pretzel" },
+  "బాగెల్": { "replacement": "🥯", "description": "bagel" },
+  "పాన్కేక్లు": { "replacement": "🥞", "description": "pancakes" },
+  "aff క దంపుడు": { "replacement": "🧇", "description": "waffle" },
+  "జున్ను": { "replacement": "🧀", "description": "cheese wedge" },
+  "ఎముకపై మాంసం": { "replacement": "🍖", "description": "meat on bone" },
+  "పౌల్ట్రీ లెగ్": { "replacement": "🍗", "description": "poultry leg" },
+  "మాంసం కట్": { "replacement": "🥩", "description": "cut of meat" },
+  "బేకన్": { "replacement": "🥓", "description": "bacon" },
+  "హాంబర్గర్": { "replacement": "🍔", "description": "hamburger" },
+  "ఫ్రైస్": { "replacement": "🍟", "description": "french fries" },
+  "పిజ్జా": { "replacement": "🍕", "description": "pizza" },
+  "హాట్‌డాగ్": { "replacement": "🌭", "description": "hot dog" },
+  "శాండ్విచ్": { "replacement": "🥪", "description": "sandwich" },
+  "టాకో": { "replacement": "🌮", "description": "taco" },
+  "బురిటో": { "replacement": "🌯", "description": "burrito" },
+  "తమలే": { "replacement": "🫔", "description": "tamale" },
+  "ఫ్లాట్ బ్రెడ్ నింపబడి ఉంటుంది": {
+    "replacement": "🥙",
+    "description": "stuffed flatbread"
+  },
+  "ఫలాఫెల్": { "replacement": "🧆", "description": "falafel" },
+  "గుడ్డు": { "replacement": "🥚", "description": "egg" },
+  "వేయించిన గుడ్డు": { "replacement": "🍳", "description": "cooking" },
+  "ఆహారం యొక్క నిస్సార పాన్": {
+    "replacement": "🥘",
+    "description": "shallow pan of food"
+  },
+  "వంటకం": { "replacement": "🍲", "description": "pot of food" },
+  "ఫండ్యు": { "replacement": "🫕", "description": "fondue" },
+  "చెంచాతో గిన్నె": { "replacement": "🥣", "description": "bowl with spoon" },
+  "గ్రీన్ సలాడ్": { "replacement": "🥗", "description": "green salad" },
+  "పాప్‌కార్న్": { "replacement": "🍿", "description": "popcorn" },
+  "వెన్న": { "replacement": "🧈", "description": "butter" },
+  "ఉ ప్పు": { "replacement": "🧂", "description": "salt" },
+  "తయారుగ ఉన్న ఆహారం": { "replacement": "🥫", "description": "canned food" },
+  "బెంటో": { "replacement": "🍱", "description": "bento box" },
+  "బియ్యం క్రాకర్": { "replacement": "🍘", "description": "rice cracker" },
+  "అన్నం ముద్ద": { "replacement": "🍙", "description": "rice ball" },
+  "బియ్యం": { "replacement": "🍚", "description": "cooked rice" },
+  "కూర": { "replacement": "🍛", "description": "curry rice" },
+  "రామెన్": { "replacement": "🍜", "description": "steaming bowl" },
+  "స్పఘెట్టి": { "replacement": "🍝", "description": "spaghetti" },
+  "చిలగడదుంప": { "replacement": "🍠", "description": "roasted sweet potato" },
+  "ఓడెన్": { "replacement": "🍢", "description": "oden" },
+  "సుశి": { "replacement": "🍣", "description": "sushi" },
+  "వేయించిన రొయ్యలు": { "replacement": "🍤", "description": "fried shrimp" },
+  "చేప కేక్": { "replacement": "🍥", "description": "fish cake with swirl" },
+  "చందమామ కేక్": { "replacement": "🥮", "description": "moon cake" },
+  "డాంగో": { "replacement": "🍡", "description": "dango" },
+  "డంప్లింగ్": { "replacement": "🥟", "description": "dumpling" },
+  "అదృష్టం కుకీ": { "replacement": "🥠", "description": "fortune cookie" },
+  "టేక్అవుట్ బాక్స్": { "replacement": "🥡", "description": "takeout box" },
+  "పీత": { "replacement": "🦀", "description": "crab" },
+  "ఎండ్రకాయలు": { "replacement": "🦞", "description": "lobster" },
+  "రొయ్యలు": { "replacement": "🦐", "description": "shrimp" },
+  "స్క్విడ్": { "replacement": "🦑", "description": "squid" },
+  "ఓస్టెర్": { "replacement": "🦪", "description": "oyster" },
+  "ఐస్ క్రీం": { "replacement": "🍨", "description": "ice cream" },
+  "గుండు మంచు": { "replacement": "🍧", "description": "shaved ice" },
+  "డోనట్": { "replacement": "🍩", "description": "doughnut" },
+  "కుకీ": { "replacement": "🍪", "description": "cookie" },
+  "పుట్టినరోజు": { "replacement": "🎂", "description": "birthday cake" },
+  "కేక్": { "replacement": "🍰", "description": "shortcake" },
+  "కప్ కేక్": { "replacement": "🧁", "description": "cupcake" },
+  "పై": { "replacement": "🥧", "description": "pie" },
+  "చాక్లెట్ బార్": { "replacement": "🍫", "description": "chocolate bar" },
+  "మిఠాయి": { "replacement": "🍬", "description": "candy" },
+  "లాలిపాప్": { "replacement": "🍭", "description": "lollipop" },
+  "కస్టర్డ్": { "replacement": "🍮", "description": "custard" },
+  "తేనె కుండ": { "replacement": "🍯", "description": "honey pot" },
+  "బేబీ బాటిల్": { "replacement": "🍼", "description": "baby bottle" },
+  "పాలు గాజు": { "replacement": "🥛", "description": "glass of milk" },
+  "కాఫీ": { "replacement": "☕", "description": "hot beverage" },
+  "టీపాట్": { "replacement": "🫖", "description": "teapot" },
+  "టీ": { "replacement": "🍵", "description": "teacup without handle" },
+  "కొరకు": { "replacement": "🍶", "description": "sake" },
+  "షాంపైన్": { "replacement": "🍾", "description": "bottle with popping cork" },
+  "మందు గ్లాసు": { "replacement": "🍷", "description": "wine glass" },
+  "కాక్టెయిల్": { "replacement": "🍸", "description": "cocktail glass" },
+  "ఉష్ణమండల పానీయం": { "replacement": "🍹", "description": "tropical drink" },
+  "బీర్": { "replacement": "🍺", "description": "beer mug" },
+  "బీర్లు": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "క్లింకింగ్ గ్లాసెస్": {
+    "replacement": "🥂",
+    "description": "clinking glasses"
+  },
+  "టంబ్లర్ గాజు": { "replacement": "🥃", "description": "tumbler glass" },
+  "గడ్డితో కప్పు": { "replacement": "🥤", "description": "cup with straw" },
+  "బబుల్ టీ": { "replacement": "🧋", "description": "bubble tea" },
+  "పానీయం పెట్టె": { "replacement": "🧃", "description": "beverage box" },
+  "సహచరుడు": { "replacement": "🧉", "description": "mate" },
+  "మంచు గడ్డ": { "replacement": "🧊", "description": "ice" },
+  "చాప్ స్టిక్లు": { "replacement": "🥢", "description": "chopsticks" },
+  "కత్తిపీటతో ప్లేట్": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "ఫోర్క్ మరియు కత్తి": {
+    "replacement": "🍴",
+    "description": "fork and knife"
+  },
+  "చెంచా": { "replacement": "🥄", "description": "spoon" },
+  "హోచో": { "replacement": "🔪", "description": "kitchen knife" },
+  "ఆంఫోరా": { "replacement": "🏺", "description": "amphora" },
+  "భూమి ఆఫ్రికా": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "ఎర్త్ అమెరికాస్": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "భూమి ఆసియా": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "మెరిడియన్లతో గ్లోబ్": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "ప్రపంచ పటం": { "replacement": "🗺️", "description": "world map" },
+  "జపాన్": { "replacement": "🗾", "description": "map of Japan" },
+  "దిక్సూచి": { "replacement": "🧭", "description": "compass" },
+  "పర్వత మంచు": { "replacement": "🏔️", "description": "snow-capped mountain" },
+  "పర్వతం": { "replacement": "⛰️", "description": "mountain" },
+  "అగ్నిపర్వతం": { "replacement": "🌋", "description": "volcano" },
+  "ఫ్యూజీ పర్వతం": { "replacement": "🗻", "description": "mount fuji" },
+  "శిబిరాలకు": { "replacement": "🏕️", "description": "camping" },
+  "బీచ్ గొడుగు": { "replacement": "🏖️", "description": "beach with umbrella" },
+  "ఎడారి": { "replacement": "🏜️", "description": "desert" },
+  "ఎడారి ద్వీపం": { "replacement": "🏝️", "description": "desert island" },
+  "జాతీయ ఉద్యానవనం": { "replacement": "🏞️", "description": "national park" },
+  "స్టేడియం": { "replacement": "🏟️", "description": "stadium" },
+  "శాస్త్రీయ భవనం": {
+    "replacement": "🏛️",
+    "description": "classical building"
+  },
+  "భవనం నిర్మాణం": {
+    "replacement": "🏗️",
+    "description": "building construction"
+  },
+  "ఇటుకలు": { "replacement": "🧱", "description": "brick" },
+  "రాక్": { "replacement": "🪨", "description": "rock" },
+  "చెక్క": { "replacement": "🪵", "description": "wood" },
+  "గుడిసె": { "replacement": "🛖", "description": "hut" },
+  "ఇళ్ళు": { "replacement": "🏘️", "description": "houses" },
+  "విడిచిపెట్టిన ఇల్లు": {
+    "replacement": "🏚️",
+    "description": "derelict house"
+  },
+  "ఇల్లు": { "replacement": "🏠", "description": "house" },
+  "తోట తో ఇల్లు": { "replacement": "🏡", "description": "house with garden" },
+  "కార్యాలయం": { "replacement": "🏢", "description": "office building" },
+  "తపాలా కార్యాలయము": {
+    "replacement": "🏣",
+    "description": "Japanese post office"
+  },
+  "యూరోపియన్ పోస్ట్ ఆఫీస్": {
+    "replacement": "🏤",
+    "description": "post office"
+  },
+  "ఆసుపత్రి": { "replacement": "🏥", "description": "hospital" },
+  "బ్యాంక్": { "replacement": "🏦", "description": "bank" },
+  "హోటల్": { "replacement": "🏨", "description": "hotel" },
+  "ప్రేమ హోటల్": { "replacement": "🏩", "description": "love hotel" },
+  "సౌలభ్యం స్టోర్": { "replacement": "🏪", "description": "convenience store" },
+  "పాఠశాల": { "replacement": "🏫", "description": "school" },
+  "డిపార్ట్మెంట్ స్టోర్": {
+    "replacement": "🏬",
+    "description": "department store"
+  },
+  "ఫ్యాక్టరీ": { "replacement": "🏭", "description": "factory" },
+  "జపనీస్ కోట": { "replacement": "🏯", "description": "Japanese castle" },
+  "యూరోపియన్ కోట": { "replacement": "🏰", "description": "castle" },
+  "పెండ్లి": { "replacement": "💒", "description": "wedding" },
+  "టోక్యో టవర్": { "replacement": "🗼", "description": "Tokyo tower" },
+  "స్టాట్యూ ఆఫ్ లిబర్టీ": {
+    "replacement": "🗽",
+    "description": "Statue of Liberty"
+  },
+  "చర్చి": { "replacement": "⛪", "description": "church" },
+  "మసీదు": { "replacement": "🕌", "description": "mosque" },
+  "హిందు ఆలయం": { "replacement": "🛕", "description": "hindu temple" },
+  "ప్రార్థనా మందిరం": { "replacement": "🕍", "description": "synagogue" },
+  "షింటో మందిరం": { "replacement": "⛩️", "description": "shinto shrine" },
+  "kaaba": { "replacement": "🕋", "description": "kaaba" },
+  "ఫౌంటెన్": { "replacement": "⛲", "description": "fountain" },
+  "డేరా": { "replacement": "⛺", "description": "tent" },
+  "పొగమంచు": { "replacement": "🌫️", "description": "fog" },
+  "నక్షత్రాలతో రాత్రి": {
+    "replacement": "🌃",
+    "description": "night with stars"
+  },
+  "నగర దృశ్యం": { "replacement": "🏙️", "description": "cityscape" },
+  "పర్వతాలపై సూర్యోదయం": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "సూర్యోదయం": { "replacement": "🌅", "description": "sunrise" },
+  "నగరం సూర్యాస్తమయం": {
+    "replacement": "🌆",
+    "description": "cityscape at dusk"
+  },
+  "నగరం సూర్యోదయం": { "replacement": "🌇", "description": "sunset" },
+  "రాత్రి వంతెన": { "replacement": "🌉", "description": "bridge at night" },
+  "హాట్‌స్ప్రింగ్స్": { "replacement": "♨️", "description": "hot springs" },
+  "రంగులరాట్నం గుర్రం": {
+    "replacement": "🎠",
+    "description": "carousel horse"
+  },
+  "ఫెర్రిస్ వీల్": { "replacement": "🎡", "description": "ferris wheel" },
+  "రోలర్ కోస్టర్": { "replacement": "🎢", "description": "roller coaster" },
+  "మంగలి": { "replacement": "💈", "description": "barber pole" },
+  "సర్కస్ డేరా": { "replacement": "🎪", "description": "circus tent" },
+  "ఆవిరి లోకోమోటివ్": { "replacement": "🚂", "description": "locomotive" },
+  "రైల్వే కారు": { "replacement": "🚃", "description": "railway car" },
+  "బుల్లెట్ట్రైన్ వైపు": {
+    "replacement": "🚄",
+    "description": "high-speed train"
+  },
+  "బుల్లెట్ట్రైన్ ముందు": {
+    "replacement": "🚅",
+    "description": "bullet train"
+  },
+  "రైలు 2": { "replacement": "🚆", "description": "train" },
+  "మెట్రో": { "replacement": "🚇", "description": "metro" },
+  "తేలికపాటి రైలు": { "replacement": "🚈", "description": "light rail" },
+  "స్టేషన్": { "replacement": "🚉", "description": "station" },
+  "ట్రామ్": { "replacement": "🚊", "description": "tram" },
+  "మోనోరైల్": { "replacement": "🚝", "description": "monorail" },
+  "పర్వత రైల్వే": { "replacement": "🚞", "description": "mountain railway" },
+  "రైలు": { "replacement": "🚋", "description": "tram car" },
+  "బస్సు": { "replacement": "🚌", "description": "bus" },
+  "రాబోయే బస్సు": { "replacement": "🚍", "description": "oncoming bus" },
+  "ట్రాలీబస్": { "replacement": "🚎", "description": "trolleybus" },
+  "మినీబస్సు": { "replacement": "🚐", "description": "minibus" },
+  "అంబులెన్స్": { "replacement": "🚑", "description": "ambulance" },
+  "అగ్నిమాపక యంత్రం": { "replacement": "🚒", "description": "fire engine" },
+  "పోలీస్ కారు": { "replacement": "🚓", "description": "police car" },
+  "రాబోయే పోలీసు కారు": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "టాక్సీ": { "replacement": "🚕", "description": "taxi" },
+  "రాబోయే టాక్సీ": { "replacement": "🚖", "description": "oncoming taxi" },
+  "కారు": { "replacement": "🚗", "description": "automobile" },
+  "రాబోయే ఆటోమొబైల్": {
+    "replacement": "🚘",
+    "description": "oncoming automobile"
+  },
+  "నీలం కారు": { "replacement": "🚙", "description": "sport utility vehicle" },
+  "పికప్ ట్రక్": { "replacement": "🛻", "description": "pickup truck" },
+  "ట్రక్": { "replacement": "🚚", "description": "delivery truck" },
+  "ఉచ్చరించబడిన లారీ": {
+    "replacement": "🚛",
+    "description": "articulated lorry"
+  },
+  "ట్రాక్టర్": { "replacement": "🚜", "description": "tractor" },
+  "రేసింగ్ కారు": { "replacement": "🏎️", "description": "racing car" },
+  "మోటార్ సైకిల్": { "replacement": "🏍️", "description": "motorcycle" },
+  "మోటారు స్కూటర్": { "replacement": "🛵", "description": "motor scooter" },
+  "మాన్యువల్ వీల్ చైర్": {
+    "replacement": "🦽",
+    "description": "manual wheelchair"
+  },
+  "మోటరైజ్డ్ వీల్ చైర్": {
+    "replacement": "🦼",
+    "description": "motorized wheelchair"
+  },
+  "ఆటో రిక్షా": { "replacement": "🛺", "description": "auto rickshaw" },
+  "బైక్": { "replacement": "🚲", "description": "bicycle" },
+  "కిక్ స్కూటర్": { "replacement": "🛴", "description": "kick scooter" },
+  "స్కేట్బోర్డ్": { "replacement": "🛹", "description": "skateboard" },
+  "రోలర్ స్కేట్": { "replacement": "🛼", "description": "roller skate" },
+  "బస్ స్టాప్": { "replacement": "🚏", "description": "bus stop" },
+  "మోటారు మార్గం": { "replacement": "🛣️", "description": "motorway" },
+  "రైల్వే ట్రాక్": { "replacement": "🛤️", "description": "railway track" },
+  "ఆయిల్ డ్రమ్": { "replacement": "🛢️", "description": "oil drum" },
+  "ఇంధన పంపు": { "replacement": "⛽", "description": "fuel pump" },
+  "భ్రమణ కాంతి": { "replacement": "🚨", "description": "police car light" },
+  "ట్రాఫిక్ లైట్": {
+    "replacement": "🚥",
+    "description": "horizontal traffic light"
+  },
+  "నిలువు ట్రాఫిక్ లైట్": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "పూర్తిగా ఆగవలెను": { "replacement": "🛑", "description": "stop sign" },
+  "నిర్మాణం": { "replacement": "🚧", "description": "construction" },
+  "యాంకర్": { "replacement": "⚓", "description": "anchor" },
+  "పడవ": { "replacement": "⛵", "description": "sailboat" },
+  "కానో": { "replacement": "🛶", "description": "canoe" },
+  "స్పీడ్ బోట్": { "replacement": "🚤", "description": "speedboat" },
+  "ప్రయాణీకుల ఓడ": { "replacement": "🛳️", "description": "passenger ship" },
+  "ఫెర్రీ": { "replacement": "⛴️", "description": "ferry" },
+  "మోటారు పడవ": { "replacement": "🛥️", "description": "motor boat" },
+  "ఓడ": { "replacement": "🚢", "description": "ship" },
+  "విమానం": { "replacement": "✈️", "description": "airplane" },
+  "చిన్న విమానం": { "replacement": "🛩️", "description": "small airplane" },
+  "విమాన నిష్క్రమణ": {
+    "replacement": "🛫",
+    "description": "airplane departure"
+  },
+  "విమాన రాక": { "replacement": "🛬", "description": "airplane arrival" },
+  "పారాచూట్": { "replacement": "🪂", "description": "parachute" },
+  "సీటు": { "replacement": "💺", "description": "seat" },
+  "హెలికాప్టర్": { "replacement": "🚁", "description": "helicopter" },
+  "సస్పెన్షన్ రైల్వే": {
+    "replacement": "🚟",
+    "description": "suspension railway"
+  },
+  "పర్వత కేబుల్ వే": {
+    "replacement": "🚠",
+    "description": "mountain cableway"
+  },
+  "వైమానిక ట్రామ్ వే": { "replacement": "🚡", "description": "aerial tramway" },
+  "కృత్రిమ ఉపగ్రహం": { "replacement": "🛰️", "description": "satellite" },
+  "రాకెట్": { "replacement": "🚀", "description": "rocket" },
+  "ఫ్లయింగ్ సాసర్": { "replacement": "🛸", "description": "flying saucer" },
+  "బెల్హాప్ బెల్": { "replacement": "🛎️", "description": "bellhop bell" },
+  "సామాను": { "replacement": "🧳", "description": "luggage" },
+  "గంటగ్లాస్": { "replacement": "⌛", "description": "hourglass done" },
+  "గంటగ్లాస్ ప్రవహించే ఇసుక": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "చూడండి": { "replacement": "⌚", "description": "watch" },
+  "అలారం గడియారం": { "replacement": "⏰", "description": "alarm clock" },
+  "స్టాప్‌వాచ్": { "replacement": "⏱️", "description": "stopwatch" },
+  "టైమర్ గడియారం": { "replacement": "⏲️", "description": "timer clock" },
+  "మాంటెల్‌పీస్ గడియారం": {
+    "replacement": "🕰️",
+    "description": "mantelpiece clock"
+  },
+  "గడియారం 12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "గడియారం 1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "గడియారం 1": { "replacement": "🕐", "description": "one o’clock" },
+  "గడియారం 130": { "replacement": "🕜", "description": "one-thirty" },
+  "గడియారం 2": { "replacement": "🕑", "description": "two o’clock" },
+  "గడియారం 230": { "replacement": "🕝", "description": "two-thirty" },
+  "గడియారం 3": { "replacement": "🕒", "description": "three o’clock" },
+  "గడియారం 330": { "replacement": "🕞", "description": "three-thirty" },
+  "గడియారం 4": { "replacement": "🕓", "description": "four o’clock" },
+  "గడియారం 430": { "replacement": "🕟", "description": "four-thirty" },
+  "గడియారం 5": { "replacement": "🕔", "description": "five o’clock" },
+  "గడియారం 530": { "replacement": "🕠", "description": "five-thirty" },
+  "గడియారం 6": { "replacement": "🕕", "description": "six o’clock" },
+  "గడియారం 630": { "replacement": "🕡", "description": "six-thirty" },
+  "గడియారం 7": { "replacement": "🕖", "description": "seven o’clock" },
+  "గడియారం 730": { "replacement": "🕢", "description": "seven-thirty" },
+  "గడియారం 8": { "replacement": "🕗", "description": "eight o’clock" },
+  "గడియారం 830": { "replacement": "🕣", "description": "eight-thirty" },
+  "గడియారం 9": { "replacement": "🕘", "description": "nine o’clock" },
+  "గడియారం 930": { "replacement": "🕤", "description": "nine-thirty" },
+  "గడియారం 10": { "replacement": "🕙", "description": "ten o’clock" },
+  "గడియారం 1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "గడియారం 11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "గడియారం 1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "అమావాస్య": { "replacement": "🌑", "description": "new moon" },
+  "వాక్సింగ్ నెలవంక చంద్రుడు": {
+    "replacement": "🌒",
+    "description": "waxing crescent moon"
+  },
+  "మొదటి త్రైమాసిక చంద్రుడు": {
+    "replacement": "🌓",
+    "description": "first quarter moon"
+  },
+  "చంద్రుడు": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "నిండు చంద్రుడు": { "replacement": "🌕", "description": "full moon" },
+  "గిబ్బస్ చంద్రుడు క్షీణిస్తున్నాడు": {
+    "replacement": "🌖",
+    "description": "waning gibbous moon"
+  },
+  "చివరి త్రైమాసిక చంద్రుడు": {
+    "replacement": "🌗",
+    "description": "last quarter moon"
+  },
+  "క్షీణిస్తున్న చంద్రవంక": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "నెలవంక చంద్రుడు": { "replacement": "🌙", "description": "crescent moon" },
+  "ముఖంతో అమావాస్య": { "replacement": "🌚", "description": "new moon face" },
+  "ముఖంతో మొదటి త్రైమాసిక చంద్రుడు": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "ముఖంతో చివరి త్రైమాసిక చంద్రుడు": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "థర్మామీటర్": { "replacement": "🌡️", "description": "thermometer" },
+  "ఎండ": { "replacement": "☀️", "description": "sun" },
+  "ముఖంతో పౌర్ణమి": { "replacement": "🌝", "description": "full moon face" },
+  "ముఖంతో సూర్యుడు": { "replacement": "🌞", "description": "sun with face" },
+  "రింగ్డ్ గ్రహం": { "replacement": "🪐", "description": "ringed planet" },
+  "నక్షత్రం": { "replacement": "⭐", "description": "star" },
+  "స్టార్ 2": { "replacement": "🌟", "description": "glowing star" },
+  "నక్షత్రాలు": { "replacement": "🌠", "description": "shooting star" },
+  "పాలపుంత": { "replacement": "🌌", "description": "milky way" },
+  "మేఘం": { "replacement": "☁️", "description": "cloud" },
+  "పాక్షికంగా ఎండ": { "replacement": "⛅", "description": "sun behind cloud" },
+  "మెరుపు మరియు వర్షంతో మేఘం": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "చిన్న మేఘం వెనుక సూర్యుడు": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "పెద్ద మేఘం వెనుక సూర్యుడు": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "వర్షం మేఘం వెనుక సూర్యుడు": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "వర్షంతో మేఘం": { "replacement": "🌧️", "description": "cloud with rain" },
+  "మంచుతో మేఘం": { "replacement": "🌨️", "description": "cloud with snow" },
+  "మెరుపుతో మేఘం": {
+    "replacement": "🌩️",
+    "description": "cloud with lightning"
+  },
+  "సుడిగాలి": { "replacement": "🌪️", "description": "tornado" },
+  "గాలి ముఖం": { "replacement": "🌬️", "description": "wind face" },
+  "తుఫాను": { "replacement": "🌀", "description": "cyclone" },
+  "ఇంద్రధనస్సు": { "replacement": "🌈", "description": "rainbow" },
+  "మూసిన గొడుగు": { "replacement": "🌂", "description": "closed umbrella" },
+  "ఓపెన్ గొడుగు": { "replacement": "☂️", "description": "umbrella" },
+  "గొడుగు": { "replacement": "☔", "description": "umbrella with rain drops" },
+  "పారాసోల్ నేలమీద": {
+    "replacement": "⛱️",
+    "description": "umbrella on ground"
+  },
+  "జాప్": { "replacement": "⚡", "description": "high voltage" },
+  "స్నోఫ్లేక్": { "replacement": "❄️", "description": "snowflake" },
+  "మంచుతో స్నోమాన్": { "replacement": "☃️", "description": "snowman" },
+  "స్నోమాన్": { "replacement": "⛄", "description": "snowman without snow" },
+  "కామెట్": { "replacement": "☄️", "description": "comet" },
+  "అగ్ని": { "replacement": "🔥", "description": "fire" },
+  "బిందువు": { "replacement": "💧", "description": "droplet" },
+  "సముద్ర": { "replacement": "🌊", "description": "water wave" },
+  "జాక్ ఓ లాంతరు": { "replacement": "🎃", "description": "jack-o-lantern" },
+  "క్రిస్మస్ చెట్టు": { "replacement": "🎄", "description": "Christmas tree" },
+  "బాణసంచా": { "replacement": "🎆", "description": "fireworks" },
+  "స్పార్క్లర్": { "replacement": "🎇", "description": "sparkler" },
+  "ఫైర్‌క్రాకర్": { "replacement": "🧨", "description": "firecracker" },
+  "మెరుపులు": { "replacement": "✨", "description": "sparkles" },
+  "బెలూన్": { "replacement": "🎈", "description": "balloon" },
+  "తడా": { "replacement": "🎉", "description": "party popper" },
+  "confetti బంతి": { "replacement": "🎊", "description": "confetti ball" },
+  "tanabata చెట్టు": { "replacement": "🎋", "description": "tanabata tree" },
+  "వెదురు": { "replacement": "🎍", "description": "pine decoration" },
+  "బొమ్మలు": { "replacement": "🎎", "description": "Japanese dolls" },
+  "జెండాలు": { "replacement": "🎏", "description": "carp streamer" },
+  "గాలికి మోగే సంగీత వాయిద్యం": {
+    "replacement": "🎐",
+    "description": "wind chime"
+  },
+  "బియ్యం దృశ్యం": {
+    "replacement": "🎑",
+    "description": "moon viewing ceremony"
+  },
+  "ఎరుపు కవరు": { "replacement": "🧧", "description": "red envelope" },
+  "రిబ్బన్": { "replacement": "🎀", "description": "ribbon" },
+  "బహుమతి": { "replacement": "🎁", "description": "wrapped gift" },
+  "రిమైండర్ రిబ్బన్": { "replacement": "🎗️", "description": "reminder ribbon" },
+  "టిక్కెట్లు": { "replacement": "🎟️", "description": "admission tickets" },
+  "టికెట్": { "replacement": "🎫", "description": "ticket" },
+  "పతకం సైనిక": { "replacement": "🎖️", "description": "military medal" },
+  "ట్రోఫీ": { "replacement": "🏆", "description": "trophy" },
+  "పతక క్రీడలు": { "replacement": "🏅", "description": "sports medal" },
+  "1 వ స్థానం పతకం": { "replacement": "🥇", "description": "1st place medal" },
+  "2 వ స్థానం పతకం": { "replacement": "🥈", "description": "2nd place medal" },
+  "3 వ స్థానం పతకం": { "replacement": "🥉", "description": "3rd place medal" },
+  "సాకర్": { "replacement": "⚽", "description": "soccer ball" },
+  "బేస్బాల్": { "replacement": "⚾", "description": "baseball" },
+  "సాఫ్ట్‌బాల్": { "replacement": "🥎", "description": "softball" },
+  "బాస్కెట్‌బాల్": { "replacement": "🏀", "description": "basketball" },
+  "వాలీబాల్": { "replacement": "🏐", "description": "volleyball" },
+  "ఫుట్‌బాల్": { "replacement": "🏈", "description": "american football" },
+  "రగ్బీ ఫుట్‌బాల్": { "replacement": "🏉", "description": "rugby football" },
+  "టెన్నిస్": { "replacement": "🎾", "description": "tennis" },
+  "ఫ్లయింగ్ డిస్క్": { "replacement": "🥏", "description": "flying disc" },
+  "బౌలింగ్": { "replacement": "🎳", "description": "bowling" },
+  "క్రికెట్ ఆట": { "replacement": "🏏", "description": "cricket game" },
+  "ఫీల్డ్ హాకీ": { "replacement": "🏑", "description": "field hockey" },
+  "మంచు హాకి": { "replacement": "🏒", "description": "ice hockey" },
+  "లాక్రోస్": { "replacement": "🥍", "description": "lacrosse" },
+  "పింగ్ పాంగ్": { "replacement": "🏓", "description": "ping pong" },
+  "బ్యాడ్మింటన్": { "replacement": "🏸", "description": "badminton" },
+  "బాక్సింగ్ గ్లోవ్": { "replacement": "🥊", "description": "boxing glove" },
+  "మార్షల్ ఆర్ట్స్ యూనిఫాం": {
+    "replacement": "🥋",
+    "description": "martial arts uniform"
+  },
+  "గోల్ నెట్": { "replacement": "🥅", "description": "goal net" },
+  "గోల్ఫ్": { "replacement": "⛳", "description": "flag in hole" },
+  "మంచు స్కేట్": { "replacement": "⛸️", "description": "ice skate" },
+  "ఫిషింగ్ పోల్ మరియు ఫిష్": {
+    "replacement": "🎣",
+    "description": "fishing pole"
+  },
+  "డైవింగ్ మాస్క్": { "replacement": "🤿", "description": "diving mask" },
+  "సాష్ తో నడుస్తున్న చొక్కా": {
+    "replacement": "🎽",
+    "description": "running shirt"
+  },
+  "స్కీ": { "replacement": "🎿", "description": "skis" },
+  "స్లెడ్": { "replacement": "🛷", "description": "sled" },
+  "కర్లింగ్ రాయి": { "replacement": "🥌", "description": "curling stone" },
+  "డార్ట్": { "replacement": "🎯", "description": "direct hit" },
+  "యో యో": { "replacement": "🪀", "description": "yo-yo" },
+  "గాలిపటం": { "replacement": "🪁", "description": "kite" },
+  "8 బాల్": { "replacement": "🎱", "description": "pool 8 ball" },
+  "క్రిస్టల్ బాల్": { "replacement": "🔮", "description": "crystal ball" },
+  "మంత్రదండం": { "replacement": "🪄", "description": "magic wand" },
+  "నాజర్ తాయెత్తు": { "replacement": "🧿", "description": "nazar amulet" },
+  "వీడియో గేమ్": { "replacement": "🎮", "description": "video game" },
+  "జాయ్ స్టిక్": { "replacement": "🕹️", "description": "joystick" },
+  "స్లాట్ యంత్రం": { "replacement": "🎰", "description": "slot machine" },
+  "ఆట చనిపోతుంది": { "replacement": "🎲", "description": "game die" },
+  "జా": { "replacement": "🧩", "description": "puzzle piece" },
+  "టెడ్డి బేర్": { "replacement": "🧸", "description": "teddy bear" },
+  "పినాటా": { "replacement": "🪅", "description": "piñata" },
+  "గూడు బొమ్మలు": { "replacement": "🪆", "description": "nesting dolls" },
+  "స్పేడ్స్": { "replacement": "♠️", "description": "spade suit" },
+  "హృదయాలు": { "replacement": "♥️", "description": "heart suit" },
+  "వజ్రాలు": { "replacement": "♦️", "description": "diamond suit" },
+  "క్లబ్బులు": { "replacement": "♣️", "description": "club suit" },
+  "చెస్ బంటు": { "replacement": "♟️", "description": "chess pawn" },
+  "బ్లాక్ జోకర్": { "replacement": "🃏", "description": "joker" },
+  "మహ్ జాంగ్": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "ఫ్లవర్ ప్లేయింగ్ కార్డులు": {
+    "replacement": "🎴",
+    "description": "flower playing cards"
+  },
+  "కళలు": { "replacement": "🎭", "description": "performing arts" },
+  "ఫ్రేమ్డ్ పిక్చర్": { "replacement": "🖼️", "description": "framed picture" },
+  "కళ": { "replacement": "🎨", "description": "artist palette" },
+  "థ్రెడ్": { "replacement": "🧵", "description": "thread" },
+  "సూది కుట్టు": { "replacement": "🪡", "description": "sewing needle" },
+  "నూలు": { "replacement": "🧶", "description": "yarn" },
+  "ముడి": { "replacement": "🪢", "description": "knot" },
+  "కళ్ళజోడు": { "replacement": "👓", "description": "glasses" },
+  "చీకటి సన్ గ్లాసెస్": { "replacement": "🕶️", "description": "sunglasses" },
+  "గాగుల్స్": { "replacement": "🥽", "description": "goggles" },
+  "ప్రయోగశాల కోటు": { "replacement": "🥼", "description": "lab coat" },
+  "భద్రతా చొక్కా": { "replacement": "🦺", "description": "safety vest" },
+  "మెడ": { "replacement": "👔", "description": "necktie" },
+  "చొక్కా": { "replacement": "👕", "description": "t-shirt" },
+  "జీన్స్": { "replacement": "👖", "description": "jeans" },
+  "కండువా": { "replacement": "🧣", "description": "scarf" },
+  "చేతి తొడుగులు": { "replacement": "🧤", "description": "gloves" },
+  "కోటు": { "replacement": "🧥", "description": "coat" },
+  "సాక్స్": { "replacement": "🧦", "description": "socks" },
+  "దుస్తులు": { "replacement": "👗", "description": "dress" },
+  "కిమోనో": { "replacement": "👘", "description": "kimono" },
+  "చీర": { "replacement": "🥻", "description": "sari" },
+  "ఒక ముక్క స్విమ్సూట్": {
+    "replacement": "🩱",
+    "description": "one-piece swimsuit"
+  },
+  "క్లుప్తంగా ఈత": { "replacement": "🩲", "description": "briefs" },
+  "లఘు చిత్రాలు": { "replacement": "🩳", "description": "shorts" },
+  "బికినీ": { "replacement": "👙", "description": "bikini" },
+  "మహిళల బట్టలు": { "replacement": "👚", "description": "woman’s clothes" },
+  "పర్స్": { "replacement": "👛", "description": "purse" },
+  "హ్యాండ్‌బ్యాగ్": { "replacement": "👜", "description": "handbag" },
+  "పర్సు": { "replacement": "👝", "description": "clutch bag" },
+  "షాపింగ్": { "replacement": "🛍️", "description": "shopping bags" },
+  "పాఠశాల సాట్చెల్": { "replacement": "🎒", "description": "backpack" },
+  "థాంగ్ చెప్పులు": { "replacement": "🩴", "description": "thong sandal" },
+  "మాన్స్ షూ": { "replacement": "👞", "description": "man’s shoe" },
+  "అథ్లెటిక్ షూ": { "replacement": "👟", "description": "running shoe" },
+  "హైకింగ్ బూట్": { "replacement": "🥾", "description": "hiking boot" },
+  "ఫ్లాట్ షూ": { "replacement": "🥿", "description": "flat shoe" },
+  "హై మడమ": { "replacement": "👠", "description": "high-heeled shoe" },
+  "చెప్పు": { "replacement": "👡", "description": "woman’s sandal" },
+  "బ్యాలెట్ బూట్లు": { "replacement": "🩰", "description": "ballet shoes" },
+  "బూట్": { "replacement": "👢", "description": "woman’s boot" },
+  "కిరీటం": { "replacement": "👑", "description": "crown" },
+  "మహిళలు టోపీ": { "replacement": "👒", "description": "woman’s hat" },
+  "పై టోపీ": { "replacement": "🎩", "description": "top hat" },
+  "మోర్టార్ బోర్డు": { "replacement": "🎓", "description": "graduation cap" },
+  "బిల్ క్యాప్": { "replacement": "🧢", "description": "billed cap" },
+  "సైనిక హెల్మెట్": { "replacement": "🪖", "description": "military helmet" },
+  "రెస్క్యూ వర్కర్ హెల్మెట్": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "ప్రార్థన పూసలు": { "replacement": "📿", "description": "prayer beads" },
+  "లిప్ స్టిక్": { "replacement": "💄", "description": "lipstick" },
+  "రింగ్": { "replacement": "💍", "description": "ring" },
+  "రత్నం": { "replacement": "💎", "description": "gem stone" },
+  "మ్యూట్": { "replacement": "🔇", "description": "muted speaker" },
+  "స్పీకర్": { "replacement": "🔈", "description": "speaker low volume" },
+  "ధ్వని": { "replacement": "🔉", "description": "speaker medium volume" },
+  "పెద్ద శబ్దం": { "replacement": "🔊", "description": "speaker high volume" },
+  "లౌడ్ స్పీకర్": { "replacement": "📢", "description": "loudspeaker" },
+  "మెగా": { "replacement": "📣", "description": "megaphone" },
+  "పోస్టల్ కొమ్ము": { "replacement": "📯", "description": "postal horn" },
+  "గంట": { "replacement": "🔔", "description": "bell" },
+  "గంట లేదు": { "replacement": "🔕", "description": "bell with slash" },
+  "సంగీత స్కోరు": { "replacement": "🎼", "description": "musical score" },
+  "సంగీత గమనిక": { "replacement": "🎵", "description": "musical note" },
+  "గమనికలు": { "replacement": "🎶", "description": "musical notes" },
+  "స్టూడియో మైక్రోఫోన్": {
+    "replacement": "🎙️",
+    "description": "studio microphone"
+  },
+  "స్థాయి స్లయిడర్": { "replacement": "🎚️", "description": "level slider" },
+  "నియంత్రణ గుబ్బలు": { "replacement": "🎛️", "description": "control knobs" },
+  "మైక్రోఫోన్": { "replacement": "🎤", "description": "microphone" },
+  "హెడ్ ​​ఫోన్లు": { "replacement": "🎧", "description": "headphone" },
+  "రేడియో": { "replacement": "📻", "description": "radio" },
+  "సాక్సోఫోన్": { "replacement": "🎷", "description": "saxophone" },
+  "అకార్డియన్": { "replacement": "🪗", "description": "accordion" },
+  "గిటార్": { "replacement": "🎸", "description": "guitar" },
+  "సంగీత కీబోర్డ్": { "replacement": "🎹", "description": "musical keyboard" },
+  "బాకా": { "replacement": "🎺", "description": "trumpet" },
+  "వయోలిన్": { "replacement": "🎻", "description": "violin" },
+  "బాంజో": { "replacement": "🪕", "description": "banjo" },
+  "డ్రమ్": { "replacement": "🥁", "description": "drum" },
+  "లాంగ్ డ్రమ్": { "replacement": "🪘", "description": "long drum" },
+  "ఐఫోన్": { "replacement": "📱", "description": "mobile phone" },
+  "కాలింగ్": { "replacement": "📲", "description": "mobile phone with arrow" },
+  "ఫోన్": { "replacement": "☎️", "description": "telephone" },
+  "టెలిఫోన్ రిసీవర్": {
+    "replacement": "📞",
+    "description": "telephone receiver"
+  },
+  "పేజర్": { "replacement": "📟", "description": "pager" },
+  "ఫ్యాక్స్": { "replacement": "📠", "description": "fax machine" },
+  "బ్యాటరీ": { "replacement": "🔋", "description": "battery" },
+  "ఎలక్ట్రిక్ ప్లగ్": { "replacement": "🔌", "description": "electric plug" },
+  "కంప్యూటర్": { "replacement": "💻", "description": "laptop" },
+  "డెస్క్టాప్ కంప్యూటర్": {
+    "replacement": "🖥️",
+    "description": "desktop computer"
+  },
+  "ప్రింటర్": { "replacement": "🖨️", "description": "printer" },
+  "కీబోర్డ్": { "replacement": "⌨️", "description": "keyboard" },
+  "కంప్యూటర్ మౌస్": { "replacement": "🖱️", "description": "computer mouse" },
+  "ట్రాక్‌బాల్": { "replacement": "🖲️", "description": "trackball" },
+  "minidisc": { "replacement": "💽", "description": "computer disk" },
+  "ఫ్లాపీ డిస్క్": { "replacement": "💾", "description": "floppy disk" },
+  "సిడి": { "replacement": "💿", "description": "optical disk" },
+  "డివిడి": { "replacement": "📀", "description": "dvd" },
+  "అబాకస్": { "replacement": "🧮", "description": "abacus" },
+  "మూవీ కెమెరా": { "replacement": "🎥", "description": "movie camera" },
+  "ఫిల్మ్ స్ట్రిప్": { "replacement": "🎞️", "description": "film frames" },
+  "ఫిల్మ్ ప్రొజెక్టర్": {
+    "replacement": "📽️",
+    "description": "film projector"
+  },
+  "టీవీ": { "replacement": "📺", "description": "television" },
+  "కెమెరా": { "replacement": "📷", "description": "camera" },
+  "కెమెరా ఫ్లాష్": { "replacement": "📸", "description": "camera with flash" },
+  "వీడియో కెమెరా": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "మాగ్": {
+    "replacement": "🔍",
+    "description": "magnifying glass tilted left"
+  },
+  "మాగ్ కుడి": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "కొవ్వొత్తి": { "replacement": "🕯️", "description": "candle" },
+  "బల్బ్": { "replacement": "💡", "description": "light bulb" },
+  "ఫ్లాష్ లైట్": { "replacement": "🔦", "description": "flashlight" },
+  "izakaya లాంతరు": { "replacement": "🏮", "description": "red paper lantern" },
+  "diya lamp": { "replacement": "🪔", "description": "diya lamp" },
+  "అలంకరణ కవర్తో నోట్బుక్": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "మూసివేసిన పుస్తకం": { "replacement": "📕", "description": "closed book" },
+  "పుస్తకం": { "replacement": "📖", "description": "open book" },
+  "ఆకుపచ్చ పుస్తకం": { "replacement": "📗", "description": "green book" },
+  "నీలం పుస్తకం": { "replacement": "📘", "description": "blue book" },
+  "నారింజ పుస్తకం": { "replacement": "📙", "description": "orange book" },
+  "పుస్తకాలు": { "replacement": "📚", "description": "books" },
+  "నోట్బుక్": { "replacement": "📓", "description": "notebook" },
+  "లెడ్జర్": { "replacement": "📒", "description": "ledger" },
+  "కర్ల్‌తో పేజీ": { "replacement": "📃", "description": "page with curl" },
+  "స్క్రోల్ చేయండి": { "replacement": "📜", "description": "scroll" },
+  "పేజీ ఎదురుగా ఉంది": { "replacement": "📄", "description": "page facing up" },
+  "వార్తాపత్రిక": { "replacement": "📰", "description": "newspaper" },
+  "వార్తాపత్రిక రోల్": {
+    "replacement": "🗞️",
+    "description": "rolled-up newspaper"
+  },
+  "బుక్‌మార్క్ ట్యాబ్‌లు": {
+    "replacement": "📑",
+    "description": "bookmark tabs"
+  },
+  "బుక్‌మార్క్": { "replacement": "🔖", "description": "bookmark" },
+  "లేబుల్": { "replacement": "🏷️", "description": "label" },
+  "మనీబ్యాగ్": { "replacement": "💰", "description": "money bag" },
+  "నాణెం": { "replacement": "🪙", "description": "coin" },
+  "యెన్": { "replacement": "💴", "description": "yen banknote" },
+  "డాలర్": { "replacement": "💵", "description": "dollar banknote" },
+  "యూరో": { "replacement": "💶", "description": "euro banknote" },
+  "పౌండ్": { "replacement": "💷", "description": "pound banknote" },
+  "రెక్కలతో డబ్బు": { "replacement": "💸", "description": "money with wings" },
+  "క్రెడిట్ కార్డు": { "replacement": "💳", "description": "credit card" },
+  "రశీదు": { "replacement": "🧾", "description": "receipt" },
+  "చార్ట్": { "replacement": "💹", "description": "chart increasing with yen" },
+  "ఇమెయిల్": { "replacement": "✉️", "description": "envelope" },
+  "ఇ-మెయిల్": { "replacement": "📧", "description": "e-mail" },
+  "ఇన్కమింగ్ ఎన్వలప్": {
+    "replacement": "📨",
+    "description": "incoming envelope"
+  },
+  "బాణంతో కవరు": { "replacement": "📩", "description": "envelope with arrow" },
+  "అవుట్‌బాక్స్ ట్రే": { "replacement": "📤", "description": "outbox tray" },
+  "ఇన్బాక్స్ ట్రే": { "replacement": "📥", "description": "inbox tray" },
+  "ప్యాకేజీ": { "replacement": "📦", "description": "package" },
+  "మెయిల్బాక్స్": {
+    "replacement": "📫",
+    "description": "closed mailbox with raised flag"
+  },
+  "మెయిల్‌బాక్స్ మూసివేయబడింది": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "మెయిల్‌తో మెయిల్‌బాక్స్": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "మెయిల్ లేని మెయిల్ బాక్స్": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "తపాలా పెట్టె": { "replacement": "📮", "description": "postbox" },
+  "వోట్లు వేసే డబ్బా": {
+    "replacement": "🗳️",
+    "description": "ballot box with ballot"
+  },
+  "పెన్సిల్ 2": { "replacement": "✏️", "description": "pencil" },
+  "బ్లాక్ నిబ్": { "replacement": "✒️", "description": "black nib" },
+  "ఫౌంటెన్ పెన్": { "replacement": "🖋️", "description": "fountain pen" },
+  "పెన్": { "replacement": "🖊️", "description": "pen" },
+  "పెయింట్ బ్రష్": { "replacement": "🖌️", "description": "paintbrush" },
+  "క్రేయాన్": { "replacement": "🖍️", "description": "crayon" },
+  "మెమో": { "replacement": "📝", "description": "memo" },
+  "బ్రీఫ్‌కేస్": { "replacement": "💼", "description": "briefcase" },
+  "ఫైలు ఫోల్డర్": { "replacement": "📁", "description": "file folder" },
+  "ఫైల్ ఫోల్డర్ తెరవండి": {
+    "replacement": "📂",
+    "description": "open file folder"
+  },
+  "కార్డు సూచిక డివైడర్లు": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "తేదీ": { "replacement": "📅", "description": "calendar" },
+  "క్యాలెండర్": { "replacement": "📆", "description": "tear-off calendar" },
+  "మురి నోట్‌ప్యాడ్": { "replacement": "🗒️", "description": "spiral notepad" },
+  "మురి క్యాలెండర్": { "replacement": "🗓️", "description": "spiral calendar" },
+  "కార్డు సూచిక": { "replacement": "📇", "description": "card index" },
+  "పైకి ధోరణితో చార్ట్": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "క్రింది ధోరణితో చార్ట్": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "బార్ చార్ట్": { "replacement": "📊", "description": "bar chart" },
+  "క్లిప్‌బోర్డ్": { "replacement": "📋", "description": "clipboard" },
+  "పుష్పిన్": { "replacement": "📌", "description": "pushpin" },
+  "రౌండ్ పుష్పిన్": { "replacement": "📍", "description": "round pushpin" },
+  "పేపర్‌క్లిప్": { "replacement": "📎", "description": "paperclip" },
+  "పేపర్‌క్లిప్‌లు": {
+    "replacement": "🖇️",
+    "description": "linked paperclips"
+  },
+  "సరళ పాలకుడు": { "replacement": "📏", "description": "straight ruler" },
+  "త్రిభుజాకార పాలకుడు": {
+    "replacement": "📐",
+    "description": "triangular ruler"
+  },
+  "కత్తెర": { "replacement": "✂️", "description": "scissors" },
+  "కార్డ్ ఫైల్ బాక్స్": { "replacement": "🗃️", "description": "card file box" },
+  "ఫైల్ క్యాబినెట్": { "replacement": "🗄️", "description": "file cabinet" },
+  "వేస్ట్‌బాస్కెట్": { "replacement": "🗑️", "description": "wastebasket" },
+  "లాక్": { "replacement": "🔒", "description": "locked" },
+  "అన్‌లాక్": { "replacement": "🔓", "description": "unlocked" },
+  "ఇంక్ పెన్నుతో లాక్ చేయండి": {
+    "replacement": "🔏",
+    "description": "locked with pen"
+  },
+  "కీతో క్లోజ్డ్ లాక్": {
+    "replacement": "🔐",
+    "description": "locked with key"
+  },
+  "కీ": { "replacement": "🔑", "description": "key" },
+  "పాత కీ": { "replacement": "🗝️", "description": "old key" },
+  "సుత్తి": { "replacement": "🔨", "description": "hammer" },
+  "గొడ్డలి": { "replacement": "🪓", "description": "axe" },
+  "ఎంచుకోండి": { "replacement": "⛏️", "description": "pick" },
+  "సుత్తి మరియు పిక్": {
+    "replacement": "⚒️",
+    "description": "hammer and pick"
+  },
+  "సుత్తి మరియు రెంచ్": {
+    "replacement": "🛠️",
+    "description": "hammer and wrench"
+  },
+  "బాకు": { "replacement": "🗡️", "description": "dagger" },
+  "దాటిన కత్తులు": { "replacement": "⚔️", "description": "crossed swords" },
+  "తుపాకీ": { "replacement": "🔫", "description": "pistol" },
+  "బూమేరాంగ్": { "replacement": "🪃", "description": "boomerang" },
+  "విల్లు మరియు బాణం": { "replacement": "🏹", "description": "bow and arrow" },
+  "కవచం": { "replacement": "🛡️", "description": "shield" },
+  "వడ్రంగి చూసింది": { "replacement": "🪚", "description": "carpentry saw" },
+  "రెంచ్": { "replacement": "🔧", "description": "wrench" },
+  "స్క్రూడ్రైవర్": { "replacement": "🪛", "description": "screwdriver" },
+  "గింజ మరియు బోల్ట్": { "replacement": "🔩", "description": "nut and bolt" },
+  "గేర్": { "replacement": "⚙️", "description": "gear" },
+  "బిగింపు": { "replacement": "🗜️", "description": "clamp" },
+  "బ్యాలెన్స్ స్కేల్": { "replacement": "⚖️", "description": "balance scale" },
+  "చెరకును పరిశీలిస్తోంది": { "replacement": "🦯", "description": "white cane" },
+  "లింక్": { "replacement": "🔗", "description": "link" },
+  "గొలుసులు": { "replacement": "⛓️", "description": "chains" },
+  "హుక్": { "replacement": "🪝", "description": "hook" },
+  "టూల్‌బాక్స్": { "replacement": "🧰", "description": "toolbox" },
+  "అయస్కాంతం": { "replacement": "🧲", "description": "magnet" },
+  "నిచ్చెన": { "replacement": "🪜", "description": "ladder" },
+  "అలెంబిక్": { "replacement": "⚗️", "description": "alembic" },
+  "పరీక్ష గొట్టం": { "replacement": "🧪", "description": "test tube" },
+  "రాతి గిన్నె": { "replacement": "🧫", "description": "petri dish" },
+  "dna": { "replacement": "🧬", "description": "dna" },
+  "సూక్ష్మదర్శిని": { "replacement": "🔬", "description": "microscope" },
+  "టెలిస్కోప్": { "replacement": "🔭", "description": "telescope" },
+  "ఉపగ్రహ": { "replacement": "📡", "description": "satellite antenna" },
+  "సిరంజి": { "replacement": "💉", "description": "syringe" },
+  "రక్తం డ్రాప్": { "replacement": "🩸", "description": "drop of blood" },
+  "పిల్": { "replacement": "💊", "description": "pill" },
+  "అంటుకునే కట్టు": { "replacement": "🩹", "description": "adhesive bandage" },
+  "స్టెతస్కోప్": { "replacement": "🩺", "description": "stethoscope" },
+  "తలుపు": { "replacement": "🚪", "description": "door" },
+  "ఎలివేటర్": { "replacement": "🛗", "description": "elevator" },
+  "అద్దం": { "replacement": "🪞", "description": "mirror" },
+  "కిటికీ": { "replacement": "🪟", "description": "window" },
+  "మం చం": { "replacement": "🛏️", "description": "bed" },
+  "మంచం మరియు దీపం": { "replacement": "🛋️", "description": "couch and lamp" },
+  "కుర్చీ": { "replacement": "🪑", "description": "chair" },
+  "ముఖము కడుగుకొని, తలదువ్వుకొని, దుస్తులు ధరించు పద్ధతి": {
+    "replacement": "🚽",
+    "description": "toilet"
+  },
+  "ప్లంగర్": { "replacement": "🪠", "description": "plunger" },
+  "షవర్": { "replacement": "🚿", "description": "shower" },
+  "స్నానపు తొట్టె": { "replacement": "🛁", "description": "bathtub" },
+  "మౌస్ ఉచ్చు": { "replacement": "🪤", "description": "mouse trap" },
+  "రేజర్": { "replacement": "🪒", "description": "razor" },
+  "ion షదం బాటిల్": { "replacement": "🧴", "description": "lotion bottle" },
+  "భద్రతా పిన్": { "replacement": "🧷", "description": "safety pin" },
+  "చీపురు": { "replacement": "🧹", "description": "broom" },
+  "బుట్ట": { "replacement": "🧺", "description": "basket" },
+  "కాగితం రోల్": { "replacement": "🧻", "description": "roll of paper" },
+  "బకెట్": { "replacement": "🪣", "description": "bucket" },
+  "సబ్బు": { "replacement": "🧼", "description": "soap" },
+  "టూత్ బ్రష్": { "replacement": "🪥", "description": "toothbrush" },
+  "స్పాంజ్": { "replacement": "🧽", "description": "sponge" },
+  "మంటలను ఆర్పేది": { "replacement": "🧯", "description": "fire extinguisher" },
+  "షాపింగ్ కార్ట్": { "replacement": "🛒", "description": "shopping cart" },
+  "ధూమపానం": { "replacement": "🚬", "description": "cigarette" },
+  "శవపేటిక": { "replacement": "⚰️", "description": "coffin" },
+  "హెడ్ ​​స్టోన్": { "replacement": "🪦", "description": "headstone" },
+  "అంత్యక్రియల మంట": { "replacement": "⚱️", "description": "funeral urn" },
+  "మోయై": { "replacement": "🗿", "description": "moai" },
+  "ప్లకార్డ్": { "replacement": "🪧", "description": "placard" },
+  "atm": { "replacement": "🏧", "description": "ATM sign" },
+  "దాని స్థానంలో లిట్టర్ ఉంచండి": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "త్రాగు నీరు": { "replacement": "🚰", "description": "potable water" },
+  "వీల్ చైర్": { "replacement": "♿", "description": "wheelchair symbol" },
+  "పురుషులు": { "replacement": "🚹", "description": "men’s room" },
+  "మహిళలు": { "replacement": "🚺", "description": "women’s room" },
+  "విశ్రాంతి గది": { "replacement": "🚻", "description": "restroom" },
+  "శిశువు చిహ్నం": { "replacement": "🚼", "description": "baby symbol" },
+  "wc": { "replacement": "🚾", "description": "water closet" },
+  "పాస్పోర్ట్ నియంత్రణ": {
+    "replacement": "🛂",
+    "description": "passport control"
+  },
+  "కస్టమ్స్": { "replacement": "🛃", "description": "customs" },
+  "సామాను దావా": { "replacement": "🛄", "description": "baggage claim" },
+  "సామాగ్రిని వదిలేసి": { "replacement": "🛅", "description": "left luggage" },
+  "హెచ్చరిక": { "replacement": "⚠️", "description": "warning" },
+  "పిల్లలు దాటుతున్నారు": {
+    "replacement": "🚸",
+    "description": "children crossing"
+  },
+  "ప్రవేశం లేదు": { "replacement": "⛔", "description": "no entry" },
+  "ప్రవేశ చిహ్నం లేదు": { "replacement": "🚫", "description": "prohibited" },
+  "సైకిళ్ళు లేవు": { "replacement": "🚳", "description": "no bicycles" },
+  "పొగ త్రాగరాదు": { "replacement": "🚭", "description": "no smoking" },
+  "చెత్త వేయరాదు": { "replacement": "🚯", "description": "no littering" },
+  "త్రాగలేని నీరు": { "replacement": "🚱", "description": "non-potable water" },
+  "పాదచారులు లేరు": { "replacement": "🚷", "description": "no pedestrians" },
+  "మొబైల్ ఫోన్లు లేవు": {
+    "replacement": "📵",
+    "description": "no mobile phones"
+  },
+  "తక్కువ వయస్సు": {
+    "replacement": "🔞",
+    "description": "no one under eighteen"
+  },
+  "రేడియోధార్మిక": { "replacement": "☢️", "description": "radioactive" },
+  "బయోహజార్డ్": { "replacement": "☣️", "description": "biohazard" },
+  "బాణం పైకి": { "replacement": "⤴️", "description": "right arrow curving up" },
+  "బాణం ఎగువ కుడి": { "replacement": "↗️", "description": "up-right arrow" },
+  "బాణం కుడి": { "replacement": "➡️", "description": "right arrow" },
+  "బాణం దిగువ కుడి": { "replacement": "↘️", "description": "down-right arrow" },
+  "బాణం క్రిందికి": { "replacement": "⬇️", "description": "down arrow" },
+  "బాణం దిగువ ఎడమ": { "replacement": "↙️", "description": "down-left arrow" },
+  "బాణం ఎడమ": { "replacement": "⬅️", "description": "left arrow" },
+  "బాణం ఎగువ ఎడమ": { "replacement": "↖️", "description": "up-left arrow" },
+  "ఎడమ కుడి బాణం": { "replacement": "↔️", "description": "left-right arrow" },
+  "హుక్తో ఎడమవైపు బాణం": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "బాణం కుడి హుక్": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "బాణం క్రిందికి వెళుతుంది": {
+    "replacement": "⤵️",
+    "description": "right arrow curving down"
+  },
+  "బాణాలు సవ్యదిశలో": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "అపసవ్య దిశలో బాణాలు": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "తిరిగి": { "replacement": "🔙", "description": "BACK arrow" },
+  "ముగింపు": { "replacement": "🔚", "description": "END arrow" },
+  "పై": { "replacement": "🔛", "description": "ON! arrow" },
+  "త్వరలో": { "replacement": "🔜", "description": "SOON arrow" },
+  "టాప్": { "replacement": "🔝", "description": "TOP arrow" },
+  "ప్రార్థనా స్థలం": { "replacement": "🛐", "description": "place of worship" },
+  "అణువు చిహ్నం": { "replacement": "⚛️", "description": "atom symbol" },
+  "om": { "replacement": "🕉️", "description": "om" },
+  "డేవిడ్ యొక్క నక్షత్రం": {
+    "replacement": "✡️",
+    "description": "star of David"
+  },
+  "ధర్మ చక్రం": { "replacement": "☸️", "description": "wheel of dharma" },
+  "యిన్ యాంగ్": { "replacement": "☯️", "description": "yin yang" },
+  "లాటిన్ క్రాస్": { "replacement": "✝️", "description": "latin cross" },
+  "ఆర్థడాక్స్ క్రాస్": { "replacement": "☦️", "description": "orthodox cross" },
+  "నక్షత్రం మరియు నెలవంక": {
+    "replacement": "☪️",
+    "description": "star and crescent"
+  },
+  "శాంతి చిహ్నం": { "replacement": "☮️", "description": "peace symbol" },
+  "మెనోరా": { "replacement": "🕎", "description": "menorah" },
+  "ఆరు కోణాల నక్షత్రం": {
+    "replacement": "🔯",
+    "description": "dotted six-pointed star"
+  },
+  "మేషం": { "replacement": "♈", "description": "Aries" },
+  "వృషభం": { "replacement": "♉", "description": "Taurus" },
+  "జెమిని": { "replacement": "♊", "description": "Gemini" },
+  "క్యాన్సర్": { "replacement": "♋", "description": "Cancer" },
+  "లియో": { "replacement": "♌", "description": "Leo" },
+  "కన్య": { "replacement": "♍", "description": "Virgo" },
+  "తుల": { "replacement": "♎", "description": "Libra" },
+  "స్కార్పియస్": { "replacement": "♏", "description": "Scorpio" },
+  "ధనుస్సు": { "replacement": "♐", "description": "Sagittarius" },
+  "మకరం": { "replacement": "♑", "description": "Capricorn" },
+  "కుంభం": { "replacement": "♒", "description": "Aquarius" },
+  "మీనం": { "replacement": "♓", "description": "Pisces" },
+  "ఓఫిచస్": { "replacement": "⛎", "description": "Ophiuchus" },
+  "వక్రీకృత కుడి బాణాలు": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "పునరావృతం": { "replacement": "🔁", "description": "repeat button" },
+  "ఒకటి పునరావృతం చేయండి": {
+    "replacement": "🔂",
+    "description": "repeat single button"
+  },
+  "బాణం ముందుకు": { "replacement": "▶️", "description": "play button" },
+  "త్వరగా ముందుకు": {
+    "replacement": "⏩",
+    "description": "fast-forward button"
+  },
+  "తదుపరి ట్రాక్ బటన్": {
+    "replacement": "⏭️",
+    "description": "next track button"
+  },
+  "బటన్ ప్లే లేదా పాజ్": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "బాణం వెనుకకు": { "replacement": "◀️", "description": "reverse button" },
+  "రివైండ్": { "replacement": "⏪", "description": "fast reverse button" },
+  "మునుపటి ట్రాక్ బటన్": {
+    "replacement": "⏮️",
+    "description": "last track button"
+  },
+  "చిన్న బాణం": { "replacement": "🔽", "description": "downwards button" },
+  "బాణం రెట్టింపు": { "replacement": "⏫", "description": "fast up button" },
+  "బాణం డబుల్ డౌన్": { "replacement": "⏬", "description": "fast down button" },
+  "పాజ్ బటన్": { "replacement": "⏸️", "description": "pause button" },
+  "స్టాప్ బటన్": { "replacement": "⏹️", "description": "stop button" },
+  "రికార్డ్ బటన్": { "replacement": "⏺️", "description": "record button" },
+  "ఎజెక్ట్ బటన్": { "replacement": "⏏️", "description": "eject button" },
+  "సినిమా": { "replacement": "🎦", "description": "cinema" },
+  "తక్కువ ప్రకాశం": { "replacement": "🔅", "description": "dim button" },
+  "అధిక ప్రకాశం": { "replacement": "🔆", "description": "bright button" },
+  "సిగ్నల్ బలం": { "replacement": "📶", "description": "antenna bars" },
+  "వైబ్రేషన్ మోడ్": { "replacement": "📳", "description": "vibration mode" },
+  "మొబైల్ ఫోన్ ఆఫ్ చేయబడింది": {
+    "replacement": "📴",
+    "description": "mobile phone off"
+  },
+  "ఆడ గుర్తు": { "replacement": "♀️", "description": "female sign" },
+  "మగ గుర్తు": { "replacement": "♂️", "description": "male sign" },
+  "లింగమార్పిడి చిహ్నం": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "భారీ గుణకారం x": { "replacement": "✖️", "description": "multiply" },
+  "భారీ ప్లస్ గుర్తు": { "replacement": "➕", "description": "plus" },
+  "భారీ మైనస్ గుర్తు": { "replacement": "➖", "description": "minus" },
+  "భారీ విభజన గుర్తు": { "replacement": "➗", "description": "divide" },
+  "అనంతం": { "replacement": "♾️", "description": "infinity" },
+  "బ్యాంగ్ బ్యాంగ్": {
+    "replacement": "‼️",
+    "description": "double exclamation mark"
+  },
+  "ఇంటర్రోబాంగ్": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "ప్రశ్న": { "replacement": "❓", "description": "question mark" },
+  "బూడిద ప్రశ్న": { "replacement": "❔", "description": "white question mark" },
+  "బూడిద ఆశ్చర్యార్థకం": {
+    "replacement": "❕",
+    "description": "white exclamation mark"
+  },
+  "ఆశ్చర్యార్థకం": { "replacement": "❗", "description": "exclamation mark" },
+  "ఉంగరాల డాష్": { "replacement": "〰️", "description": "wavy dash" },
+  "ద్రవ్య మారకం": { "replacement": "💱", "description": "currency exchange" },
+  "భారీ డాలర్ గుర్తు": {
+    "replacement": "💲",
+    "description": "heavy dollar sign"
+  },
+  "వైద్య చిహ్నం": { "replacement": "⚕️", "description": "medical symbol" },
+  "రీసైకిల్": { "replacement": "♻️", "description": "recycling symbol" },
+  "ఫ్లూర్ డి లిస్": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "త్రిశూలం": { "replacement": "🔱", "description": "trident emblem" },
+  "పేరు బ్యాడ్జ్": { "replacement": "📛", "description": "name badge" },
+  "అనుభవశూన్యుడు": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "o": { "replacement": "⭕", "description": "hollow red circle" },
+  "తెలుపు చెక్ మార్క్": {
+    "replacement": "✅",
+    "description": "check mark button"
+  },
+  "చెక్కుతో బ్యాలెట్ బాక్స్": {
+    "replacement": "☑️",
+    "description": "check box with check"
+  },
+  "భారీ చెక్ మార్క్": { "replacement": "✔️", "description": "check mark" },
+  "x": { "replacement": "❌", "description": "cross mark" },
+  "ప్రతికూల స్క్వేర్డ్ క్రాస్ మార్క్": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "కర్లీ లూప్": { "replacement": "➰", "description": "curly loop" },
+  "లూప్": { "replacement": "➿", "description": "double curly loop" },
+  "భాగం ప్రత్యామ్నాయ గుర్తు": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "ఎనిమిది స్పోక్డ్ ఆస్టరిస్క్": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "ఎనిమిది పాయింటెడ్ బ్లాక్ స్టార్": {
+    "replacement": "✴️",
+    "description": "eight-pointed star"
+  },
+  "మరుపు": { "replacement": "❇️", "description": "sparkle" },
+  "కాపీరైట్": { "replacement": "©️", "description": "copyright" },
+  "నమోదు చేయబడింది": { "replacement": "®️", "description": "registered" },
+  "tm": { "replacement": "™️", "description": "trade mark" },
+  "హాష్": { "replacement": "#️⃣", "description": "keycap: #" },
+  "తారకం": { "replacement": "*️⃣", "description": "keycap: *" },
+  "సున్నా": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "ఒకటి": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "రెండు": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "మూడు": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "నాలుగు": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "ఐదు": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "ఆరు": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "ఏడు": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "ఎనిమిది": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "తొమ్మిది": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "కీక్యాప్ పది": { "replacement": "🔟", "description": "keycap: 10" },
+  "మూలధనం abcd": {
+    "replacement": "🔠",
+    "description": "input latin uppercase"
+  },
+  "ఎ బి సి డి": { "replacement": "🔡", "description": "input latin lowercase" },
+  "చిహ్నాలు": { "replacement": "🔣", "description": "input symbols" },
+  "abc": { "replacement": "🔤", "description": "input latin letters" },
+  "a": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "ab": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "బి": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "cl": { "replacement": "🆑", "description": "CL button" },
+  "బాగుంది": { "replacement": "🆒", "description": "COOL button" },
+  "ఉచితం": { "replacement": "🆓", "description": "FREE button" },
+  "సమాచార మూలం": { "replacement": "ℹ️", "description": "information" },
+  "id": { "replacement": "🆔", "description": "ID button" },
+  "m": { "replacement": "Ⓜ️", "description": "circled M" },
+  "క్రొత్తది": { "replacement": "🆕", "description": "NEW button" },
+  "ng": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "అలాగే": { "replacement": "🆗", "description": "OK button" },
+  "పార్కింగ్": { "replacement": "🅿️", "description": "P button" },
+  "sos": { "replacement": "🆘", "description": "SOS button" },
+  "పైకి": { "replacement": "🆙", "description": "UP! button" },
+  "వర్సెస్": { "replacement": "🆚", "description": "VS button" },
+  "కోకో": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "sa": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "ఐడియోగ్రాఫ్ ప్రయోజనం": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "అంగీకరించండి": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "అభినందనలు": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "రహస్యం": { "replacement": "㊙️", "description": "Japanese “secret” button" },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "ఎరుపు వృత్తం": { "replacement": "🔴", "description": "red circle" },
+  "నారింజ వృత్తం": { "replacement": "🟠", "description": "orange circle" },
+  "పసుపు వృత్తం": { "replacement": "🟡", "description": "yellow circle" },
+  "ఆకుపచ్చ వృత్తం": { "replacement": "🟢", "description": "green circle" },
+  "పెద్ద నీలం వృత్తం": { "replacement": "🔵", "description": "blue circle" },
+  "pur దా వృత్తం": { "replacement": "🟣", "description": "purple circle" },
+  "గోధుమ వృత్తం": { "replacement": "🟤", "description": "brown circle" },
+  "నల్ల వృత్తం": { "replacement": "⚫", "description": "black circle" },
+  "తెలుపు వృత్తం": { "replacement": "⚪", "description": "white circle" },
+  "ఎరుపు చతుర్భుజం": { "replacement": "🟥", "description": "red square" },
+  "నారింజ చదరపు": { "replacement": "🟧", "description": "orange square" },
+  "పసుపు చదరపు": { "replacement": "🟨", "description": "yellow square" },
+  "ఆకుపచ్చ చదరపు": { "replacement": "🟩", "description": "green square" },
+  "నీలం చదరపు": { "replacement": "🟦", "description": "blue square" },
+  "ple దా చదరపు": { "replacement": "🟪", "description": "purple square" },
+  "గోధుమ చదరపు": { "replacement": "🟫", "description": "brown square" },
+  "నలుపు పెద్ద చదరపు": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "తెలుపు పెద్ద చదరపు": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "బ్లాక్ మీడియం స్క్వేర్": {
+    "replacement": "◼️",
+    "description": "black medium square"
+  },
+  "తెలుపు మధ్యస్థ చదరపు": {
+    "replacement": "◻️",
+    "description": "white medium square"
+  },
+  "బ్లాక్ మీడియం చిన్న చదరపు": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "తెలుపు మధ్యస్థ చిన్న చదరపు": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "నలుపు చిన్న చదరపు": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "తెలుపు చిన్న చదరపు": {
+    "replacement": "▫️",
+    "description": "white small square"
+  },
+  "పెద్ద నారింజ వజ్రం": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "పెద్ద నీలం వజ్రం": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "చిన్న నారింజ వజ్రం": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "చిన్న నీలం వజ్రం": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "చిన్న ఎరుపు త్రిభుజం": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "చిన్న ఎరుపు త్రిభుజం క్రిందికి": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "లోపల చుక్కతో వజ్రాల ఆకారం": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "రేడియో బటన్": { "replacement": "🔘", "description": "radio button" },
+  "తెలుపు చదరపు బటన్": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "బ్లాక్ స్క్వేర్ బటన్": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "తనిఖీ చేసిన జెండా": { "replacement": "🏁", "description": "chequered flag" },
+  "పోస్ట్‌లో త్రిభుజాకార జెండా": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "జెండాలు దాటింది": { "replacement": "🎌", "description": "crossed flags" },
+  "నల్ల జండా": { "replacement": "🏴", "description": "black flag" },
+  "తెల్ల జెండా": { "replacement": "🏳️", "description": "white flag" },
+  "ఇంద్రధనస్సు జెండా": { "replacement": "🏳️‍🌈", "description": "rainbow flag" },
+  "లింగమార్పిడి జెండా": {
+    "replacement": "🏳️‍⚧️",
+    "description": "transgender flag"
+  },
+  "పైరేట్ జెండా": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "ఆరోహణ ద్వీపం": {
+    "replacement": "🇦🇨",
+    "description": "flag: Ascension Island"
+  },
+  "andorra": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "యునైటెడ్ అరబ్ ఎమిరేట్స్": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "ఆఫ్ఘనిస్తాన్": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "ఆంటిగ్వా బార్బుడా": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "అంగుల్లా": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "అల్బేనియా": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "అర్మేనియా": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "అంగోలా": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "అంటార్కిటికా": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "అర్జెంటినా": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "అమెరికన్ సమోవా": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "ఆస్ట్రియా": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "ఆస్ట్రేలియా": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "అరుబా": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "అలండ్ దీవులు": { "replacement": "🇦🇽", "description": "flag: Åland Islands" },
+  "అజర్‌బైజాన్": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "బోస్నియా హెర్జెగోవినా": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "బార్బడోస్": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "బంగ్లాదేశ్": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "బెల్జియం": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "బుర్కినా ఫాసో": { "replacement": "🇧🇫", "description": "flag: Burkina Faso" },
+  "బల్గేరియా": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "బహ్రెయిన్": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "బురుండి": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "బెనిన్": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "st barthelemy": {
+    "replacement": "🇧🇱",
+    "description": "flag: St. Barthélemy"
+  },
+  "బెర్ముడా": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "బ్రూనై": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "బొలీవియా": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "కరేబియన్ నెదర్లాండ్స్": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "బ్రెజిల్": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "బహామాస్": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "భూటాన్": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "బౌవెట్ ద్వీపం": {
+    "replacement": "🇧🇻",
+    "description": "flag: Bouvet Island"
+  },
+  "బోట్స్వానా": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "బెలారస్": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "బెలిజ్": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "కెనడా": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "కోకోస్ దీవులు": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "congo kinshasa": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "సెంట్రల్ ఆఫ్రికన్ రిపబ్లిక్": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "కాంగో బ్రజ్జావిల్లే": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "స్విట్జర్లాండ్": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "కోట్ డివోయిర్": {
+    "replacement": "🇨🇮",
+    "description": "flag: Côte d’Ivoire"
+  },
+  "ద్వీపాలను ఉడికించాలి": {
+    "replacement": "🇨🇰",
+    "description": "flag: Cook Islands"
+  },
+  "చిలీ": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "కామెరూన్": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "cn": { "replacement": "🇨🇳", "description": "flag: China" },
+  "కొలంబియా": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "క్లిప్పర్టన్ ద్వీపం": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "కోస్టా రికా": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "క్యూబా": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "కేప్ వర్దె": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "curacao": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "క్రిస్మస్ ద్వీపం": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "సైప్రస్": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "చెక్ రిపబ్లిక్": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "డి": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "డియెగో గార్సియా": {
+    "replacement": "🇩🇬",
+    "description": "flag: Diego Garcia"
+  },
+  "djibouti": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "డెన్మార్క్": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "డొమినికా": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "డొమినికన్ రిపబ్లిక్": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "అల్జీరియా": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "ceuta melilla": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "ఈక్వెడార్": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "ఎస్టోనియా": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "ఈజిప్ట్": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "పశ్చిమ సహారా": {
+    "replacement": "🇪🇭",
+    "description": "flag: Western Sahara"
+  },
+  "ఎరిట్రియా": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "ఎస్": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "ఇథియోపియా": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "ఈయు": { "replacement": "🇪🇺", "description": "flag: European Union" },
+  "ఫిన్లాండ్": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "ఫిజి": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "ఫాక్లాండ్ దీవులు": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "మైక్రోనేషియా": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "ఫారో దీవులు": { "replacement": "🇫🇴", "description": "flag: Faroe Islands" },
+  "fr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "గాబన్": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "gb": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "గ్రెనడా": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "జార్జియా": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "ఫ్రెంచ్ గయానా": {
+    "replacement": "🇬🇫",
+    "description": "flag: French Guiana"
+  },
+  "గ్వెర్న్సీ": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "ఘనా": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "జిబ్రాల్టర్": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "గ్రీన్లాండ్": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "గాంబియా": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "గినియా": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "గ్వాడెలోప్": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "ఈక్వటోరియల్ గినియా": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "గ్రీస్": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "దక్షిణ జార్జియా దక్షిణ శాండ్విచ్ దీవులు": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "గ్వాటెమాల": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "గువామ్": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "గినియా బిస్సా": {
+    "replacement": "🇬🇼",
+    "description": "flag: Guinea-Bissau"
+  },
+  "గయానా": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "హాంగ్ కొంగ": {
+    "replacement": "🇭🇰",
+    "description": "flag: Hong Kong SAR China"
+  },
+  "విన్న mcdonald ద్వీపాలు": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "హోండురాస్": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "క్రొయేషియా": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "హైతీ": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "ఆకలితో": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "కానరీ ద్వీపాలు": {
+    "replacement": "🇮🇨",
+    "description": "flag: Canary Islands"
+  },
+  "ఇండోనేషియా": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "ఐర్లాండ్": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "ఇస్రాయెల్": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "మనిషి ద్వీపం": { "replacement": "🇮🇲", "description": "flag: Isle of Man" },
+  "భారతదేశం": { "replacement": "🇮🇳", "description": "flag: India" },
+  "బ్రిటిష్ భారతీయ సముద్ర భూభాగం": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "ఇరాక్": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "ఇరాన్": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "ఐస్లాండ్": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "అది": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "జెర్సీ": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "జమైకా": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "జోర్డాన్": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "jp": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "కెన్యా": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "కిర్గిజ్స్తాన్": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "కంబోడియా": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "కిరిబాటి": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "comoros": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "st కిట్స్ నెవిస్": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "ఉత్తర కొరియ": { "replacement": "🇰🇵", "description": "flag: North Korea" },
+  "kr": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "కువైట్": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "కేమాన్ దీవులు": {
+    "replacement": "🇰🇾",
+    "description": "flag: Cayman Islands"
+  },
+  "కజాఖ్స్తాన్": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "లావోస్": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "లెబనాన్": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "st లూసియా": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "లైచ్టెన్స్టెయిన్": {
+    "replacement": "🇱🇮",
+    "description": "flag: Liechtenstein"
+  },
+  "శ్రీలంక": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "లైబీరియా": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "లెసోతో": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "లిథువేనియా": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "లక్సెంబర్గ్": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "లాట్వియా": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "లిబ్యా": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "మొరాకో": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "మొనాకో": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "మోల్డోవా": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "మోంటెనెగ్రో": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "స్టంప్ మార్టిన్": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "మడగాస్కర్": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "మార్షల్ దీవులు": {
+    "replacement": "🇲🇭",
+    "description": "flag: Marshall Islands"
+  },
+  "మాసిడోనియా": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "మాలి": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "మయన్మార్": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "మంగోలియా": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "మకావు": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "ఉత్తర మరియానా దీవులు": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "మార్టినిక్": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "మౌరిటానియా": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "montserrat": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "మాల్టా": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "మారిషస్": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "మాల్దీవులు": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "మాలావి": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "మెక్సికో": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "మలేషియా": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "మొజాంబిక్": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "నమీబియా": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "కొత్త కాలెడోనియా": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "నైగర్": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "నార్ఫోక్ ద్వీపం": {
+    "replacement": "🇳🇫",
+    "description": "flag: Norfolk Island"
+  },
+  "నైజీరియా": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "నికరాగువా": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "నెదర్లాండ్స్": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "నార్వే": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "నేపాల్": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "నౌరు": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "niue": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "న్యూజిలాండ్": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "ఒమన్": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "పనామా": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "పెరూ": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "ఫ్రెంచ్ పాలినేషియా": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "పాపువా న్యూ గినియా": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "ఫిలిప్పైన్స్": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "పాకిస్తాన్": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "పోలాండ్": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "స్టంప్ పియరీ మిక్వెలాన్": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "పిట్కైర్న్ దీవులు": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "ప్యూర్టో రికో": { "replacement": "🇵🇷", "description": "flag: Puerto Rico" },
+  "పాలస్తీనా భూభాగాలు": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "పోర్చుగల్": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "పలావు": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "పరాగ్వే": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "ఖతార్": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "పున un కలయిక": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "రొమేనియా": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "సెర్బియా": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "రు": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "రువాండా": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "సౌదీ అరేబియా": { "replacement": "🇸🇦", "description": "flag: Saudi Arabia" },
+  "సోలమన్ దీవులు": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "సీషెల్స్": { "replacement": "🇸🇨", "description": "flag: Seychelles" },
+  "సుడాన్": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "sweden": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "సింగపూర్": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "సెయింట్ హెలెనా": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "స్లోవేనియా": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "svalbard jan mayen": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "స్లోవేకియా": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "సియర్రా లియోన్": {
+    "replacement": "🇸🇱",
+    "description": "flag: Sierra Leone"
+  },
+  "శాన్ మారినో": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "సెనెగల్": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "సోమాలియా": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "సురినామ్": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "దక్షిణ సుడాన్": { "replacement": "🇸🇸", "description": "flag: South Sudan" },
+  "సావో టోమ్ ప్రిన్సిపీ": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "ఎల్ సల్వడార్": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "సింట్ మార్టెన్": {
+    "replacement": "🇸🇽",
+    "description": "flag: Sint Maarten"
+  },
+  "సిరియా": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "స్వాజిలాండ్": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "tristan da cunha": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "టర్క్స్ కైకోస్ దీవులు": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "చాడ్": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "ఫ్రెంచ్ దక్షిణ భూభాగాలు": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "వెళ్ళడానికి": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "థాయిలాండ్": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "తజికిస్తాన్": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "tokelau": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "timor leste": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "తుర్క్మెనిస్తాన్": {
+    "replacement": "🇹🇲",
+    "description": "flag: Turkmenistan"
+  },
+  "ట్యునీషియా": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "టోంగా": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "tr": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "ట్రినిడాడ్ టొబాగో": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "tuvalu": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "తైవాన్": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "టాంజానియా": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "ఉక్రెయిన్": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "ఉగాండా": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "మాకు బయటి ద్వీపాలు": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "ఐక్యరాజ్యసమితి": {
+    "replacement": "🇺🇳",
+    "description": "flag: United Nations"
+  },
+  "మాకు": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "ఉరుగ్వే": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "ఉజ్బెకిస్తాన్": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "వాటికన్ నగరం": { "replacement": "🇻🇦", "description": "flag: Vatican City" },
+  "స్టంప్ విన్సెంట్ గ్రెనడిన్స్": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "వెనిజులా": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "బ్రిటిష్ వర్జిన్ దీవులు": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "మాకు వర్జిన్ దీవులు": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "వియత్నాం": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "vanuatu": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "wallis futuna": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "సమోవా": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "కొసోవో": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "యెమెన్": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "మయోట్టే": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "దక్షిణ ఆఫ్రికా": {
+    "replacement": "🇿🇦",
+    "description": "flag: South Africa"
+  },
+  "జాంబియా": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "జింబాబ్వే": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "ఇంగ్లాండ్": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "స్కాట్లాండ్": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "వేల్స్": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

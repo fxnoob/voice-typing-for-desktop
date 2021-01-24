@@ -1,0 +1,2553 @@
+{
+  "7": { "replacement": "🕖", "description": "seven o’clock" },
+  "11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "330": { "replacement": "🕞", "description": "three-thirty" },
+  "1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "מגחך": { "replacement": "😀", "description": "grinning face" },
+  "סמיילי": {
+    "replacement": "😃",
+    "description": "grinning face with big eyes"
+  },
+  "חיוך": {
+    "replacement": "😄",
+    "description": "grinning face with smiling eyes"
+  },
+  "לְגַחֵך": {
+    "replacement": "😁",
+    "description": "beaming face with smiling eyes"
+  },
+  "צוחק": { "replacement": "😆", "description": "grinning squinting face" },
+  "חיוך זיעה": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "שִׂמְחָה": { "replacement": "😂", "description": "face with tears of joy" },
+  "פרצוף מחייך מעט": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "פנים הפוכות": { "replacement": "🙃", "description": "upside-down face" },
+  "קְרִיצָה": { "replacement": "😉", "description": "winking face" },
+  "לְהַסמִיק": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "חף מפשע": { "replacement": "😇", "description": "smiling face with halo" },
+  "פנים מחייכות עם שלושה לבבות": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "עיני לב": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "כוכב היכה": { "replacement": "🤩", "description": "star-struck" },
+  "לב מתנשק": { "replacement": "😘", "description": "face blowing a kiss" },
+  "נשיקות": { "replacement": "😗", "description": "kissing face" },
+  "רָגוּעַ": { "replacement": "☺️", "description": "smiling face" },
+  "מנשקים בעיניים עצומות": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "מנשק עיניים מחייכות": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "פנים מחייכות עם דמעות": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "יאם": { "replacement": "😋", "description": "face savoring food" },
+  "בלטה את הלשון": { "replacement": "😛", "description": "face with tongue" },
+  "לשון בחוץ עין קורצת": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "פנים עצומות": { "replacement": "🤪", "description": "zany face" },
+  "לשון בחוץ עיניים סגורות": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "פנים בפה כסף": { "replacement": "🤑", "description": "money-mouth face" },
+  "חיבוקים": { "replacement": "🤗", "description": "hugging face" },
+  "יד על פה": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "פרצוף מטלטל": { "replacement": "🤫", "description": "shushing face" },
+  "חושב": { "replacement": "🤔", "description": "thinking face" },
+  "פנים בפה רוכסן": { "replacement": "🤐", "description": "zipper-mouth face" },
+  "גבה מורמת": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "פנים ניטרליות": { "replacement": "😐", "description": "neutral face" },
+  "חסר הבעה": { "replacement": "😑", "description": "expressionless face" },
+  "אין פה": { "replacement": "😶", "description": "face without mouth" },
+  "חִיוּך מְעוּשֶׂה": { "replacement": "😏", "description": "smirking face" },
+  "לא משועשע": { "replacement": "😒", "description": "unamused face" },
+  "לגלגל עיניים": {
+    "replacement": "🙄",
+    "description": "face with rolling eyes"
+  },
+  "מעווה פנים": { "replacement": "😬", "description": "grimacing face" },
+  "פנים שוכבות": { "replacement": "🤥", "description": "lying face" },
+  "הוקל": { "replacement": "😌", "description": "relieved face" },
+  "מְהוּרהָר": { "replacement": "😔", "description": "pensive face" },
+  "מְנוּמנָם": { "replacement": "😪", "description": "sleepy face" },
+  "ריר פנים": { "replacement": "🤤", "description": "drooling face" },
+  "יָשֵׁן": { "replacement": "😴", "description": "sleeping face" },
+  "מסכה": { "replacement": "😷", "description": "face with medical mask" },
+  "פנים עם מדחום": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "פנים עם תחבושת ראש": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "פנים בחילה": { "replacement": "🤢", "description": "nauseated face" },
+  "פנים מקיאות": { "replacement": "🤮", "description": "face vomiting" },
+  "פנים מתעטשים": { "replacement": "🤧", "description": "sneezing face" },
+  "פנים לוהטות": { "replacement": "🥵", "description": "hot face" },
+  "פנים קרות": { "replacement": "🥶", "description": "cold face" },
+  "פרצוף מפחיד": { "replacement": "🥴", "description": "woozy face" },
+  "פנים סחרחורות": { "replacement": "😵", "description": "dizzy face" },
+  "ראש מתפוצץ": { "replacement": "🤯", "description": "exploding head" },
+  "פנים של כובע בוקרים": {
+    "replacement": "🤠",
+    "description": "cowboy hat face"
+  },
+  "פנים מסיבות": { "replacement": "🥳", "description": "partying face" },
+  "פנים מוסוות": { "replacement": "🥸", "description": "disguised face" },
+  "מישקפי שמש": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "פרצוף חנון": { "replacement": "🤓", "description": "nerd face" },
+  "פנים מונוקל": { "replacement": "🧐", "description": "face with monocle" },
+  "מְבוּלבָּל": { "replacement": "😕", "description": "confused face" },
+  "מוּדְאָג": { "replacement": "😟", "description": "worried face" },
+  "פרצוף מזעף מעט פנים": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "פרצוף זועף": { "replacement": "☹️", "description": "frowning face" },
+  "פה פתוח": { "replacement": "😮", "description": "face with open mouth" },
+  "מהומה": { "replacement": "😯", "description": "hushed face" },
+  "מוּפתָע": { "replacement": "😲", "description": "astonished face" },
+  "סמוק": { "replacement": "😳", "description": "flushed face" },
+  "פנים מתחננות": { "replacement": "🥺", "description": "pleading face" },
+  "זועף פנים": {
+    "replacement": "😦",
+    "description": "frowning face with open mouth"
+  },
+  "ייסורים": { "replacement": "😧", "description": "anguished face" },
+  "חוֹשֵׁשׁ": { "replacement": "😨", "description": "fearful face" },
+  "זיעה קרה": { "replacement": "😰", "description": "anxious face with sweat" },
+  "מאוכזב הקלה": {
+    "replacement": "😥",
+    "description": "sad but relieved face"
+  },
+  "בוכה": { "replacement": "😢", "description": "crying face" },
+  "בֶּן כַּלבָּה": { "replacement": "😭", "description": "loudly crying face" },
+  "לִצְרוֹחַ": { "replacement": "😱", "description": "face screaming in fear" },
+  "התבלבל": { "replacement": "😖", "description": "confounded face" },
+  "להתמיד": { "replacement": "😣", "description": "persevering face" },
+  "מְאוּכזָב": { "replacement": "😞", "description": "disappointed face" },
+  "לְהָזִיעַ": {
+    "replacement": "😓",
+    "description": "downcast face with sweat"
+  },
+  "לְהַלאוֹת": { "replacement": "😩", "description": "weary face" },
+  "פנים עייפות": { "replacement": "😫", "description": "tired face" },
+  "פנים מפהקות": { "replacement": "🥱", "description": "yawning face" },
+  "נצחון": { "replacement": "😤", "description": "face with steam from nose" },
+  "זעם": { "replacement": "😡", "description": "pouting face" },
+  "כּוֹעֵס": { "replacement": "😠", "description": "angry face" },
+  "פנים מקללים": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "imp מחייך": {
+    "replacement": "😈",
+    "description": "smiling face with horns"
+  },
+  "שֵׁד": { "replacement": "👿", "description": "angry face with horns" },
+  "גולגולת": { "replacement": "💀", "description": "skull" },
+  "גולגולת ועצמות": {
+    "replacement": "☠️",
+    "description": "skull and crossbones"
+  },
+  "האנקי": { "replacement": "💩", "description": "pile of poo" },
+  "פרצוף ליצן": { "replacement": "🤡", "description": "clown face" },
+  "אוגר יפני": { "replacement": "👹", "description": "ogre" },
+  "גובלין יפני": { "replacement": "👺", "description": "goblin" },
+  "רוּחַ": { "replacement": "👻", "description": "ghost" },
+  "חייזר": { "replacement": "👽", "description": "alien" },
+  "פולש חלל": { "replacement": "👾", "description": "alien monster" },
+  "רוֹבּוֹט": { "replacement": "🤖", "description": "robot" },
+  "חתול סמיילי": { "replacement": "😺", "description": "grinning cat" },
+  "חתול חיוך": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "חתול שמחה": { "replacement": "😹", "description": "cat with tears of joy" },
+  "חתול עיני לב": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "חתול מגחך": { "replacement": "😼", "description": "cat with wry smile" },
+  "חתול מנשק": { "replacement": "😽", "description": "kissing cat" },
+  "חתול צורח": { "replacement": "🙀", "description": "weary cat" },
+  "פני חתול בוכים": { "replacement": "😿", "description": "crying cat" },
+  "חתול משתובב": { "replacement": "😾", "description": "pouting cat" },
+  "אל תראה רוע": { "replacement": "🙈", "description": "see-no-evil monkey" },
+  "לא לשמוע שום רע": {
+    "replacement": "🙉",
+    "description": "hear-no-evil monkey"
+  },
+  "אל תדבר דברי רוע": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "נְשִׁיקָה": { "replacement": "💋", "description": "kiss mark" },
+  "מכתב אהבה": { "replacement": "💌", "description": "love letter" },
+  "קוּפִּידוֹן": { "replacement": "💘", "description": "heart with arrow" },
+  "לב מתנה": { "replacement": "💝", "description": "heart with ribbon" },
+  "לב נוצץ": { "replacement": "💖", "description": "sparkling heart" },
+  "דופק לב": { "replacement": "💓", "description": "beating heart" },
+  "לבבות מסתובבים": { "replacement": "💞", "description": "revolving hearts" },
+  "שני לבבות": { "replacement": "💕", "description": "two hearts" },
+  "קישוט לב": { "replacement": "💟", "description": "heart decoration" },
+  "קריאת לב כבדה": { "replacement": "❣️", "description": "heart exclamation" },
+  "לב שבור": { "replacement": "💔", "description": "broken heart" },
+  "לֵב": { "replacement": "❤️", "description": "red heart" },
+  "לב כתום": { "replacement": "🧡", "description": "orange heart" },
+  "לב צהוב": { "replacement": "💛", "description": "yellow heart" },
+  "לב ירוק": { "replacement": "💚", "description": "green heart" },
+  "לב כחול": { "replacement": "💙", "description": "blue heart" },
+  "לב סגול": { "replacement": "💜", "description": "purple heart" },
+  "לב חום": { "replacement": "🤎", "description": "brown heart" },
+  "לב שחור": { "replacement": "🖤", "description": "black heart" },
+  "לב לבן": { "replacement": "🤍", "description": "white heart" },
+  "כַּעַס": { "replacement": "💢", "description": "anger symbol" },
+  "בּוּם": { "replacement": "💥", "description": "collision" },
+  "סְחַרחַר": { "replacement": "💫", "description": "dizzy" },
+  "טיפות זיעה": { "replacement": "💦", "description": "sweat droplets" },
+  "לזנק": { "replacement": "💨", "description": "dashing away" },
+  "חור": { "replacement": "🕳️", "description": "hole" },
+  "פְּצָצָה": { "replacement": "💣", "description": "bomb" },
+  "בלון דיבור": { "replacement": "💬", "description": "speech balloon" },
+  "בועת דיבור בעין": {
+    "replacement": "👁️‍🗨️",
+    "description": "eye in speech bubble"
+  },
+  "עזבה בועת דיבור": {
+    "replacement": "🗨️",
+    "description": "left speech bubble"
+  },
+  "בועת כעס נכונה": {
+    "replacement": "🗯️",
+    "description": "right anger bubble"
+  },
+  "חשב בלון": { "replacement": "💭", "description": "thought balloon" },
+  "zzz": { "replacement": "💤", "description": "zzz" },
+  "גַל": { "replacement": "👋", "description": "waving hand" },
+  "מורם יד יד": { "replacement": "🤚", "description": "raised back of hand" },
+  "יד מורמת עם אצבעות מפוזרות": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "יד": { "replacement": "✋", "description": "raised hand" },
+  "הצדעה וולקנית": { "replacement": "🖖", "description": "vulcan salute" },
+  "יד בסדר": { "replacement": "👌", "description": "OK hand" },
+  "אצבעות צבטות": { "replacement": "🤌", "description": "pinched fingers" },
+  "יד צובטת": { "replacement": "🤏", "description": "pinching hand" },
+  "v": { "replacement": "✌️", "description": "victory hand" },
+  "אצבעות משולבות": { "replacement": "🤞", "description": "crossed fingers" },
+  "אוהב אותך מחווה": { "replacement": "🤟", "description": "love-you gesture" },
+  "מַתֶכֶת": { "replacement": "🤘", "description": "sign of the horns" },
+  "תקרא לי יד": { "replacement": "🤙", "description": "call me hand" },
+  "נקודה שמאלה": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "נקודה ימינה": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "להצביע למעלה 2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "האצבע האמצעית": { "replacement": "🖕", "description": "middle finger" },
+  "להצביע למטה": {
+    "replacement": "👇",
+    "description": "backhand index pointing down"
+  },
+  "להצביע": { "replacement": "☝️", "description": "index pointing up" },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "אגרוף מורם": { "replacement": "✊", "description": "raised fist" },
+  "אגרוף מתקרב": { "replacement": "👊", "description": "oncoming fist" },
+  "אגרוף שמאל": { "replacement": "🤛", "description": "left-facing fist" },
+  "אגרוף ימינה": { "replacement": "🤜", "description": "right-facing fist" },
+  "לִטפּוֹחַ": { "replacement": "👏", "description": "clapping hands" },
+  "הרים ידיים": { "replacement": "🙌", "description": "raising hands" },
+  "ידיים פתוחות": { "replacement": "👐", "description": "open hands" },
+  "כפות הידיים יחד": {
+    "replacement": "🤲",
+    "description": "palms up together"
+  },
+  "לחיצת ידיים": { "replacement": "🤝", "description": "handshake" },
+  "לְהִתְפַּלֵל": { "replacement": "🙏", "description": "folded hands" },
+  "יד כותבת": { "replacement": "✍️", "description": "writing hand" },
+  "טיפול צפורניים": { "replacement": "💅", "description": "nail polish" },
+  "סלפי": { "replacement": "🤳", "description": "selfie" },
+  "שְׁרִיר": { "replacement": "💪", "description": "flexed biceps" },
+  "זרוע מכנית": { "replacement": "🦾", "description": "mechanical arm" },
+  "רגל מכנית": { "replacement": "🦿", "description": "mechanical leg" },
+  "רגל": { "replacement": "🦵", "description": "leg" },
+  "כף רגל": { "replacement": "🦶", "description": "foot" },
+  "אֹזֶן": { "replacement": "👂", "description": "ear" },
+  "אוזן עם מכשיר שמיעה": {
+    "replacement": "🦻",
+    "description": "ear with hearing aid"
+  },
+  "אף": { "replacement": "👃", "description": "nose" },
+  "מוֹחַ": { "replacement": "🧠", "description": "brain" },
+  "לב אנטומי": { "replacement": "🫀", "description": "anatomical heart" },
+  "ריאות": { "replacement": "🫁", "description": "lungs" },
+  "שן": { "replacement": "🦷", "description": "tooth" },
+  "עֶצֶם": { "replacement": "🦴", "description": "bone" },
+  "עיניים": { "replacement": "👀", "description": "eyes" },
+  "עַיִן": { "replacement": "👁️", "description": "eye" },
+  "לָשׁוֹן": { "replacement": "👅", "description": "tongue" },
+  "שפתיים": { "replacement": "👄", "description": "mouth" },
+  "תִינוֹק": { "replacement": "👶", "description": "baby" },
+  "יֶלֶד": { "replacement": "👦", "description": "boy" },
+  "ילדה": { "replacement": "👧", "description": "girl" },
+  "מְבוּגָר": { "replacement": "🧑", "description": "person" },
+  "אדם בלונדיני": { "replacement": "👱", "description": "person: blond hair" },
+  "איש": { "replacement": "👨", "description": "man" },
+  "אדם מזוקן": { "replacement": "🧔", "description": "man: beard" },
+  "גבר אדום שיער": { "replacement": "👨‍🦰", "description": "man: red hair" },
+  "גבר שיער מתולתל": { "replacement": "👨‍🦱", "description": "man: curly hair" },
+  "גבר לבן שיער": { "replacement": "👨‍🦳", "description": "man: white hair" },
+  "אדם קירח": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "אִשָׁה": { "replacement": "👩", "description": "woman" },
+  "אישה אדומה שיער": { "replacement": "👩‍🦰", "description": "woman: red hair" },
+  "אדם שיער אדום": {
+    "replacement": "🧑‍🦰",
+    "description": "person: red hair"
+  },
+  "אישה מתולתלת": { "replacement": "👩‍🦱", "description": "woman: curly hair" },
+  "אדם מתולתל": { "replacement": "🧑‍🦱", "description": "person: curly hair" },
+  "אישה לבנת שיער": { "replacement": "👩‍🦳", "description": "woman: white hair" },
+  "אדם לבן שיער": {
+    "replacement": "🧑‍🦳",
+    "description": "person: white hair"
+  },
+  "אישה קירחת": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "אישה בלונדינית": { "replacement": "👱‍♀️", "description": "woman: blond hair" },
+  "גבר שיער בלונדיני": {
+    "replacement": "👱‍♂️",
+    "description": "man: blond hair"
+  },
+  "מבוגר מבוגר": { "replacement": "🧓", "description": "older person" },
+  "איש מבוגר יותר": { "replacement": "👴", "description": "old man" },
+  "אישה מבוגרת": { "replacement": "👵", "description": "old woman" },
+  "אדם מזעיף פנים": { "replacement": "🙍", "description": "person frowning" },
+  "איש מצעף פנים": { "replacement": "🙍‍♂️", "description": "man frowning" },
+  "אישה מקמטת פנים": { "replacement": "🙍‍♀️", "description": "woman frowning" },
+  "פרצוף משובב": { "replacement": "🙎", "description": "person pouting" },
+  "איש תוסס": { "replacement": "🙎‍♂️", "description": "man pouting" },
+  "אישה משתלשלת": { "replacement": "🙎‍♀️", "description": "woman pouting" },
+  "לא טוב": { "replacement": "🙅", "description": "person gesturing NO" },
+  "אין איש טוב": { "replacement": "🙅‍♂️", "description": "man gesturing NO" },
+  "אין אישה טובה": { "replacement": "🙅‍♀️", "description": "woman gesturing NO" },
+  "אדם בסדר": { "replacement": "🙆", "description": "person gesturing OK" },
+  "בסדר איש": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "אישה בסדר": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "מטה אדם יד": { "replacement": "💁", "description": "person tipping hand" },
+  "איש יד מטה": { "replacement": "💁‍♂️", "description": "man tipping hand" },
+  "טיפת יד אישה": { "replacement": "💁‍♀️", "description": "woman tipping hand" },
+  "מרימים יד": { "replacement": "🙋", "description": "person raising hand" },
+  "מרים יד איש": { "replacement": "🙋‍♂️", "description": "man raising hand" },
+  "גידול אשת יד": { "replacement": "🙋‍♀️", "description": "woman raising hand" },
+  "אדם חירש": { "replacement": "🧏", "description": "deaf person" },
+  "גבר חירש": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "אישה חירשת": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "קשת": { "replacement": "🙇", "description": "person bowing" },
+  "איש קידה": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "אישה משתחווה": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "פנים": { "replacement": "🤦", "description": "person facepalming" },
+  "גבר מפנים": { "replacement": "🤦‍♂️", "description": "man facepalming" },
+  "אישה מפנה פנים": { "replacement": "🤦‍♀️", "description": "woman facepalming" },
+  "למשוך בכתף": { "replacement": "🤷", "description": "person shrugging" },
+  "גבר מושך בכתפיו": { "replacement": "🤷‍♂️", "description": "man shrugging" },
+  "אישה מושכת בכתפיה": {
+    "replacement": "🤷‍♀️",
+    "description": "woman shrugging"
+  },
+  "עובד בריאות": { "replacement": "🧑‍⚕️", "description": "health worker" },
+  "עובד בריאות האדם": {
+    "replacement": "👨‍⚕️",
+    "description": "man health worker"
+  },
+  "עובדת בריאות אישה": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "סטוּדֶנט": { "replacement": "🧑‍🎓", "description": "student" },
+  "איש סטודנט": { "replacement": "👨‍🎓", "description": "man student" },
+  "סטודנטית": { "replacement": "👩‍🎓", "description": "woman student" },
+  "מוֹרֶה": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "מורה איש": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "מורה לאישה": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "לִשְׁפּוֹט": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "איש שופט": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "שופטת אישה": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "חַקלאַי": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "איש חקלאי": { "replacement": "👨‍🌾", "description": "man farmer" },
+  "אישה חקלאית": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "לְבַשֵׁל": { "replacement": "🧑‍🍳", "description": "cook" },
+  "איש טבח": { "replacement": "👨‍🍳", "description": "man cook" },
+  "טבח אישה": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "מְכוֹנַאִי": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "איש מכונאי": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "מכונאית": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "עובד מפעל": { "replacement": "🧑‍🏭", "description": "factory worker" },
+  "איש עובד במפעל": {
+    "replacement": "👨‍🏭",
+    "description": "man factory worker"
+  },
+  "עובדת במפעל": { "replacement": "👩‍🏭", "description": "woman factory worker" },
+  "עובד משרד": { "replacement": "🧑‍💼", "description": "office worker" },
+  "איש עובד משרד": { "replacement": "👨‍💼", "description": "man office worker" },
+  "עובדת במשרד": { "replacement": "👩‍💼", "description": "woman office worker" },
+  "מַדְעָן": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "איש מדע": { "replacement": "👨‍🔬", "description": "man scientist" },
+  "אשת מדען": { "replacement": "👩‍🔬", "description": "woman scientist" },
+  "טכנולוג": { "replacement": "🧑‍💻", "description": "technologist" },
+  "איש טכנולוג": { "replacement": "👨‍💻", "description": "man technologist" },
+  "אישה טכנולוגית": {
+    "replacement": "👩‍💻",
+    "description": "woman technologist"
+  },
+  "זמרת": { "replacement": "🧑‍🎤", "description": "singer" },
+  "איש זמר": { "replacement": "👨‍🎤", "description": "man singer" },
+  "זמרת אישה": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "אמן": { "replacement": "🧑‍🎨", "description": "artist" },
+  "אמן איש": { "replacement": "👨‍🎨", "description": "man artist" },
+  "אמנית אישה": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "טַיָס": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "איש טייס": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "אישה טייסת": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "אַסטרוֹנָאוּט": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "איש אסטרונאוט": { "replacement": "👨‍🚀", "description": "man astronaut" },
+  "אסטרונאוט אישה": { "replacement": "👩‍🚀", "description": "woman astronaut" },
+  "כבאי": { "replacement": "🧑‍🚒", "description": "firefighter" },
+  "איש כבאי": { "replacement": "👨‍🚒", "description": "man firefighter" },
+  "כבאי אישה": { "replacement": "👩‍🚒", "description": "woman firefighter" },
+  "שוטר": { "replacement": "👮", "description": "police officer" },
+  "שׁוֹטֵר": { "replacement": "👮‍♂️", "description": "man police officer" },
+  "שׁוֹטֶרֶת": { "replacement": "👮‍♀️", "description": "woman police officer" },
+  "בַּלָשׁ": { "replacement": "🕵️", "description": "detective" },
+  "בלש זכר": { "replacement": "🕵️‍♂️", "description": "man detective" },
+  "בלשית נשית": { "replacement": "🕵️‍♀️", "description": "woman detective" },
+  "שומר": { "replacement": "💂‍♂️", "description": "man guard" },
+  "אשת שמירה": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "נינג'ה": { "replacement": "🥷", "description": "ninja" },
+  "עובד בניין": { "replacement": "👷", "description": "construction worker" },
+  "איש פועל בניין": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "אשת עובדת בניין": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "נסיך": { "replacement": "🤴", "description": "prince" },
+  "נסיכה": { "replacement": "👸", "description": "princess" },
+  "אדם עם טורבן": {
+    "replacement": "👳",
+    "description": "person wearing turban"
+  },
+  "איש עם טורבן": { "replacement": "👳‍♂️", "description": "man wearing turban" },
+  "אישה עם טורבן": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "איש עם גואה פי מאו": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "אישה עם מטפחת ראש": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "אדם בטוקסידו": { "replacement": "🤵", "description": "person in tuxedo" },
+  "איש בטוקסידו": { "replacement": "🤵‍♂️", "description": "man in tuxedo" },
+  "אישה בטוקסידו": { "replacement": "🤵‍♀️", "description": "woman in tuxedo" },
+  "אדם עם צעיף": { "replacement": "👰", "description": "person with veil" },
+  "איש עם הינומה": { "replacement": "👰‍♂️", "description": "man with veil" },
+  "אישה עם רעלה": { "replacement": "👰‍♀️", "description": "woman with veil" },
+  "אישה הרה": { "replacement": "🤰", "description": "pregnant woman" },
+  "הֲנָקָה": { "replacement": "🤱", "description": "breast-feeding" },
+  "אישה מאכילה תינוק": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "גבר שמאכיל תינוק": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "אדם המאכיל תינוק": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "מַלְאָך": { "replacement": "👼", "description": "baby angel" },
+  "סנטה": { "replacement": "🎅", "description": "Santa Claus" },
+  "גברת סעיף": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "סעיף mx": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "גיבור על": { "replacement": "🦸", "description": "superhero" },
+  "איש גיבור העל": { "replacement": "🦸‍♂️", "description": "man superhero" },
+  "אשת גיבורי על": { "replacement": "🦸‍♀️", "description": "woman superhero" },
+  "נבל-על": { "replacement": "🦹", "description": "supervillain" },
+  "איש נבל-על": { "replacement": "🦹‍♂️", "description": "man supervillain" },
+  "אישה נבל-על": { "replacement": "🦹‍♀️", "description": "woman supervillain" },
+  "קוסם": { "replacement": "🧙", "description": "mage" },
+  "איש קוסם": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "אישה קוסמת": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "פיות": { "replacement": "🧚", "description": "fairy" },
+  "איש פיות": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "אשת פיות": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "עַרפָּד": { "replacement": "🧛", "description": "vampire" },
+  "איש ערפד": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "אשת ערפד": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "מרפרסון": { "replacement": "🧜", "description": "merperson" },
+  "מרמן": { "replacement": "🧜‍♂️", "description": "merman" },
+  "בתולת ים": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "שֵׁדוֹן": { "replacement": "🧝", "description": "elf" },
+  "איש שדונים": { "replacement": "🧝‍♂️", "description": "man elf" },
+  "אשת שדונים": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "ג'יני": { "replacement": "🧞", "description": "genie" },
+  "איש ג'יני": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "אישה ג'ני": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "מְטוּמטָם": { "replacement": "🧟", "description": "zombie" },
+  "איש זומבים": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "אישה זומבית": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "לְעַסוֹת": { "replacement": "💆", "description": "person getting massage" },
+  "איש עיסוי": { "replacement": "💆‍♂️", "description": "man getting massage" },
+  "אישה עיסוי": { "replacement": "💆‍♀️", "description": "woman getting massage" },
+  "תִספּוֹרֶת": {
+    "replacement": "💇",
+    "description": "person getting haircut"
+  },
+  "גבר תספורת": { "replacement": "💇‍♂️", "description": "man getting haircut" },
+  "אישה תספורת": {
+    "replacement": "💇‍♀️",
+    "description": "woman getting haircut"
+  },
+  "הליכה": { "replacement": "🚶", "description": "person walking" },
+  "איש הולך": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "אישה מהלכת": { "replacement": "🚶‍♀️", "description": "woman walking" },
+  "אדם עומד": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "אישה עומדת": { "replacement": "🧍‍♀️", "description": "woman standing" },
+  "אדם כורע": { "replacement": "🧎", "description": "person kneeling" },
+  "איש כורע": { "replacement": "🧎‍♂️", "description": "man kneeling" },
+  "אישה כורעת": { "replacement": "🧎‍♀️", "description": "woman kneeling" },
+  "אדם עם מקל חיטוט": {
+    "replacement": "🧑‍🦯",
+    "description": "person with white cane"
+  },
+  "איש עם מקל חיטוט": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "אישה עם מקל חיטוט": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "אדם בכיסא גלגלים ממונע": {
+    "replacement": "🧑‍🦼",
+    "description": "person in motorized wheelchair"
+  },
+  "איש בכיסא גלגלים ממונע": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "אישה בכיסא גלגלים ממונע": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "אדם בכיסא גלגלים ידני": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "איש בכיסא גלגלים ידני": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "אישה בכיסא גלגלים ידני": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "רָץ": { "replacement": "🏃", "description": "person running" },
+  "איש רץ": { "replacement": "🏃‍♂️", "description": "man running" },
+  "אישה רצה": { "replacement": "🏃‍♀️", "description": "woman running" },
+  "אישה רוקדת": { "replacement": "💃", "description": "woman dancing" },
+  "איש רוקד": { "replacement": "🕺", "description": "man dancing" },
+  "תביעת עסקים מרחפת": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "רקדנים": { "replacement": "👯", "description": "people with bunny ears" },
+  "גברים רוקדים": { "replacement": "👯‍♂️", "description": "men with bunny ears" },
+  "נשים רוקדות": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "איש סאונה": { "replacement": "🧖‍♂️", "description": "man in steamy room" },
+  "אשת סאונה": { "replacement": "🧖‍♀️", "description": "woman in steamy room" },
+  "טיפוס": { "replacement": "🧗", "description": "person climbing" },
+  "איש מטפס": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "אישה מטפסת": { "replacement": "🧗‍♀️", "description": "woman climbing" },
+  "גידור אדם": { "replacement": "🤺", "description": "person fencing" },
+  "מרוצי סוסים": { "replacement": "🏇", "description": "horse racing" },
+  "גוֹלֵשׁ": { "replacement": "🏄", "description": "person surfing" },
+  "גולש סנובורד": { "replacement": "🏂", "description": "snowboarder" },
+  "גולף": { "replacement": "🏌️", "description": "person golfing" },
+  "איש גולף": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "אישה גולף": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "איש הגלישה": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "אישה גולשת": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "סירת משוטים": { "replacement": "🚣", "description": "person rowing boat" },
+  "איש חתירה": { "replacement": "🚣‍♂️", "description": "man rowing boat" },
+  "אישה חתירה": { "replacement": "🚣‍♀️", "description": "woman rowing boat" },
+  "שַׂחיָן": { "replacement": "🏊", "description": "person swimming" },
+  "איש שחייה": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "אישה שחייה": { "replacement": "🏊‍♀️", "description": "woman swimming" },
+  "אדם כדור מקפץ": {
+    "replacement": "⛹️",
+    "description": "person bouncing ball"
+  },
+  "איש כדור מקפץ": { "replacement": "⛹️‍♂️", "description": "man bouncing ball" },
+  "אישה כדור מקפצת": {
+    "replacement": "⛹️‍♀️",
+    "description": "woman bouncing ball"
+  },
+  "הרמת משקולות": {
+    "replacement": "🏋️",
+    "description": "person lifting weights"
+  },
+  "איש הרמת משקולות": {
+    "replacement": "🏋️‍♂️",
+    "description": "man lifting weights"
+  },
+  "אישה להרמת משקולות": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "רוכב אופניים": { "replacement": "🚴", "description": "person biking" },
+  "איש אופניים": { "replacement": "🚴‍♂️", "description": "man biking" },
+  "אישה רוכבת על אופניים": {
+    "replacement": "🚴‍♀️",
+    "description": "woman biking"
+  },
+  "אופני הרים": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "איש אופני הרים": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "אישה על אופני הרים": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "גלגל עגלה": { "replacement": "🤸", "description": "person cartwheeling" },
+  "איש גלגלים": { "replacement": "🤸‍♂️", "description": "man cartwheeling" },
+  "עגלת אישה": { "replacement": "🤸‍♀️", "description": "woman cartwheeling" },
+  "הַאָבְקוּת": { "replacement": "🤼", "description": "people wrestling" },
+  "גברים נאבקים": { "replacement": "🤼‍♂️", "description": "men wrestling" },
+  "נשים מתאבקות": { "replacement": "🤼‍♀️", "description": "women wrestling" },
+  "כדור מים": {
+    "replacement": "🤽",
+    "description": "person playing water polo"
+  },
+  "איש משחק כדורגל מים": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "אישה משחקת פולו מים": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "איש כדוריד": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "איש משחק כדוריד": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "אישה משחקת כדוריד": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "אדם שמלהטט": { "replacement": "🤹", "description": "person juggling" },
+  "איש שמלהטט": { "replacement": "🤹‍♂️", "description": "man juggling" },
+  "אישה שמלהטטת": { "replacement": "🤹‍♀️", "description": "woman juggling" },
+  "עמדת לוטוס": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "איש עמדת לוטוס": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "אישה בעמדת לוטוס": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "מֶרחָץ": { "replacement": "🛀", "description": "person taking bath" },
+  "מיטת שינה": { "replacement": "🛌", "description": "person in bed" },
+  "אנשים אוחזים ידיים": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "שתי נשים מחזיקות ידיים": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "זוּג": { "replacement": "👫", "description": "woman and man holding hands" },
+  "שני גברים מחזיקים ידיים": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "couplekiss": { "replacement": "💏", "description": "kiss" },
+  "אישה גבר couplekiss": {
+    "replacement": "👩‍❤️‍💋‍👨",
+    "description": "kiss: woman, man"
+  },
+  "איש איש couplekiss": {
+    "replacement": "👨‍❤️‍💋‍👨",
+    "description": "kiss: man, man"
+  },
+  "אישה אישה": { "replacement": "👩‍❤️‍💋‍👩", "description": "kiss: woman, woman" },
+  "זוג עם לב": { "replacement": "💑", "description": "couple with heart" },
+  "זוג עם איש אישה לב": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "זוג עם לב איש איש": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "זוג עם אישה לב": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "מִשׁפָּחָה": { "replacement": "👪", "description": "family" },
+  "איש משפחה אישה ילד": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "איש משפחה אישה ילדה": {
+    "replacement": "👨‍👩‍👧",
+    "description": "family: man, woman, girl"
+  },
+  "איש משפחה אישה ילדה נער": {
+    "replacement": "👨‍👩‍👧‍👦",
+    "description": "family: man, woman, girl, boy"
+  },
+  "איש משפחה אישה ילד ילד": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "איש משפחה אישה ילדה ילדה": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "איש משפחה איש איש": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "איש משפחה איש בחורה": {
+    "replacement": "👨‍👨‍👧",
+    "description": "family: man, man, girl"
+  },
+  "איש משפחה איש ילדה ילד": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "איש משפחה איש ילד ילד": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "איש משפחה איש ילדה ילדה": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "אשת משפחה אישה נער": {
+    "replacement": "👩‍👩‍👦",
+    "description": "family: woman, woman, boy"
+  },
+  "אשת משפחה ילדה אישה": {
+    "replacement": "👩‍👩‍👧",
+    "description": "family: woman, woman, girl"
+  },
+  "אשת משפחה אישה ילדה נער": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "אשת משפחה אישה ילד ילד": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "אשת משפחה אישה ילדה ילדה": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "ילד איש משפחה": { "replacement": "👨‍👦", "description": "family: man, boy" },
+  "איש בן משפחה ילד ילד": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "ילדה איש משפחה": { "replacement": "👨‍👧", "description": "family: man, girl" },
+  "איש משפחה ילדה ילד": {
+    "replacement": "👨‍👧‍👦",
+    "description": "family: man, girl, boy"
+  },
+  "איש משפחה ילדה ילדה": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "ילד אשת משפחה": { "replacement": "👩‍👦", "description": "family: woman, boy" },
+  "ילד ילד אשת משפחה": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "ילדת אשת משפחה": {
+    "replacement": "👩‍👧",
+    "description": "family: woman, girl"
+  },
+  "ילדת ילדה אשת משפחה": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "ילדה אשת משפחה ילדה": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "ראש מדבר": { "replacement": "🗣️", "description": "speaking head" },
+  "חזה בצללית": { "replacement": "👥", "description": "busts in silhouette" },
+  "אנשים מחבקים": { "replacement": "🫂", "description": "people hugging" },
+  "עקבות": { "replacement": "👣", "description": "footprints" },
+  "פרצוף קוף": { "replacement": "🐵", "description": "monkey face" },
+  "קוֹף": { "replacement": "🐒", "description": "monkey" },
+  "גוֹרִילָה": { "replacement": "🦍", "description": "gorilla" },
+  "אורנגאוטן": { "replacement": "🦧", "description": "orangutan" },
+  "כֶּלֶב": { "replacement": "🐶", "description": "dog face" },
+  "כלב 2": { "replacement": "🐕", "description": "dog" },
+  "כלב נחייה": { "replacement": "🦮", "description": "guide dog" },
+  "כלב שירות": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "פּוּדֵל": { "replacement": "🐩", "description": "poodle" },
+  "זְאֵב": { "replacement": "🐺", "description": "wolf" },
+  "פנים של שועל": { "replacement": "🦊", "description": "fox" },
+  "דביבון": { "replacement": "🦝", "description": "raccoon" },
+  "חתול": { "replacement": "🐱", "description": "cat face" },
+  "cat2": { "replacement": "🐈", "description": "cat" },
+  "חתול שחור": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "אַריֵה": { "replacement": "🦁", "description": "lion" },
+  "נָמֵר": { "replacement": "🐆", "description": "leopard" },
+  "נמר 2": { "replacement": "🐅", "description": "tiger" },
+  "סוּס": { "replacement": "🐴", "description": "horse face" },
+  "סוּס מֵרוֹץ": { "replacement": "🐎", "description": "horse" },
+  "חַדקֶרֶן": { "replacement": "🦄", "description": "unicorn" },
+  "זֶבּרָה": { "replacement": "🦓", "description": "zebra" },
+  "צְבִי": { "replacement": "🦌", "description": "deer" },
+  "בִּיזוֹן": { "replacement": "🦬", "description": "bison" },
+  "פָּרָה": { "replacement": "🐮", "description": "cow face" },
+  "שׁוֹר": { "replacement": "🐂", "description": "ox" },
+  "תאו מים": { "replacement": "🐃", "description": "water buffalo" },
+  "פרה 2": { "replacement": "🐄", "description": "cow" },
+  "חֲזִיר": { "replacement": "🐷", "description": "pig face" },
+  "חזיר 2": { "replacement": "🐖", "description": "pig" },
+  "חזיר בר": { "replacement": "🐗", "description": "boar" },
+  "אף חזיר": { "replacement": "🐽", "description": "pig nose" },
+  "RAM": { "replacement": "🐏", "description": "ram" },
+  "כבשים": { "replacement": "🐑", "description": "ewe" },
+  "עֵז": { "replacement": "🐐", "description": "goat" },
+  "גמל דרומדרי": { "replacement": "🐪", "description": "camel" },
+  "גָמָל": { "replacement": "🐫", "description": "two-hump camel" },
+  "לָאמָה": { "replacement": "🦙", "description": "llama" },
+  "ג'ִירָפָה": { "replacement": "🦒", "description": "giraffe" },
+  "פיל": { "replacement": "🐘", "description": "elephant" },
+  "מַמוּתָה": { "replacement": "🦣", "description": "mammoth" },
+  "קַרנַף": { "replacement": "🦏", "description": "rhinoceros" },
+  "סוּס הַיְאוֹר": { "replacement": "🦛", "description": "hippopotamus" },
+  "עכבר": { "replacement": "🐭", "description": "mouse face" },
+  "עכבר 2": { "replacement": "🐁", "description": "mouse" },
+  "עכברוש": { "replacement": "🐀", "description": "rat" },
+  "אוֹגֵר": { "replacement": "🐹", "description": "hamster" },
+  "ארנב": { "replacement": "🐰", "description": "rabbit face" },
+  "ארנב 2": { "replacement": "🐇", "description": "rabbit" },
+  "שבב": { "replacement": "🐿️", "description": "chipmunk" },
+  "בונה": { "replacement": "🦫", "description": "beaver" },
+  "קִפּוֹד": { "replacement": "🦔", "description": "hedgehog" },
+  "עטלף": { "replacement": "🦇", "description": "bat" },
+  "דוב": { "replacement": "🐻", "description": "bear" },
+  "דוב קוטב": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "קוֹאָלָה": { "replacement": "🐨", "description": "koala" },
+  "פנים פנדה": { "replacement": "🐼", "description": "panda" },
+  "עַצלוּת": { "replacement": "🦥", "description": "sloth" },
+  "לוּטרָה": { "replacement": "🦦", "description": "otter" },
+  "בּוּאֵשׁ": { "replacement": "🦨", "description": "skunk" },
+  "קנגרו": { "replacement": "🦘", "description": "kangaroo" },
+  "גִירִית": { "replacement": "🦡", "description": "badger" },
+  "רגליים": { "replacement": "🐾", "description": "paw prints" },
+  "טורקיה": { "replacement": "🦃", "description": "turkey" },
+  "עוף": { "replacement": "🐔", "description": "chicken" },
+  "תַרְנְגוֹל": { "replacement": "🐓", "description": "rooster" },
+  "אפרוח בקיעה": { "replacement": "🐣", "description": "hatching chick" },
+  "אפרוח תינוק": { "replacement": "🐤", "description": "baby chick" },
+  "אפרוח בקוע": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "ציפור": { "replacement": "🐦", "description": "bird" },
+  "פינגווין": { "replacement": "🐧", "description": "penguin" },
+  "יוֹנָה": { "replacement": "🕊️", "description": "dove" },
+  "נשר": { "replacement": "🦅", "description": "eagle" },
+  "ברווז": { "replacement": "🦆", "description": "duck" },
+  "בַּרבּוּר": { "replacement": "🦢", "description": "swan" },
+  "יַנשׁוּף": { "replacement": "🦉", "description": "owl" },
+  "דודו": { "replacement": "🦤", "description": "dodo" },
+  "נוֹצָה": { "replacement": "🪶", "description": "feather" },
+  "פלָמִינגוֹ": { "replacement": "🦩", "description": "flamingo" },
+  "טַוָס": { "replacement": "🦚", "description": "peacock" },
+  "תוּכִּי": { "replacement": "🦜", "description": "parrot" },
+  "צְפַרְדֵעַ": { "replacement": "🐸", "description": "frog" },
+  "תַנִין": { "replacement": "🐊", "description": "crocodile" },
+  "צָב": { "replacement": "🐢", "description": "turtle" },
+  "לְטָאָה": { "replacement": "🦎", "description": "lizard" },
+  "נָחָשׁ": { "replacement": "🐍", "description": "snake" },
+  "פרצוף דרקון": { "replacement": "🐲", "description": "dragon face" },
+  "דְרָקוֹן": { "replacement": "🐉", "description": "dragon" },
+  "סורופוד": { "replacement": "🦕", "description": "sauropod" },
+  "טי רקס": { "replacement": "🦖", "description": "T-Rex" },
+  "לוויתן": { "replacement": "🐳", "description": "spouting whale" },
+  "לוויתן 2": { "replacement": "🐋", "description": "whale" },
+  "דולפין": { "replacement": "🐬", "description": "dolphin" },
+  "חותם": { "replacement": "🦭", "description": "seal" },
+  "דג": { "replacement": "🐟", "description": "fish" },
+  "דג טרופי": { "replacement": "🐠", "description": "tropical fish" },
+  "דגי מכה": { "replacement": "🐡", "description": "blowfish" },
+  "כריש": { "replacement": "🦈", "description": "shark" },
+  "תמנון": { "replacement": "🐙", "description": "octopus" },
+  "צדף": { "replacement": "🐚", "description": "spiral shell" },
+  "שַׁבְּלוּל": { "replacement": "🐌", "description": "snail" },
+  "פַּרְפַּר": { "replacement": "🦋", "description": "butterfly" },
+  "חרק": { "replacement": "🐛", "description": "bug" },
+  "נְמָלָה": { "replacement": "🐜", "description": "ant" },
+  "דבורה": { "replacement": "🐝", "description": "honeybee" },
+  "חיפושית": { "replacement": "🪲", "description": "beetle" },
+  "גברת חיפושית": { "replacement": "🐞", "description": "lady beetle" },
+  "קרִיקֶט": { "replacement": "🦗", "description": "cricket" },
+  "מקק": { "replacement": "🪳", "description": "cockroach" },
+  "עַכָּבִישׁ": { "replacement": "🕷️", "description": "spider" },
+  "קורי עכביש": { "replacement": "🕸️", "description": "spider web" },
+  "עַקרָב": { "replacement": "🦂", "description": "scorpion" },
+  "יַתוּשׁ": { "replacement": "🦟", "description": "mosquito" },
+  "לטוס, זבוב": { "replacement": "🪰", "description": "fly" },
+  "תוֹלַעַת": { "replacement": "🪱", "description": "worm" },
+  "חַידַק": { "replacement": "🦠", "description": "microbe" },
+  "זר": { "replacement": "💐", "description": "bouquet" },
+  "פריחת הדובדבן": { "replacement": "🌸", "description": "cherry blossom" },
+  "פרח לבן": { "replacement": "💮", "description": "white flower" },
+  "שׁוֹשָׁן": { "replacement": "🏵️", "description": "rosette" },
+  "ורד": { "replacement": "🌹", "description": "rose" },
+  "פרח נבול": { "replacement": "🥀", "description": "wilted flower" },
+  "הִיבִּיסקוּס": { "replacement": "🌺", "description": "hibiscus" },
+  "חַמָנִית": { "replacement": "🌻", "description": "sunflower" },
+  "לִפְרוֹחַ": { "replacement": "🌼", "description": "blossom" },
+  "צִבעוֹנִי": { "replacement": "🌷", "description": "tulip" },
+  "שְׁתִיל": { "replacement": "🌱", "description": "seedling" },
+  "עציץ": { "replacement": "🪴", "description": "potted plant" },
+  "עץ ירוק עד": { "replacement": "🌲", "description": "evergreen tree" },
+  "עץ נשיר": { "replacement": "🌳", "description": "deciduous tree" },
+  "עץ דקל": { "replacement": "🌴", "description": "palm tree" },
+  "קַקטוּס": { "replacement": "🌵", "description": "cactus" },
+  "אוזן של אורז": { "replacement": "🌾", "description": "sheaf of rice" },
+  "עֵשֶׂב": { "replacement": "🌿", "description": "herb" },
+  "תלתן": { "replacement": "☘️", "description": "shamrock" },
+  "תלתן ארבעה עלים": { "replacement": "🍀", "description": "four leaf clover" },
+  "עלה מייפל": { "replacement": "🍁", "description": "maple leaf" },
+  "עלה שנפל": { "replacement": "🍂", "description": "fallen leaf" },
+  "משאיר": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "ענבים": { "replacement": "🍇", "description": "grapes" },
+  "מֵלוֹן": { "replacement": "🍈", "description": "melon" },
+  "אבטיח": { "replacement": "🍉", "description": "watermelon" },
+  "מַנדָרִינָה": { "replacement": "🍊", "description": "tangerine" },
+  "לימון": { "replacement": "🍋", "description": "lemon" },
+  "בננה": { "replacement": "🍌", "description": "banana" },
+  "אננס": { "replacement": "🍍", "description": "pineapple" },
+  "מנגו": { "replacement": "🥭", "description": "mango" },
+  "תפוח עץ": { "replacement": "🍎", "description": "red apple" },
+  "תפוח ירוק": { "replacement": "🍏", "description": "green apple" },
+  "אגס": { "replacement": "🍐", "description": "pear" },
+  "אפרסק": { "replacement": "🍑", "description": "peach" },
+  "דובדבנים": { "replacement": "🍒", "description": "cherries" },
+  "תּוּת": { "replacement": "🍓", "description": "strawberry" },
+  "אוכמניות": { "replacement": "🫐", "description": "blueberries" },
+  "פרי קיווי": { "replacement": "🥝", "description": "kiwi fruit" },
+  "עגבנייה": { "replacement": "🍅", "description": "tomato" },
+  "זית": { "replacement": "🫒", "description": "olive" },
+  "קוקוס": { "replacement": "🥥", "description": "coconut" },
+  "אבוקדו": { "replacement": "🥑", "description": "avocado" },
+  "חציל": { "replacement": "🍆", "description": "eggplant" },
+  "תפוח אדמה": { "replacement": "🥔", "description": "potato" },
+  "גזר": { "replacement": "🥕", "description": "carrot" },
+  "תירס": { "replacement": "🌽", "description": "ear of corn" },
+  "פלפל חריף": { "replacement": "🌶️", "description": "hot pepper" },
+  "גמבה": { "replacement": "🫑", "description": "bell pepper" },
+  "מלפפון": { "replacement": "🥒", "description": "cucumber" },
+  "ירוק עלים": { "replacement": "🥬", "description": "leafy green" },
+  "ברוקולי": { "replacement": "🥦", "description": "broccoli" },
+  "שום": { "replacement": "🧄", "description": "garlic" },
+  "בצל": { "replacement": "🧅", "description": "onion" },
+  "פטרייה": { "replacement": "🍄", "description": "mushroom" },
+  "בוטנים": { "replacement": "🥜", "description": "peanuts" },
+  "עַרמוֹן": { "replacement": "🌰", "description": "chestnut" },
+  "לחם": { "replacement": "🍞", "description": "bread" },
+  "קרוֹאָסוֹן": { "replacement": "🥐", "description": "croissant" },
+  "לחם בגט": { "replacement": "🥖", "description": "baguette bread" },
+  "לחם שטוח": { "replacement": "🫓", "description": "flatbread" },
+  "כַּעַך": { "replacement": "🥯", "description": "bagel" },
+  "פנקייקים": { "replacement": "🥞", "description": "pancakes" },
+  "וַפל": { "replacement": "🧇", "description": "waffle" },
+  "גבינה": { "replacement": "🧀", "description": "cheese wedge" },
+  "בשר על העצם": { "replacement": "🍖", "description": "meat on bone" },
+  "רגל עופות": { "replacement": "🍗", "description": "poultry leg" },
+  "חתך בשר": { "replacement": "🥩", "description": "cut of meat" },
+  "בייקון": { "replacement": "🥓", "description": "bacon" },
+  "המבורגר": { "replacement": "🍔", "description": "hamburger" },
+  "צ'יפס": { "replacement": "🍟", "description": "french fries" },
+  "פיצה": { "replacement": "🍕", "description": "pizza" },
+  "נקניקיה": { "replacement": "🌭", "description": "hot dog" },
+  "כריך": { "replacement": "🥪", "description": "sandwich" },
+  "טאקו": { "replacement": "🌮", "description": "taco" },
+  "בוריטו": { "replacement": "🌯", "description": "burrito" },
+  "טמלה": { "replacement": "🫔", "description": "tamale" },
+  "לחם שטוח ממולא": { "replacement": "🥙", "description": "stuffed flatbread" },
+  "פלאפל": { "replacement": "🧆", "description": "falafel" },
+  "ביצה": { "replacement": "🥚", "description": "egg" },
+  "ביצה מטוגנת": { "replacement": "🍳", "description": "cooking" },
+  "מחבת אוכל רדודה": {
+    "replacement": "🥘",
+    "description": "shallow pan of food"
+  },
+  "נזיד": { "replacement": "🍲", "description": "pot of food" },
+  "תַרבִּיך גְבִינָה": { "replacement": "🫕", "description": "fondue" },
+  "קערה עם כף": { "replacement": "🥣", "description": "bowl with spoon" },
+  "סלט ירוק": { "replacement": "🥗", "description": "green salad" },
+  "פופקורן": { "replacement": "🍿", "description": "popcorn" },
+  "חמאה": { "replacement": "🧈", "description": "butter" },
+  "מלח": { "replacement": "🧂", "description": "salt" },
+  "מזון משומר": { "replacement": "🥫", "description": "canned food" },
+  "בנטו": { "replacement": "🍱", "description": "bento box" },
+  "פריכית אורז": { "replacement": "🍘", "description": "rice cracker" },
+  "כדור אורז": { "replacement": "🍙", "description": "rice ball" },
+  "אורז": { "replacement": "🍚", "description": "cooked rice" },
+  "קָארִי": { "replacement": "🍛", "description": "curry rice" },
+  "ראמן": { "replacement": "🍜", "description": "steaming bowl" },
+  "ספגטי": { "replacement": "🍝", "description": "spaghetti" },
+  "בטטה": { "replacement": "🍠", "description": "roasted sweet potato" },
+  "אודן": { "replacement": "🍢", "description": "oden" },
+  "סושי": { "replacement": "🍣", "description": "sushi" },
+  "שרימפ מטוגן": { "replacement": "🍤", "description": "fried shrimp" },
+  "עוגת דגים": { "replacement": "🍥", "description": "fish cake with swirl" },
+  "עוגת ירח": { "replacement": "🥮", "description": "moon cake" },
+  "דנגו": { "replacement": "🍡", "description": "dango" },
+  "כּוּפתָה": { "replacement": "🥟", "description": "dumpling" },
+  "עוגיית מזל": { "replacement": "🥠", "description": "fortune cookie" },
+  "תיבת הוצאה": { "replacement": "🥡", "description": "takeout box" },
+  "סרטן": { "replacement": "🦀", "description": "crab" },
+  "לובסטר": { "replacement": "🦞", "description": "lobster" },
+  "שרימפ": { "replacement": "🦐", "description": "shrimp" },
+  "דיונון": { "replacement": "🦑", "description": "squid" },
+  "צִדפָּה": { "replacement": "🦪", "description": "oyster" },
+  "גלידה": { "replacement": "🍨", "description": "ice cream" },
+  "קרח מגולח": { "replacement": "🍧", "description": "shaved ice" },
+  "סופגניה": { "replacement": "🍩", "description": "doughnut" },
+  "עוגייה": { "replacement": "🍪", "description": "cookie" },
+  "יום הולדת": { "replacement": "🎂", "description": "birthday cake" },
+  "עוגה": { "replacement": "🍰", "description": "shortcake" },
+  "קאפקייק": { "replacement": "🧁", "description": "cupcake" },
+  "פַּאִי": { "replacement": "🥧", "description": "pie" },
+  "חפיסת שוקולד": { "replacement": "🍫", "description": "chocolate bar" },
+  "ממתק": { "replacement": "🍬", "description": "candy" },
+  "סוּכָּריָה עַל מַקֵל": { "replacement": "🍭", "description": "lollipop" },
+  "רַפרֶפֶת": { "replacement": "🍮", "description": "custard" },
+  "סיר דבש": { "replacement": "🍯", "description": "honey pot" },
+  "בקבוק לתינוק": { "replacement": "🍼", "description": "baby bottle" },
+  "כוס חלב": { "replacement": "🥛", "description": "glass of milk" },
+  "קפה": { "replacement": "☕", "description": "hot beverage" },
+  "קוּמקוּם": { "replacement": "🫖", "description": "teapot" },
+  "תה": { "replacement": "🍵", "description": "teacup without handle" },
+  "סאקה": { "replacement": "🍶", "description": "sake" },
+  "שמפנייה": { "replacement": "🍾", "description": "bottle with popping cork" },
+  "כוס יין": { "replacement": "🍷", "description": "wine glass" },
+  "קוקטייל": { "replacement": "🍸", "description": "cocktail glass" },
+  "משקה טרופי": { "replacement": "🍹", "description": "tropical drink" },
+  "בירה": { "replacement": "🍺", "description": "beer mug" },
+  "בירות": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "משקפיים מנצנצים": { "replacement": "🥂", "description": "clinking glasses" },
+  "כוס זכוכית": { "replacement": "🥃", "description": "tumbler glass" },
+  "כוס עם קש": { "replacement": "🥤", "description": "cup with straw" },
+  "תה בועות": { "replacement": "🧋", "description": "bubble tea" },
+  "קופסת משקאות": { "replacement": "🧃", "description": "beverage box" },
+  "בן זוג": { "replacement": "🧉", "description": "mate" },
+  "קובית קרח": { "replacement": "🧊", "description": "ice" },
+  "מקלות אכילה": { "replacement": "🥢", "description": "chopsticks" },
+  "צלחת עם סכו\"ם": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "מזלג וסכין": { "replacement": "🍴", "description": "fork and knife" },
+  "כף": { "replacement": "🥄", "description": "spoon" },
+  "הוצ'ו": { "replacement": "🔪", "description": "kitchen knife" },
+  "אמפורה": { "replacement": "🏺", "description": "amphora" },
+  "אדמת אפריקה": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "אמריקות אדמה": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "אדמת אסיה": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "גלובוס עם מרידיאנים": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "מפת העולם": { "replacement": "🗺️", "description": "world map" },
+  "יפן": { "replacement": "🗾", "description": "map of Japan" },
+  "מצפן": { "replacement": "🧭", "description": "compass" },
+  "שלג הרים": { "replacement": "🏔️", "description": "snow-capped mountain" },
+  "הַר": { "replacement": "⛰️", "description": "mountain" },
+  "הַר גַעַשׁ": { "replacement": "🌋", "description": "volcano" },
+  "הר פוג'י": { "replacement": "🗻", "description": "mount fuji" },
+  "קֶמפִּינג": { "replacement": "🏕️", "description": "camping" },
+  "שמשייה": { "replacement": "🏖️", "description": "beach with umbrella" },
+  "מִדבָּר": { "replacement": "🏜️", "description": "desert" },
+  "אי מדברי": { "replacement": "🏝️", "description": "desert island" },
+  "פארק לאומי": { "replacement": "🏞️", "description": "national park" },
+  "אִצטַדיוֹן": { "replacement": "🏟️", "description": "stadium" },
+  "בניין קלאסי": { "replacement": "🏛️", "description": "classical building" },
+  "בניית בניין": {
+    "replacement": "🏗️",
+    "description": "building construction"
+  },
+  "לבנים": { "replacement": "🧱", "description": "brick" },
+  "סלע": { "replacement": "🪨", "description": "rock" },
+  "עץ": { "replacement": "🪵", "description": "wood" },
+  "צְרִיף": { "replacement": "🛖", "description": "hut" },
+  "בתים": { "replacement": "🏘️", "description": "houses" },
+  "בית עזוב": { "replacement": "🏚️", "description": "derelict house" },
+  "בַּיִת": { "replacement": "🏠", "description": "house" },
+  "בית עם גינה": { "replacement": "🏡", "description": "house with garden" },
+  "מִשׂרָד": { "replacement": "🏢", "description": "office building" },
+  "דואר": { "replacement": "🏣", "description": "Japanese post office" },
+  "סניף דואר אירופי": { "replacement": "🏤", "description": "post office" },
+  "בית חולים": { "replacement": "🏥", "description": "hospital" },
+  "בַּנק": { "replacement": "🏦", "description": "bank" },
+  "מלון": { "replacement": "🏨", "description": "hotel" },
+  "מלון אהבה": { "replacement": "🏩", "description": "love hotel" },
+  "חנות נוחות": { "replacement": "🏪", "description": "convenience store" },
+  "בית ספר": { "replacement": "🏫", "description": "school" },
+  "כלבו": { "replacement": "🏬", "description": "department store" },
+  "מפעל": { "replacement": "🏭", "description": "factory" },
+  "טירה יפנית": { "replacement": "🏯", "description": "Japanese castle" },
+  "טירה אירופית": { "replacement": "🏰", "description": "castle" },
+  "חֲתוּנָה": { "replacement": "💒", "description": "wedding" },
+  "מגדל טוקיו": { "replacement": "🗼", "description": "Tokyo tower" },
+  "פסל החירות": { "replacement": "🗽", "description": "Statue of Liberty" },
+  "כְּנֵסִיָה": { "replacement": "⛪", "description": "church" },
+  "מִסגָד": { "replacement": "🕌", "description": "mosque" },
+  "מקדש הינדי": { "replacement": "🛕", "description": "hindu temple" },
+  "בית כנסת": { "replacement": "🕍", "description": "synagogue" },
+  "מקדש שינטו": { "replacement": "⛩️", "description": "shinto shrine" },
+  "קאבה": { "replacement": "🕋", "description": "kaaba" },
+  "מִזרָקָה": { "replacement": "⛲", "description": "fountain" },
+  "אוֹהֶל": { "replacement": "⛺", "description": "tent" },
+  "מעורפל": { "replacement": "🌁", "description": "foggy" },
+  "לילה עם כוכבים": { "replacement": "🌃", "description": "night with stars" },
+  "נוף עירוני": { "replacement": "🏙️", "description": "cityscape" },
+  "זריחה מעל הרים": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "זריחה": { "replacement": "🌅", "description": "sunrise" },
+  "שקיעה בעיר": { "replacement": "🌆", "description": "cityscape at dusk" },
+  "זריחה עירונית": { "replacement": "🌇", "description": "sunset" },
+  "גשר בלילה": { "replacement": "🌉", "description": "bridge at night" },
+  "מעיינות חמים": { "replacement": "♨️", "description": "hot springs" },
+  "סוס קרוסלה": { "replacement": "🎠", "description": "carousel horse" },
+  "גלגל ענק": { "replacement": "🎡", "description": "ferris wheel" },
+  "רכבת הרים": { "replacement": "🎢", "description": "roller coaster" },
+  "סַפָּר": { "replacement": "💈", "description": "barber pole" },
+  "אוהל קרקס": { "replacement": "🎪", "description": "circus tent" },
+  "קטר קיטור": { "replacement": "🚂", "description": "locomotive" },
+  "קרון רכבת": { "replacement": "🚃", "description": "railway car" },
+  "צד בולטריין": { "replacement": "🚄", "description": "high-speed train" },
+  "חזית בולטריין": { "replacement": "🚅", "description": "bullet train" },
+  "רכבת 2": { "replacement": "🚆", "description": "train" },
+  "רַכֶּבֶת תַחְתִית": { "replacement": "🚇", "description": "metro" },
+  "רכבת קלה": { "replacement": "🚈", "description": "light rail" },
+  "תַחֲנָה": { "replacement": "🚉", "description": "station" },
+  "חַשְׁמַלִית": { "replacement": "🚊", "description": "tram" },
+  "מוֹנוֹרֵיִל": { "replacement": "🚝", "description": "monorail" },
+  "מסילת הר": { "replacement": "🚞", "description": "mountain railway" },
+  "רכבת": { "replacement": "🚋", "description": "tram car" },
+  "אוֹטוֹבּוּס": { "replacement": "🚌", "description": "bus" },
+  "אוטובוס מתקרב": { "replacement": "🚍", "description": "oncoming bus" },
+  "טרוליבוס": { "replacement": "🚎", "description": "trolleybus" },
+  "מיניבוס": { "replacement": "🚐", "description": "minibus" },
+  "אַמבּוּלַנס": { "replacement": "🚑", "description": "ambulance" },
+  "כבאית": { "replacement": "🚒", "description": "fire engine" },
+  "ניידת משטרה": { "replacement": "🚓", "description": "police car" },
+  "ניידת משטרה מתקרבת": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "מוֹנִית": { "replacement": "🚕", "description": "taxi" },
+  "מונית מתקרבת": { "replacement": "🚖", "description": "oncoming taxi" },
+  "אוטו": { "replacement": "🚗", "description": "automobile" },
+  "רכב מתקרב": { "replacement": "🚘", "description": "oncoming automobile" },
+  "מכונית כחולה": {
+    "replacement": "🚙",
+    "description": "sport utility vehicle"
+  },
+  "טנדר": { "replacement": "🛻", "description": "pickup truck" },
+  "מַשָׂאִית": { "replacement": "🚚", "description": "delivery truck" },
+  "משאית מפרקית": { "replacement": "🚛", "description": "articulated lorry" },
+  "טְרַקטוֹר": { "replacement": "🚜", "description": "tractor" },
+  "מכונית מירוץ": { "replacement": "🏎️", "description": "racing car" },
+  "אופנוע": { "replacement": "🏍️", "description": "motorcycle" },
+  "קטנוע מנועי": { "replacement": "🛵", "description": "motor scooter" },
+  "כסא גלגלים ידני": { "replacement": "🦽", "description": "manual wheelchair" },
+  "כסא גלגלים ממונע": {
+    "replacement": "🦼",
+    "description": "motorized wheelchair"
+  },
+  "ריקשה אוטומטית": { "replacement": "🛺", "description": "auto rickshaw" },
+  "אופניים": { "replacement": "🚲", "description": "bicycle" },
+  "בעיטה לקלנועית": { "replacement": "🛴", "description": "kick scooter" },
+  "סקייטבורד": { "replacement": "🛹", "description": "skateboard" },
+  "גלגיליות": { "replacement": "🛼", "description": "roller skate" },
+  "תחנת אוטובוס": { "replacement": "🚏", "description": "bus stop" },
+  "כביש מהיר": { "replacement": "🛣️", "description": "motorway" },
+  "מסילת רכבת": { "replacement": "🛤️", "description": "railway track" },
+  "חבית נפט": { "replacement": "🛢️", "description": "oil drum" },
+  "משאבת דלק": { "replacement": "⛽", "description": "fuel pump" },
+  "אור מסתובב": { "replacement": "🚨", "description": "police car light" },
+  "רמזור": { "replacement": "🚥", "description": "horizontal traffic light" },
+  "רמזור אנכי": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "תמרור עצור": { "replacement": "🛑", "description": "stop sign" },
+  "בְּנִיָה": { "replacement": "🚧", "description": "construction" },
+  "לְעַגֵן": { "replacement": "⚓", "description": "anchor" },
+  "סִירָה": { "replacement": "⛵", "description": "sailboat" },
+  "קָנוֹ": { "replacement": "🛶", "description": "canoe" },
+  "סירת מנוע מהירה": { "replacement": "🚤", "description": "speedboat" },
+  "אוניית נוסעים": { "replacement": "🛳️", "description": "passenger ship" },
+  "מַעבּוֹרֶת": { "replacement": "⛴️", "description": "ferry" },
+  "סירת מנוע": { "replacement": "🛥️", "description": "motor boat" },
+  "ספינה": { "replacement": "🚢", "description": "ship" },
+  "מטוס": { "replacement": "✈️", "description": "airplane" },
+  "מטוס קטן": { "replacement": "🛩️", "description": "small airplane" },
+  "יציאת טיסה": { "replacement": "🛫", "description": "airplane departure" },
+  "הגעה לטיסה": { "replacement": "🛬", "description": "airplane arrival" },
+  "מַצנֵחַ": { "replacement": "🪂", "description": "parachute" },
+  "מושב": { "replacement": "💺", "description": "seat" },
+  "מַסוֹק": { "replacement": "🚁", "description": "helicopter" },
+  "רכבת מתלים": { "replacement": "🚟", "description": "suspension railway" },
+  "רכבל הרים": { "replacement": "🚠", "description": "mountain cableway" },
+  "חשמלית אווירית": { "replacement": "🚡", "description": "aerial tramway" },
+  "לווין מלאכותי": { "replacement": "🛰️", "description": "satellite" },
+  "רָקֵטָה": { "replacement": "🚀", "description": "rocket" },
+  "צלחת מעופפת": { "replacement": "🛸", "description": "flying saucer" },
+  "פעמון פעמון": { "replacement": "🛎️", "description": "bellhop bell" },
+  "מטען": { "replacement": "🧳", "description": "luggage" },
+  "שָׁעוֹן חוֹל": { "replacement": "⌛", "description": "hourglass done" },
+  "חול שעון חול זורם": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "שעון": { "replacement": "⌚", "description": "watch" },
+  "שעון מעורר": { "replacement": "⏰", "description": "alarm clock" },
+  "סטוֹפֶּר": { "replacement": "⏱️", "description": "stopwatch" },
+  "שעון טיימר": { "replacement": "⏲️", "description": "timer clock" },
+  "שעון אח": { "replacement": "🕰️", "description": "mantelpiece clock" },
+  "שעון 12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "שעון 1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "שעון 1": { "replacement": "🕐", "description": "one o’clock" },
+  "שעון 130": { "replacement": "🕜", "description": "one-thirty" },
+  "שעון 2": { "replacement": "🕑", "description": "two o’clock" },
+  "שעון 230": { "replacement": "🕝", "description": "two-thirty" },
+  "שעון 3": { "replacement": "🕒", "description": "three o’clock" },
+  "שעון 4": { "replacement": "🕓", "description": "four o’clock" },
+  "שעון 430": { "replacement": "🕟", "description": "four-thirty" },
+  "שעון 5": { "replacement": "🕔", "description": "five o’clock" },
+  "שעון 530": { "replacement": "🕠", "description": "five-thirty" },
+  "שעון 6": { "replacement": "🕕", "description": "six o’clock" },
+  "שעון 630": { "replacement": "🕡", "description": "six-thirty" },
+  "שעון 730": { "replacement": "🕢", "description": "seven-thirty" },
+  "שעון 8": { "replacement": "🕗", "description": "eight o’clock" },
+  "שעון 830": { "replacement": "🕣", "description": "eight-thirty" },
+  "שעון 9": { "replacement": "🕘", "description": "nine o’clock" },
+  "שעון 930": { "replacement": "🕤", "description": "nine-thirty" },
+  "שעון 10": { "replacement": "🕙", "description": "ten o’clock" },
+  "שעון 1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "ירח חדש": { "replacement": "🌑", "description": "new moon" },
+  "ירח סהר שעווה": {
+    "replacement": "🌒",
+    "description": "waxing crescent moon"
+  },
+  "ירח רבע ראשון": { "replacement": "🌓", "description": "first quarter moon" },
+  "ירח": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "ירח מלא": { "replacement": "🌕", "description": "full moon" },
+  "ירח גבעוני דועך": {
+    "replacement": "🌖",
+    "description": "waning gibbous moon"
+  },
+  "ירח הרבע האחרון": {
+    "replacement": "🌗",
+    "description": "last quarter moon"
+  },
+  "ירח סהר דועך": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "סהר": { "replacement": "🌙", "description": "crescent moon" },
+  "ירח חדש עם פנים": { "replacement": "🌚", "description": "new moon face" },
+  "ירח רבע ראשון עם פנים": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "ירח רבע אחרון עם פנים": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "מד חום": { "replacement": "🌡️", "description": "thermometer" },
+  "שִׁמשִׁי": { "replacement": "☀️", "description": "sun" },
+  "ירח מלא עם פנים": { "replacement": "🌝", "description": "full moon face" },
+  "שמש עם פנים": { "replacement": "🌞", "description": "sun with face" },
+  "כוכב לכת טבעתי": { "replacement": "🪐", "description": "ringed planet" },
+  "כוכב": { "replacement": "⭐", "description": "star" },
+  "כוכב 2": { "replacement": "🌟", "description": "glowing star" },
+  "כוכבים": { "replacement": "🌠", "description": "shooting star" },
+  "שביל החלב": { "replacement": "🌌", "description": "milky way" },
+  "ענן": { "replacement": "☁️", "description": "cloud" },
+  "שטוף שמש חלקית": { "replacement": "⛅", "description": "sun behind cloud" },
+  "ענן עם ברק וגשם": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "שמש מאחורי ענן קטן": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "שמש מאחורי ענן גדול": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "שמש מאחורי ענן גשם": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "ענן עם גשם": { "replacement": "🌧️", "description": "cloud with rain" },
+  "ענן עם שלג": { "replacement": "🌨️", "description": "cloud with snow" },
+  "ענן עם ברק": { "replacement": "🌩️", "description": "cloud with lightning" },
+  "טוֹרנָדוֹ": { "replacement": "🌪️", "description": "tornado" },
+  "עֲרָפֶל": { "replacement": "🌫️", "description": "fog" },
+  "פנים רוח": { "replacement": "🌬️", "description": "wind face" },
+  "צִיקלוֹן": { "replacement": "🌀", "description": "cyclone" },
+  "קשת בענן": { "replacement": "🌈", "description": "rainbow" },
+  "מטריה סגורה": { "replacement": "🌂", "description": "closed umbrella" },
+  "מטריה פתוחה": { "replacement": "☂️", "description": "umbrella" },
+  "מִטְרִיָה": {
+    "replacement": "☔",
+    "description": "umbrella with rain drops"
+  },
+  "שמשיה על הקרקע": {
+    "replacement": "⛱️",
+    "description": "umbrella on ground"
+  },
+  "זאפ": { "replacement": "⚡", "description": "high voltage" },
+  "פְּתִית שֶׁלֶג": { "replacement": "❄️", "description": "snowflake" },
+  "איש שלג עם שלג": { "replacement": "☃️", "description": "snowman" },
+  "איש שלג": { "replacement": "⛄", "description": "snowman without snow" },
+  "כוכב שביט": { "replacement": "☄️", "description": "comet" },
+  "אֵשׁ": { "replacement": "🔥", "description": "fire" },
+  "אֵגֶל": { "replacement": "💧", "description": "droplet" },
+  "אוקיינוס": { "replacement": "🌊", "description": "water wave" },
+  "פנס ג'ק או": { "replacement": "🎃", "description": "jack-o-lantern" },
+  "עץ חג המולד": { "replacement": "🎄", "description": "Christmas tree" },
+  "זיקוקין": { "replacement": "🎆", "description": "fireworks" },
+  "נוצץ": { "replacement": "✨", "description": "sparkles" },
+  "חזיז": { "replacement": "🧨", "description": "firecracker" },
+  "בַּלוֹן": { "replacement": "🎈", "description": "balloon" },
+  "טאדה": { "replacement": "🎉", "description": "party popper" },
+  "כדור קונפטי": { "replacement": "🎊", "description": "confetti ball" },
+  "עץ טנאבטה": { "replacement": "🎋", "description": "tanabata tree" },
+  "בָּמבּוּק": { "replacement": "🎍", "description": "pine decoration" },
+  "בובות": { "replacement": "🎎", "description": "Japanese dolls" },
+  "דגלים": { "replacement": "🎏", "description": "carp streamer" },
+  "פעמוני רוח": { "replacement": "🎐", "description": "wind chime" },
+  "סצנת אורז": { "replacement": "🎑", "description": "moon viewing ceremony" },
+  "מעטפה אדומה": { "replacement": "🧧", "description": "red envelope" },
+  "סֶרֶט": { "replacement": "🎀", "description": "ribbon" },
+  "מתנה": { "replacement": "🎁", "description": "wrapped gift" },
+  "סרט תזכורת": { "replacement": "🎗️", "description": "reminder ribbon" },
+  "כרטיסים": { "replacement": "🎟️", "description": "admission tickets" },
+  "כַּרְטִיס": { "replacement": "🎫", "description": "ticket" },
+  "מדליה צבאית": { "replacement": "🎖️", "description": "military medal" },
+  "פְּרָס": { "replacement": "🏆", "description": "trophy" },
+  "ספורט מדליות": { "replacement": "🏅", "description": "sports medal" },
+  "מדליית מקום 1": { "replacement": "🥇", "description": "1st place medal" },
+  "מדליית מקום 2": { "replacement": "🥈", "description": "2nd place medal" },
+  "מדליית מקום 3": { "replacement": "🥉", "description": "3rd place medal" },
+  "כדורגל": { "replacement": "🏈", "description": "american football" },
+  "בייסבול": { "replacement": "⚾", "description": "baseball" },
+  "כַּדוּר בָּסִיס": { "replacement": "🥎", "description": "softball" },
+  "כדורסל": { "replacement": "🏀", "description": "basketball" },
+  "כַּדוּר עָף": { "replacement": "🏐", "description": "volleyball" },
+  "כדורגל רוגבי": { "replacement": "🏉", "description": "rugby football" },
+  "טֶנִיס": { "replacement": "🎾", "description": "tennis" },
+  "דיסק מעופף": { "replacement": "🥏", "description": "flying disc" },
+  "בָּאוּלִינְג": { "replacement": "🎳", "description": "bowling" },
+  "משחק קריקט": { "replacement": "🏏", "description": "cricket game" },
+  "הוקי שדה": { "replacement": "🏑", "description": "field hockey" },
+  "הוקי קרח": { "replacement": "🏒", "description": "ice hockey" },
+  "לקרוס": { "replacement": "🥍", "description": "lacrosse" },
+  "פינג פונג": { "replacement": "🏓", "description": "ping pong" },
+  "נוצית": { "replacement": "🏸", "description": "badminton" },
+  "כפפות איגרוף": { "replacement": "🥊", "description": "boxing glove" },
+  "מדי אומנויות לחימה": {
+    "replacement": "🥋",
+    "description": "martial arts uniform"
+  },
+  "שער גול": { "replacement": "🥅", "description": "goal net" },
+  "גוֹלף": { "replacement": "⛳", "description": "flag in hole" },
+  "החלקה על הקרח": { "replacement": "⛸️", "description": "ice skate" },
+  "מוט דיג ודגים": { "replacement": "🎣", "description": "fishing pole" },
+  "מסכת צלילה": { "replacement": "🤿", "description": "diving mask" },
+  "חולצת ריצה עם אבנט": { "replacement": "🎽", "description": "running shirt" },
+  "סקִי": { "replacement": "🎿", "description": "skis" },
+  "מִזחֶלֶת": { "replacement": "🛷", "description": "sled" },
+  "אבן מסתלסלת": { "replacement": "🥌", "description": "curling stone" },
+  "חץ": { "replacement": "🎯", "description": "direct hit" },
+  "יו יו": { "replacement": "🪀", "description": "yo-yo" },
+  "עֲפִיפוֹן": { "replacement": "🪁", "description": "kite" },
+  "כדור 8": { "replacement": "🎱", "description": "pool 8 ball" },
+  "כדור בדולח": { "replacement": "🔮", "description": "crystal ball" },
+  "שרביט קסם": { "replacement": "🪄", "description": "magic wand" },
+  "קמיע נזאר": { "replacement": "🧿", "description": "nazar amulet" },
+  "משחק וידאו": { "replacement": "🎮", "description": "video game" },
+  "מַקֵל נוֹעַם": { "replacement": "🕹️", "description": "joystick" },
+  "מכונת מזל": { "replacement": "🎰", "description": "slot machine" },
+  "משחק למות": { "replacement": "🎲", "description": "game die" },
+  "פאזל": { "replacement": "🧩", "description": "puzzle piece" },
+  "דובון": { "replacement": "🧸", "description": "teddy bear" },
+  "פיניאטה": { "replacement": "🪅", "description": "piñata" },
+  "בובות קינון": { "replacement": "🪆", "description": "nesting dolls" },
+  "עלים": { "replacement": "♠️", "description": "spade suit" },
+  "לבבות": { "replacement": "♥️", "description": "heart suit" },
+  "יהלומים": { "replacement": "♦️", "description": "diamond suit" },
+  "מועדונים": { "replacement": "♣️", "description": "club suit" },
+  "משכון שחמט": { "replacement": "♟️", "description": "chess pawn" },
+  "ג'וקר שחור": { "replacement": "🃏", "description": "joker" },
+  "מהג'ונג": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "פרחי קלפים": { "replacement": "🎴", "description": "flower playing cards" },
+  "אמנויות במה": { "replacement": "🎭", "description": "performing arts" },
+  "תמונה ממוסגרת": { "replacement": "🖼️", "description": "framed picture" },
+  "אומנות": { "replacement": "🎨", "description": "artist palette" },
+  "פְּתִיל": { "replacement": "🧵", "description": "thread" },
+  "מחט תפירה": { "replacement": "🪡", "description": "sewing needle" },
+  "חוּט": { "replacement": "🧶", "description": "yarn" },
+  "קשר": { "replacement": "🪢", "description": "knot" },
+  "משקפיים": { "replacement": "🥽", "description": "goggles" },
+  "משקפי שמש כהים": { "replacement": "🕶️", "description": "sunglasses" },
+  "חלוק מעבדה": { "replacement": "🥼", "description": "lab coat" },
+  "אפוד מגן": { "replacement": "🦺", "description": "safety vest" },
+  "עֲנִיבָה": { "replacement": "👔", "description": "necktie" },
+  "חוּלצָה": { "replacement": "👕", "description": "t-shirt" },
+  "גִ'ינס": { "replacement": "👖", "description": "jeans" },
+  "צָעִיף": { "replacement": "🧣", "description": "scarf" },
+  "כפפות": { "replacement": "🧤", "description": "gloves" },
+  "מעיל": { "replacement": "🧥", "description": "coat" },
+  "גרביים": { "replacement": "🧦", "description": "socks" },
+  "שמלה": { "replacement": "👗", "description": "dress" },
+  "קִימוֹנוֹ": { "replacement": "👘", "description": "kimono" },
+  "סארי": { "replacement": "🥻", "description": "sari" },
+  "בגד ים מקשה אחת": {
+    "replacement": "🩱",
+    "description": "one-piece swimsuit"
+  },
+  "לשחות קצר": { "replacement": "🩲", "description": "briefs" },
+  "מִכְנָסַיִים קְצָרִים": { "replacement": "🩳", "description": "shorts" },
+  "בִּיקִינִי": { "replacement": "👙", "description": "bikini" },
+  "בגדי נשים": { "replacement": "👚", "description": "woman’s clothes" },
+  "אַרְנָק": { "replacement": "👛", "description": "purse" },
+  "תיק יד": { "replacement": "👜", "description": "handbag" },
+  "כִּיס": { "replacement": "👝", "description": "clutch bag" },
+  "קניות": { "replacement": "🛍️", "description": "shopping bags" },
+  "ילקוט בית ספר": { "replacement": "🎒", "description": "backpack" },
+  "סנדל חוטיני": { "replacement": "🩴", "description": "thong sandal" },
+  "נעל מאן": { "replacement": "👞", "description": "man’s shoe" },
+  "נעל אתלטית": { "replacement": "👟", "description": "running shoe" },
+  "מגף טיולים": { "replacement": "🥾", "description": "hiking boot" },
+  "נעל שטוחה": { "replacement": "🥿", "description": "flat shoe" },
+  "עקב גבוה": { "replacement": "👠", "description": "high-heeled shoe" },
+  "סַנְדָל": { "replacement": "👡", "description": "woman’s sandal" },
+  "נעלי בלט": { "replacement": "🩰", "description": "ballet shoes" },
+  "מַגָף": { "replacement": "👢", "description": "woman’s boot" },
+  "כֶּתֶר": { "replacement": "👑", "description": "crown" },
+  "כובע נשים": { "replacement": "👒", "description": "woman’s hat" },
+  "טופאט": { "replacement": "🎩", "description": "top hat" },
+  "לוח מרגמות": { "replacement": "🎓", "description": "graduation cap" },
+  "מכסה מחויב": { "replacement": "🧢", "description": "billed cap" },
+  "קסדה צבאית": { "replacement": "🪖", "description": "military helmet" },
+  "קסדת עובדי הצלה": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "מחרוזת תפילה": { "replacement": "📿", "description": "prayer beads" },
+  "שְׂפָתוֹן": { "replacement": "💄", "description": "lipstick" },
+  "טַבַּעַת": { "replacement": "💍", "description": "ring" },
+  "פְּנִינָה": { "replacement": "💎", "description": "gem stone" },
+  "לְהַשְׁתִיק": { "replacement": "🔇", "description": "muted speaker" },
+  "רַמקוֹל": { "replacement": "📢", "description": "loudspeaker" },
+  "נשמע": { "replacement": "🔉", "description": "speaker medium volume" },
+  "צליל חזק": { "replacement": "🔊", "description": "speaker high volume" },
+  "מגה": { "replacement": "📣", "description": "megaphone" },
+  "צופר דואר": { "replacement": "📯", "description": "postal horn" },
+  "פַּעֲמוֹן": { "replacement": "🔔", "description": "bell" },
+  "אין פעמון": { "replacement": "🔕", "description": "bell with slash" },
+  "תווים": { "replacement": "🎼", "description": "musical score" },
+  "תו מוסיקלי": { "replacement": "🎵", "description": "musical note" },
+  "הערות": { "replacement": "🎶", "description": "musical notes" },
+  "מיקרופון אולפן": { "replacement": "🎙️", "description": "studio microphone" },
+  "מחוון מפלס": { "replacement": "🎚️", "description": "level slider" },
+  "ידיות שליטה": { "replacement": "🎛️", "description": "control knobs" },
+  "מִיקרוֹפוֹן": { "replacement": "🎤", "description": "microphone" },
+  "אוזניות": { "replacement": "🎧", "description": "headphone" },
+  "רָדִיוֹ": { "replacement": "📻", "description": "radio" },
+  "סַקסוֹפוֹן": { "replacement": "🎷", "description": "saxophone" },
+  "אַקוֹרדִיוֹן": { "replacement": "🪗", "description": "accordion" },
+  "גִיטָרָה": { "replacement": "🎸", "description": "guitar" },
+  "מקלדת מוזיקלית": { "replacement": "🎹", "description": "musical keyboard" },
+  "חֲצוֹצְרָה": { "replacement": "🎺", "description": "trumpet" },
+  "כינור": { "replacement": "🎻", "description": "violin" },
+  "בַּנג'וֹ": { "replacement": "🪕", "description": "banjo" },
+  "תוֹף": { "replacement": "🥁", "description": "drum" },
+  "תוף ארוך": { "replacement": "🪘", "description": "long drum" },
+  "אייפון": { "replacement": "📱", "description": "mobile phone" },
+  "יִעוּד": { "replacement": "📲", "description": "mobile phone with arrow" },
+  "טלפון": { "replacement": "☎️", "description": "telephone" },
+  "מקלט טלפון": { "replacement": "📞", "description": "telephone receiver" },
+  "זימונית": { "replacement": "📟", "description": "pager" },
+  "פַקס": { "replacement": "📠", "description": "fax machine" },
+  "סוֹלְלָה": { "replacement": "🔋", "description": "battery" },
+  "שקע חשמלי": { "replacement": "🔌", "description": "electric plug" },
+  "מַחשֵׁב": { "replacement": "💻", "description": "laptop" },
+  "מחשב שולחני": { "replacement": "🖥️", "description": "desktop computer" },
+  "מדפסת": { "replacement": "🖨️", "description": "printer" },
+  "מקלדת": { "replacement": "⌨️", "description": "keyboard" },
+  "עכבר מחשב": { "replacement": "🖱️", "description": "computer mouse" },
+  "כדור מסלול": { "replacement": "🖲️", "description": "trackball" },
+  "מינידיסק": { "replacement": "💽", "description": "computer disk" },
+  "תקליטון": { "replacement": "💾", "description": "floppy disk" },
+  "CD": { "replacement": "💿", "description": "optical disk" },
+  "DVD": { "replacement": "📀", "description": "dvd" },
+  "אַבַּקוּס": { "replacement": "🧮", "description": "abacus" },
+  "מצלמת סרט": { "replacement": "🎥", "description": "movie camera" },
+  "רצועת סרטים": { "replacement": "🎞️", "description": "film frames" },
+  "מקרן קולנוע": { "replacement": "📽️", "description": "film projector" },
+  "מַקוֹשׁ": { "replacement": "🎬", "description": "clapper board" },
+  "טֵלֶוִיזִיָה": { "replacement": "📺", "description": "television" },
+  "מַצלֵמָה": { "replacement": "📷", "description": "camera" },
+  "פלאש מצלמה": { "replacement": "📸", "description": "camera with flash" },
+  "מצלמת וידאו": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "מג '": {
+    "replacement": "🔍",
+    "description": "magnifying glass tilted left"
+  },
+  "נכון נכון": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "נר": { "replacement": "🕯️", "description": "candle" },
+  "נוּרָה": { "replacement": "💡", "description": "light bulb" },
+  "פנס": { "replacement": "🔦", "description": "flashlight" },
+  "פנס איזאקאיה": { "replacement": "🏮", "description": "red paper lantern" },
+  "מנורת דיא": { "replacement": "🪔", "description": "diya lamp" },
+  "מחברת עם כריכה דקורטיבית": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "ספר סגור": { "replacement": "📕", "description": "closed book" },
+  "סֵפֶר": { "replacement": "📖", "description": "open book" },
+  "ספר ירוק": { "replacement": "📗", "description": "green book" },
+  "ספר כחול": { "replacement": "📘", "description": "blue book" },
+  "ספר כתום": { "replacement": "📙", "description": "orange book" },
+  "ספרים": { "replacement": "📚", "description": "books" },
+  "מחברת": { "replacement": "📓", "description": "notebook" },
+  "פִּנקָס": { "replacement": "📒", "description": "ledger" },
+  "דף עם תלתל": { "replacement": "📃", "description": "page with curl" },
+  "גְלִילָה": { "replacement": "📜", "description": "scroll" },
+  "העמוד כלפי מעלה": { "replacement": "📄", "description": "page facing up" },
+  "עיתון": { "replacement": "📰", "description": "newspaper" },
+  "גליל עיתון": { "replacement": "🗞️", "description": "rolled-up newspaper" },
+  "כרטיסיות סימניות": { "replacement": "📑", "description": "bookmark tabs" },
+  "סימניה": { "replacement": "🔖", "description": "bookmark" },
+  "תווית": { "replacement": "🏷️", "description": "label" },
+  "שק כסף": { "replacement": "💰", "description": "money bag" },
+  "מַטְבֵּעַ": { "replacement": "🪙", "description": "coin" },
+  "יֵן": { "replacement": "💴", "description": "yen banknote" },
+  "דוֹלָר": { "replacement": "💵", "description": "dollar banknote" },
+  "יוֹרוֹ": { "replacement": "💶", "description": "euro banknote" },
+  "לִירָה": { "replacement": "💷", "description": "pound banknote" },
+  "כסף עם כנפיים": { "replacement": "💸", "description": "money with wings" },
+  "כרטיס אשראי": { "replacement": "💳", "description": "credit card" },
+  "קַבָּלָה": { "replacement": "🧾", "description": "receipt" },
+  "תרשים": { "replacement": "💹", "description": "chart increasing with yen" },
+  "אימייל": { "replacement": "📧", "description": "e-mail" },
+  "מעטפה נכנסת": { "replacement": "📨", "description": "incoming envelope" },
+  "מעטפה עם חץ": { "replacement": "📩", "description": "envelope with arrow" },
+  "מגש יוצא": { "replacement": "📤", "description": "outbox tray" },
+  "מגש תיבת דואר נכנס": { "replacement": "📥", "description": "inbox tray" },
+  "חֲבִילָה": { "replacement": "📦", "description": "package" },
+  "תיבת דואר": { "replacement": "📮", "description": "postbox" },
+  "תיבת הדואר סגורה": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "תיבת דואר עם דואר": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "תיבת דואר ללא דואר": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "קלפי": { "replacement": "🗳️", "description": "ballot box with ballot" },
+  "עיפרון 2": { "replacement": "✏️", "description": "pencil" },
+  "ציפורן שחורה": { "replacement": "✒️", "description": "black nib" },
+  "עט נובע": { "replacement": "🖋️", "description": "fountain pen" },
+  "עֵט": { "replacement": "🖊️", "description": "pen" },
+  "מכחול": { "replacement": "🖌️", "description": "paintbrush" },
+  "פִּיחוֹן": { "replacement": "🖍️", "description": "crayon" },
+  "תַזכִּיר": { "replacement": "📝", "description": "memo" },
+  "תיק מסמכים": { "replacement": "💼", "description": "briefcase" },
+  "תיקיית קבצים": { "replacement": "📁", "description": "file folder" },
+  "פתח תיקיית קבצים": {
+    "replacement": "📂",
+    "description": "open file folder"
+  },
+  "מפרידי אינדקס כרטיסים": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "תַאֲרִיך": { "replacement": "📅", "description": "calendar" },
+  "לוּחַ שָׁנָה": { "replacement": "📆", "description": "tear-off calendar" },
+  "פנקס ספירלות": { "replacement": "🗒️", "description": "spiral notepad" },
+  "לוח שנה ספירלי": { "replacement": "🗓️", "description": "spiral calendar" },
+  "כַּרטִיסִיָה": { "replacement": "📇", "description": "card index" },
+  "תרשים עם מגמת עלייה": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "תרשים עם מגמת ירידה": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "טבלת עמודות": { "replacement": "📊", "description": "bar chart" },
+  "הלוח": { "replacement": "📋", "description": "clipboard" },
+  "יתד דחיפה": { "replacement": "📌", "description": "pushpin" },
+  "סיכה עגולה": { "replacement": "📍", "description": "round pushpin" },
+  "אטב": { "replacement": "📎", "description": "paperclip" },
+  "מהדקי נייר": { "replacement": "🖇️", "description": "linked paperclips" },
+  "שליט ישר": { "replacement": "📏", "description": "straight ruler" },
+  "סרגל משולש": { "replacement": "📐", "description": "triangular ruler" },
+  "מספריים": { "replacement": "✂️", "description": "scissors" },
+  "תיבת קובץ כרטיס": { "replacement": "🗃️", "description": "card file box" },
+  "ארון מסמכים": { "replacement": "🗄️", "description": "file cabinet" },
+  "סל פסולת": { "replacement": "🗑️", "description": "wastebasket" },
+  "לנעול": { "replacement": "🔒", "description": "locked" },
+  "לבטל נעילה": { "replacement": "🔓", "description": "unlocked" },
+  "נעילה בעט דיו": { "replacement": "🔏", "description": "locked with pen" },
+  "מנעול סגור עם מפתח": {
+    "replacement": "🔐",
+    "description": "locked with key"
+  },
+  "מַפְתֵחַ": { "replacement": "🔑", "description": "key" },
+  "מפתח ישן": { "replacement": "🗝️", "description": "old key" },
+  "פטיש": { "replacement": "🔨", "description": "hammer" },
+  "גַרזֶן": { "replacement": "🪓", "description": "axe" },
+  "לִבחוֹר": { "replacement": "⛏️", "description": "pick" },
+  "פטיש ובחר": { "replacement": "⚒️", "description": "hammer and pick" },
+  "פטיש וברגים": { "replacement": "🛠️", "description": "hammer and wrench" },
+  "פִּגיוֹן": { "replacement": "🗡️", "description": "dagger" },
+  "חרבות שלובות": { "replacement": "⚔️", "description": "crossed swords" },
+  "אֶקְדָח": { "replacement": "🔫", "description": "pistol" },
+  "בּוּמֵרַנְג": { "replacement": "🪃", "description": "boomerang" },
+  "חץ וקשת": { "replacement": "🏹", "description": "bow and arrow" },
+  "מָגֵן": { "replacement": "🛡️", "description": "shield" },
+  "מסור נגרות": { "replacement": "🪚", "description": "carpentry saw" },
+  "מפתח ברגים": { "replacement": "🔧", "description": "wrench" },
+  "מברג": { "replacement": "🪛", "description": "screwdriver" },
+  "אגוז ובריח": { "replacement": "🔩", "description": "nut and bolt" },
+  "גלגל שיניים": { "replacement": "⚙️", "description": "gear" },
+  "מַהְדֵק": { "replacement": "🗜️", "description": "clamp" },
+  "סולם איזון": { "replacement": "⚖️", "description": "balance scale" },
+  "מקל חיטוט": { "replacement": "🦯", "description": "white cane" },
+  "קישור": { "replacement": "🔗", "description": "link" },
+  "שרשראות": { "replacement": "⛓️", "description": "chains" },
+  "וו": { "replacement": "🪝", "description": "hook" },
+  "ארגז כלים": { "replacement": "🧰", "description": "toolbox" },
+  "מַגנֵט": { "replacement": "🧲", "description": "magnet" },
+  "סוּלָם": { "replacement": "🪜", "description": "ladder" },
+  "אַבִּיק": { "replacement": "⚗️", "description": "alembic" },
+  "מבחנה": { "replacement": "🧪", "description": "test tube" },
+  "צלחת פטרי": { "replacement": "🧫", "description": "petri dish" },
+  "dna": { "replacement": "🧬", "description": "dna" },
+  "מִיקרוֹסקוֹפּ": { "replacement": "🔬", "description": "microscope" },
+  "טֵלֶסקוֹפּ": { "replacement": "🔭", "description": "telescope" },
+  "לווין": { "replacement": "📡", "description": "satellite antenna" },
+  "מַזרֵק": { "replacement": "💉", "description": "syringe" },
+  "טיפת דם": { "replacement": "🩸", "description": "drop of blood" },
+  "כַּדוּר": { "replacement": "💊", "description": "pill" },
+  "תחבושת דביקה": { "replacement": "🩹", "description": "adhesive bandage" },
+  "מַסכֵּת": { "replacement": "🩺", "description": "stethoscope" },
+  "דלת": { "replacement": "🚪", "description": "door" },
+  "מַעֲלִית": { "replacement": "🛗", "description": "elevator" },
+  "מַרְאָה": { "replacement": "🪞", "description": "mirror" },
+  "חַלוֹן": { "replacement": "🪟", "description": "window" },
+  "מיטה": { "replacement": "🛏️", "description": "bed" },
+  "ספה ומנורה": { "replacement": "🛋️", "description": "couch and lamp" },
+  "כִּסֵא": { "replacement": "🪑", "description": "chair" },
+  "שֵׁרוּתִים": { "replacement": "🚽", "description": "toilet" },
+  "טוֹבְלָן": { "replacement": "🪠", "description": "plunger" },
+  "מִקלַחַת": { "replacement": "🚿", "description": "shower" },
+  "אַמבַּטִיָה": { "replacement": "🛁", "description": "bathtub" },
+  "מלכודת עכברים": { "replacement": "🪤", "description": "mouse trap" },
+  "סכין גילוח": { "replacement": "🪒", "description": "razor" },
+  "בקבוק קרם": { "replacement": "🧴", "description": "lotion bottle" },
+  "סיכת ביטחון": { "replacement": "🧷", "description": "safety pin" },
+  "מְטַאטֵא": { "replacement": "🧹", "description": "broom" },
+  "סַל": { "replacement": "🧺", "description": "basket" },
+  "גליל נייר": { "replacement": "🧻", "description": "roll of paper" },
+  "דְלִי": { "replacement": "🪣", "description": "bucket" },
+  "סַבּוֹן": { "replacement": "🧼", "description": "soap" },
+  "מִברֶשֶׁת שִׁנַיִם": { "replacement": "🪥", "description": "toothbrush" },
+  "סְפוֹג": { "replacement": "🧽", "description": "sponge" },
+  "מטף כיבוי אש": { "replacement": "🧯", "description": "fire extinguisher" },
+  "עגלת קניות": { "replacement": "🛒", "description": "shopping cart" },
+  "לעשן": { "replacement": "🚬", "description": "cigarette" },
+  "ארון קבורה": { "replacement": "⚰️", "description": "coffin" },
+  "מצבה": { "replacement": "🪦", "description": "headstone" },
+  "כד הלוויה": { "replacement": "⚱️", "description": "funeral urn" },
+  "מויאי": { "replacement": "🗿", "description": "moai" },
+  "כְּרָזָה": { "replacement": "🪧", "description": "placard" },
+  "כַּספּוֹמָט": { "replacement": "🏧", "description": "ATM sign" },
+  "לשים זבל במקומו": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "מים ראויים לשתייה": { "replacement": "🚰", "description": "potable water" },
+  "כיסא גלגלים": { "replacement": "♿", "description": "wheelchair symbol" },
+  "גברים": { "replacement": "🚹", "description": "men’s room" },
+  "נשים": { "replacement": "🚺", "description": "women’s room" },
+  "שירותים": { "replacement": "🚾", "description": "water closet" },
+  "סמל לתינוק": { "replacement": "🚼", "description": "baby symbol" },
+  "ביקורת דרכונים": { "replacement": "🛂", "description": "passport control" },
+  "מכס": { "replacement": "🛃", "description": "customs" },
+  "תביעת מזוודות": { "replacement": "🛄", "description": "baggage claim" },
+  "השאיר מזוודות": { "replacement": "🛅", "description": "left luggage" },
+  "אַזהָרָה": { "replacement": "⚠️", "description": "warning" },
+  "ילדים עוברים": { "replacement": "🚸", "description": "children crossing" },
+  "אין כניסה": { "replacement": "⛔", "description": "no entry" },
+  "אין שלט כניסה": { "replacement": "🚫", "description": "prohibited" },
+  "אין אופניים": { "replacement": "🚳", "description": "no bicycles" },
+  "אסור לעשן": { "replacement": "🚭", "description": "no smoking" },
+  "אל תלכלך אל תזהם": { "replacement": "🚯", "description": "no littering" },
+  "מים שאינם ניתנים לשתייה": {
+    "replacement": "🚱",
+    "description": "non-potable water"
+  },
+  "אין הולכי רגל": { "replacement": "🚷", "description": "no pedestrians" },
+  "אין טלפונים ניידים": {
+    "replacement": "📵",
+    "description": "no mobile phones"
+  },
+  "קטינים": { "replacement": "🔞", "description": "no one under eighteen" },
+  "רַדִיוֹאַקטִיבִי": { "replacement": "☢️", "description": "radioactive" },
+  "סכנה ביולוגית": { "replacement": "☣️", "description": "biohazard" },
+  "חץ למעלה": { "replacement": "⬆️", "description": "up arrow" },
+  "חץ למעלה מימין": { "replacement": "↗️", "description": "up-right arrow" },
+  "חץ ימינה": { "replacement": "➡️", "description": "right arrow" },
+  "חץ מימין למטה": { "replacement": "↘️", "description": "down-right arrow" },
+  "חץ למטה": { "replacement": "⬇️", "description": "down arrow" },
+  "חץ שמאלה תחתונה": { "replacement": "↙️", "description": "down-left arrow" },
+  "חץ שמאלה": { "replacement": "⬅️", "description": "left arrow" },
+  "חץ שמאל למעלה": { "replacement": "↖️", "description": "up-left arrow" },
+  "חץ כלפי מטה": { "replacement": "↕️", "description": "up-down arrow" },
+  "חץ ימינה שמאלה": { "replacement": "↔️", "description": "left-right arrow" },
+  "חץ שמאלה עם וו": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "חץ וו ימינה": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "חץ בכיוון מעלה": {
+    "replacement": "⤴️",
+    "description": "right arrow curving up"
+  },
+  "חץ לכיוון מטה": {
+    "replacement": "⤵️",
+    "description": "right arrow curving down"
+  },
+  "חצים בכיוון השעון": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "חצים נגד כיוון השעון": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "חזור": { "replacement": "🔁", "description": "repeat button" },
+  "סוֹף": { "replacement": "🔚", "description": "END arrow" },
+  "עַל": { "replacement": "🔛", "description": "ON! arrow" },
+  "בקרוב": { "replacement": "🔜", "description": "SOON arrow" },
+  "חלק עליון": { "replacement": "🔝", "description": "TOP arrow" },
+  "מקום תפילה": { "replacement": "🛐", "description": "place of worship" },
+  "סמל אטום": { "replacement": "⚛️", "description": "atom symbol" },
+  "אומ": { "replacement": "🕉️", "description": "om" },
+  "מגן דוד": { "replacement": "✡️", "description": "star of David" },
+  "גלגל הדהרמה": { "replacement": "☸️", "description": "wheel of dharma" },
+  "יין יאנג": { "replacement": "☯️", "description": "yin yang" },
+  "צלב לטיני": { "replacement": "✝️", "description": "latin cross" },
+  "צלב אורתודוכסי": { "replacement": "☦️", "description": "orthodox cross" },
+  "כוכב וסהר": { "replacement": "☪️", "description": "star and crescent" },
+  "סמל השלום": { "replacement": "☮️", "description": "peace symbol" },
+  "חנוכיה": { "replacement": "🕎", "description": "menorah" },
+  "שישה כוכבים מחודדים": {
+    "replacement": "🔯",
+    "description": "dotted six-pointed star"
+  },
+  "טלה": { "replacement": "♈", "description": "Aries" },
+  "מַזַל שׁוֹר": { "replacement": "♉", "description": "Taurus" },
+  "מַזַל תְאוּמִים": { "replacement": "♊", "description": "Gemini" },
+  "מחלת הסרטן": { "replacement": "♋", "description": "Cancer" },
+  "מַזַל אַריֵה": { "replacement": "♌", "description": "Leo" },
+  "מַזַל בְּתוּלָה": { "replacement": "♍", "description": "Virgo" },
+  "מזל מאזניים": { "replacement": "♎", "description": "Libra" },
+  "עקרב": { "replacement": "♏", "description": "Scorpio" },
+  "מַזַל קַשָׁת": { "replacement": "♐", "description": "Sagittarius" },
+  "מַזַל גְדִי": { "replacement": "♑", "description": "Capricorn" },
+  "מזל דלי": { "replacement": "♒", "description": "Aquarius" },
+  "מַזַל דָגִים": { "replacement": "♓", "description": "Pisces" },
+  "אופיוכוס": { "replacement": "⛎", "description": "Ophiuchus" },
+  "מעוותים חצים ימינה": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "חזור על אחד": { "replacement": "🔂", "description": "repeat single button" },
+  "חץ קדימה": { "replacement": "▶️", "description": "play button" },
+  "מהר קדימה": { "replacement": "⏩", "description": "fast-forward button" },
+  "כפתור הרצועה הבא": {
+    "replacement": "⏭️",
+    "description": "next track button"
+  },
+  "כפתור הפעלה או השהיה": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "חץ לאחור": { "replacement": "◀️", "description": "reverse button" },
+  "להריץ אחורה": { "replacement": "⏪", "description": "fast reverse button" },
+  "כפתור הרצועה הקודם": {
+    "replacement": "⏮️",
+    "description": "last track button"
+  },
+  "חץ למעלה קטן": { "replacement": "🔼", "description": "upwards button" },
+  "חץ כפול למעלה": { "replacement": "⏫", "description": "fast up button" },
+  "חץ למטה קטן": { "replacement": "🔽", "description": "downwards button" },
+  "חץ כפול למטה": { "replacement": "⏬", "description": "fast down button" },
+  "כפתור השהיה": { "replacement": "⏸️", "description": "pause button" },
+  "כפתור עצור": { "replacement": "⏹️", "description": "stop button" },
+  "כפתור הקלטה": { "replacement": "⏺️", "description": "record button" },
+  "כפתור הוצאה": { "replacement": "⏏️", "description": "eject button" },
+  "בית קולנוע": { "replacement": "🎦", "description": "cinema" },
+  "בהירות נמוכה": { "replacement": "🔅", "description": "dim button" },
+  "בהירות גבוהה": { "replacement": "🔆", "description": "bright button" },
+  "עוצמת אות": { "replacement": "📶", "description": "antenna bars" },
+  "מצב רטט": { "replacement": "📳", "description": "vibration mode" },
+  "טלפון נייד כבוי": { "replacement": "📴", "description": "mobile phone off" },
+  "סימן נשי": { "replacement": "♀️", "description": "female sign" },
+  "סימן גברי": { "replacement": "♂️", "description": "male sign" },
+  "סמל טרנסג'נדר": { "replacement": "⚧️", "description": "transgender symbol" },
+  "כפל כבד x": { "replacement": "✖️", "description": "multiply" },
+  "סימן פלוס כבד": { "replacement": "➕", "description": "plus" },
+  "סימן מינוס כבד": { "replacement": "➖", "description": "minus" },
+  "שלט חלוקה כבד": { "replacement": "➗", "description": "divide" },
+  "אינסוף": { "replacement": "♾️", "description": "infinity" },
+  "בום בום": { "replacement": "‼️", "description": "double exclamation mark" },
+  "אינטראבנג": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "שְׁאֵלָה": { "replacement": "❓", "description": "question mark" },
+  "שאלה אפורה": { "replacement": "❔", "description": "white question mark" },
+  "קריאה אפורה": {
+    "replacement": "❕",
+    "description": "white exclamation mark"
+  },
+  "קריאה": { "replacement": "❗", "description": "exclamation mark" },
+  "מקף גלי": { "replacement": "〰️", "description": "wavy dash" },
+  "המרת מטבע": { "replacement": "💱", "description": "currency exchange" },
+  "סימן דולר כבד": { "replacement": "💲", "description": "heavy dollar sign" },
+  "סמל רפואי": { "replacement": "⚕️", "description": "medical symbol" },
+  "לְמַחְזֵר": { "replacement": "♻️", "description": "recycling symbol" },
+  "פלר דה ליס": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "קִלשׁוֹן": { "replacement": "🔱", "description": "trident emblem" },
+  "תג שם": { "replacement": "📛", "description": "name badge" },
+  "מַתחִיל": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "o": { "replacement": "⭕", "description": "hollow red circle" },
+  "סימן ביקורת לבן": {
+    "replacement": "✅",
+    "description": "check mark button"
+  },
+  "קלפי עם המחאה": {
+    "replacement": "☑️",
+    "description": "check box with check"
+  },
+  "סימן ביקורת כבד": { "replacement": "✔️", "description": "check mark" },
+  "איקס": { "replacement": "❌", "description": "cross mark" },
+  "סימן צלב בריבוע שלילי": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "לולאה מתולתלת": { "replacement": "➰", "description": "curly loop" },
+  "לוּלָאָה": { "replacement": "➿", "description": "double curly loop" },
+  "סימן חילופי חלקים": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "שמונה כוכבים מדוברים": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "שמונה כוכבים שחורים מחודדים": {
+    "replacement": "✴️",
+    "description": "eight-pointed star"
+  },
+  "נִצנוּץ": { "replacement": "❇️", "description": "sparkle" },
+  "זכויות יוצרים": { "replacement": "©️", "description": "copyright" },
+  "רשום": { "replacement": "®️", "description": "registered" },
+  "tm": { "replacement": "™️", "description": "trade mark" },
+  "בְּלִיל": { "replacement": "#️⃣", "description": "keycap: #" },
+  "כּוֹכָבִית": { "replacement": "*️⃣", "description": "keycap: *" },
+  "אֶפֶס": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "אחד": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "שתיים": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "שְׁלוֹשָׁה": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "ארבע": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "חָמֵשׁ": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "שֵׁשׁ": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "שבע": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "שמונה": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "תֵשַׁע": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "מקש עשר": { "replacement": "🔟", "description": "keycap: 10" },
+  "שווי הון": { "replacement": "🔠", "description": "input latin uppercase" },
+  "א ב ג ד": { "replacement": "🔡", "description": "input latin lowercase" },
+  "סמלים": { "replacement": "🔣", "description": "input symbols" },
+  "א ב ג": { "replacement": "🔤", "description": "input latin letters" },
+  "א": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "ab": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "ב": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "cl": { "replacement": "🆑", "description": "CL button" },
+  "קריר": { "replacement": "🆒", "description": "COOL button" },
+  "חינם": { "replacement": "🆓", "description": "FREE button" },
+  "מקור מידע": { "replacement": "ℹ️", "description": "information" },
+  "תְעוּדַת זֶהוּת": { "replacement": "🆔", "description": "ID button" },
+  "M": { "replacement": "Ⓜ️", "description": "circled M" },
+  "חָדָשׁ": { "replacement": "🆕", "description": "NEW button" },
+  "נג": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "בסדר": { "replacement": "🆗", "description": "OK button" },
+  "חֲנָיָה": { "replacement": "🅿️", "description": "P button" },
+  "הַצִילוּ": { "replacement": "🆘", "description": "SOS button" },
+  "לְמַעלָה": { "replacement": "🆙", "description": "UP! button" },
+  "לעומת": { "replacement": "🆚", "description": "VS button" },
+  "קוקו": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "sa": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "יתרון אידיאוגרפי": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "לְקַבֵּל": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "מזל טוב": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "סוֹד": { "replacement": "㊙️", "description": "Japanese “secret” button" },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "עיגול אדום": { "replacement": "🔴", "description": "red circle" },
+  "עיגול כתום": { "replacement": "🟠", "description": "orange circle" },
+  "עיגול צהוב": { "replacement": "🟡", "description": "yellow circle" },
+  "עיגול ירוק": { "replacement": "🟢", "description": "green circle" },
+  "עיגול כחול גדול": { "replacement": "🔵", "description": "blue circle" },
+  "עיגול סגול": { "replacement": "🟣", "description": "purple circle" },
+  "עיגול חום": { "replacement": "🟤", "description": "brown circle" },
+  "עיגול שחור": { "replacement": "⚫", "description": "black circle" },
+  "עיגול לבן": { "replacement": "⚪", "description": "white circle" },
+  "ריבוע אדום": { "replacement": "🟥", "description": "red square" },
+  "ריבוע כתום": { "replacement": "🟧", "description": "orange square" },
+  "ריבוע צהוב": { "replacement": "🟨", "description": "yellow square" },
+  "כיכר ירוקה": { "replacement": "🟩", "description": "green square" },
+  "ריבוע כחול": { "replacement": "🟦", "description": "blue square" },
+  "ריבוע סגול": { "replacement": "🟪", "description": "purple square" },
+  "ריבוע חום": { "replacement": "🟫", "description": "brown square" },
+  "ריבוע שחור גדול": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "ריבוע לבן גדול": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "ריבוע בינוני שחור": {
+    "replacement": "◼️",
+    "description": "black medium square"
+  },
+  "ריבוע בינוני לבן": {
+    "replacement": "◻️",
+    "description": "white medium square"
+  },
+  "ריבוע שחור בינוני שחור": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "ריבוע לבן בינוני קטן": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "ריבוע שחור קטן": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "ריבוע קטן לבן": { "replacement": "▫️", "description": "white small square" },
+  "יהלום כתום גדול": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "יהלום כחול גדול": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "יהלום כתום קטן": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "יהלום כחול קטן": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "משולש אדום קטן": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "משולש אדום קטן למטה": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "צורת יהלום עם נקודה בפנים": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "כפתור רדיו": { "replacement": "🔘", "description": "radio button" },
+  "כפתור מרובע לבן": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "כפתור מרובע שחור": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "דגל משובץ": { "replacement": "🏁", "description": "chequered flag" },
+  "דגל משולש על המוצב": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "דגלים צולבים": { "replacement": "🎌", "description": "crossed flags" },
+  "דגל שחור": { "replacement": "🏴", "description": "black flag" },
+  "דגל לבן": { "replacement": "🏳️", "description": "white flag" },
+  "דגל קשת": { "replacement": "🏳️‍🌈", "description": "rainbow flag" },
+  "דגל טרנסג'נדר": {
+    "replacement": "🏳️‍⚧️",
+    "description": "transgender flag"
+  },
+  "דגל פיראטים": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "אי העלייה": { "replacement": "🇦🇨", "description": "flag: Ascension Island" },
+  "אנדורה": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "איחוד האמירויות הערביות": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "אפגניסטן": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "אנטיגואה ברבודה": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "אנגווילה": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "אלבניה": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "אַרְמֶנִיָה": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "אנגולה": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "אנטארקטיקה": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "ארגנטינה": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "סמואה האמריקנית": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "אוֹסְטְרֵיָה": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "אוֹסטְרַלִיָה": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "ארובה": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "איי אלנד": { "replacement": "🇦🇽", "description": "flag: Åland Islands" },
+  "אזרבייג'ן": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "בוסניה הרצגובינה": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "ברבדוס": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "בנגלדש": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "בלגיה": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "בורקינה פאסו": { "replacement": "🇧🇫", "description": "flag: Burkina Faso" },
+  "בולגריה": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "בחריין": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "בורונדי": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "בנין": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "רחוב ברתלמי": { "replacement": "🇧🇱", "description": "flag: St. Barthélemy" },
+  "ברמודה": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "ברוניי": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "בוליביה": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "הולנד הקריבית": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "בְּרָזִיל": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "בהאמה": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "בהוטן": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "אי זרי פרחים": { "replacement": "🇧🇻", "description": "flag: Bouvet Island" },
+  "בוצואנה": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "בלארוס": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "בליז": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "קנדה": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "איי קוקוס": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "קונגו קינשאסה": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "הרפובליקה המרכז - אפריקאית": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "קונגו ברזוויל": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "שוויץ": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "cote divoire": { "replacement": "🇨🇮", "description": "flag: Côte d’Ivoire" },
+  "איי בישול": { "replacement": "🇨🇰", "description": "flag: Cook Islands" },
+  "צ'ילה": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "קמרון": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "cn": { "replacement": "🇨🇳", "description": "flag: China" },
+  "קולומביה": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "האי קליפרטון": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "קוסטה ריקה": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "קובה": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "קייפ ורדה": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "קוראסאו": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "אי חג המולד": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "קַפרִיסִין": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "הרפובליקה הצ'כית": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "דה": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "דייגו גרסיה": { "replacement": "🇩🇬", "description": "flag: Diego Garcia" },
+  "ג'יבוטי": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "דנמרק": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "דומיניקה": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "הרפובליקה הדומיניקנית": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "אלג'יריה": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "ceuta melilla": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "אקוודור": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "אסטוניה": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "מִצְרַיִם": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "סהרה המערבית": {
+    "replacement": "🇪🇭",
+    "description": "flag: Western Sahara"
+  },
+  "אריתריאה": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "es": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "אֶתִיוֹפִּיָה": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "אירופה": { "replacement": "🇪🇺", "description": "flag: European Union" },
+  "פינלנד": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "פיג'י": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "איי פוקלנד": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "מיקרונזיה": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "איי פרו": { "replacement": "🇫🇴", "description": "flag: Faroe Islands" },
+  "fr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "גבון": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "gb": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "גרנדה": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "ג'ורג'יה": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "גויאנה צרפתית": {
+    "replacement": "🇬🇫",
+    "description": "flag: French Guiana"
+  },
+  "גרנזי": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "גאנה": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "גיברלטר": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "ירוק": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "גמביה": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "גינאה": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "גוואדלופ": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "גיניאה המשוונית": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "יָוָן": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "דרום ג'ורג'יה איי סנדוויץ 'דרום": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "גואטמלה": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "גואם": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "גינאה ביסאו": { "replacement": "🇬🇼", "description": "flag: Guinea-Bissau" },
+  "גיאנה": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "הונג קונג": {
+    "replacement": "🇭🇰",
+    "description": "flag: Hong Kong SAR China"
+  },
+  "שמע איי מקדונלד": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "הונדורס": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "קרואטיה": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "האיטי": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "הונגריה": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "האיים הקנריים": {
+    "replacement": "🇮🇨",
+    "description": "flag: Canary Islands"
+  },
+  "אִינדוֹנֵזִיָה": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "אירלנד": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "ישראל": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "האי מאן": { "replacement": "🇮🇲", "description": "flag: Isle of Man" },
+  "הוֹדוּ": { "replacement": "🇮🇳", "description": "flag: India" },
+  "שטח האוקיאנוס ההודי הבריטי": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "עִירַאק": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "איראן": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "אִיסלַנד": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "זה": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "ג'רזי": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "ג'מייקה": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "יַרדֵן": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "jp": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "קניה": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "קירגיזסטן": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "קמבודיה": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "קיריבטי": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "קומורו": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "סנט קיטס נביס": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "צפון קוריאה": { "replacement": "🇰🇵", "description": "flag: North Korea" },
+  "kr": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "כווית": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "איי קיימן": { "replacement": "🇰🇾", "description": "flag: Cayman Islands" },
+  "קזחסטן": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "לאוס": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "לבנון": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "סנט לוסיה": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "ליכטנשטיין": { "replacement": "🇱🇮", "description": "flag: Liechtenstein" },
+  "סרי לנקה": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "ליבריה": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "לסוטו": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "ליטא": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "לוקסמבורג": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "לטביה": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "לוב": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "מָרוֹקוֹ": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "מונקו": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "מולדובה": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "מונטנגרו": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "סנט מרטין": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "מדגסקר": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "איי מרשל": { "replacement": "🇲🇭", "description": "flag: Marshall Islands" },
+  "מוּקדוֹן": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "מאלי": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "מיאנמר": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "מונגוליה": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "מקאו": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "איי מריאנה הצפוניים": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "מרטיניק": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "מאוריטניה": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "מונטסראט": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "מלטה": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "מאוריציוס": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "האיים המלדיביים": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "מלאווי": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "מקסיקו": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "מלזיה": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "מוזמביק": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "נמיביה": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "קלדוניה החדשה": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "ניגר": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "האי נורפולק": { "replacement": "🇳🇫", "description": "flag: Norfolk Island" },
+  "ניגריה": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "ניקרגואה": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "הולנד": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "נורווגיה": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "נפאל": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "נאורו": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "niue": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "ניו זילנד": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "עומאן": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "פנמה": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "פרו": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "פולינזיה הצרפתית": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "פפואה גינאה החדשה": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "פיליפינים": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "פקיסטן": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "פּוֹלִין": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "סנט פייר מיקלון": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "איי פיטקארן": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "פוארטו ריקו": { "replacement": "🇵🇷", "description": "flag: Puerto Rico" },
+  "שטחים פלסטיניים": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "פּוֹרטוּגָל": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "פלאו": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "פרגוואי": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "קטאר": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "איחוד": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "רומניה": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "סרביה": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "ru": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "רואנדה": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "ערב הסעודית": { "replacement": "🇸🇦", "description": "flag: Saudi Arabia" },
+  "איי שלמה": { "replacement": "🇸🇧", "description": "flag: Solomon Islands" },
+  "סיישל": { "replacement": "🇸🇨", "description": "flag: Seychelles" },
+  "סודן": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "שבדיה": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "סינגפור": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "סנט הלנה": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "סלובניה": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "svalbard jan mayen": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "סלובקיה": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "סיירה ליאונה": { "replacement": "🇸🇱", "description": "flag: Sierra Leone" },
+  "סן מרינו": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "סנגל": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "סומליה": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "סורינאם": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "דרום סודן": { "replacement": "🇸🇸", "description": "flag: South Sudan" },
+  "פרינסיפ סאו טומה": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "אל סלבדור": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "סינט מארטן": { "replacement": "🇸🇽", "description": "flag: Sint Maarten" },
+  "סוּריָה": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "סווזילנד": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "טריסטן דה קונה": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "איי טורקיה": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "צ'אד": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "שטחי דרום צרפת": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "ללכת": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "תאילנד": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "טג'יקיסטן": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "טוקלאו": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "טימור לסטה": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "טורקמניסטן": { "replacement": "🇹🇲", "description": "flag: Turkmenistan" },
+  "טוניסיה": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "טונגה": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "tr": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "טריבידד טובגו": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "טובאלו": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "טייוואן": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "טנזניה": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "אוקראינה": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "אוגנדה": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "אותנו האיים המרוחקים": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "האומות המאוחדות": {
+    "replacement": "🇺🇳",
+    "description": "flag: United Nations"
+  },
+  "לָנוּ": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "אורוגוואי": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "אוזבקיסטן": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "עיר הותיקן": { "replacement": "🇻🇦", "description": "flag: Vatican City" },
+  "גרנדינות וינסנט": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "ונצואלה": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "איי בתולה בריטיים": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "איי הבתולה": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "וייטנאם": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "ונואטו": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "וואליס פוטונה": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "סמואה": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "קוסובו": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "תֵימָן": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "מיוט": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "דרום אפריקה": { "replacement": "🇿🇦", "description": "flag: South Africa" },
+  "זמביה": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "זימבבווה": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "אַנְגלִיָה": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "סקוטלנד": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "וואלס": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

@@ -1,0 +1,2867 @@
+{
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "vigyorogva": { "replacement": "😀", "description": "grinning face" },
+  "mosolygós": {
+    "replacement": "😃",
+    "description": "grinning face with big eyes"
+  },
+  "mosoly": {
+    "replacement": "😄",
+    "description": "grinning face with smiling eyes"
+  },
+  "vigyorog": {
+    "replacement": "😁",
+    "description": "beaming face with smiling eyes"
+  },
+  "nevetés": { "replacement": "😆", "description": "grinning squinting face" },
+  "verejték mosoly": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "öröm": { "replacement": "😂", "description": "face with tears of joy" },
+  "kissé mosolygós arc": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "fejjel lefelé arc": {
+    "replacement": "🙃",
+    "description": "upside-down face"
+  },
+  "Rákacsintás": { "replacement": "😉", "description": "winking face" },
+  "elpirul": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "ártatlan": { "replacement": "😇", "description": "smiling face with halo" },
+  "mosolygó arc három szívvel": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "szív szeme": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "csillag ütött": { "replacement": "🤩", "description": "star-struck" },
+  "csókolózó szív": {
+    "replacement": "😘",
+    "description": "face blowing a kiss"
+  },
+  "csókolózás": { "replacement": "😗", "description": "kissing face" },
+  "kipihent": { "replacement": "☺️", "description": "smiling face" },
+  "csukott szemmel csókolózni": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "csókolózó mosolygó szemeket": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "mosolygó arc könnyekkel": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "yum": { "replacement": "😋", "description": "face savoring food" },
+  "kidagadt nyelv": { "replacement": "😛", "description": "face with tongue" },
+  "kinyújtotta a nyelvét pislogó szemmel": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "zany arc": { "replacement": "🤪", "description": "zany face" },
+  "kinyújtotta a nyelvét csukott szemmel": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "pénz száj arca": { "replacement": "🤑", "description": "money-mouth face" },
+  "ölelés": { "replacement": "🤗", "description": "hugging face" },
+  "átadja a száját": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "shushing arc": { "replacement": "🤫", "description": "shushing face" },
+  "gondolkodás": { "replacement": "🤔", "description": "thinking face" },
+  "cipzár száj arca": {
+    "replacement": "🤐",
+    "description": "zipper-mouth face"
+  },
+  "felemelt szemöldök": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "semleges arc": { "replacement": "😐", "description": "neutral face" },
+  "kifejezéstelen": {
+    "replacement": "😑",
+    "description": "expressionless face"
+  },
+  "nincs száj": { "replacement": "😶", "description": "face without mouth" },
+  "önelégült mosoly": { "replacement": "😏", "description": "smirking face" },
+  "háborítatlanul": { "replacement": "😒", "description": "unamused face" },
+  "szemforgatás": {
+    "replacement": "🙄",
+    "description": "face with rolling eyes"
+  },
+  "fintorogva": { "replacement": "😬", "description": "grimacing face" },
+  "fekvő arc": { "replacement": "🤥", "description": "lying face" },
+  "megkönnyebbült": { "replacement": "😌", "description": "relieved face" },
+  "töprengő": { "replacement": "😔", "description": "pensive face" },
+  "álmos": { "replacement": "😪", "description": "sleepy face" },
+  "nyálas arc": { "replacement": "🤤", "description": "drooling face" },
+  "alvás": { "replacement": "😴", "description": "sleeping face" },
+  "maszk": { "replacement": "😷", "description": "face with medical mask" },
+  "arc hőmérővel": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "arc fejkötéssel": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "émelygő arc": { "replacement": "🤢", "description": "nauseated face" },
+  "hányó arc": { "replacement": "🤮", "description": "face vomiting" },
+  "tüsszögő arc": { "replacement": "🤧", "description": "sneezing face" },
+  "forró arc": { "replacement": "🥵", "description": "hot face" },
+  "hideg arc": { "replacement": "🥶", "description": "cold face" },
+  "ócska arc": { "replacement": "🥴", "description": "woozy face" },
+  "szédült arc": { "replacement": "😵", "description": "dizzy face" },
+  "felrobbant fej": { "replacement": "🤯", "description": "exploding head" },
+  "cowboy kalap arca": {
+    "replacement": "🤠",
+    "description": "cowboy hat face"
+  },
+  "bulizós arc": { "replacement": "🥳", "description": "partying face" },
+  "álcázott arc": { "replacement": "🥸", "description": "disguised face" },
+  "napszemüveg": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "majom arc": { "replacement": "🐵", "description": "monkey face" },
+  "monokli arc": { "replacement": "🧐", "description": "face with monocle" },
+  "zavaros": { "replacement": "😕", "description": "confused face" },
+  "aggódó": { "replacement": "😟", "description": "worried face" },
+  "kissé homlokráncoló arc": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "a homlokát ráncoló arc": {
+    "replacement": "☹️",
+    "description": "frowning face"
+  },
+  "nyitott száj": {
+    "replacement": "😮",
+    "description": "face with open mouth"
+  },
+  "elhallgatott": { "replacement": "😯", "description": "hushed face" },
+  "csodálkozva": { "replacement": "😲", "description": "astonished face" },
+  "kipirult": { "replacement": "😳", "description": "flushed face" },
+  "könyörgő arc": { "replacement": "🥺", "description": "pleading face" },
+  "ráncolja a homlokát": {
+    "replacement": "😦",
+    "description": "frowning face with open mouth"
+  },
+  "kínos": { "replacement": "😧", "description": "anguished face" },
+  "félelmetes": { "replacement": "😨", "description": "fearful face" },
+  "hideg verejték": {
+    "replacement": "😰",
+    "description": "anxious face with sweat"
+  },
+  "csalódottan megkönnyebbült": {
+    "replacement": "😥",
+    "description": "sad but relieved face"
+  },
+  "kiáltás": { "replacement": "😢", "description": "crying face" },
+  "zokogás": { "replacement": "😭", "description": "loudly crying face" },
+  "sikoly": { "replacement": "😱", "description": "face screaming in fear" },
+  "zavart": { "replacement": "😖", "description": "confounded face" },
+  "kitartani": { "replacement": "😣", "description": "persevering face" },
+  "csalódott": { "replacement": "😞", "description": "disappointed face" },
+  "izzad": { "replacement": "😓", "description": "downcast face with sweat" },
+  "fáradt": { "replacement": "😩", "description": "weary face" },
+  "fáradt arc": { "replacement": "😫", "description": "tired face" },
+  "ásító arc": { "replacement": "🥱", "description": "yawning face" },
+  "diadal": { "replacement": "😤", "description": "face with steam from nose" },
+  "düh": { "replacement": "😡", "description": "pouting face" },
+  "mérges": { "replacement": "😠", "description": "angry face" },
+  "káromkodó arc": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "mosolygó imp": {
+    "replacement": "😈",
+    "description": "smiling face with horns"
+  },
+  "manó": { "replacement": "👿", "description": "angry face with horns" },
+  "koponya": { "replacement": "💀", "description": "skull" },
+  "halálfej": { "replacement": "☠️", "description": "skull and crossbones" },
+  "Hankey": { "replacement": "💩", "description": "pile of poo" },
+  "bohóc arc": { "replacement": "🤡", "description": "clown face" },
+  "japán ogre": { "replacement": "👹", "description": "ogre" },
+  "japán kobold": { "replacement": "👺", "description": "goblin" },
+  "szellem": { "replacement": "👻", "description": "ghost" },
+  "idegen": { "replacement": "👽", "description": "alien" },
+  "űrroham": { "replacement": "👾", "description": "alien monster" },
+  "robot": { "replacement": "🤖", "description": "robot" },
+  "mosolygós macska": { "replacement": "😺", "description": "grinning cat" },
+  "mosoly macska": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "öröm macska": {
+    "replacement": "😹",
+    "description": "cat with tears of joy"
+  },
+  "szív szeme macska": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "vigyorgó macska": {
+    "replacement": "😼",
+    "description": "cat with wry smile"
+  },
+  "csókolózó macska": { "replacement": "😽", "description": "kissing cat" },
+  "sikít macska": { "replacement": "🙀", "description": "weary cat" },
+  "síró macska arca": { "replacement": "😿", "description": "crying cat" },
+  "duzzogó macska": { "replacement": "😾", "description": "pouting cat" },
+  "ne láss gonoszt": {
+    "replacement": "🙈",
+    "description": "see-no-evil monkey"
+  },
+  "ne hallj rosszat": {
+    "replacement": "🙉",
+    "description": "hear-no-evil monkey"
+  },
+  "ne beszélj csúnyán": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "csók": { "replacement": "💋", "description": "kiss mark" },
+  "szerelmes levél": { "replacement": "💌", "description": "love letter" },
+  "Ámor": { "replacement": "💘", "description": "heart with arrow" },
+  "ajándék szív": { "replacement": "💝", "description": "heart with ribbon" },
+  "csillogó szív": { "replacement": "💖", "description": "sparkling heart" },
+  "szívverés": { "replacement": "💓", "description": "beating heart" },
+  "forgó szívek": { "replacement": "💞", "description": "revolving hearts" },
+  "két szív": { "replacement": "💕", "description": "two hearts" },
+  "szívdísz": { "replacement": "💟", "description": "heart decoration" },
+  "súlyos szívkiáltás": {
+    "replacement": "❣️",
+    "description": "heart exclamation"
+  },
+  "összetört szív": { "replacement": "💔", "description": "broken heart" },
+  "szív": { "replacement": "❤️", "description": "red heart" },
+  "narancssárga szív": { "replacement": "🧡", "description": "orange heart" },
+  "sárga szív": { "replacement": "💛", "description": "yellow heart" },
+  "zöld Szív": { "replacement": "💚", "description": "green heart" },
+  "kék szív": { "replacement": "💙", "description": "blue heart" },
+  "lila szív": { "replacement": "💜", "description": "purple heart" },
+  "barna szív": { "replacement": "🤎", "description": "brown heart" },
+  "fekete szív": { "replacement": "🖤", "description": "black heart" },
+  "fehér szív": { "replacement": "🤍", "description": "white heart" },
+  "harag": { "replacement": "💢", "description": "anger symbol" },
+  "bumm": { "replacement": "💥", "description": "collision" },
+  "szédülő": { "replacement": "💫", "description": "dizzy" },
+  "izzadságcseppek": { "replacement": "💦", "description": "sweat droplets" },
+  "gondolatjel": { "replacement": "💨", "description": "dashing away" },
+  "lyuk": { "replacement": "🕳️", "description": "hole" },
+  "bomba": { "replacement": "💣", "description": "bomb" },
+  "beszéd lufi": { "replacement": "💬", "description": "speech balloon" },
+  "szem beszéd buborék": {
+    "replacement": "👁️‍🗨️",
+    "description": "eye in speech bubble"
+  },
+  "bal beszéd buborék": {
+    "replacement": "🗨️",
+    "description": "left speech bubble"
+  },
+  "jobb harag buborék": {
+    "replacement": "🗯️",
+    "description": "right anger bubble"
+  },
+  "gondolat léggömb": { "replacement": "💭", "description": "thought balloon" },
+  "zzz": { "replacement": "💤", "description": "zzz" },
+  "hullám": { "replacement": "👋", "description": "waving hand" },
+  "felemelte a kezét": {
+    "replacement": "🤚",
+    "description": "raised back of hand"
+  },
+  "felemelt kéz széttárt ujjakkal": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "kéz": { "replacement": "✋", "description": "raised hand" },
+  "vulkáni tisztelgés": { "replacement": "🖖", "description": "vulcan salute" },
+  "rendben kéz": { "replacement": "👌", "description": "OK hand" },
+  "csipkedett ujjak": { "replacement": "🤌", "description": "pinched fingers" },
+  "csipkedő kéz": { "replacement": "🤏", "description": "pinching hand" },
+  "v": { "replacement": "✌️", "description": "victory hand" },
+  "keresztezett ujjak": {
+    "replacement": "🤞",
+    "description": "crossed fingers"
+  },
+  "szeretlek gesztus": {
+    "replacement": "🤟",
+    "description": "love-you gesture"
+  },
+  "fém": { "replacement": "🤘", "description": "sign of the horns" },
+  "hívj kezet": { "replacement": "🤙", "description": "call me hand" },
+  "pont balra": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "mutasson jobbra": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "felfelé 2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "középső ujj": { "replacement": "🖕", "description": "middle finger" },
+  "mutasson lefelé": {
+    "replacement": "👇",
+    "description": "backhand index pointing down"
+  },
+  "mutasson felfelé": {
+    "replacement": "☝️",
+    "description": "index pointing up"
+  },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "ököl felemelt": { "replacement": "✊", "description": "raised fist" },
+  "ököl szembejövő": { "replacement": "👊", "description": "oncoming fist" },
+  "ököl balra": { "replacement": "🤛", "description": "left-facing fist" },
+  "ököl jobbra": { "replacement": "🤜", "description": "right-facing fist" },
+  "taps": { "replacement": "👏", "description": "clapping hands" },
+  "felemelt kézzel": { "replacement": "🙌", "description": "raising hands" },
+  "nyitott kéz": { "replacement": "👐", "description": "open hands" },
+  "tenyérrel felfelé": {
+    "replacement": "🤲",
+    "description": "palms up together"
+  },
+  "kézfogás": { "replacement": "🤝", "description": "handshake" },
+  "imádkozik": { "replacement": "🙏", "description": "folded hands" },
+  "író kéz": { "replacement": "✍️", "description": "writing hand" },
+  "körömápolás": { "replacement": "💅", "description": "nail polish" },
+  "szelfi": { "replacement": "🤳", "description": "selfie" },
+  "izom": { "replacement": "💪", "description": "flexed biceps" },
+  "mechanikus kar": { "replacement": "🦾", "description": "mechanical arm" },
+  "mechanikus láb": { "replacement": "🦿", "description": "mechanical leg" },
+  "láb": { "replacement": "🐾", "description": "paw prints" },
+  "fül": { "replacement": "👂", "description": "ear" },
+  "fül hallókészülékkel": {
+    "replacement": "🦻",
+    "description": "ear with hearing aid"
+  },
+  "orr": { "replacement": "👃", "description": "nose" },
+  "agy": { "replacement": "🧠", "description": "brain" },
+  "anatómiai szív": { "replacement": "🫀", "description": "anatomical heart" },
+  "tüdő": { "replacement": "🫁", "description": "lungs" },
+  "fog": { "replacement": "🦷", "description": "tooth" },
+  "csont": { "replacement": "🦴", "description": "bone" },
+  "szemek": { "replacement": "👀", "description": "eyes" },
+  "szem": { "replacement": "👁️", "description": "eye" },
+  "nyelv": { "replacement": "👅", "description": "tongue" },
+  "ajkak": { "replacement": "👄", "description": "mouth" },
+  "baba": { "replacement": "👶", "description": "baby" },
+  "gyermek": { "replacement": "🧒", "description": "child" },
+  "fiú": { "replacement": "👦", "description": "boy" },
+  "lány": { "replacement": "👧", "description": "girl" },
+  "felnőtt": { "replacement": "🧑", "description": "person" },
+  "szőke hajú ember": {
+    "replacement": "👱",
+    "description": "person: blond hair"
+  },
+  "Férfi": { "replacement": "👨", "description": "man" },
+  "szakállas ember": { "replacement": "🧔", "description": "man: beard" },
+  "vörös hajú férfi": { "replacement": "👨‍🦰", "description": "man: red hair" },
+  "göndör hajú férfi": {
+    "replacement": "👨‍🦱",
+    "description": "man: curly hair"
+  },
+  "fehér hajú férfi": { "replacement": "👨‍🦳", "description": "man: white hair" },
+  "kopasz férfi": { "replacement": "👨‍🦲", "description": "man: bald" },
+  "nő": { "replacement": "👩", "description": "woman" },
+  "vörös hajú nő": { "replacement": "👩‍🦰", "description": "woman: red hair" },
+  "személy vörös hajú": {
+    "replacement": "🧑‍🦰",
+    "description": "person: red hair"
+  },
+  "göndör hajú nő": { "replacement": "👩‍🦱", "description": "woman: curly hair" },
+  "személy göndör haj": {
+    "replacement": "🧑‍🦱",
+    "description": "person: curly hair"
+  },
+  "fehér hajú nő": { "replacement": "👩‍🦳", "description": "woman: white hair" },
+  "személy fehér haj": {
+    "replacement": "🧑‍🦳",
+    "description": "person: white hair"
+  },
+  "kopasz nő": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "kopasz személy": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "szőke hajú nő": { "replacement": "👱‍♀️", "description": "woman: blond hair" },
+  "szőke hajú férfi": { "replacement": "👱‍♂️", "description": "man: blond hair" },
+  "idősebb felnőtt": { "replacement": "🧓", "description": "older person" },
+  "idősebb férfi": { "replacement": "👴", "description": "old man" },
+  "idősebb nő": { "replacement": "👵", "description": "old woman" },
+  "homlokráncoló ember": {
+    "replacement": "🙍",
+    "description": "person frowning"
+  },
+  "a homlokát ráncoló ember": {
+    "replacement": "🙍‍♂️",
+    "description": "man frowning"
+  },
+  "a homlokát ráncoló nő": {
+    "replacement": "🙍‍♀️",
+    "description": "woman frowning"
+  },
+  "duzzogó arccal": { "replacement": "🙎", "description": "person pouting" },
+  "duzzogva ember": { "replacement": "🙎‍♂️", "description": "man pouting" },
+  "duzzogó nő": { "replacement": "🙎‍♀️", "description": "woman pouting" },
+  "nem jó": { "replacement": "🙅", "description": "person gesturing NO" },
+  "nincs jó ember": { "replacement": "🙅‍♂️", "description": "man gesturing NO" },
+  "nincs jó nő": { "replacement": "🙅‍♀️", "description": "woman gesturing NO" },
+  "ok ember": { "replacement": "🙆", "description": "person gesturing OK" },
+  "rendben ember": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "rendben nő": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "borravaló kézi személy": {
+    "replacement": "💁",
+    "description": "person tipping hand"
+  },
+  "billenő kéz ember": {
+    "replacement": "💁‍♂️",
+    "description": "man tipping hand"
+  },
+  "billenő kéz nő": {
+    "replacement": "💁‍♀️",
+    "description": "woman tipping hand"
+  },
+  "emelő kezet": { "replacement": "🙋", "description": "person raising hand" },
+  "emelő kéz ember": { "replacement": "🙋‍♂️", "description": "man raising hand" },
+  "emelő kéz nő": { "replacement": "🙋‍♀️", "description": "woman raising hand" },
+  "süket ember": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "süket nő": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "íj": { "replacement": "🙇", "description": "person bowing" },
+  "meghajló ember": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "meghajló nő": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "facepalm": { "replacement": "🤦", "description": "person facepalming" },
+  "az ember arca": { "replacement": "🤦‍♂️", "description": "man facepalming" },
+  "nő arcápolás": { "replacement": "🤦‍♀️", "description": "woman facepalming" },
+  "vállvonás": { "replacement": "🤷", "description": "person shrugging" },
+  "férfi vállat von": { "replacement": "🤷‍♂️", "description": "man shrugging" },
+  "nő vállat von": { "replacement": "🤷‍♀️", "description": "woman shrugging" },
+  "egészségügyi dolgozó": {
+    "replacement": "🧑‍⚕️",
+    "description": "health worker"
+  },
+  "ember egészségügyi dolgozó": {
+    "replacement": "👨‍⚕️",
+    "description": "man health worker"
+  },
+  "nő egészségügyi dolgozó": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "diák": { "replacement": "🧑‍🎓", "description": "student" },
+  "férfi hallgató": { "replacement": "👨‍🎓", "description": "man student" },
+  "nő diák": { "replacement": "👩‍🎓", "description": "woman student" },
+  "tanár": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "ember tanár": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "nő tanár": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "bíró": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "emberbíró": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "nőbíró": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "Gazda": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "ember farmer": { "replacement": "👨‍🌾", "description": "man farmer" },
+  "nő gazda": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "szakács": { "replacement": "🧑‍🍳", "description": "cook" },
+  "főzni": { "replacement": "👨‍🍳", "description": "man cook" },
+  "nő szakács": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "szerelő": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "ember szerelő": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "nő szerelő": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "gyári munkás": { "replacement": "🧑‍🏭", "description": "factory worker" },
+  "ember gyári munkás": {
+    "replacement": "👨‍🏭",
+    "description": "man factory worker"
+  },
+  "nő gyári munkás": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "irodai dolgozó": { "replacement": "🧑‍💼", "description": "office worker" },
+  "ember irodai dolgozó": {
+    "replacement": "👨‍💼",
+    "description": "man office worker"
+  },
+  "nő irodai dolgozó": {
+    "replacement": "👩‍💼",
+    "description": "woman office worker"
+  },
+  "tudós": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "ember tudós": { "replacement": "👨‍🔬", "description": "man scientist" },
+  "nő tudós": { "replacement": "👩‍🔬", "description": "woman scientist" },
+  "technológus": { "replacement": "🧑‍💻", "description": "technologist" },
+  "ember technológus": {
+    "replacement": "👨‍💻",
+    "description": "man technologist"
+  },
+  "nő technológus": {
+    "replacement": "👩‍💻",
+    "description": "woman technologist"
+  },
+  "énekes": { "replacement": "🧑‍🎤", "description": "singer" },
+  "férfi énekes": { "replacement": "👨‍🎤", "description": "man singer" },
+  "énekesnő": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "művész": { "replacement": "🧑‍🎨", "description": "artist" },
+  "ember művész": { "replacement": "👨‍🎨", "description": "man artist" },
+  "nő művész": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "pilóta": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "férfi pilóta": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "nő pilóta": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "űrhajós": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "ember űrhajós": { "replacement": "👨‍🚀", "description": "man astronaut" },
+  "űrhajós nő": { "replacement": "👩‍🚀", "description": "woman astronaut" },
+  "tűzoltó": { "replacement": "🧑‍🚒", "description": "firefighter" },
+  "ember tűzoltó": { "replacement": "👨‍🚒", "description": "man firefighter" },
+  "nő tűzoltó": { "replacement": "👩‍🚒", "description": "woman firefighter" },
+  "rendőr": { "replacement": "👮‍♂️", "description": "man police officer" },
+  "rendőrnő": { "replacement": "👮‍♀️", "description": "woman police officer" },
+  "nyomozó": { "replacement": "🕵️", "description": "detective" },
+  "férfi nyomozó": { "replacement": "🕵️‍♂️", "description": "man detective" },
+  "női nyomozó": { "replacement": "🕵️‍♀️", "description": "woman detective" },
+  "őr": { "replacement": "💂", "description": "guard" },
+  "gárdista": { "replacement": "💂‍♂️", "description": "man guard" },
+  "őrnő": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "Nindzsa": { "replacement": "🥷", "description": "ninja" },
+  "építőipari munkás": {
+    "replacement": "👷",
+    "description": "construction worker"
+  },
+  "építőmunkás ember": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "építőmunkás nő": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "herceg": { "replacement": "🤴", "description": "prince" },
+  "hercegnő": { "replacement": "👸", "description": "princess" },
+  "turbánnal rendelkező személy": {
+    "replacement": "👳",
+    "description": "person wearing turban"
+  },
+  "turbános férfi": {
+    "replacement": "👳‍♂️",
+    "description": "man wearing turban"
+  },
+  "nő turbánnal": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "férfi gua pi mao-val": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "nő fejkendővel": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "szmokingos személy": {
+    "replacement": "🤵",
+    "description": "person in tuxedo"
+  },
+  "szmokingos férfi": {
+    "replacement": "🤵‍♂️",
+    "description": "man in tuxedo"
+  },
+  "nő szmokingban": {
+    "replacement": "🤵‍♀️",
+    "description": "woman in tuxedo"
+  },
+  "fátyolos személy": {
+    "replacement": "👰",
+    "description": "person with veil"
+  },
+  "fátyolos férfi": { "replacement": "👰‍♂️", "description": "man with veil" },
+  "nő fátyol": { "replacement": "👰‍♀️", "description": "woman with veil" },
+  "terhes nő": { "replacement": "🤰", "description": "pregnant woman" },
+  "szoptatás": { "replacement": "🤱", "description": "breast-feeding" },
+  "nő etetése baba": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "ember etetése baba": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "személy, aki eteti a babát": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "angyal": { "replacement": "👼", "description": "baby angel" },
+  "Télapó": { "replacement": "🎅", "description": "Santa Claus" },
+  "claus asszony": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "mx záradék": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "szuperhős": { "replacement": "🦸", "description": "superhero" },
+  "szuperhős ember": { "replacement": "🦸‍♂️", "description": "man superhero" },
+  "szuperhős nő": { "replacement": "🦸‍♀️", "description": "woman superhero" },
+  "supervillain": { "replacement": "🦹", "description": "supervillain" },
+  "supervillain ember": {
+    "replacement": "🦹‍♂️",
+    "description": "man supervillain"
+  },
+  "supervillain nő": {
+    "replacement": "🦹‍♀️",
+    "description": "woman supervillain"
+  },
+  "mágus": { "replacement": "🧙", "description": "mage" },
+  "mágusember": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "mágus nő": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "tündér": { "replacement": "🧚", "description": "fairy" },
+  "tündér ember": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "tündér nő": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "vámpír": { "replacement": "🧛", "description": "vampire" },
+  "vámpír ember": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "vámpír nő": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "kereskedő": { "replacement": "🧜", "description": "merperson" },
+  "férfisellő": { "replacement": "🧜‍♂️", "description": "merman" },
+  "sellő": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "Manó": { "replacement": "🧝", "description": "elf" },
+  "manó ember": { "replacement": "🧝‍♂️", "description": "man elf" },
+  "manó nő": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "dzsinn": { "replacement": "🧞", "description": "genie" },
+  "dzsinn ember": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "dzsinn nő": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "zombi": { "replacement": "🧟", "description": "zombie" },
+  "zombi ember": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "zombi nő": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "masszázs": { "replacement": "💆", "description": "person getting massage" },
+  "masszázs ember": {
+    "replacement": "💆‍♂️",
+    "description": "man getting massage"
+  },
+  "masszázs nő": {
+    "replacement": "💆‍♀️",
+    "description": "woman getting massage"
+  },
+  "hajvágás": { "replacement": "💇", "description": "person getting haircut" },
+  "fodrász ember": {
+    "replacement": "💇‍♂️",
+    "description": "man getting haircut"
+  },
+  "fodrász nő": { "replacement": "💇‍♀️", "description": "woman getting haircut" },
+  "gyaloglás": { "replacement": "🚶", "description": "person walking" },
+  "sétáló ember": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "sétáló nő": { "replacement": "🚶‍♀️", "description": "woman walking" },
+  "álló személy": { "replacement": "🧍", "description": "person standing" },
+  "álló ember": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "álló nő": { "replacement": "🧍‍♀️", "description": "woman standing" },
+  "térdelő személy": { "replacement": "🧎", "description": "person kneeling" },
+  "térdelő ember": { "replacement": "🧎‍♂️", "description": "man kneeling" },
+  "térdelő nő": { "replacement": "🧎‍♀️", "description": "woman kneeling" },
+  "szondás vesszővel rendelkező személy": {
+    "replacement": "🧑‍🦯",
+    "description": "person with white cane"
+  },
+  "férfi szondával vesszővel": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "nő szondával vesszővel": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "személy motoros kerekesszékkel": {
+    "replacement": "🧑‍🦼",
+    "description": "person in motorized wheelchair"
+  },
+  "férfi motoros kerekesszékben": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "nő motoros kerekesszékben": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "személy kézi kerekesszékkel": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "férfi kézi kerekesszékkel": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "nő kézi kerekesszékben": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "futó": { "replacement": "🏃", "description": "person running" },
+  "futó ember": { "replacement": "🏃‍♂️", "description": "man running" },
+  "futó nő": { "replacement": "🏃‍♀️", "description": "woman running" },
+  "nő táncol": { "replacement": "💃", "description": "woman dancing" },
+  "az ember táncol": { "replacement": "🕺", "description": "man dancing" },
+  "üzleti öltöny lebegő": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "táncosok": { "replacement": "👯", "description": "people with bunny ears" },
+  "táncoló férfiak": {
+    "replacement": "👯‍♂️",
+    "description": "men with bunny ears"
+  },
+  "táncoló nők": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "szauna ember": { "replacement": "🧖‍♂️", "description": "man in steamy room" },
+  "szauna nő": { "replacement": "🧖‍♀️", "description": "woman in steamy room" },
+  "mászó": { "replacement": "🧗", "description": "person climbing" },
+  "hegymászó ember": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "hegymászó nő": { "replacement": "🧗‍♀️", "description": "woman climbing" },
+  "személy kerítés": { "replacement": "🤺", "description": "person fencing" },
+  "Lóverseny": { "replacement": "🏇", "description": "horse racing" },
+  "síelő": { "replacement": "⛷️", "description": "skier" },
+  "snowboardos": { "replacement": "🏂", "description": "snowboarder" },
+  "golfozás": { "replacement": "🏌️", "description": "person golfing" },
+  "golfozó ember": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "golfozó nő": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "szörfös": { "replacement": "🏄", "description": "person surfing" },
+  "szörfözés ember": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "szörfözés nő": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "csónak": { "replacement": "🚣", "description": "person rowing boat" },
+  "evező ember": { "replacement": "🚣‍♂️", "description": "man rowing boat" },
+  "evező nő": { "replacement": "🚣‍♀️", "description": "woman rowing boat" },
+  "úszó": { "replacement": "🏊", "description": "person swimming" },
+  "úszó ember": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "úszó nő": { "replacement": "🏊‍♀️", "description": "woman swimming" },
+  "pattogó labda ember": {
+    "replacement": "⛹️‍♂️",
+    "description": "man bouncing ball"
+  },
+  "pattogó labda nő": {
+    "replacement": "⛹️‍♀️",
+    "description": "woman bouncing ball"
+  },
+  "súlyemelés": {
+    "replacement": "🏋️",
+    "description": "person lifting weights"
+  },
+  "súlyemelő ember": {
+    "replacement": "🏋️‍♂️",
+    "description": "man lifting weights"
+  },
+  "súlyemelő nő": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "kerékpáros": { "replacement": "🚴", "description": "person biking" },
+  "kerékpáros ember": { "replacement": "🚴‍♂️", "description": "man biking" },
+  "kerékpáros nő": { "replacement": "🚴‍♀️", "description": "woman biking" },
+  "hegyi kerékpáros": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "hegyi kerékpározás ember": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "hegyi kerékpáros nő": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "szekérkerék": { "replacement": "🤸", "description": "person cartwheeling" },
+  "férfi kocsi": { "replacement": "🤸‍♂️", "description": "man cartwheeling" },
+  "nő kocsi": { "replacement": "🤸‍♀️", "description": "woman cartwheeling" },
+  "birkózás": { "replacement": "🤼", "description": "people wrestling" },
+  "férfiak birkóznak": { "replacement": "🤼‍♂️", "description": "men wrestling" },
+  "nők birkóznak": { "replacement": "🤼‍♀️", "description": "women wrestling" },
+  "Vízilabda": {
+    "replacement": "🤽",
+    "description": "person playing water polo"
+  },
+  "ember játszik vízilabdát": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "nő játszik vízilabda": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "kézilabda személy": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "ember kézilabdázik": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "nő kézilabdázik": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "zsonglőr ember": { "replacement": "🤹", "description": "person juggling" },
+  "ember zsonglőrködik": { "replacement": "🤹‍♂️", "description": "man juggling" },
+  "nő zsonglőrködik": { "replacement": "🤹‍♀️", "description": "woman juggling" },
+  "lótusz helyzet": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "lótusz helyzetű ember": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "lótusz helyzet nő": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "fürdőkád": { "replacement": "🛁", "description": "bathtub" },
+  "alvó ágy": { "replacement": "🛌", "description": "person in bed" },
+  "emberek kézenfogva": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "két nő kézenfogva": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "párosít": {
+    "replacement": "👫",
+    "description": "woman and man holding hands"
+  },
+  "két kézenfogva": { "replacement": "👬", "description": "men holding hands" },
+  "couplekiss": { "replacement": "💏", "description": "kiss" },
+  "couplekiss férfi nő": {
+    "replacement": "👩‍❤️‍💋‍👨",
+    "description": "kiss: woman, man"
+  },
+  "couplekiss férfi ember": {
+    "replacement": "👨‍❤️‍💋‍👨",
+    "description": "kiss: man, man"
+  },
+  "couplekiss nő nő": {
+    "replacement": "👩‍❤️‍💋‍👩",
+    "description": "kiss: woman, woman"
+  },
+  "pár szívvel": { "replacement": "💑", "description": "couple with heart" },
+  "pár szív nő nő": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "pár szívvel ember ember": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "család": { "replacement": "👪", "description": "family" },
+  "család férfi nő fiú": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "családi férfi nő lány": {
+    "replacement": "👨‍👩‍👧",
+    "description": "family: man, woman, girl"
+  },
+  "család férfi nő lány fiú": {
+    "replacement": "👨‍👩‍👧‍👦",
+    "description": "family: man, woman, girl, boy"
+  },
+  "család férfi nő fiú fiú": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "család férfi nő lány lány": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "családi ember férfi fiú": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "családi ember férfi lány": {
+    "replacement": "👨‍👨‍👧",
+    "description": "family: man, man, girl"
+  },
+  "családi ember férfi lány fiú": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "családi ember férfi fiú fiú": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "családi ember férfi lány lány": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "család nő nő fiú": {
+    "replacement": "👩‍👩‍👦",
+    "description": "family: woman, woman, boy"
+  },
+  "család nő nő lány": {
+    "replacement": "👩‍👩‍👧",
+    "description": "family: woman, woman, girl"
+  },
+  "család nő nő lány fiú": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "család nő nő fiú fiú": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "család nő nő lány lány": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "családi ember fiú": {
+    "replacement": "👨‍👦",
+    "description": "family: man, boy"
+  },
+  "családi ember fiú fiú": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "családi ember lány": {
+    "replacement": "👨‍👧",
+    "description": "family: man, girl"
+  },
+  "családi férfi lány fiú": {
+    "replacement": "👨‍👧‍👦",
+    "description": "family: man, girl, boy"
+  },
+  "családi férfi lány lány": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "család nő fiú": { "replacement": "👩‍👦", "description": "family: woman, boy" },
+  "család nő fiú fiú": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "családi nő lány": {
+    "replacement": "👩‍👧",
+    "description": "family: woman, girl"
+  },
+  "család nő lány fiú": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "család nő lány lány": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "beszélő fej": { "replacement": "🗣️", "description": "speaking head" },
+  "mellsziluettje": {
+    "replacement": "👤",
+    "description": "bust in silhouette"
+  },
+  "mellszobrok sziluettje": {
+    "replacement": "👥",
+    "description": "busts in silhouette"
+  },
+  "az emberek átölelve": {
+    "replacement": "🫂",
+    "description": "people hugging"
+  },
+  "lábnyomok": { "replacement": "👣", "description": "footprints" },
+  "majom": { "replacement": "🐒", "description": "monkey" },
+  "gorilla": { "replacement": "🦍", "description": "gorilla" },
+  "orangután": { "replacement": "🦧", "description": "orangutan" },
+  "kutya": { "replacement": "🐶", "description": "dog face" },
+  "kutya2": { "replacement": "🐕", "description": "dog" },
+  "vakvezető kutya": { "replacement": "🦮", "description": "guide dog" },
+  "szolgálati kutya": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "uszkár": { "replacement": "🐩", "description": "poodle" },
+  "farkas": { "replacement": "🐺", "description": "wolf" },
+  "róka arca": { "replacement": "🦊", "description": "fox" },
+  "mosómedve": { "replacement": "🦝", "description": "raccoon" },
+  "macska": { "replacement": "🐱", "description": "cat face" },
+  "cat2": { "replacement": "🐈", "description": "cat" },
+  "fekete macska": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "oroszlán": { "replacement": "🦁", "description": "lion" },
+  "tigris": { "replacement": "🐯", "description": "tiger face" },
+  "tigris2": { "replacement": "🐅", "description": "tiger" },
+  "leopárd": { "replacement": "🐆", "description": "leopard" },
+  "ló": { "replacement": "🐴", "description": "horse face" },
+  "versenyló": { "replacement": "🐎", "description": "horse" },
+  "egyszarvú": { "replacement": "🦄", "description": "unicorn" },
+  "zebra": { "replacement": "🦓", "description": "zebra" },
+  "szarvas": { "replacement": "🦌", "description": "deer" },
+  "bölény": { "replacement": "🦬", "description": "bison" },
+  "tehén": { "replacement": "🐮", "description": "cow face" },
+  "ökör": { "replacement": "🐂", "description": "ox" },
+  "bivaly": { "replacement": "🐃", "description": "water buffalo" },
+  "tehén2": { "replacement": "🐄", "description": "cow" },
+  "malac": { "replacement": "🐷", "description": "pig face" },
+  "disznó2": { "replacement": "🐖", "description": "pig" },
+  "vaddisznó": { "replacement": "🐗", "description": "boar" },
+  "disznó orra": { "replacement": "🐽", "description": "pig nose" },
+  "kos": { "replacement": "🐏", "description": "ram" },
+  "juh": { "replacement": "🐑", "description": "ewe" },
+  "kecske": { "replacement": "🐐", "description": "goat" },
+  "dromedár teve": { "replacement": "🐪", "description": "camel" },
+  "teve": { "replacement": "🐫", "description": "two-hump camel" },
+  "láma": { "replacement": "🦙", "description": "llama" },
+  "zsiráf": { "replacement": "🦒", "description": "giraffe" },
+  "elefánt": { "replacement": "🐘", "description": "elephant" },
+  "mamut-": { "replacement": "🦣", "description": "mammoth" },
+  "orrszarvú": { "replacement": "🦏", "description": "rhinoceros" },
+  "víziló": { "replacement": "🦛", "description": "hippopotamus" },
+  "egér": { "replacement": "🐭", "description": "mouse face" },
+  "egér2": { "replacement": "🐁", "description": "mouse" },
+  "patkány": { "replacement": "🐀", "description": "rat" },
+  "hörcsög": { "replacement": "🐹", "description": "hamster" },
+  "nyúl": { "replacement": "🐰", "description": "rabbit face" },
+  "nyúl2": { "replacement": "🐇", "description": "rabbit" },
+  "mókus": { "replacement": "🐿️", "description": "chipmunk" },
+  "Hód": { "replacement": "🦫", "description": "beaver" },
+  "sündisznó": { "replacement": "🦔", "description": "hedgehog" },
+  "denevér": { "replacement": "🦇", "description": "bat" },
+  "medve": { "replacement": "🐻", "description": "bear" },
+  "jegesmedve": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "koala": { "replacement": "🐨", "description": "koala" },
+  "panda arca": { "replacement": "🐼", "description": "panda" },
+  "lajhár": { "replacement": "🦥", "description": "sloth" },
+  "vidra": { "replacement": "🦦", "description": "otter" },
+  "bűzös borz": { "replacement": "🦨", "description": "skunk" },
+  "kenguru": { "replacement": "🦘", "description": "kangaroo" },
+  "borz": { "replacement": "🦡", "description": "badger" },
+  "pulyka": { "replacement": "🦃", "description": "turkey" },
+  "csirke": { "replacement": "🐔", "description": "chicken" },
+  "kakas": { "replacement": "🐓", "description": "rooster" },
+  "kikelő csaj": { "replacement": "🐣", "description": "hatching chick" },
+  "babacsaj": { "replacement": "🐤", "description": "baby chick" },
+  "kikelt csaj": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "madár": { "replacement": "🐦", "description": "bird" },
+  "pingvin": { "replacement": "🐧", "description": "penguin" },
+  "galamb": { "replacement": "🕊️", "description": "dove" },
+  "sas": { "replacement": "🦅", "description": "eagle" },
+  "kacsa": { "replacement": "🦆", "description": "duck" },
+  "hattyú": { "replacement": "🦢", "description": "swan" },
+  "bagoly": { "replacement": "🦉", "description": "owl" },
+  "dodó": { "replacement": "🦤", "description": "dodo" },
+  "madártoll": { "replacement": "🪶", "description": "feather" },
+  "flamingó": { "replacement": "🦩", "description": "flamingo" },
+  "páva": { "replacement": "🦚", "description": "peacock" },
+  "papagáj": { "replacement": "🦜", "description": "parrot" },
+  "béka": { "replacement": "🐸", "description": "frog" },
+  "krokodil": { "replacement": "🐊", "description": "crocodile" },
+  "teknősbéka": { "replacement": "🐢", "description": "turtle" },
+  "gyík": { "replacement": "🦎", "description": "lizard" },
+  "kígyó": { "replacement": "🐍", "description": "snake" },
+  "sárkányarc": { "replacement": "🐲", "description": "dragon face" },
+  "sárkány": { "replacement": "🪁", "description": "kite" },
+  "sauropod": { "replacement": "🦕", "description": "sauropod" },
+  "t-Rex": { "replacement": "🦖", "description": "T-Rex" },
+  "bálna": { "replacement": "🐳", "description": "spouting whale" },
+  "bálna2": { "replacement": "🐋", "description": "whale" },
+  "delfin": { "replacement": "🐬", "description": "dolphin" },
+  "fóka": { "replacement": "🦭", "description": "seal" },
+  "hal": { "replacement": "🐟", "description": "fish" },
+  "trópusi hal": { "replacement": "🐠", "description": "tropical fish" },
+  "blowfish": { "replacement": "🐡", "description": "blowfish" },
+  "cápa": { "replacement": "🦈", "description": "shark" },
+  "polip": { "replacement": "🐙", "description": "octopus" },
+  "héj": { "replacement": "🐚", "description": "spiral shell" },
+  "csiga": { "replacement": "🐌", "description": "snail" },
+  "pillangó": { "replacement": "🦋", "description": "butterfly" },
+  "bogár": { "replacement": "🪲", "description": "beetle" },
+  "hangya": { "replacement": "🐜", "description": "ant" },
+  "méh": { "replacement": "🐝", "description": "honeybee" },
+  "bogárhölgy": { "replacement": "🐞", "description": "lady beetle" },
+  "krikett": { "replacement": "🦗", "description": "cricket" },
+  "csótány": { "replacement": "🪳", "description": "cockroach" },
+  "pók": { "replacement": "🕷️", "description": "spider" },
+  "pókháló": { "replacement": "🕸️", "description": "spider web" },
+  "skorpió": { "replacement": "🦂", "description": "scorpion" },
+  "szúnyog": { "replacement": "🦟", "description": "mosquito" },
+  "légy": { "replacement": "🪰", "description": "fly" },
+  "féreg": { "replacement": "🪱", "description": "worm" },
+  "mikroba": { "replacement": "🦠", "description": "microbe" },
+  "csokor": { "replacement": "💐", "description": "bouquet" },
+  "cseresznyevirág": { "replacement": "🌸", "description": "cherry blossom" },
+  "fehér virág": { "replacement": "💮", "description": "white flower" },
+  "rozetta": { "replacement": "🏵️", "description": "rosette" },
+  "rózsa": { "replacement": "🌹", "description": "rose" },
+  "megfonnyadt virág": { "replacement": "🥀", "description": "wilted flower" },
+  "hibiszkusz": { "replacement": "🌺", "description": "hibiscus" },
+  "napraforgó": { "replacement": "🌻", "description": "sunflower" },
+  "kivirul": { "replacement": "🌼", "description": "blossom" },
+  "tulipán": { "replacement": "🌷", "description": "tulip" },
+  "palánta": { "replacement": "🌱", "description": "seedling" },
+  "cserepes növény": { "replacement": "🪴", "description": "potted plant" },
+  "örökzöld fa": { "replacement": "🌲", "description": "evergreen tree" },
+  "lombhullató fa": { "replacement": "🌳", "description": "deciduous tree" },
+  "pálmafa": { "replacement": "🌴", "description": "palm tree" },
+  "kaktusz": { "replacement": "🌵", "description": "cactus" },
+  "rizsfül": { "replacement": "🌾", "description": "sheaf of rice" },
+  "növény": { "replacement": "🌿", "description": "herb" },
+  "lóhere": { "replacement": "☘️", "description": "shamrock" },
+  "négylevelű lóhere": {
+    "replacement": "🍀",
+    "description": "four leaf clover"
+  },
+  "juharfalevél": { "replacement": "🍁", "description": "maple leaf" },
+  "lehullott levél": { "replacement": "🍂", "description": "fallen leaf" },
+  "levelek": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "szőlő": { "replacement": "🍇", "description": "grapes" },
+  "dinnye": { "replacement": "🍈", "description": "melon" },
+  "görögdinnye": { "replacement": "🍉", "description": "watermelon" },
+  "mandarin": { "replacement": "🍊", "description": "tangerine" },
+  "citrom": { "replacement": "🍋", "description": "lemon" },
+  "banán": { "replacement": "🍌", "description": "banana" },
+  "ananász": { "replacement": "🍍", "description": "pineapple" },
+  "mangó": { "replacement": "🥭", "description": "mango" },
+  "alma": { "replacement": "🍎", "description": "red apple" },
+  "zöld alma": { "replacement": "🍏", "description": "green apple" },
+  "körte": { "replacement": "🍐", "description": "pear" },
+  "őszibarack": { "replacement": "🍑", "description": "peach" },
+  "cseresznye": { "replacement": "🍒", "description": "cherries" },
+  "eper": { "replacement": "🍓", "description": "strawberry" },
+  "Áfonya": { "replacement": "🫐", "description": "blueberries" },
+  "kivi": { "replacement": "🥝", "description": "kiwi fruit" },
+  "paradicsom": { "replacement": "🍅", "description": "tomato" },
+  "olajbogyó": { "replacement": "🫒", "description": "olive" },
+  "kókuszdió": { "replacement": "🥥", "description": "coconut" },
+  "avokádó": { "replacement": "🥑", "description": "avocado" },
+  "padlizsán": { "replacement": "🍆", "description": "eggplant" },
+  "burgonya": { "replacement": "🥔", "description": "potato" },
+  "sárgarépa": { "replacement": "🥕", "description": "carrot" },
+  "kukorica": { "replacement": "🌽", "description": "ear of corn" },
+  "csípős paprika": { "replacement": "🌶️", "description": "hot pepper" },
+  "kaliforniai paprika": { "replacement": "🫑", "description": "bell pepper" },
+  "uborka": { "replacement": "🥒", "description": "cucumber" },
+  "leveles zöld": { "replacement": "🥬", "description": "leafy green" },
+  "brokkoli": { "replacement": "🥦", "description": "broccoli" },
+  "fokhagyma": { "replacement": "🧄", "description": "garlic" },
+  "hagyma": { "replacement": "🧅", "description": "onion" },
+  "gomba": { "replacement": "🍄", "description": "mushroom" },
+  "mogyoró": { "replacement": "🥜", "description": "peanuts" },
+  "gesztenye": { "replacement": "🌰", "description": "chestnut" },
+  "kenyér": { "replacement": "🍞", "description": "bread" },
+  "croissant": { "replacement": "🥐", "description": "croissant" },
+  "bagett kenyér": { "replacement": "🥖", "description": "baguette bread" },
+  "lapos kenyér": { "replacement": "🫓", "description": "flatbread" },
+  "perec": { "replacement": "🥨", "description": "pretzel" },
+  "bécsi kifli": { "replacement": "🥯", "description": "bagel" },
+  "palacsinta": { "replacement": "🥞", "description": "pancakes" },
+  "waffle": { "replacement": "🧇", "description": "waffle" },
+  "sajt": { "replacement": "🧀", "description": "cheese wedge" },
+  "hús csonton": { "replacement": "🍖", "description": "meat on bone" },
+  "baromfi láb": { "replacement": "🍗", "description": "poultry leg" },
+  "vágott hús": { "replacement": "🥩", "description": "cut of meat" },
+  "szalonna": { "replacement": "🥓", "description": "bacon" },
+  "hamburger": { "replacement": "🍔", "description": "hamburger" },
+  "sültkrumpli": { "replacement": "🍟", "description": "french fries" },
+  "pizza": { "replacement": "🍕", "description": "pizza" },
+  "Hot dog": { "replacement": "🌭", "description": "hot dog" },
+  "szendvics": { "replacement": "🥪", "description": "sandwich" },
+  "taco": { "replacement": "🌮", "description": "taco" },
+  "burrito": { "replacement": "🌯", "description": "burrito" },
+  "tamale": { "replacement": "🫔", "description": "tamale" },
+  "töltött lepénykenyér": {
+    "replacement": "🥙",
+    "description": "stuffed flatbread"
+  },
+  "falafel": { "replacement": "🧆", "description": "falafel" },
+  "tojás": { "replacement": "🥚", "description": "egg" },
+  "tükörtojás": { "replacement": "🍳", "description": "cooking" },
+  "sekély tál ételt": {
+    "replacement": "🥘",
+    "description": "shallow pan of food"
+  },
+  "pörkölt": { "replacement": "🍲", "description": "pot of food" },
+  "fondü": { "replacement": "🫕", "description": "fondue" },
+  "tál kanállal": { "replacement": "🥣", "description": "bowl with spoon" },
+  "zöldsaláta": { "replacement": "🥗", "description": "green salad" },
+  "pattogatott kukorica": { "replacement": "🍿", "description": "popcorn" },
+  "vaj": { "replacement": "🧈", "description": "butter" },
+  "só": { "replacement": "🧂", "description": "salt" },
+  "konzervek": { "replacement": "🥫", "description": "canned food" },
+  "bento": { "replacement": "🍱", "description": "bento box" },
+  "rizstörő": { "replacement": "🍘", "description": "rice cracker" },
+  "rízsgolyó": { "replacement": "🍙", "description": "rice ball" },
+  "rizs": { "replacement": "🍚", "description": "cooked rice" },
+  "curry": { "replacement": "🍛", "description": "curry rice" },
+  "ramen": { "replacement": "🍜", "description": "steaming bowl" },
+  "spagetti": { "replacement": "🍝", "description": "spaghetti" },
+  "édesburgonya": {
+    "replacement": "🍠",
+    "description": "roasted sweet potato"
+  },
+  "oden": { "replacement": "🍢", "description": "oden" },
+  "sushi": { "replacement": "🍣", "description": "sushi" },
+  "sült garnélarák": { "replacement": "🍤", "description": "fried shrimp" },
+  "haltorta": { "replacement": "🍥", "description": "fish cake with swirl" },
+  "Hold torta": { "replacement": "🥮", "description": "moon cake" },
+  "dango": { "replacement": "🍡", "description": "dango" },
+  "gombóc": { "replacement": "🥟", "description": "dumpling" },
+  "szerencsesütit": { "replacement": "🥠", "description": "fortune cookie" },
+  "kiviteli doboz": { "replacement": "🥡", "description": "takeout box" },
+  "Rák": { "replacement": "🦀", "description": "crab" },
+  "homár": { "replacement": "🦞", "description": "lobster" },
+  "garnélarák": { "replacement": "🦐", "description": "shrimp" },
+  "tintahal": { "replacement": "🦑", "description": "squid" },
+  "osztriga": { "replacement": "🦪", "description": "oyster" },
+  "jégkrém": { "replacement": "🍨", "description": "ice cream" },
+  "borotvált jég": { "replacement": "🍧", "description": "shaved ice" },
+  "fánk": { "replacement": "🍩", "description": "doughnut" },
+  "aprósütemény": { "replacement": "🍪", "description": "cookie" },
+  "születésnap": { "replacement": "🎂", "description": "birthday cake" },
+  "torta": { "replacement": "🍰", "description": "shortcake" },
+  "muffin": { "replacement": "🧁", "description": "cupcake" },
+  "pite": { "replacement": "🥧", "description": "pie" },
+  "csokoládé szelet": { "replacement": "🍫", "description": "chocolate bar" },
+  "cukorka": { "replacement": "🍬", "description": "candy" },
+  "nyalóka": { "replacement": "🍭", "description": "lollipop" },
+  "tejsodó": { "replacement": "🍮", "description": "custard" },
+  "méztartó": { "replacement": "🍯", "description": "honey pot" },
+  "Bébiüveg": { "replacement": "🍼", "description": "baby bottle" },
+  "tejpohár": { "replacement": "🥛", "description": "glass of milk" },
+  "kávé": { "replacement": "☕", "description": "hot beverage" },
+  "teáskanna": { "replacement": "🫖", "description": "teapot" },
+  "tea": { "replacement": "🍵", "description": "teacup without handle" },
+  "kedvéért": { "replacement": "🍶", "description": "sake" },
+  "pezsgő": { "replacement": "🍾", "description": "bottle with popping cork" },
+  "borospohár": { "replacement": "🍷", "description": "wine glass" },
+  "koktél": { "replacement": "🍸", "description": "cocktail glass" },
+  "trópusi ital": { "replacement": "🍹", "description": "tropical drink" },
+  "sör": { "replacement": "🍺", "description": "beer mug" },
+  "sörök": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "csörömpölő szemüveg": {
+    "replacement": "🥂",
+    "description": "clinking glasses"
+  },
+  "pohár pohár": { "replacement": "🥃", "description": "tumbler glass" },
+  "csésze szalmával": { "replacement": "🥤", "description": "cup with straw" },
+  "buborék tea": { "replacement": "🧋", "description": "bubble tea" },
+  "ital doboz": { "replacement": "🧃", "description": "beverage box" },
+  "társ": { "replacement": "🧉", "description": "mate" },
+  "jégkocka": { "replacement": "🧊", "description": "ice" },
+  "kínai evőpálcikák": { "replacement": "🥢", "description": "chopsticks" },
+  "tányér evőeszközökkel": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "Villa és kés": { "replacement": "🍴", "description": "fork and knife" },
+  "kanál": { "replacement": "🥄", "description": "spoon" },
+  "hocho": { "replacement": "🔪", "description": "kitchen knife" },
+  "amfora": { "replacement": "🏺", "description": "amphora" },
+  "föld Afrika": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "föld Amerika": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "föld Ázsia": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "földgömb meridiánokkal": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "világtérkép": { "replacement": "🗺️", "description": "world map" },
+  "Japán": { "replacement": "🗾", "description": "map of Japan" },
+  "iránytű": { "replacement": "🧭", "description": "compass" },
+  "hegyi hó": { "replacement": "🏔️", "description": "snow-capped mountain" },
+  "hegy": { "replacement": "⛰️", "description": "mountain" },
+  "vulkán": { "replacement": "🌋", "description": "volcano" },
+  "Fuji": { "replacement": "🗻", "description": "mount fuji" },
+  "kemping": { "replacement": "🏕️", "description": "camping" },
+  "napernyő": { "replacement": "🏖️", "description": "beach with umbrella" },
+  "sivatag": { "replacement": "🏜️", "description": "desert" },
+  "lakatlan szigeten": { "replacement": "🏝️", "description": "desert island" },
+  "Nemzeti Park": { "replacement": "🏞️", "description": "national park" },
+  "stádium": { "replacement": "🏟️", "description": "stadium" },
+  "klasszikus épület": {
+    "replacement": "🏛️",
+    "description": "classical building"
+  },
+  "építkezés": { "replacement": "🏗️", "description": "building construction" },
+  "tégla": { "replacement": "🧱", "description": "brick" },
+  "szikla": { "replacement": "🪨", "description": "rock" },
+  "faipari": { "replacement": "🪵", "description": "wood" },
+  "kunyhó": { "replacement": "🛖", "description": "hut" },
+  "házak": { "replacement": "🏘️", "description": "houses" },
+  "elhagyott ház": { "replacement": "🏚️", "description": "derelict house" },
+  "ház": { "replacement": "🏠", "description": "house" },
+  "ház kerttel": { "replacement": "🏡", "description": "house with garden" },
+  "hivatal": { "replacement": "🏢", "description": "office building" },
+  "posta": { "replacement": "🏣", "description": "Japanese post office" },
+  "európai posta": { "replacement": "🏤", "description": "post office" },
+  "kórház": { "replacement": "🏥", "description": "hospital" },
+  "bank": { "replacement": "🏦", "description": "bank" },
+  "szálloda": { "replacement": "🏨", "description": "hotel" },
+  "szerelmes szálloda": { "replacement": "🏩", "description": "love hotel" },
+  "kisbolt": { "replacement": "🏪", "description": "convenience store" },
+  "iskola": { "replacement": "🏫", "description": "school" },
+  "áruház": { "replacement": "🏬", "description": "department store" },
+  "gyár": { "replacement": "🏭", "description": "factory" },
+  "japán vár": { "replacement": "🏯", "description": "Japanese castle" },
+  "európai vár": { "replacement": "🏰", "description": "castle" },
+  "esküvő": { "replacement": "💒", "description": "wedding" },
+  "tokiói torony": { "replacement": "🗼", "description": "Tokyo tower" },
+  "Szabadságszobor": {
+    "replacement": "🗽",
+    "description": "Statue of Liberty"
+  },
+  "templom": { "replacement": "⛪", "description": "church" },
+  "mecset": { "replacement": "🕌", "description": "mosque" },
+  "hindu templomban": { "replacement": "🛕", "description": "hindu temple" },
+  "zsinagóga": { "replacement": "🕍", "description": "synagogue" },
+  "sintó szentély": { "replacement": "⛩️", "description": "shinto shrine" },
+  "kaaba": { "replacement": "🕋", "description": "kaaba" },
+  "szökőkút": { "replacement": "⛲", "description": "fountain" },
+  "sátor": { "replacement": "⛺", "description": "tent" },
+  "ködös": { "replacement": "🌁", "description": "foggy" },
+  "éjszaka csillagokkal": {
+    "replacement": "🌃",
+    "description": "night with stars"
+  },
+  "városkép": { "replacement": "🏙️", "description": "cityscape" },
+  "napfelkelte a hegyek felett": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "Napkelte": { "replacement": "🌅", "description": "sunrise" },
+  "városi naplemente": {
+    "replacement": "🌆",
+    "description": "cityscape at dusk"
+  },
+  "városi napkelte": { "replacement": "🌇", "description": "sunset" },
+  "híd éjjel": { "replacement": "🌉", "description": "bridge at night" },
+  "meleg források": { "replacement": "♨️", "description": "hot springs" },
+  "körhinta ló": { "replacement": "🎠", "description": "carousel horse" },
+  "óriáskerék": { "replacement": "🎡", "description": "ferris wheel" },
+  "hullámvasút": { "replacement": "🎢", "description": "roller coaster" },
+  "borbély": { "replacement": "💈", "description": "barber pole" },
+  "cirkuszi sátor": { "replacement": "🎪", "description": "circus tent" },
+  "gőzmozdony": { "replacement": "🚂", "description": "locomotive" },
+  "vasúti kocsi": { "replacement": "🚃", "description": "railway car" },
+  "bullettrain oldala": {
+    "replacement": "🚄",
+    "description": "high-speed train"
+  },
+  "bullettrain front": { "replacement": "🚅", "description": "bullet train" },
+  "vonat2": { "replacement": "🚆", "description": "train" },
+  "metró": { "replacement": "🚇", "description": "metro" },
+  "kombínó": { "replacement": "🚈", "description": "light rail" },
+  "állomás": { "replacement": "🚉", "description": "station" },
+  "villamos": { "replacement": "🚊", "description": "tram" },
+  "egysínű vasút": { "replacement": "🚝", "description": "monorail" },
+  "hegyi vasút": { "replacement": "🚞", "description": "mountain railway" },
+  "vonat": { "replacement": "🚋", "description": "tram car" },
+  "busz": { "replacement": "🚌", "description": "bus" },
+  "szembejövő busz": { "replacement": "🚍", "description": "oncoming bus" },
+  "trolibusz": { "replacement": "🚎", "description": "trolleybus" },
+  "minibusz": { "replacement": "🚐", "description": "minibus" },
+  "mentőautó": { "replacement": "🚑", "description": "ambulance" },
+  "tűzoltó autó": { "replacement": "🚒", "description": "fire engine" },
+  "rendőrautó": { "replacement": "🚓", "description": "police car" },
+  "szembejövő rendőrautó": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "Taxi": { "replacement": "🚕", "description": "taxi" },
+  "szembejövő taxi": { "replacement": "🚖", "description": "oncoming taxi" },
+  "autó": { "replacement": "🚗", "description": "automobile" },
+  "szembejövő autó": {
+    "replacement": "🚘",
+    "description": "oncoming automobile"
+  },
+  "kék autó": { "replacement": "🚙", "description": "sport utility vehicle" },
+  "kisteherautó": { "replacement": "🛻", "description": "pickup truck" },
+  "kamion": { "replacement": "🚚", "description": "delivery truck" },
+  "csuklós teherautó": {
+    "replacement": "🚛",
+    "description": "articulated lorry"
+  },
+  "traktor": { "replacement": "🚜", "description": "tractor" },
+  "versenyautó": { "replacement": "🏎️", "description": "racing car" },
+  "motorbicikli": { "replacement": "🏍️", "description": "motorcycle" },
+  "robogó": { "replacement": "🛴", "description": "kick scooter" },
+  "kézi kerekes szék": {
+    "replacement": "🦽",
+    "description": "manual wheelchair"
+  },
+  "motoros kerekes szék": {
+    "replacement": "🦼",
+    "description": "motorized wheelchair"
+  },
+  "auto riksa": { "replacement": "🛺", "description": "auto rickshaw" },
+  "bicikli": { "replacement": "🚲", "description": "bicycle" },
+  "gördeszka": { "replacement": "🛹", "description": "skateboard" },
+  "görkorcsolya": { "replacement": "🛼", "description": "roller skate" },
+  "buszmegálló": { "replacement": "🚏", "description": "bus stop" },
+  "autópálya": { "replacement": "🛣️", "description": "motorway" },
+  "vasúti sín": { "replacement": "🛤️", "description": "railway track" },
+  "olajdob": { "replacement": "🛢️", "description": "oil drum" },
+  "üzemanyagpumpa": { "replacement": "⛽", "description": "fuel pump" },
+  "forgó fény": { "replacement": "🚨", "description": "police car light" },
+  "közlekedési lámpa": {
+    "replacement": "🚥",
+    "description": "horizontal traffic light"
+  },
+  "függőleges közlekedési lámpa": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "stoptábla": { "replacement": "🛑", "description": "stop sign" },
+  "Építkezés": { "replacement": "🚧", "description": "construction" },
+  "horgony": { "replacement": "⚓", "description": "anchor" },
+  "hajó": { "replacement": "🚢", "description": "ship" },
+  "kenu": { "replacement": "🛶", "description": "canoe" },
+  "motoros siklócsónak": { "replacement": "🚤", "description": "speedboat" },
+  "személyszállító hajó": {
+    "replacement": "🛳️",
+    "description": "passenger ship"
+  },
+  "komp": { "replacement": "⛴️", "description": "ferry" },
+  "motorcsónak": { "replacement": "🛥️", "description": "motor boat" },
+  "repülőgép": { "replacement": "✈️", "description": "airplane" },
+  "kis repülőgép": { "replacement": "🛩️", "description": "small airplane" },
+  "járat indulása": {
+    "replacement": "🛫",
+    "description": "airplane departure"
+  },
+  "járat érkezése": { "replacement": "🛬", "description": "airplane arrival" },
+  "ejtőernyő": { "replacement": "🪂", "description": "parachute" },
+  "ülés": { "replacement": "💺", "description": "seat" },
+  "helikopter": { "replacement": "🚁", "description": "helicopter" },
+  "függővasút": { "replacement": "🚟", "description": "suspension railway" },
+  "hegyi kötélpálya": {
+    "replacement": "🚠",
+    "description": "mountain cableway"
+  },
+  "légi villamos": { "replacement": "🚡", "description": "aerial tramway" },
+  "Mesterséges műhold": { "replacement": "🛰️", "description": "satellite" },
+  "rakéta": { "replacement": "🚀", "description": "rocket" },
+  "repülő csészealj": { "replacement": "🛸", "description": "flying saucer" },
+  "harangszó": { "replacement": "🛎️", "description": "bellhop bell" },
+  "poggyász": { "replacement": "🧳", "description": "luggage" },
+  "homokóra": { "replacement": "⌛", "description": "hourglass done" },
+  "homokóra folyó homok": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "néz": { "replacement": "⌚", "description": "watch" },
+  "ébresztőóra": { "replacement": "⏰", "description": "alarm clock" },
+  "stopperóra": { "replacement": "⏱️", "description": "stopwatch" },
+  "időzítő óra": { "replacement": "⏲️", "description": "timer clock" },
+  "kandalló óra": { "replacement": "🕰️", "description": "mantelpiece clock" },
+  "óra12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "óra1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "óra1": { "replacement": "🕐", "description": "one o’clock" },
+  "óra130": { "replacement": "🕜", "description": "one-thirty" },
+  "óra2": { "replacement": "🕑", "description": "two o’clock" },
+  "óra230": { "replacement": "🕝", "description": "two-thirty" },
+  "óra3": { "replacement": "🕒", "description": "three o’clock" },
+  "óra330": { "replacement": "🕞", "description": "three-thirty" },
+  "óra4": { "replacement": "🕓", "description": "four o’clock" },
+  "óra430": { "replacement": "🕟", "description": "four-thirty" },
+  "óra5": { "replacement": "🕔", "description": "five o’clock" },
+  "óra530": { "replacement": "🕠", "description": "five-thirty" },
+  "óra6": { "replacement": "🕕", "description": "six o’clock" },
+  "óra630": { "replacement": "🕡", "description": "six-thirty" },
+  "óra7": { "replacement": "🕖", "description": "seven o’clock" },
+  "óra730": { "replacement": "🕢", "description": "seven-thirty" },
+  "óra8": { "replacement": "🕗", "description": "eight o’clock" },
+  "óra830": { "replacement": "🕣", "description": "eight-thirty" },
+  "óra9": { "replacement": "🕘", "description": "nine o’clock" },
+  "óra930": { "replacement": "🕤", "description": "nine-thirty" },
+  "óra10": { "replacement": "🕙", "description": "ten o’clock" },
+  "óra1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "óra11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "óra1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "újhold": { "replacement": "🌑", "description": "new moon" },
+  "növekvő félhold": {
+    "replacement": "🌒",
+    "description": "waxing crescent moon"
+  },
+  "első negyed hold": {
+    "replacement": "🌓",
+    "description": "first quarter moon"
+  },
+  "hold": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "telihold": { "replacement": "🌕", "description": "full moon" },
+  "fogyó gibós hold": {
+    "replacement": "🌖",
+    "description": "waning gibbous moon"
+  },
+  "utolsó negyed hold": {
+    "replacement": "🌗",
+    "description": "last quarter moon"
+  },
+  "fogyó félhold": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "félhold": { "replacement": "🌙", "description": "crescent moon" },
+  "újhold arccal": { "replacement": "🌚", "description": "new moon face" },
+  "első negyed hold arccal": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "utolsó negyed hold arccal": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "hőmérő": { "replacement": "🌡️", "description": "thermometer" },
+  "napos": { "replacement": "☀️", "description": "sun" },
+  "telihold arccal": { "replacement": "🌝", "description": "full moon face" },
+  "nap arccal": { "replacement": "🌞", "description": "sun with face" },
+  "gyűrűs bolygó": { "replacement": "🪐", "description": "ringed planet" },
+  "csillag": { "replacement": "*️⃣", "description": "keycap: *" },
+  "csillag2": { "replacement": "🌟", "description": "glowing star" },
+  "csillagok": { "replacement": "🌠", "description": "shooting star" },
+  "Tejút": { "replacement": "🌌", "description": "milky way" },
+  "felhő": { "replacement": "☁️", "description": "cloud" },
+  "részben napos": { "replacement": "⛅", "description": "sun behind cloud" },
+  "felhő villámlással és esővel": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "nap mögött kis felhő": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "nap mögött nagy felhő": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "nap mögött eső felhő": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "felhő az esővel": { "replacement": "🌧️", "description": "cloud with rain" },
+  "felhő a hóval": { "replacement": "🌨️", "description": "cloud with snow" },
+  "felhő villámlással": {
+    "replacement": "🌩️",
+    "description": "cloud with lightning"
+  },
+  "tornádó": { "replacement": "🌪️", "description": "tornado" },
+  "köd": { "replacement": "🌫️", "description": "fog" },
+  "szél arc": { "replacement": "🌬️", "description": "wind face" },
+  "ciklon": { "replacement": "🌀", "description": "cyclone" },
+  "szivárvány": { "replacement": "🌈", "description": "rainbow" },
+  "zárt esernyő": { "replacement": "🌂", "description": "closed umbrella" },
+  "nyitott esernyő": { "replacement": "☂️", "description": "umbrella" },
+  "esernyő": { "replacement": "☔", "description": "umbrella with rain drops" },
+  "napernyő a földön": {
+    "replacement": "⛱️",
+    "description": "umbrella on ground"
+  },
+  "támad": { "replacement": "⚡", "description": "high voltage" },
+  "hópehely": { "replacement": "❄️", "description": "snowflake" },
+  "hóember a hóval": { "replacement": "☃️", "description": "snowman" },
+  "hóember": { "replacement": "⛄", "description": "snowman without snow" },
+  "üstökös": { "replacement": "☄️", "description": "comet" },
+  "Tűz": { "replacement": "🔥", "description": "fire" },
+  "cseppecske": { "replacement": "💧", "description": "droplet" },
+  "óceán": { "replacement": "🌊", "description": "water wave" },
+  "töklámpás": { "replacement": "🎃", "description": "jack-o-lantern" },
+  "karácsonyfa": { "replacement": "🎄", "description": "Christmas tree" },
+  "tűzijáték": { "replacement": "🎆", "description": "fireworks" },
+  "csillagszóró": { "replacement": "🎇", "description": "sparkler" },
+  "petárdát": { "replacement": "🧨", "description": "firecracker" },
+  "csillog": { "replacement": "✨", "description": "sparkles" },
+  "ballon": { "replacement": "🎈", "description": "balloon" },
+  "tada": { "replacement": "🎉", "description": "party popper" },
+  "konfetti bál": { "replacement": "🎊", "description": "confetti ball" },
+  "tanabata fa": { "replacement": "🎋", "description": "tanabata tree" },
+  "bambusz": { "replacement": "🎍", "description": "pine decoration" },
+  "babák": { "replacement": "🎎", "description": "Japanese dolls" },
+  "zászlók": { "replacement": "🎏", "description": "carp streamer" },
+  "harangjáték": { "replacement": "🎐", "description": "wind chime" },
+  "rizs jelenet": {
+    "replacement": "🎑",
+    "description": "moon viewing ceremony"
+  },
+  "piros boríték": { "replacement": "🧧", "description": "red envelope" },
+  "szalag": { "replacement": "🎀", "description": "ribbon" },
+  "ajándék": { "replacement": "🎁", "description": "wrapped gift" },
+  "emlékeztető szalag": {
+    "replacement": "🎗️",
+    "description": "reminder ribbon"
+  },
+  "jegyek": { "replacement": "🎟️", "description": "admission tickets" },
+  "jegy": { "replacement": "🎫", "description": "ticket" },
+  "érem katonai": { "replacement": "🎖️", "description": "military medal" },
+  "trófea": { "replacement": "🏆", "description": "trophy" },
+  "érmes sportok": { "replacement": "🏅", "description": "sports medal" },
+  "1. helyezett érem": {
+    "replacement": "🥇",
+    "description": "1st place medal"
+  },
+  "2. helyezett érem": {
+    "replacement": "🥈",
+    "description": "2nd place medal"
+  },
+  "3. helyezett érem": {
+    "replacement": "🥉",
+    "description": "3rd place medal"
+  },
+  "futball": { "replacement": "🏈", "description": "american football" },
+  "baseball": { "replacement": "⚾", "description": "baseball" },
+  "softball labdajáték": { "replacement": "🥎", "description": "softball" },
+  "kosárlabda": { "replacement": "🏀", "description": "basketball" },
+  "röplabda": { "replacement": "🏐", "description": "volleyball" },
+  "rögbi futball": { "replacement": "🏉", "description": "rugby football" },
+  "tenisz": { "replacement": "🎾", "description": "tennis" },
+  "repülő korong": { "replacement": "🥏", "description": "flying disc" },
+  "bowling": { "replacement": "🎳", "description": "bowling" },
+  "tücsök játék": { "replacement": "🏏", "description": "cricket game" },
+  "gyeplabda": { "replacement": "🏑", "description": "field hockey" },
+  "jéghoki": { "replacement": "🏒", "description": "ice hockey" },
+  "lacrosse": { "replacement": "🥍", "description": "lacrosse" },
+  "ping pong": { "replacement": "🏓", "description": "ping pong" },
+  "tollaslabda": { "replacement": "🏸", "description": "badminton" },
+  "box kesztyű": { "replacement": "🥊", "description": "boxing glove" },
+  "harcművészeti egyenruha": {
+    "replacement": "🥋",
+    "description": "martial arts uniform"
+  },
+  "gólháló": { "replacement": "🥅", "description": "goal net" },
+  "golf": { "replacement": "⛳", "description": "flag in hole" },
+  "jégkorcsolya": { "replacement": "⛸️", "description": "ice skate" },
+  "horgászbot és hal": { "replacement": "🎣", "description": "fishing pole" },
+  "búvármaszk": { "replacement": "🤿", "description": "diving mask" },
+  "szárnyas futóing": { "replacement": "🎽", "description": "running shirt" },
+  "sí": { "replacement": "🎿", "description": "skis" },
+  "szánkó": { "replacement": "🛷", "description": "sled" },
+  "göndör kő": { "replacement": "🥌", "description": "curling stone" },
+  "dárda": { "replacement": "🎯", "description": "direct hit" },
+  "yo yo": { "replacement": "🪀", "description": "yo-yo" },
+  "8 labda": { "replacement": "🎱", "description": "pool 8 ball" },
+  "kristálygömb": { "replacement": "🔮", "description": "crystal ball" },
+  "varázspálca": { "replacement": "🪄", "description": "magic wand" },
+  "nazár amulett": { "replacement": "🧿", "description": "nazar amulet" },
+  "videojáték": { "replacement": "🎮", "description": "video game" },
+  "joystick": { "replacement": "🕹️", "description": "joystick" },
+  "pénzbedobós automata": {
+    "replacement": "🎰",
+    "description": "slot machine"
+  },
+  "játék meghal": { "replacement": "🎲", "description": "game die" },
+  "Lombfűrész": { "replacement": "🧩", "description": "puzzle piece" },
+  "Teddi maci": { "replacement": "🧸", "description": "teddy bear" },
+  "pinata": { "replacement": "🪅", "description": "piñata" },
+  "fészkelő babák": { "replacement": "🪆", "description": "nesting dolls" },
+  "pikk": { "replacement": "♠️", "description": "spade suit" },
+  "szíveket": { "replacement": "♥️", "description": "heart suit" },
+  "gyémántok": { "replacement": "♦️", "description": "diamond suit" },
+  "klubok": { "replacement": "♣️", "description": "club suit" },
+  "sakk-gyalog": { "replacement": "♟️", "description": "chess pawn" },
+  "fekete joker": { "replacement": "🃏", "description": "joker" },
+  "mahjong": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "virág játékkártyák": {
+    "replacement": "🎴",
+    "description": "flower playing cards"
+  },
+  "előadóművészet": { "replacement": "🎭", "description": "performing arts" },
+  "bekeretezett kép": { "replacement": "🖼️", "description": "framed picture" },
+  "Művészet": { "replacement": "🎨", "description": "artist palette" },
+  "cérna": { "replacement": "🧵", "description": "thread" },
+  "varrótű": { "replacement": "🪡", "description": "sewing needle" },
+  "fonal": { "replacement": "🧶", "description": "yarn" },
+  "csomó": { "replacement": "🪢", "description": "knot" },
+  "szemüveg": { "replacement": "👓", "description": "glasses" },
+  "sötét napszemüveg": { "replacement": "🕶️", "description": "sunglasses" },
+  "védőszemüveg": { "replacement": "🥽", "description": "goggles" },
+  "laborköpenyt": { "replacement": "🥼", "description": "lab coat" },
+  "biztonsági mellény": { "replacement": "🦺", "description": "safety vest" },
+  "nyakkendő": { "replacement": "👔", "description": "necktie" },
+  "ing": { "replacement": "👕", "description": "t-shirt" },
+  "Farmer": { "replacement": "👖", "description": "jeans" },
+  "sál": { "replacement": "🧣", "description": "scarf" },
+  "kesztyű": { "replacement": "🧤", "description": "gloves" },
+  "kabát": { "replacement": "🧥", "description": "coat" },
+  "zokni": { "replacement": "🧦", "description": "socks" },
+  "ruha": { "replacement": "👗", "description": "dress" },
+  "kimonó": { "replacement": "👘", "description": "kimono" },
+  "sari": { "replacement": "🥻", "description": "sari" },
+  "egy darabból álló fürdőruha": {
+    "replacement": "🩱",
+    "description": "one-piece swimsuit"
+  },
+  "úszni rövid": { "replacement": "🩲", "description": "briefs" },
+  "rövidnadrág": { "replacement": "🩳", "description": "shorts" },
+  "bikini": { "replacement": "👙", "description": "bikini" },
+  "női ruhák": { "replacement": "👚", "description": "woman’s clothes" },
+  "pénztárca": { "replacement": "👛", "description": "purse" },
+  "kézitáska": { "replacement": "👜", "description": "handbag" },
+  "zacskó": { "replacement": "👝", "description": "clutch bag" },
+  "bevásárlás": { "replacement": "🛍️", "description": "shopping bags" },
+  "iskolai táska": { "replacement": "🎒", "description": "backpack" },
+  "tanga szandál": { "replacement": "🩴", "description": "thong sandal" },
+  "mans cipő": { "replacement": "👞", "description": "man’s shoe" },
+  "sportcipő": { "replacement": "👟", "description": "running shoe" },
+  "túrabakancs": { "replacement": "🥾", "description": "hiking boot" },
+  "lapos cipő": { "replacement": "🥿", "description": "flat shoe" },
+  "magassarkú": { "replacement": "👠", "description": "high-heeled shoe" },
+  "szandál": { "replacement": "👡", "description": "woman’s sandal" },
+  "balettcipők": { "replacement": "🩰", "description": "ballet shoes" },
+  "csomagtartó": { "replacement": "👢", "description": "woman’s boot" },
+  "korona": { "replacement": "👑", "description": "crown" },
+  "női kalap": { "replacement": "👒", "description": "woman’s hat" },
+  "cilinder": { "replacement": "🎩", "description": "top hat" },
+  "négyszögletű kalap": {
+    "replacement": "🎓",
+    "description": "graduation cap"
+  },
+  "számlázott sapka": { "replacement": "🧢", "description": "billed cap" },
+  "katonai sisak": { "replacement": "🪖", "description": "military helmet" },
+  "mentőmunkás sisak": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "ima gyöngyök": { "replacement": "📿", "description": "prayer beads" },
+  "ajakrúzs": { "replacement": "💄", "description": "lipstick" },
+  "gyűrű": { "replacement": "💍", "description": "ring" },
+  "drágakő": { "replacement": "💎", "description": "gem stone" },
+  "néma": { "replacement": "🔇", "description": "muted speaker" },
+  "hangszóró": { "replacement": "📢", "description": "loudspeaker" },
+  "hang": { "replacement": "🔉", "description": "speaker medium volume" },
+  "hangos hang": { "replacement": "🔊", "description": "speaker high volume" },
+  "mega": { "replacement": "📣", "description": "megaphone" },
+  "postakürt": { "replacement": "📯", "description": "postal horn" },
+  "harang": { "replacement": "🔔", "description": "bell" },
+  "nincs harang": { "replacement": "🔕", "description": "bell with slash" },
+  "hangjegy": { "replacement": "🎼", "description": "musical score" },
+  "Hangjegy": { "replacement": "🎵", "description": "musical note" },
+  "jegyzetek": { "replacement": "🎶", "description": "musical notes" },
+  "stúdió mikrofon": {
+    "replacement": "🎙️",
+    "description": "studio microphone"
+  },
+  "szint csúszka": { "replacement": "🎚️", "description": "level slider" },
+  "vezérlőgombok": { "replacement": "🎛️", "description": "control knobs" },
+  "mikrofon": { "replacement": "🎤", "description": "microphone" },
+  "fejhallgató": { "replacement": "🎧", "description": "headphone" },
+  "rádió": { "replacement": "📻", "description": "radio" },
+  "szaxofon": { "replacement": "🎷", "description": "saxophone" },
+  "harmonika": { "replacement": "🪗", "description": "accordion" },
+  "gitár": { "replacement": "🎸", "description": "guitar" },
+  "zenei billentyűzet": {
+    "replacement": "🎹",
+    "description": "musical keyboard"
+  },
+  "trombita": { "replacement": "🎺", "description": "trumpet" },
+  "hegedű": { "replacement": "🎻", "description": "violin" },
+  "bendzsó": { "replacement": "🪕", "description": "banjo" },
+  "dob": { "replacement": "🥁", "description": "drum" },
+  "hosszú dob": { "replacement": "🪘", "description": "long drum" },
+  "iphone": { "replacement": "📱", "description": "mobile phone" },
+  "hívás": { "replacement": "📲", "description": "mobile phone with arrow" },
+  "telefon": { "replacement": "☎️", "description": "telephone" },
+  "telefon vevő": { "replacement": "📞", "description": "telephone receiver" },
+  "pager": { "replacement": "📟", "description": "pager" },
+  "fax": { "replacement": "📠", "description": "fax machine" },
+  "akkumulátor": { "replacement": "🔋", "description": "battery" },
+  "elektromos csatlakozó": {
+    "replacement": "🔌",
+    "description": "electric plug"
+  },
+  "számítógép": { "replacement": "💻", "description": "laptop" },
+  "asztali számítógép": {
+    "replacement": "🖥️",
+    "description": "desktop computer"
+  },
+  "nyomtató": { "replacement": "🖨️", "description": "printer" },
+  "billentyűzet": { "replacement": "⌨️", "description": "keyboard" },
+  "számítógépes egér": { "replacement": "🖱️", "description": "computer mouse" },
+  "trackball": { "replacement": "🖲️", "description": "trackball" },
+  "minidisc": { "replacement": "💽", "description": "computer disk" },
+  "hajlítható lemez": { "replacement": "💾", "description": "floppy disk" },
+  "CD": { "replacement": "💿", "description": "optical disk" },
+  "DVD": { "replacement": "📀", "description": "dvd" },
+  "golyós számológép": { "replacement": "🧮", "description": "abacus" },
+  "kamera": { "replacement": "📷", "description": "camera" },
+  "diaszalag": { "replacement": "🎞️", "description": "film frames" },
+  "filmvetítő": { "replacement": "📽️", "description": "film projector" },
+  "kereplő": { "replacement": "🎬", "description": "clapper board" },
+  "tévé": { "replacement": "📺", "description": "television" },
+  "kamera vaku": { "replacement": "📸", "description": "camera with flash" },
+  "Videókamera": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "mag": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "gyertya": { "replacement": "🕯️", "description": "candle" },
+  "izzó": { "replacement": "💡", "description": "light bulb" },
+  "zseblámpa": { "replacement": "🔦", "description": "flashlight" },
+  "izakaya lámpa": { "replacement": "🏮", "description": "red paper lantern" },
+  "diya lámpa": { "replacement": "🪔", "description": "diya lamp" },
+  "jegyzetfüzet dekoratív borítással": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "zárt könyv": { "replacement": "📕", "description": "closed book" },
+  "könyv": { "replacement": "📖", "description": "open book" },
+  "zöld könyv": { "replacement": "📗", "description": "green book" },
+  "kék könyv": { "replacement": "📘", "description": "blue book" },
+  "narancssárga könyv": { "replacement": "📙", "description": "orange book" },
+  "könyveket": { "replacement": "📚", "description": "books" },
+  "jegyzetfüzet": { "replacement": "📓", "description": "notebook" },
+  "főkönyv": { "replacement": "📒", "description": "ledger" },
+  "göndörített oldal": { "replacement": "📃", "description": "page with curl" },
+  "tekercs": { "replacement": "📜", "description": "scroll" },
+  "oldal felfelé": { "replacement": "📄", "description": "page facing up" },
+  "újság": { "replacement": "📰", "description": "newspaper" },
+  "újságtekercs": { "replacement": "🗞️", "description": "rolled-up newspaper" },
+  "könyvjelző fülek": { "replacement": "📑", "description": "bookmark tabs" },
+  "könyvjelző": { "replacement": "🔖", "description": "bookmark" },
+  "címke": { "replacement": "🏷️", "description": "label" },
+  "pénzes zsák": { "replacement": "💰", "description": "money bag" },
+  "érme": { "replacement": "🪙", "description": "coin" },
+  "jen": { "replacement": "💴", "description": "yen banknote" },
+  "dollár": { "replacement": "💵", "description": "dollar banknote" },
+  "euro": { "replacement": "💶", "description": "euro banknote" },
+  "font": { "replacement": "💷", "description": "pound banknote" },
+  "szárnyas pénz": { "replacement": "💸", "description": "money with wings" },
+  "hitelkártya": { "replacement": "💳", "description": "credit card" },
+  "nyugta": { "replacement": "🧾", "description": "receipt" },
+  "diagram": {
+    "replacement": "💹",
+    "description": "chart increasing with yen"
+  },
+  "email": { "replacement": "📧", "description": "e-mail" },
+  "bejövő boríték": { "replacement": "📨", "description": "incoming envelope" },
+  "boríték nyíllal": {
+    "replacement": "📩",
+    "description": "envelope with arrow"
+  },
+  "kimenő tálca": { "replacement": "📤", "description": "outbox tray" },
+  "postaláda tálca": { "replacement": "📥", "description": "inbox tray" },
+  "csomag": { "replacement": "📦", "description": "package" },
+  "postafiók": {
+    "replacement": "📫",
+    "description": "closed mailbox with raised flag"
+  },
+  "postafiók bezárva": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "postaláda postával": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "postaláda levél nélkül": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "postaláda": { "replacement": "📮", "description": "postbox" },
+  "szavazó urna": {
+    "replacement": "🗳️",
+    "description": "ballot box with ballot"
+  },
+  "ceruza2": { "replacement": "✏️", "description": "pencil" },
+  "fekete hüvely": { "replacement": "✒️", "description": "black nib" },
+  "töltőtoll": { "replacement": "🖋️", "description": "fountain pen" },
+  "toll": { "replacement": "🖊️", "description": "pen" },
+  "ecset": { "replacement": "🖌️", "description": "paintbrush" },
+  "zsírkréta": { "replacement": "🖍️", "description": "crayon" },
+  "Memo": { "replacement": "📝", "description": "memo" },
+  "aktatáska": { "replacement": "💼", "description": "briefcase" },
+  "fájl mappa": { "replacement": "📁", "description": "file folder" },
+  "nyissa meg a fájlmappát": {
+    "replacement": "📂",
+    "description": "open file folder"
+  },
+  "kártya index elválasztók": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "dátum": { "replacement": "📅", "description": "calendar" },
+  "naptár": { "replacement": "📆", "description": "tear-off calendar" },
+  "spirál jegyzettömb": {
+    "replacement": "🗒️",
+    "description": "spiral notepad"
+  },
+  "spirálnaptár": { "replacement": "🗓️", "description": "spiral calendar" },
+  "kártyaindex": { "replacement": "📇", "description": "card index" },
+  "diagram felfelé mutató trenddel": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "diagram csökkenő tendenciával": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "oszlopdiagram": { "replacement": "📊", "description": "bar chart" },
+  "vágólap": { "replacement": "📋", "description": "clipboard" },
+  "rajzszeg": { "replacement": "📌", "description": "pushpin" },
+  "kerek csapszeg": { "replacement": "📍", "description": "round pushpin" },
+  "gémkapocs": { "replacement": "🖇️", "description": "linked paperclips" },
+  "egyenes vonalzó": { "replacement": "📏", "description": "straight ruler" },
+  "háromszög vonalzó": {
+    "replacement": "📐",
+    "description": "triangular ruler"
+  },
+  "olló": { "replacement": "✂️", "description": "scissors" },
+  "kártya reszelő doboz": {
+    "replacement": "🗃️",
+    "description": "card file box"
+  },
+  "iratszekrény": { "replacement": "🗄️", "description": "file cabinet" },
+  "papírkosár": { "replacement": "🗑️", "description": "wastebasket" },
+  "zár": { "replacement": "🔒", "description": "locked" },
+  "kinyit": { "replacement": "🔓", "description": "unlocked" },
+  "zár tollal": { "replacement": "🔏", "description": "locked with pen" },
+  "zárt zár kulccsal": {
+    "replacement": "🔐",
+    "description": "locked with key"
+  },
+  "kulcs": { "replacement": "🔑", "description": "key" },
+  "régi kulcs": { "replacement": "🗝️", "description": "old key" },
+  "kalapács": { "replacement": "🔨", "description": "hammer" },
+  "fejsze": { "replacement": "🪓", "description": "axe" },
+  "szed": { "replacement": "⛏️", "description": "pick" },
+  "kalapács és csákány": {
+    "replacement": "⚒️",
+    "description": "hammer and pick"
+  },
+  "kalapács és kulcs": {
+    "replacement": "🛠️",
+    "description": "hammer and wrench"
+  },
+  "tőr": { "replacement": "🗡️", "description": "dagger" },
+  "keresztezett kardokat": {
+    "replacement": "⚔️",
+    "description": "crossed swords"
+  },
+  "pisztoly": { "replacement": "🔫", "description": "pistol" },
+  "bumeráng": { "replacement": "🪃", "description": "boomerang" },
+  "íj és nyíl": { "replacement": "🏹", "description": "bow and arrow" },
+  "pajzs": { "replacement": "🛡️", "description": "shield" },
+  "asztalos fűrész": { "replacement": "🪚", "description": "carpentry saw" },
+  "csavarkulcs": { "replacement": "🔧", "description": "wrench" },
+  "csavarhúzó": { "replacement": "🪛", "description": "screwdriver" },
+  "anya és csavar": { "replacement": "🔩", "description": "nut and bolt" },
+  "felszerelés": { "replacement": "⚙️", "description": "gear" },
+  "bilincs": { "replacement": "🗜️", "description": "clamp" },
+  "egyensúlyi skála": { "replacement": "⚖️", "description": "balance scale" },
+  "nádszondázás": { "replacement": "🦯", "description": "white cane" },
+  "link": { "replacement": "🔗", "description": "link" },
+  "láncok": { "replacement": "⛓️", "description": "chains" },
+  "horog": { "replacement": "🪝", "description": "hook" },
+  "Eszköztár": { "replacement": "🧰", "description": "toolbox" },
+  "mágnes": { "replacement": "🧲", "description": "magnet" },
+  "létra": { "replacement": "🪜", "description": "ladder" },
+  "lombik": { "replacement": "⚗️", "description": "alembic" },
+  "kémcső": { "replacement": "🧪", "description": "test tube" },
+  "petri-csésze": { "replacement": "🧫", "description": "petri dish" },
+  "dna": { "replacement": "🧬", "description": "dna" },
+  "mikroszkóp": { "replacement": "🔬", "description": "microscope" },
+  "távcső": { "replacement": "🔭", "description": "telescope" },
+  "műhold": { "replacement": "📡", "description": "satellite antenna" },
+  "fecskendő": { "replacement": "💉", "description": "syringe" },
+  "vércsepp": { "replacement": "🩸", "description": "drop of blood" },
+  "tabletta": { "replacement": "💊", "description": "pill" },
+  "leukoplaszt": { "replacement": "🩹", "description": "adhesive bandage" },
+  "sztetoszkóp": { "replacement": "🩺", "description": "stethoscope" },
+  "ajtó": { "replacement": "🚪", "description": "door" },
+  "lift": { "replacement": "🛗", "description": "elevator" },
+  "tükör": { "replacement": "🪞", "description": "mirror" },
+  "ablak": { "replacement": "🪟", "description": "window" },
+  "ágy": { "replacement": "🛏️", "description": "bed" },
+  "kanapé és lámpa": { "replacement": "🛋️", "description": "couch and lamp" },
+  "szék": { "replacement": "🪑", "description": "chair" },
+  "WC": { "replacement": "🚾", "description": "water closet" },
+  "dugattyú": { "replacement": "🪠", "description": "plunger" },
+  "zuhany": { "replacement": "🚿", "description": "shower" },
+  "egérfogó": { "replacement": "🪤", "description": "mouse trap" },
+  "borotva": { "replacement": "🪒", "description": "razor" },
+  "krém üveg": { "replacement": "🧴", "description": "lotion bottle" },
+  "biztosítótű": { "replacement": "🧷", "description": "safety pin" },
+  "seprű": { "replacement": "🧹", "description": "broom" },
+  "kosár": { "replacement": "🧺", "description": "basket" },
+  "tekercs papír": { "replacement": "🧻", "description": "roll of paper" },
+  "vödör": { "replacement": "🪣", "description": "bucket" },
+  "szappan": { "replacement": "🧼", "description": "soap" },
+  "fogkefe": { "replacement": "🪥", "description": "toothbrush" },
+  "szivacs": { "replacement": "🧽", "description": "sponge" },
+  "tűzoltó készülék": {
+    "replacement": "🧯",
+    "description": "fire extinguisher"
+  },
+  "bevásárlókocsi": { "replacement": "🛒", "description": "shopping cart" },
+  "dohányzó": { "replacement": "🚬", "description": "cigarette" },
+  "koporsó": { "replacement": "⚰️", "description": "coffin" },
+  "sírkő": { "replacement": "🪦", "description": "headstone" },
+  "temetési urna": { "replacement": "⚱️", "description": "funeral urn" },
+  "moyai": { "replacement": "🗿", "description": "moai" },
+  "plakát": { "replacement": "🪧", "description": "placard" },
+  "atm": { "replacement": "🏧", "description": "ATM sign" },
+  "tegye almot a helyére": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "iható víz": { "replacement": "🚰", "description": "potable water" },
+  "kerekes szék": { "replacement": "♿", "description": "wheelchair symbol" },
+  "férfi": { "replacement": "🚹", "description": "men’s room" },
+  "női": { "replacement": "🚺", "description": "women’s room" },
+  "vécé": { "replacement": "🚻", "description": "restroom" },
+  "baba szimbólum": { "replacement": "🚼", "description": "baby symbol" },
+  "útlevél-ellenőrzés": {
+    "replacement": "🛂",
+    "description": "passport control"
+  },
+  "vám": { "replacement": "🛃", "description": "customs" },
+  "poggyászkiadó": { "replacement": "🛄", "description": "baggage claim" },
+  "elhagyott poggyász": { "replacement": "🛅", "description": "left luggage" },
+  "Figyelem": { "replacement": "⚠️", "description": "warning" },
+  "átkelő gyerekek": {
+    "replacement": "🚸",
+    "description": "children crossing"
+  },
+  "Belépni tilos": { "replacement": "⛔", "description": "no entry" },
+  "nincs bejárati jel": { "replacement": "🚫", "description": "prohibited" },
+  "nincs kerékpár": { "replacement": "🚳", "description": "no bicycles" },
+  "Tilos a dohányzás": { "replacement": "🚭", "description": "no smoking" },
+  "ne szemetelj": { "replacement": "🚯", "description": "no littering" },
+  "nem ivóvíz": { "replacement": "🚱", "description": "non-potable water" },
+  "nincs gyalogos": { "replacement": "🚷", "description": "no pedestrians" },
+  "nincsenek mobiltelefonok": {
+    "replacement": "📵",
+    "description": "no mobile phones"
+  },
+  "kiskorú": { "replacement": "🔞", "description": "no one under eighteen" },
+  "radioaktív": { "replacement": "☢️", "description": "radioactive" },
+  "biológiai veszély": { "replacement": "☣️", "description": "biohazard" },
+  "nyíl felfelé": {
+    "replacement": "⤴️",
+    "description": "right arrow curving up"
+  },
+  "nyíl jobbra fent": { "replacement": "↗️", "description": "up-right arrow" },
+  "nyíl jobbra": { "replacement": "➡️", "description": "right arrow" },
+  "nyíl jobbra lent": {
+    "replacement": "↘️",
+    "description": "down-right arrow"
+  },
+  "nyíl lefelé": {
+    "replacement": "⤵️",
+    "description": "right arrow curving down"
+  },
+  "nyíl balra lent": { "replacement": "↙️", "description": "down-left arrow" },
+  "nyíl balra": { "replacement": "⬅️", "description": "left arrow" },
+  "nyíl balra fent": { "replacement": "↖️", "description": "up-left arrow" },
+  "bal jobb nyíl": { "replacement": "↔️", "description": "left-right arrow" },
+  "balra nyíl horoggal": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "nyíl jobb horog": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "nyilak az óramutató járásával megegyező irányban": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "nyilak az óramutató járásával ellentétes irányba": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "vissza": { "replacement": "🔙", "description": "BACK arrow" },
+  "vége": { "replacement": "🔚", "description": "END arrow" },
+  "tovább": { "replacement": "🔛", "description": "ON! arrow" },
+  "hamar": { "replacement": "🔜", "description": "SOON arrow" },
+  "tetejére": { "replacement": "🔝", "description": "TOP arrow" },
+  "istentiszteleti hely": {
+    "replacement": "🛐",
+    "description": "place of worship"
+  },
+  "atom szimbólum": { "replacement": "⚛️", "description": "atom symbol" },
+  "om": { "replacement": "🕉️", "description": "om" },
+  "dávid csillaga": { "replacement": "✡️", "description": "star of David" },
+  "dharma kereke": { "replacement": "☸️", "description": "wheel of dharma" },
+  "Yin Yang": { "replacement": "☯️", "description": "yin yang" },
+  "latin kereszt": { "replacement": "✝️", "description": "latin cross" },
+  "ortodox kereszt": { "replacement": "☦️", "description": "orthodox cross" },
+  "csillag és félhold": {
+    "replacement": "☪️",
+    "description": "star and crescent"
+  },
+  "béke szimbólum": { "replacement": "☮️", "description": "peace symbol" },
+  "menóra": { "replacement": "🕎", "description": "menorah" },
+  "hatágú csillag": {
+    "replacement": "🔯",
+    "description": "dotted six-pointed star"
+  },
+  "Kos": { "replacement": "♈", "description": "Aries" },
+  "Bika": { "replacement": "♉", "description": "Taurus" },
+  "Ikrek": { "replacement": "♊", "description": "Gemini" },
+  "rák": { "replacement": "♋", "description": "Cancer" },
+  "Oroszlán": { "replacement": "♌", "description": "Leo" },
+  "Szűz": { "replacement": "♍", "description": "Virgo" },
+  "Mérleg": { "replacement": "♎", "description": "Libra" },
+  "skorpius": { "replacement": "♏", "description": "Scorpio" },
+  "Nyilas": { "replacement": "♐", "description": "Sagittarius" },
+  "Bak": { "replacement": "♑", "description": "Capricorn" },
+  "Vízöntő": { "replacement": "♒", "description": "Aquarius" },
+  "Halak": { "replacement": "♓", "description": "Pisces" },
+  "ophiuchus": { "replacement": "⛎", "description": "Ophiuchus" },
+  "jobbra nyilakat csavart": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "ismétlés": { "replacement": "🔁", "description": "repeat button" },
+  "ismételje meg az egyiket": {
+    "replacement": "🔂",
+    "description": "repeat single button"
+  },
+  "nyíl előre": { "replacement": "▶️", "description": "play button" },
+  "előrepörgetés": {
+    "replacement": "⏩",
+    "description": "fast-forward button"
+  },
+  "következő műsorszám gomb": {
+    "replacement": "⏭️",
+    "description": "next track button"
+  },
+  "lejátszás vagy szünet gomb": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "nyíl hátra": { "replacement": "◀️", "description": "reverse button" },
+  "visszatekerés": {
+    "replacement": "⏪",
+    "description": "fast reverse button"
+  },
+  "előző szám gomb": {
+    "replacement": "⏮️",
+    "description": "last track button"
+  },
+  "nyíl felfelé kicsi": {
+    "replacement": "🔼",
+    "description": "upwards button"
+  },
+  "nyíl dupla felfelé": {
+    "replacement": "⏫",
+    "description": "fast up button"
+  },
+  "nyíl lefelé kicsi": {
+    "replacement": "🔽",
+    "description": "downwards button"
+  },
+  "nyíl dupla lefelé": {
+    "replacement": "⏬",
+    "description": "fast down button"
+  },
+  "szünet gomb": { "replacement": "⏸️", "description": "pause button" },
+  "stop gombot": { "replacement": "⏹️", "description": "stop button" },
+  "felvétel gomb": { "replacement": "⏺️", "description": "record button" },
+  "kiadógomb": { "replacement": "⏏️", "description": "eject button" },
+  "mozi": { "replacement": "🎦", "description": "cinema" },
+  "alacsony fényerő": { "replacement": "🔅", "description": "dim button" },
+  "nagy fényerő": { "replacement": "🔆", "description": "bright button" },
+  "jelerősség": { "replacement": "📶", "description": "antenna bars" },
+  "rezgési mód": { "replacement": "📳", "description": "vibration mode" },
+  "mobiltelefon ki": { "replacement": "📴", "description": "mobile phone off" },
+  "női jel": { "replacement": "♀️", "description": "female sign" },
+  "férfi jele": { "replacement": "♂️", "description": "male sign" },
+  "transznemű szimbólum": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "nehéz szorzás x": { "replacement": "✖️", "description": "multiply" },
+  "nehéz pluszjel": { "replacement": "➕", "description": "plus" },
+  "nehéz mínusz jel": { "replacement": "➖", "description": "minus" },
+  "nehéz osztás jel": { "replacement": "➗", "description": "divide" },
+  "végtelenség": { "replacement": "♾️", "description": "infinity" },
+  "dögös": { "replacement": "‼️", "description": "double exclamation mark" },
+  "interrobang": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "kérdés": { "replacement": "❓", "description": "question mark" },
+  "szürke kérdés": {
+    "replacement": "❔",
+    "description": "white question mark"
+  },
+  "szürke felkiáltás": {
+    "replacement": "❕",
+    "description": "white exclamation mark"
+  },
+  "felkiáltás": { "replacement": "❗", "description": "exclamation mark" },
+  "hullámos kötőjel": { "replacement": "〰️", "description": "wavy dash" },
+  "valutaváltó": { "replacement": "💱", "description": "currency exchange" },
+  "nehéz dollárjel": {
+    "replacement": "💲",
+    "description": "heavy dollar sign"
+  },
+  "orvosi szimbólum": { "replacement": "⚕️", "description": "medical symbol" },
+  "újrahasznosítani": {
+    "replacement": "♻️",
+    "description": "recycling symbol"
+  },
+  "fleur de lis": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "háromágú szigony": { "replacement": "🔱", "description": "trident emblem" },
+  "névkitűző": { "replacement": "📛", "description": "name badge" },
+  "kezdő": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "o": { "replacement": "⭕", "description": "hollow red circle" },
+  "fehér pipa": { "replacement": "✅", "description": "check mark button" },
+  "urnát csekkel": {
+    "replacement": "☑️",
+    "description": "check box with check"
+  },
+  "nehéz pipa": { "replacement": "✔️", "description": "check mark" },
+  "x": { "replacement": "❌", "description": "cross mark" },
+  "negatív négyzet keresztjel": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "göndör hurok": { "replacement": "➰", "description": "curly loop" },
+  "hurok": { "replacement": "➿", "description": "double curly loop" },
+  "rész váltakozó jel": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "nyolc csillagú csillag": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "nyolc hegyes fekete csillag": {
+    "replacement": "✴️",
+    "description": "eight-pointed star"
+  },
+  "szikra": { "replacement": "❇️", "description": "sparkle" },
+  "szerzői jog": { "replacement": "©️", "description": "copyright" },
+  "bejegyzett": { "replacement": "®️", "description": "registered" },
+  "tm": { "replacement": "™️", "description": "trade mark" },
+  "hash": { "replacement": "#️⃣", "description": "keycap: #" },
+  "nulla": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "egy": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "két": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "három": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "négy": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "öt": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "hat": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "hét": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "nyolc": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "kilenc": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "kulcstartó tíz": { "replacement": "🔟", "description": "keycap: 10" },
+  "fővárosi abcd": {
+    "replacement": "🔠",
+    "description": "input latin uppercase"
+  },
+  "abcd": { "replacement": "🔡", "description": "input latin lowercase" },
+  "szimbólumok": { "replacement": "🔣", "description": "input symbols" },
+  "ABC": { "replacement": "🔤", "description": "input latin letters" },
+  "a": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "ab": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "b": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "cl": { "replacement": "🆑", "description": "CL button" },
+  "menő": { "replacement": "🆒", "description": "COOL button" },
+  "ingyenes": { "replacement": "🆓", "description": "FREE button" },
+  "információ forrás": { "replacement": "ℹ️", "description": "information" },
+  "id": { "replacement": "🆔", "description": "ID button" },
+  "m": { "replacement": "Ⓜ️", "description": "circled M" },
+  "új": { "replacement": "🆕", "description": "NEW button" },
+  "ng": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "rendben": { "replacement": "🆗", "description": "OK button" },
+  "parkolás": { "replacement": "🅿️", "description": "P button" },
+  "SOS": { "replacement": "🆘", "description": "SOS button" },
+  "fel": { "replacement": "🆙", "description": "UP! button" },
+  "vs.": { "replacement": "🆚", "description": "VS button" },
+  "koko": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "sa": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "ideográf előny": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "elfogad": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "Gratulálunk": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "titok": { "replacement": "㊙️", "description": "Japanese “secret” button" },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "piros kör": { "replacement": "🔴", "description": "red circle" },
+  "narancssárga kör": { "replacement": "🟠", "description": "orange circle" },
+  "sárga kör": { "replacement": "🟡", "description": "yellow circle" },
+  "zöld kör": { "replacement": "🟢", "description": "green circle" },
+  "nagy kék kör": { "replacement": "🔵", "description": "blue circle" },
+  "lila kör": { "replacement": "🟣", "description": "purple circle" },
+  "barna kör": { "replacement": "🟤", "description": "brown circle" },
+  "fekete kör": { "replacement": "⚫", "description": "black circle" },
+  "fehér kör": { "replacement": "⚪", "description": "white circle" },
+  "vörös tér": { "replacement": "🟥", "description": "red square" },
+  "narancssárga négyzet": {
+    "replacement": "🟧",
+    "description": "orange square"
+  },
+  "sárga négyzet": { "replacement": "🟨", "description": "yellow square" },
+  "zöld négyzet": { "replacement": "🟩", "description": "green square" },
+  "kék négyzet": { "replacement": "🟦", "description": "blue square" },
+  "lila négyzet": { "replacement": "🟪", "description": "purple square" },
+  "barna négyzet": { "replacement": "🟫", "description": "brown square" },
+  "fekete nagy négyzet": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "fehér nagy négyzet": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "fekete közepes négyzet": {
+    "replacement": "◼️",
+    "description": "black medium square"
+  },
+  "fehér közepes négyzet": {
+    "replacement": "◻️",
+    "description": "white medium square"
+  },
+  "fekete közepes kis négyzet": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "fehér közepes kis négyzet": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "fekete kis négyzet": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "fehér kis négyzet": {
+    "replacement": "▫️",
+    "description": "white small square"
+  },
+  "nagy narancssárga gyémánt": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "nagy kék gyémánt": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "kis narancssárga gyémánt": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "kis kék gyémánt": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "kis piros háromszög": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "kis piros háromszög lefelé": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "gyémánt alakú, benne pont": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "Rádiógomb": { "replacement": "🔘", "description": "radio button" },
+  "fehér négyzet gomb": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "fekete négyzet gomb": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "kockás zászló": { "replacement": "🏁", "description": "chequered flag" },
+  "háromszög alakú zászló a postán": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "keresztezett zászlókat": {
+    "replacement": "🎌",
+    "description": "crossed flags"
+  },
+  "fekete zászló": { "replacement": "🏴", "description": "black flag" },
+  "fehér zászló": { "replacement": "🏳️", "description": "white flag" },
+  "szivárvány zászló": { "replacement": "🏳️‍🌈", "description": "rainbow flag" },
+  "transznemű zászló": {
+    "replacement": "🏳️‍⚧️",
+    "description": "transgender flag"
+  },
+  "kalózzászló": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "felemelkedési sziget": {
+    "replacement": "🇦🇨",
+    "description": "flag: Ascension Island"
+  },
+  "andorra": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "Egyesült Arab Emírségek": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "Afganisztán": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "antigua barbuda": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "anguilla": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "Albánia": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "Örményország": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "Angola": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "antarktisz": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "Argentína": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "Amerikai Szamoa": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "Ausztria": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "Ausztrália": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "aruba": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "aland szigetek": {
+    "replacement": "🇦🇽",
+    "description": "flag: Åland Islands"
+  },
+  "Azerbajdzsán": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "bosnia herzegovina": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "barbados": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "bangladesh": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "Belgium": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "Burkina Faso": { "replacement": "🇧🇫", "description": "flag: Burkina Faso" },
+  "Bulgária": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "Bahrein": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "Burundi": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "benin": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "st barthelemy": {
+    "replacement": "🇧🇱",
+    "description": "flag: St. Barthélemy"
+  },
+  "bermuda": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "brunei": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "Bolívia": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "karibi Hollandia": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "Brazília": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "Bahama-szigetek": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "bhután": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "csokorsziget": { "replacement": "🇧🇻", "description": "flag: Bouvet Island" },
+  "Botswana": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "belorusz": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "lebecsülni": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "Kanada": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "kókusz-szigetek": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "kongó kinshasa": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "Közép-Afrikai Köztársaság": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "kongó brazzaville": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "svájc": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "cote divoire": { "replacement": "🇨🇮", "description": "flag: Côte d’Ivoire" },
+  "szakácsszigetek": {
+    "replacement": "🇨🇰",
+    "description": "flag: Cook Islands"
+  },
+  "Chile": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "Kamerun": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "cn": { "replacement": "🇨🇳", "description": "flag: China" },
+  "Colombia": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "clipperton-sziget": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "Costa Rica": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "Kuba": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "zöld-fok": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "curacao": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "karácsonyi sziget": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "Ciprus": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "Cseh Köztársaság": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "de": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "diego garcia": { "replacement": "🇩🇬", "description": "flag: Diego Garcia" },
+  "dzsibuti": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "Dánia": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "dominika": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "Dominikai Köztársaság": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "Algéria": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "ceuta melilla": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "Ecuador": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "Észtország": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "Egyiptom": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "nyugat-Szahara": {
+    "replacement": "🇪🇭",
+    "description": "flag: Western Sahara"
+  },
+  "eritrea": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "es": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "Etiópia": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "eu": { "replacement": "🇪🇺", "description": "flag: European Union" },
+  "Finnország": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "fidzsi": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "Falkland-szigetek": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "mikronézia": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "Faroe Szigetek": {
+    "replacement": "🇫🇴",
+    "description": "flag: Faroe Islands"
+  },
+  "fr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "Gabon": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "gb": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "grenada": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "Grúzia": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "Francia Guyana": {
+    "replacement": "🇬🇫",
+    "description": "flag: French Guiana"
+  },
+  "guernsey": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "Ghána": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "Gibraltár": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "Grönland": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "Gambia": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "Guinea": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "guadeloupe": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "Egyenlítői-Guinea": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "Görögország": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "dél-georgia déli szendvics-szigetek": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "Guatemala": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "guam": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "bissau-guinea": {
+    "replacement": "🇬🇼",
+    "description": "flag: Guinea-Bissau"
+  },
+  "guyana": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "Hong Kong": {
+    "replacement": "🇭🇰",
+    "description": "flag: Hong Kong SAR China"
+  },
+  "hallotta a mcdonald-szigeteket": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "Honduras": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "Horvátország": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "Haiti": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "Magyarország": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "Kanári szigetek": {
+    "replacement": "🇮🇨",
+    "description": "flag: Canary Islands"
+  },
+  "Indonézia": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "Írország": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "Izrael": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "az ember szigete": {
+    "replacement": "🇮🇲",
+    "description": "flag: Isle of Man"
+  },
+  "India": { "replacement": "🇮🇳", "description": "flag: India" },
+  "brit indiai-óceáni terület": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "Irak": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "irán": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "Izland": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "azt": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "mez": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "Jamaica": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "Jordánia": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "jp": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "Kenya": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "kirgizisztán": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "Kambodzsa": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "kiribati": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "komorok": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "st kitts nevis": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "Észak Kórea": { "replacement": "🇰🇵", "description": "flag: North Korea" },
+  "kr": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "Kuvait": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "Kajmán-szigetek": {
+    "replacement": "🇰🇾",
+    "description": "flag: Cayman Islands"
+  },
+  "kazahsztán": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "Laosz": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "Libanon": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "Szent Lucia": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "liechtenstein": {
+    "replacement": "🇱🇮",
+    "description": "flag: Liechtenstein"
+  },
+  "Srí Lanka": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "Libéria": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "Lesotho": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "Litvánia": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "Luxemburg": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "Lettország": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "Líbia": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "Marokkó": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "monaco": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "moldova": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "Montenegró": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "Szent Márton": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "Madagaszkár": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "Marshall-szigetek": {
+    "replacement": "🇲🇭",
+    "description": "flag: Marshall Islands"
+  },
+  "Macedónia": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "mali": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "Mianmar": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "Mongólia": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "macau": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "Észak Mariana szigetek": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "martinique": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "Mauritánia": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "montserrat": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "Málta": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "mauritius": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "maldív-szigeteken": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "Malawi": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "Mexikó": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "Malaysia": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "mozambik": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "namíbia": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "Új-Kaledónia": { "replacement": "🇳🇨", "description": "flag: New Caledonia" },
+  "Niger": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "norfolk-sziget": {
+    "replacement": "🇳🇫",
+    "description": "flag: Norfolk Island"
+  },
+  "Nigéria": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "Nicaragua": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "Hollandia": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "Norvégia": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "Nepál": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "nauru": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "niue": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "új Zéland": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "Omán": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "Panama": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "Peru": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "Francia Polinézia": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "Pápua Új-Guinea": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "fülöp-szigetek": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "Pakisztán": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "Lengyelország": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "st. pierre miquelon": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "pitcairni szigetek": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "Puerto Rico": { "replacement": "🇵🇷", "description": "flag: Puerto Rico" },
+  "palesztin területek": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "Portugália": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "palau": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "Paraguay": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "Katar": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "viszontlátás": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "románia": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "Szerbia": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "ru": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "Ruanda": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "Szaud-Arábia": { "replacement": "🇸🇦", "description": "flag: Saudi Arabia" },
+  "Salamon-szigetek": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "seychelle-szigetek": {
+    "replacement": "🇸🇨",
+    "description": "flag: Seychelles"
+  },
+  "Szudán": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "Svédország": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "szingapúr": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "Szent Helena": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "Szlovénia": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "svalbard jan mayen": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "Szlovákia": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "sierra leone": { "replacement": "🇸🇱", "description": "flag: Sierra Leone" },
+  "San Marino": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "Szenegál": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "szomália": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "suriname": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "Dél Szudán": { "replacement": "🇸🇸", "description": "flag: South Sudan" },
+  "sao tome principe": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "El Salvador": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "sint maarten": { "replacement": "🇸🇽", "description": "flag: Sint Maarten" },
+  "Szíria": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "Szváziföld": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "tristan da cunha": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "turkálja a caicos-szigeteket": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "Csád": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "francia déli területek": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "menni": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "Thaiföld": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "Tádzsikisztán": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "tokelau": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "timor legkevesebb": {
+    "replacement": "🇹🇱",
+    "description": "flag: Timor-Leste"
+  },
+  "Törökország": { "replacement": "🇹🇲", "description": "flag: Turkmenistan" },
+  "Tunézia": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "Tonga": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "tr": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "Trinidad és Tobago": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "tuvalu": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "taiwan": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "tanzánia": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "Ukrajna": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "uganda": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "minket, a legkülső szigeteket": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "Egyesült Nemzetek": {
+    "replacement": "🇺🇳",
+    "description": "flag: United Nations"
+  },
+  "minket": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "Uruguay": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "Üzbegisztán": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "Vatikán város": { "replacement": "🇻🇦", "description": "flag: Vatican City" },
+  "st vincent grenadine": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "Venezuela": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "Brit Virgin szigetek": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "nekünk szűz szigetek": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "Vietnam": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "vanuatu": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "wallis futuna": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "szamoa": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "kosovo": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "Jemen": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "mayotte": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "Dél-Afrika": { "replacement": "🇿🇦", "description": "flag: South Africa" },
+  "zambia": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "zimbabwe": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "Anglia": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "Skócia": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "Wales": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

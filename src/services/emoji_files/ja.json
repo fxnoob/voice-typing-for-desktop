@@ -1,0 +1,2683 @@
+{
+  "1": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "6": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "8": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "ニヤリと": { "replacement": "😀", "description": "grinning face" },
+  "スマイリー": {
+    "replacement": "😃",
+    "description": "grinning face with big eyes"
+  },
+  "スマイル": {
+    "replacement": "😄",
+    "description": "grinning face with smiling eyes"
+  },
+  "ニヤニヤ": {
+    "replacement": "😁",
+    "description": "beaming face with smiling eyes"
+  },
+  "笑い": { "replacement": "😆", "description": "grinning squinting face" },
+  "汗の笑顔": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "喜び": { "replacement": "😂", "description": "face with tears of joy" },
+  "少し笑顔": { "replacement": "🙂", "description": "slightly smiling face" },
+  "逆さまの顔": { "replacement": "🙃", "description": "upside-down face" },
+  "ウィンク": { "replacement": "😉", "description": "winking face" },
+  "赤面": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "無実": { "replacement": "😇", "description": "smiling face with halo" },
+  "3つの心の笑顔": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "ハートの目": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "星が打たれた": { "replacement": "🤩", "description": "star-struck" },
+  "キスの心": { "replacement": "😘", "description": "face blowing a kiss" },
+  "キス": { "replacement": "😗", "description": "kissing face" },
+  "リラックス": { "replacement": "☺️", "description": "smiling face" },
+  "目を閉じてキス": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "笑顔の目にキス": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "涙の笑顔": { "replacement": "🥲", "description": "smiling face with tear" },
+  "ヤム": { "replacement": "😋", "description": "face savoring food" },
+  "突き出た舌": { "replacement": "😛", "description": "face with tongue" },
+  "突き出た舌まばたき目": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "おどけた顔": { "replacement": "🤪", "description": "zany face" },
+  "舌を突き出して目を閉じた": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "お金の口の顔": { "replacement": "🤑", "description": "money-mouth face" },
+  "抱擁": { "replacement": "🤗", "description": "hugging face" },
+  "口を渡す": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "顔をすくめる": { "replacement": "🤫", "description": "shushing face" },
+  "考え": { "replacement": "🤔", "description": "thinking face" },
+  "ジッパーの口の顔": {
+    "replacement": "🤐",
+    "description": "zipper-mouth face"
+  },
+  "眉を上げた": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "ニュートラルな顔": { "replacement": "😐", "description": "neutral face" },
+  "無表情": { "replacement": "😑", "description": "expressionless face" },
+  "口がない": { "replacement": "😶", "description": "face without mouth" },
+  "にやにや笑い": { "replacement": "😏", "description": "smirking face" },
+  "面白くない": { "replacement": "😒", "description": "unamused face" },
+  "目を転がす": {
+    "replacement": "🙄",
+    "description": "face with rolling eyes"
+  },
+  "しかめっ面": {
+    "replacement": "😦",
+    "description": "frowning face with open mouth"
+  },
+  "横になっている顔": { "replacement": "🤥", "description": "lying face" },
+  "安心": { "replacement": "😌", "description": "relieved face" },
+  "物思いにふける": { "replacement": "😔", "description": "pensive face" },
+  "眠いです": { "replacement": "😪", "description": "sleepy face" },
+  "よだれ顔": { "replacement": "🤤", "description": "drooling face" },
+  "睡眠": { "replacement": "😴", "description": "sleeping face" },
+  "マスク": { "replacement": "😷", "description": "face with medical mask" },
+  "温度計で顔": { "replacement": "🤒", "description": "face with thermometer" },
+  "頭の包帯で顔": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "吐き気を催す顔": { "replacement": "🤢", "description": "nauseated face" },
+  "嘔吐顔": { "replacement": "🤮", "description": "face vomiting" },
+  "くしゃみ顔": { "replacement": "🤧", "description": "sneezing face" },
+  "熱い顔": { "replacement": "🥵", "description": "hot face" },
+  "冷たい顔": { "replacement": "🥶", "description": "cold face" },
+  "ウージーフェイス": { "replacement": "🥴", "description": "woozy face" },
+  "めまい顔": { "replacement": "😵", "description": "dizzy face" },
+  "爆発する頭": { "replacement": "🤯", "description": "exploding head" },
+  "カウボーイハットの顔": {
+    "replacement": "🤠",
+    "description": "cowboy hat face"
+  },
+  "パーティーの顔": { "replacement": "🥳", "description": "partying face" },
+  "変装した顔": { "replacement": "🥸", "description": "disguised face" },
+  "サングラス": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "オタク顔": { "replacement": "🤓", "description": "nerd face" },
+  "モノクルフェイス": {
+    "replacement": "🧐",
+    "description": "face with monocle"
+  },
+  "混乱している": { "replacement": "😕", "description": "confused face" },
+  "心配": { "replacement": "😟", "description": "worried face" },
+  "少ししかめっ面": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "口を開ける": { "replacement": "😮", "description": "face with open mouth" },
+  "静まり返った": { "replacement": "😯", "description": "hushed face" },
+  "びっくりした": { "replacement": "😲", "description": "astonished face" },
+  "フラッシュ": { "replacement": "😳", "description": "flushed face" },
+  "訴えかける顔": { "replacement": "🥺", "description": "pleading face" },
+  "苦悩": { "replacement": "😧", "description": "anguished face" },
+  "恐ろしい": { "replacement": "😨", "description": "fearful face" },
+  "冷や汗": { "replacement": "😰", "description": "anxious face with sweat" },
+  "がっかり安心": {
+    "replacement": "😥",
+    "description": "sad but relieved face"
+  },
+  "泣く": { "replacement": "😢", "description": "crying face" },
+  "すすり泣き": { "replacement": "😭", "description": "loudly crying face" },
+  "悲鳴": { "replacement": "😱", "description": "face screaming in fear" },
+  "交絡": { "replacement": "😖", "description": "confounded face" },
+  "頑張る": { "replacement": "😣", "description": "persevering face" },
+  "がっかり": { "replacement": "😞", "description": "disappointed face" },
+  "汗": { "replacement": "😓", "description": "downcast face with sweat" },
+  "疲れた": { "replacement": "😩", "description": "weary face" },
+  "疲れた顔": { "replacement": "😫", "description": "tired face" },
+  "あくび顔": { "replacement": "🥱", "description": "yawning face" },
+  "勝利": { "replacement": "😤", "description": "face with steam from nose" },
+  "怒り": { "replacement": "💢", "description": "anger symbol" },
+  "怒っている": { "replacement": "😠", "description": "angry face" },
+  "のろい顔": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "笑顔のインプ": {
+    "replacement": "😈",
+    "description": "smiling face with horns"
+  },
+  "インプ": { "replacement": "👿", "description": "angry face with horns" },
+  "頭蓋骨": { "replacement": "💀", "description": "skull" },
+  "髑髏と骨": { "replacement": "☠️", "description": "skull and crossbones" },
+  "ハンキー": { "replacement": "💩", "description": "pile of poo" },
+  "ピエロの顔": { "replacement": "🤡", "description": "clown face" },
+  "日本の鬼": { "replacement": "👹", "description": "ogre" },
+  "日本のゴブリン": { "replacement": "👺", "description": "goblin" },
+  "幽霊": { "replacement": "👻", "description": "ghost" },
+  "エイリアン": { "replacement": "👽", "description": "alien" },
+  "スペースインベーダー": {
+    "replacement": "👾",
+    "description": "alien monster"
+  },
+  "ロボット": { "replacement": "🤖", "description": "robot" },
+  "スマイリーキャット": { "replacement": "😺", "description": "grinning cat" },
+  "笑顔の猫": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "ジョイキャット": {
+    "replacement": "😹",
+    "description": "cat with tears of joy"
+  },
+  "ハートアイ猫": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "にやにや笑い猫": {
+    "replacement": "😼",
+    "description": "cat with wry smile"
+  },
+  "猫にキス": { "replacement": "😽", "description": "kissing cat" },
+  "悲鳴を上げる猫": { "replacement": "🙀", "description": "weary cat" },
+  "泣いている猫の顔": { "replacement": "😿", "description": "crying cat" },
+  "ふくれっ面猫": { "replacement": "😾", "description": "pouting cat" },
+  "悪を見ない": { "replacement": "🙈", "description": "see-no-evil monkey" },
+  "悪は聞こえない": {
+    "replacement": "🙉",
+    "description": "hear-no-evil monkey"
+  },
+  "悪を話すません": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "接吻": { "replacement": "💋", "description": "kiss mark" },
+  "ラブレター": { "replacement": "💌", "description": "love letter" },
+  "キューピッド": { "replacement": "💘", "description": "heart with arrow" },
+  "ギフトハート": { "replacement": "💝", "description": "heart with ribbon" },
+  "きらめくハート": { "replacement": "💖", "description": "sparkling heart" },
+  "ハートパルス": { "replacement": "💗", "description": "growing heart" },
+  "ハートビート": { "replacement": "💓", "description": "beating heart" },
+  "回転するハート": { "replacement": "💞", "description": "revolving hearts" },
+  "二つの心臓": { "replacement": "💕", "description": "two hearts" },
+  "ハート飾り": { "replacement": "💟", "description": "heart decoration" },
+  "重い心の感嘆": { "replacement": "❣️", "description": "heart exclamation" },
+  "失恋": { "replacement": "💔", "description": "broken heart" },
+  "ハート": { "replacement": "❤️", "description": "red heart" },
+  "オレンジ色のハート": { "replacement": "🧡", "description": "orange heart" },
+  "黄色いハート": { "replacement": "💛", "description": "yellow heart" },
+  "緑のハート": { "replacement": "💚", "description": "green heart" },
+  "青いハート": { "replacement": "💙", "description": "blue heart" },
+  "パープルハート": { "replacement": "💜", "description": "purple heart" },
+  "茶色のハート": { "replacement": "🤎", "description": "brown heart" },
+  "邪険な心": { "replacement": "🖤", "description": "black heart" },
+  "白い心": { "replacement": "🤍", "description": "white heart" },
+  "ブーム": { "replacement": "💥", "description": "collision" },
+  "めまいが": { "replacement": "💫", "description": "dizzy" },
+  "汗滴": { "replacement": "💦", "description": "sweat droplets" },
+  "ダッシュ": { "replacement": "💨", "description": "dashing away" },
+  "穴": { "replacement": "🕳️", "description": "hole" },
+  "爆弾": { "replacement": "💣", "description": "bomb" },
+  "吹き出し": { "replacement": "💬", "description": "speech balloon" },
+  "目の吹き出し": {
+    "replacement": "👁️‍🗨️",
+    "description": "eye in speech bubble"
+  },
+  "左吹き出し": { "replacement": "🗨️", "description": "left speech bubble" },
+  "右の怒りの泡": { "replacement": "🗯️", "description": "right anger bubble" },
+  "思考気球": { "replacement": "💭", "description": "thought balloon" },
+  "zzz": { "replacement": "💤", "description": "zzz" },
+  "波": { "replacement": "👋", "description": "waving hand" },
+  "手の甲を上げた": {
+    "replacement": "🤚",
+    "description": "raised back of hand"
+  },
+  "指を広げて手を上げた": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "手": { "replacement": "✋", "description": "raised hand" },
+  "バルカン敬礼": { "replacement": "🖖", "description": "vulcan salute" },
+  "わかりました": { "replacement": "🙆", "description": "person gesturing OK" },
+  "つままれた指": { "replacement": "🤌", "description": "pinched fingers" },
+  "手をつまむ": { "replacement": "🤏", "description": "pinching hand" },
+  "v": { "replacement": "✌️", "description": "victory hand" },
+  "交差した指": { "replacement": "🤞", "description": "crossed fingers" },
+  "愛してるジェスチャー": {
+    "replacement": "🤟",
+    "description": "love-you gesture"
+  },
+  "金属": { "replacement": "🤘", "description": "sign of the horns" },
+  "私を手と呼んでください": {
+    "replacement": "🤙",
+    "description": "call me hand"
+  },
+  "左のポイント": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "右を指す": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "ポイントアップ2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "中指": { "replacement": "🖕", "description": "middle finger" },
+  "下向き": {
+    "replacement": "👇",
+    "description": "backhand index pointing down"
+  },
+  "ポイントアップ": { "replacement": "☝️", "description": "index pointing up" },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "拳を上げた": { "replacement": "✊", "description": "raised fist" },
+  "近づいてくる拳": { "replacement": "👊", "description": "oncoming fist" },
+  "左拳": { "replacement": "🤛", "description": "left-facing fist" },
+  "右拳": { "replacement": "🤜", "description": "right-facing fist" },
+  "拍手": { "replacement": "👏", "description": "clapping hands" },
+  "挙手": { "replacement": "🙌", "description": "raising hands" },
+  "手を開く": { "replacement": "👐", "description": "open hands" },
+  "一緒に手のひら": { "replacement": "🤲", "description": "palms up together" },
+  "ハンドシェーク": { "replacement": "🤝", "description": "handshake" },
+  "祈る": { "replacement": "🙏", "description": "folded hands" },
+  "手書きの手": { "replacement": "✍️", "description": "writing hand" },
+  "ネイルケア": { "replacement": "💅", "description": "nail polish" },
+  "自撮り": { "replacement": "🤳", "description": "selfie" },
+  "筋": { "replacement": "💪", "description": "flexed biceps" },
+  "メカニカルアーム": { "replacement": "🦾", "description": "mechanical arm" },
+  "機械式脚": { "replacement": "🦿", "description": "mechanical leg" },
+  "脚": { "replacement": "🦵", "description": "leg" },
+  "足": { "replacement": "🐾", "description": "paw prints" },
+  "耳": { "replacement": "👂", "description": "ear" },
+  "補聴器付きの耳": {
+    "replacement": "🦻",
+    "description": "ear with hearing aid"
+  },
+  "鼻": { "replacement": "👃", "description": "nose" },
+  "脳": { "replacement": "🧠", "description": "brain" },
+  "解剖学的心臓": { "replacement": "🫀", "description": "anatomical heart" },
+  "肺": { "replacement": "🫁", "description": "lungs" },
+  "歯": { "replacement": "🦷", "description": "tooth" },
+  "骨": { "replacement": "🦴", "description": "bone" },
+  "目": { "replacement": "👀", "description": "eyes" },
+  "眼": { "replacement": "👁️", "description": "eye" },
+  "舌": { "replacement": "👅", "description": "tongue" },
+  "唇": { "replacement": "👄", "description": "mouth" },
+  "赤ちゃん": { "replacement": "👶", "description": "baby" },
+  "子": { "replacement": "🧒", "description": "child" },
+  "男の子": { "replacement": "👦", "description": "boy" },
+  "女の子": { "replacement": "👧", "description": "girl" },
+  "大人": { "replacement": "🧑", "description": "person" },
+  "ブロンドの髪の人": {
+    "replacement": "👱",
+    "description": "person: blond hair"
+  },
+  "おとこ": { "replacement": "👨", "description": "man" },
+  "あごひげを生やした人": { "replacement": "🧔", "description": "man: beard" },
+  "赤い髪の男": { "replacement": "👨‍🦰", "description": "man: red hair" },
+  "巻き毛の男": { "replacement": "👨‍🦱", "description": "man: curly hair" },
+  "白髪の男": { "replacement": "👨‍🦳", "description": "man: white hair" },
+  "ハゲ男": { "replacement": "👨‍🦲", "description": "man: bald" },
+  "女性": { "replacement": "👩", "description": "woman" },
+  "赤い髪の女性": { "replacement": "👩‍🦰", "description": "woman: red hair" },
+  "人の赤い髪": { "replacement": "🧑‍🦰", "description": "person: red hair" },
+  "巻き毛の女性": { "replacement": "👩‍🦱", "description": "woman: curly hair" },
+  "人の巻き毛": { "replacement": "🧑‍🦱", "description": "person: curly hair" },
+  "白髪の女性": { "replacement": "👩‍🦳", "description": "woman: white hair" },
+  "人の白い髪": { "replacement": "🧑‍🦳", "description": "person: white hair" },
+  "ハゲ女": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "はげた人": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "ブロンドの髪の女性": {
+    "replacement": "👱‍♀️",
+    "description": "woman: blond hair"
+  },
+  "ブロンドの髪の男": { "replacement": "👱‍♂️", "description": "man: blond hair" },
+  "年上の大人": { "replacement": "🧓", "description": "older person" },
+  "老年男性": { "replacement": "👴", "description": "old man" },
+  "年上の女性": { "replacement": "👵", "description": "old woman" },
+  "しかめっ面の人": { "replacement": "🙍", "description": "person frowning" },
+  "しかめっ面男": { "replacement": "🙍‍♂️", "description": "man frowning" },
+  "眉をひそめる女性": { "replacement": "🙍‍♀️", "description": "woman frowning" },
+  "ふくれっ面": { "replacement": "🙎", "description": "person pouting" },
+  "ふくれっ面男": { "replacement": "🙎‍♂️", "description": "man pouting" },
+  "ふくれっ面の女性": { "replacement": "🙎‍♀️", "description": "woman pouting" },
+  "良くない": { "replacement": "🙅", "description": "person gesturing NO" },
+  "いい男じゃない": { "replacement": "🙅‍♂️", "description": "man gesturing NO" },
+  "いい女じゃない": {
+    "replacement": "🙅‍♀️",
+    "description": "woman gesturing NO"
+  },
+  "わかったよ": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "大丈夫女性": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "チップハンドパーソン": {
+    "replacement": "💁",
+    "description": "person tipping hand"
+  },
+  "チップハンドマン": {
+    "replacement": "💁‍♂️",
+    "description": "man tipping hand"
+  },
+  "ティッピングハンドウーマン": {
+    "replacement": "💁‍♀️",
+    "description": "woman tipping hand"
+  },
+  "手を上げる": { "replacement": "🙋", "description": "person raising hand" },
+  "ハンドマンを上げる": {
+    "replacement": "🙋‍♂️",
+    "description": "man raising hand"
+  },
+  "挙手女": { "replacement": "🙋‍♀️", "description": "woman raising hand" },
+  "ろう者": { "replacement": "🧏", "description": "deaf person" },
+  "聴覚障害者": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "聴覚障害者の女性": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "弓": { "replacement": "🙇", "description": "person bowing" },
+  "お辞儀をする男": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "お辞儀をする女性": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "facepalm": { "replacement": "🤦", "description": "person facepalming" },
+  "男facepalming": { "replacement": "🤦‍♂️", "description": "man facepalming" },
+  "女性のfacepalming": {
+    "replacement": "🤦‍♀️",
+    "description": "woman facepalming"
+  },
+  "肩をすくめる": { "replacement": "🤷", "description": "person shrugging" },
+  "肩をすくめる男": { "replacement": "🤷‍♂️", "description": "man shrugging" },
+  "肩をすくめる女性": { "replacement": "🤷‍♀️", "description": "woman shrugging" },
+  "医療従事者": { "replacement": "🧑‍⚕️", "description": "health worker" },
+  "男性の医療従事者": {
+    "replacement": "👨‍⚕️",
+    "description": "man health worker"
+  },
+  "女性医療従事者": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "学生": { "replacement": "🧑‍🎓", "description": "student" },
+  "男学生": { "replacement": "👨‍🎓", "description": "man student" },
+  "女子学生": { "replacement": "👩‍🎓", "description": "woman student" },
+  "先生": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "男先生": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "女教師": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "裁判官": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "男裁判官": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "女性裁判官": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "農家": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "男の農夫": { "replacement": "👨‍🌾", "description": "man farmer" },
+  "女性農夫": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "クック": { "replacement": "🧑‍🍳", "description": "cook" },
+  "男料理人": { "replacement": "👨‍🍳", "description": "man cook" },
+  "女性料理人": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "メカニック": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "男の整備士": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "女性整備士": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "工場労働者": { "replacement": "🧑‍🏭", "description": "factory worker" },
+  "男工場労働者": { "replacement": "👨‍🏭", "description": "man factory worker" },
+  "女性工場労働者": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "サラリーマン": { "replacement": "🧑‍💼", "description": "office worker" },
+  "男サラリーマン": { "replacement": "👨‍💼", "description": "man office worker" },
+  "女性サラリーマン": {
+    "replacement": "👩‍💼",
+    "description": "woman office worker"
+  },
+  "科学者": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "男性科学者": { "replacement": "👨‍🔬", "description": "man scientist" },
+  "女性科学者": { "replacement": "👩‍🔬", "description": "woman scientist" },
+  "技術者": { "replacement": "🧑‍💻", "description": "technologist" },
+  "男性技術者": { "replacement": "👨‍💻", "description": "man technologist" },
+  "女性技術者": { "replacement": "👩‍💻", "description": "woman technologist" },
+  "歌手": { "replacement": "🧑‍🎤", "description": "singer" },
+  "男の歌手": { "replacement": "👨‍🎤", "description": "man singer" },
+  "女性歌手": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "アーティスト": { "replacement": "🧑‍🎨", "description": "artist" },
+  "男アーティスト": { "replacement": "👨‍🎨", "description": "man artist" },
+  "女性アーティスト": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "パイロット": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "男パイロット": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "女性パイロット": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "宇宙飛行士": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "男宇宙飛行士": { "replacement": "👨‍🚀", "description": "man astronaut" },
+  "女性宇宙飛行士": { "replacement": "👩‍🚀", "description": "woman astronaut" },
+  "消防士": { "replacement": "🧑‍🚒", "description": "firefighter" },
+  "男消防士": { "replacement": "👨‍🚒", "description": "man firefighter" },
+  "女性消防士": { "replacement": "👩‍🚒", "description": "woman firefighter" },
+  "警察官": { "replacement": "👮", "description": "police officer" },
+  "警官": { "replacement": "👮‍♀️", "description": "woman police officer" },
+  "探偵": { "replacement": "🕵️", "description": "detective" },
+  "男性探偵": { "replacement": "🕵️‍♂️", "description": "man detective" },
+  "女性探偵": { "replacement": "🕵️‍♀️", "description": "woman detective" },
+  "ガード": { "replacement": "💂", "description": "guard" },
+  "警備員": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "忍者": { "replacement": "🥷", "description": "ninja" },
+  "建設労働者": { "replacement": "👷", "description": "construction worker" },
+  "建設労働者の男": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "建設労働者の女性": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "王子": { "replacement": "🤴", "description": "prince" },
+  "王女": { "replacement": "👸", "description": "princess" },
+  "ターバンを持っている人": {
+    "replacement": "👳",
+    "description": "person wearing turban"
+  },
+  "ターバンを持つ男": {
+    "replacement": "👳‍♂️",
+    "description": "man wearing turban"
+  },
+  "ターバンを持つ女性": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "グアピマオと男": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "スカーフを持つ女性": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "タキシードの人": { "replacement": "🤵", "description": "person in tuxedo" },
+  "タキシードの男": { "replacement": "🤵‍♂️", "description": "man in tuxedo" },
+  "タキシードの女性": {
+    "replacement": "🤵‍♀️",
+    "description": "woman in tuxedo"
+  },
+  "ベールのある人": { "replacement": "👰", "description": "person with veil" },
+  "ベールを持つ男": { "replacement": "👰‍♂️", "description": "man with veil" },
+  "ベールを持つ女性": {
+    "replacement": "👰‍♀️",
+    "description": "woman with veil"
+  },
+  "妊婦": { "replacement": "🤰", "description": "pregnant woman" },
+  "母乳育児": { "replacement": "🤱", "description": "breast-feeding" },
+  "赤ちゃんを養う女性": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "赤ちゃんを養う男": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "赤ちゃんを養う人": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "天使": { "replacement": "👼", "description": "baby angel" },
+  "サンタ": { "replacement": "🎅", "description": "Santa Claus" },
+  "ミセスクロース": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "mx節": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "スーパーヒーロー": { "replacement": "🦸", "description": "superhero" },
+  "スーパーヒーローの男": {
+    "replacement": "🦸‍♂️",
+    "description": "man superhero"
+  },
+  "スーパーヒーローの女性": {
+    "replacement": "🦸‍♀️",
+    "description": "woman superhero"
+  },
+  "スーパーヴィラン": { "replacement": "🦹", "description": "supervillain" },
+  "スーパーヴィランマン": {
+    "replacement": "🦹‍♂️",
+    "description": "man supervillain"
+  },
+  "スーパーヴィランの女性": {
+    "replacement": "🦹‍♀️",
+    "description": "woman supervillain"
+  },
+  "メイジ": { "replacement": "🧙", "description": "mage" },
+  "メイジマン": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "魔道士の女": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "妖精": { "replacement": "🧝", "description": "elf" },
+  "妖精の男": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "妖精の女": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "吸血鬼": { "replacement": "🧛", "description": "vampire" },
+  "吸血鬼の男": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "吸血鬼の女性": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "マーパーソン": { "replacement": "🧜", "description": "merperson" },
+  "マーマン": { "replacement": "🧜‍♂️", "description": "merman" },
+  "マーメイド": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "エルフの男": { "replacement": "🧝‍♂️", "description": "man elf" },
+  "エルフの女性": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "精霊": { "replacement": "🧞", "description": "genie" },
+  "魔神男": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "魔神女": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "ゾンビ": { "replacement": "🧟", "description": "zombie" },
+  "ゾンビマン": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "ゾンビ女": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "マッサージ": {
+    "replacement": "💆",
+    "description": "person getting massage"
+  },
+  "マッサージマン": {
+    "replacement": "💆‍♂️",
+    "description": "man getting massage"
+  },
+  "マッサージ女": {
+    "replacement": "💆‍♀️",
+    "description": "woman getting massage"
+  },
+  "散髪": { "replacement": "💇", "description": "person getting haircut" },
+  "散髪男": { "replacement": "💇‍♂️", "description": "man getting haircut" },
+  "散髪女性": { "replacement": "💇‍♀️", "description": "woman getting haircut" },
+  "ウォーキング": { "replacement": "🚶", "description": "person walking" },
+  "歩く男": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "歩く女性": { "replacement": "🚶‍♀️", "description": "woman walking" },
+  "立っている人": { "replacement": "🧍", "description": "person standing" },
+  "立っている男の人": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "立っている女性": { "replacement": "🧍‍♀️", "description": "woman standing" },
+  "ひざまずく人": { "replacement": "🧎", "description": "person kneeling" },
+  "ひざまずく男": { "replacement": "🧎‍♂️", "description": "man kneeling" },
+  "ひざまずく女性": { "replacement": "🧎‍♀️", "description": "woman kneeling" },
+  "杖を持っている人": {
+    "replacement": "🧑‍🦯",
+    "description": "person with white cane"
+  },
+  "杖を探る男": { "replacement": "👨‍🦯", "description": "man with white cane" },
+  "プロービング杖を持つ女性": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "電動車椅子の人": {
+    "replacement": "🧑‍🦼",
+    "description": "person in motorized wheelchair"
+  },
+  "電動車椅子の男": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "電動車椅子の女性": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "手動車椅子の人": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "手動車椅子の男": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "手動車椅子の女性": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "ランナー": { "replacement": "🏃", "description": "person running" },
+  "ランニングマン": { "replacement": "🏃‍♂️", "description": "man running" },
+  "走っている女": { "replacement": "🏃‍♀️", "description": "woman running" },
+  "踊る女性": { "replacement": "👯‍♀️", "description": "women with bunny ears" },
+  "男が踊る": { "replacement": "🕺", "description": "man dancing" },
+  "浮揚するビジネススーツ": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "ダンサー": { "replacement": "👯", "description": "people with bunny ears" },
+  "踊る人形": { "replacement": "👯‍♂️", "description": "men with bunny ears" },
+  "サウナの人": { "replacement": "🧖", "description": "person in steamy room" },
+  "サウナ男": { "replacement": "🧖‍♂️", "description": "man in steamy room" },
+  "サウナの女性": {
+    "replacement": "🧖‍♀️",
+    "description": "woman in steamy room"
+  },
+  "クライミング": { "replacement": "🧗", "description": "person climbing" },
+  "登山男": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "登山女": { "replacement": "🧗‍♀️", "description": "woman climbing" },
+  "人のフェンシング": { "replacement": "🤺", "description": "person fencing" },
+  "競馬": { "replacement": "🏇", "description": "horse racing" },
+  "スキーヤー": { "replacement": "⛷️", "description": "skier" },
+  "スノーボーダー": { "replacement": "🏂", "description": "snowboarder" },
+  "ゴルフ": { "replacement": "⛳", "description": "flag in hole" },
+  "ゴルフマン": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "ゴルフの女性": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "サーファー": { "replacement": "🏄", "description": "person surfing" },
+  "サーフィンマン": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "サーフィンの女性": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "手漕艇": { "replacement": "🚣", "description": "person rowing boat" },
+  "手漕ぎボート": { "replacement": "🚣‍♂️", "description": "man rowing boat" },
+  "手漕ぎの女性": { "replacement": "🚣‍♀️", "description": "woman rowing boat" },
+  "スイマー": { "replacement": "🏊", "description": "person swimming" },
+  "水泳男": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "水泳の女性": { "replacement": "🏊‍♀️", "description": "woman swimming" },
+  "跳ねるボールの人": {
+    "replacement": "⛹️",
+    "description": "person bouncing ball"
+  },
+  "跳ねるボールマン": {
+    "replacement": "⛹️‍♂️",
+    "description": "man bouncing ball"
+  },
+  "跳ねるボールの女性": {
+    "replacement": "⛹️‍♀️",
+    "description": "woman bouncing ball"
+  },
+  "重量挙げ": { "replacement": "🏋️", "description": "person lifting weights" },
+  "重量挙げの男": { "replacement": "🏋️‍♂️", "description": "man lifting weights" },
+  "ウェイトリフティング女性": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "自転車に乗る人": { "replacement": "🚴‍♂️", "description": "man biking" },
+  "自転車に乗る女性": { "replacement": "🚴‍♀️", "description": "woman biking" },
+  "山の自転車に乗る人": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "マウンテンバイクの男": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "マウンテンバイクの女性": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "側転": { "replacement": "🤸", "description": "person cartwheeling" },
+  "男側転": { "replacement": "🤸‍♂️", "description": "man cartwheeling" },
+  "女性の側転": { "replacement": "🤸‍♀️", "description": "woman cartwheeling" },
+  "レスリング": { "replacement": "🤼", "description": "people wrestling" },
+  "男性レスリング": { "replacement": "🤼‍♂️", "description": "men wrestling" },
+  "女子プロレス": { "replacement": "🤼‍♀️", "description": "women wrestling" },
+  "水球": { "replacement": "🤽", "description": "person playing water polo" },
+  "水球をしている男": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "水球をしている女性": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "ハンドボールの人": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "ハンドボールをする男": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "ハンドボールをする女性": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "ジャグリングの人": { "replacement": "🤹", "description": "person juggling" },
+  "男ジャグリング": { "replacement": "🤹‍♂️", "description": "man juggling" },
+  "ジャグリングの女性": {
+    "replacement": "🤹‍♀️",
+    "description": "woman juggling"
+  },
+  "蓮華座": { "replacement": "🧘", "description": "person in lotus position" },
+  "蓮華座男": { "replacement": "🧘‍♂️", "description": "man in lotus position" },
+  "蓮華座女": { "replacement": "🧘‍♀️", "description": "woman in lotus position" },
+  "浴": { "replacement": "🛀", "description": "person taking bath" },
+  "寝台": { "replacement": "🛌", "description": "person in bed" },
+  "手をつないでいる人": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "手をつないでいる2人の女性": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "カップル": {
+    "replacement": "👫",
+    "description": "woman and man holding hands"
+  },
+  "手をつないでいる2人の男性": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "カップルキス": { "replacement": "💏", "description": "kiss" },
+  "カップルキス男女": {
+    "replacement": "👩‍❤️‍💋‍👨",
+    "description": "kiss: woman, man"
+  },
+  "カップルキス男男": { "replacement": "👨‍❤️‍💋‍👨", "description": "kiss: man, man" },
+  "カップルキス女女": {
+    "replacement": "👩‍❤️‍💋‍👩",
+    "description": "kiss: woman, woman"
+  },
+  "心のカップル": { "replacement": "💑", "description": "couple with heart" },
+  "心の女の男とカップル": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "ハートマンマンとカップル": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "心の女性とカップル": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "家族": { "replacement": "👪", "description": "family" },
+  "家族の男性女性の男の子": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "家族の男性女性の女の子": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "家族の男性女性の女の子の男の子": {
+    "replacement": "👨‍👩‍👧‍👦",
+    "description": "family: man, woman, girl, boy"
+  },
+  "家族の男性女性男の子男の子": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "家族の男男少年": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "家族の男男少女": {
+    "replacement": "👨‍👨‍👧",
+    "description": "family: man, man, girl"
+  },
+  "家族の男男女の少年": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "家族の男男少年少年": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "家族の男男女の女の子": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "家族の女性女性の男の子": {
+    "replacement": "👩‍👩‍👦",
+    "description": "family: woman, woman, boy"
+  },
+  "家族の女性女性の女の子": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "家族の女性女性の女の子の男の子": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "家族の女性女性男の子男の子": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "家族の男少年": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "家族の男の女の子": {
+    "replacement": "👨‍👧",
+    "description": "family: man, girl"
+  },
+  "家族の男と女の少年": {
+    "replacement": "👨‍👧‍👦",
+    "description": "family: man, girl, boy"
+  },
+  "家族の男少女": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "家族の女性の男の子": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "家族の女性の女の子": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "家族の女性の女の子の男の子": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "頭を話す": { "replacement": "🗣️", "description": "speaking head" },
+  "シルエットのバスト": {
+    "replacement": "👥",
+    "description": "busts in silhouette"
+  },
+  "ハグする人": { "replacement": "🫂", "description": "people hugging" },
+  "足跡": { "replacement": "👣", "description": "footprints" },
+  "猿の顔": { "replacement": "🐵", "description": "monkey face" },
+  "モンキー": { "replacement": "🐒", "description": "monkey" },
+  "ゴリラ": { "replacement": "🦍", "description": "gorilla" },
+  "オランウータン": { "replacement": "🦧", "description": "orangutan" },
+  "犬": { "replacement": "🐶", "description": "dog face" },
+  "dog2": { "replacement": "🐕", "description": "dog" },
+  "盲導犬": { "replacement": "🦮", "description": "guide dog" },
+  "サービス犬": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "プードル": { "replacement": "🐩", "description": "poodle" },
+  "狼": { "replacement": "🐺", "description": "wolf" },
+  "キツネの顔": { "replacement": "🦊", "description": "fox" },
+  "ラクーン": { "replacement": "🦝", "description": "raccoon" },
+  "ネコ": { "replacement": "🐱", "description": "cat face" },
+  "cat2": { "replacement": "🐈", "description": "cat" },
+  "黒猫": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "ライオン": { "replacement": "🦁", "description": "lion" },
+  "虎": { "replacement": "🐯", "description": "tiger face" },
+  "tiger2": { "replacement": "🐅", "description": "tiger" },
+  "ヒョウ": { "replacement": "🐆", "description": "leopard" },
+  "うま": { "replacement": "🐴", "description": "horse face" },
+  "競走馬": { "replacement": "🐎", "description": "horse" },
+  "ユニコーン": { "replacement": "🦄", "description": "unicorn" },
+  "シマウマ": { "replacement": "🦓", "description": "zebra" },
+  "鹿": { "replacement": "🦌", "description": "deer" },
+  "バイソン": { "replacement": "🦬", "description": "bison" },
+  "牛": { "replacement": "🐂", "description": "ox" },
+  "水牛": { "replacement": "🐃", "description": "water buffalo" },
+  "cow2": { "replacement": "🐄", "description": "cow" },
+  "豚": { "replacement": "🐷", "description": "pig face" },
+  "pig2": { "replacement": "🐖", "description": "pig" },
+  "イノシシ": { "replacement": "🐗", "description": "boar" },
+  "豚の鼻": { "replacement": "🐽", "description": "pig nose" },
+  "羊": { "replacement": "🐑", "description": "ewe" },
+  "ヤギ": { "replacement": "🐐", "description": "goat" },
+  "ヒトコブラクダ": { "replacement": "🐪", "description": "camel" },
+  "キャメル": { "replacement": "🐫", "description": "two-hump camel" },
+  "ラマ": { "replacement": "🦙", "description": "llama" },
+  "キリン": { "replacement": "🦒", "description": "giraffe" },
+  "象": { "replacement": "🐘", "description": "elephant" },
+  "マンモス": { "replacement": "🦣", "description": "mammoth" },
+  "サイ": { "replacement": "🦏", "description": "rhinoceros" },
+  "カバ": { "replacement": "🦛", "description": "hippopotamus" },
+  "マウス": { "replacement": "🐭", "description": "mouse face" },
+  "mouse2": { "replacement": "🐁", "description": "mouse" },
+  "ラット": { "replacement": "🐀", "description": "rat" },
+  "ハムスター": { "replacement": "🐹", "description": "hamster" },
+  "ウサギ": { "replacement": "🐰", "description": "rabbit face" },
+  "ウサギ2": { "replacement": "🐇", "description": "rabbit" },
+  "シマリス": { "replacement": "🐿️", "description": "chipmunk" },
+  "ビーバー": { "replacement": "🦫", "description": "beaver" },
+  "ハリネズミ": { "replacement": "🦔", "description": "hedgehog" },
+  "コウモリ": { "replacement": "🦇", "description": "bat" },
+  "くま": { "replacement": "🐻", "description": "bear" },
+  "ホッキョクグマ": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "コアラ": { "replacement": "🐨", "description": "koala" },
+  "パンダの顔": { "replacement": "🐼", "description": "panda" },
+  "怠惰": { "replacement": "🦥", "description": "sloth" },
+  "カワウソ": { "replacement": "🦦", "description": "otter" },
+  "スカンク": { "replacement": "🦨", "description": "skunk" },
+  "カンガルー": { "replacement": "🦘", "description": "kangaroo" },
+  "狸": { "replacement": "🦡", "description": "badger" },
+  "七面鳥": { "replacement": "🦃", "description": "turkey" },
+  "チキン": { "replacement": "🐔", "description": "chicken" },
+  "おんどり": { "replacement": "🐓", "description": "rooster" },
+  "孵化したひよこ": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "ひよこ赤ちゃん": { "replacement": "🐤", "description": "baby chick" },
+  "鳥": { "replacement": "🐦", "description": "bird" },
+  "ペンギン": { "replacement": "🐧", "description": "penguin" },
+  "鳩": { "replacement": "🕊️", "description": "dove" },
+  "鷲": { "replacement": "🦅", "description": "eagle" },
+  "アヒル": { "replacement": "🦆", "description": "duck" },
+  "白鳥": { "replacement": "🦢", "description": "swan" },
+  "フクロウ": { "replacement": "🦉", "description": "owl" },
+  "ドードー": { "replacement": "🦤", "description": "dodo" },
+  "フェザー": { "replacement": "🪶", "description": "feather" },
+  "フラミンゴ": { "replacement": "🦩", "description": "flamingo" },
+  "孔雀": { "replacement": "🦚", "description": "peacock" },
+  "オウム": { "replacement": "🦜", "description": "parrot" },
+  "カエル": { "replacement": "🐸", "description": "frog" },
+  "クロコダイル": { "replacement": "🐊", "description": "crocodile" },
+  "カメ": { "replacement": "🐢", "description": "turtle" },
+  "トカゲ": { "replacement": "🦎", "description": "lizard" },
+  "ヘビ": { "replacement": "🐍", "description": "snake" },
+  "ドラゴンの顔": { "replacement": "🐲", "description": "dragon face" },
+  "ドラゴン": { "replacement": "🐉", "description": "dragon" },
+  "竜脚類": { "replacement": "🦕", "description": "sauropod" },
+  "t-レックス": { "replacement": "🦖", "description": "T-Rex" },
+  "鯨": { "replacement": "🐳", "description": "spouting whale" },
+  "クジラ2": { "replacement": "🐋", "description": "whale" },
+  "イルカ": { "replacement": "🐬", "description": "dolphin" },
+  "密閉する": { "replacement": "🦭", "description": "seal" },
+  "魚": { "replacement": "🐟", "description": "fish" },
+  "熱帯魚": { "replacement": "🐠", "description": "tropical fish" },
+  "ふぐ": { "replacement": "🐡", "description": "blowfish" },
+  "鮫": { "replacement": "🦈", "description": "shark" },
+  "たこ": { "replacement": "🐙", "description": "octopus" },
+  "シェル": { "replacement": "🐚", "description": "spiral shell" },
+  "カタツムリ": { "replacement": "🐌", "description": "snail" },
+  "バタフライ": { "replacement": "🦋", "description": "butterfly" },
+  "バグ": { "replacement": "🐛", "description": "bug" },
+  "蟻": { "replacement": "🐜", "description": "ant" },
+  "蜂": { "replacement": "🐝", "description": "honeybee" },
+  "甲虫": { "replacement": "🪲", "description": "beetle" },
+  "テントウムシ": { "replacement": "🐞", "description": "lady beetle" },
+  "クリケット": { "replacement": "🦗", "description": "cricket" },
+  "ゴキブリ": { "replacement": "🪳", "description": "cockroach" },
+  "クモ": { "replacement": "🕷️", "description": "spider" },
+  "蜘蛛の巣": { "replacement": "🕸️", "description": "spider web" },
+  "サソリ": { "replacement": "🦂", "description": "scorpion" },
+  "蚊": { "replacement": "🦟", "description": "mosquito" },
+  "飛ぶ": { "replacement": "🪰", "description": "fly" },
+  "ワーム": { "replacement": "🪱", "description": "worm" },
+  "微生物": { "replacement": "🦠", "description": "microbe" },
+  "花束": { "replacement": "💐", "description": "bouquet" },
+  "桜の花": { "replacement": "🌸", "description": "cherry blossom" },
+  "白い花": { "replacement": "💮", "description": "white flower" },
+  "ロゼット": { "replacement": "🏵️", "description": "rosette" },
+  "ローズ": { "replacement": "🌹", "description": "rose" },
+  "しおれた花": { "replacement": "🥀", "description": "wilted flower" },
+  "ハイビスカス": { "replacement": "🌺", "description": "hibiscus" },
+  "ひまわり": { "replacement": "🌻", "description": "sunflower" },
+  "花": { "replacement": "🌼", "description": "blossom" },
+  "チューリップ": { "replacement": "🌷", "description": "tulip" },
+  "苗": { "replacement": "🌱", "description": "seedling" },
+  "鉢植え": { "replacement": "🪴", "description": "potted plant" },
+  "常緑樹": { "replacement": "🌲", "description": "evergreen tree" },
+  "落葉樹": { "replacement": "🌳", "description": "deciduous tree" },
+  "ヤシの木": { "replacement": "🌴", "description": "palm tree" },
+  "カクタス": { "replacement": "🌵", "description": "cactus" },
+  "米の穂": { "replacement": "🌾", "description": "sheaf of rice" },
+  "ハーブ": { "replacement": "🌿", "description": "herb" },
+  "シャムロック": { "replacement": "☘️", "description": "shamrock" },
+  "4葉のクローバー": { "replacement": "🍀", "description": "four leaf clover" },
+  "カエデの葉": { "replacement": "🍁", "description": "maple leaf" },
+  "落ち葉": { "replacement": "🍂", "description": "fallen leaf" },
+  "葉": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "ブドウ": { "replacement": "🍇", "description": "grapes" },
+  "メロン": { "replacement": "🍈", "description": "melon" },
+  "スイカ": { "replacement": "🍉", "description": "watermelon" },
+  "タンジェリン": { "replacement": "🍊", "description": "tangerine" },
+  "レモン": { "replacement": "🍋", "description": "lemon" },
+  "バナナ": { "replacement": "🍌", "description": "banana" },
+  "パイナップル": { "replacement": "🍍", "description": "pineapple" },
+  "マンゴー": { "replacement": "🥭", "description": "mango" },
+  "林檎": { "replacement": "🍎", "description": "red apple" },
+  "青りんご": { "replacement": "🍏", "description": "green apple" },
+  "梨": { "replacement": "🍐", "description": "pear" },
+  "桃": { "replacement": "🍑", "description": "peach" },
+  "さくらんぼ": { "replacement": "🍒", "description": "cherries" },
+  "イチゴ": { "replacement": "🍓", "description": "strawberry" },
+  "ブルーベリー": { "replacement": "🫐", "description": "blueberries" },
+  "キウイフルーツ": { "replacement": "🥝", "description": "kiwi fruit" },
+  "トマト": { "replacement": "🍅", "description": "tomato" },
+  "オリーブ": { "replacement": "🫒", "description": "olive" },
+  "ココナッツ": { "replacement": "🥥", "description": "coconut" },
+  "アボカド": { "replacement": "🥑", "description": "avocado" },
+  "茄子": { "replacement": "🍆", "description": "eggplant" },
+  "じゃがいも": { "replacement": "🥔", "description": "potato" },
+  "にんじん": { "replacement": "🥕", "description": "carrot" },
+  "コーン": { "replacement": "🌽", "description": "ear of corn" },
+  "唐辛子": { "replacement": "🌶️", "description": "hot pepper" },
+  "ピーマン": { "replacement": "🫑", "description": "bell pepper" },
+  "きゅうり": { "replacement": "🥒", "description": "cucumber" },
+  "葉物野菜": { "replacement": "🥬", "description": "leafy green" },
+  "ブロッコリ": { "replacement": "🥦", "description": "broccoli" },
+  "ニンニク": { "replacement": "🧄", "description": "garlic" },
+  "玉ねぎ": { "replacement": "🧅", "description": "onion" },
+  "キノコ": { "replacement": "🍄", "description": "mushroom" },
+  "ピーナッツ": { "replacement": "🥜", "description": "peanuts" },
+  "くるみ": { "replacement": "🌰", "description": "chestnut" },
+  "パン": { "replacement": "🍞", "description": "bread" },
+  "クロワッサン": { "replacement": "🥐", "description": "croissant" },
+  "バゲットパン": { "replacement": "🥖", "description": "baguette bread" },
+  "フラットブレッド": { "replacement": "🫓", "description": "flatbread" },
+  "プレッツェル": { "replacement": "🥨", "description": "pretzel" },
+  "ベーグル": { "replacement": "🥯", "description": "bagel" },
+  "パンケーキ": { "replacement": "🥞", "description": "pancakes" },
+  "ワッフル": { "replacement": "🧇", "description": "waffle" },
+  "チーズ": { "replacement": "🧀", "description": "cheese wedge" },
+  "骨の上の肉": { "replacement": "🍖", "description": "meat on bone" },
+  "家禽の脚": { "replacement": "🍗", "description": "poultry leg" },
+  "肉の切り身": { "replacement": "🥩", "description": "cut of meat" },
+  "ベーコン": { "replacement": "🥓", "description": "bacon" },
+  "ハンバーガー": { "replacement": "🍔", "description": "hamburger" },
+  "フライドポテト": { "replacement": "🍟", "description": "french fries" },
+  "ピザ": { "replacement": "🍕", "description": "pizza" },
+  "ホットドッグ": { "replacement": "🌭", "description": "hot dog" },
+  "サンドイッチ": { "replacement": "🥪", "description": "sandwich" },
+  "タコス": { "replacement": "🌮", "description": "taco" },
+  "ブリトー": { "replacement": "🌯", "description": "burrito" },
+  "タマレ": { "replacement": "🫔", "description": "tamale" },
+  "フラットブレッドの詰め物": {
+    "replacement": "🥙",
+    "description": "stuffed flatbread"
+  },
+  "ファラフェル": { "replacement": "🧆", "description": "falafel" },
+  "卵": { "replacement": "🥚", "description": "egg" },
+  "目玉焼き": { "replacement": "🍳", "description": "cooking" },
+  "食べ物の浅い鍋": {
+    "replacement": "🥘",
+    "description": "shallow pan of food"
+  },
+  "シチュー": { "replacement": "🍲", "description": "pot of food" },
+  "フォンデュ": { "replacement": "🫕", "description": "fondue" },
+  "スプーンでボウル": { "replacement": "🥣", "description": "bowl with spoon" },
+  "グリーンサラダ": { "replacement": "🥗", "description": "green salad" },
+  "ポップコーン": { "replacement": "🍿", "description": "popcorn" },
+  "バター": { "replacement": "🧈", "description": "butter" },
+  "塩": { "replacement": "🧂", "description": "salt" },
+  "缶詰食品": { "replacement": "🥫", "description": "canned food" },
+  "お弁当": { "replacement": "🍱", "description": "bento box" },
+  "ライスクラッカー": { "replacement": "🍘", "description": "rice cracker" },
+  "おにぎり": { "replacement": "🍙", "description": "rice ball" },
+  "ご飯": { "replacement": "🍚", "description": "cooked rice" },
+  "カレー": { "replacement": "🍛", "description": "curry rice" },
+  "ラーメン": { "replacement": "🍜", "description": "steaming bowl" },
+  "スパゲッティ": { "replacement": "🍝", "description": "spaghetti" },
+  "スイートポテト": {
+    "replacement": "🍠",
+    "description": "roasted sweet potato"
+  },
+  "おでん": { "replacement": "🍢", "description": "oden" },
+  "寿司": { "replacement": "🍣", "description": "sushi" },
+  "エビフライ": { "replacement": "🍤", "description": "fried shrimp" },
+  "かまぼこ": { "replacement": "🍥", "description": "fish cake with swirl" },
+  "月餅": { "replacement": "🥮", "description": "moon cake" },
+  "だんご": { "replacement": "🍡", "description": "dango" },
+  "団子": { "replacement": "🥟", "description": "dumpling" },
+  "おみくじ入りクッキー": {
+    "replacement": "🥠",
+    "description": "fortune cookie"
+  },
+  "テイクアウトボックス": { "replacement": "🥡", "description": "takeout box" },
+  "カニ": { "replacement": "🦀", "description": "crab" },
+  "ロブスター": { "replacement": "🦞", "description": "lobster" },
+  "エビ": { "replacement": "🦐", "description": "shrimp" },
+  "いか": { "replacement": "🦑", "description": "squid" },
+  "カキ": { "replacement": "🦪", "description": "oyster" },
+  "アイスクリーム": { "replacement": "🍨", "description": "ice cream" },
+  "かき氷": { "replacement": "🍧", "description": "shaved ice" },
+  "ドーナツ": { "replacement": "🍩", "description": "doughnut" },
+  "クッキー": { "replacement": "🍪", "description": "cookie" },
+  "お誕生日": { "replacement": "🎂", "description": "birthday cake" },
+  "ケーキ": { "replacement": "🍰", "description": "shortcake" },
+  "カップケーキ": { "replacement": "🧁", "description": "cupcake" },
+  "パイ": { "replacement": "🥧", "description": "pie" },
+  "チョコレートバー": { "replacement": "🍫", "description": "chocolate bar" },
+  "キャンディー": { "replacement": "🍬", "description": "candy" },
+  "ロリポップ": { "replacement": "🍭", "description": "lollipop" },
+  "カスタード": { "replacement": "🍮", "description": "custard" },
+  "ハニーポット": { "replacement": "🍯", "description": "honey pot" },
+  "哺乳瓶": { "replacement": "🍼", "description": "baby bottle" },
+  "乳白ガラス": { "replacement": "🥛", "description": "glass of milk" },
+  "コーヒー": { "replacement": "☕", "description": "hot beverage" },
+  "ティーポット": { "replacement": "🫖", "description": "teapot" },
+  "お茶": { "replacement": "🍵", "description": "teacup without handle" },
+  "酒": { "replacement": "🍶", "description": "sake" },
+  "シャンパン": {
+    "replacement": "🍾",
+    "description": "bottle with popping cork"
+  },
+  "ワイングラス": { "replacement": "🍷", "description": "wine glass" },
+  "カクテル": { "replacement": "🍸", "description": "cocktail glass" },
+  "トロピカルドリンク": {
+    "replacement": "🍹",
+    "description": "tropical drink"
+  },
+  "ビール": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "チリンと鳴るメガネ": {
+    "replacement": "🥂",
+    "description": "clinking glasses"
+  },
+  "タンブラーガラス": { "replacement": "🥃", "description": "tumbler glass" },
+  "ストローとカップ": { "replacement": "🥤", "description": "cup with straw" },
+  "タピオカティー": { "replacement": "🧋", "description": "bubble tea" },
+  "飲料ボックス": { "replacement": "🧃", "description": "beverage box" },
+  "メイト": { "replacement": "🧉", "description": "mate" },
+  "アイスキューブ": { "replacement": "🧊", "description": "ice" },
+  "箸": { "replacement": "🥢", "description": "chopsticks" },
+  "カトラリー付きプレート": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "フォークとナイフ": { "replacement": "🍴", "description": "fork and knife" },
+  "スプーン": { "replacement": "🥄", "description": "spoon" },
+  "包丁": { "replacement": "🔪", "description": "kitchen knife" },
+  "アンフォラ": { "replacement": "🏺", "description": "amphora" },
+  "地球アフリカ": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "地球アメリカ": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "地球アジア": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "子午線のある地球": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "世界地図": { "replacement": "🗺️", "description": "world map" },
+  "日本": { "replacement": "🗾", "description": "map of Japan" },
+  "方位磁針": { "replacement": "🧭", "description": "compass" },
+  "山の雪": { "replacement": "🏔️", "description": "snow-capped mountain" },
+  "山": { "replacement": "⛰️", "description": "mountain" },
+  "火山": { "replacement": "🌋", "description": "volcano" },
+  "富士山": { "replacement": "🗻", "description": "mount fuji" },
+  "キャンプ": { "replacement": "🏕️", "description": "camping" },
+  "ビーチパラソル": {
+    "replacement": "🏖️",
+    "description": "beach with umbrella"
+  },
+  "砂漠": { "replacement": "🏜️", "description": "desert" },
+  "無人島": { "replacement": "🏝️", "description": "desert island" },
+  "国立公園": { "replacement": "🏞️", "description": "national park" },
+  "スタジアム": { "replacement": "🏟️", "description": "stadium" },
+  "古典的な建物": { "replacement": "🏛️", "description": "classical building" },
+  "建物の建設": { "replacement": "🏗️", "description": "building construction" },
+  "レンガ": { "replacement": "🧱", "description": "brick" },
+  "岩": { "replacement": "🪨", "description": "rock" },
+  "木材": { "replacement": "🪵", "description": "wood" },
+  "小屋": { "replacement": "🛖", "description": "hut" },
+  "家": { "replacement": "🏠", "description": "house" },
+  "遺棄された家": { "replacement": "🏚️", "description": "derelict house" },
+  "庭のある家": { "replacement": "🏡", "description": "house with garden" },
+  "オフィス": { "replacement": "🏢", "description": "office building" },
+  "郵便局": { "replacement": "🏣", "description": "Japanese post office" },
+  "ヨーロッパの郵便局": { "replacement": "🏤", "description": "post office" },
+  "病院": { "replacement": "🏥", "description": "hospital" },
+  "バンク": { "replacement": "🏦", "description": "bank" },
+  "ホテル": { "replacement": "🏨", "description": "hotel" },
+  "ラブホテル": { "replacement": "🏩", "description": "love hotel" },
+  "コンビニ": { "replacement": "🏪", "description": "convenience store" },
+  "学校": { "replacement": "🏫", "description": "school" },
+  "デパート": { "replacement": "🏬", "description": "department store" },
+  "工場": { "replacement": "🏭", "description": "factory" },
+  "日本の城": { "replacement": "🏯", "description": "Japanese castle" },
+  "ヨーロッパの城": { "replacement": "🏰", "description": "castle" },
+  "結婚式": { "replacement": "💒", "description": "wedding" },
+  "東京タワー": { "replacement": "🗼", "description": "Tokyo tower" },
+  "自由の女神": { "replacement": "🗽", "description": "Statue of Liberty" },
+  "教会": { "replacement": "⛪", "description": "church" },
+  "モスク": { "replacement": "🕌", "description": "mosque" },
+  "ヒンドゥー寺院": { "replacement": "🛕", "description": "hindu temple" },
+  "シナゴーグ": { "replacement": "🕍", "description": "synagogue" },
+  "神社": { "replacement": "⛩️", "description": "shinto shrine" },
+  "カーバ神殿": { "replacement": "🕋", "description": "kaaba" },
+  "噴水": { "replacement": "⛲", "description": "fountain" },
+  "テント": { "replacement": "⛺", "description": "tent" },
+  "霧": { "replacement": "🌫️", "description": "fog" },
+  "星との夜": { "replacement": "🌃", "description": "night with stars" },
+  "都市の景観": { "replacement": "🏙️", "description": "cityscape" },
+  "山から昇る朝日": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "日の出": { "replacement": "🌅", "description": "sunrise" },
+  "街の夕日": { "replacement": "🌆", "description": "cityscape at dusk" },
+  "街の日の出": { "replacement": "🌇", "description": "sunset" },
+  "夜の橋": { "replacement": "🌉", "description": "bridge at night" },
+  "熱水泉": { "replacement": "♨️", "description": "hot springs" },
+  "カルーセル馬": { "replacement": "🎠", "description": "carousel horse" },
+  "観覧車": { "replacement": "🎡", "description": "ferris wheel" },
+  "ジェットコースター": {
+    "replacement": "🎢",
+    "description": "roller coaster"
+  },
+  "床屋": { "replacement": "💈", "description": "barber pole" },
+  "サーカステント": { "replacement": "🎪", "description": "circus tent" },
+  "蒸気機関車": { "replacement": "🚂", "description": "locomotive" },
+  "鉄道車両": { "replacement": "🚃", "description": "railway car" },
+  "新幹線側": { "replacement": "🚄", "description": "high-speed train" },
+  "新幹線フロント": { "replacement": "🚅", "description": "bullet train" },
+  "train2": { "replacement": "🚆", "description": "train" },
+  "メトロ": { "replacement": "🚇", "description": "metro" },
+  "ライトレール": { "replacement": "🚈", "description": "light rail" },
+  "駅": { "replacement": "🚉", "description": "station" },
+  "トラム": { "replacement": "🚊", "description": "tram" },
+  "モノレール": { "replacement": "🚝", "description": "monorail" },
+  "登山鉄道": { "replacement": "🚞", "description": "mountain railway" },
+  "列車": { "replacement": "🚋", "description": "tram car" },
+  "バス": { "replacement": "🚌", "description": "bus" },
+  "対向バス": { "replacement": "🚍", "description": "oncoming bus" },
+  "トロリーバス": { "replacement": "🚎", "description": "trolleybus" },
+  "ミニバス": { "replacement": "🚐", "description": "minibus" },
+  "救急車": { "replacement": "🚑", "description": "ambulance" },
+  "消防車": { "replacement": "🚒", "description": "fire engine" },
+  "警察車両": { "replacement": "🚓", "description": "police car" },
+  "迫り来るパトカー": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "タクシー": { "replacement": "🚕", "description": "taxi" },
+  "近づいてくるタクシー": {
+    "replacement": "🚖",
+    "description": "oncoming taxi"
+  },
+  "車": { "replacement": "🚗", "description": "automobile" },
+  "対向車": { "replacement": "🚘", "description": "oncoming automobile" },
+  "青い車": { "replacement": "🚙", "description": "sport utility vehicle" },
+  "ピックアップトラック": { "replacement": "🛻", "description": "pickup truck" },
+  "トラック": { "replacement": "🚚", "description": "delivery truck" },
+  "連結式ローリー": { "replacement": "🚛", "description": "articulated lorry" },
+  "トラクター": { "replacement": "🚜", "description": "tractor" },
+  "レーシングカー": { "replacement": "🏎️", "description": "racing car" },
+  "オートバイ": { "replacement": "🏍️", "description": "motorcycle" },
+  "スクーター": { "replacement": "🛵", "description": "motor scooter" },
+  "手動車椅子": { "replacement": "🦽", "description": "manual wheelchair" },
+  "電動車椅子": { "replacement": "🦼", "description": "motorized wheelchair" },
+  "自動人力車": { "replacement": "🛺", "description": "auto rickshaw" },
+  "自転車": { "replacement": "🚲", "description": "bicycle" },
+  "キックスクーター": { "replacement": "🛴", "description": "kick scooter" },
+  "スケートボード": { "replacement": "🛹", "description": "skateboard" },
+  "ローラースケート": { "replacement": "🛼", "description": "roller skate" },
+  "バス停": { "replacement": "🚏", "description": "bus stop" },
+  "高速道路": { "replacement": "🛣️", "description": "motorway" },
+  "線路": { "replacement": "🛤️", "description": "railway track" },
+  "ドラム缶": { "replacement": "🛢️", "description": "oil drum" },
+  "燃料ポンプ": { "replacement": "⛽", "description": "fuel pump" },
+  "回転灯": { "replacement": "🚨", "description": "police car light" },
+  "信号機": { "replacement": "🚥", "description": "horizontal traffic light" },
+  "垂直信号": { "replacement": "🚦", "description": "vertical traffic light" },
+  "一時停止標識": { "replacement": "🛑", "description": "stop sign" },
+  "建設": { "replacement": "🚧", "description": "construction" },
+  "アンカー": { "replacement": "⚓", "description": "anchor" },
+  "ボート": { "replacement": "⛵", "description": "sailboat" },
+  "カヌー": { "replacement": "🛶", "description": "canoe" },
+  "スピードボート": { "replacement": "🚤", "description": "speedboat" },
+  "客船": { "replacement": "🛳️", "description": "passenger ship" },
+  "フェリー": { "replacement": "⛴️", "description": "ferry" },
+  "モーターボート": { "replacement": "🛥️", "description": "motor boat" },
+  "輸送する": { "replacement": "🚢", "description": "ship" },
+  "飛行機": { "replacement": "✈️", "description": "airplane" },
+  "小さな飛行機": { "replacement": "🛩️", "description": "small airplane" },
+  "フライト出発": { "replacement": "🛫", "description": "airplane departure" },
+  "フライト到着": { "replacement": "🛬", "description": "airplane arrival" },
+  "パラシュート": { "replacement": "🪂", "description": "parachute" },
+  "シート": { "replacement": "💺", "description": "seat" },
+  "ヘリコプター": { "replacement": "🚁", "description": "helicopter" },
+  "空中鉄道": { "replacement": "🚟", "description": "suspension railway" },
+  "山のケーブルウェイ": {
+    "replacement": "🚠",
+    "description": "mountain cableway"
+  },
+  "ロープウェイ": { "replacement": "🚡", "description": "aerial tramway" },
+  "人工衛星": { "replacement": "🛰️", "description": "satellite" },
+  "ロケット": { "replacement": "🚀", "description": "rocket" },
+  "空飛ぶ円盤": { "replacement": "🛸", "description": "flying saucer" },
+  "ベルホップベル": { "replacement": "🛎️", "description": "bellhop bell" },
+  "荷物": { "replacement": "🧳", "description": "luggage" },
+  "砂時計": { "replacement": "⌛", "description": "hourglass done" },
+  "砂時計が流れる砂": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "見る": { "replacement": "⌚", "description": "watch" },
+  "目覚まし時計": { "replacement": "⏰", "description": "alarm clock" },
+  "ストップウォッチ": { "replacement": "⏱️", "description": "stopwatch" },
+  "タイマー時計": { "replacement": "⏲️", "description": "timer clock" },
+  "マントルピース時計": {
+    "replacement": "🕰️",
+    "description": "mantelpiece clock"
+  },
+  "clock12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "clock1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "clock1": { "replacement": "🕐", "description": "one o’clock" },
+  "clock130": { "replacement": "🕜", "description": "one-thirty" },
+  "clock2": { "replacement": "🕑", "description": "two o’clock" },
+  "clock230": { "replacement": "🕝", "description": "two-thirty" },
+  "clock3": { "replacement": "🕒", "description": "three o’clock" },
+  "clock330": { "replacement": "🕞", "description": "three-thirty" },
+  "clock4": { "replacement": "🕓", "description": "four o’clock" },
+  "clock430": { "replacement": "🕟", "description": "four-thirty" },
+  "clock5": { "replacement": "🕔", "description": "five o’clock" },
+  "clock530": { "replacement": "🕠", "description": "five-thirty" },
+  "clock6": { "replacement": "🕕", "description": "six o’clock" },
+  "clock630": { "replacement": "🕡", "description": "six-thirty" },
+  "clock7": { "replacement": "🕖", "description": "seven o’clock" },
+  "clock730": { "replacement": "🕢", "description": "seven-thirty" },
+  "clock8": { "replacement": "🕗", "description": "eight o’clock" },
+  "clock830": { "replacement": "🕣", "description": "eight-thirty" },
+  "clock9": { "replacement": "🕘", "description": "nine o’clock" },
+  "clock930": { "replacement": "🕤", "description": "nine-thirty" },
+  "clock10": { "replacement": "🕙", "description": "ten o’clock" },
+  "clock1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "clock11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "clock1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "新月": { "replacement": "🌑", "description": "new moon" },
+  "三日月のワックスがけ": {
+    "replacement": "🌒",
+    "description": "waxing crescent moon"
+  },
+  "第1四半期の月": { "replacement": "🌓", "description": "first quarter moon" },
+  "月": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "満月": { "replacement": "🌕", "description": "full moon" },
+  "ギブスムーンの衰退": {
+    "replacement": "🌖",
+    "description": "waning gibbous moon"
+  },
+  "前四半期の月": { "replacement": "🌗", "description": "last quarter moon" },
+  "三日月の衰退": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "三日月": { "replacement": "🌙", "description": "crescent moon" },
+  "顔のある新月": { "replacement": "🌚", "description": "new moon face" },
+  "顔のある第1四半期の月": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "顔のある前四半期の月": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "温度計": { "replacement": "🌡️", "description": "thermometer" },
+  "晴れ": { "replacement": "☀️", "description": "sun" },
+  "顔と満月": { "replacement": "🌝", "description": "full moon face" },
+  "顔と太陽": { "replacement": "🌞", "description": "sun with face" },
+  "環状惑星": { "replacement": "🪐", "description": "ringed planet" },
+  "星": { "replacement": "⭐", "description": "star" },
+  "star2": { "replacement": "🌟", "description": "glowing star" },
+  "出演者": { "replacement": "🌠", "description": "shooting star" },
+  "天の川": { "replacement": "🌌", "description": "milky way" },
+  "雲": { "replacement": "☁️", "description": "cloud" },
+  "所により晴れ": { "replacement": "⛅", "description": "sun behind cloud" },
+  "雷と雨の雲": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "小さな雲の後ろの太陽": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "大きな雲の後ろの太陽": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "雨雲の後ろの太陽": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "雨の雲": { "replacement": "🌧️", "description": "cloud with rain" },
+  "雪の雲": { "replacement": "🌨️", "description": "cloud with snow" },
+  "稲妻の雲": { "replacement": "🌩️", "description": "cloud with lightning" },
+  "竜巻": { "replacement": "🌪️", "description": "tornado" },
+  "風の顔": { "replacement": "🌬️", "description": "wind face" },
+  "サイクロン": { "replacement": "🌀", "description": "cyclone" },
+  "虹": { "replacement": "🌈", "description": "rainbow" },
+  "閉じた傘": { "replacement": "🌂", "description": "closed umbrella" },
+  "開いた傘": { "replacement": "☂️", "description": "umbrella" },
+  "傘": { "replacement": "☔", "description": "umbrella with rain drops" },
+  "地上の日傘": { "replacement": "⛱️", "description": "umbrella on ground" },
+  "ザップ": { "replacement": "⚡", "description": "high voltage" },
+  "スノーフレーク": { "replacement": "❄️", "description": "snowflake" },
+  "雪だるま": { "replacement": "⛄", "description": "snowman without snow" },
+  "彗星": { "replacement": "☄️", "description": "comet" },
+  "火": { "replacement": "🔥", "description": "fire" },
+  "滴": { "replacement": "💧", "description": "droplet" },
+  "海洋": { "replacement": "🌊", "description": "water wave" },
+  "ジャック・オー・ランタン": {
+    "replacement": "🎃",
+    "description": "jack-o-lantern"
+  },
+  "クリスマスツリー": { "replacement": "🎄", "description": "Christmas tree" },
+  "花火": { "replacement": "🎆", "description": "fireworks" },
+  "線香花火": { "replacement": "🎇", "description": "sparkler" },
+  "爆竹": { "replacement": "🧨", "description": "firecracker" },
+  "きらめき": { "replacement": "✨", "description": "sparkles" },
+  "バルーン": { "replacement": "🎈", "description": "balloon" },
+  "多田": { "replacement": "🎉", "description": "party popper" },
+  "紙吹雪ボール": { "replacement": "🎊", "description": "confetti ball" },
+  "七夕の木": { "replacement": "🎋", "description": "tanabata tree" },
+  "竹": { "replacement": "🎍", "description": "pine decoration" },
+  "人形": { "replacement": "🎎", "description": "Japanese dolls" },
+  "フラグ": { "replacement": "🎏", "description": "carp streamer" },
+  "風鈴": { "replacement": "🎐", "description": "wind chime" },
+  "ライスシーン": {
+    "replacement": "🎑",
+    "description": "moon viewing ceremony"
+  },
+  "赤い封筒": { "replacement": "🧧", "description": "red envelope" },
+  "リボン": { "replacement": "🎀", "description": "ribbon" },
+  "贈り物": { "replacement": "🎁", "description": "wrapped gift" },
+  "リマインダーリボン": {
+    "replacement": "🎗️",
+    "description": "reminder ribbon"
+  },
+  "切符売場": { "replacement": "🎟️", "description": "admission tickets" },
+  "チケット": { "replacement": "🎫", "description": "ticket" },
+  "メダルミリタリー": { "replacement": "🎖️", "description": "military medal" },
+  "トロフィー": { "replacement": "🏆", "description": "trophy" },
+  "メダルスポーツ": { "replacement": "🏅", "description": "sports medal" },
+  "1位メダル": { "replacement": "🥇", "description": "1st place medal" },
+  "2位メダル": { "replacement": "🥈", "description": "2nd place medal" },
+  "3位メダル": { "replacement": "🥉", "description": "3rd place medal" },
+  "サッカー": { "replacement": "⚽", "description": "soccer ball" },
+  "野球": { "replacement": "⚾", "description": "baseball" },
+  "ソフトボール": { "replacement": "🥎", "description": "softball" },
+  "バスケットボール": { "replacement": "🏀", "description": "basketball" },
+  "バレーボール": { "replacement": "🏐", "description": "volleyball" },
+  "フットボール": { "replacement": "🏈", "description": "american football" },
+  "ラグビーフットボール": {
+    "replacement": "🏉",
+    "description": "rugby football"
+  },
+  "テニス": { "replacement": "🎾", "description": "tennis" },
+  "フライングディスク": { "replacement": "🥏", "description": "flying disc" },
+  "ボウリング": { "replacement": "🎳", "description": "bowling" },
+  "クリケットゲーム": { "replacement": "🏏", "description": "cricket game" },
+  "フィールドホッケー": { "replacement": "🏑", "description": "field hockey" },
+  "アイスホッケー": { "replacement": "🏒", "description": "ice hockey" },
+  "ラクロス": { "replacement": "🥍", "description": "lacrosse" },
+  "卓球": { "replacement": "🏓", "description": "ping pong" },
+  "バドミントン": { "replacement": "🏸", "description": "badminton" },
+  "ボクシンググローブ": { "replacement": "🥊", "description": "boxing glove" },
+  "武道のユニフォーム": {
+    "replacement": "🥋",
+    "description": "martial arts uniform"
+  },
+  "ゴールネット": { "replacement": "🥅", "description": "goal net" },
+  "スケート靴": { "replacement": "⛸️", "description": "ice skate" },
+  "釣り竿と魚": { "replacement": "🎣", "description": "fishing pole" },
+  "潜水マスク": { "replacement": "🤿", "description": "diving mask" },
+  "サッシ付きランニングシャツ": {
+    "replacement": "🎽",
+    "description": "running shirt"
+  },
+  "スキー": { "replacement": "🎿", "description": "skis" },
+  "そり": { "replacement": "🛷", "description": "sled" },
+  "カーリングストーン": { "replacement": "🥌", "description": "curling stone" },
+  "ダーツ": { "replacement": "🎯", "description": "direct hit" },
+  "ヨーヨー": { "replacement": "🪀", "description": "yo-yo" },
+  "凧": { "replacement": "🪁", "description": "kite" },
+  "エイトボール": { "replacement": "🎱", "description": "pool 8 ball" },
+  "水晶球": { "replacement": "🔮", "description": "crystal ball" },
+  "魔法の杖": { "replacement": "🪄", "description": "magic wand" },
+  "ナザールのお守り": { "replacement": "🧿", "description": "nazar amulet" },
+  "テレビゲーム": { "replacement": "🎮", "description": "video game" },
+  "ジョイスティック": { "replacement": "🕹️", "description": "joystick" },
+  "スロットマシン": { "replacement": "🎰", "description": "slot machine" },
+  "ゲームダイ": { "replacement": "🎲", "description": "game die" },
+  "ジグソーパズル": { "replacement": "🧩", "description": "puzzle piece" },
+  "テディベア": { "replacement": "🧸", "description": "teddy bear" },
+  "ピニャータ": { "replacement": "🪅", "description": "piñata" },
+  "入れ子人形": { "replacement": "🪆", "description": "nesting dolls" },
+  "スペード": { "replacement": "♠️", "description": "spade suit" },
+  "ハーツ": { "replacement": "♥️", "description": "heart suit" },
+  "ダイヤモンド": { "replacement": "♦️", "description": "diamond suit" },
+  "クラブ": { "replacement": "♣️", "description": "club suit" },
+  "チェスのポーン": { "replacement": "♟️", "description": "chess pawn" },
+  "黒のジョーカー": { "replacement": "🃏", "description": "joker" },
+  "麻雀": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "花のトランプ": {
+    "replacement": "🎴",
+    "description": "flower playing cards"
+  },
+  "舞台芸術": { "replacement": "🎭", "description": "performing arts" },
+  "額入り写真": { "replacement": "🖼️", "description": "framed picture" },
+  "アート": { "replacement": "🎨", "description": "artist palette" },
+  "糸": { "replacement": "🧶", "description": "yarn" },
+  "ミシン針": { "replacement": "🪡", "description": "sewing needle" },
+  "結び目": { "replacement": "🪢", "description": "knot" },
+  "眼鏡": { "replacement": "👓", "description": "glasses" },
+  "ダークサングラス": { "replacement": "🕶️", "description": "sunglasses" },
+  "ゴーグル": { "replacement": "🥽", "description": "goggles" },
+  "白衣": { "replacement": "🥼", "description": "lab coat" },
+  "安全ベスト": { "replacement": "🦺", "description": "safety vest" },
+  "ネクタイ": { "replacement": "👔", "description": "necktie" },
+  "シャツ": { "replacement": "👕", "description": "t-shirt" },
+  "ジーンズ": { "replacement": "👖", "description": "jeans" },
+  "スカーフ": { "replacement": "🧣", "description": "scarf" },
+  "手袋": { "replacement": "🧤", "description": "gloves" },
+  "コート": { "replacement": "🧥", "description": "coat" },
+  "靴下": { "replacement": "🧦", "description": "socks" },
+  "ドレス": { "replacement": "👗", "description": "dress" },
+  "着物": { "replacement": "👘", "description": "kimono" },
+  "サリー": { "replacement": "🥻", "description": "sari" },
+  "ワンピース水着": { "replacement": "🩱", "description": "one-piece swimsuit" },
+  "ブリーフ型水着": { "replacement": "🩲", "description": "briefs" },
+  "ショーツ": { "replacement": "🩳", "description": "shorts" },
+  "ビキニ": { "replacement": "👙", "description": "bikini" },
+  "女性の服": { "replacement": "👚", "description": "woman’s clothes" },
+  "財布": { "replacement": "👛", "description": "purse" },
+  "ハンドバッグ": { "replacement": "👜", "description": "handbag" },
+  "ポーチ": { "replacement": "👝", "description": "clutch bag" },
+  "ショッピング": { "replacement": "🛍️", "description": "shopping bags" },
+  "ランドセル": { "replacement": "🎒", "description": "backpack" },
+  "ひもサンダル": { "replacement": "🩴", "description": "thong sandal" },
+  "マンシューズ": { "replacement": "👞", "description": "man’s shoe" },
+  "運動靴": { "replacement": "👟", "description": "running shoe" },
+  "ハイキングブーツ": { "replacement": "🥾", "description": "hiking boot" },
+  "フラットシューズ": { "replacement": "🥿", "description": "flat shoe" },
+  "ハイヒール": { "replacement": "👠", "description": "high-heeled shoe" },
+  "サンダル": { "replacement": "👡", "description": "woman’s sandal" },
+  "バレエシューズ": { "replacement": "🩰", "description": "ballet shoes" },
+  "ブート": { "replacement": "👢", "description": "woman’s boot" },
+  "クラウン": { "replacement": "👑", "description": "crown" },
+  "女性の帽子": { "replacement": "👒", "description": "woman’s hat" },
+  "トップハット": { "replacement": "🎩", "description": "top hat" },
+  "モルタルボード": { "replacement": "🎓", "description": "graduation cap" },
+  "請求済みキャップ": { "replacement": "🧢", "description": "billed cap" },
+  "軍用ヘルメット": { "replacement": "🪖", "description": "military helmet" },
+  "救助隊員のヘルメット": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "数珠": { "replacement": "📿", "description": "prayer beads" },
+  "口紅": { "replacement": "💄", "description": "lipstick" },
+  "リング": { "replacement": "💍", "description": "ring" },
+  "宝石": { "replacement": "💎", "description": "gem stone" },
+  "ミュート": { "replacement": "🔇", "description": "muted speaker" },
+  "スピーカー": { "replacement": "📢", "description": "loudspeaker" },
+  "音": { "replacement": "🔉", "description": "speaker medium volume" },
+  "大きな音": { "replacement": "🔊", "description": "speaker high volume" },
+  "メガ": { "replacement": "📣", "description": "megaphone" },
+  "郵便ラッパ": { "replacement": "📯", "description": "postal horn" },
+  "ベル": { "replacement": "🔔", "description": "bell" },
+  "ベルなし": { "replacement": "🔕", "description": "bell with slash" },
+  "楽譜": { "replacement": "🎼", "description": "musical score" },
+  "音符": { "replacement": "🎵", "description": "musical note" },
+  "ノート": { "replacement": "📓", "description": "notebook" },
+  "スタジオマイク": { "replacement": "🎙️", "description": "studio microphone" },
+  "レベルスライダー": { "replacement": "🎚️", "description": "level slider" },
+  "コントロールノブ": { "replacement": "🎛️", "description": "control knobs" },
+  "マイクロフォン": { "replacement": "🎤", "description": "microphone" },
+  "ヘッドホン": { "replacement": "🎧", "description": "headphone" },
+  "無線": { "replacement": "📻", "description": "radio" },
+  "サックス": { "replacement": "🎷", "description": "saxophone" },
+  "アコーディオン": { "replacement": "🪗", "description": "accordion" },
+  "ギター": { "replacement": "🎸", "description": "guitar" },
+  "鍵盤": { "replacement": "🎹", "description": "musical keyboard" },
+  "トランペット": { "replacement": "🎺", "description": "trumpet" },
+  "バイオリン": { "replacement": "🎻", "description": "violin" },
+  "バンジョー": { "replacement": "🪕", "description": "banjo" },
+  "ドラム": { "replacement": "🥁", "description": "drum" },
+  "長いドラム": { "replacement": "🪘", "description": "long drum" },
+  "iphone": { "replacement": "📱", "description": "mobile phone" },
+  "召命": { "replacement": "📲", "description": "mobile phone with arrow" },
+  "電話": { "replacement": "☎️", "description": "telephone" },
+  "電話の受話器": { "replacement": "📞", "description": "telephone receiver" },
+  "ページャ": { "replacement": "📟", "description": "pager" },
+  "ファックス": { "replacement": "📠", "description": "fax machine" },
+  "電池": { "replacement": "🔋", "description": "battery" },
+  "電源プラグ": { "replacement": "🔌", "description": "electric plug" },
+  "コンピューター": { "replacement": "💻", "description": "laptop" },
+  "デスクトップコンピューター": {
+    "replacement": "🖥️",
+    "description": "desktop computer"
+  },
+  "プリンター": { "replacement": "🖨️", "description": "printer" },
+  "キーボード": { "replacement": "⌨️", "description": "keyboard" },
+  "コンピューターのマウス": {
+    "replacement": "🖱️",
+    "description": "computer mouse"
+  },
+  "トラックボール": { "replacement": "🖲️", "description": "trackball" },
+  "ミニディスク": { "replacement": "💽", "description": "computer disk" },
+  "フロッピーディスク": { "replacement": "💾", "description": "floppy disk" },
+  "cd": { "replacement": "💿", "description": "optical disk" },
+  "DVD": { "replacement": "📀", "description": "dvd" },
+  "そろばん": { "replacement": "🧮", "description": "abacus" },
+  "映画用カメラ": { "replacement": "🎥", "description": "movie camera" },
+  "フィルムストリップ": { "replacement": "🎞️", "description": "film frames" },
+  "映写機": { "replacement": "📽️", "description": "film projector" },
+  "クラッパー": { "replacement": "🎬", "description": "clapper board" },
+  "テレビ": { "replacement": "📺", "description": "television" },
+  "カメラ": { "replacement": "📷", "description": "camera" },
+  "カメラのフラッシュ": {
+    "replacement": "📸",
+    "description": "camera with flash"
+  },
+  "ビデオカメラ": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "mag": { "replacement": "🔍", "description": "magnifying glass tilted left" },
+  "mag right": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "キャンドル": { "replacement": "🕯️", "description": "candle" },
+  "バルブ": { "replacement": "💡", "description": "light bulb" },
+  "懐中電灯": { "replacement": "🔦", "description": "flashlight" },
+  "居酒屋ランタン": { "replacement": "🏮", "description": "red paper lantern" },
+  "diyaランプ": { "replacement": "🪔", "description": "diya lamp" },
+  "装飾カバー付きノートブック": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "閉じた本": { "replacement": "📕", "description": "closed book" },
+  "本": { "replacement": "📚", "description": "books" },
+  "グリーンブック": { "replacement": "📗", "description": "green book" },
+  "青い本": { "replacement": "📘", "description": "blue book" },
+  "オレンジ色の本": { "replacement": "📙", "description": "orange book" },
+  "元帳": { "replacement": "📒", "description": "ledger" },
+  "カールのあるページ": {
+    "replacement": "📃",
+    "description": "page with curl"
+  },
+  "スクロール": { "replacement": "📜", "description": "scroll" },
+  "ページを上向き": { "replacement": "📄", "description": "page facing up" },
+  "新聞": { "replacement": "📰", "description": "newspaper" },
+  "新聞ロール": { "replacement": "🗞️", "description": "rolled-up newspaper" },
+  "ブックマークタブ": { "replacement": "📑", "description": "bookmark tabs" },
+  "ブックマーク": { "replacement": "🔖", "description": "bookmark" },
+  "ラベル": { "replacement": "🏷️", "description": "label" },
+  "お財布": { "replacement": "💰", "description": "money bag" },
+  "コイン": { "replacement": "🪙", "description": "coin" },
+  "円": { "replacement": "💴", "description": "yen banknote" },
+  "ドル": { "replacement": "💵", "description": "dollar banknote" },
+  "ユーロ": { "replacement": "💶", "description": "euro banknote" },
+  "ポンド": { "replacement": "💷", "description": "pound banknote" },
+  "翼のあるお金": { "replacement": "💸", "description": "money with wings" },
+  "クレジットカード": { "replacement": "💳", "description": "credit card" },
+  "領収書": { "replacement": "🧾", "description": "receipt" },
+  "チャート": {
+    "replacement": "💹",
+    "description": "chart increasing with yen"
+  },
+  "Eメール": { "replacement": "📧", "description": "e-mail" },
+  "入ってくる封筒": { "replacement": "📨", "description": "incoming envelope" },
+  "矢印付き封筒": { "replacement": "📩", "description": "envelope with arrow" },
+  "アウトボックストレイ": { "replacement": "📤", "description": "outbox tray" },
+  "受信トレイトレイ": { "replacement": "📥", "description": "inbox tray" },
+  "パッケージ": { "replacement": "📦", "description": "package" },
+  "メールボックス": {
+    "replacement": "📫",
+    "description": "closed mailbox with raised flag"
+  },
+  "メールボックスが閉じられました": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "メール付きメールボックス": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "メールのないメールボックス": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "ポストボックス": { "replacement": "📮", "description": "postbox" },
+  "投票箱": { "replacement": "🗳️", "description": "ballot box with ballot" },
+  "ペンシル2": { "replacement": "✏️", "description": "pencil" },
+  "黒のペン先": { "replacement": "✒️", "description": "black nib" },
+  "万年筆": { "replacement": "🖋️", "description": "fountain pen" },
+  "ペン": { "replacement": "🖊️", "description": "pen" },
+  "絵筆": { "replacement": "🖌️", "description": "paintbrush" },
+  "クレヨン": { "replacement": "🖍️", "description": "crayon" },
+  "メモ": { "replacement": "📝", "description": "memo" },
+  "ブリーフケース": { "replacement": "💼", "description": "briefcase" },
+  "ファイルフォルダー": { "replacement": "📁", "description": "file folder" },
+  "ファイルフォルダを開く": {
+    "replacement": "📂",
+    "description": "open file folder"
+  },
+  "カードインデックスディバイダー": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "日付": { "replacement": "📅", "description": "calendar" },
+  "カレンダー": { "replacement": "📆", "description": "tear-off calendar" },
+  "スパイラルメモ帳": { "replacement": "🗒️", "description": "spiral notepad" },
+  "スパイラルカレンダー": {
+    "replacement": "🗓️",
+    "description": "spiral calendar"
+  },
+  "カード式索引": { "replacement": "📇", "description": "card index" },
+  "上昇傾向のチャート": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "下降トレンドのチャート": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "棒グラフ": { "replacement": "📊", "description": "bar chart" },
+  "クリップボード": { "replacement": "📋", "description": "clipboard" },
+  "プッシュピン": { "replacement": "📌", "description": "pushpin" },
+  "丸画鋲": { "replacement": "📍", "description": "round pushpin" },
+  "ペーパークリップ": {
+    "replacement": "🖇️",
+    "description": "linked paperclips"
+  },
+  "ストレート定規": { "replacement": "📏", "description": "straight ruler" },
+  "三角定規": { "replacement": "📐", "description": "triangular ruler" },
+  "はさみ": { "replacement": "✂️", "description": "scissors" },
+  "カードファイルボックス": {
+    "replacement": "🗃️",
+    "description": "card file box"
+  },
+  "ファイルキャビネット": {
+    "replacement": "🗄️",
+    "description": "file cabinet"
+  },
+  "ゴミ箱": { "replacement": "🗑️", "description": "wastebasket" },
+  "ロック": { "replacement": "🔒", "description": "locked" },
+  "ロックを解除する": { "replacement": "🔓", "description": "unlocked" },
+  "インクペンでロック": {
+    "replacement": "🔏",
+    "description": "locked with pen"
+  },
+  "キー付きクローズドロック": {
+    "replacement": "🔐",
+    "description": "locked with key"
+  },
+  "キー": { "replacement": "🔑", "description": "key" },
+  "古い鍵": { "replacement": "🗝️", "description": "old key" },
+  "ハンマー": { "replacement": "🔨", "description": "hammer" },
+  "斧": { "replacement": "🪓", "description": "axe" },
+  "ピック": { "replacement": "⛏️", "description": "pick" },
+  "ハンマーとピック": { "replacement": "⚒️", "description": "hammer and pick" },
+  "ハンマーとレンチ": {
+    "replacement": "🛠️",
+    "description": "hammer and wrench"
+  },
+  "短剣": { "replacement": "🗡️", "description": "dagger" },
+  "交差した剣": { "replacement": "⚔️", "description": "crossed swords" },
+  "銃": { "replacement": "🔫", "description": "pistol" },
+  "ブーメラン": { "replacement": "🪃", "description": "boomerang" },
+  "弓と矢": { "replacement": "🏹", "description": "bow and arrow" },
+  "シールド": { "replacement": "🛡️", "description": "shield" },
+  "大工のこぎり": { "replacement": "🪚", "description": "carpentry saw" },
+  "レンチ": { "replacement": "🔧", "description": "wrench" },
+  "ドライバー": { "replacement": "🪛", "description": "screwdriver" },
+  "ナットとボルト": { "replacement": "🔩", "description": "nut and bolt" },
+  "装備": { "replacement": "⚙️", "description": "gear" },
+  "クランプ": { "replacement": "🗜️", "description": "clamp" },
+  "バランススケール": { "replacement": "⚖️", "description": "balance scale" },
+  "杖のプロービング": { "replacement": "🦯", "description": "white cane" },
+  "リンク": { "replacement": "🔗", "description": "link" },
+  "チェーン": { "replacement": "⛓️", "description": "chains" },
+  "針": { "replacement": "🪝", "description": "hook" },
+  "ツールボックス": { "replacement": "🧰", "description": "toolbox" },
+  "磁石": { "replacement": "🧲", "description": "magnet" },
+  "はしご": { "replacement": "🪜", "description": "ladder" },
+  "アランビック": { "replacement": "⚗️", "description": "alembic" },
+  "試験管": { "replacement": "🧪", "description": "test tube" },
+  "ペトリ皿": { "replacement": "🧫", "description": "petri dish" },
+  "dna": { "replacement": "🧬", "description": "dna" },
+  "顕微鏡": { "replacement": "🔬", "description": "microscope" },
+  "望遠鏡": { "replacement": "🔭", "description": "telescope" },
+  "衛星": { "replacement": "📡", "description": "satellite antenna" },
+  "注射器": { "replacement": "💉", "description": "syringe" },
+  "一滴の血": { "replacement": "🩸", "description": "drop of blood" },
+  "ピル": { "replacement": "💊", "description": "pill" },
+  "絆創膏": { "replacement": "🩹", "description": "adhesive bandage" },
+  "聴診器": { "replacement": "🩺", "description": "stethoscope" },
+  "ドア": { "replacement": "🚪", "description": "door" },
+  "エレベーター": { "replacement": "🛗", "description": "elevator" },
+  "鏡": { "replacement": "🪞", "description": "mirror" },
+  "窓": { "replacement": "🪟", "description": "window" },
+  "ベッド": { "replacement": "🛏️", "description": "bed" },
+  "ソファとランプ": { "replacement": "🛋️", "description": "couch and lamp" },
+  "椅子": { "replacement": "🪑", "description": "chair" },
+  "トイレ": { "replacement": "🚾", "description": "water closet" },
+  "プランジャー": { "replacement": "🪠", "description": "plunger" },
+  "シャワー": { "replacement": "🚿", "description": "shower" },
+  "バスタブ": { "replacement": "🛁", "description": "bathtub" },
+  "ネズミ捕り": { "replacement": "🪤", "description": "mouse trap" },
+  "かみそり": { "replacement": "🪒", "description": "razor" },
+  "ローションボトル": { "replacement": "🧴", "description": "lotion bottle" },
+  "安全ピン": { "replacement": "🧷", "description": "safety pin" },
+  "ほうき": { "replacement": "🧹", "description": "broom" },
+  "バスケット": { "replacement": "🧺", "description": "basket" },
+  "紙のロール": { "replacement": "🧻", "description": "roll of paper" },
+  "バケツ": { "replacement": "🪣", "description": "bucket" },
+  "石鹸": { "replacement": "🧼", "description": "soap" },
+  "歯ブラシ": { "replacement": "🪥", "description": "toothbrush" },
+  "スポンジ": { "replacement": "🧽", "description": "sponge" },
+  "消火器": { "replacement": "🧯", "description": "fire extinguisher" },
+  "ショッピングカート": { "replacement": "🛒", "description": "shopping cart" },
+  "喫煙": { "replacement": "🚬", "description": "cigarette" },
+  "棺": { "replacement": "⚰️", "description": "coffin" },
+  "墓石": { "replacement": "🪦", "description": "headstone" },
+  "葬儀の壷": { "replacement": "⚱️", "description": "funeral urn" },
+  "モアイ": { "replacement": "🗿", "description": "moai" },
+  "プラカード": { "replacement": "🪧", "description": "placard" },
+  "atm": { "replacement": "🏧", "description": "ATM sign" },
+  "その場所にごみを置く": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "飲料水": { "replacement": "🚰", "description": "potable water" },
+  "車椅子": { "replacement": "♿", "description": "wheelchair symbol" },
+  "男性用": { "replacement": "🚹", "description": "men’s room" },
+  "婦人向け": { "replacement": "🚺", "description": "women’s room" },
+  "赤ちゃんのシンボル": { "replacement": "🚼", "description": "baby symbol" },
+  "入国審査": { "replacement": "🛂", "description": "passport control" },
+  "税関": { "replacement": "🛃", "description": "customs" },
+  "手荷物受取所": { "replacement": "🛄", "description": "baggage claim" },
+  "左荷物": { "replacement": "🛅", "description": "left luggage" },
+  "警告": { "replacement": "⚠️", "description": "warning" },
+  "交差する子供たち": {
+    "replacement": "🚸",
+    "description": "children crossing"
+  },
+  "立入り禁止": { "replacement": "⛔", "description": "no entry" },
+  "エントリーサインなし": { "replacement": "🚫", "description": "prohibited" },
+  "自転車禁止": { "replacement": "🚳", "description": "no bicycles" },
+  "喫煙禁止": { "replacement": "🚭", "description": "no smoking" },
+  "ゴミを捨てないでください": {
+    "replacement": "🚯",
+    "description": "no littering"
+  },
+  "非飲料水": { "replacement": "🚱", "description": "non-potable water" },
+  "自動車通行専用": { "replacement": "🚷", "description": "no pedestrians" },
+  "携帯電話はありません": {
+    "replacement": "📵",
+    "description": "no mobile phones"
+  },
+  "未成年者": { "replacement": "🔞", "description": "no one under eighteen" },
+  "放射性": { "replacement": "☢️", "description": "radioactive" },
+  "バイオハザード": { "replacement": "☣️", "description": "biohazard" },
+  "上矢印": { "replacement": "⬆️", "description": "up arrow" },
+  "右上の矢印": { "replacement": "↗️", "description": "up-right arrow" },
+  "右矢印": { "replacement": "➡️", "description": "right arrow" },
+  "右下の矢印": { "replacement": "↘️", "description": "down-right arrow" },
+  "下矢印": { "replacement": "⬇️", "description": "down arrow" },
+  "左下の矢印": { "replacement": "↙️", "description": "down-left arrow" },
+  "左矢印": { "replacement": "⬅️", "description": "left arrow" },
+  "左上の矢印": { "replacement": "↖️", "description": "up-left arrow" },
+  "上向き下向き矢印": { "replacement": "↕️", "description": "up-down arrow" },
+  "左右矢印": { "replacement": "↔️", "description": "left-right arrow" },
+  "フック付き左矢印": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "矢印右フック": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "上向きの矢印": {
+    "replacement": "⤴️",
+    "description": "right arrow curving up"
+  },
+  "下向きの矢印": {
+    "replacement": "⤵️",
+    "description": "right arrow curving down"
+  },
+  "時計回りの矢印": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "反時計回りの矢印": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "バック": { "replacement": "🔙", "description": "BACK arrow" },
+  "終わり": { "replacement": "🔚", "description": "END arrow" },
+  "オン": { "replacement": "🔛", "description": "ON! arrow" },
+  "すぐに": { "replacement": "🔜", "description": "SOON arrow" },
+  "上": { "replacement": "🔝", "description": "TOP arrow" },
+  "礼拝所": { "replacement": "🛐", "description": "place of worship" },
+  "原子記号": { "replacement": "⚛️", "description": "atom symbol" },
+  "om": { "replacement": "🕉️", "description": "om" },
+  "ダビデの星": { "replacement": "✡️", "description": "star of David" },
+  "法輪": { "replacement": "☸️", "description": "wheel of dharma" },
+  "陰陽": { "replacement": "☯️", "description": "yin yang" },
+  "ラテン十字": { "replacement": "✝️", "description": "latin cross" },
+  "オーソドックスクロス": {
+    "replacement": "☦️",
+    "description": "orthodox cross"
+  },
+  "星と三日月": { "replacement": "☪️", "description": "star and crescent" },
+  "ピースマーク": { "replacement": "☮️", "description": "peace symbol" },
+  "本枝の燭台": { "replacement": "🕎", "description": "menorah" },
+  "六芒星": { "replacement": "🔯", "description": "dotted six-pointed star" },
+  "牡羊座": { "replacement": "♈", "description": "Aries" },
+  "おうし座": { "replacement": "♉", "description": "Taurus" },
+  "ジェミニ": { "replacement": "♊", "description": "Gemini" },
+  "癌": { "replacement": "♋", "description": "Cancer" },
+  "レオ": { "replacement": "♌", "description": "Leo" },
+  "おとめ座": { "replacement": "♍", "description": "Virgo" },
+  "てんびん座": { "replacement": "♎", "description": "Libra" },
+  "さそり座": { "replacement": "♏", "description": "Scorpio" },
+  "射手座": { "replacement": "♐", "description": "Sagittarius" },
+  "山羊座": { "replacement": "♑", "description": "Capricorn" },
+  "水瓶座": { "replacement": "♒", "description": "Aquarius" },
+  "うお座": { "replacement": "♓", "description": "Pisces" },
+  "へびつかい座": { "replacement": "⛎", "description": "Ophiuchus" },
+  "右にねじれた矢印": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "繰り返す": { "replacement": "🔁", "description": "repeat button" },
+  "1つ繰り返す": { "replacement": "🔂", "description": "repeat single button" },
+  "前方矢印": { "replacement": "▶️", "description": "play button" },
+  "早送り": { "replacement": "⏩", "description": "fast-forward button" },
+  "次のトラックボタン": {
+    "replacement": "⏭️",
+    "description": "next track button"
+  },
+  "再生または一時停止ボタン": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "後方矢印": { "replacement": "◀️", "description": "reverse button" },
+  "巻き戻し": { "replacement": "⏪", "description": "fast reverse button" },
+  "前のトラックボタン": {
+    "replacement": "⏮️",
+    "description": "last track button"
+  },
+  "小さい上向き矢印": { "replacement": "🔼", "description": "upwards button" },
+  "矢印が2倍になる": { "replacement": "⏫", "description": "fast up button" },
+  "小さい下向き矢印": {
+    "replacement": "🔽",
+    "description": "downwards button"
+  },
+  "矢印ダブルダウン": {
+    "replacement": "⏬",
+    "description": "fast down button"
+  },
+  "一時停止ボタン": { "replacement": "⏸️", "description": "pause button" },
+  "停止ボタン": { "replacement": "⏹️", "description": "stop button" },
+  "録音ボタン": { "replacement": "⏺️", "description": "record button" },
+  "イジェクトボタン": { "replacement": "⏏️", "description": "eject button" },
+  "シネマ": { "replacement": "🎦", "description": "cinema" },
+  "低輝度": { "replacement": "🔅", "description": "dim button" },
+  "高輝度": { "replacement": "🔆", "description": "bright button" },
+  "シグナル強度": { "replacement": "📶", "description": "antenna bars" },
+  "バイブレーションモード": {
+    "replacement": "📳",
+    "description": "vibration mode"
+  },
+  "携帯電話オフ": { "replacement": "📴", "description": "mobile phone off" },
+  "女性のサイン": { "replacement": "♀️", "description": "female sign" },
+  "男性のサイン": { "replacement": "♂️", "description": "male sign" },
+  "トランスジェンダーのシンボル": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "重い掛け算x": { "replacement": "✖️", "description": "multiply" },
+  "重いプラス記号": { "replacement": "➕", "description": "plus" },
+  "重いマイナス記号": { "replacement": "➖", "description": "minus" },
+  "重い除算記号": { "replacement": "➗", "description": "divide" },
+  "インフィニティ": { "replacement": "♾️", "description": "infinity" },
+  "バンバン": { "replacement": "‼️", "description": "double exclamation mark" },
+  "インテロバング": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "質問": { "replacement": "❓", "description": "question mark" },
+  "灰色の質問": { "replacement": "❔", "description": "white question mark" },
+  "灰色の感嘆": {
+    "replacement": "❕",
+    "description": "white exclamation mark"
+  },
+  "感嘆": { "replacement": "❗", "description": "exclamation mark" },
+  "波状ダッシュ": { "replacement": "〰️", "description": "wavy dash" },
+  "為替": { "replacement": "💱", "description": "currency exchange" },
+  "重いドル記号": { "replacement": "💲", "description": "heavy dollar sign" },
+  "医療シンボル": { "replacement": "⚕️", "description": "medical symbol" },
+  "リサイクル": { "replacement": "♻️", "description": "recycling symbol" },
+  "フルールドリス": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "トライデント": { "replacement": "🔱", "description": "trident emblem" },
+  "名札": { "replacement": "📛", "description": "name badge" },
+  "初心者": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "o": { "replacement": "⭕", "description": "hollow red circle" },
+  "白いチェックマーク": {
+    "replacement": "✅",
+    "description": "check mark button"
+  },
+  "チェック付き投票箱": {
+    "replacement": "☑️",
+    "description": "check box with check"
+  },
+  "重いチェックマーク": { "replacement": "✔️", "description": "check mark" },
+  "バツ": { "replacement": "❌", "description": "cross mark" },
+  "負の2乗クロスマーク": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "カーリーループ": { "replacement": "➰", "description": "curly loop" },
+  "ループ": { "replacement": "➿", "description": "double curly loop" },
+  "部品交替マーク": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "8本のスポークアスタリスク": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "8つの尖った黒い星": {
+    "replacement": "✴️",
+    "description": "eight-pointed star"
+  },
+  "輝く": { "replacement": "❇️", "description": "sparkle" },
+  "著作権": { "replacement": "©️", "description": "copyright" },
+  "登録済み": { "replacement": "®️", "description": "registered" },
+  "tm": { "replacement": "™️", "description": "trade mark" },
+  "ハッシュ": { "replacement": "#️⃣", "description": "keycap: #" },
+  "アスタリスク": { "replacement": "*️⃣", "description": "keycap: *" },
+  "ゼロ": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "二": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "三": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "四": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "五": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "セブン": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "ナイン": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "キーキャップテン": { "replacement": "🔟", "description": "keycap: 10" },
+  "キャピタルabcd": {
+    "replacement": "🔠",
+    "description": "input latin uppercase"
+  },
+  "あいうえお": { "replacement": "🔡", "description": "input latin lowercase" },
+  "記号": { "replacement": "🔣", "description": "input symbols" },
+  "abc": { "replacement": "🔤", "description": "input latin letters" },
+  "a": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "ab": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "b": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "cl": { "replacement": "🆑", "description": "CL button" },
+  "涼しい": { "replacement": "🆒", "description": "COOL button" },
+  "自由": { "replacement": "🆓", "description": "FREE button" },
+  "情報源": { "replacement": "ℹ️", "description": "information" },
+  "id": { "replacement": "🆔", "description": "ID button" },
+  "m": { "replacement": "Ⓜ️", "description": "circled M" },
+  "新着": { "replacement": "🆕", "description": "NEW button" },
+  "ng": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "OK": { "replacement": "🆗", "description": "OK button" },
+  "パーキング": { "replacement": "🅿️", "description": "P button" },
+  "sos": { "replacement": "🆘", "description": "SOS button" },
+  "アップ": { "replacement": "🆙", "description": "UP! button" },
+  "vs": { "replacement": "🆚", "description": "VS button" },
+  "ココ": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "sa": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "表意文字の利点": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "受け入れる": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "おめでとう": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "秘密": { "replacement": "㊙️", "description": "Japanese “secret” button" },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "赤い丸": { "replacement": "🔴", "description": "red circle" },
+  "オレンジ色の円": { "replacement": "🟠", "description": "orange circle" },
+  "黄色い円": { "replacement": "🟡", "description": "yellow circle" },
+  "緑の円": { "replacement": "🟢", "description": "green circle" },
+  "大きな青い円": { "replacement": "🔵", "description": "blue circle" },
+  "紫の円": { "replacement": "🟣", "description": "purple circle" },
+  "茶色の円": { "replacement": "🟤", "description": "brown circle" },
+  "黒丸": { "replacement": "⚫", "description": "black circle" },
+  "白い円": { "replacement": "⚪", "description": "white circle" },
+  "赤の広場": { "replacement": "🟥", "description": "red square" },
+  "オレンジ色の正方形": { "replacement": "🟧", "description": "orange square" },
+  "黄色い四角": { "replacement": "🟨", "description": "yellow square" },
+  "緑の四角": { "replacement": "🟩", "description": "green square" },
+  "青い四角": { "replacement": "🟦", "description": "blue square" },
+  "紫の四角": { "replacement": "🟪", "description": "purple square" },
+  "茶色の正方形": { "replacement": "🟫", "description": "brown square" },
+  "黒の大きな正方形": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "白い大きな正方形": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "黒のミディアムスクエア": {
+    "replacement": "◼️",
+    "description": "black medium square"
+  },
+  "白いミディアムスクエア": {
+    "replacement": "◻️",
+    "description": "white medium square"
+  },
+  "黒ミディアムスモールスクエア": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "白ミディアムスモールスクエア": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "黒の小さな正方形": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "白い小さな正方形": {
+    "replacement": "▫️",
+    "description": "white small square"
+  },
+  "大きなオレンジ色のダイヤモンド": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "大きなブルーダイヤモンド": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "小さなオレンジ色のダイヤモンド": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "小さな青いダイヤモンド": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "小さな赤い三角形": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "下の小さな赤い三角形": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "内側にドットが入った菱形": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "ラジオボタン": { "replacement": "🔘", "description": "radio button" },
+  "白い四角ボタン": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "黒い四角ボタン": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "チェッカーフラッグ": {
+    "replacement": "🏁",
+    "description": "chequered flag"
+  },
+  "ポストの三角形の旗": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "交差した旗": { "replacement": "🎌", "description": "crossed flags" },
+  "黒旗": { "replacement": "🏴", "description": "black flag" },
+  "白い旗": { "replacement": "🏳️", "description": "white flag" },
+  "レインボーフラッグ": { "replacement": "🏳️‍🌈", "description": "rainbow flag" },
+  "トランスジェンダーフラグ": {
+    "replacement": "🏳️‍⚧️",
+    "description": "transgender flag"
+  },
+  "海賊旗": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "アセンション島": {
+    "replacement": "🇦🇨",
+    "description": "flag: Ascension Island"
+  },
+  "アンドラ": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "アラブ首長国連邦": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "アフガニスタン": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "アンティグアバーブーダ": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "アンギラ": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "アルバニア": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "アルメニア": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "アンゴラ": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "南極大陸": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "アルゼンチン": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "アメリカ領サモア": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "オーストリア": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "オーストラリア": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "アルバ": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "オーランド諸島": {
+    "replacement": "🇦🇽",
+    "description": "flag: Åland Islands"
+  },
+  "アゼルバイジャン": {
+    "replacement": "🇦🇿",
+    "description": "flag: Azerbaijan"
+  },
+  "ボスニアヘルツェゴビナ": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "バルバドス": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "バングラデシュ": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "ベルギー": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "ブルキナファソ": {
+    "replacement": "🇧🇫",
+    "description": "flag: Burkina Faso"
+  },
+  "ブルガリア": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "バーレーン": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "ブルンジ": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "ベニン": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "サンバルテルミー": {
+    "replacement": "🇧🇱",
+    "description": "flag: St. Barthélemy"
+  },
+  "バミューダ": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "ブルネイ": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "ボリビア": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "カリブ海のオランダ": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "ブラジル": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "バハマ": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "ブータン": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "ブーベ島": { "replacement": "🇧🇻", "description": "flag: Bouvet Island" },
+  "ボツワナ": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "ベラルーシ": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "ベリーズ": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "カナダ": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "ココス諸島": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "コンゴキンシャサ": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "中央アフリカ共和国": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "コンゴブラザビル": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "スイス": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "コートジボワール": {
+    "replacement": "🇨🇮",
+    "description": "flag: Côte d’Ivoire"
+  },
+  "クック諸島": { "replacement": "🇨🇰", "description": "flag: Cook Islands" },
+  "チリ": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "カメルーン": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "cn": { "replacement": "🇨🇳", "description": "flag: China" },
+  "コロンビア": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "クリッパートン島": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "コスタリカ": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "キューバ": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "カーボベルデ": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "キュラソー": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "クリスマス島": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "キプロス": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "チェコ共和国": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "de": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "ディエゴガルシア": {
+    "replacement": "🇩🇬",
+    "description": "flag: Diego Garcia"
+  },
+  "ジブチ": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "デンマーク": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "ドミニカ": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "ドミニカ共和国": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "アルジェリア": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "セウタメリリャ": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "エクアドル": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "エストニア": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "エジプト": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "西サハラ": { "replacement": "🇪🇭", "description": "flag: Western Sahara" },
+  "エリトリア": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "es": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "エチオピア": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "EU": { "replacement": "🇪🇺", "description": "flag: European Union" },
+  "フィンランド": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "フィジー": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "フォークランド諸島": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "ミクロネシア": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "フェロー諸島": { "replacement": "🇫🇴", "description": "flag: Faroe Islands" },
+  "fr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "ガボン": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "gb": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "グレナダ": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "ジョージア": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "フランス領ギアナ": {
+    "replacement": "🇬🇫",
+    "description": "flag: French Guiana"
+  },
+  "ガーンジー": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "ガーナ": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "ジブラルタル": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "グリーンランド": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "ガンビア": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "ギニア": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "グアドループ": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "赤道ギニア": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "ギリシャ": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "サウスジョージアサウスサンドイッチ諸島": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "グアテマラ": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "グアム": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "ギニアビサウ": { "replacement": "🇬🇼", "description": "flag: Guinea-Bissau" },
+  "ガイアナ": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "香港": { "replacement": "🇭🇰", "description": "flag: Hong Kong SAR China" },
+  "マクドナルド諸島を聞いた": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "ホンジュラス": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "クロアチア": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "ハイチ": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "ハンガリー": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "カナリア諸島": {
+    "replacement": "🇮🇨",
+    "description": "flag: Canary Islands"
+  },
+  "インドネシア": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "アイルランド": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "イスラエル": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "マン島": { "replacement": "🇮🇲", "description": "flag: Isle of Man" },
+  "インド": { "replacement": "🇮🇳", "description": "flag: India" },
+  "イギリス領インド洋地域": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "イラク": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "イラン": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "アイスランド": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "それ": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "ジャージー": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "ジャマイカ": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "ヨルダン": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "jp": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "ケニア": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "キルギスタン": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "カンボジア": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "キリバス": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "コモロ": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "セントクリストファーネイビス": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "北朝鮮": { "replacement": "🇰🇵", "description": "flag: North Korea" },
+  "kr": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "クウェート": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "ケイマン諸島": {
+    "replacement": "🇰🇾",
+    "description": "flag: Cayman Islands"
+  },
+  "カザフスタン": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "ラオス": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "レバノン": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "セントルシア": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "リヒテンシュタイン": {
+    "replacement": "🇱🇮",
+    "description": "flag: Liechtenstein"
+  },
+  "スリランカ": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "リベリア": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "レソト": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "リトアニア": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "ルクセンブルク": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "ラトビア": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "リビア": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "モロッコ": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "モナコ": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "モルドバ": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "モンテネグロ": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "セントマーティン": {
+    "replacement": "🇲🇫",
+    "description": "flag: St. Martin"
+  },
+  "マダガスカル": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "マーシャル諸島": {
+    "replacement": "🇲🇭",
+    "description": "flag: Marshall Islands"
+  },
+  "マケドニア": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "マリ": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "ミャンマー": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "モンゴル": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "マカオ": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "北マリアナ諸島": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "マルティニーク": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "モーリタニア": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "モントセラト": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "マルタ": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "モーリシャス": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "モルディブ": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "マラウイ": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "メキシコ": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "マレーシア": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "モザンビーク": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "ナミビア": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "ニューカレドニア": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "ニジェール": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "ノーフォーク島": {
+    "replacement": "🇳🇫",
+    "description": "flag: Norfolk Island"
+  },
+  "ナイジェリア": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "ニカラグア": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "オランダ": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "ノルウェー": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "ネパール": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "ナウル": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "ニウエ": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "ニュージーランド": {
+    "replacement": "🇳🇿",
+    "description": "flag: New Zealand"
+  },
+  "オマーン": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "パナマ": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "ペルー": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "フランス領ポリネシア": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "パプアニューギニア": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "フィリピン": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "パキスタン": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "ポーランド": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "サンピエールミクロン島": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "ピトケアン諸島": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "プエルトリコ": { "replacement": "🇵🇷", "description": "flag: Puerto Rico" },
+  "パレスチナ領土": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "ポルトガル": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "パラオ": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "パラグアイ": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "カタール": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "再会": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "ルーマニア": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "セルビア": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "ru": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "ルワンダ": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "サウジアラビア": {
+    "replacement": "🇸🇦",
+    "description": "flag: Saudi Arabia"
+  },
+  "ソロモン諸島": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "セイシェル": { "replacement": "🇸🇨", "description": "flag: Seychelles" },
+  "スーダン": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "スウェーデン": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "シンガポール": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "セントヘレナ": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "スロベニア": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "スバールバルジャンマイエン": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "スロバキア": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "シエラレオネ": { "replacement": "🇸🇱", "description": "flag: Sierra Leone" },
+  "サンマリノ": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "セネガル": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "ソマリア": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "スリナム": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "南スーダン": { "replacement": "🇸🇸", "description": "flag: South Sudan" },
+  "サントメプリンシペ": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "エルサルバドル": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "シントマールテン": {
+    "replacement": "🇸🇽",
+    "description": "flag: Sint Maarten"
+  },
+  "シリア": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "スワジランド": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "トリスタンダクーニャ": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "タークス・カイコス諸島": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "チャド": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "フランス領南方領土": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "トーゴ": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "タイ": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "タジキスタン": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "トケラウ": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "東ティモール": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "トルクメニスタン": {
+    "replacement": "🇹🇲",
+    "description": "flag: Turkmenistan"
+  },
+  "チュニジア": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "トンガ": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "tr": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "トリニダードトバゴ": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "ツバル": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "台湾": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "タンザニア": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "ウクライナ": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "ウガンダ": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "私たちの離島": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "国連": { "replacement": "🇺🇳", "description": "flag: United Nations" },
+  "我ら": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "ウルグアイ": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "ウズベキスタン": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "バチカン市": { "replacement": "🇻🇦", "description": "flag: Vatican City" },
+  "セントビンセントグレナディーン諸島": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "ベネズエラ": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "イギリス領ヴァージン諸島": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "私たちバージン諸島": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "ベトナム": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "バヌアツ": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "ウォリス・フツナ": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "サモア": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "コソボ": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "イエメン": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "マヨット": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "南アフリカ": { "replacement": "🇿🇦", "description": "flag: South Africa" },
+  "ザンビア": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "ジンバブエ": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "イングランド": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "スコットランド": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "ウェールズ": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

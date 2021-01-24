@@ -1,0 +1,3075 @@
+{
+  "1": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "sorrindo": { "replacement": "😀", "description": "grinning face" },
+  "risonho": {
+    "replacement": "😃",
+    "description": "grinning face with big eyes"
+  },
+  "sorriso": {
+    "replacement": "😄",
+    "description": "grinning face with smiling eyes"
+  },
+  "sorriso largo": {
+    "replacement": "😁",
+    "description": "beaming face with smiling eyes"
+  },
+  "rindo": { "replacement": "😆", "description": "grinning squinting face" },
+  "sorriso suado": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "alegria": { "replacement": "😂", "description": "face with tears of joy" },
+  "rosto ligeiramente sorridente": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "cara de cabeça para baixo": {
+    "replacement": "🙃",
+    "description": "upside-down face"
+  },
+  "piscadela": { "replacement": "😉", "description": "winking face" },
+  "corar": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "inocente": { "replacement": "😇", "description": "smiling face with halo" },
+  "rosto sorridente com três corações": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "olhos do coração": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "estrela golpeada": { "replacement": "🤩", "description": "star-struck" },
+  "beijando coração": {
+    "replacement": "😘",
+    "description": "face blowing a kiss"
+  },
+  "se beijando": { "replacement": "😗", "description": "kissing face" },
+  "relaxado": { "replacement": "☺️", "description": "smiling face" },
+  "beijando de olhos fechados": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "beijando olhos sorridentes": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "rosto sorridente com lágrimas": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "yum": { "replacement": "😋", "description": "face savoring food" },
+  "língua de fora": { "replacement": "😛", "description": "face with tongue" },
+  "língua de fora piscando os olhos": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "cara maluca": { "replacement": "🤪", "description": "zany face" },
+  "língua para fora olhos fechados": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "cara de boca de dinheiro": {
+    "replacement": "🤑",
+    "description": "money-mouth face"
+  },
+  "abraços": { "replacement": "🤗", "description": "hugging face" },
+  "entregar a boca": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "cara calada": { "replacement": "🤫", "description": "shushing face" },
+  "pensando": { "replacement": "🤔", "description": "thinking face" },
+  "cara de boca com zíper": {
+    "replacement": "🤐",
+    "description": "zipper-mouth face"
+  },
+  "sobrancelha levantada": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "rosto neutro": { "replacement": "😐", "description": "neutral face" },
+  "inexpressivo": { "replacement": "😑", "description": "expressionless face" },
+  "sem boca": { "replacement": "😶", "description": "face without mouth" },
+  "sorriso pretensioso": {
+    "replacement": "😏",
+    "description": "smirking face"
+  },
+  "não divertido": { "replacement": "😒", "description": "unamused face" },
+  "rolar os olhos": {
+    "replacement": "🙄",
+    "description": "face with rolling eyes"
+  },
+  "fazendo careta": { "replacement": "😬", "description": "grimacing face" },
+  "cara mentirosa": { "replacement": "🤥", "description": "lying face" },
+  "aliviado": { "replacement": "😌", "description": "relieved face" },
+  "pensativo": { "replacement": "😔", "description": "pensive face" },
+  "sonolento": { "replacement": "😪", "description": "sleepy face" },
+  "cara babando": { "replacement": "🤤", "description": "drooling face" },
+  "dormindo": { "replacement": "😴", "description": "sleeping face" },
+  "mascarar": { "replacement": "😷", "description": "face with medical mask" },
+  "rosto com termômetro": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "rosto com bandagem na cabeça": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "rosto nauseado": { "replacement": "🤢", "description": "nauseated face" },
+  "cara vomitando": { "replacement": "🤮", "description": "face vomiting" },
+  "cara a espirrar": { "replacement": "🤧", "description": "sneezing face" },
+  "cara quente": { "replacement": "🥵", "description": "hot face" },
+  "cara fria": { "replacement": "🥶", "description": "cold face" },
+  "cara tonta": { "replacement": "😵", "description": "dizzy face" },
+  "cabeça explodindo": { "replacement": "🤯", "description": "exploding head" },
+  "cara de chapéu de cowboy": {
+    "replacement": "🤠",
+    "description": "cowboy hat face"
+  },
+  "cara de festa": { "replacement": "🥳", "description": "partying face" },
+  "rosto disfarçado": { "replacement": "🥸", "description": "disguised face" },
+  "oculos escuros": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "cara de nerd": { "replacement": "🤓", "description": "nerd face" },
+  "face monóculo": { "replacement": "🧐", "description": "face with monocle" },
+  "confuso": { "replacement": "😕", "description": "confused face" },
+  "preocupado": { "replacement": "😟", "description": "worried face" },
+  "rosto ligeiramente carrancudo": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "cara carrancuda": { "replacement": "☹️", "description": "frowning face" },
+  "boca aberta": { "replacement": "😮", "description": "face with open mouth" },
+  "abafado": { "replacement": "😯", "description": "hushed face" },
+  "atônito": { "replacement": "😲", "description": "astonished face" },
+  "ruborizado": { "replacement": "😳", "description": "flushed face" },
+  "rosto suplicante": { "replacement": "🥺", "description": "pleading face" },
+  "carrancudo": {
+    "replacement": "😦",
+    "description": "frowning face with open mouth"
+  },
+  "angustiado": { "replacement": "😧", "description": "anguished face" },
+  "temeroso": { "replacement": "😨", "description": "fearful face" },
+  "suor frio": {
+    "replacement": "😰",
+    "description": "anxious face with sweat"
+  },
+  "desapontado aliviado": {
+    "replacement": "😥",
+    "description": "sad but relieved face"
+  },
+  "choro": { "replacement": "😢", "description": "crying face" },
+  "soluço": { "replacement": "😭", "description": "loudly crying face" },
+  "grito": { "replacement": "😱", "description": "face screaming in fear" },
+  "confundido": { "replacement": "😖", "description": "confounded face" },
+  "perseverar": { "replacement": "😣", "description": "persevering face" },
+  "desapontado": { "replacement": "😞", "description": "disappointed face" },
+  "suor": { "replacement": "😓", "description": "downcast face with sweat" },
+  "cansado": { "replacement": "😩", "description": "weary face" },
+  "cara cansada": { "replacement": "😫", "description": "tired face" },
+  "rosto bocejando": { "replacement": "🥱", "description": "yawning face" },
+  "triunfo": {
+    "replacement": "😤",
+    "description": "face with steam from nose"
+  },
+  "raiva": { "replacement": "💢", "description": "anger symbol" },
+  "Bravo": { "replacement": "😠", "description": "angry face" },
+  "cara amaldiçoada": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "diabinho sorridente": {
+    "replacement": "😈",
+    "description": "smiling face with horns"
+  },
+  "criança levada": {
+    "replacement": "👿",
+    "description": "angry face with horns"
+  },
+  "crânio": { "replacement": "💀", "description": "skull" },
+  "caveira e ossos cruzados": {
+    "replacement": "☠️",
+    "description": "skull and crossbones"
+  },
+  "Hankey": { "replacement": "💩", "description": "pile of poo" },
+  "cara de palhaço": { "replacement": "🤡", "description": "clown face" },
+  "ogro japonês": { "replacement": "👹", "description": "ogre" },
+  "goblin japonês": { "replacement": "👺", "description": "goblin" },
+  "fantasma": { "replacement": "👻", "description": "ghost" },
+  "estrangeiro": { "replacement": "👽", "description": "alien" },
+  "invasor espacial": { "replacement": "👾", "description": "alien monster" },
+  "robô": { "replacement": "🤖", "description": "robot" },
+  "gato sorridente": {
+    "replacement": "😼",
+    "description": "cat with wry smile"
+  },
+  "sorriso gato": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "gato da alegria": {
+    "replacement": "😹",
+    "description": "cat with tears of joy"
+  },
+  "coração olhos gato": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "beijando gato": { "replacement": "😽", "description": "kissing cat" },
+  "gato grito": { "replacement": "🙀", "description": "weary cat" },
+  "cara de gato chorando": { "replacement": "😿", "description": "crying cat" },
+  "gato fazendo beicinho": {
+    "replacement": "😾",
+    "description": "pouting cat"
+  },
+  "não veja nenhum mal": {
+    "replacement": "🙈",
+    "description": "see-no-evil monkey"
+  },
+  "não escute o mal": {
+    "replacement": "🙉",
+    "description": "hear-no-evil monkey"
+  },
+  "não fale mal": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "beijo": { "replacement": "💋", "description": "kiss mark" },
+  "carta de amor": { "replacement": "💌", "description": "love letter" },
+  "cupido": { "replacement": "💘", "description": "heart with arrow" },
+  "coração de presente": {
+    "replacement": "💝",
+    "description": "heart with ribbon"
+  },
+  "coração brilhante": {
+    "replacement": "💖",
+    "description": "sparkling heart"
+  },
+  "pulsação do coração": {
+    "replacement": "💗",
+    "description": "growing heart"
+  },
+  "batimento cardiaco": { "replacement": "💓", "description": "beating heart" },
+  "corações girando": {
+    "replacement": "💞",
+    "description": "revolving hearts"
+  },
+  "dois corações": { "replacement": "💕", "description": "two hearts" },
+  "decoração de coração": {
+    "replacement": "💟",
+    "description": "heart decoration"
+  },
+  "exclamação de coração pesado": {
+    "replacement": "❣️",
+    "description": "heart exclamation"
+  },
+  "coração partido": { "replacement": "💔", "description": "broken heart" },
+  "coração": { "replacement": "❤️", "description": "red heart" },
+  "coração laranja": { "replacement": "🧡", "description": "orange heart" },
+  "coração amarelo": { "replacement": "💛", "description": "yellow heart" },
+  "coração verde": { "replacement": "💚", "description": "green heart" },
+  "Coração azul": { "replacement": "💙", "description": "blue heart" },
+  "coração roxo": { "replacement": "💜", "description": "purple heart" },
+  "coração marrom": { "replacement": "🤎", "description": "brown heart" },
+  "coração preto": { "replacement": "🖤", "description": "black heart" },
+  "coração branco": { "replacement": "🤍", "description": "white heart" },
+  "estrondo": { "replacement": "💥", "description": "collision" },
+  "tonto": { "replacement": "💫", "description": "dizzy" },
+  "gotas de suor": { "replacement": "💦", "description": "sweat droplets" },
+  "traço": { "replacement": "💨", "description": "dashing away" },
+  "orifício": { "replacement": "🕳️", "description": "hole" },
+  "bombear": { "replacement": "💣", "description": "bomb" },
+  "balão de fala": { "replacement": "💬", "description": "speech balloon" },
+  "olho balão": { "replacement": "👁️‍🗨️", "description": "eye in speech bubble" },
+  "balão esquerdo": {
+    "replacement": "🗨️",
+    "description": "left speech bubble"
+  },
+  "bolha de raiva certa": {
+    "replacement": "🗯️",
+    "description": "right anger bubble"
+  },
+  "balão de pensamento": {
+    "replacement": "💭",
+    "description": "thought balloon"
+  },
+  "zzz": { "replacement": "💤", "description": "zzz" },
+  "onda": { "replacement": "👋", "description": "waving hand" },
+  "costas da mão levantadas": {
+    "replacement": "🤚",
+    "description": "raised back of hand"
+  },
+  "mão levantada com os dedos abertos": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "mão": { "replacement": "✋", "description": "raised hand" },
+  "saudação vulcana": { "replacement": "🖖", "description": "vulcan salute" },
+  "ok mão": { "replacement": "👌", "description": "OK hand" },
+  "dedos comprimidos": { "replacement": "🤌", "description": "pinched fingers" },
+  "apertando a mão": { "replacement": "🤏", "description": "pinching hand" },
+  "v": { "replacement": "✌️", "description": "victory hand" },
+  "dedos cruzados": { "replacement": "🤞", "description": "crossed fingers" },
+  "te amo gesto": { "replacement": "🤟", "description": "love-you gesture" },
+  "metal": { "replacement": "🤘", "description": "sign of the horns" },
+  "me chame de mão": { "replacement": "🤙", "description": "call me hand" },
+  "ponto esquerdo": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "apontar certo": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "apontar para cima 2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "dedo do meio": { "replacement": "🖕", "description": "middle finger" },
+  "apontar para baixo": {
+    "replacement": "👇",
+    "description": "backhand index pointing down"
+  },
+  "aponte para cima": {
+    "replacement": "☝️",
+    "description": "index pointing up"
+  },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "punho levantado": { "replacement": "✊", "description": "raised fist" },
+  "punho vindo": { "replacement": "👊", "description": "oncoming fist" },
+  "punho esquerdo": { "replacement": "🤛", "description": "left-facing fist" },
+  "punho direito": { "replacement": "🤜", "description": "right-facing fist" },
+  "aplaudir": { "replacement": "👏", "description": "clapping hands" },
+  "mãos levantadas": { "replacement": "🙌", "description": "raising hands" },
+  "mãos abertas": { "replacement": "👐", "description": "open hands" },
+  "palmas para cima": {
+    "replacement": "🤲",
+    "description": "palms up together"
+  },
+  "aperto de mão": { "replacement": "🤝", "description": "handshake" },
+  "orar": { "replacement": "🙏", "description": "folded hands" },
+  "mão escrita": { "replacement": "✍️", "description": "writing hand" },
+  "cuidado das unhas": { "replacement": "💅", "description": "nail polish" },
+  "selfie": { "replacement": "🤳", "description": "selfie" },
+  "músculo": { "replacement": "💪", "description": "flexed biceps" },
+  "braço mecânico": { "replacement": "🦾", "description": "mechanical arm" },
+  "perna mecânica": { "replacement": "🦿", "description": "mechanical leg" },
+  "perna": { "replacement": "🦵", "description": "leg" },
+  "pé": { "replacement": "🦶", "description": "foot" },
+  "orelha": { "replacement": "👂", "description": "ear" },
+  "ouvido com aparelho auditivo": {
+    "replacement": "🦻",
+    "description": "ear with hearing aid"
+  },
+  "nariz": { "replacement": "👃", "description": "nose" },
+  "cérebro": { "replacement": "🧠", "description": "brain" },
+  "coração anatômico": {
+    "replacement": "🫀",
+    "description": "anatomical heart"
+  },
+  "pulmões": { "replacement": "🫁", "description": "lungs" },
+  "dente": { "replacement": "🦷", "description": "tooth" },
+  "osso": { "replacement": "🦴", "description": "bone" },
+  "olhos": { "replacement": "👀", "description": "eyes" },
+  "olho": { "replacement": "👁️", "description": "eye" },
+  "língua": { "replacement": "👅", "description": "tongue" },
+  "lábios": { "replacement": "👄", "description": "mouth" },
+  "bebê": { "replacement": "👶", "description": "baby" },
+  "criança": { "replacement": "🧒", "description": "child" },
+  "Garoto": { "replacement": "👦", "description": "boy" },
+  "menina": { "replacement": "👧", "description": "girl" },
+  "adulto": { "replacement": "🧑", "description": "person" },
+  "pessoa de cabelo loiro": {
+    "replacement": "👱",
+    "description": "person: blond hair"
+  },
+  "homem": { "replacement": "👨", "description": "man" },
+  "pessoa barbada": { "replacement": "🧔", "description": "man: beard" },
+  "homem ruivo": { "replacement": "👨‍🦰", "description": "man: red hair" },
+  "homem de cabelo encaracolado": {
+    "replacement": "👨‍🦱",
+    "description": "man: curly hair"
+  },
+  "homem de cabelo branco": {
+    "replacement": "👨‍🦳",
+    "description": "man: white hair"
+  },
+  "homem careca": { "replacement": "👨‍🦲", "description": "man: bald" },
+  "mulher": { "replacement": "👩", "description": "woman" },
+  "mulher ruiva": { "replacement": "👩‍🦰", "description": "woman: red hair" },
+  "pessoa ruiva": { "replacement": "🧑‍🦰", "description": "person: red hair" },
+  "mulher de cabelo encaracolado": {
+    "replacement": "👩‍🦱",
+    "description": "woman: curly hair"
+  },
+  "pessoa cabelo encaracolado": {
+    "replacement": "🧑‍🦱",
+    "description": "person: curly hair"
+  },
+  "mulher de cabelo branco": {
+    "replacement": "👩‍🦳",
+    "description": "woman: white hair"
+  },
+  "pessoa cabelo branco": {
+    "replacement": "🧑‍🦳",
+    "description": "person: white hair"
+  },
+  "Mulher calva": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "pessoa careca": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "mulher loira": { "replacement": "👱‍♀️", "description": "woman: blond hair" },
+  "homem de cabelo loiro": {
+    "replacement": "👱‍♂️",
+    "description": "man: blond hair"
+  },
+  "adulto mais velho": { "replacement": "🧓", "description": "older person" },
+  "homem mais velho": { "replacement": "👴", "description": "old man" },
+  "mulher mais velha": { "replacement": "👵", "description": "old woman" },
+  "pessoa carrancuda": {
+    "replacement": "🙍",
+    "description": "person frowning"
+  },
+  "homem carrancudo": { "replacement": "🙍‍♂️", "description": "man frowning" },
+  "mulher carrancuda": { "replacement": "🙍‍♀️", "description": "woman frowning" },
+  "cara de beicinho": { "replacement": "🙎", "description": "person pouting" },
+  "homem fazendo beicinho": {
+    "replacement": "🙎‍♂️",
+    "description": "man pouting"
+  },
+  "mulher fazendo beicinho": {
+    "replacement": "🙎‍♀️",
+    "description": "woman pouting"
+  },
+  "nada de bom": { "replacement": "🙅", "description": "person gesturing NO" },
+  "nenhum bom homem": {
+    "replacement": "🙅‍♂️",
+    "description": "man gesturing NO"
+  },
+  "nenhuma boa mulher": {
+    "replacement": "🙅‍♀️",
+    "description": "woman gesturing NO"
+  },
+  "ok pessoa": { "replacement": "🙆", "description": "person gesturing OK" },
+  "Tudo bem cara": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "ok mulher": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "derrubando mão de pessoa": {
+    "replacement": "💁",
+    "description": "person tipping hand"
+  },
+  "derrubando homem": {
+    "replacement": "💁‍♂️",
+    "description": "man tipping hand"
+  },
+  "mulher dando gorjeta": {
+    "replacement": "💁‍♀️",
+    "description": "woman tipping hand"
+  },
+  "levantando a mão": {
+    "replacement": "🙋",
+    "description": "person raising hand"
+  },
+  "levantando mão homem": {
+    "replacement": "🙋‍♂️",
+    "description": "man raising hand"
+  },
+  "levantando mão mulher": {
+    "replacement": "🙋‍♀️",
+    "description": "woman raising hand"
+  },
+  "pessoa surda": { "replacement": "🧏", "description": "deaf person" },
+  "homem surdo": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "mulher surda": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "arco": { "replacement": "🙇", "description": "person bowing" },
+  "homem curvando-se": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "mulher curvando-se": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "facepalm": { "replacement": "🤦", "description": "person facepalming" },
+  "cara de cara": { "replacement": "🤦‍♂️", "description": "man facepalming" },
+  "mulher cara a cara": {
+    "replacement": "🤦‍♀️",
+    "description": "woman facepalming"
+  },
+  "dar de ombros": { "replacement": "🤷", "description": "person shrugging" },
+  "homem encolhendo os ombros": {
+    "replacement": "🤷‍♂️",
+    "description": "man shrugging"
+  },
+  "mulher encolhendo os ombros": {
+    "replacement": "🤷‍♀️",
+    "description": "woman shrugging"
+  },
+  "profissional de saúde": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "trabalhador de saúde homem": {
+    "replacement": "👨‍⚕️",
+    "description": "man health worker"
+  },
+  "aluna": { "replacement": "🧑‍🎓", "description": "student" },
+  "estudante homem": { "replacement": "👨‍🎓", "description": "man student" },
+  "estudante mulher": { "replacement": "👩‍🎓", "description": "woman student" },
+  "professor": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "homem professor": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "professora": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "juiz": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "juiz homem": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "mulher juíza": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "agricultor": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "homem fazendeiro": { "replacement": "👨‍🌾", "description": "man farmer" },
+  "mulher agricultora": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "cozinhar": { "replacement": "🧑‍🍳", "description": "cook" },
+  "homem cozinheiro": { "replacement": "👨‍🍳", "description": "man cook" },
+  "mulher cozinheira": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "mecânico": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "homem mecânico": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "mulher mecânica": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "Operário": { "replacement": "🧑‍🏭", "description": "factory worker" },
+  "operário de fábrica": {
+    "replacement": "👨‍🏭",
+    "description": "man factory worker"
+  },
+  "operária de fábrica": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "trabalhador de escritório": {
+    "replacement": "👨‍💼",
+    "description": "man office worker"
+  },
+  "mulher trabalhadora de escritório": {
+    "replacement": "👩‍💼",
+    "description": "woman office worker"
+  },
+  "cientista": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "homem cientista": { "replacement": "👨‍🔬", "description": "man scientist" },
+  "mulher cientista": { "replacement": "👩‍🔬", "description": "woman scientist" },
+  "tecnólogo": { "replacement": "🧑‍💻", "description": "technologist" },
+  "homem tecnólogo": { "replacement": "👨‍💻", "description": "man technologist" },
+  "mulher tecnóloga": {
+    "replacement": "👩‍💻",
+    "description": "woman technologist"
+  },
+  "cantor": { "replacement": "🧑‍🎤", "description": "singer" },
+  "cantor homem": { "replacement": "👨‍🎤", "description": "man singer" },
+  "cantora": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "artista": { "replacement": "🧑‍🎨", "description": "artist" },
+  "homem artista": { "replacement": "👨‍🎨", "description": "man artist" },
+  "mulher artista": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "piloto": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "piloto homem": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "piloto mulher": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "astronauta": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "homem astronauta": { "replacement": "👨‍🚀", "description": "man astronaut" },
+  "mulher astronauta": {
+    "replacement": "👩‍🚀",
+    "description": "woman astronaut"
+  },
+  "bombeiro": { "replacement": "🧑‍🚒", "description": "firefighter" },
+  "bombeiro homem": { "replacement": "👨‍🚒", "description": "man firefighter" },
+  "bombeiro mulher": {
+    "replacement": "👩‍🚒",
+    "description": "woman firefighter"
+  },
+  "policial": { "replacement": "👮‍♀️", "description": "woman police officer" },
+  "detetive": { "replacement": "🕵️‍♀️", "description": "woman detective" },
+  "detetive masculino": { "replacement": "🕵️‍♂️", "description": "man detective" },
+  "guarda": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "ninja": { "replacement": "🥷", "description": "ninja" },
+  "trabalhador da construção": {
+    "replacement": "👷",
+    "description": "construction worker"
+  },
+  "homem trabalhador da construção": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "mulher trabalhadora da construção": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "Principe": { "replacement": "🤴", "description": "prince" },
+  "Princesa": { "replacement": "👸", "description": "princess" },
+  "pessoa com turbante": {
+    "replacement": "👳",
+    "description": "person wearing turban"
+  },
+  "homem com turbante": {
+    "replacement": "👳‍♂️",
+    "description": "man wearing turban"
+  },
+  "mulher com turbante": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "homem com gua pi mao": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "mulher com lenço na cabeça": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "pessoa de smoking": {
+    "replacement": "🤵",
+    "description": "person in tuxedo"
+  },
+  "homem de smoking": {
+    "replacement": "🤵‍♂️",
+    "description": "man in tuxedo"
+  },
+  "mulher de smoking": {
+    "replacement": "🤵‍♀️",
+    "description": "woman in tuxedo"
+  },
+  "pessoa com véu": { "replacement": "👰", "description": "person with veil" },
+  "homem com véu": { "replacement": "👰‍♂️", "description": "man with veil" },
+  "mulher com véu": {
+    "replacement": "👰‍♀️",
+    "description": "woman with veil"
+  },
+  "mulher grávida": { "replacement": "🤰", "description": "pregnant woman" },
+  "amamentação": { "replacement": "🤱", "description": "breast-feeding" },
+  "mulher alimentando bebê": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "homem alimentando bebê": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "pessoa alimentando bebê": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "anjo": { "replacement": "👼", "description": "baby angel" },
+  "papai noel": { "replacement": "🎅", "description": "Santa Claus" },
+  "sra. claus": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "mx claus": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "Super heroi": { "replacement": "🦸", "description": "superhero" },
+  "homem super-herói": { "replacement": "🦸‍♂️", "description": "man superhero" },
+  "mulher super-heroína": {
+    "replacement": "🦸‍♀️",
+    "description": "woman superhero"
+  },
+  "Super-vilão": { "replacement": "🦹", "description": "supervillain" },
+  "homem supervilão": {
+    "replacement": "🦹‍♂️",
+    "description": "man supervillain"
+  },
+  "mulher supervilã": {
+    "replacement": "🦹‍♀️",
+    "description": "woman supervillain"
+  },
+  "mago": { "replacement": "🧙", "description": "mage" },
+  "homem mago": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "mulher maga": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "fada": { "replacement": "🧚", "description": "fairy" },
+  "homem fada": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "mulher fada": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "vampiro": { "replacement": "🧛", "description": "vampire" },
+  "homem vampiro": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "mulher vampira": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "Merperson": { "replacement": "🧜", "description": "merperson" },
+  "tritão": { "replacement": "🧜‍♂️", "description": "merman" },
+  "sereia": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "duende": { "replacement": "🧝", "description": "elf" },
+  "homem elfo": { "replacement": "🧝‍♂️", "description": "man elf" },
+  "mulher elfa": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "gênio": { "replacement": "🧞", "description": "genie" },
+  "homem gênio": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "mulher gênio": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "zumbi": { "replacement": "🧟", "description": "zombie" },
+  "homem zumbi": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "mulher zumbi": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "massagem": { "replacement": "💆", "description": "person getting massage" },
+  "massagista": { "replacement": "💆‍♂️", "description": "man getting massage" },
+  "mulher de massagem": {
+    "replacement": "💆‍♀️",
+    "description": "woman getting massage"
+  },
+  "corte de cabelo": {
+    "replacement": "💇",
+    "description": "person getting haircut"
+  },
+  "homem de corte de cabelo": {
+    "replacement": "💇‍♂️",
+    "description": "man getting haircut"
+  },
+  "mulher corte de cabelo": {
+    "replacement": "💇‍♀️",
+    "description": "woman getting haircut"
+  },
+  "caminhando": { "replacement": "🚶", "description": "person walking" },
+  "homem caminhando": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "mulher caminhando": { "replacement": "🚶‍♀️", "description": "woman walking" },
+  "pessoa em pé": { "replacement": "🧍", "description": "person standing" },
+  "homem de pé": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "mulher em pé": { "replacement": "🧍‍♀️", "description": "woman standing" },
+  "pessoa ajoelhada": { "replacement": "🧎", "description": "person kneeling" },
+  "homem ajoelhado": { "replacement": "🧎‍♂️", "description": "man kneeling" },
+  "mulher ajoelhada": {
+    "replacement": "🧎‍♀️",
+    "description": "woman kneeling"
+  },
+  "pessoa com bengala de sondagem": {
+    "replacement": "🧑‍🦯",
+    "description": "person with white cane"
+  },
+  "homem com cana de sondagem": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "mulher com cana de sondagem": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "pessoa em cadeira de rodas motorizada": {
+    "replacement": "🧑‍🦼",
+    "description": "person in motorized wheelchair"
+  },
+  "homem em cadeira de rodas motorizada": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "mulher em cadeira de rodas motorizada": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "pessoa em cadeira de rodas manual": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "homem em cadeira de rodas manual": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "mulher em cadeira de rodas manual": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "corredor": { "replacement": "🏃‍♂️", "description": "man running" },
+  "mulher correndo": { "replacement": "🏃‍♀️", "description": "woman running" },
+  "mulher dançando": { "replacement": "💃", "description": "woman dancing" },
+  "homem dançando": { "replacement": "🕺", "description": "man dancing" },
+  "terno levitando": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "dançarinos": {
+    "replacement": "👯",
+    "description": "people with bunny ears"
+  },
+  "homens dançando": {
+    "replacement": "👯‍♂️",
+    "description": "men with bunny ears"
+  },
+  "mulheres dançando": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "sauna pessoa": {
+    "replacement": "🧖",
+    "description": "person in steamy room"
+  },
+  "homem da sauna": {
+    "replacement": "🧖‍♂️",
+    "description": "man in steamy room"
+  },
+  "mulher sauna": {
+    "replacement": "🧖‍♀️",
+    "description": "woman in steamy room"
+  },
+  "escalada": { "replacement": "🧗", "description": "person climbing" },
+  "homem escalando": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "mulher escalando": { "replacement": "🧗‍♀️", "description": "woman climbing" },
+  "Esgrima de pessoa": { "replacement": "🤺", "description": "person fencing" },
+  "corrida de cavalo": { "replacement": "🏇", "description": "horse racing" },
+  "esquiador": { "replacement": "⛷️", "description": "skier" },
+  "snowboarder": { "replacement": "🏂", "description": "snowboarder" },
+  "golfe": { "replacement": "⛳", "description": "flag in hole" },
+  "homem de golfe": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "mulher que joga golfe": {
+    "replacement": "🏌️‍♀️",
+    "description": "woman golfing"
+  },
+  "surfista": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "mulher surfista": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "barco a remo": { "replacement": "🚣", "description": "person rowing boat" },
+  "remador": { "replacement": "🚣‍♂️", "description": "man rowing boat" },
+  "mulher remando": { "replacement": "🚣‍♀️", "description": "woman rowing boat" },
+  "nadador": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "nadadora": { "replacement": "🏊‍♀️", "description": "woman swimming" },
+  "bola quicando": {
+    "replacement": "⛹️",
+    "description": "person bouncing ball"
+  },
+  "homem bola quicando": {
+    "replacement": "⛹️‍♂️",
+    "description": "man bouncing ball"
+  },
+  "mulher bola quicando": {
+    "replacement": "⛹️‍♀️",
+    "description": "woman bouncing ball"
+  },
+  "levantamento de peso": {
+    "replacement": "🏋️",
+    "description": "person lifting weights"
+  },
+  "homem levantando peso": {
+    "replacement": "🏋️‍♂️",
+    "description": "man lifting weights"
+  },
+  "mulher levantando peso": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "ciclista": { "replacement": "🚴", "description": "person biking" },
+  "homem de bicicleta": { "replacement": "🚴‍♂️", "description": "man biking" },
+  "mulher de bicicleta": { "replacement": "🚴‍♀️", "description": "woman biking" },
+  "ciclista de montanha": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "homem de mountain bike": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "mulher que faz mountain bike": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "fazendo piruetas": {
+    "replacement": "🤸",
+    "description": "person cartwheeling"
+  },
+  "homem fazendo piruetas": {
+    "replacement": "🤸‍♂️",
+    "description": "man cartwheeling"
+  },
+  "mulher dando cambalhotas": {
+    "replacement": "🤸‍♀️",
+    "description": "woman cartwheeling"
+  },
+  "luta livre": { "replacement": "🤼", "description": "people wrestling" },
+  "homens lutando": { "replacement": "🤼‍♂️", "description": "men wrestling" },
+  "mulheres lutando": { "replacement": "🤼‍♀️", "description": "women wrestling" },
+  "pólo aquático": {
+    "replacement": "🤽",
+    "description": "person playing water polo"
+  },
+  "homem jogando pólo aquático": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "mulher jogando pólo aquático": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "pessoa de handebol": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "homem jogando handebol": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "mulher jogando handebol": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "malabarista": { "replacement": "🤹", "description": "person juggling" },
+  "homem fazendo malabarismo": {
+    "replacement": "🤹‍♂️",
+    "description": "man juggling"
+  },
+  "mulher fazendo malabarismo": {
+    "replacement": "🤹‍♀️",
+    "description": "woman juggling"
+  },
+  "posição de lótus": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "posição de lótus homem": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "mulher em posição de lótus": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "banho": { "replacement": "🛀", "description": "person taking bath" },
+  "Cama de dormir": { "replacement": "🛌", "description": "person in bed" },
+  "pessoas de mãos dadas": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "duas mulheres de mãos dadas": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "casal": {
+    "replacement": "👫",
+    "description": "woman and man holding hands"
+  },
+  "dois homens de mãos dadas": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "beijinho": { "replacement": "💏", "description": "kiss" },
+  "casal beijo homem mulher": {
+    "replacement": "👩‍❤️‍💋‍👨",
+    "description": "kiss: woman, man"
+  },
+  "casal beijo homem homem": {
+    "replacement": "👨‍❤️‍💋‍👨",
+    "description": "kiss: man, man"
+  },
+  "mulher casal beijo mulher": {
+    "replacement": "👩‍❤️‍💋‍👩",
+    "description": "kiss: woman, woman"
+  },
+  "casal com coração": {
+    "replacement": "💑",
+    "description": "couple with heart"
+  },
+  "casal com coração mulher homem": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "casal com coração homem homem": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "casal com coração mulher mulher": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "família": { "replacement": "👪", "description": "family" },
+  "homem de família mulher menino": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "homem de família mulher menina": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "homem de família mulher menina menino": {
+    "replacement": "👨‍👩‍👧‍👦",
+    "description": "family: man, woman, girl, boy"
+  },
+  "homem de família mulher menino menino": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "homem de família homem menino": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "homem de família homem garota": {
+    "replacement": "👨‍👨‍👧",
+    "description": "family: man, man, girl"
+  },
+  "homem de família homem menina menino": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "homem de família homem menino menino": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "homem de família homem menina": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "família mulher mulher menino": {
+    "replacement": "👩‍👩‍👦",
+    "description": "family: woman, woman, boy"
+  },
+  "família mulher mulher menina": {
+    "replacement": "👩‍👩‍👧",
+    "description": "family: woman, woman, girl"
+  },
+  "família mulher mulher menina menino": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "família mulher mulher menino menino": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "família mulher mulher menina menina": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "menino de família": {
+    "replacement": "👩‍👦",
+    "description": "family: woman, boy"
+  },
+  "homem de família menino menino": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "menina homem de família": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "homem de família menina menino": {
+    "replacement": "👨‍👧‍👦",
+    "description": "family: man, girl, boy"
+  },
+  "família mulher menino menino": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "menina mulher de família": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "família mulher menina menino": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "cabeça falando": { "replacement": "🗣️", "description": "speaking head" },
+  "busto em silhueta": {
+    "replacement": "👤",
+    "description": "bust in silhouette"
+  },
+  "bustos em silhueta": {
+    "replacement": "👥",
+    "description": "busts in silhouette"
+  },
+  "pessoas se abraçando": {
+    "replacement": "🫂",
+    "description": "people hugging"
+  },
+  "pegadas": { "replacement": "👣", "description": "footprints" },
+  "cara de macaco": { "replacement": "🐵", "description": "monkey face" },
+  "macaco": { "replacement": "🐒", "description": "monkey" },
+  "gorila": { "replacement": "🦍", "description": "gorilla" },
+  "orangotango": { "replacement": "🦧", "description": "orangutan" },
+  "cachorro": { "replacement": "🐶", "description": "dog face" },
+  "dog2": { "replacement": "🐕", "description": "dog" },
+  "cão guia": { "replacement": "🦮", "description": "guide dog" },
+  "cão de serviço": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "poodle": { "replacement": "🐩", "description": "poodle" },
+  "Lobo": { "replacement": "🐺", "description": "wolf" },
+  "cara de raposa": { "replacement": "🦊", "description": "fox" },
+  "guaxinim": { "replacement": "🦝", "description": "raccoon" },
+  "gato": { "replacement": "🐱", "description": "cat face" },
+  "cat2": { "replacement": "🐈", "description": "cat" },
+  "gato preto": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "leão": { "replacement": "🦁", "description": "lion" },
+  "tigre": { "replacement": "🐯", "description": "tiger face" },
+  "tigre2": { "replacement": "🐅", "description": "tiger" },
+  "leopardo": { "replacement": "🐆", "description": "leopard" },
+  "cavalo": { "replacement": "🐴", "description": "horse face" },
+  "cavalo de corrida": { "replacement": "🐎", "description": "horse" },
+  "unicórnio": { "replacement": "🦄", "description": "unicorn" },
+  "zebra": { "replacement": "🦓", "description": "zebra" },
+  "veado": { "replacement": "🦌", "description": "deer" },
+  "búfalo": { "replacement": "🦬", "description": "bison" },
+  "vaca": { "replacement": "🐮", "description": "cow face" },
+  "boi": { "replacement": "🐂", "description": "ox" },
+  "búfalo Marinho": { "replacement": "🐃", "description": "water buffalo" },
+  "vaca 2": { "replacement": "🐄", "description": "cow" },
+  "porco": { "replacement": "🐷", "description": "pig face" },
+  "pig2": { "replacement": "🐖", "description": "pig" },
+  "javali": { "replacement": "🐗", "description": "boar" },
+  "nariz de porco": { "replacement": "🐽", "description": "pig nose" },
+  "RAM": { "replacement": "🐏", "description": "ram" },
+  "ovelha": { "replacement": "🐑", "description": "ewe" },
+  "bode": { "replacement": "🐐", "description": "goat" },
+  "camelo dromedário": { "replacement": "🐪", "description": "camel" },
+  "camelo": { "replacement": "🐫", "description": "two-hump camel" },
+  "lhama": { "replacement": "🦙", "description": "llama" },
+  "girafa": { "replacement": "🦒", "description": "giraffe" },
+  "elefante": { "replacement": "🐘", "description": "elephant" },
+  "mamute": { "replacement": "🦣", "description": "mammoth" },
+  "rinoceronte": { "replacement": "🦏", "description": "rhinoceros" },
+  "hipopótamo": { "replacement": "🦛", "description": "hippopotamus" },
+  "rato": { "replacement": "🐀", "description": "rat" },
+  "mouse2": { "replacement": "🐁", "description": "mouse" },
+  "hamster": { "replacement": "🐹", "description": "hamster" },
+  "Coelho": { "replacement": "🐰", "description": "rabbit face" },
+  "coelho2": { "replacement": "🐇", "description": "rabbit" },
+  "Esquilo": { "replacement": "🐿️", "description": "chipmunk" },
+  "Castor": { "replacement": "🦫", "description": "beaver" },
+  "ouriço": { "replacement": "🦔", "description": "hedgehog" },
+  "bastão": { "replacement": "🦇", "description": "bat" },
+  "Urso": { "replacement": "🐻", "description": "bear" },
+  "Urso polar": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "coala": { "replacement": "🐨", "description": "koala" },
+  "cara de panda": { "replacement": "🐼", "description": "panda" },
+  "bicho-preguiça": { "replacement": "🦥", "description": "sloth" },
+  "lontra": { "replacement": "🦦", "description": "otter" },
+  "Skunk": { "replacement": "🦨", "description": "skunk" },
+  "canguru": { "replacement": "🦘", "description": "kangaroo" },
+  "texugo": { "replacement": "🦡", "description": "badger" },
+  "pés": { "replacement": "🐾", "description": "paw prints" },
+  "Peru": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "frango": { "replacement": "🐔", "description": "chicken" },
+  "galo": { "replacement": "🐓", "description": "rooster" },
+  "pintinho incubado": { "replacement": "🐣", "description": "hatching chick" },
+  "pintinho": { "replacement": "🐤", "description": "baby chick" },
+  "pintinho chocado": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "pássaro": { "replacement": "🐦", "description": "bird" },
+  "pinguim": { "replacement": "🐧", "description": "penguin" },
+  "pomba": { "replacement": "🕊️", "description": "dove" },
+  "Águia": { "replacement": "🦅", "description": "eagle" },
+  "Pato": { "replacement": "🦆", "description": "duck" },
+  "cisne": { "replacement": "🦢", "description": "swan" },
+  "coruja": { "replacement": "🦉", "description": "owl" },
+  "dodo": { "replacement": "🦤", "description": "dodo" },
+  "pluma": { "replacement": "🪶", "description": "feather" },
+  "flamingo": { "replacement": "🦩", "description": "flamingo" },
+  "pavão": { "replacement": "🦚", "description": "peacock" },
+  "papagaio": { "replacement": "🦜", "description": "parrot" },
+  "rã": { "replacement": "🐸", "description": "frog" },
+  "crocodilo": { "replacement": "🐊", "description": "crocodile" },
+  "tartaruga": { "replacement": "🐢", "description": "turtle" },
+  "lagarto": { "replacement": "🦎", "description": "lizard" },
+  "serpente": { "replacement": "🐍", "description": "snake" },
+  "cara de dragão": { "replacement": "🐲", "description": "dragon face" },
+  "Dragão": { "replacement": "🐉", "description": "dragon" },
+  "saurópode": { "replacement": "🦕", "description": "sauropod" },
+  "t-rex": { "replacement": "🦖", "description": "T-Rex" },
+  "baleia": { "replacement": "🐳", "description": "spouting whale" },
+  "whale2": { "replacement": "🐋", "description": "whale" },
+  "golfinho": { "replacement": "🐬", "description": "dolphin" },
+  "foca": { "replacement": "🦭", "description": "seal" },
+  "peixe": { "replacement": "🐟", "description": "fish" },
+  "peixe tropical": { "replacement": "🐠", "description": "tropical fish" },
+  "baiacu": { "replacement": "🐡", "description": "blowfish" },
+  "Tubarão": { "replacement": "🦈", "description": "shark" },
+  "polvo": { "replacement": "🐙", "description": "octopus" },
+  "Concha": { "replacement": "🐚", "description": "spiral shell" },
+  "Caracol": { "replacement": "🐌", "description": "snail" },
+  "borboleta": { "replacement": "🦋", "description": "butterfly" },
+  "erro": { "replacement": "🐛", "description": "bug" },
+  "formiga": { "replacement": "🐜", "description": "ant" },
+  "abelha": { "replacement": "🐝", "description": "honeybee" },
+  "besouro": { "replacement": "🪲", "description": "beetle" },
+  "joaninha": { "replacement": "🐞", "description": "lady beetle" },
+  "Grilo": { "replacement": "🦗", "description": "cricket" },
+  "barata": { "replacement": "🪳", "description": "cockroach" },
+  "aranha": { "replacement": "🕷️", "description": "spider" },
+  "teia de aranha": { "replacement": "🕸️", "description": "spider web" },
+  "escorpião": { "replacement": "🦂", "description": "scorpion" },
+  "mosquito": { "replacement": "🦟", "description": "mosquito" },
+  "mosca": { "replacement": "🪰", "description": "fly" },
+  "Minhoca": { "replacement": "🪱", "description": "worm" },
+  "micróbio": { "replacement": "🦠", "description": "microbe" },
+  "ramalhete": { "replacement": "💐", "description": "bouquet" },
+  "Flor de cerejeira": { "replacement": "🌸", "description": "cherry blossom" },
+  "Flor branca": { "replacement": "💮", "description": "white flower" },
+  "roseta": { "replacement": "🏵️", "description": "rosette" },
+  "rosa": { "replacement": "🌹", "description": "rose" },
+  "flor murcha": { "replacement": "🥀", "description": "wilted flower" },
+  "hibisco": { "replacement": "🌺", "description": "hibiscus" },
+  "girassol": { "replacement": "🌻", "description": "sunflower" },
+  "Flor": { "replacement": "🌼", "description": "blossom" },
+  "tulipa": { "replacement": "🌷", "description": "tulip" },
+  "plantinha": { "replacement": "🌱", "description": "seedling" },
+  "vaso de planta": { "replacement": "🪴", "description": "potted plant" },
+  "árvore perene": { "replacement": "🌲", "description": "evergreen tree" },
+  "árvore de folhas secas": {
+    "replacement": "🌳",
+    "description": "deciduous tree"
+  },
+  "Palmeira": { "replacement": "🌴", "description": "palm tree" },
+  "cacto": { "replacement": "🌵", "description": "cactus" },
+  "espiga de arroz": { "replacement": "🌾", "description": "sheaf of rice" },
+  "erva": { "replacement": "🌿", "description": "herb" },
+  "trevo": { "replacement": "☘️", "description": "shamrock" },
+  "trevo-de-quatro-folhas": {
+    "replacement": "🍀",
+    "description": "four leaf clover"
+  },
+  "folha de Carvalho": { "replacement": "🍁", "description": "maple leaf" },
+  "folha caída": { "replacement": "🍂", "description": "fallen leaf" },
+  "folhas": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "uvas": { "replacement": "🍇", "description": "grapes" },
+  "Melão": { "replacement": "🍈", "description": "melon" },
+  "Melancia": { "replacement": "🍉", "description": "watermelon" },
+  "tangerina": { "replacement": "🍊", "description": "tangerine" },
+  "limão": { "replacement": "🍋", "description": "lemon" },
+  "banana": { "replacement": "🍌", "description": "banana" },
+  "abacaxi": { "replacement": "🍍", "description": "pineapple" },
+  "manga": { "replacement": "🥭", "description": "mango" },
+  "maçã": { "replacement": "🍎", "description": "red apple" },
+  "maçã verde": { "replacement": "🍏", "description": "green apple" },
+  "pera": { "replacement": "🍐", "description": "pear" },
+  "pêssego": { "replacement": "🍑", "description": "peach" },
+  "cerejas": { "replacement": "🍒", "description": "cherries" },
+  "morango": { "replacement": "🍓", "description": "strawberry" },
+  "amoras": { "replacement": "🫐", "description": "blueberries" },
+  "kiwi": { "replacement": "🥝", "description": "kiwi fruit" },
+  "tomate": { "replacement": "🍅", "description": "tomato" },
+  "Oliva": { "replacement": "🫒", "description": "olive" },
+  "coco": { "replacement": "🥥", "description": "coconut" },
+  "abacate": { "replacement": "🥑", "description": "avocado" },
+  "Berinjela": { "replacement": "🍆", "description": "eggplant" },
+  "batata": { "replacement": "🥔", "description": "potato" },
+  "cenoura": { "replacement": "🥕", "description": "carrot" },
+  "milho": { "replacement": "🌽", "description": "ear of corn" },
+  "pimenta quente": { "replacement": "🌶️", "description": "hot pepper" },
+  "Pimentão": { "replacement": "🫑", "description": "bell pepper" },
+  "pepino": { "replacement": "🥒", "description": "cucumber" },
+  "verde folhoso": { "replacement": "🥬", "description": "leafy green" },
+  "brócolis": { "replacement": "🥦", "description": "broccoli" },
+  "alho": { "replacement": "🧄", "description": "garlic" },
+  "cebola": { "replacement": "🧅", "description": "onion" },
+  "cogumelo": { "replacement": "🍄", "description": "mushroom" },
+  "amendoim": { "replacement": "🥜", "description": "peanuts" },
+  "castanha": { "replacement": "🌰", "description": "chestnut" },
+  "pão": { "replacement": "🍞", "description": "bread" },
+  "croissant": { "replacement": "🥐", "description": "croissant" },
+  "pão baguete": { "replacement": "🥖", "description": "baguette bread" },
+  "pão achatado": { "replacement": "🫓", "description": "flatbread" },
+  "pretzel": { "replacement": "🥨", "description": "pretzel" },
+  "bagel": { "replacement": "🥯", "description": "bagel" },
+  "panquecas": { "replacement": "🥞", "description": "pancakes" },
+  "waffle": { "replacement": "🧇", "description": "waffle" },
+  "queijo": { "replacement": "🧀", "description": "cheese wedge" },
+  "carne com osso": { "replacement": "🍖", "description": "meat on bone" },
+  "perna de frango": { "replacement": "🍗", "description": "poultry leg" },
+  "corte de carne": { "replacement": "🥩", "description": "cut of meat" },
+  "bacon": { "replacement": "🥓", "description": "bacon" },
+  "Hamburger": { "replacement": "🍔", "description": "hamburger" },
+  "fritas": { "replacement": "🍟", "description": "french fries" },
+  "pizza": { "replacement": "🍕", "description": "pizza" },
+  "cachorro quente": { "replacement": "🌭", "description": "hot dog" },
+  "sanduíche": { "replacement": "🥪", "description": "sandwich" },
+  "taco": { "replacement": "🌮", "description": "taco" },
+  "burrito": { "replacement": "🌯", "description": "burrito" },
+  "tamale": { "replacement": "🫔", "description": "tamale" },
+  "pão achatado recheado": {
+    "replacement": "🥙",
+    "description": "stuffed flatbread"
+  },
+  "falafel": { "replacement": "🧆", "description": "falafel" },
+  "ovo": { "replacement": "🥚", "description": "egg" },
+  "ovo frito": { "replacement": "🍳", "description": "cooking" },
+  "panela rasa de comida": {
+    "replacement": "🥘",
+    "description": "shallow pan of food"
+  },
+  "ensopado": { "replacement": "🍲", "description": "pot of food" },
+  "fondue": { "replacement": "🫕", "description": "fondue" },
+  "tigela com colher": {
+    "replacement": "🥣",
+    "description": "bowl with spoon"
+  },
+  "salada verde": { "replacement": "🥗", "description": "green salad" },
+  "Pipoca": { "replacement": "🍿", "description": "popcorn" },
+  "manteiga": { "replacement": "🧈", "description": "butter" },
+  "sal": { "replacement": "🧂", "description": "salt" },
+  "comida enlatada": { "replacement": "🥫", "description": "canned food" },
+  "bento": { "replacement": "🍱", "description": "bento box" },
+  "biscoito de arroz": { "replacement": "🍘", "description": "rice cracker" },
+  "bola de arroz": { "replacement": "🍙", "description": "rice ball" },
+  "arroz": { "replacement": "🍚", "description": "cooked rice" },
+  "Curry": { "replacement": "🍛", "description": "curry rice" },
+  "ramen": { "replacement": "🍜", "description": "steaming bowl" },
+  "espaguete": { "replacement": "🍝", "description": "spaghetti" },
+  "batata doce": { "replacement": "🍠", "description": "roasted sweet potato" },
+  "Oden": { "replacement": "🍢", "description": "oden" },
+  "Sushi": { "replacement": "🍣", "description": "sushi" },
+  "camarão frito": { "replacement": "🍤", "description": "fried shrimp" },
+  "bolo de peixe": {
+    "replacement": "🍥",
+    "description": "fish cake with swirl"
+  },
+  "bolo da lua": { "replacement": "🥮", "description": "moon cake" },
+  "dango": { "replacement": "🍡", "description": "dango" },
+  "bolinho de massa": { "replacement": "🥟", "description": "dumpling" },
+  "biscoito da sorte": { "replacement": "🥠", "description": "fortune cookie" },
+  "caixa de comida": { "replacement": "🥡", "description": "takeout box" },
+  "caranguejo": { "replacement": "🦀", "description": "crab" },
+  "lagosta": { "replacement": "🦞", "description": "lobster" },
+  "camarão": { "replacement": "🦐", "description": "shrimp" },
+  "Lula": { "replacement": "🦑", "description": "squid" },
+  "ostra": { "replacement": "🦪", "description": "oyster" },
+  "sorvete": { "replacement": "🍨", "description": "ice cream" },
+  "gelo raspado": { "replacement": "🍧", "description": "shaved ice" },
+  "rosquinha": { "replacement": "🍩", "description": "doughnut" },
+  "biscoito": { "replacement": "🍪", "description": "cookie" },
+  "aniversário": { "replacement": "🎂", "description": "birthday cake" },
+  "bolo": { "replacement": "🍰", "description": "shortcake" },
+  "Bolinho": { "replacement": "🧁", "description": "cupcake" },
+  "torta": { "replacement": "🥧", "description": "pie" },
+  "Barra de chocolate": { "replacement": "🍫", "description": "chocolate bar" },
+  "doce": { "replacement": "🍬", "description": "candy" },
+  "pirulito": { "replacement": "🍭", "description": "lollipop" },
+  "creme": { "replacement": "🍮", "description": "custard" },
+  "pote de mel": { "replacement": "🍯", "description": "honey pot" },
+  "Mamadeira": { "replacement": "🍼", "description": "baby bottle" },
+  "copo de leite": { "replacement": "🥛", "description": "glass of milk" },
+  "café": { "replacement": "☕", "description": "hot beverage" },
+  "bule de chá": { "replacement": "🫖", "description": "teapot" },
+  "chá": { "replacement": "🍵", "description": "teacup without handle" },
+  "causa": { "replacement": "🍶", "description": "sake" },
+  "champanhe": {
+    "replacement": "🍾",
+    "description": "bottle with popping cork"
+  },
+  "copo de vinho": { "replacement": "🍷", "description": "wine glass" },
+  "coquetel": { "replacement": "🍸", "description": "cocktail glass" },
+  "bebida tropical": { "replacement": "🍹", "description": "tropical drink" },
+  "Cerveja": { "replacement": "🍺", "description": "beer mug" },
+  "cervejas": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "copos tilintando": {
+    "replacement": "🥂",
+    "description": "clinking glasses"
+  },
+  "copo de vidro": { "replacement": "🥃", "description": "tumbler glass" },
+  "copo com canudo": { "replacement": "🥤", "description": "cup with straw" },
+  "chá de bolhas": { "replacement": "🧋", "description": "bubble tea" },
+  "caixa de bebida": { "replacement": "🧃", "description": "beverage box" },
+  "companheiro": { "replacement": "🧉", "description": "mate" },
+  "cubo de gelo": { "replacement": "🧊", "description": "ice" },
+  "pauzinhos": { "replacement": "🥢", "description": "chopsticks" },
+  "prato com talheres": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "garfo e faca": { "replacement": "🍴", "description": "fork and knife" },
+  "colher": { "replacement": "🥄", "description": "spoon" },
+  "hocho": { "replacement": "🔪", "description": "kitchen knife" },
+  "ânfora": { "replacement": "🏺", "description": "amphora" },
+  "terra áfrica": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "Américas da Terra": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "terra ásia": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "globo com meridianos": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "mapa mundial": { "replacement": "🗺️", "description": "world map" },
+  "Japão": { "replacement": "🗾", "description": "map of Japan" },
+  "bússola": { "replacement": "🧭", "description": "compass" },
+  "neve da montanha": {
+    "replacement": "🏔️",
+    "description": "snow-capped mountain"
+  },
+  "montanha": { "replacement": "⛰️", "description": "mountain" },
+  "vulcão": { "replacement": "🌋", "description": "volcano" },
+  "Monte Fuji": { "replacement": "🗻", "description": "mount fuji" },
+  "acampamento": { "replacement": "🏕️", "description": "camping" },
+  "guarda-sol": { "replacement": "🏖️", "description": "beach with umbrella" },
+  "deserto": { "replacement": "🏜️", "description": "desert" },
+  "ilha deserta": { "replacement": "🏝️", "description": "desert island" },
+  "Parque Nacional": { "replacement": "🏞️", "description": "national park" },
+  "estádio": { "replacement": "🏟️", "description": "stadium" },
+  "edifício clássico": {
+    "replacement": "🏛️",
+    "description": "classical building"
+  },
+  "construção civil": {
+    "replacement": "🏗️",
+    "description": "building construction"
+  },
+  "tijolos": { "replacement": "🧱", "description": "brick" },
+  "Rocha": { "replacement": "🪨", "description": "rock" },
+  "madeira": { "replacement": "🪵", "description": "wood" },
+  "cabana": { "replacement": "🛖", "description": "hut" },
+  "casas": { "replacement": "🏘️", "description": "houses" },
+  "casa abandonada": { "replacement": "🏚️", "description": "derelict house" },
+  "casa": { "replacement": "🏠", "description": "house" },
+  "casa com jardim": {
+    "replacement": "🏡",
+    "description": "house with garden"
+  },
+  "escritório": { "replacement": "🏢", "description": "office building" },
+  "agência dos Correios": {
+    "replacement": "🏣",
+    "description": "Japanese post office"
+  },
+  "correio europeu": { "replacement": "🏤", "description": "post office" },
+  "hospital": { "replacement": "🏥", "description": "hospital" },
+  "banco": { "replacement": "🏦", "description": "bank" },
+  "hotel": { "replacement": "🏨", "description": "hotel" },
+  "amor hotel": { "replacement": "🏩", "description": "love hotel" },
+  "loja de conveniência": {
+    "replacement": "🏪",
+    "description": "convenience store"
+  },
+  "escola": { "replacement": "🏫", "description": "school" },
+  "loja de departamento": {
+    "replacement": "🏬",
+    "description": "department store"
+  },
+  "fábrica": { "replacement": "🏭", "description": "factory" },
+  "castelo japonês": { "replacement": "🏯", "description": "Japanese castle" },
+  "castelo europeu": { "replacement": "🏰", "description": "castle" },
+  "Casamento": { "replacement": "💒", "description": "wedding" },
+  "torre de Tóquio": { "replacement": "🗼", "description": "Tokyo tower" },
+  "estátua da Liberdade": {
+    "replacement": "🗽",
+    "description": "Statue of Liberty"
+  },
+  "Igreja": { "replacement": "⛪", "description": "church" },
+  "mesquita": { "replacement": "🕌", "description": "mosque" },
+  "templo hindu": { "replacement": "🛕", "description": "hindu temple" },
+  "sinagoga": { "replacement": "🕍", "description": "synagogue" },
+  "santuário de Xintoísmo": {
+    "replacement": "⛩️",
+    "description": "shinto shrine"
+  },
+  "Kaaba": { "replacement": "🕋", "description": "kaaba" },
+  "fonte": { "replacement": "⛲", "description": "fountain" },
+  "barraca": { "replacement": "⛺", "description": "tent" },
+  "nebuloso": { "replacement": "🌁", "description": "foggy" },
+  "noite com estrelas": {
+    "replacement": "🌃",
+    "description": "night with stars"
+  },
+  "paisagem urbana": { "replacement": "🏙️", "description": "cityscape" },
+  "nascer do sol sobre as montanhas": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "nascer do sol": { "replacement": "🌅", "description": "sunrise" },
+  "pôr do sol da cidade": {
+    "replacement": "🌆",
+    "description": "cityscape at dusk"
+  },
+  "nascer do sol da cidade": { "replacement": "🌇", "description": "sunset" },
+  "ponte à noite": { "replacement": "🌉", "description": "bridge at night" },
+  "fontes termais": { "replacement": "♨️", "description": "hot springs" },
+  "cavalo de carrossel": {
+    "replacement": "🎠",
+    "description": "carousel horse"
+  },
+  "roda gigante": { "replacement": "🎡", "description": "ferris wheel" },
+  "montanha russa": { "replacement": "🎢", "description": "roller coaster" },
+  "barbeiro": { "replacement": "💈", "description": "barber pole" },
+  "tenda de circo": { "replacement": "🎪", "description": "circus tent" },
+  "locomotiva a vapor": { "replacement": "🚂", "description": "locomotive" },
+  "vagão ferroviário": { "replacement": "🚃", "description": "railway car" },
+  "lado do trem de bala": {
+    "replacement": "🚄",
+    "description": "high-speed train"
+  },
+  "trem-bala frente": { "replacement": "🚅", "description": "bullet train" },
+  "train2": { "replacement": "🚆", "description": "train" },
+  "metro": { "replacement": "🚇", "description": "metro" },
+  "Veiculo Leve Sobre Trilhos": {
+    "replacement": "🚈",
+    "description": "light rail"
+  },
+  "estação": { "replacement": "🚉", "description": "station" },
+  "eléctrico": { "replacement": "🚊", "description": "tram" },
+  "monotrilho": { "replacement": "🚝", "description": "monorail" },
+  "ferrovia da montanha": {
+    "replacement": "🚞",
+    "description": "mountain railway"
+  },
+  "trem": { "replacement": "🚋", "description": "tram car" },
+  "ônibus": { "replacement": "🚌", "description": "bus" },
+  "ônibus que se aproxima": {
+    "replacement": "🚍",
+    "description": "oncoming bus"
+  },
+  "trólebus": { "replacement": "🚎", "description": "trolleybus" },
+  "mini onibus": { "replacement": "🚐", "description": "minibus" },
+  "ambulância": { "replacement": "🚑", "description": "ambulance" },
+  "viatura de bombeiros": { "replacement": "🚒", "description": "fire engine" },
+  "carro de policia": { "replacement": "🚓", "description": "police car" },
+  "carro de polícia que se aproxima": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "Táxi": { "replacement": "🚕", "description": "taxi" },
+  "próximo táxi": { "replacement": "🚖", "description": "oncoming taxi" },
+  "carro": { "replacement": "🚗", "description": "automobile" },
+  "automóvel que se aproxima": {
+    "replacement": "🚘",
+    "description": "oncoming automobile"
+  },
+  "carro azul": { "replacement": "🚙", "description": "sport utility vehicle" },
+  "caminhonete": { "replacement": "🛻", "description": "pickup truck" },
+  "caminhão": { "replacement": "🚚", "description": "delivery truck" },
+  "caminhão articulado": {
+    "replacement": "🚛",
+    "description": "articulated lorry"
+  },
+  "trator": { "replacement": "🚜", "description": "tractor" },
+  "carro de corrida": { "replacement": "🏎️", "description": "racing car" },
+  "motocicleta": { "replacement": "🏍️", "description": "motorcycle" },
+  "motoneta": { "replacement": "🛵", "description": "motor scooter" },
+  "cadeira de rodas manual": {
+    "replacement": "🦽",
+    "description": "manual wheelchair"
+  },
+  "cadeira de rodas motorizada": {
+    "replacement": "🦼",
+    "description": "motorized wheelchair"
+  },
+  "auto riquixá": { "replacement": "🛺", "description": "auto rickshaw" },
+  "bicicleta": { "replacement": "🚲", "description": "bicycle" },
+  "patinete": { "replacement": "🛴", "description": "kick scooter" },
+  "skate": { "replacement": "🛹", "description": "skateboard" },
+  "patins": { "replacement": "🛼", "description": "roller skate" },
+  "ponto de ônibus": { "replacement": "🚏", "description": "bus stop" },
+  "autoestrada": { "replacement": "🛣️", "description": "motorway" },
+  "ferrovia": { "replacement": "🛤️", "description": "railway track" },
+  "tambor de óleo": { "replacement": "🛢️", "description": "oil drum" },
+  "bomba de combustivel": { "replacement": "⛽", "description": "fuel pump" },
+  "luz girando": { "replacement": "🚨", "description": "police car light" },
+  "semáforo": {
+    "replacement": "🚥",
+    "description": "horizontal traffic light"
+  },
+  "semáforo vertical": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "sinal de pare": { "replacement": "🛑", "description": "stop sign" },
+  "construção": { "replacement": "🚧", "description": "construction" },
+  "âncora": { "replacement": "⚓", "description": "anchor" },
+  "barco": { "replacement": "⛵", "description": "sailboat" },
+  "canoa": { "replacement": "🛶", "description": "canoe" },
+  "lancha": { "replacement": "🚤", "description": "speedboat" },
+  "navio de passageiros": {
+    "replacement": "🛳️",
+    "description": "passenger ship"
+  },
+  "balsa": { "replacement": "⛴️", "description": "ferry" },
+  "barco a motor": { "replacement": "🛥️", "description": "motor boat" },
+  "navio": { "replacement": "🚢", "description": "ship" },
+  "avião": { "replacement": "✈️", "description": "airplane" },
+  "pequeno avião": { "replacement": "🛩️", "description": "small airplane" },
+  "Partida de voo": {
+    "replacement": "🛫",
+    "description": "airplane departure"
+  },
+  "chegada do vôo": { "replacement": "🛬", "description": "airplane arrival" },
+  "pára-quedas": { "replacement": "🪂", "description": "parachute" },
+  "assento": { "replacement": "💺", "description": "seat" },
+  "helicóptero": { "replacement": "🚁", "description": "helicopter" },
+  "ferrovia de suspensão": {
+    "replacement": "🚟",
+    "description": "suspension railway"
+  },
+  "teleférico da montanha": {
+    "replacement": "🚠",
+    "description": "mountain cableway"
+  },
+  "bonde aéreo": { "replacement": "🚡", "description": "aerial tramway" },
+  "satélite artificial": { "replacement": "🛰️", "description": "satellite" },
+  "foguete": { "replacement": "🧨", "description": "firecracker" },
+  "disco voador": { "replacement": "🥏", "description": "flying disc" },
+  "sino do carregador": { "replacement": "🛎️", "description": "bellhop bell" },
+  "bagagem": { "replacement": "🧳", "description": "luggage" },
+  "ampulheta": { "replacement": "⌛", "description": "hourglass done" },
+  "ampulheta fluindo areia": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "ver": { "replacement": "⌚", "description": "watch" },
+  "despertador": { "replacement": "⏰", "description": "alarm clock" },
+  "cronômetro": { "replacement": "⏱️", "description": "stopwatch" },
+  "relógio temporizador": { "replacement": "⏲️", "description": "timer clock" },
+  "relógio da lareira": {
+    "replacement": "🕰️",
+    "description": "mantelpiece clock"
+  },
+  "clock12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "clock1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "clock1": { "replacement": "🕐", "description": "one o’clock" },
+  "clock130": { "replacement": "🕜", "description": "one-thirty" },
+  "clock2": { "replacement": "🕑", "description": "two o’clock" },
+  "clock230": { "replacement": "🕝", "description": "two-thirty" },
+  "clock3": { "replacement": "🕒", "description": "three o’clock" },
+  "clock330": { "replacement": "🕞", "description": "three-thirty" },
+  "clock4": { "replacement": "🕓", "description": "four o’clock" },
+  "clock430": { "replacement": "🕟", "description": "four-thirty" },
+  "clock5": { "replacement": "🕔", "description": "five o’clock" },
+  "clock530": { "replacement": "🕠", "description": "five-thirty" },
+  "clock6": { "replacement": "🕕", "description": "six o’clock" },
+  "clock630": { "replacement": "🕡", "description": "six-thirty" },
+  "clock7": { "replacement": "🕖", "description": "seven o’clock" },
+  "clock730": { "replacement": "🕢", "description": "seven-thirty" },
+  "clock8": { "replacement": "🕗", "description": "eight o’clock" },
+  "clock830": { "replacement": "🕣", "description": "eight-thirty" },
+  "clock9": { "replacement": "🕘", "description": "nine o’clock" },
+  "clock930": { "replacement": "🕤", "description": "nine-thirty" },
+  "clock10": { "replacement": "🕙", "description": "ten o’clock" },
+  "clock1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "clock11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "clock1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "lua Nova": { "replacement": "🌑", "description": "new moon" },
+  "lua crescente": { "replacement": "🌙", "description": "crescent moon" },
+  "lua": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "lua cheia": { "replacement": "🌕", "description": "full moon" },
+  "lua minguante gibosa": {
+    "replacement": "🌖",
+    "description": "waning gibbous moon"
+  },
+  "lua minguante": { "replacement": "🌗", "description": "last quarter moon" },
+  "lua nova com rosto": { "replacement": "🌚", "description": "new moon face" },
+  "lua do primeiro quarto crescente com rosto": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "lua minguante com rosto": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "termômetro": { "replacement": "🌡️", "description": "thermometer" },
+  "ensolarado": { "replacement": "☀️", "description": "sun" },
+  "lua cheia com rosto": {
+    "replacement": "🌝",
+    "description": "full moon face"
+  },
+  "sol com rosto": { "replacement": "🌞", "description": "sun with face" },
+  "planeta anelado": { "replacement": "🪐", "description": "ringed planet" },
+  "Estrela": { "replacement": "⭐", "description": "star" },
+  "star2": { "replacement": "🌟", "description": "glowing star" },
+  "estrelas": { "replacement": "🌠", "description": "shooting star" },
+  "via Láctea": { "replacement": "🌌", "description": "milky way" },
+  "nuvem": { "replacement": "☁️", "description": "cloud" },
+  "parcialmente ensolarado": {
+    "replacement": "⛅",
+    "description": "sun behind cloud"
+  },
+  "nuvem com relâmpagos e chuva": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "sol atrás de uma pequena nuvem": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "sol atrás de grande nuvem": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "sol atrás de nuvem de chuva": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "nuvem com chuva": { "replacement": "🌧️", "description": "cloud with rain" },
+  "nuvem com neve": { "replacement": "🌨️", "description": "cloud with snow" },
+  "nuvem com relâmpago": {
+    "replacement": "🌩️",
+    "description": "cloud with lightning"
+  },
+  "tornado": { "replacement": "🌪️", "description": "tornado" },
+  "névoa": { "replacement": "🌫️", "description": "fog" },
+  "face do vento": { "replacement": "🌬️", "description": "wind face" },
+  "ciclone": { "replacement": "🌀", "description": "cyclone" },
+  "arco Iris": { "replacement": "🌈", "description": "rainbow" },
+  "guarda-chuva fechado": {
+    "replacement": "🌂",
+    "description": "closed umbrella"
+  },
+  "guarda-chuva aberto": { "replacement": "☂️", "description": "umbrella" },
+  "guarda-chuva": {
+    "replacement": "☔",
+    "description": "umbrella with rain drops"
+  },
+  "guarda-sol no chão": {
+    "replacement": "⛱️",
+    "description": "umbrella on ground"
+  },
+  "zap": { "replacement": "⚡", "description": "high voltage" },
+  "floco de neve": { "replacement": "❄️", "description": "snowflake" },
+  "boneco de neve com neve": { "replacement": "☃️", "description": "snowman" },
+  "boneco de neve": {
+    "replacement": "⛄",
+    "description": "snowman without snow"
+  },
+  "cometa": { "replacement": "☄️", "description": "comet" },
+  "fogo": { "replacement": "🔥", "description": "fire" },
+  "gotícula": { "replacement": "💧", "description": "droplet" },
+  "oceano": { "replacement": "🌊", "description": "water wave" },
+  "jack o lantern": { "replacement": "🎃", "description": "jack-o-lantern" },
+  "árvore de Natal": { "replacement": "🎄", "description": "Christmas tree" },
+  "fogos de artifício": { "replacement": "🎆", "description": "fireworks" },
+  "diamante": { "replacement": "🎇", "description": "sparkler" },
+  "brilhos": { "replacement": "✨", "description": "sparkles" },
+  "balão": { "replacement": "🎈", "description": "balloon" },
+  "tada": { "replacement": "🎉", "description": "party popper" },
+  "bola de confete": { "replacement": "🎊", "description": "confetti ball" },
+  "árvore tanabata": { "replacement": "🎋", "description": "tanabata tree" },
+  "bambu": { "replacement": "🎍", "description": "pine decoration" },
+  "bonecos": { "replacement": "🎎", "description": "Japanese dolls" },
+  "bandeiras": { "replacement": "🎏", "description": "carp streamer" },
+  "carrilhão de vento": { "replacement": "🎐", "description": "wind chime" },
+  "cena de arroz": {
+    "replacement": "🎑",
+    "description": "moon viewing ceremony"
+  },
+  "envelope vermelho": { "replacement": "🧧", "description": "red envelope" },
+  "fita": { "replacement": "🎀", "description": "ribbon" },
+  "presente": { "replacement": "🎁", "description": "wrapped gift" },
+  "fita de lembrete": { "replacement": "🎗️", "description": "reminder ribbon" },
+  "ingressos": { "replacement": "🎟️", "description": "admission tickets" },
+  "bilhete": { "replacement": "🎫", "description": "ticket" },
+  "medalha militar": { "replacement": "🎖️", "description": "military medal" },
+  "troféu": { "replacement": "🏆", "description": "trophy" },
+  "esportes de medalha": { "replacement": "🏅", "description": "sports medal" },
+  "Medalha de 1º lugar": {
+    "replacement": "🥇",
+    "description": "1st place medal"
+  },
+  "Medalha de 2º lugar": {
+    "replacement": "🥈",
+    "description": "2nd place medal"
+  },
+  "Medalha de 3º lugar": {
+    "replacement": "🥉",
+    "description": "3rd place medal"
+  },
+  "futebol": { "replacement": "🏈", "description": "american football" },
+  "beisebol": { "replacement": "⚾", "description": "baseball" },
+  "softball": { "replacement": "🥎", "description": "softball" },
+  "basquetebol": { "replacement": "🏀", "description": "basketball" },
+  "voleibol": { "replacement": "🏐", "description": "volleyball" },
+  "futebol de rugby": { "replacement": "🏉", "description": "rugby football" },
+  "tênis": { "replacement": "🎾", "description": "tennis" },
+  "boliche": { "replacement": "🎳", "description": "bowling" },
+  "jogo de críquete": { "replacement": "🏏", "description": "cricket game" },
+  "hóquei em campo": { "replacement": "🏑", "description": "field hockey" },
+  "Hockey no gelo": { "replacement": "🏒", "description": "ice hockey" },
+  "lacrosse": { "replacement": "🥍", "description": "lacrosse" },
+  "pingue-pongue": { "replacement": "🏓", "description": "ping pong" },
+  "badminton": { "replacement": "🏸", "description": "badminton" },
+  "luva de boxe": { "replacement": "🥊", "description": "boxing glove" },
+  "uniforme de artes marciais": {
+    "replacement": "🥋",
+    "description": "martial arts uniform"
+  },
+  "rede de golos": { "replacement": "🥅", "description": "goal net" },
+  "patins de gelo": { "replacement": "⛸️", "description": "ice skate" },
+  "vara de pesca e peixes": {
+    "replacement": "🎣",
+    "description": "fishing pole"
+  },
+  "máscara de mergulho": { "replacement": "🤿", "description": "diving mask" },
+  "camisa de corrida com faixa": {
+    "replacement": "🎽",
+    "description": "running shirt"
+  },
+  "esqui": { "replacement": "🎿", "description": "skis" },
+  "trenó": { "replacement": "🛷", "description": "sled" },
+  "pedra de curling": { "replacement": "🥌", "description": "curling stone" },
+  "dardo": { "replacement": "🎯", "description": "direct hit" },
+  "yo yo": { "replacement": "🪀", "description": "yo-yo" },
+  "pipa": { "replacement": "🪁", "description": "kite" },
+  "bola 8": { "replacement": "🎱", "description": "pool 8 ball" },
+  "bola de cristal": { "replacement": "🔮", "description": "crystal ball" },
+  "varinha mágica": { "replacement": "🪄", "description": "magic wand" },
+  "amuleto nazar": { "replacement": "🧿", "description": "nazar amulet" },
+  "videogame": { "replacement": "🎮", "description": "video game" },
+  "controle de video game": { "replacement": "🕹️", "description": "joystick" },
+  "caça-níqueis": { "replacement": "🎰", "description": "slot machine" },
+  "dado do jogo": { "replacement": "🎲", "description": "game die" },
+  "quebra-cabeça": { "replacement": "🧩", "description": "puzzle piece" },
+  "urso Teddy": { "replacement": "🧸", "description": "teddy bear" },
+  "pinata": { "replacement": "🪅", "description": "piñata" },
+  "bonecos de nidificação": {
+    "replacement": "🪆",
+    "description": "nesting dolls"
+  },
+  "espadas": { "replacement": "♠️", "description": "spade suit" },
+  "corações": { "replacement": "♥️", "description": "heart suit" },
+  "diamantes": { "replacement": "♦️", "description": "diamond suit" },
+  "clubes": { "replacement": "♣️", "description": "club suit" },
+  "peão de xadrez": { "replacement": "♟️", "description": "chess pawn" },
+  "palhaço preto": { "replacement": "🃏", "description": "joker" },
+  "Mahjong": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "cartas de jogar de flores": {
+    "replacement": "🎴",
+    "description": "flower playing cards"
+  },
+  "Artes performáticas": {
+    "replacement": "🎭",
+    "description": "performing arts"
+  },
+  "foto emoldurada": { "replacement": "🖼️", "description": "framed picture" },
+  "arte": { "replacement": "🎨", "description": "artist palette" },
+  "fio": { "replacement": "🧶", "description": "yarn" },
+  "agulha de costura": { "replacement": "🪡", "description": "sewing needle" },
+  "nó": { "replacement": "🪢", "description": "knot" },
+  "Óculos": { "replacement": "👓", "description": "glasses" },
+  "óculos escuros": { "replacement": "🕶️", "description": "sunglasses" },
+  "óculos": { "replacement": "🥽", "description": "goggles" },
+  "bata de laboratório": { "replacement": "🥼", "description": "lab coat" },
+  "colete salva-vidas": { "replacement": "🦺", "description": "safety vest" },
+  "gravata": { "replacement": "👔", "description": "necktie" },
+  "camisa": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "jeans": { "replacement": "👖", "description": "jeans" },
+  "cachecol": { "replacement": "🧣", "description": "scarf" },
+  "luvas": { "replacement": "🧤", "description": "gloves" },
+  "casaco": { "replacement": "🧥", "description": "coat" },
+  "meias": { "replacement": "🧦", "description": "socks" },
+  "vestir": { "replacement": "👗", "description": "dress" },
+  "quimono": { "replacement": "👘", "description": "kimono" },
+  "sari": { "replacement": "🥻", "description": "sari" },
+  "maiô de uma peça": {
+    "replacement": "🩱",
+    "description": "one-piece swimsuit"
+  },
+  "natação breve": { "replacement": "🩲", "description": "briefs" },
+  "calção": { "replacement": "🩳", "description": "shorts" },
+  "bikini": { "replacement": "👙", "description": "bikini" },
+  "roupas femininas": { "replacement": "👚", "description": "woman’s clothes" },
+  "Bolsa": { "replacement": "👜", "description": "handbag" },
+  "bolsa": { "replacement": "👝", "description": "clutch bag" },
+  "compras": { "replacement": "🛍️", "description": "shopping bags" },
+  "mochila escolar": { "replacement": "🎒", "description": "backpack" },
+  "sandália tanga": { "replacement": "🩴", "description": "thong sandal" },
+  "sapato do homem": { "replacement": "👞", "description": "man’s shoe" },
+  "tênis esportivo": { "replacement": "👟", "description": "running shoe" },
+  "bota de caminhada": { "replacement": "🥾", "description": "hiking boot" },
+  "sapato plano": { "replacement": "🥿", "description": "flat shoe" },
+  "salto alto": { "replacement": "👠", "description": "high-heeled shoe" },
+  "sandália": { "replacement": "👡", "description": "woman’s sandal" },
+  "sapatilhas": { "replacement": "🩰", "description": "ballet shoes" },
+  "bota": { "replacement": "👢", "description": "woman’s boot" },
+  "coroa": { "replacement": "👑", "description": "crown" },
+  "chapéu feminino": { "replacement": "👒", "description": "woman’s hat" },
+  "cartola": { "replacement": "🎩", "description": "top hat" },
+  "placa de argamassa": {
+    "replacement": "🎓",
+    "description": "graduation cap"
+  },
+  "limite de faturamento": { "replacement": "🧢", "description": "billed cap" },
+  "capacete militar": { "replacement": "🪖", "description": "military helmet" },
+  "capacete de resgate": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "contas de oração": { "replacement": "📿", "description": "prayer beads" },
+  "batom": { "replacement": "💄", "description": "lipstick" },
+  "anel": { "replacement": "💍", "description": "ring" },
+  "gema": { "replacement": "💎", "description": "gem stone" },
+  "mudo": { "replacement": "🔇", "description": "muted speaker" },
+  "alto falante": { "replacement": "🔈", "description": "speaker low volume" },
+  "som": { "replacement": "🔉", "description": "speaker medium volume" },
+  "som alto": { "replacement": "🔊", "description": "speaker high volume" },
+  "Alto-falante": { "replacement": "📢", "description": "loudspeaker" },
+  "mega": { "replacement": "📣", "description": "megaphone" },
+  "chifre postal": { "replacement": "📯", "description": "postal horn" },
+  "Sino": { "replacement": "🔔", "description": "bell" },
+  "sem sino": { "replacement": "🔕", "description": "bell with slash" },
+  "pontuação musical": { "replacement": "🎼", "description": "musical score" },
+  "nota musical": { "replacement": "🎵", "description": "musical note" },
+  "notas": { "replacement": "🎶", "description": "musical notes" },
+  "microfone de estúdio": {
+    "replacement": "🎙️",
+    "description": "studio microphone"
+  },
+  "controle deslizante de nível": {
+    "replacement": "🎚️",
+    "description": "level slider"
+  },
+  "botões de controle": { "replacement": "🎛️", "description": "control knobs" },
+  "microfone": { "replacement": "🎤", "description": "microphone" },
+  "fones de ouvido": { "replacement": "🎧", "description": "headphone" },
+  "rádio": { "replacement": "📻", "description": "radio" },
+  "saxofone": { "replacement": "🎷", "description": "saxophone" },
+  "acordeão": { "replacement": "🪗", "description": "accordion" },
+  "violão": { "replacement": "🎸", "description": "guitar" },
+  "teclado musical": { "replacement": "🎹", "description": "musical keyboard" },
+  "trompete": { "replacement": "🎺", "description": "trumpet" },
+  "violino": { "replacement": "🎻", "description": "violin" },
+  "banjo": { "replacement": "🪕", "description": "banjo" },
+  "tambor": { "replacement": "🥁", "description": "drum" },
+  "tambor longo": { "replacement": "🪘", "description": "long drum" },
+  "Iphone": { "replacement": "📱", "description": "mobile phone" },
+  "chamando": { "replacement": "📲", "description": "mobile phone with arrow" },
+  "telefone": { "replacement": "☎️", "description": "telephone" },
+  "receptor de telefone": {
+    "replacement": "📞",
+    "description": "telephone receiver"
+  },
+  "pager": { "replacement": "📟", "description": "pager" },
+  "fax": { "replacement": "📠", "description": "fax machine" },
+  "bateria": { "replacement": "🔋", "description": "battery" },
+  "tomada elétrica": { "replacement": "🔌", "description": "electric plug" },
+  "computador": { "replacement": "💻", "description": "laptop" },
+  "computador desktop": {
+    "replacement": "🖥️",
+    "description": "desktop computer"
+  },
+  "impressora": { "replacement": "🖨️", "description": "printer" },
+  "teclado": { "replacement": "⌨️", "description": "keyboard" },
+  "mouse de computador": {
+    "replacement": "🖱️",
+    "description": "computer mouse"
+  },
+  "trackball": { "replacement": "🖲️", "description": "trackball" },
+  "minidisco": { "replacement": "💽", "description": "computer disk" },
+  "disquete": { "replacement": "💾", "description": "floppy disk" },
+  "CD": { "replacement": "💿", "description": "optical disk" },
+  "DVD": { "replacement": "📀", "description": "dvd" },
+  "ábaco": { "replacement": "🧮", "description": "abacus" },
+  "câmera cinematográfica": {
+    "replacement": "🎥",
+    "description": "movie camera"
+  },
+  "tira de filme": { "replacement": "🎞️", "description": "film frames" },
+  "projetor de filme": { "replacement": "📽️", "description": "film projector" },
+  "badalo": { "replacement": "🎬", "description": "clapper board" },
+  "televisão": { "replacement": "📺", "description": "television" },
+  "Câmera": { "replacement": "📷", "description": "camera" },
+  "Flash da câmera": {
+    "replacement": "📸",
+    "description": "camera with flash"
+  },
+  "câmera de vídeo": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "mag": { "replacement": "🔍", "description": "magnifying glass tilted left" },
+  "mag à direita": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "vela": { "replacement": "🕯️", "description": "candle" },
+  "lâmpada": { "replacement": "💡", "description": "light bulb" },
+  "lanterna": { "replacement": "🔦", "description": "flashlight" },
+  "lanterna izakaya": {
+    "replacement": "🏮",
+    "description": "red paper lantern"
+  },
+  "lâmpada diya": { "replacement": "🪔", "description": "diya lamp" },
+  "caderno com capa decorativa": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "livro fechado": { "replacement": "📕", "description": "closed book" },
+  "livro": { "replacement": "📖", "description": "open book" },
+  "livro verde": { "replacement": "📗", "description": "green book" },
+  "livro Azul": { "replacement": "📘", "description": "blue book" },
+  "livro laranja": { "replacement": "📙", "description": "orange book" },
+  "livros": { "replacement": "📚", "description": "books" },
+  "caderno": { "replacement": "📓", "description": "notebook" },
+  "livro-razão": { "replacement": "📒", "description": "ledger" },
+  "página com ondulação": {
+    "replacement": "📃",
+    "description": "page with curl"
+  },
+  "rolagem": { "replacement": "📜", "description": "scroll" },
+  "página voltada para cima": {
+    "replacement": "📄",
+    "description": "page facing up"
+  },
+  "jornal": { "replacement": "📰", "description": "newspaper" },
+  "rolo de jornal": {
+    "replacement": "🗞️",
+    "description": "rolled-up newspaper"
+  },
+  "guias de favoritos": { "replacement": "📑", "description": "bookmark tabs" },
+  "marca páginas": { "replacement": "🔖", "description": "bookmark" },
+  "rótulo": { "replacement": "🏷️", "description": "label" },
+  "Bolsa de dinheiro": { "replacement": "💰", "description": "money bag" },
+  "moeda": { "replacement": "🪙", "description": "coin" },
+  "iene": { "replacement": "💴", "description": "yen banknote" },
+  "dólar": { "replacement": "💵", "description": "dollar banknote" },
+  "euro": { "replacement": "💶", "description": "euro banknote" },
+  "libra": { "replacement": "💷", "description": "pound banknote" },
+  "dinheiro com asas": {
+    "replacement": "💸",
+    "description": "money with wings"
+  },
+  "cartão de crédito": { "replacement": "💳", "description": "credit card" },
+  "recibo": { "replacement": "🧾", "description": "receipt" },
+  "gráfico": {
+    "replacement": "💹",
+    "description": "chart increasing with yen"
+  },
+  "o email": { "replacement": "📧", "description": "e-mail" },
+  "envelope de entrada": {
+    "replacement": "📨",
+    "description": "incoming envelope"
+  },
+  "envelope com seta": {
+    "replacement": "📩",
+    "description": "envelope with arrow"
+  },
+  "bandeja de saída": { "replacement": "📤", "description": "outbox tray" },
+  "bandeja da caixa de entrada": {
+    "replacement": "📥",
+    "description": "inbox tray"
+  },
+  "pacote": { "replacement": "📦", "description": "package" },
+  "caixa de correio": {
+    "replacement": "📫",
+    "description": "closed mailbox with raised flag"
+  },
+  "caixa de correio fechada": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "caixa de correio com correio": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "caixa de correio sem correio": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "caixa postal": { "replacement": "📮", "description": "postbox" },
+  "urna eleitoral": {
+    "replacement": "🗳️",
+    "description": "ballot box with ballot"
+  },
+  "pencil2": { "replacement": "✏️", "description": "pencil" },
+  "bico preto": { "replacement": "✒️", "description": "black nib" },
+  "caneta tinteiro": { "replacement": "🖋️", "description": "fountain pen" },
+  "caneta": { "replacement": "🖊️", "description": "pen" },
+  "pincel": { "replacement": "🖌️", "description": "paintbrush" },
+  "GIS de cera": { "replacement": "🖍️", "description": "crayon" },
+  "memorando": { "replacement": "📝", "description": "memo" },
+  "pasta": { "replacement": "💼", "description": "briefcase" },
+  "pasta de arquivo": { "replacement": "📁", "description": "file folder" },
+  "abrir pasta de arquivo": {
+    "replacement": "📂",
+    "description": "open file folder"
+  },
+  "divisórias de cartão": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "encontro": { "replacement": "📅", "description": "calendar" },
+  "calendário": { "replacement": "📆", "description": "tear-off calendar" },
+  "bloco de notas em espiral": {
+    "replacement": "🗒️",
+    "description": "spiral notepad"
+  },
+  "calendário espiral": {
+    "replacement": "🗓️",
+    "description": "spiral calendar"
+  },
+  "fichário": { "replacement": "📇", "description": "card index" },
+  "gráfico com tendência ascendente": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "gráfico com tendência de queda": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "gráfico de barras": { "replacement": "📊", "description": "bar chart" },
+  "prancheta": { "replacement": "📋", "description": "clipboard" },
+  "alfinete": { "replacement": "📌", "description": "pushpin" },
+  "alfinete redondo": { "replacement": "📍", "description": "round pushpin" },
+  "clipe de papel": { "replacement": "📎", "description": "paperclip" },
+  "clipes de papel": {
+    "replacement": "🖇️",
+    "description": "linked paperclips"
+  },
+  "régua reta": { "replacement": "📏", "description": "straight ruler" },
+  "régua triangular": {
+    "replacement": "📐",
+    "description": "triangular ruler"
+  },
+  "tesouras": { "replacement": "✂️", "description": "scissors" },
+  "caixa de arquivo de cartão": {
+    "replacement": "🗃️",
+    "description": "card file box"
+  },
+  "arquivo": { "replacement": "🗄️", "description": "file cabinet" },
+  "cesta de lixo": { "replacement": "🗑️", "description": "wastebasket" },
+  "fechadura": { "replacement": "🔒", "description": "locked" },
+  "desbloquear": { "replacement": "🔓", "description": "unlocked" },
+  "trava com caneta de tinta": {
+    "replacement": "🔏",
+    "description": "locked with pen"
+  },
+  "cadeado fechado com chave": {
+    "replacement": "🔐",
+    "description": "locked with key"
+  },
+  "chave": { "replacement": "🔑", "description": "key" },
+  "chave velha": { "replacement": "🗝️", "description": "old key" },
+  "martelo": { "replacement": "🔨", "description": "hammer" },
+  "Machado": { "replacement": "🪓", "description": "axe" },
+  "escolher": { "replacement": "⛏️", "description": "pick" },
+  "martelo e picareta": {
+    "replacement": "⚒️",
+    "description": "hammer and pick"
+  },
+  "martelo e chave inglesa": {
+    "replacement": "🛠️",
+    "description": "hammer and wrench"
+  },
+  "punhal": { "replacement": "🗡️", "description": "dagger" },
+  "espadas cruzadas": { "replacement": "⚔️", "description": "crossed swords" },
+  "arma de fogo": { "replacement": "🔫", "description": "pistol" },
+  "bumerangue": { "replacement": "🪃", "description": "boomerang" },
+  "arco e flecha": { "replacement": "🏹", "description": "bow and arrow" },
+  "escudo": { "replacement": "🛡️", "description": "shield" },
+  "serra de carpintaria": {
+    "replacement": "🪚",
+    "description": "carpentry saw"
+  },
+  "chave inglesa": { "replacement": "🔧", "description": "wrench" },
+  "Chave de fenda": { "replacement": "🪛", "description": "screwdriver" },
+  "porca e parafuso": { "replacement": "🔩", "description": "nut and bolt" },
+  "engrenagem": { "replacement": "⚙️", "description": "gear" },
+  "braçadeira": { "replacement": "🗜️", "description": "clamp" },
+  "escala de equilíbrio": {
+    "replacement": "⚖️",
+    "description": "balance scale"
+  },
+  "cana de sondagem": { "replacement": "🦯", "description": "white cane" },
+  "ligação": { "replacement": "🔗", "description": "link" },
+  "correntes": { "replacement": "⛓️", "description": "chains" },
+  "gancho": { "replacement": "🪝", "description": "hook" },
+  "Caixa de ferramentas": { "replacement": "🧰", "description": "toolbox" },
+  "magnético": { "replacement": "🧲", "description": "magnet" },
+  "escada": { "replacement": "🪜", "description": "ladder" },
+  "alambique": { "replacement": "⚗️", "description": "alembic" },
+  "tubo de ensaio": { "replacement": "🧪", "description": "test tube" },
+  "placa de Petri": { "replacement": "🧫", "description": "petri dish" },
+  "DNA": { "replacement": "🧬", "description": "dna" },
+  "microscópio": { "replacement": "🔬", "description": "microscope" },
+  "telescópio": { "replacement": "🔭", "description": "telescope" },
+  "satélite": { "replacement": "📡", "description": "satellite antenna" },
+  "seringa": { "replacement": "💉", "description": "syringe" },
+  "gota de sangue": { "replacement": "🩸", "description": "drop of blood" },
+  "comprimido": { "replacement": "💊", "description": "pill" },
+  "Band-aid adesivo": { "replacement": "🩹", "description": "adhesive bandage" },
+  "estetoscópio": { "replacement": "🩺", "description": "stethoscope" },
+  "porta": { "replacement": "🚪", "description": "door" },
+  "elevador": { "replacement": "🛗", "description": "elevator" },
+  "espelho": { "replacement": "🪞", "description": "mirror" },
+  "janela": { "replacement": "🪟", "description": "window" },
+  "cama": { "replacement": "🛏️", "description": "bed" },
+  "sofá e abajur": { "replacement": "🛋️", "description": "couch and lamp" },
+  "cadeira": { "replacement": "🪑", "description": "chair" },
+  "banheiro": { "replacement": "🚾", "description": "water closet" },
+  "desentupidor": { "replacement": "🪠", "description": "plunger" },
+  "chuveiro": { "replacement": "🚿", "description": "shower" },
+  "banheira": { "replacement": "🛁", "description": "bathtub" },
+  "ratoeira": { "replacement": "🪤", "description": "mouse trap" },
+  "navalha": { "replacement": "🪒", "description": "razor" },
+  "frasco de loção": { "replacement": "🧴", "description": "lotion bottle" },
+  "pino de segurança": { "replacement": "🧷", "description": "safety pin" },
+  "vassoura": { "replacement": "🧹", "description": "broom" },
+  "cesta": { "replacement": "🧺", "description": "basket" },
+  "rolo de papel": { "replacement": "🧻", "description": "roll of paper" },
+  "balde": { "replacement": "🪣", "description": "bucket" },
+  "Sabonete": { "replacement": "🧼", "description": "soap" },
+  "escova de dente": { "replacement": "🪥", "description": "toothbrush" },
+  "esponja": { "replacement": "🧽", "description": "sponge" },
+  "extintor de incêndio": {
+    "replacement": "🧯",
+    "description": "fire extinguisher"
+  },
+  "carrinho de compras": {
+    "replacement": "🛒",
+    "description": "shopping cart"
+  },
+  "fumar": { "replacement": "🚬", "description": "cigarette" },
+  "caixão": { "replacement": "⚰️", "description": "coffin" },
+  "lápide": { "replacement": "🪦", "description": "headstone" },
+  "urna funerária": { "replacement": "⚱️", "description": "funeral urn" },
+  "Moyai": { "replacement": "🗿", "description": "moai" },
+  "cartaz": { "replacement": "🪧", "description": "placard" },
+  "atm": { "replacement": "🏧", "description": "ATM sign" },
+  "colocar lixo em seu lugar": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "água potável": { "replacement": "🚰", "description": "potable water" },
+  "cadeira de rodas": {
+    "replacement": "♿",
+    "description": "wheelchair symbol"
+  },
+  "masculino": { "replacement": "🚹", "description": "men’s room" },
+  "mulheres": { "replacement": "🚺", "description": "women’s room" },
+  "Sanitário": { "replacement": "🚻", "description": "restroom" },
+  "símbolo de bebê": { "replacement": "🚼", "description": "baby symbol" },
+  "controle de passaporte": {
+    "replacement": "🛂",
+    "description": "passport control"
+  },
+  "costumes": { "replacement": "🛃", "description": "customs" },
+  "reclamação de bagagem": {
+    "replacement": "🛄",
+    "description": "baggage claim"
+  },
+  "bagagem deixada": { "replacement": "🛅", "description": "left luggage" },
+  "Atenção": { "replacement": "⚠️", "description": "warning" },
+  "crianças cruzando": {
+    "replacement": "🚸",
+    "description": "children crossing"
+  },
+  "Entrada proibida": { "replacement": "⛔", "description": "no entry" },
+  "sem sinal de entrada": { "replacement": "🚫", "description": "prohibited" },
+  "Proibido Bicicletas": { "replacement": "🚳", "description": "no bicycles" },
+  "Proibido fumar": { "replacement": "🚭", "description": "no smoking" },
+  "não desarrume": { "replacement": "🚯", "description": "no littering" },
+  "água não potável": {
+    "replacement": "🚱",
+    "description": "non-potable water"
+  },
+  "Proibido Pedestres": {
+    "replacement": "🚷",
+    "description": "no pedestrians"
+  },
+  "sem telefones celulares": {
+    "replacement": "📵",
+    "description": "no mobile phones"
+  },
+  "menor de idade": {
+    "replacement": "🔞",
+    "description": "no one under eighteen"
+  },
+  "radioativo": { "replacement": "☢️", "description": "radioactive" },
+  "risco biológico": { "replacement": "☣️", "description": "biohazard" },
+  "seta para cima": {
+    "replacement": "⤴️",
+    "description": "right arrow curving up"
+  },
+  "seta superior direita": {
+    "replacement": "↗️",
+    "description": "up-right arrow"
+  },
+  "seta para a direita": { "replacement": "➡️", "description": "right arrow" },
+  "seta inferior direita": {
+    "replacement": "↘️",
+    "description": "down-right arrow"
+  },
+  "seta para baixo": {
+    "replacement": "⤵️",
+    "description": "right arrow curving down"
+  },
+  "seta inferior esquerda": {
+    "replacement": "↙️",
+    "description": "down-left arrow"
+  },
+  "seta para a esquerda": { "replacement": "⬅️", "description": "left arrow" },
+  "seta superior esquerda": {
+    "replacement": "↖️",
+    "description": "up-left arrow"
+  },
+  "seta para cima para baixo": {
+    "replacement": "↕️",
+    "description": "up-down arrow"
+  },
+  "seta esquerda direita": {
+    "replacement": "↔️",
+    "description": "left-right arrow"
+  },
+  "flecha para a esquerda com gancho": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "seta gancho de direita": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "setas no sentido horário": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "setas no sentido anti-horário": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "costas": { "replacement": "🔙", "description": "BACK arrow" },
+  "fim": { "replacement": "🔚", "description": "END arrow" },
+  "em": { "replacement": "🔛", "description": "ON! arrow" },
+  "em breve": { "replacement": "🔜", "description": "SOON arrow" },
+  "topo": { "replacement": "🔝", "description": "TOP arrow" },
+  "local de culto": { "replacement": "🛐", "description": "place of worship" },
+  "símbolo do átomo": { "replacement": "⚛️", "description": "atom symbol" },
+  "om": { "replacement": "🕉️", "description": "om" },
+  "estrela de Davi": { "replacement": "✡️", "description": "star of David" },
+  "roda do dharma": { "replacement": "☸️", "description": "wheel of dharma" },
+  "yin yang": { "replacement": "☯️", "description": "yin yang" },
+  "cruz latina": { "replacement": "✝️", "description": "latin cross" },
+  "cruz ortodoxa": { "replacement": "☦️", "description": "orthodox cross" },
+  "estrela e crescente": {
+    "replacement": "☪️",
+    "description": "star and crescent"
+  },
+  "símbolo de paz": { "replacement": "☮️", "description": "peace symbol" },
+  "menorá": { "replacement": "🕎", "description": "menorah" },
+  "estrela de seis pontas": {
+    "replacement": "🔯",
+    "description": "dotted six-pointed star"
+  },
+  "Áries": { "replacement": "♈", "description": "Aries" },
+  "Touro": { "replacement": "♉", "description": "Taurus" },
+  "Gêmeos": { "replacement": "♊", "description": "Gemini" },
+  "Câncer": { "replacement": "♋", "description": "Cancer" },
+  "Leo": { "replacement": "♌", "description": "Leo" },
+  "Virgem": { "replacement": "♍", "description": "Virgo" },
+  "Libra": { "replacement": "♎", "description": "Libra" },
+  "Scorpius": { "replacement": "♏", "description": "Scorpio" },
+  "Sagitário": { "replacement": "♐", "description": "Sagittarius" },
+  "Capricórnio": { "replacement": "♑", "description": "Capricorn" },
+  "Aquário": { "replacement": "♒", "description": "Aquarius" },
+  "Peixes": { "replacement": "♓", "description": "Pisces" },
+  "ophiuchus": { "replacement": "⛎", "description": "Ophiuchus" },
+  "setas torcidas para a direita": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "repetir": { "replacement": "🔁", "description": "repeat button" },
+  "repita um": { "replacement": "🔂", "description": "repeat single button" },
+  "flecha para frente": { "replacement": "▶️", "description": "play button" },
+  "avançar rápido": {
+    "replacement": "⏩",
+    "description": "fast-forward button"
+  },
+  "botão da próxima faixa": {
+    "replacement": "⏭️",
+    "description": "next track button"
+  },
+  "botão reproduzir ou pausar": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "seta para trás": { "replacement": "◀️", "description": "reverse button" },
+  "rebobinar": { "replacement": "⏪", "description": "fast reverse button" },
+  "botão da trilha anterior": {
+    "replacement": "⏮️",
+    "description": "last track button"
+  },
+  "seta para cima pequena": {
+    "replacement": "🔼",
+    "description": "upwards button"
+  },
+  "seta dobrar": { "replacement": "⏫", "description": "fast up button" },
+  "seta para baixo pequena": {
+    "replacement": "🔽",
+    "description": "downwards button"
+  },
+  "seta dupla para baixo": {
+    "replacement": "⏬",
+    "description": "fast down button"
+  },
+  "botão de pausa": { "replacement": "⏸️", "description": "pause button" },
+  "botão de parada": { "replacement": "⏹️", "description": "stop button" },
+  "botão de gravação": { "replacement": "⏺️", "description": "record button" },
+  "botão de ejeção": { "replacement": "⏏️", "description": "eject button" },
+  "cinema": { "replacement": "🎦", "description": "cinema" },
+  "baixo brilho": { "replacement": "🔅", "description": "dim button" },
+  "claridade alta": { "replacement": "🔆", "description": "bright button" },
+  "sinal de força": { "replacement": "📶", "description": "antenna bars" },
+  "modo de vibração": { "replacement": "📳", "description": "vibration mode" },
+  "celular desligado": {
+    "replacement": "📴",
+    "description": "mobile phone off"
+  },
+  "signo feminino": { "replacement": "♀️", "description": "female sign" },
+  "signo masculino": { "replacement": "♂️", "description": "male sign" },
+  "símbolo transgênero": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "multiplicação pesada x": { "replacement": "✖️", "description": "multiply" },
+  "sinal de mais pesado": { "replacement": "➕", "description": "plus" },
+  "sinal de menos pesado": { "replacement": "➖", "description": "minus" },
+  "sinal de divisão pesada": { "replacement": "➗", "description": "divide" },
+  "infinidade": { "replacement": "♾️", "description": "infinity" },
+  "bangbang": { "replacement": "‼️", "description": "double exclamation mark" },
+  "interrobang": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "questão": { "replacement": "❓", "description": "question mark" },
+  "questão cinza": {
+    "replacement": "❔",
+    "description": "white question mark"
+  },
+  "exclamação cinza": {
+    "replacement": "❕",
+    "description": "white exclamation mark"
+  },
+  "exclamação": { "replacement": "❗", "description": "exclamation mark" },
+  "traço ondulado": { "replacement": "〰️", "description": "wavy dash" },
+  "câmbio monetário": {
+    "replacement": "💱",
+    "description": "currency exchange"
+  },
+  "cifrão pesado": { "replacement": "💲", "description": "heavy dollar sign" },
+  "símbolo médico": { "replacement": "⚕️", "description": "medical symbol" },
+  "reciclar": { "replacement": "♻️", "description": "recycling symbol" },
+  "flor de lis": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "tridente": { "replacement": "🔱", "description": "trident emblem" },
+  "crachá com nome": { "replacement": "📛", "description": "name badge" },
+  "principiante": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "o": { "replacement": "⭕", "description": "hollow red circle" },
+  "marca de verificação branca": {
+    "replacement": "✅",
+    "description": "check mark button"
+  },
+  "urna com cheque": {
+    "replacement": "☑️",
+    "description": "check box with check"
+  },
+  "marca de verificação pesada": {
+    "replacement": "✔️",
+    "description": "check mark"
+  },
+  "x": { "replacement": "❌", "description": "cross mark" },
+  "marca de cruz quadrada negativa": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "laço encaracolado": { "replacement": "➰", "description": "curly loop" },
+  "ciclo": { "replacement": "➿", "description": "double curly loop" },
+  "marca de alternância de parte": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "asterisco de oito raios": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "estrela negra de oito pontas": {
+    "replacement": "✴️",
+    "description": "eight-pointed star"
+  },
+  "brilhar": { "replacement": "❇️", "description": "sparkle" },
+  "direito autoral": { "replacement": "©️", "description": "copyright" },
+  "registrado": { "replacement": "®️", "description": "registered" },
+  "tm": { "replacement": "™️", "description": "trade mark" },
+  "cerquilha": { "replacement": "#️⃣", "description": "keycap: #" },
+  "asterisco": { "replacement": "*️⃣", "description": "keycap: *" },
+  "zero": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "dois": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "três": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "quatro": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "cinco": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "seis": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "Sete": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "oito": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "nove": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "tecla dez": { "replacement": "🔟", "description": "keycap: 10" },
+  "capital abcd": {
+    "replacement": "🔠",
+    "description": "input latin uppercase"
+  },
+  "abcd": { "replacement": "🔡", "description": "input latin lowercase" },
+  "símbolos": { "replacement": "🔣", "description": "input symbols" },
+  "abc": { "replacement": "🔤", "description": "input latin letters" },
+  "uma": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "ab": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "b": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "cl": { "replacement": "🆑", "description": "CL button" },
+  "legal": { "replacement": "🆒", "description": "COOL button" },
+  "livre": { "replacement": "🆓", "description": "FREE button" },
+  "fonte de informação": { "replacement": "ℹ️", "description": "information" },
+  "Eu iria": { "replacement": "🆔", "description": "ID button" },
+  "m": { "replacement": "Ⓜ️", "description": "circled M" },
+  "Novo": { "replacement": "🆕", "description": "NEW button" },
+  "ng": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "Está bem": { "replacement": "🆗", "description": "OK button" },
+  "estacionamento": { "replacement": "🅿️", "description": "P button" },
+  "SOS": { "replacement": "🆘", "description": "SOS button" },
+  "acima": { "replacement": "🆙", "description": "UP! button" },
+  "vs": { "replacement": "🆚", "description": "VS button" },
+  "Koko": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "sa": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "vantagem do ideograma": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "aceitar": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "Parabéns": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "segredo": { "replacement": "㊙️", "description": "Japanese “secret” button" },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "círculo vermelho": { "replacement": "🔴", "description": "red circle" },
+  "círculo laranja": { "replacement": "🟠", "description": "orange circle" },
+  "círculo amarelo": { "replacement": "🟡", "description": "yellow circle" },
+  "círculo verde": { "replacement": "🟢", "description": "green circle" },
+  "grande círculo azul": { "replacement": "🔵", "description": "blue circle" },
+  "círculo roxo": { "replacement": "🟣", "description": "purple circle" },
+  "círculo marrom": { "replacement": "🟤", "description": "brown circle" },
+  "círculo preto": { "replacement": "⚫", "description": "black circle" },
+  "círculo branco": { "replacement": "⚪", "description": "white circle" },
+  "quadrado vermelho": { "replacement": "🟥", "description": "red square" },
+  "quadrado laranja": { "replacement": "🟧", "description": "orange square" },
+  "quadrado amarelo": { "replacement": "🟨", "description": "yellow square" },
+  "quadrado verde": { "replacement": "🟩", "description": "green square" },
+  "quadrado azul": { "replacement": "🟦", "description": "blue square" },
+  "quadrado roxo": { "replacement": "🟪", "description": "purple square" },
+  "quadrado marrom": { "replacement": "🟫", "description": "brown square" },
+  "quadrado grande preto": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "quadrado grande branco": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "quadrado médio preto": {
+    "replacement": "◼️",
+    "description": "black medium square"
+  },
+  "quadrado médio branco": {
+    "replacement": "◻️",
+    "description": "white medium square"
+  },
+  "quadrado preto médio pequeno": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "quadrado branco médio pequeno": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "quadrado pequeno preto": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "quadrado pequeno branco": {
+    "replacement": "▫️",
+    "description": "white small square"
+  },
+  "grande diamante laranja": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "grande diamante azul": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "pequeno diamante laranja": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "pequeno diamante azul": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "pequeno triângulo vermelho": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "pequeno triângulo vermelho para baixo": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "forma de diamante com um ponto dentro": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "botao de radio": { "replacement": "🔘", "description": "radio button" },
+  "botão quadrado branco": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "botão quadrado preto": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "bandeira quadriculada": {
+    "replacement": "🏁",
+    "description": "chequered flag"
+  },
+  "bandeira triangular no poste": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "bandeiras cruzadas": { "replacement": "🎌", "description": "crossed flags" },
+  "Bandeira preta": { "replacement": "🏴", "description": "black flag" },
+  "bandeira branca": { "replacement": "🏳️", "description": "white flag" },
+  "bandeira do arco-íris": {
+    "replacement": "🏳️‍🌈",
+    "description": "rainbow flag"
+  },
+  "bandeira transgênero": {
+    "replacement": "🏳️‍⚧️",
+    "description": "transgender flag"
+  },
+  "bandeira pirata": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "ilha da ascensão": {
+    "replacement": "🇦🇨",
+    "description": "flag: Ascension Island"
+  },
+  "andorra": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "Emirados Árabes Unidos": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "Afeganistão": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "Antigua Barbuda": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "anguila": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "Albânia": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "Armênia": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "Angola": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "Antártica": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "Argentina": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "Samoa Americana": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "Áustria": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "Austrália": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "aruba": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "Ilhas Aland": { "replacement": "🇦🇽", "description": "flag: Åland Islands" },
+  "Azerbaijão": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "Bósnia e Herzegovina": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "barbados": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "Bangladesh": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "Bélgica": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "Burkina Faso": { "replacement": "🇧🇫", "description": "flag: Burkina Faso" },
+  "Bulgária": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "Bahrein": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "Burundi": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "benin": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "St Barthelemy": {
+    "replacement": "🇧🇱",
+    "description": "flag: St. Barthélemy"
+  },
+  "Bermudas": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "Brunei": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "Bolívia": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "Holanda caribenha": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "Brasil": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "bahamas": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "Butão": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "Ilha Bouvet": { "replacement": "🇧🇻", "description": "flag: Bouvet Island" },
+  "botswana": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "Bielorrússia": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "belize": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "Canadá": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "ilhas cocos": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "congo kinshasa": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "república centro-africana": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "congo brazzaville": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "Suíça": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "Costa do Marfim": {
+    "replacement": "🇨🇮",
+    "description": "flag: Côte d’Ivoire"
+  },
+  "Ilhas Cook": { "replacement": "🇨🇰", "description": "flag: Cook Islands" },
+  "Chile": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "Camarões": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "cn": { "replacement": "🇨🇳", "description": "flag: China" },
+  "Colômbia": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "Ilha de Clipperton": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "Costa Rica": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "Cuba": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "cabo Verde": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "curaçao": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "Ilha do Natal": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "Chipre": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "República Checa": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "de": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "diego garcia": { "replacement": "🇩🇬", "description": "flag: Diego Garcia" },
+  "Djibouti": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "Dinamarca": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "Dominica": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "República Dominicana": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "Argélia": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "ceuta melilla": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "Equador": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "Estônia": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "Egito": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "Saara Ocidental": {
+    "replacement": "🇪🇭",
+    "description": "flag: Western Sahara"
+  },
+  "eritreia": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "es": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "Etiópia": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "eu": { "replacement": "🇪🇺", "description": "flag: European Union" },
+  "Finlândia": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "fiji": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "ilhas falkland": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "Micronésia": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "ilhas Faroe": { "replacement": "🇫🇴", "description": "flag: Faroe Islands" },
+  "fr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "Gabão": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "gb": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "Granada": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "Geórgia": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "Guiana Francesa": {
+    "replacement": "🇬🇫",
+    "description": "flag: French Guiana"
+  },
+  "Guernsey": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "Gana": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "Gibraltar": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "Groenlândia": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "Gâmbia": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "Guiné": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "Guadalupe": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "Guiné Equatorial": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "Grécia": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "georgia sul ilhas sandwich": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "Guatemala": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "guam": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "Guiné-Bissau": { "replacement": "🇬🇼", "description": "flag: Guinea-Bissau" },
+  "Guiana": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "Hong Kong": {
+    "replacement": "🇭🇰",
+    "description": "flag: Hong Kong SAR China"
+  },
+  "ouvi as ilhas McDonald": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "Honduras": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "Croácia": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "Haiti": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "Hungria": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "Ilhas Canárias": {
+    "replacement": "🇮🇨",
+    "description": "flag: Canary Islands"
+  },
+  "Indonésia": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "Irlanda": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "Israel": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "ilha do homem": { "replacement": "🇮🇲", "description": "flag: Isle of Man" },
+  "Índia": { "replacement": "🇮🇳", "description": "flag: India" },
+  "território britânico do oceano índico": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "Iraque": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "iran": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "Islândia": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "isto": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "Jamaica": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "Jordânia": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "jp": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "Quênia": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "Quirguistão": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "Camboja": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "Kiribati": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "Comores": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "St Kitts Nevis": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "Coreia do Norte": {
+    "replacement": "🇰🇵",
+    "description": "flag: North Korea"
+  },
+  "kr": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "Kuwait": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "Ilhas Cayman": {
+    "replacement": "🇰🇾",
+    "description": "flag: Cayman Islands"
+  },
+  "Cazaquistão": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "Laos": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "Líbano": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "Santa Lúcia": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "Liechtenstein": {
+    "replacement": "🇱🇮",
+    "description": "flag: Liechtenstein"
+  },
+  "Sri Lanka": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "Libéria": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "Lesoto": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "Lituânia": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "Luxemburgo": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "Letônia": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "Líbia": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "Marrocos": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "monaco": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "moldova": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "Montenegro": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "São Martinho": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "Madagáscar": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "Ilhas Marshall": {
+    "replacement": "🇲🇭",
+    "description": "flag: Marshall Islands"
+  },
+  "macedônia": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "mali": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "myanmar": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "Mongólia": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "macau": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "ilhas marianas do norte": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "Martinica": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "Mauritânia": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "Montserrat": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "Malta": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "maurício": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "Maldivas": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "malawi": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "México": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "Malásia": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "Moçambique": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "namibia": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "Nova Caledônia": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "Níger": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "Ilha Norfolk": {
+    "replacement": "🇳🇫",
+    "description": "flag: Norfolk Island"
+  },
+  "Nigéria": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "Nicarágua": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "Países Baixos": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "Noruega": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "Nepal": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "nauru": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "niue": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "Nova Zelândia": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "Omã": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "Panamá": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "Polinésia Francesa": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "Papua Nova Guiné": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "Filipinas": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "Paquistão": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "Polônia": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "São Pedro Miquelon": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "Pitcairn Islands": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "Porto Rico": { "replacement": "🇵🇷", "description": "flag: Puerto Rico" },
+  "Territórios Palestinos": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "Portugal": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "Palau": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "Paraguai": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "Catar": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "reunião": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "Romênia": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "Sérvia": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "ru": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "Ruanda": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "Arábia Saudita": {
+    "replacement": "🇸🇦",
+    "description": "flag: Saudi Arabia"
+  },
+  "Ilhas Salomão": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "Seychelles": { "replacement": "🇸🇨", "description": "flag: Seychelles" },
+  "Sudão": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "Suécia": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "Cingapura": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "Santa Helena": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "Eslovênia": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "svalbard jan mayen": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "Eslováquia": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "Serra Leoa": { "replacement": "🇸🇱", "description": "flag: Sierra Leone" },
+  "San Marino": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "Senegal": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "Somália": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "suriname": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "Sudão do Sul": { "replacement": "🇸🇸", "description": "flag: South Sudan" },
+  "São Tomé Príncipe": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "El Salvador": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "Sint Maarten": { "replacement": "🇸🇽", "description": "flag: Sint Maarten" },
+  "Síria": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "Suazilândia": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "tristão da cunha": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "Ilhas Turks Caicos": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "Chade": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "territórios franceses do sul": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "ir": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "Tailândia": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "tajiquistão": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "tokelau": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "timor leste": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "Turcomenistão": { "replacement": "🇹🇲", "description": "flag: Turkmenistan" },
+  "Tunísia": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "tonga": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "tr": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "Trinidad Tobago": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "tuvalu": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "Taiwan": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "Tanzânia": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "Ucrânia": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "Uganda": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "nós, ilhas remotas": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "Nações Unidas": {
+    "replacement": "🇺🇳",
+    "description": "flag: United Nations"
+  },
+  "nos": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "Uruguai": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "uzbequistão": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "cidade do Vaticano": {
+    "replacement": "🇻🇦",
+    "description": "flag: Vatican City"
+  },
+  "São Vicente Granadinas": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "Venezuela": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "Ilhas Virgens Britânicas": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "nós, ilhas virgens": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "Vietnã": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "vanuatu": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "Wallis Futuna": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "samoa": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "Kosovo": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "Iémen": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "mayotte": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "África do Sul": { "replacement": "🇿🇦", "description": "flag: South Africa" },
+  "Zâmbia": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "Zimbábue": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "Inglaterra": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "Escócia": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "Gales": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

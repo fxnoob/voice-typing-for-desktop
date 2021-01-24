@@ -1,0 +1,2620 @@
+{
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "پوزخند زدن": { "replacement": "😏", "description": "smirking face" },
+  "لبخند زدن": { "replacement": "😬", "description": "grimacing face" },
+  "لبخند": {
+    "replacement": "😄",
+    "description": "grinning face with smiling eyes"
+  },
+  "خندیدن": { "replacement": "😆", "description": "grinning squinting face" },
+  "لبخند عرق": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "روفل": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "شادی": { "replacement": "😂", "description": "face with tears of joy" },
+  "صورت کمی خندان": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "صورت وارونه": { "replacement": "🙃", "description": "upside-down face" },
+  "چشمک زن": { "replacement": "😉", "description": "winking face" },
+  "سرخ شدن": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "بی گناه": { "replacement": "😇", "description": "smiling face with halo" },
+  "صورت خندان با سه قلب": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "چشم دل": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "ستاره زده": { "replacement": "🤩", "description": "star-struck" },
+  "بوسیدن قلب": { "replacement": "😘", "description": "face blowing a kiss" },
+  "بوس کردن": { "replacement": "😗", "description": "kissing face" },
+  "آرام": { "replacement": "☺️", "description": "smiling face" },
+  "چشمان بسته": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "بوسیدن چشمان خندان": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "صورت خندان با اشک": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "یوم": { "replacement": "😋", "description": "face savoring food" },
+  "زبان بیرون زده": { "replacement": "😛", "description": "face with tongue" },
+  "بیرون زد چشم چشمک می زند": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "چهره زنی": { "replacement": "🤪", "description": "zany face" },
+  "بیرون زد زبان چشمان بسته": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "صورت دهان پول": { "replacement": "🤑", "description": "money-mouth face" },
+  "آغوش": { "replacement": "🤗", "description": "hugging face" },
+  "دهان به دست بده": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "صورت شکننده": { "replacement": "🤫", "description": "shushing face" },
+  "فكر كردن": { "replacement": "🤔", "description": "thinking face" },
+  "صورت دهانی زیپ دار": {
+    "replacement": "🤐",
+    "description": "zipper-mouth face"
+  },
+  "ابرو بلند شده": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "صورت بی طرف": { "replacement": "😐", "description": "neutral face" },
+  "بی بیان": { "replacement": "😑", "description": "expressionless face" },
+  "دهان ندارد": { "replacement": "😶", "description": "face without mouth" },
+  "بی سر و صدا": { "replacement": "😒", "description": "unamused face" },
+  "چشمان گرد": { "replacement": "🙄", "description": "face with rolling eyes" },
+  "صورت دراز کشیده": { "replacement": "🤥", "description": "lying face" },
+  "راحت شد": { "replacement": "😌", "description": "relieved face" },
+  "متفکر": { "replacement": "😔", "description": "pensive face" },
+  "خواب آلود": { "replacement": "😪", "description": "sleepy face" },
+  "صورت افتاده": { "replacement": "🤤", "description": "drooling face" },
+  "خوابیدن": { "replacement": "😴", "description": "sleeping face" },
+  "نقاب زدن": { "replacement": "😷", "description": "face with medical mask" },
+  "صورت با دماسنج": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "صورت با باند سر": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "صورت حالت تهوع": { "replacement": "🤢", "description": "nauseated face" },
+  "صورت استفراغ": { "replacement": "🤮", "description": "face vomiting" },
+  "عطسه کردن صورت": { "replacement": "🤧", "description": "sneezing face" },
+  "صورت داغ": { "replacement": "🥵", "description": "hot face" },
+  "صورت سرد": { "replacement": "🥶", "description": "cold face" },
+  "صورت پری": { "replacement": "🥴", "description": "woozy face" },
+  "صورت گیجی": { "replacement": "😵", "description": "dizzy face" },
+  "سر منفجر": { "replacement": "🤯", "description": "exploding head" },
+  "صورت کلاه گاوچران": {
+    "replacement": "🤠",
+    "description": "cowboy hat face"
+  },
+  "چهره مهمانی": { "replacement": "🥳", "description": "partying face" },
+  "چهره مبدل": { "replacement": "🥸", "description": "disguised face" },
+  "عینک آفتابی": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "صورت برهنه": { "replacement": "🤓", "description": "nerd face" },
+  "صورت مونوکل": { "replacement": "🧐", "description": "face with monocle" },
+  "سردرگم": { "replacement": "😕", "description": "confused face" },
+  "نگران": { "replacement": "😟", "description": "worried face" },
+  "کمی اخم صورت": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "اخم صورت": { "replacement": "☹️", "description": "frowning face" },
+  "دهان باز": { "replacement": "😮", "description": "face with open mouth" },
+  "خاموش": { "replacement": "😯", "description": "hushed face" },
+  "متحیر": { "replacement": "😲", "description": "astonished face" },
+  "سرخ شده": { "replacement": "😳", "description": "flushed face" },
+  "صورت التماس": { "replacement": "🥺", "description": "pleading face" },
+  "اخم کردن": {
+    "replacement": "😦",
+    "description": "frowning face with open mouth"
+  },
+  "رنجیده": { "replacement": "😧", "description": "anguished face" },
+  "ترسناک": { "replacement": "😨", "description": "fearful face" },
+  "عرق سرد": { "replacement": "😰", "description": "anxious face with sweat" },
+  "ناامید راحت شد": {
+    "replacement": "😥",
+    "description": "sad but relieved face"
+  },
+  "گریه کردن": { "replacement": "😢", "description": "crying face" },
+  "هق هق گریه": { "replacement": "😭", "description": "loudly crying face" },
+  "جیغ زدن": { "replacement": "😱", "description": "face screaming in fear" },
+  "گیج شده": { "replacement": "😖", "description": "confounded face" },
+  "استقامت": { "replacement": "😣", "description": "persevering face" },
+  "ناامید": { "replacement": "😞", "description": "disappointed face" },
+  "عرق کردن": {
+    "replacement": "😓",
+    "description": "downcast face with sweat"
+  },
+  "خسته": { "replacement": "😩", "description": "weary face" },
+  "صورت خسته": { "replacement": "😫", "description": "tired face" },
+  "خمیازه صورت": { "replacement": "🥱", "description": "yawning face" },
+  "پیروزی": { "replacement": "😤", "description": "face with steam from nose" },
+  "خشم": { "replacement": "😡", "description": "pouting face" },
+  "خشمگین": { "replacement": "😠", "description": "angry face" },
+  "صورت لعنت": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "دزدانه خندان": {
+    "replacement": "😈",
+    "description": "smiling face with horns"
+  },
+  "حراج کردن": { "replacement": "👿", "description": "angry face with horns" },
+  "جمجمه": { "replacement": "💀", "description": "skull" },
+  "جمجمه و استخوان های عرضی": {
+    "replacement": "☠️",
+    "description": "skull and crossbones"
+  },
+  "حنجره": { "replacement": "💩", "description": "pile of poo" },
+  "چهره دلقک": { "replacement": "🤡", "description": "clown face" },
+  "خوشمزه ژاپنی": { "replacement": "👹", "description": "ogre" },
+  "اجنه ژاپنی": { "replacement": "👺", "description": "goblin" },
+  "روح": { "replacement": "👻", "description": "ghost" },
+  "بیگانه": { "replacement": "👽", "description": "alien" },
+  "مهاجم فضایی": { "replacement": "👾", "description": "alien monster" },
+  "ربات": { "replacement": "🤖", "description": "robot" },
+  "گربه خندان": { "replacement": "😺", "description": "grinning cat" },
+  "لبخند گربه": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "گربه شادی": { "replacement": "😹", "description": "cat with tears of joy" },
+  "چشم قلب گربه": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "پوزخند گربه": { "replacement": "😼", "description": "cat with wry smile" },
+  "بوسیدن گربه": { "replacement": "😽", "description": "kissing cat" },
+  "گربه جیغ": { "replacement": "🙀", "description": "weary cat" },
+  "گربه صورت گربه": { "replacement": "😿", "description": "crying cat" },
+  "گربه چرک دار": { "replacement": "😾", "description": "pouting cat" },
+  "هیچ بدی نبین": { "replacement": "🙈", "description": "see-no-evil monkey" },
+  "هیچ بدی نمی شنو": {
+    "replacement": "🙉",
+    "description": "hear-no-evil monkey"
+  },
+  "هیچ بدی صحبت نکن": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "بوسه": { "replacement": "💋", "description": "kiss mark" },
+  "نامه عاشقانه": { "replacement": "💌", "description": "love letter" },
+  "کوپید": { "replacement": "💘", "description": "heart with arrow" },
+  "قلب هدیه": { "replacement": "💝", "description": "heart with ribbon" },
+  "قلب درخشان": { "replacement": "💖", "description": "sparkling heart" },
+  "ضربان قلب": { "replacement": "💗", "description": "growing heart" },
+  "تپش قلب": { "replacement": "💓", "description": "beating heart" },
+  "قلبهای گردان": { "replacement": "💞", "description": "revolving hearts" },
+  "دو قلب": { "replacement": "💕", "description": "two hearts" },
+  "تزئین قلب": { "replacement": "💟", "description": "heart decoration" },
+  "تعجب سنگین قلب": { "replacement": "❣️", "description": "heart exclamation" },
+  "قلب شکسته": { "replacement": "💔", "description": "broken heart" },
+  "قلب": { "replacement": "❤️", "description": "red heart" },
+  "قلب نارنجی": { "replacement": "🧡", "description": "orange heart" },
+  "قلب زرد": { "replacement": "💛", "description": "yellow heart" },
+  "قلب سبز": { "replacement": "💚", "description": "green heart" },
+  "قلب آبی": { "replacement": "💙", "description": "blue heart" },
+  "قلب بنفش": { "replacement": "💜", "description": "purple heart" },
+  "قلب قهوه ای": { "replacement": "🤎", "description": "brown heart" },
+  "قلب سیاه": { "replacement": "🖤", "description": "black heart" },
+  "قلب سفید": { "replacement": "🤍", "description": "white heart" },
+  "عصبانیت": { "replacement": "💢", "description": "anger symbol" },
+  "رونق": { "replacement": "💥", "description": "collision" },
+  "سرگیجه": { "replacement": "💫", "description": "dizzy" },
+  "قطره عرق": { "replacement": "💦", "description": "sweat droplets" },
+  "خط تیره": { "replacement": "💨", "description": "dashing away" },
+  "سوراخ": { "replacement": "🕳️", "description": "hole" },
+  "بمب گذاری": { "replacement": "💣", "description": "bomb" },
+  "بادکنک گفتاری": { "replacement": "💬", "description": "speech balloon" },
+  "حباب گفتار چشم": {
+    "replacement": "👁️‍🗨️",
+    "description": "eye in speech bubble"
+  },
+  "حباب گفتار سمت چپ": {
+    "replacement": "🗨️",
+    "description": "left speech bubble"
+  },
+  "حباب خشم راست": { "replacement": "🗯️", "description": "right anger bubble" },
+  "بادکنک فکری": { "replacement": "💭", "description": "thought balloon" },
+  "zzz": { "replacement": "💤", "description": "zzz" },
+  "موج": { "replacement": "👋", "description": "waving hand" },
+  "پشت دست بلند شده": {
+    "replacement": "🤚",
+    "description": "raised back of hand"
+  },
+  "دست بلند شده با انگشتان پاشیده شده": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "دست": { "replacement": "✋", "description": "raised hand" },
+  "سلام ولکان": { "replacement": "🖖", "description": "vulcan salute" },
+  "باشه دست": { "replacement": "👌", "description": "OK hand" },
+  "انگشتان نیشگون گرفته": {
+    "replacement": "🤌",
+    "description": "pinched fingers"
+  },
+  "نیشگون گرفتن دست": { "replacement": "🤏", "description": "pinching hand" },
+  "v": { "replacement": "✌️", "description": "victory hand" },
+  "انگشتان ضربدری شده": {
+    "replacement": "🤞",
+    "description": "crossed fingers"
+  },
+  "دوستت دارم ژست": { "replacement": "🤟", "description": "love-you gesture" },
+  "فلز": { "replacement": "🤘", "description": "sign of the horns" },
+  "با من تماس بگیر": { "replacement": "🤙", "description": "call me hand" },
+  "نقطه سمت چپ": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "سمت راست": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "اشاره کردن 2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "انگشت وسط": { "replacement": "🖕", "description": "middle finger" },
+  "به پایین اشاره کنید": {
+    "replacement": "👇",
+    "description": "backhand index pointing down"
+  },
+  "اشاره کردن": { "replacement": "☝️", "description": "index pointing up" },
+  "1+": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "مشت بلند شده": { "replacement": "✊", "description": "raised fist" },
+  "مشت نزدیک شدن": { "replacement": "👊", "description": "oncoming fist" },
+  "مشت چپ": { "replacement": "🤛", "description": "left-facing fist" },
+  "مشت راست": { "replacement": "🤜", "description": "right-facing fist" },
+  "کف زدن": { "replacement": "🎬", "description": "clapper board" },
+  "دستان بلند شده": { "replacement": "🙌", "description": "raising hands" },
+  "دستان باز": { "replacement": "👐", "description": "open hands" },
+  "کف دست بالا": { "replacement": "🤲", "description": "palms up together" },
+  "دست دادن": { "replacement": "🤝", "description": "handshake" },
+  "نماز خواندن": { "replacement": "🙏", "description": "folded hands" },
+  "دست نوشتن": { "replacement": "✍️", "description": "writing hand" },
+  "مراقبت از ناخن": { "replacement": "💅", "description": "nail polish" },
+  "سلفی": { "replacement": "🤳", "description": "selfie" },
+  "ماهیچه": { "replacement": "💪", "description": "flexed biceps" },
+  "بازوی مکانیکی": { "replacement": "🦾", "description": "mechanical arm" },
+  "پای مکانیکی": { "replacement": "🦿", "description": "mechanical leg" },
+  "پا": { "replacement": "🐾", "description": "paw prints" },
+  "گوش": { "replacement": "👂", "description": "ear" },
+  "گوش با سمعک": { "replacement": "🦻", "description": "ear with hearing aid" },
+  "بینی": { "replacement": "👃", "description": "nose" },
+  "مغز": { "replacement": "🧠", "description": "brain" },
+  "قلب تشریحی": { "replacement": "🫀", "description": "anatomical heart" },
+  "ریه ها": { "replacement": "🫁", "description": "lungs" },
+  "دندان": { "replacement": "🦷", "description": "tooth" },
+  "استخوان": { "replacement": "🦴", "description": "bone" },
+  "چشم ها": { "replacement": "👀", "description": "eyes" },
+  "چشم": { "replacement": "👁️", "description": "eye" },
+  "زبان": { "replacement": "👅", "description": "tongue" },
+  "لبها": { "replacement": "👄", "description": "mouth" },
+  "عزیزم": { "replacement": "👶", "description": "baby" },
+  "کودک": { "replacement": "🧒", "description": "child" },
+  "پسر": { "replacement": "👦", "description": "boy" },
+  "دختر": { "replacement": "👧", "description": "girl" },
+  "بزرگسال": { "replacement": "🧑", "description": "person" },
+  "موی بور": { "replacement": "👱", "description": "person: blond hair" },
+  "مرد": { "replacement": "🧜‍♂️", "description": "merman" },
+  "ریش دار": { "replacement": "🧔", "description": "man: beard" },
+  "مرد مو قرمز": { "replacement": "👨‍🦰", "description": "man: red hair" },
+  "مرد مو فرفری": { "replacement": "👨‍🦱", "description": "man: curly hair" },
+  "مرد مو سفید": { "replacement": "👨‍🦳", "description": "man: white hair" },
+  "مرد کچل": { "replacement": "👨‍🦲", "description": "man: bald" },
+  "زن": { "replacement": "👩", "description": "woman" },
+  "زن مو قرمز": { "replacement": "👩‍🦰", "description": "woman: red hair" },
+  "مو قرمز": { "replacement": "🧑‍🦰", "description": "person: red hair" },
+  "زن مو فرفری": { "replacement": "👩‍🦱", "description": "woman: curly hair" },
+  "موهای فرفری": {
+    "replacement": "🧑‍🦱",
+    "description": "person: curly hair"
+  },
+  "زن سفید مو": { "replacement": "👩‍🦳", "description": "woman: white hair" },
+  "مو سفید": { "replacement": "🧑‍🦳", "description": "person: white hair" },
+  "زن کچل": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "کچل": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "زن مو بور": { "replacement": "👱‍♀️", "description": "woman: blond hair" },
+  "مرد مو بور": { "replacement": "👱‍♂️", "description": "man: blond hair" },
+  "بزرگتر بزرگتر": { "replacement": "🧓", "description": "older person" },
+  "پیرمرد": { "replacement": "👴", "description": "old man" },
+  "زن مسن": { "replacement": "👵", "description": "old woman" },
+  "اخم کننده": { "replacement": "🙍", "description": "person frowning" },
+  "اخم آدمی": { "replacement": "🙍‍♂️", "description": "man frowning" },
+  "اخم زن": { "replacement": "🙍‍♀️", "description": "woman frowning" },
+  "صورت غر زدن": { "replacement": "🙎", "description": "person pouting" },
+  "مرد غر زدن": { "replacement": "🙎‍♂️", "description": "man pouting" },
+  "زن غر زدن": { "replacement": "🙎‍♀️", "description": "woman pouting" },
+  "خوب نیست": { "replacement": "🙅", "description": "person gesturing NO" },
+  "هیچ مرد خوبی نیست": {
+    "replacement": "🙅‍♂️",
+    "description": "man gesturing NO"
+  },
+  "زن خوبی نیست": { "replacement": "🙅‍♀️", "description": "woman gesturing NO" },
+  "باشه": { "replacement": "🙆", "description": "person gesturing OK" },
+  "باشه مرد": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "باشه زن": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "نوک دستی": { "replacement": "💁", "description": "person tipping hand" },
+  "مرد نوک دار": { "replacement": "💁‍♂️", "description": "man tipping hand" },
+  "نوک زن دست": { "replacement": "💁‍♀️", "description": "woman tipping hand" },
+  "بالا بردن دست": {
+    "replacement": "🙋",
+    "description": "person raising hand"
+  },
+  "مرد دست بلند کردن": {
+    "replacement": "🙋‍♂️",
+    "description": "man raising hand"
+  },
+  "بالا بردن دست زن": {
+    "replacement": "🙋‍♀️",
+    "description": "woman raising hand"
+  },
+  "ناشنوا": { "replacement": "🧏", "description": "deaf person" },
+  "مرد ناشنوا": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "زن ناشنوا": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "تعظیم": { "replacement": "🙇", "description": "person bowing" },
+  "رکوع مرد": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "خم شدن زن": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "فیس پالم": { "replacement": "🤦", "description": "person facepalming" },
+  "مرد چهره پردازی": { "replacement": "🤦‍♂️", "description": "man facepalming" },
+  "چهره پردازی زن": { "replacement": "🤦‍♀️", "description": "woman facepalming" },
+  "شانه بالا انداختن": {
+    "replacement": "🤷",
+    "description": "person shrugging"
+  },
+  "مرد شانه بالا می اندازد": {
+    "replacement": "🤷‍♂️",
+    "description": "man shrugging"
+  },
+  "زن شانه بالا می اندازد": {
+    "replacement": "🤷‍♀️",
+    "description": "woman shrugging"
+  },
+  "کارگر بهداشت": { "replacement": "🧑‍⚕️", "description": "health worker" },
+  "انسان کارگر بهداشت": {
+    "replacement": "👨‍⚕️",
+    "description": "man health worker"
+  },
+  "کارگر بهداشت زن": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "دانشجو": { "replacement": "🧑‍🎓", "description": "student" },
+  "مرد دانشجو": { "replacement": "👨‍🎓", "description": "man student" },
+  "دانشجو زن": { "replacement": "👩‍🎓", "description": "woman student" },
+  "معلم": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "مرد معلم": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "معلم زن": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "قاضی کردن": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "مرد قاضی": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "قاضی زن": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "مزرعه دار": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "مرد کشاورز": { "replacement": "👨‍🌾", "description": "man farmer" },
+  "کشاورز زن": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "پختن": { "replacement": "🧑‍🍳", "description": "cook" },
+  "مرد آشپز": { "replacement": "👨‍🍳", "description": "man cook" },
+  "آشپز زن": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "مکانیک": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "مرد مکانیک": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "مکانیک زن": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "کارگر کارخانه": { "replacement": "🧑‍🏭", "description": "factory worker" },
+  "مرد کارگر کارخانه": {
+    "replacement": "👨‍🏭",
+    "description": "man factory worker"
+  },
+  "کارگر زن کارخانه": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "کارگر دفتر": { "replacement": "🧑‍💼", "description": "office worker" },
+  "مرد کارمند دفتر": {
+    "replacement": "👨‍💼",
+    "description": "man office worker"
+  },
+  "زن کارمند دفتر": {
+    "replacement": "👩‍💼",
+    "description": "woman office worker"
+  },
+  "دانشمند": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "انسان دانشمند": { "replacement": "👨‍🔬", "description": "man scientist" },
+  "دانشمند زن": { "replacement": "👩‍🔬", "description": "woman scientist" },
+  "تکنسین": { "replacement": "🧑‍💻", "description": "technologist" },
+  "مرد تکنسین": { "replacement": "👨‍💻", "description": "man technologist" },
+  "زن تکنسین": { "replacement": "👩‍💻", "description": "woman technologist" },
+  "خواننده": { "replacement": "🧑‍🎤", "description": "singer" },
+  "مرد خواننده": { "replacement": "👨‍🎤", "description": "man singer" },
+  "خواننده زن": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "هنرمند": { "replacement": "🧑‍🎨", "description": "artist" },
+  "مرد هنرمند": { "replacement": "👨‍🎨", "description": "man artist" },
+  "زن هنرمند": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "خلبان": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "مرد خلبان": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "خلبان زن": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "فضانورد": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "انسان فضانورد": { "replacement": "👨‍🚀", "description": "man astronaut" },
+  "فضانورد زن": { "replacement": "👩‍🚀", "description": "woman astronaut" },
+  "آتش نشان": { "replacement": "🧑‍🚒", "description": "firefighter" },
+  "مرد آتش نشان": { "replacement": "👨‍🚒", "description": "man firefighter" },
+  "زن آتش نشان": { "replacement": "👩‍🚒", "description": "woman firefighter" },
+  "افسر پلیس": { "replacement": "👮", "description": "police officer" },
+  "پلیس": { "replacement": "👮‍♂️", "description": "man police officer" },
+  "زن پلیس": { "replacement": "👮‍♀️", "description": "woman police officer" },
+  "کاراگاه": { "replacement": "🕵️", "description": "detective" },
+  "کارآگاه مرد": { "replacement": "🕵️‍♂️", "description": "man detective" },
+  "کارآگاه زن": { "replacement": "🕵️‍♀️", "description": "woman detective" },
+  "نگهبان": { "replacement": "💂‍♂️", "description": "man guard" },
+  "زن محافظ": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "نینجا": { "replacement": "🥷", "description": "ninja" },
+  "کارگر ساختمانی": {
+    "replacement": "👷",
+    "description": "construction worker"
+  },
+  "مرد کارگر ساختمانی": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "زن کارگر ساختمانی": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "شاهزاده": { "replacement": "👸", "description": "princess" },
+  "شخص با عمامه": {
+    "replacement": "👳",
+    "description": "person wearing turban"
+  },
+  "مردی با عمامه": { "replacement": "👳‍♂️", "description": "man wearing turban" },
+  "زن با عمامه": { "replacement": "👳‍♀️", "description": "woman wearing turban" },
+  "مردی با گوآ پی مائو": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "زن روسری": { "replacement": "🧕", "description": "woman with headscarf" },
+  "شخصی در لباس مجلسی": {
+    "replacement": "🤵",
+    "description": "person in tuxedo"
+  },
+  "مردی با لباس مجلسی": {
+    "replacement": "🤵‍♂️",
+    "description": "man in tuxedo"
+  },
+  "زن در لباس تاکیدو": {
+    "replacement": "🤵‍♀️",
+    "description": "woman in tuxedo"
+  },
+  "شخص محجبه": { "replacement": "👰", "description": "person with veil" },
+  "مرد با حجاب": { "replacement": "👰‍♂️", "description": "man with veil" },
+  "زن محجبه": { "replacement": "👰‍♀️", "description": "woman with veil" },
+  "زن باردار": { "replacement": "🤰", "description": "pregnant woman" },
+  "شیر دادن": { "replacement": "🤱", "description": "breast-feeding" },
+  "زن تغذیه کودک": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "مردی که کودک را تغذیه می کند": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "شخصی که کودک را تغذیه می کند": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "فرشته": { "replacement": "👼", "description": "baby angel" },
+  "سانتا": { "replacement": "🎅", "description": "Santa Claus" },
+  "خانم کلاوس": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "mx claus": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "ابرقهرمان": { "replacement": "🦸", "description": "superhero" },
+  "انسان ابرقهرمان": { "replacement": "🦸‍♂️", "description": "man superhero" },
+  "زن ابرقهرمان": { "replacement": "🦸‍♀️", "description": "woman superhero" },
+  "ابرشرور": { "replacement": "🦹", "description": "supervillain" },
+  "انسان فوق شرور": { "replacement": "🦹‍♂️", "description": "man supervillain" },
+  "زن فوق شرور": { "replacement": "🦹‍♀️", "description": "woman supervillain" },
+  "جادوگر": { "replacement": "🧙", "description": "mage" },
+  "مرد جادوگر": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "زن جادوگر": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "پری": { "replacement": "🧚", "description": "fairy" },
+  "مرد پری": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "زن پری": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "خون آشام": { "replacement": "🧛", "description": "vampire" },
+  "مرد خون آشام": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "زن خون آشام": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "مرپرسون": { "replacement": "🧜", "description": "merperson" },
+  "پری دریایی": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "جن": { "replacement": "🧞", "description": "genie" },
+  "مرد جن": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "زن جن": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "زامبی": { "replacement": "🧟", "description": "zombie" },
+  "مرد زامبی": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "زن زامبی": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "ماساژ": { "replacement": "💆", "description": "person getting massage" },
+  "مرد ماساژ": { "replacement": "💆‍♂️", "description": "man getting massage" },
+  "زن ماساژور": { "replacement": "💆‍♀️", "description": "woman getting massage" },
+  "اصلاح مو": { "replacement": "💇", "description": "person getting haircut" },
+  "مرد مو": { "replacement": "💇‍♂️", "description": "man getting haircut" },
+  "زن مو": { "replacement": "💇‍♀️", "description": "woman getting haircut" },
+  "پیاده روی": { "replacement": "🚶", "description": "person walking" },
+  "مرد راه رفتن": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "زن راه رفتن": { "replacement": "🚶‍♀️", "description": "woman walking" },
+  "شخص ایستاده": { "replacement": "🧍", "description": "person standing" },
+  "مرد ایستاده": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "زن ایستاده": { "replacement": "🧍‍♀️", "description": "woman standing" },
+  "زانو زده": { "replacement": "🧎‍♀️", "description": "woman kneeling" },
+  "شخص دارای عصا": {
+    "replacement": "🧑‍🦯",
+    "description": "person with white cane"
+  },
+  "مردی با عصای کاوشگر": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "زنی با عصای کاوشگر": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "شخصی با ویلچر موتوری": {
+    "replacement": "🧑‍🦼",
+    "description": "person in motorized wheelchair"
+  },
+  "مردی با ویلچر موتوری": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "زن با ویلچر موتوری": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "شخصی با ویلچر دستی": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "مردی با ویلچر دستی": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "زن با ویلچر دستی": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "دونده": { "replacement": "🏃", "description": "person running" },
+  "مرد در حال اجرا": { "replacement": "🏃‍♂️", "description": "man running" },
+  "زن در حال اجرا": { "replacement": "🏃‍♀️", "description": "woman running" },
+  "رقص زن": { "replacement": "💃", "description": "woman dancing" },
+  "رقصیدن": { "replacement": "🕺", "description": "man dancing" },
+  "کت و شلوار تجاری": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "رقصنده ها": { "replacement": "👯", "description": "people with bunny ears" },
+  "مردان رقصنده": { "replacement": "👯‍♂️", "description": "men with bunny ears" },
+  "زنان رقصنده": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "شخص سونا": { "replacement": "🧖", "description": "person in steamy room" },
+  "مرد سونا": { "replacement": "🧖‍♂️", "description": "man in steamy room" },
+  "زن سونا": { "replacement": "🧖‍♀️", "description": "woman in steamy room" },
+  "سنگ نوردی": { "replacement": "🧗", "description": "person climbing" },
+  "مرد کوهنوردی": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "زن کوهنوردی": { "replacement": "🧗‍♀️", "description": "woman climbing" },
+  "شمشیربازی شخص": { "replacement": "🤺", "description": "person fencing" },
+  "مسابقه اسب دوانی": { "replacement": "🏇", "description": "horse racing" },
+  "اسکی باز": { "replacement": "⛷️", "description": "skier" },
+  "اسنوبوردر": { "replacement": "🏂", "description": "snowboarder" },
+  "گلف زدن": { "replacement": "🏌️", "description": "person golfing" },
+  "مرد گلف": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "زن گلف": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "موج سواری": { "replacement": "🏄", "description": "person surfing" },
+  "مرد موج سواری": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "زن موج سواری": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "قایق پارویی": { "replacement": "🚣", "description": "person rowing boat" },
+  "مرد قایقرانی": { "replacement": "🚣‍♂️", "description": "man rowing boat" },
+  "زن قایقرانی": { "replacement": "🚣‍♀️", "description": "woman rowing boat" },
+  "شناگر": { "replacement": "🏊", "description": "person swimming" },
+  "مرد شنا": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "زن شنا": { "replacement": "🏊‍♀️", "description": "woman swimming" },
+  "تندرست توپ شخص": {
+    "replacement": "⛹️",
+    "description": "person bouncing ball"
+  },
+  "مرد توپ تندرست": { "replacement": "⛹️‍♂️", "description": "man bouncing ball" },
+  "زن توپ تندرست": {
+    "replacement": "⛹️‍♀️",
+    "description": "woman bouncing ball"
+  },
+  "وزنه برداری": {
+    "replacement": "🏋️",
+    "description": "person lifting weights"
+  },
+  "مرد وزنه بردار": {
+    "replacement": "🏋️‍♂️",
+    "description": "man lifting weights"
+  },
+  "زن وزنه بردار": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "دوچرخه سوار": { "replacement": "🚴", "description": "person biking" },
+  "مرد دوچرخه سواری": { "replacement": "🚴‍♂️", "description": "man biking" },
+  "زن دوچرخه سواری": { "replacement": "🚴‍♀️", "description": "woman biking" },
+  "دوچرخه سوار کوهستان": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "مرد دوچرخه سواری کوهستان": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "زن دوچرخه سواری کوهستان": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "چرخ دستی": { "replacement": "🤸", "description": "person cartwheeling" },
+  "چرخ دستی مرد": { "replacement": "🤸‍♂️", "description": "man cartwheeling" },
+  "چرخ دستی زن": { "replacement": "🤸‍♀️", "description": "woman cartwheeling" },
+  "کشتی گرفتن": { "replacement": "🤼", "description": "people wrestling" },
+  "کشتی مردان": { "replacement": "🤼‍♂️", "description": "men wrestling" },
+  "کشتی زنان": { "replacement": "🤼‍♀️", "description": "women wrestling" },
+  "واترپلو": {
+    "replacement": "🤽",
+    "description": "person playing water polo"
+  },
+  "مرد واترپلو بازی می کند": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "زنی که واترپلو بازی می کند": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "شخص هندبال": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "مردی که هندبال بازی می کند": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "زن که هندبال بازی می کند": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "آدم شعبده باز": { "replacement": "🤹", "description": "person juggling" },
+  "مرد شعبده بازی": { "replacement": "🤹‍♂️", "description": "man juggling" },
+  "زن شعبده بازی": { "replacement": "🤹‍♀️", "description": "woman juggling" },
+  "موقعیت نیلوفر آبی": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "مرد موقعیت نیلوفر آبی": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "زن موقعیت نیلوفر آبی": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "حمام": { "replacement": "🛀", "description": "person taking bath" },
+  "تخت خواب": { "replacement": "🛌", "description": "person in bed" },
+  "مردم دست در دست هم": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "دو زن که دست هم را گرفته اند": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "زن و شوهر": { "replacement": "💏", "description": "kiss" },
+  "دو مرد که دست هم را گرفته اند": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "زن مرد زن و شوهر": {
+    "replacement": "👩‍❤️‍💋‍👨",
+    "description": "kiss: woman, man"
+  },
+  "مرد دوبلکی": { "replacement": "👨‍❤️‍💋‍👨", "description": "kiss: man, man" },
+  "زن زن کوکی": { "replacement": "👩‍❤️‍💋‍👩", "description": "kiss: woman, woman" },
+  "زن و شوهر با قلب": {
+    "replacement": "💑",
+    "description": "couple with heart"
+  },
+  "زن و شوهر با قلب زن مرد": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "زن و شوهر با مرد قلب مرد": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "زن و شوهر با قلب زن زن": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "خانواده": { "replacement": "👪", "description": "family" },
+  "مرد خانواده زن پسر": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "مرد خانواده دختر دختر": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "مرد خانواده زن دختر پسر": {
+    "replacement": "👨‍👩‍👧‍👦",
+    "description": "family: man, woman, girl, boy"
+  },
+  "مرد خانواده زن پسر پسر": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "مرد خانواده زن دختر دختر": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "مرد خانواده پسر پسر": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "مرد خانواده دختر": {
+    "replacement": "👨‍👨‍👧",
+    "description": "family: man, man, girl"
+  },
+  "مرد خانواده مرد دختر پسر": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "مرد خانواده مرد پسر پسر": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "مرد خانواده مرد دختر دختر": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "خانواده زن زن پسر": {
+    "replacement": "👩‍👩‍👦",
+    "description": "family: woman, woman, boy"
+  },
+  "زن خانواده دختر زن": {
+    "replacement": "👩‍👩‍👧",
+    "description": "family: woman, woman, girl"
+  },
+  "زن خانواده زن دختر پسر": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "زن خانواده زن پسر پسر": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "زن خانواده زن دختر دختر": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "پسر مرد خانواده": { "replacement": "👨‍👦", "description": "family: man, boy" },
+  "پسر خانواده پسر پسر": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "دختر مرد خانواده": {
+    "replacement": "👨‍👧",
+    "description": "family: man, girl"
+  },
+  "مرد خانواده دختر پسر": {
+    "replacement": "👨‍👧‍👦",
+    "description": "family: man, girl, boy"
+  },
+  "پسر خانواده پسر": {
+    "replacement": "👩‍👦",
+    "description": "family: woman, boy"
+  },
+  "زن خانواده پسر پسر": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "دختر زن خانواده": {
+    "replacement": "👩‍👧",
+    "description": "family: woman, girl"
+  },
+  "زن خانواده دختر پسر": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "زن خانواده دختر دختر": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "سر صحبت کردن": { "replacement": "🗣️", "description": "speaking head" },
+  "نیم تنه در شبح": {
+    "replacement": "👥",
+    "description": "busts in silhouette"
+  },
+  "مردم در آغوش گرفتن": { "replacement": "🫂", "description": "people hugging" },
+  "رد پا": { "replacement": "👣", "description": "footprints" },
+  "صورت میمون": { "replacement": "🐵", "description": "monkey face" },
+  "میمون": { "replacement": "🐒", "description": "monkey" },
+  "گوریل": { "replacement": "🦍", "description": "gorilla" },
+  "اورانگوتان": { "replacement": "🦧", "description": "orangutan" },
+  "سگ": { "replacement": "🐶", "description": "dog face" },
+  "سگ 2": { "replacement": "🐕", "description": "dog" },
+  "سگ راهنما": { "replacement": "🦮", "description": "guide dog" },
+  "سگ سرویس": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "پودل": { "replacement": "🐩", "description": "poodle" },
+  "گرگ": { "replacement": "🐺", "description": "wolf" },
+  "صورت روباه": { "replacement": "🦊", "description": "fox" },
+  "راکون": { "replacement": "🦝", "description": "raccoon" },
+  "گربه": { "replacement": "🐱", "description": "cat face" },
+  "گربه 2": { "replacement": "🐈", "description": "cat" },
+  "گربه سیاه": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "شیر نر": { "replacement": "🦁", "description": "lion" },
+  "ببر": { "replacement": "🐯", "description": "tiger face" },
+  "ببر 2": { "replacement": "🐅", "description": "tiger" },
+  "پلنگ": { "replacement": "🐆", "description": "leopard" },
+  "اسب": { "replacement": "🐴", "description": "horse face" },
+  "اسب مسابقه": { "replacement": "🐎", "description": "horse" },
+  "اسب تک شاخ": { "replacement": "🦄", "description": "unicorn" },
+  "گورخر": { "replacement": "🦓", "description": "zebra" },
+  "گوزن": { "replacement": "🦌", "description": "deer" },
+  "بیستون": { "replacement": "🦬", "description": "bison" },
+  "گاو": { "replacement": "🐂", "description": "ox" },
+  "گاو میش اهلی شده اسیایی": {
+    "replacement": "🐃",
+    "description": "water buffalo"
+  },
+  "گاو 2": { "replacement": "🐄", "description": "cow" },
+  "خوک": { "replacement": "🐷", "description": "pig face" },
+  "خوک 2": { "replacement": "🐖", "description": "pig" },
+  "گراز": { "replacement": "🐗", "description": "boar" },
+  "بینی خوک": { "replacement": "🐽", "description": "pig nose" },
+  "رم": { "replacement": "🐏", "description": "ram" },
+  "گوسفند": { "replacement": "🐑", "description": "ewe" },
+  "بز": { "replacement": "🐐", "description": "goat" },
+  "شتر dromedary": { "replacement": "🐪", "description": "camel" },
+  "شتر": { "replacement": "🐫", "description": "two-hump camel" },
+  "لاما": { "replacement": "🦙", "description": "llama" },
+  "زرافه": { "replacement": "🦒", "description": "giraffe" },
+  "فیل": { "replacement": "🐘", "description": "elephant" },
+  "ماموت": { "replacement": "🦣", "description": "mammoth" },
+  "کرگدن": { "replacement": "🦏", "description": "rhinoceros" },
+  "اسب ابی": { "replacement": "🦛", "description": "hippopotamus" },
+  "موش": { "replacement": "🐀", "description": "rat" },
+  "موشواره 2": { "replacement": "🐁", "description": "mouse" },
+  "همستر": { "replacement": "🐹", "description": "hamster" },
+  "خرگوش": { "replacement": "🐰", "description": "rabbit face" },
+  "خرگوش 2": { "replacement": "🐇", "description": "rabbit" },
+  "چیپمون": { "replacement": "🐿️", "description": "chipmunk" },
+  "سگ ابی": { "replacement": "🦫", "description": "beaver" },
+  "خارپشت": { "replacement": "🦔", "description": "hedgehog" },
+  "خفاش": { "replacement": "🦇", "description": "bat" },
+  "خرس": { "replacement": "🐻", "description": "bear" },
+  "خرس قطبی": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "کوالا": { "replacement": "🐨", "description": "koala" },
+  "صورت پاندا": { "replacement": "🐼", "description": "panda" },
+  "تنبل": { "replacement": "🦥", "description": "sloth" },
+  "سمور": { "replacement": "🦦", "description": "otter" },
+  "ناپاک": { "replacement": "🦨", "description": "skunk" },
+  "کانگورو": { "replacement": "🦘", "description": "kangaroo" },
+  "گورکن": { "replacement": "🦡", "description": "badger" },
+  "بوقلمون": { "replacement": "🦃", "description": "turkey" },
+  "جوجه": { "replacement": "🐔", "description": "chicken" },
+  "خروس": { "replacement": "🐓", "description": "rooster" },
+  "جوجه جوجه ریزی": { "replacement": "🐣", "description": "hatching chick" },
+  "بچه جوجه": { "replacement": "🐤", "description": "baby chick" },
+  "جوجه هچ شده": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "پرنده": { "replacement": "🐦", "description": "bird" },
+  "پنگوئن": { "replacement": "🐧", "description": "penguin" },
+  "کبوتر": { "replacement": "🕊️", "description": "dove" },
+  "عقاب": { "replacement": "🦅", "description": "eagle" },
+  "اردک": { "replacement": "🦆", "description": "duck" },
+  "قو": { "replacement": "🦢", "description": "swan" },
+  "جغد": { "replacement": "🦉", "description": "owl" },
+  "دودو": { "replacement": "🦤", "description": "dodo" },
+  "پر": { "replacement": "🪶", "description": "feather" },
+  "فلامینگو": { "replacement": "🦩", "description": "flamingo" },
+  "طاووس": { "replacement": "🦚", "description": "peacock" },
+  "طوطی": { "replacement": "🦜", "description": "parrot" },
+  "قورباغه": { "replacement": "🐸", "description": "frog" },
+  "تمساح": { "replacement": "🐊", "description": "crocodile" },
+  "لاک پشت": { "replacement": "🐢", "description": "turtle" },
+  "مارمولک": { "replacement": "🦎", "description": "lizard" },
+  "مار": { "replacement": "🐍", "description": "snake" },
+  "صورت اژدها": { "replacement": "🐲", "description": "dragon face" },
+  "اژدها": { "replacement": "🐉", "description": "dragon" },
+  "ساروپود": { "replacement": "🦕", "description": "sauropod" },
+  "تی رکس": { "replacement": "🦖", "description": "T-Rex" },
+  "نهنگ": { "replacement": "🐳", "description": "spouting whale" },
+  "نهنگ 2": { "replacement": "🐋", "description": "whale" },
+  "دلفین": { "replacement": "🐬", "description": "dolphin" },
+  "مهر": { "replacement": "🦭", "description": "seal" },
+  "ماهی": { "replacement": "🐟", "description": "fish" },
+  "ماهی استوایی": { "replacement": "🐠", "description": "tropical fish" },
+  "ماهی منفجر": { "replacement": "🐡", "description": "blowfish" },
+  "کوسه": { "replacement": "🦈", "description": "shark" },
+  "اختاپوس": { "replacement": "🐙", "description": "octopus" },
+  "پوسته": { "replacement": "🐚", "description": "spiral shell" },
+  "حلزون": { "replacement": "🐌", "description": "snail" },
+  "پروانه": { "replacement": "🦋", "description": "butterfly" },
+  "حشره": { "replacement": "🐛", "description": "bug" },
+  "مورچه": { "replacement": "🐜", "description": "ant" },
+  "زنبور عسل": { "replacement": "🐝", "description": "honeybee" },
+  "سوسک": { "replacement": "🪳", "description": "cockroach" },
+  "سوسک بانو": { "replacement": "🐞", "description": "lady beetle" },
+  "کریکت": { "replacement": "🦗", "description": "cricket" },
+  "عنکبوت": { "replacement": "🕷️", "description": "spider" },
+  "تار عنکبوت": { "replacement": "🕸️", "description": "spider web" },
+  "عقرب": { "replacement": "♏", "description": "Scorpio" },
+  "پشه": { "replacement": "🦟", "description": "mosquito" },
+  "پرواز": { "replacement": "🪰", "description": "fly" },
+  "کرم": { "replacement": "🪱", "description": "worm" },
+  "میکروب": { "replacement": "🦠", "description": "microbe" },
+  "دسته گل": { "replacement": "💐", "description": "bouquet" },
+  "شکوفه گیلاس": { "replacement": "🌸", "description": "cherry blossom" },
+  "گل سفید": { "replacement": "💮", "description": "white flower" },
+  "روزت": { "replacement": "🏵️", "description": "rosette" },
+  "گل سرخ": { "replacement": "🌺", "description": "hibiscus" },
+  "گل پژمرده": { "replacement": "🥀", "description": "wilted flower" },
+  "گل آفتابگردان": { "replacement": "🌻", "description": "sunflower" },
+  "شکوفه - گل": { "replacement": "🌼", "description": "blossom" },
+  "گل لاله": { "replacement": "🌷", "description": "tulip" },
+  "نهال": { "replacement": "🌱", "description": "seedling" },
+  "گیاه گلدانی": { "replacement": "🪴", "description": "potted plant" },
+  "درخت همیشه سبز": { "replacement": "🌲", "description": "evergreen tree" },
+  "درخت برگریز": { "replacement": "🌳", "description": "deciduous tree" },
+  "درخت نخل": { "replacement": "🌴", "description": "palm tree" },
+  "کاکتوس": { "replacement": "🌵", "description": "cactus" },
+  "گوش برنج": { "replacement": "🌾", "description": "sheaf of rice" },
+  "گیاه دارویی": { "replacement": "🌿", "description": "herb" },
+  "شمشیر": { "replacement": "☘️", "description": "shamrock" },
+  "شبدر چهار برگ": { "replacement": "🍀", "description": "four leaf clover" },
+  "برگ درخت افرا": { "replacement": "🍁", "description": "maple leaf" },
+  "برگ افتاده": { "replacement": "🍂", "description": "fallen leaf" },
+  "برگها": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "انگور": { "replacement": "🍇", "description": "grapes" },
+  "خربزه": { "replacement": "🍈", "description": "melon" },
+  "هندوانه": { "replacement": "🍉", "description": "watermelon" },
+  "نارنگی": { "replacement": "🍊", "description": "tangerine" },
+  "لیمو": { "replacement": "🍋", "description": "lemon" },
+  "موز": { "replacement": "🍌", "description": "banana" },
+  "آناناس": { "replacement": "🍍", "description": "pineapple" },
+  "انبه": { "replacement": "🥭", "description": "mango" },
+  "سیب": { "replacement": "🍎", "description": "red apple" },
+  "سیب سبز": { "replacement": "🍏", "description": "green apple" },
+  "گلابی": { "replacement": "🍐", "description": "pear" },
+  "هلو": { "replacement": "🍑", "description": "peach" },
+  "گیلاس": { "replacement": "🍒", "description": "cherries" },
+  "توت فرنگی": { "replacement": "🍓", "description": "strawberry" },
+  "بلوبری": { "replacement": "🫐", "description": "blueberries" },
+  "کیوی": { "replacement": "🥝", "description": "kiwi fruit" },
+  "گوجه فرنگی": { "replacement": "🍅", "description": "tomato" },
+  "زیتون": { "replacement": "🫒", "description": "olive" },
+  "نارگیل": { "replacement": "🥥", "description": "coconut" },
+  "آووکادو": { "replacement": "🥑", "description": "avocado" },
+  "بادمجان": { "replacement": "🍆", "description": "eggplant" },
+  "سیب زمینی": { "replacement": "🥔", "description": "potato" },
+  "هویج": { "replacement": "🥕", "description": "carrot" },
+  "ذرت": { "replacement": "🌽", "description": "ear of corn" },
+  "فلفل تند": { "replacement": "🌶️", "description": "hot pepper" },
+  "فلفل دلمه ای": { "replacement": "🫑", "description": "bell pepper" },
+  "خیار": { "replacement": "🥒", "description": "cucumber" },
+  "سبز برگ": { "replacement": "🥬", "description": "leafy green" },
+  "کلم بروکلی": { "replacement": "🥦", "description": "broccoli" },
+  "سیر": { "replacement": "🧄", "description": "garlic" },
+  "پیاز": { "replacement": "🧅", "description": "onion" },
+  "قارچ": { "replacement": "🍄", "description": "mushroom" },
+  "بادام زمینی": { "replacement": "🥜", "description": "peanuts" },
+  "فندق": { "replacement": "🌰", "description": "chestnut" },
+  "نان": { "replacement": "🍞", "description": "bread" },
+  "نوعی از نان شیرین": { "replacement": "🥐", "description": "croissant" },
+  "نان باگت": { "replacement": "🥖", "description": "baguette bread" },
+  "نان لواش": { "replacement": "🫓", "description": "flatbread" },
+  "چوب شور": { "replacement": "🥨", "description": "pretzel" },
+  "نان شیرینی": { "replacement": "🥯", "description": "bagel" },
+  "پنکیک": { "replacement": "🥞", "description": "pancakes" },
+  "وافل": { "replacement": "🧇", "description": "waffle" },
+  "پنیر": { "replacement": "🧀", "description": "cheese wedge" },
+  "گوشت روی استخوان": { "replacement": "🍖", "description": "meat on bone" },
+  "پای مرغ": { "replacement": "🍗", "description": "poultry leg" },
+  "برش گوشت": { "replacement": "🥩", "description": "cut of meat" },
+  "بیکن": { "replacement": "🥓", "description": "bacon" },
+  "همبرگر": { "replacement": "🍔", "description": "hamburger" },
+  "سیب زمینی سرخ شده": { "replacement": "🍟", "description": "french fries" },
+  "پیتزا": { "replacement": "🍕", "description": "pizza" },
+  "هات داگ": { "replacement": "🌭", "description": "hot dog" },
+  "ساندویچ": { "replacement": "🥪", "description": "sandwich" },
+  "ساندویچ مکزیکی": { "replacement": "🌮", "description": "taco" },
+  "بوریتو": { "replacement": "🌯", "description": "burrito" },
+  "تاماله": { "replacement": "🫔", "description": "tamale" },
+  "نان پهن پر شده": { "replacement": "🥙", "description": "stuffed flatbread" },
+  "فلافل": { "replacement": "🧆", "description": "falafel" },
+  "تخم مرغ": { "replacement": "🥚", "description": "egg" },
+  "نیمرو": { "replacement": "🍳", "description": "cooking" },
+  "ظرف کم عمق غذا": {
+    "replacement": "🥘",
+    "description": "shallow pan of food"
+  },
+  "خورشت": { "replacement": "🍲", "description": "pot of food" },
+  "فوندو": { "replacement": "🫕", "description": "fondue" },
+  "کاسه با قاشق": { "replacement": "🥣", "description": "bowl with spoon" },
+  "سالاد سبزیجات": { "replacement": "🥗", "description": "green salad" },
+  "ذرت بو داده": { "replacement": "🍿", "description": "popcorn" },
+  "کره": { "replacement": "🧈", "description": "butter" },
+  "نمک": { "replacement": "🧂", "description": "salt" },
+  "غذای کنسرو شده": { "replacement": "🥫", "description": "canned food" },
+  "بنتو": { "replacement": "🍱", "description": "bento box" },
+  "ترقه شکن": { "replacement": "🍘", "description": "rice cracker" },
+  "توپ برنج": { "replacement": "🍙", "description": "rice ball" },
+  "برنج": { "replacement": "🍚", "description": "cooked rice" },
+  "ادویه کاری": { "replacement": "🍛", "description": "curry rice" },
+  "رامن": { "replacement": "🍜", "description": "steaming bowl" },
+  "ماکارونی": { "replacement": "🍝", "description": "spaghetti" },
+  "سیب زمینی شیرین": {
+    "replacement": "🍠",
+    "description": "roasted sweet potato"
+  },
+  "اودن": { "replacement": "🍢", "description": "oden" },
+  "سوشی": { "replacement": "🍣", "description": "sushi" },
+  "میگو سرخ شده": { "replacement": "🍤", "description": "fried shrimp" },
+  "کیک ماهی": { "replacement": "🍥", "description": "fish cake with swirl" },
+  "کیک ماه": { "replacement": "🥮", "description": "moon cake" },
+  "دانگو": { "replacement": "🍡", "description": "dango" },
+  "پیراشکی": { "replacement": "🥟", "description": "dumpling" },
+  "کوکی فورچون": { "replacement": "🥠", "description": "fortune cookie" },
+  "جعبه بایگانی اطلاعات": { "replacement": "🥡", "description": "takeout box" },
+  "خرچنگ": { "replacement": "🦀", "description": "crab" },
+  "خرچنگ دریایی": { "replacement": "🦞", "description": "lobster" },
+  "میگو": { "replacement": "🦐", "description": "shrimp" },
+  "ماهی مرکب": { "replacement": "🦑", "description": "squid" },
+  "صدف خوراکی": { "replacement": "🦪", "description": "oyster" },
+  "بستنی": { "replacement": "🍨", "description": "ice cream" },
+  "یخ تراشیده": { "replacement": "🍧", "description": "shaved ice" },
+  "دونات": { "replacement": "🍩", "description": "doughnut" },
+  "کوکی": { "replacement": "🍪", "description": "cookie" },
+  "روز تولد": { "replacement": "🎂", "description": "birthday cake" },
+  "کیک": { "replacement": "🍰", "description": "shortcake" },
+  "کاپ کیک": { "replacement": "🧁", "description": "cupcake" },
+  "پای": { "replacement": "🥧", "description": "pie" },
+  "شکلات تخته ای": { "replacement": "🍫", "description": "chocolate bar" },
+  "آب نبات": { "replacement": "🍬", "description": "candy" },
+  "آبنبات چوبی": { "replacement": "🍭", "description": "lollipop" },
+  "فرنی": { "replacement": "🍮", "description": "custard" },
+  "گلدان عسل": { "replacement": "🍯", "description": "honey pot" },
+  "بطری کودک": { "replacement": "🍼", "description": "baby bottle" },
+  "لیوان شیر": { "replacement": "🥛", "description": "glass of milk" },
+  "قهوه": { "replacement": "☕", "description": "hot beverage" },
+  "قوری": { "replacement": "🫖", "description": "teapot" },
+  "چای": { "replacement": "🍵", "description": "teacup without handle" },
+  "منظور": { "replacement": "🍶", "description": "sake" },
+  "شامپاین": { "replacement": "🍾", "description": "bottle with popping cork" },
+  "لیوان شراب": { "replacement": "🍷", "description": "wine glass" },
+  "کوکتل": { "replacement": "🍸", "description": "cocktail glass" },
+  "نوشیدنی گرمسیری": { "replacement": "🍹", "description": "tropical drink" },
+  "آبجو": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "لیوان های چنگ زدن": {
+    "replacement": "🥂",
+    "description": "clinking glasses"
+  },
+  "لیوان شیشه ای": { "replacement": "🥃", "description": "tumbler glass" },
+  "فنجان با نی": { "replacement": "🥤", "description": "cup with straw" },
+  "چای حبابی": { "replacement": "🧋", "description": "bubble tea" },
+  "جعبه نوشیدنی": { "replacement": "🧃", "description": "beverage box" },
+  "رفیق": { "replacement": "🧉", "description": "mate" },
+  "قالب یخ": { "replacement": "🧊", "description": "ice" },
+  "چپستیک": { "replacement": "🥢", "description": "chopsticks" },
+  "بشقاب با کارد و چنگال": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "چنگال و چاقو": { "replacement": "🍴", "description": "fork and knife" },
+  "قاشق": { "replacement": "🥄", "description": "spoon" },
+  "هوچو": { "replacement": "🔪", "description": "kitchen knife" },
+  "آمفورا": { "replacement": "🏺", "description": "amphora" },
+  "آفریقای خاکی": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "آمریکای زمینی": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "آسیا زمین": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "کره زمین با نصف النهار": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "نقشه جهان": { "replacement": "🗺️", "description": "world map" },
+  "ژاپن": { "replacement": "🗾", "description": "map of Japan" },
+  "قطب نما": { "replacement": "🧭", "description": "compass" },
+  "برف کوهستان": { "replacement": "🏔️", "description": "snow-capped mountain" },
+  "کوه": { "replacement": "⛰️", "description": "mountain" },
+  "آتشفشان": { "replacement": "🌋", "description": "volcano" },
+  "کوه فوجی": { "replacement": "🗻", "description": "mount fuji" },
+  "چادر زدن": { "replacement": "🏕️", "description": "camping" },
+  "چتر ساحلی": { "replacement": "🏖️", "description": "beach with umbrella" },
+  "کویر": { "replacement": "🏜️", "description": "desert" },
+  "جزیره کویری": { "replacement": "🏝️", "description": "desert island" },
+  "پارک ملی": { "replacement": "🏞️", "description": "national park" },
+  "ورزشگاه": { "replacement": "🏟️", "description": "stadium" },
+  "ساختمان کلاسیک": {
+    "replacement": "🏛️",
+    "description": "classical building"
+  },
+  "ساخت و ساز ساختمان": {
+    "replacement": "🏗️",
+    "description": "building construction"
+  },
+  "آجر": { "replacement": "🧱", "description": "brick" },
+  "سنگ": { "replacement": "🪨", "description": "rock" },
+  "چوب": { "replacement": "🪵", "description": "wood" },
+  "کلبه": { "replacement": "🛖", "description": "hut" },
+  "خانه ها": { "replacement": "🏘️", "description": "houses" },
+  "خانه متروک": { "replacement": "🏚️", "description": "derelict house" },
+  "خانه": { "replacement": "🏠", "description": "house" },
+  "خانه ای با باغ": { "replacement": "🏡", "description": "house with garden" },
+  "دفتر": { "replacement": "🏢", "description": "office building" },
+  "اداره پست": { "replacement": "🏣", "description": "Japanese post office" },
+  "اداره پست اروپا": { "replacement": "🏤", "description": "post office" },
+  "بیمارستان": { "replacement": "🏥", "description": "hospital" },
+  "بانک": { "replacement": "🏦", "description": "bank" },
+  "هتل": { "replacement": "🏨", "description": "hotel" },
+  "هتل عاشقانه": { "replacement": "🏩", "description": "love hotel" },
+  "فروشگاه رفاه": { "replacement": "🏪", "description": "convenience store" },
+  "مدرسه": { "replacement": "🏫", "description": "school" },
+  "فروشگاه بزرگ": { "replacement": "🏬", "description": "department store" },
+  "کارخانه": { "replacement": "🏭", "description": "factory" },
+  "قلعه ژاپنی": { "replacement": "🏯", "description": "Japanese castle" },
+  "قلعه اروپا": { "replacement": "🏰", "description": "castle" },
+  "عروسی": { "replacement": "💒", "description": "wedding" },
+  "برج توکیو": { "replacement": "🗼", "description": "Tokyo tower" },
+  "مجسمه آزادی": { "replacement": "🗽", "description": "Statue of Liberty" },
+  "کلیسا": { "replacement": "⛪", "description": "church" },
+  "مسجد": { "replacement": "🕌", "description": "mosque" },
+  "معبد هندو": { "replacement": "🛕", "description": "hindu temple" },
+  "کنیسه": { "replacement": "🕍", "description": "synagogue" },
+  "حرم شینتو": { "replacement": "⛩️", "description": "shinto shrine" },
+  "کعبه": { "replacement": "🕋", "description": "kaaba" },
+  "آبنما": { "replacement": "⛲", "description": "fountain" },
+  "چادر": { "replacement": "⛺", "description": "tent" },
+  "مه آلود": { "replacement": "🌁", "description": "foggy" },
+  "شب با ستاره": { "replacement": "🌃", "description": "night with stars" },
+  "منظره شهر": { "replacement": "🏙️", "description": "cityscape" },
+  "طلوع خورشید بر فراز کوه ها": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "طلوع خورشید": { "replacement": "🌅", "description": "sunrise" },
+  "غروب آفتاب شهر": { "replacement": "🌆", "description": "cityscape at dusk" },
+  "طلوع آفتاب شهر": { "replacement": "🌇", "description": "sunset" },
+  "پل در شب": { "replacement": "🌉", "description": "bridge at night" },
+  "چشمه های آب گرم": { "replacement": "♨️", "description": "hot springs" },
+  "اسب چرخ فلک": { "replacement": "🎠", "description": "carousel horse" },
+  "چرخ و فلک": { "replacement": "🎡", "description": "ferris wheel" },
+  "ترن هوایی": { "replacement": "🎢", "description": "roller coaster" },
+  "سلمانی": { "replacement": "💈", "description": "barber pole" },
+  "چادر سیرک": { "replacement": "🎪", "description": "circus tent" },
+  "لوکوموتیو بخار": { "replacement": "🚂", "description": "locomotive" },
+  "ماشین ریلی": { "replacement": "🚃", "description": "railway car" },
+  "سمت گلوله": { "replacement": "🚄", "description": "high-speed train" },
+  "جلو گلوله": { "replacement": "🚅", "description": "bullet train" },
+  "قطار 2": { "replacement": "🚆", "description": "train" },
+  "مترو": { "replacement": "🚇", "description": "metro" },
+  "ریل سبک": { "replacement": "🚈", "description": "light rail" },
+  "ایستگاه": { "replacement": "🚉", "description": "station" },
+  "تراموای": { "replacement": "🚊", "description": "tram" },
+  "مونوریل": { "replacement": "🚝", "description": "monorail" },
+  "راه آهن کوهستانی": {
+    "replacement": "🚞",
+    "description": "mountain railway"
+  },
+  "قطار - تعلیم دادن": { "replacement": "🚋", "description": "tram car" },
+  "اتوبوس": { "replacement": "🚌", "description": "bus" },
+  "اتوبوس پیش رو": { "replacement": "🚍", "description": "oncoming bus" },
+  "واگن برقی": { "replacement": "🚎", "description": "trolleybus" },
+  "مینی بوس": { "replacement": "🚐", "description": "minibus" },
+  "آمبولانس": { "replacement": "🚑", "description": "ambulance" },
+  "ماشین آتش نشانی": { "replacement": "🚒", "description": "fire engine" },
+  "ماشین پلیس": { "replacement": "🚓", "description": "police car" },
+  "ماشین پلیس روبرو": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "تاکسی": { "replacement": "🚕", "description": "taxi" },
+  "تاکسی پیش رو": { "replacement": "🚖", "description": "oncoming taxi" },
+  "ماشین": { "replacement": "🚗", "description": "automobile" },
+  "اتومبیل پیش رو": {
+    "replacement": "🚘",
+    "description": "oncoming automobile"
+  },
+  "ماشین آبی": { "replacement": "🚙", "description": "sport utility vehicle" },
+  "وانت باربری": { "replacement": "🛻", "description": "pickup truck" },
+  "کامیون": { "replacement": "🚚", "description": "delivery truck" },
+  "کامیون مفصلی": { "replacement": "🚛", "description": "articulated lorry" },
+  "تراکتور": { "replacement": "🚜", "description": "tractor" },
+  "ماشین مسابقه": { "replacement": "🏎️", "description": "racing car" },
+  "موتورسیکلت": { "replacement": "🏍️", "description": "motorcycle" },
+  "موتور اسکوتر": { "replacement": "🛵", "description": "motor scooter" },
+  "صندلی چرخدار دستی": {
+    "replacement": "🦽",
+    "description": "manual wheelchair"
+  },
+  "صندلی چرخدار موتوری": {
+    "replacement": "🦼",
+    "description": "motorized wheelchair"
+  },
+  "ریکشا اتوماتیک": { "replacement": "🛺", "description": "auto rickshaw" },
+  "دوچرخه": { "replacement": "🚲", "description": "bicycle" },
+  "لگد زدن اسکوتر": { "replacement": "🛴", "description": "kick scooter" },
+  "اسکیت بورد": { "replacement": "🛹", "description": "skateboard" },
+  "اسکیت غلتکی": { "replacement": "🛼", "description": "roller skate" },
+  "ایستگاه اتوبوس": { "replacement": "🚏", "description": "bus stop" },
+  "بزرگراه": { "replacement": "🛣️", "description": "motorway" },
+  "مسیر راه آهن": { "replacement": "🛤️", "description": "railway track" },
+  "بشکه نفت": { "replacement": "🛢️", "description": "oil drum" },
+  "پمپ سوخت": { "replacement": "⛽", "description": "fuel pump" },
+  "نور چرخان": { "replacement": "🚨", "description": "police car light" },
+  "چراغ راهنمایی و رانندگی": {
+    "replacement": "🚥",
+    "description": "horizontal traffic light"
+  },
+  "چراغ راهنمایی عمودی": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "نشانه توقف، ایست": { "replacement": "🛑", "description": "stop sign" },
+  "ساخت و ساز": { "replacement": "🚧", "description": "construction" },
+  "لنگر": { "replacement": "⚓", "description": "anchor" },
+  "قایق": { "replacement": "⛵", "description": "sailboat" },
+  "قایق رانی": { "replacement": "🛶", "description": "canoe" },
+  "قایق تندرو": { "replacement": "🚤", "description": "speedboat" },
+  "کشتی مسافربری": { "replacement": "🛳️", "description": "passenger ship" },
+  "کشتی": { "replacement": "🚢", "description": "ship" },
+  "قایق موتوری": { "replacement": "🛥️", "description": "motor boat" },
+  "هواپیما": { "replacement": "✈️", "description": "airplane" },
+  "هواپیمای کوچک": { "replacement": "🛩️", "description": "small airplane" },
+  "عزیمت پرواز": { "replacement": "🛫", "description": "airplane departure" },
+  "ورود پرواز": { "replacement": "🛬", "description": "airplane arrival" },
+  "چتر نجات": { "replacement": "🪂", "description": "parachute" },
+  "صندلی": { "replacement": "🪑", "description": "chair" },
+  "بالگرد": { "replacement": "🚁", "description": "helicopter" },
+  "راه آهن معلق": { "replacement": "🚟", "description": "suspension railway" },
+  "تله کابین کوهستان": {
+    "replacement": "🚠",
+    "description": "mountain cableway"
+  },
+  "تراموا هوایی": { "replacement": "🚡", "description": "aerial tramway" },
+  "ماهواره های مصنوعی": { "replacement": "🛰️", "description": "satellite" },
+  "موشک": { "replacement": "🚀", "description": "rocket" },
+  "بشقاب پرنده": { "replacement": "🛸", "description": "flying saucer" },
+  "زنگوله": { "replacement": "🛎️", "description": "bellhop bell" },
+  "بار مسافر": { "replacement": "🧳", "description": "luggage" },
+  "ساعت شنی": { "replacement": "⌛", "description": "hourglass done" },
+  "شن و ماسه روان ساعت شنی": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "تماشا کردن": { "replacement": "⌚", "description": "watch" },
+  "ساعت زنگدار": { "replacement": "⏰", "description": "alarm clock" },
+  "کرونومتر": { "replacement": "⏱️", "description": "stopwatch" },
+  "ساعت تایمر": { "replacement": "⏲️", "description": "timer clock" },
+  "ساعت شمشیر": { "replacement": "🕰️", "description": "mantelpiece clock" },
+  "ساعت 12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "ساعت 1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "ساعت 1": { "replacement": "🕐", "description": "one o’clock" },
+  "ساعت 130": { "replacement": "🕜", "description": "one-thirty" },
+  "ساعت 2": { "replacement": "🕑", "description": "two o’clock" },
+  "ساعت 230": { "replacement": "🕝", "description": "two-thirty" },
+  "ساعت 3": { "replacement": "🕒", "description": "three o’clock" },
+  "ساعت 330": { "replacement": "🕞", "description": "three-thirty" },
+  "ساعت 4": { "replacement": "🕓", "description": "four o’clock" },
+  "ساعت 430": { "replacement": "🕟", "description": "four-thirty" },
+  "ساعت 5": { "replacement": "🕔", "description": "five o’clock" },
+  "ساعت 530": { "replacement": "🕠", "description": "five-thirty" },
+  "ساعت 6": { "replacement": "🕕", "description": "six o’clock" },
+  "ساعت 630": { "replacement": "🕡", "description": "six-thirty" },
+  "ساعت 7": { "replacement": "🕖", "description": "seven o’clock" },
+  "ساعت 730": { "replacement": "🕢", "description": "seven-thirty" },
+  "ساعت 8": { "replacement": "🕗", "description": "eight o’clock" },
+  "ساعت 830": { "replacement": "🕣", "description": "eight-thirty" },
+  "ساعت 9": { "replacement": "🕘", "description": "nine o’clock" },
+  "ساعت 930": { "replacement": "🕤", "description": "nine-thirty" },
+  "ساعت 10": { "replacement": "🕙", "description": "ten o’clock" },
+  "ساعت 1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "ساعت 11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "ساعت 1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "ماه نو": { "replacement": "🌑", "description": "new moon" },
+  "هلال ماه در حال اپیلاسیون": {
+    "replacement": "🌒",
+    "description": "waxing crescent moon"
+  },
+  "ربع اول ماه": { "replacement": "🌓", "description": "first quarter moon" },
+  "ماه": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "ماه کامل": { "replacement": "🌕", "description": "full moon" },
+  "ماه کثیف رو به زوال": {
+    "replacement": "🌖",
+    "description": "waning gibbous moon"
+  },
+  "ربع آخر ماه": { "replacement": "🌗", "description": "last quarter moon" },
+  "هلال ماه رو به زوال": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "هلال ماه": { "replacement": "🌙", "description": "crescent moon" },
+  "ماه نو با چهره": { "replacement": "🌚", "description": "new moon face" },
+  "ماه چهارم اول با چهره": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "ربع آخر ماه با چهره": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "دماسنج": { "replacement": "🌡️", "description": "thermometer" },
+  "آفتابی": { "replacement": "☀️", "description": "sun" },
+  "ماه کامل با صورت": { "replacement": "🌝", "description": "full moon face" },
+  "خورشید با صورت": { "replacement": "🌞", "description": "sun with face" },
+  "سیاره حلقه دار": { "replacement": "🪐", "description": "ringed planet" },
+  "ستاره": { "replacement": "*️⃣", "description": "keycap: *" },
+  "ستاره 2": { "replacement": "🌟", "description": "glowing star" },
+  "ستاره ها": { "replacement": "🌠", "description": "shooting star" },
+  "راه شیری": { "replacement": "🌌", "description": "milky way" },
+  "ابر": { "replacement": "☁️", "description": "cloud" },
+  "تا حدی آفتابی": { "replacement": "⛅", "description": "sun behind cloud" },
+  "ابر همراه با رعد و برق و باران": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "خورشید پشت ابر کوچک": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "خورشید پشت ابر بزرگ": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "خورشید پشت ابر باران": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "ابر همراه با باران": {
+    "replacement": "🌧️",
+    "description": "cloud with rain"
+  },
+  "ابر با برف": { "replacement": "🌨️", "description": "cloud with snow" },
+  "ابر با رعد و برق": {
+    "replacement": "🌩️",
+    "description": "cloud with lightning"
+  },
+  "گردباد": { "replacement": "🌪️", "description": "tornado" },
+  "مه": { "replacement": "🌫️", "description": "fog" },
+  "صورت باد": { "replacement": "🌬️", "description": "wind face" },
+  "سیکلون": { "replacement": "🌀", "description": "cyclone" },
+  "رنگين كمان": { "replacement": "🌈", "description": "rainbow" },
+  "چتر بسته": { "replacement": "🌂", "description": "closed umbrella" },
+  "چتر باز": { "replacement": "☂️", "description": "umbrella" },
+  "چتر": { "replacement": "☔", "description": "umbrella with rain drops" },
+  "چتر زمینی": { "replacement": "⛱️", "description": "umbrella on ground" },
+  "زپ کردن": { "replacement": "⚡", "description": "high voltage" },
+  "دانه برف": { "replacement": "❄️", "description": "snowflake" },
+  "آدم برفی با برف": { "replacement": "☃️", "description": "snowman" },
+  "آدم برفی": { "replacement": "⛄", "description": "snowman without snow" },
+  "دنباله دار": { "replacement": "☄️", "description": "comet" },
+  "آتش": { "replacement": "🔥", "description": "fire" },
+  "قطره": { "replacement": "💧", "description": "droplet" },
+  "اقیانوس": { "replacement": "🌊", "description": "water wave" },
+  "جک فانوس": { "replacement": "🎃", "description": "jack-o-lantern" },
+  "درخت کریسمس": { "replacement": "🎄", "description": "Christmas tree" },
+  "آتش بازی": { "replacement": "🎆", "description": "fireworks" },
+  "جرقه": { "replacement": "🎇", "description": "sparkler" },
+  "ترقه سوز": { "replacement": "🧨", "description": "firecracker" },
+  "برق می زند": { "replacement": "✨", "description": "sparkles" },
+  "بادکنک": { "replacement": "🎈", "description": "balloon" },
+  "تادا": { "replacement": "🎉", "description": "party popper" },
+  "توپ شیرینی": { "replacement": "🎊", "description": "confetti ball" },
+  "درخت تاناباتا": { "replacement": "🎋", "description": "tanabata tree" },
+  "بامبو": { "replacement": "🎍", "description": "pine decoration" },
+  "عروسک ها": { "replacement": "🎎", "description": "Japanese dolls" },
+  "پرچم ها": { "replacement": "🎏", "description": "carp streamer" },
+  "صدای زنگ باد": { "replacement": "🎐", "description": "wind chime" },
+  "صحنه برنج": { "replacement": "🎑", "description": "moon viewing ceremony" },
+  "پاکت قرمز": { "replacement": "🧧", "description": "red envelope" },
+  "روبان": { "replacement": "🎀", "description": "ribbon" },
+  "هدیه": { "replacement": "🎁", "description": "wrapped gift" },
+  "روبان یادآوری": { "replacement": "🎗️", "description": "reminder ribbon" },
+  "بلیط": { "replacement": "🎫", "description": "ticket" },
+  "مدال نظامی": { "replacement": "🎖️", "description": "military medal" },
+  "جایزه": { "replacement": "🏆", "description": "trophy" },
+  "ورزش مدال": { "replacement": "🏅", "description": "sports medal" },
+  "مدال مقام 1": { "replacement": "🥇", "description": "1st place medal" },
+  "مدال مقام 2": { "replacement": "🥈", "description": "2nd place medal" },
+  "مدال مقام 3": { "replacement": "🥉", "description": "3rd place medal" },
+  "فوتبال": { "replacement": "🏈", "description": "american football" },
+  "بیسبال": { "replacement": "⚾", "description": "baseball" },
+  "سافت بال": { "replacement": "🥎", "description": "softball" },
+  "بسکتبال": { "replacement": "🏀", "description": "basketball" },
+  "والیبال": { "replacement": "🏐", "description": "volleyball" },
+  "فوتبال راگبی": { "replacement": "🏉", "description": "rugby football" },
+  "تنیس": { "replacement": "🎾", "description": "tennis" },
+  "دیسک پرواز": { "replacement": "🥏", "description": "flying disc" },
+  "بولینگ": { "replacement": "🎳", "description": "bowling" },
+  "بازی کریکت": { "replacement": "🏏", "description": "cricket game" },
+  "هاکی روی چمن": { "replacement": "🏑", "description": "field hockey" },
+  "هاکی روی یخ": { "replacement": "🏒", "description": "ice hockey" },
+  "لاکراس": { "replacement": "🥍", "description": "lacrosse" },
+  "پینگ پونگ": { "replacement": "🏓", "description": "ping pong" },
+  "بدمینتون": { "replacement": "🏸", "description": "badminton" },
+  "دستکش بوکس": { "replacement": "🥊", "description": "boxing glove" },
+  "لباس رزمی": { "replacement": "🥋", "description": "martial arts uniform" },
+  "تور گل": { "replacement": "🥅", "description": "goal net" },
+  "گلف": { "replacement": "⛳", "description": "flag in hole" },
+  "اسکیت روی یخ": { "replacement": "⛸️", "description": "ice skate" },
+  "قطب ماهیگیری و ماهی": { "replacement": "🎣", "description": "fishing pole" },
+  "ماسک غواصی": { "replacement": "🤿", "description": "diving mask" },
+  "پیراهن دوخته شده با ارسی": {
+    "replacement": "🎽",
+    "description": "running shirt"
+  },
+  "اسکی": { "replacement": "🎿", "description": "skis" },
+  "سورتمه": { "replacement": "🛷", "description": "sled" },
+  "پیچش یا حلقه زنی": { "replacement": "🥌", "description": "curling stone" },
+  "دارت": { "replacement": "🎯", "description": "direct hit" },
+  "یو یو": { "replacement": "🪀", "description": "yo-yo" },
+  "بادبادک": { "replacement": "🪁", "description": "kite" },
+  "8 توپ": { "replacement": "🎱", "description": "pool 8 ball" },
+  "توپ کریستال": { "replacement": "🔮", "description": "crystal ball" },
+  "عصای جادویی": { "replacement": "🪄", "description": "magic wand" },
+  "حرز ناظر": { "replacement": "🧿", "description": "nazar amulet" },
+  "بازی ویدیویی": { "replacement": "🎮", "description": "video game" },
+  "جوی استیک": { "replacement": "🕹️", "description": "joystick" },
+  "دستگاه اسلات": { "replacement": "🎰", "description": "slot machine" },
+  "بازی می میرد": { "replacement": "🎲", "description": "game die" },
+  "اره مویی": { "replacement": "🧩", "description": "puzzle piece" },
+  "خرس عروسکی": { "replacement": "🧸", "description": "teddy bear" },
+  "پیناتا": { "replacement": "🪅", "description": "piñata" },
+  "عروسک های تودرتو": { "replacement": "🪆", "description": "nesting dolls" },
+  "بیلچه": { "replacement": "♠️", "description": "spade suit" },
+  "قلبها": { "replacement": "♥️", "description": "heart suit" },
+  "الماس": { "replacement": "♦️", "description": "diamond suit" },
+  "باشگاه ها": { "replacement": "♣️", "description": "club suit" },
+  "پیاده شطرنج": { "replacement": "♟️", "description": "chess pawn" },
+  "جوکر سیاه": { "replacement": "🃏", "description": "joker" },
+  "فال ماهجونگ": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "کارت های بازی گل": {
+    "replacement": "🎴",
+    "description": "flower playing cards"
+  },
+  "هنرهای نمایشی": { "replacement": "🎭", "description": "performing arts" },
+  "قاب قاب": { "replacement": "🖼️", "description": "framed picture" },
+  "هنر": { "replacement": "🎨", "description": "artist palette" },
+  "نخ": { "replacement": "🧶", "description": "yarn" },
+  "سوزن خیاطی": { "replacement": "🪡", "description": "sewing needle" },
+  "گره": { "replacement": "🪢", "description": "knot" },
+  "عینک": { "replacement": "👓", "description": "glasses" },
+  "عینک آفتابی تیره": { "replacement": "🕶️", "description": "sunglasses" },
+  "عینک ایمنی": { "replacement": "🥽", "description": "goggles" },
+  "روپوش آزمایشگاهی": { "replacement": "🥼", "description": "lab coat" },
+  "جلیقه ایمنی": { "replacement": "🦺", "description": "safety vest" },
+  "گردن بند": { "replacement": "👔", "description": "necktie" },
+  "پیراهن": { "replacement": "👕", "description": "t-shirt" },
+  "شلوار جین": { "replacement": "👖", "description": "jeans" },
+  "روسری": { "replacement": "🧣", "description": "scarf" },
+  "دستکش": { "replacement": "🧤", "description": "gloves" },
+  "کت": { "replacement": "🧥", "description": "coat" },
+  "جوراب": { "replacement": "🧦", "description": "socks" },
+  "لباس پوشیدن": { "replacement": "👗", "description": "dress" },
+  "کیمونو": { "replacement": "👘", "description": "kimono" },
+  "ساری": { "replacement": "🥻", "description": "sari" },
+  "مایو یک تکه": { "replacement": "🩱", "description": "one-piece swimsuit" },
+  "شنا کوتاه": { "replacement": "🩲", "description": "briefs" },
+  "شلوار کوتاه": { "replacement": "🩳", "description": "shorts" },
+  "بیکینی": { "replacement": "👙", "description": "bikini" },
+  "لباس زنانه": { "replacement": "👚", "description": "woman’s clothes" },
+  "کیف پول": { "replacement": "💰", "description": "money bag" },
+  "کیف دستی": { "replacement": "👜", "description": "handbag" },
+  "کیسه": { "replacement": "👝", "description": "clutch bag" },
+  "خريد كردن": { "replacement": "🛍️", "description": "shopping bags" },
+  "کیف مدرسه": { "replacement": "🎒", "description": "backpack" },
+  "صندل چوبی": { "replacement": "🩴", "description": "thong sandal" },
+  "کفش مردانه": { "replacement": "👞", "description": "man’s shoe" },
+  "کفش ورزشی": { "replacement": "👟", "description": "running shoe" },
+  "چکمه کوهنوردی": { "replacement": "🥾", "description": "hiking boot" },
+  "کفش تخت": { "replacement": "🥿", "description": "flat shoe" },
+  "پاشنه بلند": { "replacement": "👠", "description": "high-heeled shoe" },
+  "کفش راحتی": { "replacement": "👡", "description": "woman’s sandal" },
+  "کفش های باله": { "replacement": "🩰", "description": "ballet shoes" },
+  "چکمه": { "replacement": "👢", "description": "woman’s boot" },
+  "تاج پادشاهی": { "replacement": "👑", "description": "crown" },
+  "کلاه زنانه": { "replacement": "👒", "description": "woman’s hat" },
+  "تخته سنگ": { "replacement": "🎩", "description": "top hat" },
+  "تخته ملات": { "replacement": "🎓", "description": "graduation cap" },
+  "درپوش صورتحساب": { "replacement": "🧢", "description": "billed cap" },
+  "کلاه ایمنی نظامی": { "replacement": "🪖", "description": "military helmet" },
+  "کلاه ایمنی امدادگر": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "دانه های تسبیح": { "replacement": "📿", "description": "prayer beads" },
+  "رژ لب": { "replacement": "💄", "description": "lipstick" },
+  "حلقه": { "replacement": "➿", "description": "double curly loop" },
+  "گوهر": { "replacement": "💎", "description": "gem stone" },
+  "بی صدا": { "replacement": "🔇", "description": "muted speaker" },
+  "گوینده": { "replacement": "🔈", "description": "speaker low volume" },
+  "صدا": { "replacement": "🔉", "description": "speaker medium volume" },
+  "صدای بلند": { "replacement": "🔊", "description": "speaker high volume" },
+  "بلندگو": { "replacement": "📢", "description": "loudspeaker" },
+  "عظیم": { "replacement": "📣", "description": "megaphone" },
+  "شاخ پستی": { "replacement": "📯", "description": "postal horn" },
+  "زنگ": { "replacement": "🔔", "description": "bell" },
+  "بدون زنگ": { "replacement": "🔕", "description": "bell with slash" },
+  "نت موسیقی": { "replacement": "🎵", "description": "musical note" },
+  "یادداشت": { "replacement": "📝", "description": "memo" },
+  "میکروفون استودیویی": {
+    "replacement": "🎙️",
+    "description": "studio microphone"
+  },
+  "کشویی سطح": { "replacement": "🎚️", "description": "level slider" },
+  "دستگیره های کنترل": { "replacement": "🎛️", "description": "control knobs" },
+  "میکروفون": { "replacement": "🎤", "description": "microphone" },
+  "هدفون": { "replacement": "🎧", "description": "headphone" },
+  "رادیو": { "replacement": "📻", "description": "radio" },
+  "ساکسیفون": { "replacement": "🎷", "description": "saxophone" },
+  "آکاردئون": { "replacement": "🪗", "description": "accordion" },
+  "گیتار": { "replacement": "🎸", "description": "guitar" },
+  "صفحه کلید موسیقی": {
+    "replacement": "🎹",
+    "description": "musical keyboard"
+  },
+  "شیپور": { "replacement": "🎺", "description": "trumpet" },
+  "ویولن": { "replacement": "🎻", "description": "violin" },
+  "بانجو": { "replacement": "🪕", "description": "banjo" },
+  "طبل": { "replacement": "🥁", "description": "drum" },
+  "طبل بلند": { "replacement": "🪘", "description": "long drum" },
+  "آیفون": { "replacement": "📱", "description": "mobile phone" },
+  "صدا زدن": { "replacement": "📲", "description": "mobile phone with arrow" },
+  "تلفن": { "replacement": "☎️", "description": "telephone" },
+  "گیرنده تلفن": { "replacement": "📞", "description": "telephone receiver" },
+  "پیجر": { "replacement": "📟", "description": "pager" },
+  "نمابر": { "replacement": "📠", "description": "fax machine" },
+  "باتری": { "replacement": "🔋", "description": "battery" },
+  "دوشاخه برق": { "replacement": "🔌", "description": "electric plug" },
+  "کامپیوتر": { "replacement": "💻", "description": "laptop" },
+  "کامپیوتر رومیزی": { "replacement": "🖥️", "description": "desktop computer" },
+  "چاپگر": { "replacement": "🖨️", "description": "printer" },
+  "صفحه کلید": { "replacement": "⌨️", "description": "keyboard" },
+  "موس کامپیوتر": { "replacement": "🖱️", "description": "computer mouse" },
+  "گوی": { "replacement": "🖲️", "description": "trackball" },
+  "مینی دیسک": { "replacement": "💽", "description": "computer disk" },
+  "فلاپی دیسک": { "replacement": "💾", "description": "floppy disk" },
+  "سی دی": { "replacement": "💿", "description": "optical disk" },
+  "دی وی دی": { "replacement": "📀", "description": "dvd" },
+  "چرتکه": { "replacement": "🧮", "description": "abacus" },
+  "دوربین فیلم": { "replacement": "🎥", "description": "movie camera" },
+  "نوار فیلم": { "replacement": "🎞️", "description": "film frames" },
+  "پروژکتور فیلم": { "replacement": "📽️", "description": "film projector" },
+  "تلویزیون": { "replacement": "📺", "description": "television" },
+  "دوربین": { "replacement": "📷", "description": "camera" },
+  "فلاش دوربین": { "replacement": "📸", "description": "camera with flash" },
+  "دوربین فیلمبرداری": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "جادو": {
+    "replacement": "🔍",
+    "description": "magnifying glass tilted left"
+  },
+  "درسته": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "شمع": { "replacement": "🕯️", "description": "candle" },
+  "لامپ": { "replacement": "💡", "description": "light bulb" },
+  "چراغ قوه": { "replacement": "🔦", "description": "flashlight" },
+  "فانوس ایزاکایا": { "replacement": "🏮", "description": "red paper lantern" },
+  "چراغ دیه": { "replacement": "🪔", "description": "diya lamp" },
+  "دفتر با پوشش تزئینی": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "کتاب بسته": { "replacement": "📕", "description": "closed book" },
+  "کتاب": { "replacement": "📖", "description": "open book" },
+  "کتاب سبز": { "replacement": "📗", "description": "green book" },
+  "کتاب آبی": { "replacement": "📘", "description": "blue book" },
+  "کتاب نارنجی": { "replacement": "📙", "description": "orange book" },
+  "کتابها": { "replacement": "📚", "description": "books" },
+  "نوت بوک": { "replacement": "📓", "description": "notebook" },
+  "دفتر کل": { "replacement": "📒", "description": "ledger" },
+  "صفحه با حلقه": { "replacement": "📃", "description": "page with curl" },
+  "طومار": { "replacement": "📜", "description": "scroll" },
+  "صفحه رو به بالا است": {
+    "replacement": "📄",
+    "description": "page facing up"
+  },
+  "روزنامه": { "replacement": "📰", "description": "newspaper" },
+  "رول روزنامه": { "replacement": "🗞️", "description": "rolled-up newspaper" },
+  "برگه های نشانک": { "replacement": "📑", "description": "bookmark tabs" },
+  "نشانک": { "replacement": "🔖", "description": "bookmark" },
+  "برچسب": { "replacement": "🏷️", "description": "label" },
+  "سکه": { "replacement": "🪙", "description": "coin" },
+  "ین": { "replacement": "💴", "description": "yen banknote" },
+  "دلار": { "replacement": "💵", "description": "dollar banknote" },
+  "یورو": { "replacement": "💶", "description": "euro banknote" },
+  "پوند": { "replacement": "💷", "description": "pound banknote" },
+  "پول با بال": { "replacement": "💸", "description": "money with wings" },
+  "کارت اعتباری": { "replacement": "💳", "description": "credit card" },
+  "اعلام وصول": { "replacement": "🧾", "description": "receipt" },
+  "چارت سازمانی": {
+    "replacement": "💹",
+    "description": "chart increasing with yen"
+  },
+  "پست الکترونیک": { "replacement": "📧", "description": "e-mail" },
+  "پاکت ورودی": { "replacement": "📨", "description": "incoming envelope" },
+  "پاکت با پیکان": {
+    "replacement": "📩",
+    "description": "envelope with arrow"
+  },
+  "سینی صندوق پستی": { "replacement": "📤", "description": "outbox tray" },
+  "سینی صندوق ورودی": { "replacement": "📥", "description": "inbox tray" },
+  "بسته بندی": { "replacement": "📦", "description": "package" },
+  "صندوق پستی": { "replacement": "📮", "description": "postbox" },
+  "صندوق پستی بسته شد": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "صندوق پستی با نامه": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "صندوق پستی بدون نامه": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "جعبه رای": { "replacement": "🗳️", "description": "ballot box with ballot" },
+  "مداد 2": { "replacement": "✏️", "description": "pencil" },
+  "نوک سیاه": { "replacement": "✒️", "description": "black nib" },
+  "قلم خودنویس": { "replacement": "🖋️", "description": "fountain pen" },
+  "خودکار": { "replacement": "🖊️", "description": "pen" },
+  "قلم مو": { "replacement": "🖌️", "description": "paintbrush" },
+  "مداد رنگی": { "replacement": "🖍️", "description": "crayon" },
+  "کیف": { "replacement": "💼", "description": "briefcase" },
+  "پوشه فایل": { "replacement": "📁", "description": "file folder" },
+  "پوشه پرونده را باز کنید": {
+    "replacement": "📂",
+    "description": "open file folder"
+  },
+  "تقسیم کننده های شاخص کارت": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "تاریخ": { "replacement": "📅", "description": "calendar" },
+  "تقویم": { "replacement": "📆", "description": "tear-off calendar" },
+  "دفترچه یادداشت مارپیچی": {
+    "replacement": "🗒️",
+    "description": "spiral notepad"
+  },
+  "تقویم مارپیچی": { "replacement": "🗓️", "description": "spiral calendar" },
+  "شاخص کارت": { "replacement": "📇", "description": "card index" },
+  "نمودار با روند صعودی": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "نمودار با روند نزولی": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "نمودار میله ای": { "replacement": "📊", "description": "bar chart" },
+  "کلیپ بورد": { "replacement": "📋", "description": "clipboard" },
+  "چکش": { "replacement": "🔨", "description": "hammer" },
+  "توپی گرد": { "replacement": "📍", "description": "round pushpin" },
+  "گیره کاغذ": { "replacement": "🖇️", "description": "linked paperclips" },
+  "خط کش مستقیم": { "replacement": "📏", "description": "straight ruler" },
+  "خط کش مثلثی": { "replacement": "📐", "description": "triangular ruler" },
+  "قیچی": { "replacement": "✂️", "description": "scissors" },
+  "جعبه پرونده کارت": { "replacement": "🗃️", "description": "card file box" },
+  "کابینه پرونده": { "replacement": "🗄️", "description": "file cabinet" },
+  "سبد زباله": { "replacement": "🗑️", "description": "wastebasket" },
+  "قفل کردن": { "replacement": "🔒", "description": "locked" },
+  "باز کردن قفل": { "replacement": "🔓", "description": "unlocked" },
+  "قفل با قلم جوهر": { "replacement": "🔏", "description": "locked with pen" },
+  "قفل بسته با کلید": { "replacement": "🔐", "description": "locked with key" },
+  "کلید": { "replacement": "🔑", "description": "key" },
+  "کلید قدیمی": { "replacement": "🗝️", "description": "old key" },
+  "تبر": { "replacement": "🪓", "description": "axe" },
+  "انتخاب": { "replacement": "⛏️", "description": "pick" },
+  "چکش و چیدن": { "replacement": "⚒️", "description": "hammer and pick" },
+  "چکش و آچار": { "replacement": "🛠️", "description": "hammer and wrench" },
+  "خنجر": { "replacement": "🗡️", "description": "dagger" },
+  "شمشیرهای ضربدری شده": {
+    "replacement": "⚔️",
+    "description": "crossed swords"
+  },
+  "تفنگ": { "replacement": "🔫", "description": "pistol" },
+  "بومرنگ": { "replacement": "🪃", "description": "boomerang" },
+  "تیر و کمان": { "replacement": "🏹", "description": "bow and arrow" },
+  "سپر": { "replacement": "🛡️", "description": "shield" },
+  "اره نجاری": { "replacement": "🪚", "description": "carpentry saw" },
+  "آچار": { "replacement": "🔧", "description": "wrench" },
+  "پیچ گوشتی": { "replacement": "🪛", "description": "screwdriver" },
+  "مهره و پیچ و مهره": { "replacement": "🔩", "description": "nut and bolt" },
+  "دنده": { "replacement": "⚙️", "description": "gear" },
+  "گیره": { "replacement": "🗜️", "description": "clamp" },
+  "مقیاس تعادل": { "replacement": "⚖️", "description": "balance scale" },
+  "عصا کاوش": { "replacement": "🦯", "description": "white cane" },
+  "ارتباط دادن": { "replacement": "🔗", "description": "link" },
+  "زنجیر": { "replacement": "⛓️", "description": "chains" },
+  "قلاب": { "replacement": "🪝", "description": "hook" },
+  "جعبه ابزار": { "replacement": "🧰", "description": "toolbox" },
+  "آهن ربا": { "replacement": "🧲", "description": "magnet" },
+  "نردبان": { "replacement": "🪜", "description": "ladder" },
+  "آلمبیک": { "replacement": "⚗️", "description": "alembic" },
+  "لوله آزمایش": { "replacement": "🧪", "description": "test tube" },
+  "ظرف کشت میکروب": { "replacement": "🧫", "description": "petri dish" },
+  "dna": { "replacement": "🧬", "description": "dna" },
+  "میکروسکوپ": { "replacement": "🔬", "description": "microscope" },
+  "تلسکوپ": { "replacement": "🔭", "description": "telescope" },
+  "ماهواره": { "replacement": "📡", "description": "satellite antenna" },
+  "سرنگ": { "replacement": "💉", "description": "syringe" },
+  "قطره خون": { "replacement": "🩸", "description": "drop of blood" },
+  "قرص": { "replacement": "💊", "description": "pill" },
+  "چسب زخم": { "replacement": "🩹", "description": "adhesive bandage" },
+  "گوشی پزشکی": { "replacement": "🩺", "description": "stethoscope" },
+  "در، درب": { "replacement": "🚪", "description": "door" },
+  "آسانسور": { "replacement": "🛗", "description": "elevator" },
+  "آینه": { "replacement": "🪞", "description": "mirror" },
+  "پنجره": { "replacement": "🪟", "description": "window" },
+  "بستر": { "replacement": "🛏️", "description": "bed" },
+  "کاناپه و چراغ": { "replacement": "🛋️", "description": "couch and lamp" },
+  "توالت": { "replacement": "🚽", "description": "toilet" },
+  "پیستون": { "replacement": "🪠", "description": "plunger" },
+  "دوش": { "replacement": "🚿", "description": "shower" },
+  "وان": { "replacement": "🛁", "description": "bathtub" },
+  "دام موش": { "replacement": "🪤", "description": "mouse trap" },
+  "تیغ": { "replacement": "🪒", "description": "razor" },
+  "بطری لوسیون": { "replacement": "🧴", "description": "lotion bottle" },
+  "سنجاق قفلی": { "replacement": "🧷", "description": "safety pin" },
+  "جارو": { "replacement": "🧹", "description": "broom" },
+  "سبد": { "replacement": "🧺", "description": "basket" },
+  "رول کاغذ": { "replacement": "🧻", "description": "roll of paper" },
+  "سطل": { "replacement": "🪣", "description": "bucket" },
+  "صابون": { "replacement": "🧼", "description": "soap" },
+  "مسواک": { "replacement": "🪥", "description": "toothbrush" },
+  "اسفنج": { "replacement": "🧽", "description": "sponge" },
+  "کپسول آتش نشانی": {
+    "replacement": "🧯",
+    "description": "fire extinguisher"
+  },
+  "سبد خرید": { "replacement": "🛒", "description": "shopping cart" },
+  "سیگار کشیدن": { "replacement": "🚬", "description": "cigarette" },
+  "تابوت": { "replacement": "⚰️", "description": "coffin" },
+  "سنگ قبر": { "replacement": "🪦", "description": "headstone" },
+  "کوره جنازه": { "replacement": "⚱️", "description": "funeral urn" },
+  "مویایی": { "replacement": "🗿", "description": "moai" },
+  "پلاکارد": { "replacement": "🪧", "description": "placard" },
+  "دستگاه خودپرداز": { "replacement": "🏧", "description": "ATM sign" },
+  "بستر را در جای خود قرار دهید": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "آب قابل شرب": { "replacement": "🚰", "description": "potable water" },
+  "صندلی چرخدار": { "replacement": "♿", "description": "wheelchair symbol" },
+  "مردانه": { "replacement": "🚹", "description": "men’s room" },
+  "زنان": { "replacement": "🚺", "description": "women’s room" },
+  "سرویس بهداشتی": { "replacement": "🚻", "description": "restroom" },
+  "نماد کودک": { "replacement": "🚼", "description": "baby symbol" },
+  "دستشویی": { "replacement": "🚾", "description": "water closet" },
+  "کنترل گذرنامه": { "replacement": "🛂", "description": "passport control" },
+  "گمرک": { "replacement": "🛃", "description": "customs" },
+  "ادعای توشه": { "replacement": "🛄", "description": "baggage claim" },
+  "چمدان سمت چپ": { "replacement": "🛅", "description": "left luggage" },
+  "هشدار": { "replacement": "⚠️", "description": "warning" },
+  "عبور بچه ها": { "replacement": "🚸", "description": "children crossing" },
+  "ورود ممنوع": { "replacement": "⛔", "description": "no entry" },
+  "علامت ورود ندارد": { "replacement": "🚫", "description": "prohibited" },
+  "بدون دوچرخه": { "replacement": "🚳", "description": "no bicycles" },
+  "سیگار کشیدن ممنوع": { "replacement": "🚭", "description": "no smoking" },
+  "آشغال نریزید": { "replacement": "🚯", "description": "no littering" },
+  "آب غیر قابل شرب": {
+    "replacement": "🚱",
+    "description": "non-potable water"
+  },
+  "عبور عابر پیاده ممنوع": {
+    "replacement": "🚷",
+    "description": "no pedestrians"
+  },
+  "بدون تلفن همراه": { "replacement": "📵", "description": "no mobile phones" },
+  "زیر سن": { "replacement": "🔞", "description": "no one under eighteen" },
+  "رادیواکتیو": { "replacement": "☢️", "description": "radioactive" },
+  "خطر زیستی": { "replacement": "☣️", "description": "biohazard" },
+  "فلش بالا": { "replacement": "⬆️", "description": "up arrow" },
+  "پیکان بالا سمت راست": {
+    "replacement": "↗️",
+    "description": "up-right arrow"
+  },
+  "پیکان راست": { "replacement": "➡️", "description": "right arrow" },
+  "پیکان پایین راست": {
+    "replacement": "↘️",
+    "description": "down-right arrow"
+  },
+  "پیکان رو به پایین": { "replacement": "⬇️", "description": "down arrow" },
+  "پیکان پایین چپ": { "replacement": "↙️", "description": "down-left arrow" },
+  "پیکان سمت چپ": { "replacement": "⬅️", "description": "left arrow" },
+  "پیکان بالا سمت چپ": { "replacement": "↖️", "description": "up-left arrow" },
+  "پیکان رو به بالا": { "replacement": "↕️", "description": "up-down arrow" },
+  "پیکان راست چپ": { "replacement": "↔️", "description": "left-right arrow" },
+  "پیکان سمت چپ با قلاب": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "پیکان قلاب راست": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "فلش به سمت بالا است": {
+    "replacement": "⤴️",
+    "description": "right arrow curving up"
+  },
+  "پیکان رو به پایین است": {
+    "replacement": "⤵️",
+    "description": "right arrow curving down"
+  },
+  "فلش ها در جهت عقربه های ساعت": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "فلش در خلاف جهت عقربه های ساعت": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "بازگشت": { "replacement": "🔙", "description": "BACK arrow" },
+  "پایان": { "replacement": "🔚", "description": "END arrow" },
+  "بر": { "replacement": "🔛", "description": "ON! arrow" },
+  "به زودی": { "replacement": "🔜", "description": "SOON arrow" },
+  "بالا": { "replacement": "🆙", "description": "UP! button" },
+  "محل عبادت": { "replacement": "🛐", "description": "place of worship" },
+  "نماد اتم": { "replacement": "⚛️", "description": "atom symbol" },
+  "om": { "replacement": "🕉️", "description": "om" },
+  "ستاره داوود": { "replacement": "✡️", "description": "star of David" },
+  "چرخ دارما": { "replacement": "☸️", "description": "wheel of dharma" },
+  "یین یانگ": { "replacement": "☯️", "description": "yin yang" },
+  "صلیب لاتین": { "replacement": "✝️", "description": "latin cross" },
+  "صلیب ارتدکس": { "replacement": "☦️", "description": "orthodox cross" },
+  "ستاره و هلال": { "replacement": "☪️", "description": "star and crescent" },
+  "نماد صلح": { "replacement": "☮️", "description": "peace symbol" },
+  "منوره": { "replacement": "🕎", "description": "menorah" },
+  "شش ستاره": { "replacement": "🔯", "description": "dotted six-pointed star" },
+  "برج حمل": { "replacement": "♈", "description": "Aries" },
+  "ثور": { "replacement": "♉", "description": "Taurus" },
+  "جوزا": { "replacement": "♊", "description": "Gemini" },
+  "سرطان": { "replacement": "♋", "description": "Cancer" },
+  "لئو": { "replacement": "♌", "description": "Leo" },
+  "باکره": { "replacement": "♍", "description": "Virgo" },
+  "کتابخانه": { "replacement": "♎", "description": "Libra" },
+  "قوس": { "replacement": "♐", "description": "Sagittarius" },
+  "بورچین": { "replacement": "♑", "description": "Capricorn" },
+  "دلو": { "replacement": "♒", "description": "Aquarius" },
+  "ماهی ها": { "replacement": "♓", "description": "Pisces" },
+  "افیچوس": { "replacement": "⛎", "description": "Ophiuchus" },
+  "پیکانهای راست چرخانده شده": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "تکرار": { "replacement": "🔁", "description": "repeat button" },
+  "یکی را تکرار کنید": {
+    "replacement": "🔂",
+    "description": "repeat single button"
+  },
+  "پیکان رو به جلو": { "replacement": "▶️", "description": "play button" },
+  "سریع به جلو": { "replacement": "⏩", "description": "fast-forward button" },
+  "دکمه آهنگ بعدی": { "replacement": "⏭️", "description": "next track button" },
+  "دکمه پخش یا مکث": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "پیکان به عقب": { "replacement": "◀️", "description": "reverse button" },
+  "باز پیچی": { "replacement": "⏪", "description": "fast reverse button" },
+  "دکمه آهنگ قبلی": { "replacement": "⏮️", "description": "last track button" },
+  "پیکان کوچک بالا": { "replacement": "🔼", "description": "upwards button" },
+  "پیکان دو برابر شود": {
+    "replacement": "⏫",
+    "description": "fast up button"
+  },
+  "پیکان پایین کوچک": {
+    "replacement": "🔽",
+    "description": "downwards button"
+  },
+  "پیکان دو برابر پایین": {
+    "replacement": "⏬",
+    "description": "fast down button"
+  },
+  "دکمه مکث": { "replacement": "⏸️", "description": "pause button" },
+  "دکمه توقف": { "replacement": "⏹️", "description": "stop button" },
+  "دکمه ضبط": { "replacement": "⏺️", "description": "record button" },
+  "دکمه eject": { "replacement": "⏏️", "description": "eject button" },
+  "سینما": { "replacement": "🎦", "description": "cinema" },
+  "روشنایی کم": { "replacement": "🔅", "description": "dim button" },
+  "روشنایی بالا": { "replacement": "🔆", "description": "bright button" },
+  "قدرت سیگنال": { "replacement": "📶", "description": "antenna bars" },
+  "حالت لرزش": { "replacement": "📳", "description": "vibration mode" },
+  "تلفن همراه خاموش است": {
+    "replacement": "📴",
+    "description": "mobile phone off"
+  },
+  "علامت زنانه": { "replacement": "♀️", "description": "female sign" },
+  "علامت مردانه": { "replacement": "♂️", "description": "male sign" },
+  "نماد تراجنسیتی": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "ضرب سنگین x": { "replacement": "✖️", "description": "multiply" },
+  "علامت به علاوه سنگین": { "replacement": "➕", "description": "plus" },
+  "علامت منهای سنگین": { "replacement": "➖", "description": "minus" },
+  "علامت تقسیم سنگین": { "replacement": "➗", "description": "divide" },
+  "بی نهایت": { "replacement": "♾️", "description": "infinity" },
+  "بنگ بنگ": { "replacement": "‼️", "description": "double exclamation mark" },
+  "interrobang": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "سوال": { "replacement": "❓", "description": "question mark" },
+  "سوال خاکستری": { "replacement": "❔", "description": "white question mark" },
+  "تعجب خاکستری": {
+    "replacement": "❕",
+    "description": "white exclamation mark"
+  },
+  "تعجب - علامت تعجب": {
+    "replacement": "❗",
+    "description": "exclamation mark"
+  },
+  "خط موج دار": { "replacement": "〰️", "description": "wavy dash" },
+  "تبدیل ارز": { "replacement": "💱", "description": "currency exchange" },
+  "علامت سنگین دلار": {
+    "replacement": "💲",
+    "description": "heavy dollar sign"
+  },
+  "نماد پزشکی": { "replacement": "⚕️", "description": "medical symbol" },
+  "بازیافت": { "replacement": "♻️", "description": "recycling symbol" },
+  "fleur de lis": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "سه گانه": { "replacement": "🔱", "description": "trident emblem" },
+  "نشان نام": { "replacement": "📛", "description": "name badge" },
+  "مبتدی": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "ای": { "replacement": "⭕", "description": "hollow red circle" },
+  "علامت چک سفید": { "replacement": "✅", "description": "check mark button" },
+  "صندوق رأی با چک": {
+    "replacement": "☑️",
+    "description": "check box with check"
+  },
+  "علامت چک سنگین": { "replacement": "✔️", "description": "check mark" },
+  "ایکس": { "replacement": "❌", "description": "cross mark" },
+  "علامت ضربدر مربع منفی": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "حلقه فرفری": { "replacement": "➰", "description": "curly loop" },
+  "علامت تناوب بخشی": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "هشت ستاره دزدکی": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "هشت ستاره سیاه": {
+    "replacement": "✴️",
+    "description": "eight-pointed star"
+  },
+  "درخشش": { "replacement": "❇️", "description": "sparkle" },
+  "کپی رایت": { "replacement": "©️", "description": "copyright" },
+  "ثبت شده": { "replacement": "®️", "description": "registered" },
+  "TM": { "replacement": "™️", "description": "trade mark" },
+  "هش": { "replacement": "#️⃣", "description": "keycap: #" },
+  "صفر": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "یکی": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "دو": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "سه": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "چهار": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "پنج": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "شش": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "هفت": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "هشت": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "نه": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "keycap ده": { "replacement": "🔟", "description": "keycap: 10" },
+  "abcd سرمایه": {
+    "replacement": "🔠",
+    "description": "input latin uppercase"
+  },
+  "آ ب پ ت": { "replacement": "🔡", "description": "input latin lowercase" },
+  "نمادها": { "replacement": "🔣", "description": "input symbols" },
+  "abc": { "replacement": "🔤", "description": "input latin letters" },
+  "آ": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "آب": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "ب": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "cl": { "replacement": "🆑", "description": "CL button" },
+  "سرد": { "replacement": "🆒", "description": "COOL button" },
+  "رایگان": { "replacement": "🆓", "description": "FREE button" },
+  "منبع اطلاعات": { "replacement": "ℹ️", "description": "information" },
+  "شناسه": { "replacement": "🆔", "description": "ID button" },
+  "متر": { "replacement": "Ⓜ️", "description": "circled M" },
+  "جدید": { "replacement": "🆕", "description": "NEW button" },
+  "نانوگرم": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "خوب": { "replacement": "🆗", "description": "OK button" },
+  "توقفگاه خودرو": { "replacement": "🅿️", "description": "P button" },
+  "sos": { "replacement": "🆘", "description": "SOS button" },
+  "در مقابل": { "replacement": "🆚", "description": "VS button" },
+  "کوکو": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "سا": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "مزیت ایدئوگرافی": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "تایید کنید": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "تبریک می گویم": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "راز": { "replacement": "㊙️", "description": "Japanese “secret” button" },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "دایره قرمز": { "replacement": "🔴", "description": "red circle" },
+  "دایره نارنجی": { "replacement": "🟠", "description": "orange circle" },
+  "دایره زرد": { "replacement": "🟡", "description": "yellow circle" },
+  "دایره سبز": { "replacement": "🟢", "description": "green circle" },
+  "دایره بزرگ آبی": { "replacement": "🔵", "description": "blue circle" },
+  "دایره بنفش": { "replacement": "🟣", "description": "purple circle" },
+  "دایره قهوه ای": { "replacement": "🟤", "description": "brown circle" },
+  "دایره سیاه": { "replacement": "⚫", "description": "black circle" },
+  "دایره سفید": { "replacement": "⚪", "description": "white circle" },
+  "مربع قرمز": { "replacement": "🟥", "description": "red square" },
+  "مربع نارنجی": { "replacement": "🟧", "description": "orange square" },
+  "مربع زرد": { "replacement": "🟨", "description": "yellow square" },
+  "مربع سبز": { "replacement": "🟩", "description": "green square" },
+  "مربع آبی": { "replacement": "🟦", "description": "blue square" },
+  "مربع بنفش": { "replacement": "🟪", "description": "purple square" },
+  "مربع قهوه ای": { "replacement": "🟫", "description": "brown square" },
+  "مربع بزرگ سیاه": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "مربع بزرگ سفید": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "مربع سیاه و سفید": {
+    "replacement": "◼️",
+    "description": "black medium square"
+  },
+  "مربع متوسط ​​سفید": {
+    "replacement": "◻️",
+    "description": "white medium square"
+  },
+  "مربع سیاه و سفید کوچک": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "مربع سفید متوسط ​​متوسط": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "مربع کوچک سیاه": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "مربع کوچک سفید": {
+    "replacement": "▫️",
+    "description": "white small square"
+  },
+  "الماس بزرگ نارنجی": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "الماس بزرگ آبی": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "الماس کوچک نارنجی": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "الماس کوچک آبی": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "مثلث قرمز کوچک": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "مثلث قرمز کوچک به سمت پایین": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "شکل الماس با یک نقطه در داخل": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "دکمه رادیویی": { "replacement": "🔘", "description": "radio button" },
+  "دکمه مربع سفید": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "دکمه مربع سیاه": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "پرچم شطرنجی": { "replacement": "🏁", "description": "chequered flag" },
+  "پرچم مثلثی روی پست": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "پرچم های ضربدری شده": {
+    "replacement": "🎌",
+    "description": "crossed flags"
+  },
+  "پرچم سیاه": { "replacement": "🏴", "description": "black flag" },
+  "پرچم سفید": { "replacement": "🏳️", "description": "white flag" },
+  "پرچم رنگین کمان": { "replacement": "🏳️‍🌈", "description": "rainbow flag" },
+  "پرچم تراجنسیتی": {
+    "replacement": "🏳️‍⚧️",
+    "description": "transgender flag"
+  },
+  "پرچم دزدان دریایی": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "جزیره معراج": {
+    "replacement": "🇦🇨",
+    "description": "flag: Ascension Island"
+  },
+  "آندورا": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "امارات متحده عربی": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "افغانستان": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "آنتیگوا باربودا": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "آنگویلا": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "آلبانی": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "ارمنستان": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "آنگولا": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "جنوبگان": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "آرژانتین": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "ساموآ آمریکایی": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "اتریش": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "استرالیا": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "آروبا": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "جزایر الند": { "replacement": "🇦🇽", "description": "flag: Åland Islands" },
+  "آذربایجان": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "بوسنی هرزگوین": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "باربادوس": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "بنگلادش": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "بلژیک": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "بورکینافاسو": { "replacement": "🇧🇫", "description": "flag: Burkina Faso" },
+  "بلغارستان": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "بحرین": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "بوروندی": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "بنین": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "St Barthelemy": {
+    "replacement": "🇧🇱",
+    "description": "flag: St. Barthélemy"
+  },
+  "برمودا": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "برونئی": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "بولیوی": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "کارائیب هلند": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "برزیل": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "باهاما": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "بوتان": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "جزیره بووت": { "replacement": "🇧🇻", "description": "flag: Bouvet Island" },
+  "بوتسوانا": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "بلاروس": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "بلیز کردن": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "کانادا": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "جزایر کوکوس": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "کنگو کینشاسا": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "جمهوری آفریقای مرکزی": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "کنگو برازاویل": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "سوئیس": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "cote divoire": { "replacement": "🇨🇮", "description": "flag: Côte d’Ivoire" },
+  "جزایر کوک": { "replacement": "🇨🇰", "description": "flag: Cook Islands" },
+  "شیلی": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "کامرون": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "cn": { "replacement": "🇨🇳", "description": "flag: China" },
+  "کلمبیا": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "جزیره کلیپرتون": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "کاستاریکا": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "کوبا": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "کیپ ورد": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "کوراکائو": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "جزیره کریسمس": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "قبرس": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "جمهوری چک": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "د": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "دیگو گارسیا": { "replacement": "🇩🇬", "description": "flag: Diego Garcia" },
+  "جیبوتی": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "دانمارک": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "دومینیکا": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "جمهوری دومینیکن": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "الجزایر": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "سوتا ملیلا": { "replacement": "🇪🇦", "description": "flag: Ceuta & Melilla" },
+  "اکوادور": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "استونی": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "مصر": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "صحرای غربی": { "replacement": "🇪🇭", "description": "flag: Western Sahara" },
+  "اریتره": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "es": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "اتیوپی": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "اتحادیه اروپا": {
+    "replacement": "🇪🇺",
+    "description": "flag: European Union"
+  },
+  "فنلاند": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "فیجی": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "جزایر فالکلند": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "میکرونزی": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "جزایر فارو": { "replacement": "🇫🇴", "description": "flag: Faroe Islands" },
+  "fr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "گابن": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "gb": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "گرنادا": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "گرجستان": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "گویان فرانسه": { "replacement": "🇬🇫", "description": "flag: French Guiana" },
+  "گرنزی": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "غنا": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "جبل الطارق": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "گرینلند": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "گامبیا": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "گینه": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "گوادلوپ": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "گینه استوایی": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "یونان": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "جزایر ساندویچ جنوبی جورجیا جنوبی": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "گواتمالا": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "گوام": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "گینه بیسائو": { "replacement": "🇬🇼", "description": "flag: Guinea-Bissau" },
+  "گویان": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "هنگ کنگ": {
+    "replacement": "🇭🇰",
+    "description": "flag: Hong Kong SAR China"
+  },
+  "جزایر مک دونالد را شنیدید": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "هندوراس": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "کرواسی": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "هاییتی": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "مجارستان": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "جزایر قناری": { "replacement": "🇮🇨", "description": "flag: Canary Islands" },
+  "اندونزی": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "ایرلند": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "اسرائيل": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "جزیره انسان": { "replacement": "🇮🇲", "description": "flag: Isle of Man" },
+  "هند": { "replacement": "🇮🇳", "description": "flag: India" },
+  "قلمرو اقیانوس هند انگلیس": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "عراق": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "ایران": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "ایسلند": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "آی تی": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "پیراهن ورزشی": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "جامائیکا": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "اردن": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "jp": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "کنیا": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "قرقیزستان": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "کامبوج": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "کیریباتی": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "کومور": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "سنت کیتس نیویس": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "کره شمالی": { "replacement": "🇰🇵", "description": "flag: North Korea" },
+  "کر": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "کویت": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "جزایر کیمن": { "replacement": "🇰🇾", "description": "flag: Cayman Islands" },
+  "قزاقستان": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "لائوس": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "لبنان": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "سنت لوسیا": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "لیختن اشتاین": { "replacement": "🇱🇮", "description": "flag: Liechtenstein" },
+  "سری لانکا": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "لیبریا": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "لسوتو": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "لیتوانی": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "لوکزامبورگ": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "لتونی": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "لیبی": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "مراکش": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "موناکو": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "مولداوی": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "مونته نگرو": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "مارتین": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "ماداگاسکار": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "جزایر مارشال": {
+    "replacement": "🇲🇭",
+    "description": "flag: Marshall Islands"
+  },
+  "مقدونیه": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "مالی": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "میانمار": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "مغولستان": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "ماکائو": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "جزایر ماریانای شمالی": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "مارتینیک": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "موریتانی": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "مونتسرات": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "مالت": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "موریس": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "مالدیو": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "مالاوی": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "مکزیک": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "مالزی": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "موزامبیک": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "نامیبیا": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "کالدونیای جدید": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "نیجر": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "جزیره نورفولک": {
+    "replacement": "🇳🇫",
+    "description": "flag: Norfolk Island"
+  },
+  "نیجریه": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "نیکاراگوئه": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "هلند": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "نروژ": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "نپال": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "نائورو": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "نیوئه": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "نیوزلند": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "عمان": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "پاناما": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "پرو": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "پلی نیزی فرانسه": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "پاپوآ گینه نو": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "فیلیپین": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "پاکستان": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "لهستان": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "سنت پیر میکولون": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "جزایر Pitcairn": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "پورتوریکو": { "replacement": "🇵🇷", "description": "flag: Puerto Rico" },
+  "سرزمین های فلسطینی": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "کشور پرتغال": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "پالائو": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "پاراگوئه": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "قطر": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "تجدید دیدار": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "رومانی": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "صربستان": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "ru": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "رواندا": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "عربستان سعودی": { "replacement": "🇸🇦", "description": "flag: Saudi Arabia" },
+  "جزایر سلیمان": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "سیشل": { "replacement": "🇸🇨", "description": "flag: Seychelles" },
+  "سودان": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "سوئد": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "سنگاپور": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "سنت هلنا": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "اسلوونی": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "svalbard jan mayen": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "اسلواکی": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "سیرا لئون": { "replacement": "🇸🇱", "description": "flag: Sierra Leone" },
+  "سان مارینو": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "سنگال": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "سومالی": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "سورینام": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "سودان جنوبی": { "replacement": "🇸🇸", "description": "flag: South Sudan" },
+  "سائو توم پرنسیپ": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "السالوادور": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "سینت مارتن": { "replacement": "🇸🇽", "description": "flag: Sint Maarten" },
+  "سوریه": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "سوازیلند": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "تریستان دا کونه": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "جزایر تورک کایکوس": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "چاد": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "سرزمینهای جنوبی فرانسه": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "رفتن": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "تایلند": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "تاجیکستان": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "توكلائو": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "تیمور لست": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "ترکمنستان": { "replacement": "🇹🇲", "description": "flag: Turkmenistan" },
+  "تونس": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "تونگا": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "tr": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "ترینیداد توباگو": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "تووالو": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "تایوان": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "تانزانیا": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "اوکراین": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "اوگاندا": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "ما جزایر دور افتاده": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "سازمان ملل": { "replacement": "🇺🇳", "description": "flag: United Nations" },
+  "ما": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "اروگوئه": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "ازبکستان": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "شهر واتیکان": { "replacement": "🇻🇦", "description": "flag: Vatican City" },
+  "گرنادین سنت وینسنت": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "ونزوئلا": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "جزایر بکر انگلیس": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "ما جزایر بکر": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "ویتنام": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "وانواتو": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "والسیس فوتونا": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "ساموآ": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "کوسوو": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "یمن": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "مایوت": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "آفریقای جنوبی": { "replacement": "🇿🇦", "description": "flag: South Africa" },
+  "زامبیا": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "زیمبابوه": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "انگلستان": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "اسکاتلند": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "ولز": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

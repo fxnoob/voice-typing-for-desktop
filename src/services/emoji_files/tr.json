@@ -1,0 +1,2816 @@
+{
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "sırıtma": { "replacement": "😀", "description": "grinning face" },
+  "gülen yüz": {
+    "replacement": "😃",
+    "description": "grinning face with big eyes"
+  },
+  "gülümsemek": {
+    "replacement": "😄",
+    "description": "grinning face with smiling eyes"
+  },
+  "sırıtış": {
+    "replacement": "😁",
+    "description": "beaming face with smiling eyes"
+  },
+  "gülme": { "replacement": "😆", "description": "grinning squinting face" },
+  "ter gülümsemek": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "sevinç": { "replacement": "😂", "description": "face with tears of joy" },
+  "hafifçe gülümseyen yüz": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "baş aşağı yüz": { "replacement": "🙃", "description": "upside-down face" },
+  "göz kırpmak": { "replacement": "😉", "description": "winking face" },
+  "kızarmak": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "masum": { "replacement": "😇", "description": "smiling face with halo" },
+  "üç kalp ile gülen yüz": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "kalp gözleri": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "yıldız çarptı": { "replacement": "🤩", "description": "star-struck" },
+  "öpüşen kalp": { "replacement": "😘", "description": "face blowing a kiss" },
+  "öpüşmek": { "replacement": "😗", "description": "kissing face" },
+  "rahat": { "replacement": "☺️", "description": "smiling face" },
+  "gözleri kapalı öpmek": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "gülümseyen gözleri öpmek": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "gözyaşı ile gülen yüz": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "nefis": { "replacement": "😋", "description": "face savoring food" },
+  "dil sıkışmış": { "replacement": "😛", "description": "face with tongue" },
+  "dil göz kırpmak": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "çılgın yüz": { "replacement": "🤪", "description": "zany face" },
+  "dil kapalı gözler": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "para ağız yüzü": { "replacement": "🤑", "description": "money-mouth face" },
+  "sarılmak": { "replacement": "🤗", "description": "hugging face" },
+  "ağzına ver": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "susan yüz": { "replacement": "🤫", "description": "shushing face" },
+  "düşünme": { "replacement": "🤔", "description": "thinking face" },
+  "fermuarlı ağız yüzü": {
+    "replacement": "🤐",
+    "description": "zipper-mouth face"
+  },
+  "kaldırılmış kaş": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "tarafsız yüz": { "replacement": "😐", "description": "neutral face" },
+  "ifadesiz": { "replacement": "😑", "description": "expressionless face" },
+  "ağız yok": { "replacement": "😶", "description": "face without mouth" },
+  "sırıtmak": { "replacement": "😏", "description": "smirking face" },
+  "eğlenmemiş": { "replacement": "😒", "description": "unamused face" },
+  "yuvarlanan gözler": {
+    "replacement": "🙄",
+    "description": "face with rolling eyes"
+  },
+  "yüz buruşturma": { "replacement": "😬", "description": "grimacing face" },
+  "yalancı yüz": { "replacement": "🤥", "description": "lying face" },
+  "rahatlamış": { "replacement": "😌", "description": "relieved face" },
+  "dalgın": { "replacement": "😔", "description": "pensive face" },
+  "uykulu": { "replacement": "😪", "description": "sleepy face" },
+  "salya akan yüz": { "replacement": "🤤", "description": "drooling face" },
+  "uyuyor": { "replacement": "😴", "description": "sleeping face" },
+  "maske": { "replacement": "😷", "description": "face with medical mask" },
+  "termometre ile yüz": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "baş bandajlı yüz": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "mide bulandırıcı yüz": {
+    "replacement": "🤢",
+    "description": "nauseated face"
+  },
+  "kusan yüz": { "replacement": "🤮", "description": "face vomiting" },
+  "hapşıran yüz": { "replacement": "🤧", "description": "sneezing face" },
+  "sıcak yüz": { "replacement": "🥵", "description": "hot face" },
+  "soğuk yüz": { "replacement": "🥶", "description": "cold face" },
+  "sersem yüz": { "replacement": "🥴", "description": "woozy face" },
+  "baş döndürücü yüz": { "replacement": "😵", "description": "dizzy face" },
+  "patlayan kafa": { "replacement": "🤯", "description": "exploding head" },
+  "kovboy şapkası yüz": {
+    "replacement": "🤠",
+    "description": "cowboy hat face"
+  },
+  "parti yüzü": { "replacement": "🥳", "description": "partying face" },
+  "kılık değiştirmiş yüz": {
+    "replacement": "🥸",
+    "description": "disguised face"
+  },
+  "Güneş gözlüğü": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "inek yüzü": { "replacement": "🤓", "description": "nerd face" },
+  "tek gözlü yüz": { "replacement": "🧐", "description": "face with monocle" },
+  "Şaşkın": { "replacement": "😕", "description": "confused face" },
+  "endişeli": { "replacement": "😟", "description": "worried face" },
+  "hafif asık surat": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "çatık yüz": { "replacement": "☹️", "description": "frowning face" },
+  "açık ağız": { "replacement": "😮", "description": "face with open mouth" },
+  "sessiz": { "replacement": "🔇", "description": "muted speaker" },
+  "şaşırmış": { "replacement": "😲", "description": "astonished face" },
+  "kızardı": { "replacement": "😳", "description": "flushed face" },
+  "yalvaran yüz": { "replacement": "🥺", "description": "pleading face" },
+  "çatık": {
+    "replacement": "😦",
+    "description": "frowning face with open mouth"
+  },
+  "kederli": { "replacement": "😧", "description": "anguished face" },
+  "Korkunç": { "replacement": "😨", "description": "fearful face" },
+  "Soğuk ter": {
+    "replacement": "😰",
+    "description": "anxious face with sweat"
+  },
+  "hayal kırıklığına uğramış rahatlamış": {
+    "replacement": "😥",
+    "description": "sad but relieved face"
+  },
+  "Ağla": { "replacement": "😢", "description": "crying face" },
+  "hıçkırmak": { "replacement": "😭", "description": "loudly crying face" },
+  "çığlık": { "replacement": "😱", "description": "face screaming in fear" },
+  "kafası karışmış": { "replacement": "😖", "description": "confounded face" },
+  "sebat etmek": { "replacement": "😣", "description": "persevering face" },
+  "hüsrana uğramış": {
+    "replacement": "😞",
+    "description": "disappointed face"
+  },
+  "ter": { "replacement": "😓", "description": "downcast face with sweat" },
+  "yorgun": { "replacement": "😩", "description": "weary face" },
+  "yorgun yüz": { "replacement": "😫", "description": "tired face" },
+  "esneyen yüz": { "replacement": "🥱", "description": "yawning face" },
+  "zafer": { "replacement": "😤", "description": "face with steam from nose" },
+  "öfke": { "replacement": "💢", "description": "anger symbol" },
+  "kızgın": { "replacement": "😠", "description": "angry face" },
+  "küfür yüz": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "gülümseyen imp": {
+    "replacement": "😈",
+    "description": "smiling face with horns"
+  },
+  "imp": { "replacement": "👿", "description": "angry face with horns" },
+  "kafatası": { "replacement": "💀", "description": "skull" },
+  "kurukafa ve kırık kemikler": {
+    "replacement": "☠️",
+    "description": "skull and crossbones"
+  },
+  "Hankey": { "replacement": "💩", "description": "pile of poo" },
+  "palyaço yüzü": { "replacement": "🤡", "description": "clown face" },
+  "Japon canavar": { "replacement": "👹", "description": "ogre" },
+  "Japon goblini": { "replacement": "👺", "description": "goblin" },
+  "hayalet": { "replacement": "👻", "description": "ghost" },
+  "yabancı": { "replacement": "👽", "description": "alien" },
+  "uzay istilacı": { "replacement": "👾", "description": "alien monster" },
+  "robot": { "replacement": "🤖", "description": "robot" },
+  "gülen kedi": { "replacement": "😺", "description": "grinning cat" },
+  "gülümse kedi": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "sevinç kedi": {
+    "replacement": "😹",
+    "description": "cat with tears of joy"
+  },
+  "kalp gözleri kedi": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "sırıtış kedi": { "replacement": "😼", "description": "cat with wry smile" },
+  "öpüşen kedi": { "replacement": "😽", "description": "kissing cat" },
+  "çığlık atan kedi": { "replacement": "🙀", "description": "weary cat" },
+  "ağlayan kedi yüzü": { "replacement": "😿", "description": "crying cat" },
+  "somurtkan kedi": { "replacement": "😾", "description": "pouting cat" },
+  "kötülük görme": { "replacement": "🙈", "description": "see-no-evil monkey" },
+  "kötü duyma": { "replacement": "🙉", "description": "hear-no-evil monkey" },
+  "kötü konuşma": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "öpücük": { "replacement": "💋", "description": "kiss mark" },
+  "Aşk mektubu": { "replacement": "💌", "description": "love letter" },
+  "aşk tanrısı": { "replacement": "💘", "description": "heart with arrow" },
+  "hediye kalp": { "replacement": "💝", "description": "heart with ribbon" },
+  "parlayan kalp": { "replacement": "💖", "description": "sparkling heart" },
+  "kalp atışı": { "replacement": "💓", "description": "beating heart" },
+  "dönen kalpler": { "replacement": "💞", "description": "revolving hearts" },
+  "iki kalp": { "replacement": "💕", "description": "two hearts" },
+  "kalp dekorasyonu": {
+    "replacement": "💟",
+    "description": "heart decoration"
+  },
+  "ağır kalpli ünlem işareti": {
+    "replacement": "❣️",
+    "description": "heart exclamation"
+  },
+  "kırık kalp": { "replacement": "💔", "description": "broken heart" },
+  "kalp": { "replacement": "❤️", "description": "red heart" },
+  "turuncu kalp": { "replacement": "🧡", "description": "orange heart" },
+  "sarı kalp": { "replacement": "💛", "description": "yellow heart" },
+  "yeşil kalp": { "replacement": "💚", "description": "green heart" },
+  "Mavi kalp": { "replacement": "💙", "description": "blue heart" },
+  "Mor Kalp": { "replacement": "💜", "description": "purple heart" },
+  "kahverengi kalp": { "replacement": "🤎", "description": "brown heart" },
+  "Kara kalp": { "replacement": "🖤", "description": "black heart" },
+  "Beyaz Kalp": { "replacement": "🤍", "description": "white heart" },
+  "Boom": { "replacement": "💥", "description": "collision" },
+  "baş döndürücü": { "replacement": "💫", "description": "dizzy" },
+  "ter damlası": { "replacement": "💦", "description": "sweat droplets" },
+  "kısa çizgi": { "replacement": "💨", "description": "dashing away" },
+  "delik": { "replacement": "🕳️", "description": "hole" },
+  "bomba": { "replacement": "💣", "description": "bomb" },
+  "konuşma balonu": { "replacement": "💬", "description": "speech balloon" },
+  "göz konuşma balonu": {
+    "replacement": "👁️‍🗨️",
+    "description": "eye in speech bubble"
+  },
+  "sol konuşma balonu": {
+    "replacement": "🗨️",
+    "description": "left speech bubble"
+  },
+  "doğru öfke balonu": {
+    "replacement": "🗯️",
+    "description": "right anger bubble"
+  },
+  "düşünce balonu": { "replacement": "💭", "description": "thought balloon" },
+  "zzz": { "replacement": "💤", "description": "zzz" },
+  "dalga": { "replacement": "👋", "description": "waving hand" },
+  "elin arkasından kaldırdı": {
+    "replacement": "🤚",
+    "description": "raised back of hand"
+  },
+  "kaldırılmış el parmakları açık": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "el": { "replacement": "✋", "description": "raised hand" },
+  "vulkan selamı": { "replacement": "🖖", "description": "vulcan salute" },
+  "tamam el": { "replacement": "👌", "description": "OK hand" },
+  "sıkışmış parmaklar": {
+    "replacement": "🤌",
+    "description": "pinched fingers"
+  },
+  "el sıkışmak": { "replacement": "🤏", "description": "pinching hand" },
+  "v": { "replacement": "✌️", "description": "victory hand" },
+  "çapraz parmaklar": { "replacement": "🤞", "description": "crossed fingers" },
+  "seni seviyorum jest": {
+    "replacement": "🤟",
+    "description": "love-you gesture"
+  },
+  "metal": { "replacement": "🤘", "description": "sign of the horns" },
+  "beni ara": { "replacement": "🤙", "description": "call me hand" },
+  "sol nokta": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "doğru nokta": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "yukarı 2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "orta parmak": { "replacement": "🖕", "description": "middle finger" },
+  "aşağı çekmek": {
+    "replacement": "👇",
+    "description": "backhand index pointing down"
+  },
+  "işaret etmek": { "replacement": "☝️", "description": "index pointing up" },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "yumruk kaldırdı": { "replacement": "✊", "description": "raised fist" },
+  "yaklaşan yumruk": { "replacement": "👊", "description": "oncoming fist" },
+  "sol yumruk": { "replacement": "🤛", "description": "left-facing fist" },
+  "sağa yumruk": { "replacement": "🤜", "description": "right-facing fist" },
+  "alkış": { "replacement": "👏", "description": "clapping hands" },
+  "kaldırdı eller": { "replacement": "🙌", "description": "raising hands" },
+  "ellerini aç": { "replacement": "👐", "description": "open hands" },
+  "avuç içleri birlikte": {
+    "replacement": "🤲",
+    "description": "palms up together"
+  },
+  "tokalaşma": { "replacement": "🤝", "description": "handshake" },
+  "dua etmek": { "replacement": "🙏", "description": "folded hands" },
+  "el yazmak": { "replacement": "✍️", "description": "writing hand" },
+  "tırnak bakımı": { "replacement": "💅", "description": "nail polish" },
+  "özçekim": { "replacement": "🤳", "description": "selfie" },
+  "kas": { "replacement": "💪", "description": "flexed biceps" },
+  "mekanik kol": { "replacement": "🦾", "description": "mechanical arm" },
+  "mekanik bacak": { "replacement": "🦿", "description": "mechanical leg" },
+  "bacak": { "replacement": "🦵", "description": "leg" },
+  "ayak": { "replacement": "🐾", "description": "paw prints" },
+  "kulak": { "replacement": "👂", "description": "ear" },
+  "işitme cihazlı kulak": {
+    "replacement": "🦻",
+    "description": "ear with hearing aid"
+  },
+  "burun": { "replacement": "👃", "description": "nose" },
+  "beyin": { "replacement": "🧠", "description": "brain" },
+  "anatomik kalp": { "replacement": "🫀", "description": "anatomical heart" },
+  "akciğerler": { "replacement": "🫁", "description": "lungs" },
+  "diş": { "replacement": "🦷", "description": "tooth" },
+  "kemik": { "replacement": "🦴", "description": "bone" },
+  "gözler": { "replacement": "👀", "description": "eyes" },
+  "göz": { "replacement": "👁️", "description": "eye" },
+  "dil": { "replacement": "👅", "description": "tongue" },
+  "dudaklar": { "replacement": "👄", "description": "mouth" },
+  "bebek": { "replacement": "👶", "description": "baby" },
+  "çocuk": { "replacement": "🧒", "description": "child" },
+  "oğlan": { "replacement": "👦", "description": "boy" },
+  "kız": { "replacement": "👧", "description": "girl" },
+  "yetişkin": { "replacement": "🧑", "description": "person" },
+  "sarı saçlı kişi": {
+    "replacement": "👱",
+    "description": "person: blond hair"
+  },
+  "adam": { "replacement": "👨", "description": "man" },
+  "sakallı kişi": { "replacement": "🧔", "description": "man: beard" },
+  "kızıl saçlı adam": { "replacement": "👨‍🦰", "description": "man: red hair" },
+  "kıvırcık saçlı adam": {
+    "replacement": "👨‍🦱",
+    "description": "man: curly hair"
+  },
+  "beyaz saçlı adam": { "replacement": "👨‍🦳", "description": "man: white hair" },
+  "kel": { "replacement": "👨‍🦲", "description": "man: bald" },
+  "Kadın": { "replacement": "👩", "description": "woman" },
+  "kızıl saçlı kadın": {
+    "replacement": "👩‍🦰",
+    "description": "woman: red hair"
+  },
+  "Kızıl saçlı kişi": {
+    "replacement": "🧑‍🦰",
+    "description": "person: red hair"
+  },
+  "kıvırcık kadın": { "replacement": "👩‍🦱", "description": "woman: curly hair" },
+  "kişi kıvırcık saç": {
+    "replacement": "🧑‍🦱",
+    "description": "person: curly hair"
+  },
+  "beyaz saçlı kadın": {
+    "replacement": "👩‍🦳",
+    "description": "woman: white hair"
+  },
+  "kişi beyaz saç": {
+    "replacement": "🧑‍🦳",
+    "description": "person: white hair"
+  },
+  "kel kadın": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "kel kişi": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "sarı saçlı kadın": {
+    "replacement": "👱‍♀️",
+    "description": "woman: blond hair"
+  },
+  "sarı saçlı adam": { "replacement": "👱‍♂️", "description": "man: blond hair" },
+  "yaşlı yetişkin": { "replacement": "🧓", "description": "older person" },
+  "daha yaşlı adam": { "replacement": "👴", "description": "old man" },
+  "yaşlı kadın": { "replacement": "👵", "description": "old woman" },
+  "kaşlarını çatan kişi": {
+    "replacement": "🙍",
+    "description": "person frowning"
+  },
+  "kaşlarını çatan adam": {
+    "replacement": "🙍‍♂️",
+    "description": "man frowning"
+  },
+  "kaşlarını çatan kadın": {
+    "replacement": "🙍‍♀️",
+    "description": "woman frowning"
+  },
+  "somurtkan yüz": { "replacement": "🙎", "description": "person pouting" },
+  "somurtkan adam": { "replacement": "🙎‍♂️", "description": "man pouting" },
+  "somurtkan kadın": { "replacement": "🙎‍♀️", "description": "woman pouting" },
+  "iyi değil": { "replacement": "🙅", "description": "person gesturing NO" },
+  "iyi adam değil": { "replacement": "🙅‍♂️", "description": "man gesturing NO" },
+  "iyi kadın yok": { "replacement": "🙅‍♀️", "description": "woman gesturing NO" },
+  "tamam insan": { "replacement": "🙆", "description": "person gesturing OK" },
+  "tamam dostum": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "tamam kadın": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "bahşiş veren kişi": {
+    "replacement": "💁",
+    "description": "person tipping hand"
+  },
+  "devrilme el adamı": {
+    "replacement": "💁‍♂️",
+    "description": "man tipping hand"
+  },
+  "devrilme el kadın": {
+    "replacement": "💁‍♀️",
+    "description": "woman tipping hand"
+  },
+  "el kaldırmak": { "replacement": "🙋", "description": "person raising hand" },
+  "el uzatan adam": { "replacement": "🙋‍♂️", "description": "man raising hand" },
+  "el kadın yetiştirme": {
+    "replacement": "🙋‍♀️",
+    "description": "woman raising hand"
+  },
+  "sağır kişi": { "replacement": "🧏", "description": "deaf person" },
+  "sağır adam": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "sağır kadın": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "eğilmek": { "replacement": "🙇", "description": "person bowing" },
+  "eğilen adam": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "eğilen kadın": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "yüz": { "replacement": "🤦", "description": "person facepalming" },
+  "yüzünü kapatan adam": {
+    "replacement": "🤦‍♂️",
+    "description": "man facepalming"
+  },
+  "yüz germe": { "replacement": "🤦‍♀️", "description": "woman facepalming" },
+  "omuz silkme": { "replacement": "🤷", "description": "person shrugging" },
+  "omuz silken adam": { "replacement": "🤷‍♂️", "description": "man shrugging" },
+  "omuz silkme kadın": {
+    "replacement": "🤷‍♀️",
+    "description": "woman shrugging"
+  },
+  "sağlık çalışanı": { "replacement": "🧑‍⚕️", "description": "health worker" },
+  "erkek sağlık çalışanı": {
+    "replacement": "👨‍⚕️",
+    "description": "man health worker"
+  },
+  "kadın sağlık çalışanı": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "Öğrenci": { "replacement": "🧑‍🎓", "description": "student" },
+  "erkek öğrenci": { "replacement": "👨‍🎓", "description": "man student" },
+  "kadın öğrenci": { "replacement": "👩‍🎓", "description": "woman student" },
+  "öğretmen": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "erkek öğretmen": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "kadın öğretmen": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "hakim": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "adam yargıç": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "kadın yargıç": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "çiftçi": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "adam çiftçi": { "replacement": "👨‍🌾", "description": "man farmer" },
+  "kadın çiftçi": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "pişirmek": { "replacement": "🧑‍🍳", "description": "cook" },
+  "adam aşçı": { "replacement": "👨‍🍳", "description": "man cook" },
+  "kadın aşçı": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "tamirci": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "adam tamirci": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "kadın tamirci": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "fabrika işçisi": { "replacement": "🧑‍🏭", "description": "factory worker" },
+  "adam fabrika işçisi": {
+    "replacement": "👨‍🏭",
+    "description": "man factory worker"
+  },
+  "kadın fabrika işçisi": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "Ofis çalışanı": { "replacement": "🧑‍💼", "description": "office worker" },
+  "adam ofis çalışanı": {
+    "replacement": "👨‍💼",
+    "description": "man office worker"
+  },
+  "kadın ofis çalışanı": {
+    "replacement": "👩‍💼",
+    "description": "woman office worker"
+  },
+  "Bilim insanı": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "adam bilim adamı": { "replacement": "👨‍🔬", "description": "man scientist" },
+  "kadın bilim adamı": {
+    "replacement": "👩‍🔬",
+    "description": "woman scientist"
+  },
+  "teknoloji uzmanı": { "replacement": "🧑‍💻", "description": "technologist" },
+  "adam teknoloji uzmanı": {
+    "replacement": "👨‍💻",
+    "description": "man technologist"
+  },
+  "kadın teknoloji uzmanı": {
+    "replacement": "👩‍💻",
+    "description": "woman technologist"
+  },
+  "şarkıcı": { "replacement": "🧑‍🎤", "description": "singer" },
+  "erkek şarkıcı": { "replacement": "👨‍🎤", "description": "man singer" },
+  "kadın şarkıcı": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "sanatçı": { "replacement": "🧑‍🎨", "description": "artist" },
+  "erkek sanatçı": { "replacement": "👨‍🎨", "description": "man artist" },
+  "kadın sanatçı": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "pilot": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "adam pilot": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "kadın pilot": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "astronot": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "adam astronot": { "replacement": "👨‍🚀", "description": "man astronaut" },
+  "kadın astronot": { "replacement": "👩‍🚀", "description": "woman astronaut" },
+  "itfaiyeci": { "replacement": "🧑‍🚒", "description": "firefighter" },
+  "adam itfaiyeci": { "replacement": "👨‍🚒", "description": "man firefighter" },
+  "kadın itfaiyeci": {
+    "replacement": "👩‍🚒",
+    "description": "woman firefighter"
+  },
+  "polis memuru": { "replacement": "👮", "description": "police officer" },
+  "polis": { "replacement": "👮‍♀️", "description": "woman police officer" },
+  "dedektif": { "replacement": "🕵️", "description": "detective" },
+  "erkek dedektif": { "replacement": "🕵️‍♂️", "description": "man detective" },
+  "kadın dedektif": { "replacement": "🕵️‍♀️", "description": "woman detective" },
+  "koruma": { "replacement": "💂", "description": "guard" },
+  "muhafız": { "replacement": "💂‍♂️", "description": "man guard" },
+  "gardiyan": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "ninja": { "replacement": "🥷", "description": "ninja" },
+  "inşaat işçisi": {
+    "replacement": "👷",
+    "description": "construction worker"
+  },
+  "inşaat işçisi adam": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "inşaat işçisi kadın": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "prens": { "replacement": "🤴", "description": "prince" },
+  "prenses": { "replacement": "👸", "description": "princess" },
+  "türbanlı kişi": {
+    "replacement": "👳",
+    "description": "person wearing turban"
+  },
+  "türbanlı adam": { "replacement": "👳‍♂️", "description": "man wearing turban" },
+  "Türbanlı kadın": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "gua pi mao olan adam": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "başörtülü kadın": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "smokinli kişi": { "replacement": "🤵", "description": "person in tuxedo" },
+  "smokinli adam": { "replacement": "🤵‍♂️", "description": "man in tuxedo" },
+  "smokinli kadın": {
+    "replacement": "🤵‍♀️",
+    "description": "woman in tuxedo"
+  },
+  "peçeli kişi": { "replacement": "👰", "description": "person with veil" },
+  "peçeli adam": { "replacement": "👰‍♂️", "description": "man with veil" },
+  "peçeli kadın": { "replacement": "👰‍♀️", "description": "woman with veil" },
+  "hamile kadın": { "replacement": "🤰", "description": "pregnant woman" },
+  "Emzirme": { "replacement": "🤱", "description": "breast-feeding" },
+  "kadın bebeği besliyor": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "adam bebeği besliyor": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "bebeği besleyen kişi": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "melek": { "replacement": "👼", "description": "baby angel" },
+  "Noel Baba": { "replacement": "🎅", "description": "Santa Claus" },
+  "bayan claus": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "mx claus": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "süper kahraman": { "replacement": "🦸", "description": "superhero" },
+  "süper kahraman adam": {
+    "replacement": "🦸‍♂️",
+    "description": "man superhero"
+  },
+  "süper kahraman kadın": {
+    "replacement": "🦸‍♀️",
+    "description": "woman superhero"
+  },
+  "süpervizörlük": { "replacement": "🦹", "description": "supervillain" },
+  "kötü adam": { "replacement": "🦹‍♂️", "description": "man supervillain" },
+  "süper kötü kadın": {
+    "replacement": "🦹‍♀️",
+    "description": "woman supervillain"
+  },
+  "büyücü": { "replacement": "🧙", "description": "mage" },
+  "büyücü adam": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "büyücü kadın": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "peri": { "replacement": "🧚", "description": "fairy" },
+  "peri adam": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "peri kadın": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "vampir": { "replacement": "🧛", "description": "vampire" },
+  "vampir adam": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "vampir kadın": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "denizci": { "replacement": "🧜", "description": "merperson" },
+  "deniz adamı": { "replacement": "🧜‍♂️", "description": "merman" },
+  "Deniz Kızı": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "elf": { "replacement": "🧝", "description": "elf" },
+  "elf adam": { "replacement": "🧝‍♂️", "description": "man elf" },
+  "elf kadın": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "cin": { "replacement": "🧞", "description": "genie" },
+  "cin adam": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "cin kadın": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "zombi": { "replacement": "🧟", "description": "zombie" },
+  "zombi adam": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "zombi kadın": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "masaj": { "replacement": "💆", "description": "person getting massage" },
+  "masaj adamı": { "replacement": "💆‍♂️", "description": "man getting massage" },
+  "masaj kadın": {
+    "replacement": "💆‍♀️",
+    "description": "woman getting massage"
+  },
+  "saç kesimi": {
+    "replacement": "💇",
+    "description": "person getting haircut"
+  },
+  "saç kesimi adam": {
+    "replacement": "💇‍♂️",
+    "description": "man getting haircut"
+  },
+  "saç kesimi kadın": {
+    "replacement": "💇‍♀️",
+    "description": "woman getting haircut"
+  },
+  "yürüme": { "replacement": "🚶", "description": "person walking" },
+  "yürüyen adam": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "yürüyen kadın": { "replacement": "🚶‍♀️", "description": "woman walking" },
+  "ayakta duran kişi": { "replacement": "🧍", "description": "person standing" },
+  "duran adam": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "ayakta kadın": { "replacement": "🧍‍♀️", "description": "woman standing" },
+  "diz çökmüş kişi": { "replacement": "🧎", "description": "person kneeling" },
+  "diz çökmüş adam": { "replacement": "🧎‍♂️", "description": "man kneeling" },
+  "diz çökmüş kadın": {
+    "replacement": "🧎‍♀️",
+    "description": "woman kneeling"
+  },
+  "sondaj bastonu olan kişi": {
+    "replacement": "🧑‍🦯",
+    "description": "person with white cane"
+  },
+  "sonda bastonlu adam": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "baston ile kadın": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "motorlu tekerlekli sandalyedeki kişi": {
+    "replacement": "🧑‍🦼",
+    "description": "person in motorized wheelchair"
+  },
+  "motorlu tekerlekli sandalyedeki adam": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "motorlu tekerlekli sandalyede kadın": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "manuel tekerlekli sandalyedeki kişi": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "manuel tekerlekli sandalyede adam": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "el ile tekerlekli sandalyede kadın": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "koşucu": { "replacement": "🏃", "description": "person running" },
+  "koşan adam": { "replacement": "🏃‍♂️", "description": "man running" },
+  "koşan kadın": { "replacement": "🏃‍♀️", "description": "woman running" },
+  "dans eden kadın": { "replacement": "💃", "description": "woman dancing" },
+  "dans eden adam": { "replacement": "🕺", "description": "man dancing" },
+  "takım elbise havaya yükselen": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "dansçılar": { "replacement": "👯", "description": "people with bunny ears" },
+  "dans eden erkekler": {
+    "replacement": "👯‍♂️",
+    "description": "men with bunny ears"
+  },
+  "dans eden kadınlar": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "sauna insanı": {
+    "replacement": "🧖",
+    "description": "person in steamy room"
+  },
+  "sauna adamı": { "replacement": "🧖‍♂️", "description": "man in steamy room" },
+  "sauna kadın": { "replacement": "🧖‍♀️", "description": "woman in steamy room" },
+  "Tırmanmak": { "replacement": "🧗", "description": "person climbing" },
+  "tırmanan adam": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "tırmanan kadın": { "replacement": "🧗‍♀️", "description": "woman climbing" },
+  "kişi eskrim": { "replacement": "🤺", "description": "person fencing" },
+  "at yarışı": { "replacement": "🏇", "description": "horse racing" },
+  "kayakçı": { "replacement": "🏂", "description": "snowboarder" },
+  "golf oynamak": { "replacement": "🏌️", "description": "person golfing" },
+  "golfçü": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "golfçü kadın": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "sörfçü": { "replacement": "🏄", "description": "person surfing" },
+  "sörfçü adam": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "sörf yapan kadın": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "kayık": { "replacement": "🚣", "description": "person rowing boat" },
+  "kürekçi": { "replacement": "🚣‍♂️", "description": "man rowing boat" },
+  "kürekçi kadın": { "replacement": "🚣‍♀️", "description": "woman rowing boat" },
+  "yüzücü": { "replacement": "🏊", "description": "person swimming" },
+  "yüzen adam": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "yüzen kadın": { "replacement": "🏊‍♀️", "description": "woman swimming" },
+  "zıplayan top kişi": {
+    "replacement": "⛹️",
+    "description": "person bouncing ball"
+  },
+  "zıplayan top adam": {
+    "replacement": "⛹️‍♂️",
+    "description": "man bouncing ball"
+  },
+  "zıplayan top kadın": {
+    "replacement": "⛹️‍♀️",
+    "description": "woman bouncing ball"
+  },
+  "ağırlık kaldırma": {
+    "replacement": "🏋️",
+    "description": "person lifting weights"
+  },
+  "ağırlık kaldıran adam": {
+    "replacement": "🏋️‍♂️",
+    "description": "man lifting weights"
+  },
+  "ağırlık kaldırma kadın": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "bisikletçi": { "replacement": "🚴", "description": "person biking" },
+  "bisikletli adam": { "replacement": "🚴‍♂️", "description": "man biking" },
+  "bisikletçi kadın": { "replacement": "🚴‍♀️", "description": "woman biking" },
+  "dağ bisikletçisi": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "dağ bisikleti kadın": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "takla atma": { "replacement": "🤸", "description": "person cartwheeling" },
+  "takla atan adam": { "replacement": "🤸‍♂️", "description": "man cartwheeling" },
+  "takla atan kadın": {
+    "replacement": "🤸‍♀️",
+    "description": "woman cartwheeling"
+  },
+  "güreş": { "replacement": "🤼", "description": "people wrestling" },
+  "erkekler güreş": { "replacement": "🤼‍♂️", "description": "men wrestling" },
+  "güreş kadın": { "replacement": "🤼‍♀️", "description": "women wrestling" },
+  "su topu": {
+    "replacement": "🤽",
+    "description": "person playing water polo"
+  },
+  "su topu oynayan adam": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "su topu oynayan kadın": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "hentbolcu": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "hentbol oynayan adam": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "hentbol oynayan kadın": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "hokkabazlık yapan kişi": {
+    "replacement": "🤹",
+    "description": "person juggling"
+  },
+  "hokkabazlık yapan adam": {
+    "replacement": "🤹‍♂️",
+    "description": "man juggling"
+  },
+  "hokkabazlık kadın": { "replacement": "🤹‍♀️", "description": "woman juggling" },
+  "lotus pozisyonu": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "lotus pozisyonu adamı": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "lotus pozisyonu kadın": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "banyo": { "replacement": "🛀", "description": "person taking bath" },
+  "uyku yatağı": { "replacement": "🛌", "description": "person in bed" },
+  "el ele tutuşan insanlar": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "el ele tutuşan iki kadın": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "çift": { "replacement": "👫", "description": "woman and man holding hands" },
+  "el ele tutuşan iki adam": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "Couplekiss": { "replacement": "💏", "description": "kiss" },
+  "couplekiss erkek kadın": {
+    "replacement": "👩‍❤️‍💋‍👨",
+    "description": "kiss: woman, man"
+  },
+  "couplekiss adam adam": {
+    "replacement": "👨‍❤️‍💋‍👨",
+    "description": "kiss: man, man"
+  },
+  "couplekiss kadın kadın": {
+    "replacement": "👩‍❤️‍💋‍👩",
+    "description": "kiss: woman, woman"
+  },
+  "kalpli çift": { "replacement": "💑", "description": "couple with heart" },
+  "çift, ile, kalp, kadin, adam": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "çift, ile, kalp, adam, adam": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "çift, ile, kalp, kadin, kadin": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "aile": { "replacement": "👪", "description": "family" },
+  "aile adamı kadın erkek": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "aile adamı kadın kız": {
+    "replacement": "👨‍👩‍👧",
+    "description": "family: man, woman, girl"
+  },
+  "aile adamı kadın kız erkek": {
+    "replacement": "👨‍👩‍👧‍👦",
+    "description": "family: man, woman, girl, boy"
+  },
+  "aile adamı kadın erkek çocuk": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "aile adamı kadın kız kız": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "aile adamı, erkek çocuk": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "aile adamı, adam, kız": {
+    "replacement": "👨‍👨‍👧",
+    "description": "family: man, man, girl"
+  },
+  "aile adamı, adam, kiz, erkek çocuk": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "aile, adam, erkek çocuk, erkek çocuk": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "aile, adam, kiz, kiz": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "aile kadın kadın erkek": {
+    "replacement": "👩‍👩‍👦",
+    "description": "family: woman, woman, boy"
+  },
+  "aile kadın kadın kız": {
+    "replacement": "👩‍👩‍👧",
+    "description": "family: woman, woman, girl"
+  },
+  "aile kadın kadın kız erkek": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "aile kadın kadın erkek çocuk": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "aile kadın kadın kız kız": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "aile adamı": { "replacement": "👨‍👦", "description": "family: man, boy" },
+  "aile adamı erkek çocuk": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "aile adamı kız": { "replacement": "👨‍👧", "description": "family: man, girl" },
+  "aile adamı kız erkek": {
+    "replacement": "👨‍👧‍👦",
+    "description": "family: man, girl, boy"
+  },
+  "aile adamı kız kız": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "aile kadın erkek": {
+    "replacement": "👩‍👦",
+    "description": "family: woman, boy"
+  },
+  "aile kadın erkek çocuk": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "aile kadın kız": {
+    "replacement": "👩‍👧",
+    "description": "family: woman, girl"
+  },
+  "aile kadın kız erkek": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "aile kadın kız kız": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "konuşan kafa": { "replacement": "🗣️", "description": "speaking head" },
+  "siluet büst": { "replacement": "👤", "description": "bust in silhouette" },
+  "siluet büstler": {
+    "replacement": "👥",
+    "description": "busts in silhouette"
+  },
+  "insanlar sarılıyor": { "replacement": "🫂", "description": "people hugging" },
+  "ayak izi": { "replacement": "👣", "description": "footprints" },
+  "maymun surat": { "replacement": "🐵", "description": "monkey face" },
+  "maymun": { "replacement": "🐒", "description": "monkey" },
+  "goril": { "replacement": "🦍", "description": "gorilla" },
+  "orangutan": { "replacement": "🦧", "description": "orangutan" },
+  "köpek": { "replacement": "🐶", "description": "dog face" },
+  "dog2": { "replacement": "🐕", "description": "dog" },
+  "rehber köpek": { "replacement": "🦮", "description": "guide dog" },
+  "Servis köpeği": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "kaniş": { "replacement": "🐩", "description": "poodle" },
+  "Kurt": { "replacement": "🐺", "description": "wolf" },
+  "tilki yüzü": { "replacement": "🦊", "description": "fox" },
+  "rakun": { "replacement": "🦝", "description": "raccoon" },
+  "kedi": { "replacement": "🐱", "description": "cat face" },
+  "kedi2": { "replacement": "🐈", "description": "cat" },
+  "Kara kedi": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "aslan": { "replacement": "🦁", "description": "lion" },
+  "kaplan": { "replacement": "🐯", "description": "tiger face" },
+  "Tiger2": { "replacement": "🐅", "description": "tiger" },
+  "leopar": { "replacement": "🐆", "description": "leopard" },
+  "at": { "replacement": "🐴", "description": "horse face" },
+  "yarış atı": { "replacement": "🐎", "description": "horse" },
+  "tek boynuzlu at": { "replacement": "🦄", "description": "unicorn" },
+  "zebra": { "replacement": "🦓", "description": "zebra" },
+  "geyik": { "replacement": "🦌", "description": "deer" },
+  "bizon": { "replacement": "🦬", "description": "bison" },
+  "inek": { "replacement": "🐮", "description": "cow face" },
+  "öküz": { "replacement": "🐂", "description": "ox" },
+  "manda": { "replacement": "🐃", "description": "water buffalo" },
+  "inek2": { "replacement": "🐄", "description": "cow" },
+  "domuz": { "replacement": "🐗", "description": "boar" },
+  "domuz2": { "replacement": "🐖", "description": "pig" },
+  "Domuz burnu": { "replacement": "🐽", "description": "pig nose" },
+  "Veri deposu": { "replacement": "🐏", "description": "ram" },
+  "koyun": { "replacement": "🐑", "description": "ewe" },
+  "keçi": { "replacement": "🐐", "description": "goat" },
+  "tek hörgüçlü deve": { "replacement": "🐪", "description": "camel" },
+  "deve": { "replacement": "🐫", "description": "two-hump camel" },
+  "lama": { "replacement": "🦙", "description": "llama" },
+  "zürafa": { "replacement": "🦒", "description": "giraffe" },
+  "fil": { "replacement": "🐘", "description": "elephant" },
+  "mamut": { "replacement": "🦣", "description": "mammoth" },
+  "gergedan": { "replacement": "🦏", "description": "rhinoceros" },
+  "su aygırı": { "replacement": "🦛", "description": "hippopotamus" },
+  "fare": { "replacement": "🐭", "description": "mouse face" },
+  "fare2": { "replacement": "🐁", "description": "mouse" },
+  "sıçan": { "replacement": "🐀", "description": "rat" },
+  "hamster": { "replacement": "🐹", "description": "hamster" },
+  "tavşan": { "replacement": "🐰", "description": "rabbit face" },
+  "tavşan2": { "replacement": "🐇", "description": "rabbit" },
+  "sincap": { "replacement": "🐿️", "description": "chipmunk" },
+  "kunduz": { "replacement": "🦫", "description": "beaver" },
+  "kirpi": { "replacement": "🦔", "description": "hedgehog" },
+  "yarasa": { "replacement": "🦇", "description": "bat" },
+  "ayı": { "replacement": "🐻", "description": "bear" },
+  "kutup ayısı": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "koala": { "replacement": "🐨", "description": "koala" },
+  "panda yüzü": { "replacement": "🐼", "description": "panda" },
+  "tembellik": { "replacement": "🦥", "description": "sloth" },
+  "su samuru": { "replacement": "🦦", "description": "otter" },
+  "kokarca": { "replacement": "🦨", "description": "skunk" },
+  "kanguru": { "replacement": "🦘", "description": "kangaroo" },
+  "porsuk": { "replacement": "🦡", "description": "badger" },
+  "Türkiye": { "replacement": "🦃", "description": "turkey" },
+  "tavuk": { "replacement": "🐔", "description": "chicken" },
+  "horoz": { "replacement": "🐓", "description": "rooster" },
+  "yumurtadan çıkan civciv": {
+    "replacement": "🐣",
+    "description": "hatching chick"
+  },
+  "civciv": { "replacement": "🐤", "description": "baby chick" },
+  "yumurtadan çıkmış civciv": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "kuş": { "replacement": "🐦", "description": "bird" },
+  "penguen": { "replacement": "🐧", "description": "penguin" },
+  "güvercin": { "replacement": "🕊️", "description": "dove" },
+  "kartal": { "replacement": "🦅", "description": "eagle" },
+  "ördek": { "replacement": "🦆", "description": "duck" },
+  "kuğu": { "replacement": "🦢", "description": "swan" },
+  "baykuş": { "replacement": "🦉", "description": "owl" },
+  "dodo": { "replacement": "🦤", "description": "dodo" },
+  "kuş tüyü": { "replacement": "🪶", "description": "feather" },
+  "flamingo": { "replacement": "🦩", "description": "flamingo" },
+  "tavuskuşu": { "replacement": "🦚", "description": "peacock" },
+  "papağan": { "replacement": "🦜", "description": "parrot" },
+  "kurbağa": { "replacement": "🐸", "description": "frog" },
+  "timsah": { "replacement": "🐊", "description": "crocodile" },
+  "kaplumbağa": { "replacement": "🐢", "description": "turtle" },
+  "kertenkele": { "replacement": "🦎", "description": "lizard" },
+  "yılan": { "replacement": "🐍", "description": "snake" },
+  "ejderha yüzü": { "replacement": "🐲", "description": "dragon face" },
+  "Ejderha": { "replacement": "🐉", "description": "dragon" },
+  "Sauropod": { "replacement": "🦕", "description": "sauropod" },
+  "t-rex": { "replacement": "🦖", "description": "T-Rex" },
+  "balina": { "replacement": "🐳", "description": "spouting whale" },
+  "balina2": { "replacement": "🐋", "description": "whale" },
+  "Yunus": { "replacement": "🐬", "description": "dolphin" },
+  "mühür": { "replacement": "🦭", "description": "seal" },
+  "balık": { "replacement": "🐟", "description": "fish" },
+  "tropikal balık": { "replacement": "🐠", "description": "tropical fish" },
+  "balon balığı": { "replacement": "🐡", "description": "blowfish" },
+  "Köpekbalığı": { "replacement": "🦈", "description": "shark" },
+  "ahtapot": { "replacement": "🐙", "description": "octopus" },
+  "kabuk": { "replacement": "🐚", "description": "spiral shell" },
+  "salyangoz": { "replacement": "🐌", "description": "snail" },
+  "kelebek": { "replacement": "🦋", "description": "butterfly" },
+  "böcek": { "replacement": "🪲", "description": "beetle" },
+  "karınca": { "replacement": "🐜", "description": "ant" },
+  "bal arısı": { "replacement": "🐝", "description": "honeybee" },
+  "uğur böceği": { "replacement": "🐞", "description": "lady beetle" },
+  "kriket": { "replacement": "🦗", "description": "cricket" },
+  "hamamböceği": { "replacement": "🪳", "description": "cockroach" },
+  "örümcek": { "replacement": "🕷️", "description": "spider" },
+  "örümcek ağı": { "replacement": "🕸️", "description": "spider web" },
+  "akrep": { "replacement": "♏", "description": "Scorpio" },
+  "sivrisinek": { "replacement": "🦟", "description": "mosquito" },
+  "uçmak": { "replacement": "🪰", "description": "fly" },
+  "solucan": { "replacement": "🪱", "description": "worm" },
+  "mikrop": { "replacement": "🦠", "description": "microbe" },
+  "buket": { "replacement": "💐", "description": "bouquet" },
+  "Kiraz çiçeği": { "replacement": "🌸", "description": "cherry blossom" },
+  "Beyaz çiçek": { "replacement": "💮", "description": "white flower" },
+  "rozet": { "replacement": "🏵️", "description": "rosette" },
+  "gül": { "replacement": "🌹", "description": "rose" },
+  "solmuş çiçek": { "replacement": "🥀", "description": "wilted flower" },
+  "ebegümeci": { "replacement": "🌺", "description": "hibiscus" },
+  "ayçiçeği": { "replacement": "🌻", "description": "sunflower" },
+  "çiçek": { "replacement": "🌼", "description": "blossom" },
+  "lale": { "replacement": "🌷", "description": "tulip" },
+  "fide": { "replacement": "🌱", "description": "seedling" },
+  "saksı bitkisi": { "replacement": "🪴", "description": "potted plant" },
+  "yaprak dökmeyen ağaç": {
+    "replacement": "🌲",
+    "description": "evergreen tree"
+  },
+  "Yaprak döken ağaç": { "replacement": "🌳", "description": "deciduous tree" },
+  "Palmiye": { "replacement": "🌴", "description": "palm tree" },
+  "kaktüs": { "replacement": "🌵", "description": "cactus" },
+  "pirinç başağı": { "replacement": "🌾", "description": "sheaf of rice" },
+  "ot": { "replacement": "🌿", "description": "herb" },
+  "yonca": { "replacement": "☘️", "description": "shamrock" },
+  "dört yapraklı yonca": {
+    "replacement": "🍀",
+    "description": "four leaf clover"
+  },
+  "akçaağaç yaprağı": { "replacement": "🍁", "description": "maple leaf" },
+  "düşen yaprak": { "replacement": "🍂", "description": "fallen leaf" },
+  "yapraklar": {
+    "replacement": "🍃",
+    "description": "leaf fluttering in wind"
+  },
+  "üzüm": { "replacement": "🍇", "description": "grapes" },
+  "kavun": { "replacement": "🍈", "description": "melon" },
+  "karpuz": { "replacement": "🍉", "description": "watermelon" },
+  "mandalina": { "replacement": "🍊", "description": "tangerine" },
+  "Limon": { "replacement": "🍋", "description": "lemon" },
+  "muz": { "replacement": "🍌", "description": "banana" },
+  "Ananas": { "replacement": "🍍", "description": "pineapple" },
+  "Mango": { "replacement": "🥭", "description": "mango" },
+  "elma": { "replacement": "🍎", "description": "red apple" },
+  "yeşil Elma": { "replacement": "🍏", "description": "green apple" },
+  "armut": { "replacement": "🍐", "description": "pear" },
+  "şeftali": { "replacement": "🍑", "description": "peach" },
+  "kirazlar": { "replacement": "🍒", "description": "cherries" },
+  "çilek": { "replacement": "🍓", "description": "strawberry" },
+  "yaban mersini": { "replacement": "🫐", "description": "blueberries" },
+  "kivi meyvesi": { "replacement": "🥝", "description": "kiwi fruit" },
+  "domates": { "replacement": "🍅", "description": "tomato" },
+  "zeytin": { "replacement": "🫒", "description": "olive" },
+  "Hindistan cevizi": { "replacement": "🥥", "description": "coconut" },
+  "Avokado": { "replacement": "🥑", "description": "avocado" },
+  "patlıcan": { "replacement": "🍆", "description": "eggplant" },
+  "Patates": { "replacement": "🥔", "description": "potato" },
+  "havuç": { "replacement": "🥕", "description": "carrot" },
+  "Mısır": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "acı biber": { "replacement": "🌶️", "description": "hot pepper" },
+  "dolmalık biber": { "replacement": "🫑", "description": "bell pepper" },
+  "salatalık": { "replacement": "🥒", "description": "cucumber" },
+  "Yaprak yeşili": { "replacement": "🥬", "description": "leafy green" },
+  "Brokoli": { "replacement": "🥦", "description": "broccoli" },
+  "Sarımsak": { "replacement": "🧄", "description": "garlic" },
+  "soğan": { "replacement": "🧅", "description": "onion" },
+  "mantar": { "replacement": "🍄", "description": "mushroom" },
+  "yer fıstığı": { "replacement": "🥜", "description": "peanuts" },
+  "kestane": { "replacement": "🌰", "description": "chestnut" },
+  "ekmek": { "replacement": "🍞", "description": "bread" },
+  "kruvasan": { "replacement": "🥐", "description": "croissant" },
+  "baget ekmeği": { "replacement": "🥖", "description": "baguette bread" },
+  "gözleme": { "replacement": "🧇", "description": "waffle" },
+  "Çubuk kraker": { "replacement": "🥨", "description": "pretzel" },
+  "simit": { "replacement": "🥯", "description": "bagel" },
+  "krep": { "replacement": "🥞", "description": "pancakes" },
+  "peynir": { "replacement": "🧀", "description": "cheese wedge" },
+  "kemikli et": { "replacement": "🍖", "description": "meat on bone" },
+  "kanatlı bacak": { "replacement": "🍗", "description": "poultry leg" },
+  "et kesim": { "replacement": "🥩", "description": "cut of meat" },
+  "domuz pastırması": { "replacement": "🥓", "description": "bacon" },
+  "Hamburger": { "replacement": "🍔", "description": "hamburger" },
+  "kızartma": { "replacement": "🍟", "description": "french fries" },
+  "Pizza": { "replacement": "🍕", "description": "pizza" },
+  "sosisli": { "replacement": "🌭", "description": "hot dog" },
+  "sandviç": { "replacement": "🥪", "description": "sandwich" },
+  "taco": { "replacement": "🌮", "description": "taco" },
+  "burrito": { "replacement": "🌯", "description": "burrito" },
+  "Tamale": { "replacement": "🫔", "description": "tamale" },
+  "doldurulmuş gözleme": {
+    "replacement": "🥙",
+    "description": "stuffed flatbread"
+  },
+  "falafel": { "replacement": "🧆", "description": "falafel" },
+  "Yumurta": { "replacement": "🥚", "description": "egg" },
+  "kızarmış yumurta": { "replacement": "🍳", "description": "cooking" },
+  "sığ yiyecek tepsisi": {
+    "replacement": "🥘",
+    "description": "shallow pan of food"
+  },
+  "Güveç": { "replacement": "🍲", "description": "pot of food" },
+  "fondü": { "replacement": "🫕", "description": "fondue" },
+  "kaşıkla kase": { "replacement": "🥣", "description": "bowl with spoon" },
+  "yeşil salata": { "replacement": "🥗", "description": "green salad" },
+  "Patlamış mısır": { "replacement": "🍿", "description": "popcorn" },
+  "Tereyağı": { "replacement": "🧈", "description": "butter" },
+  "tuz": { "replacement": "🧂", "description": "salt" },
+  "konserve": { "replacement": "🥫", "description": "canned food" },
+  "Bento": { "replacement": "🍱", "description": "bento box" },
+  "pirinç kraker": { "replacement": "🍘", "description": "rice cracker" },
+  "pirinç topu": { "replacement": "🍙", "description": "rice ball" },
+  "pirinç": { "replacement": "🍚", "description": "cooked rice" },
+  "köri": { "replacement": "🍛", "description": "curry rice" },
+  "ramen": { "replacement": "🍜", "description": "steaming bowl" },
+  "Spagetti": { "replacement": "🍝", "description": "spaghetti" },
+  "tatlı patates": {
+    "replacement": "🍠",
+    "description": "roasted sweet potato"
+  },
+  "Oden": { "replacement": "🍢", "description": "oden" },
+  "Suşi": { "replacement": "🍣", "description": "sushi" },
+  "kızarmış karides": { "replacement": "🍤", "description": "fried shrimp" },
+  "balık pastası": {
+    "replacement": "🍥",
+    "description": "fish cake with swirl"
+  },
+  "ay çöreği": { "replacement": "🥮", "description": "moon cake" },
+  "dango": { "replacement": "🍡", "description": "dango" },
+  "hamur tatlısı": { "replacement": "🥟", "description": "dumpling" },
+  "Şans kurabiyesi": { "replacement": "🥠", "description": "fortune cookie" },
+  "paket servis kutusu": { "replacement": "🥡", "description": "takeout box" },
+  "Yengeç": { "replacement": "🦀", "description": "crab" },
+  "Istakoz": { "replacement": "🦞", "description": "lobster" },
+  "karides": { "replacement": "🦐", "description": "shrimp" },
+  "kalamar": { "replacement": "🦑", "description": "squid" },
+  "istiridye": { "replacement": "🦪", "description": "oyster" },
+  "dondurma": { "replacement": "🍨", "description": "ice cream" },
+  "traşlanmış buz": { "replacement": "🍧", "description": "shaved ice" },
+  "tatlı çörek": { "replacement": "🍩", "description": "doughnut" },
+  "kurabiye": { "replacement": "🍪", "description": "cookie" },
+  "doğum günü": { "replacement": "🎂", "description": "birthday cake" },
+  "kek": { "replacement": "🧁", "description": "cupcake" },
+  "turta": { "replacement": "🥧", "description": "pie" },
+  "çikolata": { "replacement": "🍫", "description": "chocolate bar" },
+  "Şeker": { "replacement": "🍬", "description": "candy" },
+  "lolipop": { "replacement": "🍭", "description": "lollipop" },
+  "muhallebi": { "replacement": "🍮", "description": "custard" },
+  "bal küpü": { "replacement": "🍯", "description": "honey pot" },
+  "biberon": { "replacement": "🍼", "description": "baby bottle" },
+  "süt bardağı": { "replacement": "🥛", "description": "glass of milk" },
+  "Kahve": { "replacement": "☕", "description": "hot beverage" },
+  "çaydanlık": { "replacement": "🫖", "description": "teapot" },
+  "Çay": { "replacement": "🍵", "description": "teacup without handle" },
+  "hatır": { "replacement": "🍶", "description": "sake" },
+  "Şampanya": {
+    "replacement": "🍾",
+    "description": "bottle with popping cork"
+  },
+  "şarap bardağı": { "replacement": "🍷", "description": "wine glass" },
+  "kokteyl": { "replacement": "🍸", "description": "cocktail glass" },
+  "tropikal içecek": { "replacement": "🍹", "description": "tropical drink" },
+  "bira": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "tungur bardaklar": {
+    "replacement": "🥂",
+    "description": "clinking glasses"
+  },
+  "bardak bardak": { "replacement": "🥃", "description": "tumbler glass" },
+  "samanlı fincan": { "replacement": "🥤", "description": "cup with straw" },
+  "kabarcık çay": { "replacement": "🧋", "description": "bubble tea" },
+  "içecek kutusu": { "replacement": "🧃", "description": "beverage box" },
+  "Dostum": { "replacement": "🧉", "description": "mate" },
+  "buz küpü": { "replacement": "🧊", "description": "ice" },
+  "yemek çubukları": { "replacement": "🥢", "description": "chopsticks" },
+  "çatal bıçaklı tabak": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "çatal ve bıçak": { "replacement": "🍴", "description": "fork and knife" },
+  "kaşık": { "replacement": "🥄", "description": "spoon" },
+  "hocho": { "replacement": "🔪", "description": "kitchen knife" },
+  "amfora": { "replacement": "🏺", "description": "amphora" },
+  "dünya afrika": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "dünya amerika": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "dünya asya": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "meridyenli dünya": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "Dünya haritası": { "replacement": "🗺️", "description": "world map" },
+  "Japonya": { "replacement": "🗾", "description": "map of Japan" },
+  "pusula": { "replacement": "🧭", "description": "compass" },
+  "dağ karı": { "replacement": "🏔️", "description": "snow-capped mountain" },
+  "dağ": { "replacement": "⛰️", "description": "mountain" },
+  "yanardağ": { "replacement": "🌋", "description": "volcano" },
+  "Fuji Dağı": { "replacement": "🗻", "description": "mount fuji" },
+  "kamp yapmak": { "replacement": "🏕️", "description": "camping" },
+  "Plaj şemsiyesi": {
+    "replacement": "🏖️",
+    "description": "beach with umbrella"
+  },
+  "çöl": { "replacement": "🏜️", "description": "desert" },
+  "çöl ada": { "replacement": "🏝️", "description": "desert island" },
+  "Ulusal park": { "replacement": "🏞️", "description": "national park" },
+  "stadyum": { "replacement": "🏟️", "description": "stadium" },
+  "klasik bina": { "replacement": "🏛️", "description": "classical building" },
+  "bina inşaatı": {
+    "replacement": "🏗️",
+    "description": "building construction"
+  },
+  "tuğla": { "replacement": "🧱", "description": "brick" },
+  "Kaya": { "replacement": "🪨", "description": "rock" },
+  "Odun": { "replacement": "🪵", "description": "wood" },
+  "kulübe": { "replacement": "🛖", "description": "hut" },
+  "evler": { "replacement": "🏘️", "description": "houses" },
+  "terk edilmiş ev": { "replacement": "🏚️", "description": "derelict house" },
+  "ev": { "replacement": "🏠", "description": "house" },
+  "bahçeli ev": { "replacement": "🏡", "description": "house with garden" },
+  "ofis": { "replacement": "🏢", "description": "office building" },
+  "Postane": { "replacement": "🏣", "description": "Japanese post office" },
+  "avrupa postanesi": { "replacement": "🏤", "description": "post office" },
+  "hastane": { "replacement": "🏥", "description": "hospital" },
+  "banka": { "replacement": "🏦", "description": "bank" },
+  "otel": { "replacement": "🏨", "description": "hotel" },
+  "Aşk oteli": { "replacement": "🏩", "description": "love hotel" },
+  "market": { "replacement": "🏪", "description": "convenience store" },
+  "okul": { "replacement": "🏫", "description": "school" },
+  "büyük mağaza": { "replacement": "🏬", "description": "department store" },
+  "fabrika": { "replacement": "🏭", "description": "factory" },
+  "Japon kalesi": { "replacement": "🏯", "description": "Japanese castle" },
+  "Avrupa kalesi": { "replacement": "🏰", "description": "castle" },
+  "düğün": { "replacement": "💒", "description": "wedding" },
+  "Tokyo Kulesi": { "replacement": "🗼", "description": "Tokyo tower" },
+  "özgürlük Anıtı": { "replacement": "🗽", "description": "Statue of Liberty" },
+  "kilise": { "replacement": "⛪", "description": "church" },
+  "cami": { "replacement": "🕌", "description": "mosque" },
+  "Hindu tapınağı": { "replacement": "🛕", "description": "hindu temple" },
+  "sinagog": { "replacement": "🕍", "description": "synagogue" },
+  "Shinto tapınağı": { "replacement": "⛩️", "description": "shinto shrine" },
+  "Kabe": { "replacement": "🕋", "description": "kaaba" },
+  "Çeşme": { "replacement": "⛲", "description": "fountain" },
+  "çadır": { "replacement": "⛺", "description": "tent" },
+  "sisli": { "replacement": "🌁", "description": "foggy" },
+  "yıldızlarla gece": {
+    "replacement": "🌃",
+    "description": "night with stars"
+  },
+  "şehir manzarası": { "replacement": "🏙️", "description": "cityscape" },
+  "dağların üzerinden gün doğumu": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "gündoğumu": { "replacement": "🌅", "description": "sunrise" },
+  "şehir gün batımı": {
+    "replacement": "🌆",
+    "description": "cityscape at dusk"
+  },
+  "şehir gün doğumu": { "replacement": "🌇", "description": "sunset" },
+  "gece köprü": { "replacement": "🌉", "description": "bridge at night" },
+  "Kaplıcalar": { "replacement": "♨️", "description": "hot springs" },
+  "atlıkarınca atı": { "replacement": "🎠", "description": "carousel horse" },
+  "dönme dolap": { "replacement": "🎡", "description": "ferris wheel" },
+  "lunapark hız treni": {
+    "replacement": "🎢",
+    "description": "roller coaster"
+  },
+  "berber": { "replacement": "💈", "description": "barber pole" },
+  "sirk çadırı": { "replacement": "🎪", "description": "circus tent" },
+  "buharlı lokomotif": { "replacement": "🚂", "description": "locomotive" },
+  "demiryolu vagonu": { "replacement": "🚃", "description": "railway car" },
+  "bullettrain tarafı": {
+    "replacement": "🚄",
+    "description": "high-speed train"
+  },
+  "bullettrain cephesi": { "replacement": "🚅", "description": "bullet train" },
+  "tren2": { "replacement": "🚆", "description": "train" },
+  "metro": { "replacement": "🚇", "description": "metro" },
+  "hafif raylı": { "replacement": "🚈", "description": "light rail" },
+  "istasyon": { "replacement": "🚉", "description": "station" },
+  "tramvay": { "replacement": "🚊", "description": "tram" },
+  "tek raylı": { "replacement": "🚝", "description": "monorail" },
+  "dağ treni": { "replacement": "🚞", "description": "mountain railway" },
+  "tren": { "replacement": "🚋", "description": "tram car" },
+  "otobüs": { "replacement": "🚌", "description": "bus" },
+  "gelen otobüs": { "replacement": "🚍", "description": "oncoming bus" },
+  "troleybüs": { "replacement": "🚎", "description": "trolleybus" },
+  "minibüs": { "replacement": "🚐", "description": "minibus" },
+  "ambulans": { "replacement": "🚑", "description": "ambulance" },
+  "itfaiye arabası": { "replacement": "🚒", "description": "fire engine" },
+  "polis arabası": { "replacement": "🚓", "description": "police car" },
+  "yaklaşan polis arabası": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "taksi": { "replacement": "🚕", "description": "taxi" },
+  "yaklaşan taksi": { "replacement": "🚖", "description": "oncoming taxi" },
+  "araba": { "replacement": "🚗", "description": "automobile" },
+  "yaklaşan otomobil": {
+    "replacement": "🚘",
+    "description": "oncoming automobile"
+  },
+  "Mavi araba": { "replacement": "🚙", "description": "sport utility vehicle" },
+  "kamyonet": { "replacement": "🛻", "description": "pickup truck" },
+  "kamyon": { "replacement": "🚚", "description": "delivery truck" },
+  "belden kırma kamyon": {
+    "replacement": "🚛",
+    "description": "articulated lorry"
+  },
+  "traktör": { "replacement": "🚜", "description": "tractor" },
+  "yarış arabası": { "replacement": "🏎️", "description": "racing car" },
+  "motosiklet": { "replacement": "🏍️", "description": "motorcycle" },
+  "motorlu scooter": { "replacement": "🛵", "description": "motor scooter" },
+  "manuel tekerlekli sandalye": {
+    "replacement": "🦽",
+    "description": "manual wheelchair"
+  },
+  "motorlu tekerlekli sandalye": {
+    "replacement": "🦼",
+    "description": "motorized wheelchair"
+  },
+  "otomatik çekçek": { "replacement": "🛺", "description": "auto rickshaw" },
+  "bisiklet": { "replacement": "🚲", "description": "bicycle" },
+  "tekme scooter": { "replacement": "🛴", "description": "kick scooter" },
+  "kaykay": { "replacement": "🛹", "description": "skateboard" },
+  "paten": { "replacement": "🛼", "description": "roller skate" },
+  "otobüs durağı": { "replacement": "🚏", "description": "bus stop" },
+  "otoyol": { "replacement": "🛣️", "description": "motorway" },
+  "demiryolu hattı": { "replacement": "🛤️", "description": "railway track" },
+  "yağ varili": { "replacement": "🛢️", "description": "oil drum" },
+  "benzin pompası": { "replacement": "⛽", "description": "fuel pump" },
+  "dönen ışık": { "replacement": "🚨", "description": "police car light" },
+  "trafik ışığı": {
+    "replacement": "🚥",
+    "description": "horizontal traffic light"
+  },
+  "dikey trafik ışığı": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "dur işareti": { "replacement": "🛑", "description": "stop sign" },
+  "inşaat": { "replacement": "🚧", "description": "construction" },
+  "Çapa": { "replacement": "⚓", "description": "anchor" },
+  "tekne": { "replacement": "⛵", "description": "sailboat" },
+  "kano": { "replacement": "🛶", "description": "canoe" },
+  "sürat teknesi": { "replacement": "🚤", "description": "speedboat" },
+  "Yolcu gemisi": { "replacement": "🛳️", "description": "passenger ship" },
+  "feribot": { "replacement": "⛴️", "description": "ferry" },
+  "motorlu tekne": { "replacement": "🛥️", "description": "motor boat" },
+  "gemi": { "replacement": "🚢", "description": "ship" },
+  "uçak": { "replacement": "✈️", "description": "airplane" },
+  "küçük uçak": { "replacement": "🛩️", "description": "small airplane" },
+  "uçuş kalkış": { "replacement": "🛫", "description": "airplane departure" },
+  "uçuş varış": { "replacement": "🛬", "description": "airplane arrival" },
+  "paraşüt": { "replacement": "🪂", "description": "parachute" },
+  "oturma yeri": { "replacement": "💺", "description": "seat" },
+  "helikopter": { "replacement": "🚁", "description": "helicopter" },
+  "asma demiryolu": {
+    "replacement": "🚟",
+    "description": "suspension railway"
+  },
+  "dağ teleferiği": { "replacement": "🚠", "description": "mountain cableway" },
+  "hava tramvayı": { "replacement": "🚡", "description": "aerial tramway" },
+  "yapay uydu": { "replacement": "🛰️", "description": "satellite" },
+  "roket": { "replacement": "🚀", "description": "rocket" },
+  "uçan daire": { "replacement": "🛸", "description": "flying saucer" },
+  "belboy zili": { "replacement": "🛎️", "description": "bellhop bell" },
+  "valiz": { "replacement": "🧳", "description": "luggage" },
+  "kum saati": { "replacement": "⌛", "description": "hourglass done" },
+  "kum saati akan kum": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "izlemek": { "replacement": "⌚", "description": "watch" },
+  "alarm saati": { "replacement": "⏰", "description": "alarm clock" },
+  "kronometre": { "replacement": "⏱️", "description": "stopwatch" },
+  "zamanlayıcı saat": { "replacement": "⏲️", "description": "timer clock" },
+  "şömine saati": { "replacement": "🕰️", "description": "mantelpiece clock" },
+  "saat12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "saat1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "saat1": { "replacement": "🕐", "description": "one o’clock" },
+  "saat130": { "replacement": "🕜", "description": "one-thirty" },
+  "saat2": { "replacement": "🕑", "description": "two o’clock" },
+  "clock230": { "replacement": "🕝", "description": "two-thirty" },
+  "clock3": { "replacement": "🕒", "description": "three o’clock" },
+  "clock330": { "replacement": "🕞", "description": "three-thirty" },
+  "saat4": { "replacement": "🕓", "description": "four o’clock" },
+  "clock430": { "replacement": "🕟", "description": "four-thirty" },
+  "clock5": { "replacement": "🕔", "description": "five o’clock" },
+  "clock530": { "replacement": "🕠", "description": "five-thirty" },
+  "saat6": { "replacement": "🕕", "description": "six o’clock" },
+  "saat630": { "replacement": "🕡", "description": "six-thirty" },
+  "saat7": { "replacement": "🕖", "description": "seven o’clock" },
+  "saat730": { "replacement": "🕢", "description": "seven-thirty" },
+  "clock8": { "replacement": "🕗", "description": "eight o’clock" },
+  "clock830": { "replacement": "🕣", "description": "eight-thirty" },
+  "saat9": { "replacement": "🕘", "description": "nine o’clock" },
+  "saat930": { "replacement": "🕤", "description": "nine-thirty" },
+  "saat10": { "replacement": "🕙", "description": "ten o’clock" },
+  "saat1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "saat11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "saat1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "yeni Ay": { "replacement": "🌑", "description": "new moon" },
+  "ağda hilal": { "replacement": "🌒", "description": "waxing crescent moon" },
+  "ilk dördün": { "replacement": "🌓", "description": "first quarter moon" },
+  "ay": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "Dolunay": { "replacement": "🌕", "description": "full moon" },
+  "küçülen ay": { "replacement": "🌖", "description": "waning gibbous moon" },
+  "son dördün ay": { "replacement": "🌗", "description": "last quarter moon" },
+  "azalan hilal": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "Hilal": { "replacement": "🌙", "description": "crescent moon" },
+  "yüzle yeni ay": { "replacement": "🌚", "description": "new moon face" },
+  "yüz ile ilk dördün ay": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "yüzle son dördün ay": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "termometre": { "replacement": "🌡️", "description": "thermometer" },
+  "güneşli": { "replacement": "☀️", "description": "sun" },
+  "yüzle dolunay": { "replacement": "🌝", "description": "full moon face" },
+  "yüzle güneş": { "replacement": "🌞", "description": "sun with face" },
+  "halkalı gezegen": { "replacement": "🪐", "description": "ringed planet" },
+  "star": { "replacement": "⭐", "description": "star" },
+  "yıldız2": { "replacement": "🌟", "description": "glowing star" },
+  "yıldızlar": { "replacement": "🌠", "description": "shooting star" },
+  "Samanyolu": { "replacement": "🌌", "description": "milky way" },
+  "bulut": { "replacement": "☁️", "description": "cloud" },
+  "kısmen güneşli": { "replacement": "⛅", "description": "sun behind cloud" },
+  "şimşek ve yağmur bulutu": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "küçük bulutun arkasındaki güneş": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "büyük bulutun arkasındaki güneş": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "yağmur bulutunun arkasındaki güneş": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "yağmur bulutu": { "replacement": "🌧️", "description": "cloud with rain" },
+  "karla bulut": { "replacement": "🌨️", "description": "cloud with snow" },
+  "yıldırımla bulut": {
+    "replacement": "🌩️",
+    "description": "cloud with lightning"
+  },
+  "kasırga": { "replacement": "🌪️", "description": "tornado" },
+  "sis": { "replacement": "🌫️", "description": "fog" },
+  "rüzgar yüzü": { "replacement": "🌬️", "description": "wind face" },
+  "siklon": { "replacement": "🌀", "description": "cyclone" },
+  "gökkuşağı": { "replacement": "🌈", "description": "rainbow" },
+  "kapalı şemsiye": { "replacement": "🌂", "description": "closed umbrella" },
+  "açık şemsiye": { "replacement": "☂️", "description": "umbrella" },
+  "şemsiye": { "replacement": "☔", "description": "umbrella with rain drops" },
+  "yerde şemsiye": { "replacement": "⛱️", "description": "umbrella on ground" },
+  "zap": { "replacement": "⚡", "description": "high voltage" },
+  "kar tanesi": { "replacement": "❄️", "description": "snowflake" },
+  "kar ile kardan adam": { "replacement": "☃️", "description": "snowman" },
+  "kardan adam": { "replacement": "⛄", "description": "snowman without snow" },
+  "kuyruklu yıldız": { "replacement": "☄️", "description": "comet" },
+  "ateş": { "replacement": "🔥", "description": "fire" },
+  "damlacık": { "replacement": "💧", "description": "droplet" },
+  "okyanus": { "replacement": "🌊", "description": "water wave" },
+  "jack o fener": { "replacement": "🎃", "description": "jack-o-lantern" },
+  "Noel ağacı": { "replacement": "🎄", "description": "Christmas tree" },
+  "havai fişek": { "replacement": "🎆", "description": "fireworks" },
+  "maytap": { "replacement": "🎇", "description": "sparkler" },
+  "kestane fişeği": { "replacement": "🧨", "description": "firecracker" },
+  "parıldıyor": { "replacement": "✨", "description": "sparkles" },
+  "balon": { "replacement": "🎈", "description": "balloon" },
+  "tada": { "replacement": "🎉", "description": "party popper" },
+  "konfeti topu": { "replacement": "🎊", "description": "confetti ball" },
+  "tanabata ağacı": { "replacement": "🎋", "description": "tanabata tree" },
+  "bambu": { "replacement": "🎍", "description": "pine decoration" },
+  "oyuncak bebekler": { "replacement": "🎎", "description": "Japanese dolls" },
+  "bayraklar": { "replacement": "🎏", "description": "carp streamer" },
+  "rüzgar çanı": { "replacement": "🎐", "description": "wind chime" },
+  "pirinç sahnesi": {
+    "replacement": "🎑",
+    "description": "moon viewing ceremony"
+  },
+  "kırmızı zarf": { "replacement": "🧧", "description": "red envelope" },
+  "kurdele": { "replacement": "🎀", "description": "ribbon" },
+  "hediye": { "replacement": "🎁", "description": "wrapped gift" },
+  "hatırlatma şeridi": {
+    "replacement": "🎗️",
+    "description": "reminder ribbon"
+  },
+  "biletler": { "replacement": "🎟️", "description": "admission tickets" },
+  "bilet": { "replacement": "🎫", "description": "ticket" },
+  "madalya askeri": { "replacement": "🎖️", "description": "military medal" },
+  "ganimet": { "replacement": "🏆", "description": "trophy" },
+  "madalya sporları": { "replacement": "🏅", "description": "sports medal" },
+  "1.lik madalyası": { "replacement": "🥇", "description": "1st place medal" },
+  "2.lik madalyası": { "replacement": "🥈", "description": "2nd place medal" },
+  "3.lük madalyası": { "replacement": "🥉", "description": "3rd place medal" },
+  "Futbol": { "replacement": "🏈", "description": "american football" },
+  "beyzbol": { "replacement": "⚾", "description": "baseball" },
+  "softball": { "replacement": "🥎", "description": "softball" },
+  "Basketbol": { "replacement": "🏀", "description": "basketball" },
+  "voleybol": { "replacement": "🏐", "description": "volleyball" },
+  "Ragbi futbolu": { "replacement": "🏉", "description": "rugby football" },
+  "tenis": { "replacement": "🎾", "description": "tennis" },
+  "uçan Disk": { "replacement": "🥏", "description": "flying disc" },
+  "bowling": { "replacement": "🎳", "description": "bowling" },
+  "kriket oyunu": { "replacement": "🏏", "description": "cricket game" },
+  "çim Hokeyi": { "replacement": "🏑", "description": "field hockey" },
+  "buz Hokeyi": { "replacement": "🏒", "description": "ice hockey" },
+  "Lakros": { "replacement": "🥍", "description": "lacrosse" },
+  "masa Tenisi": { "replacement": "🏓", "description": "ping pong" },
+  "badminton": { "replacement": "🏸", "description": "badminton" },
+  "Boks eldiveni": { "replacement": "🥊", "description": "boxing glove" },
+  "dövüş sanatları üniforma": {
+    "replacement": "🥋",
+    "description": "martial arts uniform"
+  },
+  "gol ağı": { "replacement": "🥅", "description": "goal net" },
+  "golf": { "replacement": "⛳", "description": "flag in hole" },
+  "buz pateni": { "replacement": "⛸️", "description": "ice skate" },
+  "olta ve balık": { "replacement": "🎣", "description": "fishing pole" },
+  "dalma maskesi": { "replacement": "🤿", "description": "diving mask" },
+  "kanatlı koşu tişörtü": {
+    "replacement": "🎽",
+    "description": "running shirt"
+  },
+  "kayak": { "replacement": "🎿", "description": "skis" },
+  "kızak": { "replacement": "🛷", "description": "sled" },
+  "curling taşı": { "replacement": "🥌", "description": "curling stone" },
+  "Dart oyunu": { "replacement": "🎯", "description": "direct hit" },
+  "hey sen": { "replacement": "🪀", "description": "yo-yo" },
+  "uçurtma": { "replacement": "🪁", "description": "kite" },
+  "8 top": { "replacement": "🎱", "description": "pool 8 ball" },
+  "Kristal top": { "replacement": "🔮", "description": "crystal ball" },
+  "sihirli değnek": { "replacement": "🪄", "description": "magic wand" },
+  "nazar muska": { "replacement": "🧿", "description": "nazar amulet" },
+  "video oyunu": { "replacement": "🎮", "description": "video game" },
+  "oyun kolu": { "replacement": "🕹️", "description": "joystick" },
+  "kumar makinesi": { "replacement": "🎰", "description": "slot machine" },
+  "oyun ölür": { "replacement": "🎲", "description": "game die" },
+  "yapboz": { "replacement": "🧩", "description": "puzzle piece" },
+  "oyuncak ayı": { "replacement": "🧸", "description": "teddy bear" },
+  "pinata": { "replacement": "🪅", "description": "piñata" },
+  "iç içe geçmiş bebek": { "replacement": "🪆", "description": "nesting dolls" },
+  "maça": { "replacement": "♠️", "description": "spade suit" },
+  "kalpler": { "replacement": "♥️", "description": "heart suit" },
+  "elmaslar": { "replacement": "♦️", "description": "diamond suit" },
+  "kulüpler": { "replacement": "♣️", "description": "club suit" },
+  "satranç piyonu": { "replacement": "♟️", "description": "chess pawn" },
+  "siyah şakacı": { "replacement": "🃏", "description": "joker" },
+  "mahjong": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "çiçek oyun kartları": {
+    "replacement": "🎴",
+    "description": "flower playing cards"
+  },
+  "Performans sanatları": {
+    "replacement": "🎭",
+    "description": "performing arts"
+  },
+  "Çerçeveli resim": { "replacement": "🖼️", "description": "framed picture" },
+  "Sanat": { "replacement": "🎨", "description": "artist palette" },
+  "Konu": { "replacement": "🧵", "description": "thread" },
+  "dikiş iğnesi": { "replacement": "🪡", "description": "sewing needle" },
+  "iplik": { "replacement": "🧶", "description": "yarn" },
+  "düğüm": { "replacement": "🪢", "description": "knot" },
+  "gözlük": { "replacement": "🥽", "description": "goggles" },
+  "koyu güneş gözlüğü": { "replacement": "🕶️", "description": "sunglasses" },
+  "laboratuvar önlüğü": { "replacement": "🥼", "description": "lab coat" },
+  "Can yeleği": { "replacement": "🦺", "description": "safety vest" },
+  "kravat": { "replacement": "👔", "description": "necktie" },
+  "gömlek": { "replacement": "👕", "description": "t-shirt" },
+  "kot": { "replacement": "👖", "description": "jeans" },
+  "eşarp": { "replacement": "🧣", "description": "scarf" },
+  "eldivenler": { "replacement": "🧤", "description": "gloves" },
+  "ceket": { "replacement": "🧥", "description": "coat" },
+  "çorap": { "replacement": "🧦", "description": "socks" },
+  "elbise": { "replacement": "👗", "description": "dress" },
+  "kimono": { "replacement": "👘", "description": "kimono" },
+  "sari": { "replacement": "🥻", "description": "sari" },
+  "tek parça mayo": { "replacement": "🩱", "description": "one-piece swimsuit" },
+  "kısa yüzmek": { "replacement": "🩲", "description": "briefs" },
+  "şort": { "replacement": "🩳", "description": "shorts" },
+  "bikini": { "replacement": "👙", "description": "bikini" },
+  "kadın giysileri": { "replacement": "👚", "description": "woman’s clothes" },
+  "çanta": { "replacement": "👛", "description": "purse" },
+  "el çantası": { "replacement": "👜", "description": "handbag" },
+  "kese": { "replacement": "👝", "description": "clutch bag" },
+  "alışveriş yapmak": { "replacement": "🛍️", "description": "shopping bags" },
+  "okul çantası": { "replacement": "🎒", "description": "backpack" },
+  "tanga sandalet": { "replacement": "🩴", "description": "thong sandal" },
+  "mans ayakkabı": { "replacement": "👞", "description": "man’s shoe" },
+  "atletik ayakkabı": { "replacement": "👟", "description": "running shoe" },
+  "yürüyüş botu": { "replacement": "🥾", "description": "hiking boot" },
+  "düz ayakkabı": { "replacement": "🥿", "description": "flat shoe" },
+  "yüksek topuk": { "replacement": "👠", "description": "high-heeled shoe" },
+  "sandalet": { "replacement": "👡", "description": "woman’s sandal" },
+  "Bale ayakkabıları": { "replacement": "🩰", "description": "ballet shoes" },
+  "çizme": { "replacement": "👢", "description": "woman’s boot" },
+  "taç": { "replacement": "👑", "description": "crown" },
+  "kadın şapka": { "replacement": "👒", "description": "woman’s hat" },
+  "tophat": { "replacement": "🎩", "description": "top hat" },
+  "harç kurulu": { "replacement": "🎓", "description": "graduation cap" },
+  "fatura sınırı": { "replacement": "🧢", "description": "billed cap" },
+  "askeri kask": { "replacement": "🪖", "description": "military helmet" },
+  "kurtarma işçisi kaskı": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "tespih": { "replacement": "📿", "description": "prayer beads" },
+  "ruj": { "replacement": "💄", "description": "lipstick" },
+  "yüzük": { "replacement": "💍", "description": "ring" },
+  "mücevher": { "replacement": "💎", "description": "gem stone" },
+  "hoparlör": { "replacement": "📢", "description": "loudspeaker" },
+  "ses": { "replacement": "🔉", "description": "speaker medium volume" },
+  "yüksek ses": { "replacement": "🔊", "description": "speaker high volume" },
+  "mega": { "replacement": "📣", "description": "megaphone" },
+  "posta kornası": { "replacement": "📯", "description": "postal horn" },
+  "çan": { "replacement": "🔔", "description": "bell" },
+  "zil yok": { "replacement": "🔕", "description": "bell with slash" },
+  "müzikal puanı": { "replacement": "🎼", "description": "musical score" },
+  "müzik notası": { "replacement": "🎵", "description": "musical note" },
+  "notlar": { "replacement": "🎶", "description": "musical notes" },
+  "stüdyo mikrofonu": {
+    "replacement": "🎙️",
+    "description": "studio microphone"
+  },
+  "seviye kaydırıcısı": { "replacement": "🎚️", "description": "level slider" },
+  "kontrol düğmeleri": { "replacement": "🎛️", "description": "control knobs" },
+  "mikrofon": { "replacement": "🎤", "description": "microphone" },
+  "kulaklık": { "replacement": "🎧", "description": "headphone" },
+  "radyo": { "replacement": "📻", "description": "radio" },
+  "saksafon": { "replacement": "🎷", "description": "saxophone" },
+  "akordeon": { "replacement": "🪗", "description": "accordion" },
+  "gitar": { "replacement": "🎸", "description": "guitar" },
+  "müzikal klavye": { "replacement": "🎹", "description": "musical keyboard" },
+  "trompet": { "replacement": "🎺", "description": "trumpet" },
+  "keman": { "replacement": "🎻", "description": "violin" },
+  "banjo": { "replacement": "🪕", "description": "banjo" },
+  "davul": { "replacement": "🥁", "description": "drum" },
+  "uzun davul": { "replacement": "🪘", "description": "long drum" },
+  "iphone": { "replacement": "📱", "description": "mobile phone" },
+  "arama": { "replacement": "📲", "description": "mobile phone with arrow" },
+  "telefon": { "replacement": "☎️", "description": "telephone" },
+  "telefon alıcısı": {
+    "replacement": "📞",
+    "description": "telephone receiver"
+  },
+  "çağrı cihazı": { "replacement": "📟", "description": "pager" },
+  "faks": { "replacement": "📠", "description": "fax machine" },
+  "pil": { "replacement": "🔋", "description": "battery" },
+  "Elektrik prizi": { "replacement": "🔌", "description": "electric plug" },
+  "bilgisayar": { "replacement": "💻", "description": "laptop" },
+  "masaüstü bilgisayar": {
+    "replacement": "🖥️",
+    "description": "desktop computer"
+  },
+  "yazıcı": { "replacement": "🖨️", "description": "printer" },
+  "tuş takımı": { "replacement": "⌨️", "description": "keyboard" },
+  "Bilgisayar faresi": { "replacement": "🖱️", "description": "computer mouse" },
+  "iztopu": { "replacement": "🖲️", "description": "trackball" },
+  "mini disk": { "replacement": "💽", "description": "computer disk" },
+  "disket": { "replacement": "💾", "description": "floppy disk" },
+  "CD": { "replacement": "💿", "description": "optical disk" },
+  "DVD": { "replacement": "📀", "description": "dvd" },
+  "abaküs": { "replacement": "🧮", "description": "abacus" },
+  "film kamerası": { "replacement": "🎥", "description": "movie camera" },
+  "film şeridi": { "replacement": "🎞️", "description": "film frames" },
+  "film projektörü": { "replacement": "📽️", "description": "film projector" },
+  "tokmağı": { "replacement": "🎬", "description": "clapper board" },
+  "televizyon": { "replacement": "📺", "description": "television" },
+  "kamera": { "replacement": "📷", "description": "camera" },
+  "kamera flaşı": { "replacement": "📸", "description": "camera with flash" },
+  "video kamera": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "mag": { "replacement": "🔍", "description": "magnifying glass tilted left" },
+  "doğru mag": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "mum": { "replacement": "🕯️", "description": "candle" },
+  "ampul": { "replacement": "💡", "description": "light bulb" },
+  "el feneri": { "replacement": "🔦", "description": "flashlight" },
+  "izakaya fener": { "replacement": "🏮", "description": "red paper lantern" },
+  "diya lambası": { "replacement": "🪔", "description": "diya lamp" },
+  "dekoratif kapaklı defter": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "kapalı kitap": { "replacement": "📕", "description": "closed book" },
+  "kitap": { "replacement": "📖", "description": "open book" },
+  "yeşil Kitap": { "replacement": "📗", "description": "green book" },
+  "Mavi Kitap": { "replacement": "📘", "description": "blue book" },
+  "turuncu kitap": { "replacement": "📙", "description": "orange book" },
+  "kitabın": { "replacement": "📚", "description": "books" },
+  "not defteri": { "replacement": "📓", "description": "notebook" },
+  "defter": { "replacement": "📒", "description": "ledger" },
+  "kıvrımlı sayfa": { "replacement": "📃", "description": "page with curl" },
+  "kaydırma": { "replacement": "📜", "description": "scroll" },
+  "yukarı bakan sayfa": {
+    "replacement": "📄",
+    "description": "page facing up"
+  },
+  "gazete": { "replacement": "📰", "description": "newspaper" },
+  "gazete rulosu": {
+    "replacement": "🗞️",
+    "description": "rolled-up newspaper"
+  },
+  "yer imi sekmeleri": { "replacement": "📑", "description": "bookmark tabs" },
+  "yer imi": { "replacement": "🔖", "description": "bookmark" },
+  "etiket": { "replacement": "🏷️", "description": "label" },
+  "para çantası": { "replacement": "💰", "description": "money bag" },
+  "madeni para": { "replacement": "🪙", "description": "coin" },
+  "yen": { "replacement": "💴", "description": "yen banknote" },
+  "dolar": { "replacement": "💵", "description": "dollar banknote" },
+  "euro": { "replacement": "💶", "description": "euro banknote" },
+  "pound": { "replacement": "💷", "description": "pound banknote" },
+  "kanatlı para": { "replacement": "💸", "description": "money with wings" },
+  "kredi kartı": { "replacement": "💳", "description": "credit card" },
+  "fiş": { "replacement": "🧾", "description": "receipt" },
+  "grafik": { "replacement": "💹", "description": "chart increasing with yen" },
+  "e-posta": { "replacement": "📧", "description": "e-mail" },
+  "gelen zarf": { "replacement": "📨", "description": "incoming envelope" },
+  "oklu zarf": { "replacement": "📩", "description": "envelope with arrow" },
+  "çıkış tepsisi": { "replacement": "📤", "description": "outbox tray" },
+  "gelen kutusu tepsisi": { "replacement": "📥", "description": "inbox tray" },
+  "paket": { "replacement": "📦", "description": "package" },
+  "posta kutusu": { "replacement": "📮", "description": "postbox" },
+  "posta kutusu kapatıldı": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "postalı posta kutusu": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "postasız posta kutusu": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "oy sandığı": {
+    "replacement": "🗳️",
+    "description": "ballot box with ballot"
+  },
+  "kurşun kalem2": { "replacement": "✏️", "description": "pencil" },
+  "siyah uç": { "replacement": "✒️", "description": "black nib" },
+  "dolma kalem": { "replacement": "🖊️", "description": "pen" },
+  "boya fırçası": { "replacement": "🖌️", "description": "paintbrush" },
+  "pastel boya": { "replacement": "🖍️", "description": "crayon" },
+  "not": { "replacement": "📝", "description": "memo" },
+  "iş çantası": { "replacement": "💼", "description": "briefcase" },
+  "dosya klasörü": { "replacement": "📁", "description": "file folder" },
+  "dosya klasörünü aç": {
+    "replacement": "📂",
+    "description": "open file folder"
+  },
+  "kart dizini bölücüler": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "tarih": { "replacement": "📅", "description": "calendar" },
+  "takvim": { "replacement": "📆", "description": "tear-off calendar" },
+  "spiral not defteri": {
+    "replacement": "🗒️",
+    "description": "spiral notepad"
+  },
+  "spiral takvim": { "replacement": "🗓️", "description": "spiral calendar" },
+  "kartvizit indeksi": { "replacement": "📇", "description": "card index" },
+  "yükselen trendli grafik": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "düşüş eğilimi gösteren grafik": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "grafik çubuğu": { "replacement": "📊", "description": "bar chart" },
+  "pano": { "replacement": "📋", "description": "clipboard" },
+  "raptiye": { "replacement": "📌", "description": "pushpin" },
+  "yuvarlak raptiye": { "replacement": "📍", "description": "round pushpin" },
+  "Ataç": { "replacement": "📎", "description": "paperclip" },
+  "kağıt tutacağı": { "replacement": "🖇️", "description": "linked paperclips" },
+  "düz cetvel": { "replacement": "📏", "description": "straight ruler" },
+  "üçgen cetvel": { "replacement": "📐", "description": "triangular ruler" },
+  "makas": { "replacement": "✂️", "description": "scissors" },
+  "kart dosya kutusu": { "replacement": "🗃️", "description": "card file box" },
+  "dosya dolabı": { "replacement": "🗄️", "description": "file cabinet" },
+  "çöp sepeti": { "replacement": "🗑️", "description": "wastebasket" },
+  "kilit": { "replacement": "🔒", "description": "locked" },
+  "Kilidini aç": { "replacement": "🔓", "description": "unlocked" },
+  "tükenmez kalemle kilit": {
+    "replacement": "🔏",
+    "description": "locked with pen"
+  },
+  "anahtarlı kapalı kilit": {
+    "replacement": "🔐",
+    "description": "locked with key"
+  },
+  "anahtar": { "replacement": "🔑", "description": "key" },
+  "eski anahtar": { "replacement": "🗝️", "description": "old key" },
+  "çekiç": { "replacement": "🔨", "description": "hammer" },
+  "balta": { "replacement": "🪓", "description": "axe" },
+  "toplamak": { "replacement": "⛏️", "description": "pick" },
+  "çekiçle almak": { "replacement": "⚒️", "description": "hammer and pick" },
+  "çekiç ve anahtar": {
+    "replacement": "🛠️",
+    "description": "hammer and wrench"
+  },
+  "hançer": { "replacement": "🗡️", "description": "dagger" },
+  "çapraz kılıç": { "replacement": "⚔️", "description": "crossed swords" },
+  "tabanca": { "replacement": "🔫", "description": "pistol" },
+  "bumerang": { "replacement": "🪃", "description": "boomerang" },
+  "yay ve ok": { "replacement": "🏹", "description": "bow and arrow" },
+  "kalkan": { "replacement": "🛡️", "description": "shield" },
+  "marangoz testeresi": { "replacement": "🪚", "description": "carpentry saw" },
+  "İngiliz anahtarı": { "replacement": "🔧", "description": "wrench" },
+  "Tornavida": { "replacement": "🪛", "description": "screwdriver" },
+  "somun ve cıvata": { "replacement": "🔩", "description": "nut and bolt" },
+  "dişli": { "replacement": "⚙️", "description": "gear" },
+  "kelepçe": { "replacement": "🗜️", "description": "clamp" },
+  "denge ölçeği": { "replacement": "⚖️", "description": "balance scale" },
+  "araştırma bastonu": { "replacement": "🦯", "description": "white cane" },
+  "bağlantı": { "replacement": "🔗", "description": "link" },
+  "zincirler": { "replacement": "⛓️", "description": "chains" },
+  "kanca": { "replacement": "🪝", "description": "hook" },
+  "alet kutusu": { "replacement": "🧰", "description": "toolbox" },
+  "mıknatıs": { "replacement": "🧲", "description": "magnet" },
+  "merdiven": { "replacement": "🪜", "description": "ladder" },
+  "imbik": { "replacement": "⚗️", "description": "alembic" },
+  "Test tüpü": { "replacement": "🧪", "description": "test tube" },
+  "Petri kabı": { "replacement": "🧫", "description": "petri dish" },
+  "DNA": { "replacement": "🧬", "description": "dna" },
+  "mikroskop": { "replacement": "🔬", "description": "microscope" },
+  "teleskop": { "replacement": "🔭", "description": "telescope" },
+  "uydu": { "replacement": "📡", "description": "satellite antenna" },
+  "şırınga": { "replacement": "💉", "description": "syringe" },
+  "kan damlası": { "replacement": "🩸", "description": "drop of blood" },
+  "hap": { "replacement": "💊", "description": "pill" },
+  "yapışkanlı bandaj": {
+    "replacement": "🩹",
+    "description": "adhesive bandage"
+  },
+  "stetoskop": { "replacement": "🩺", "description": "stethoscope" },
+  "kapı": { "replacement": "🚪", "description": "door" },
+  "asansör": { "replacement": "🛗", "description": "elevator" },
+  "ayna": { "replacement": "🪞", "description": "mirror" },
+  "pencere": { "replacement": "🪟", "description": "window" },
+  "yatak": { "replacement": "🛏️", "description": "bed" },
+  "kanepe ve lamba": { "replacement": "🛋️", "description": "couch and lamp" },
+  "sandalye": { "replacement": "🪑", "description": "chair" },
+  "tuvalet": { "replacement": "🚾", "description": "water closet" },
+  "dalgıç": { "replacement": "🪠", "description": "plunger" },
+  "duş": { "replacement": "🚿", "description": "shower" },
+  "küvet": { "replacement": "🛁", "description": "bathtub" },
+  "fare kapanı": { "replacement": "🪤", "description": "mouse trap" },
+  "Ustura": { "replacement": "🪒", "description": "razor" },
+  "losyon şişesi": { "replacement": "🧴", "description": "lotion bottle" },
+  "emniyet pimi": { "replacement": "🧷", "description": "safety pin" },
+  "süpürge": { "replacement": "🧹", "description": "broom" },
+  "sepet": { "replacement": "🧺", "description": "basket" },
+  "kağıt rulosu": { "replacement": "🧻", "description": "roll of paper" },
+  "Kova": { "replacement": "♒", "description": "Aquarius" },
+  "sabun": { "replacement": "🧼", "description": "soap" },
+  "diş fırçası": { "replacement": "🪥", "description": "toothbrush" },
+  "sünger": { "replacement": "🧽", "description": "sponge" },
+  "yangın söndürücü": {
+    "replacement": "🧯",
+    "description": "fire extinguisher"
+  },
+  "alışveriş kartı": { "replacement": "🛒", "description": "shopping cart" },
+  "sigara içmek": { "replacement": "🚬", "description": "cigarette" },
+  "tabut": { "replacement": "⚰️", "description": "coffin" },
+  "mezar taşı": { "replacement": "🪦", "description": "headstone" },
+  "ölünün küllerinin saklandığı kap": {
+    "replacement": "⚱️",
+    "description": "funeral urn"
+  },
+  "Moyai": { "replacement": "🗿", "description": "moai" },
+  "afiş": { "replacement": "🪧", "description": "placard" },
+  "ATM": { "replacement": "🏧", "description": "ATM sign" },
+  "yerine çöp koymak": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "içme suyu": { "replacement": "🚰", "description": "potable water" },
+  "tekerlekli sandalye": {
+    "replacement": "♿",
+    "description": "wheelchair symbol"
+  },
+  "Erkeklerin": { "replacement": "🚹", "description": "men’s room" },
+  "Bayanlar": { "replacement": "🚺", "description": "women’s room" },
+  "bebek sembolü": { "replacement": "🚼", "description": "baby symbol" },
+  "pasaport kontrolü": {
+    "replacement": "🛂",
+    "description": "passport control"
+  },
+  "Gümrük": { "replacement": "🛃", "description": "customs" },
+  "bagaj teslim yeri": { "replacement": "🛄", "description": "baggage claim" },
+  "sol bagaj": { "replacement": "🛅", "description": "left luggage" },
+  "uyarı": { "replacement": "⚠️", "description": "warning" },
+  "Çocuklar geçiyor": {
+    "replacement": "🚸",
+    "description": "children crossing"
+  },
+  "giriş yok": { "replacement": "🚫", "description": "prohibited" },
+  "Bisiklet giremez": { "replacement": "🚳", "description": "no bicycles" },
+  "Sigara İçmek Yasaktır": { "replacement": "🚭", "description": "no smoking" },
+  "çöp atmayın": { "replacement": "🚯", "description": "no littering" },
+  "içilemez su": { "replacement": "🚱", "description": "non-potable water" },
+  "Yaya giremez": { "replacement": "🚷", "description": "no pedestrians" },
+  "cep telefonu yok": {
+    "replacement": "📵",
+    "description": "no mobile phones"
+  },
+  "reşit olmayan": {
+    "replacement": "🔞",
+    "description": "no one under eighteen"
+  },
+  "radyoaktif": { "replacement": "☢️", "description": "radioactive" },
+  "biyolojik tehlike": { "replacement": "☣️", "description": "biohazard" },
+  "yukarı ok": { "replacement": "⬆️", "description": "up arrow" },
+  "sağ üst ok": { "replacement": "↗️", "description": "up-right arrow" },
+  "sağ ok": { "replacement": "➡️", "description": "right arrow" },
+  "sağ alt ok": { "replacement": "↘️", "description": "down-right arrow" },
+  "aşağı ok": {
+    "replacement": "⤵️",
+    "description": "right arrow curving down"
+  },
+  "sol alt ok": { "replacement": "↙️", "description": "down-left arrow" },
+  "sol ok": { "replacement": "⬅️", "description": "left arrow" },
+  "sol üst ok": { "replacement": "↖️", "description": "up-left arrow" },
+  "yukarı aşağı ok": { "replacement": "↕️", "description": "up-down arrow" },
+  "sol sağ ok": { "replacement": "↔️", "description": "left-right arrow" },
+  "kancalı sol ok": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "ok sağ kanca": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "yukarı ok başlığı": {
+    "replacement": "⤴️",
+    "description": "right arrow curving up"
+  },
+  "saat yönünde oklar": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "saat yönünün tersine oklar": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "geri": { "replacement": "🔙", "description": "BACK arrow" },
+  "son": { "replacement": "🔚", "description": "END arrow" },
+  "açık": { "replacement": "🔛", "description": "ON! arrow" },
+  "yakında": { "replacement": "🔜", "description": "SOON arrow" },
+  "üst": { "replacement": "🔝", "description": "TOP arrow" },
+  "ibadethane": { "replacement": "🛐", "description": "place of worship" },
+  "atom sembolü": { "replacement": "⚛️", "description": "atom symbol" },
+  "om": { "replacement": "🕉️", "description": "om" },
+  "David'in yıldızı": { "replacement": "✡️", "description": "star of David" },
+  "dharma çarkı": { "replacement": "☸️", "description": "wheel of dharma" },
+  "yin Yang": { "replacement": "☯️", "description": "yin yang" },
+  "latin haçı": { "replacement": "✝️", "description": "latin cross" },
+  "ortodoks haçı": { "replacement": "☦️", "description": "orthodox cross" },
+  "yıldız ve hilal": {
+    "replacement": "☪️",
+    "description": "star and crescent"
+  },
+  "Barış sembolü": { "replacement": "☮️", "description": "peace symbol" },
+  "Menora": { "replacement": "🕎", "description": "menorah" },
+  "altı uçlu yıldız": {
+    "replacement": "🔯",
+    "description": "dotted six-pointed star"
+  },
+  "Koç": { "replacement": "♈", "description": "Aries" },
+  "Boğa Burcu": { "replacement": "♉", "description": "Taurus" },
+  "ikizler burcu": { "replacement": "♊", "description": "Gemini" },
+  "kanser": { "replacement": "♋", "description": "Cancer" },
+  "Leo": { "replacement": "♌", "description": "Leo" },
+  "Başak": { "replacement": "♍", "description": "Virgo" },
+  "terazi": { "replacement": "♎", "description": "Libra" },
+  "yay Burcu": { "replacement": "♐", "description": "Sagittarius" },
+  "Oğlak burcu": { "replacement": "♑", "description": "Capricorn" },
+  "balık Burcu": { "replacement": "♓", "description": "Pisces" },
+  "Ophiuchus": { "replacement": "⛎", "description": "Ophiuchus" },
+  "sağa bükülmüş oklar": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "tekrar et": { "replacement": "🔁", "description": "repeat button" },
+  "birini tekrar et": {
+    "replacement": "🔂",
+    "description": "repeat single button"
+  },
+  "ileri ok": { "replacement": "▶️", "description": "play button" },
+  "ileri sar": { "replacement": "⏩", "description": "fast-forward button" },
+  "sonraki parça düğmesi": {
+    "replacement": "⏭️",
+    "description": "next track button"
+  },
+  "oynat veya duraklat düğmesi": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "geri ok": { "replacement": "◀️", "description": "reverse button" },
+  "geri sarma": { "replacement": "⏪", "description": "fast reverse button" },
+  "önceki parça düğmesi": {
+    "replacement": "⏮️",
+    "description": "last track button"
+  },
+  "küçük yukarı ok": { "replacement": "🔼", "description": "upwards button" },
+  "ok çift yukarı": { "replacement": "⏫", "description": "fast up button" },
+  "küçük aşağı ok": { "replacement": "🔽", "description": "downwards button" },
+  "çift ​​aşağı ok": { "replacement": "⏬", "description": "fast down button" },
+  "duraklat düğmesi": { "replacement": "⏸️", "description": "pause button" },
+  "durdurma düğmesi": { "replacement": "⏹️", "description": "stop button" },
+  "kayıt düğmesi": { "replacement": "⏺️", "description": "record button" },
+  "çıkarma düğmesi": { "replacement": "⏏️", "description": "eject button" },
+  "sinema": { "replacement": "🎦", "description": "cinema" },
+  "düşük parlaklık": { "replacement": "🔅", "description": "dim button" },
+  "yüksek parlaklık": { "replacement": "🔆", "description": "bright button" },
+  "sinyal gücü": { "replacement": "📶", "description": "antenna bars" },
+  "titreşim modu": { "replacement": "📳", "description": "vibration mode" },
+  "cep telefonu kapalı": {
+    "replacement": "📴",
+    "description": "mobile phone off"
+  },
+  "kadın işareti": { "replacement": "♀️", "description": "female sign" },
+  "erkek işareti": { "replacement": "♂️", "description": "male sign" },
+  "transseksüel sembolü": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "ağır çarpma x": { "replacement": "✖️", "description": "multiply" },
+  "ağır artı işareti": { "replacement": "➕", "description": "plus" },
+  "ağır eksi işareti": { "replacement": "➖", "description": "minus" },
+  "ağır bölme işareti": { "replacement": "➗", "description": "divide" },
+  "sonsuzluk": { "replacement": "♾️", "description": "infinity" },
+  "bangbang": { "replacement": "‼️", "description": "double exclamation mark" },
+  "interrobang": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "soru": { "replacement": "❓", "description": "question mark" },
+  "gri soru": { "replacement": "❔", "description": "white question mark" },
+  "gri ünlem": { "replacement": "❕", "description": "white exclamation mark" },
+  "ünlem": { "replacement": "❗", "description": "exclamation mark" },
+  "dalgalı çizgi": { "replacement": "〰️", "description": "wavy dash" },
+  "döviz değişimi": { "replacement": "💱", "description": "currency exchange" },
+  "ağır dolar işareti": {
+    "replacement": "💲",
+    "description": "heavy dollar sign"
+  },
+  "tıbbi sembol": { "replacement": "⚕️", "description": "medical symbol" },
+  "geri dönüştürmek": {
+    "replacement": "♻️",
+    "description": "recycling symbol"
+  },
+  "Fleur de lis": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "trident": { "replacement": "🔱", "description": "trident emblem" },
+  "yaka kartı": { "replacement": "📛", "description": "name badge" },
+  "acemi": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "Ö": { "replacement": "⭕", "description": "hollow red circle" },
+  "beyaz onay işareti": {
+    "replacement": "✅",
+    "description": "check mark button"
+  },
+  "çekli sandık": {
+    "replacement": "☑️",
+    "description": "check box with check"
+  },
+  "kalın onay işareti": { "replacement": "✔️", "description": "check mark" },
+  "x": { "replacement": "❌", "description": "cross mark" },
+  "negatif kare çarpı işareti": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "kıvırcık döngü": { "replacement": "➰", "description": "curly loop" },
+  "döngü": { "replacement": "➿", "description": "double curly loop" },
+  "parça değiştirme işareti": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "sekiz uçlu yıldız işareti": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "sekiz uçlu siyah yıldız": {
+    "replacement": "✴️",
+    "description": "eight-pointed star"
+  },
+  "ışıltı": { "replacement": "❇️", "description": "sparkle" },
+  "telif hakkı": { "replacement": "©️", "description": "copyright" },
+  "kayıtlı": { "replacement": "®️", "description": "registered" },
+  "tm": { "replacement": "™️", "description": "trade mark" },
+  "karma": { "replacement": "#️⃣", "description": "keycap: #" },
+  "yıldız işareti": { "replacement": "*️⃣", "description": "keycap: *" },
+  "sıfır": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "bir": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "iki": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "üç": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "dört": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "beş": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "altı": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "Yedi": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "sekiz": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "dokuz": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "tuş kapağı on": { "replacement": "🔟", "description": "keycap: 10" },
+  "sermaye abcd": {
+    "replacement": "🔠",
+    "description": "input latin uppercase"
+  },
+  "abcd": { "replacement": "🔡", "description": "input latin lowercase" },
+  "semboller": { "replacement": "🔣", "description": "input symbols" },
+  "ABC": { "replacement": "🔤", "description": "input latin letters" },
+  "a": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "ab": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "b": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "cl": { "replacement": "🆑", "description": "CL button" },
+  "güzel": { "replacement": "🆒", "description": "COOL button" },
+  "Bedava": { "replacement": "🆓", "description": "FREE button" },
+  "Bilgi kaynağı": { "replacement": "ℹ️", "description": "information" },
+  "İD": { "replacement": "🆔", "description": "ID button" },
+  "m": { "replacement": "Ⓜ️", "description": "circled M" },
+  "yeni": { "replacement": "🆕", "description": "NEW button" },
+  "ng": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "tamam": { "replacement": "🆗", "description": "OK button" },
+  "otopark": { "replacement": "🅿️", "description": "P button" },
+  "s.o.s": { "replacement": "🆘", "description": "SOS button" },
+  "yukarı": { "replacement": "🆙", "description": "UP! button" },
+  "vs": { "replacement": "🆚", "description": "VS button" },
+  "koko": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "sa": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "ideograf avantajı": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "kabul etmek": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "Tebrikler": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "gizli": { "replacement": "㊙️", "description": "Japanese “secret” button" },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "kırmızı daire": { "replacement": "🔴", "description": "red circle" },
+  "turuncu daire": { "replacement": "🟠", "description": "orange circle" },
+  "sarı daire": { "replacement": "🟡", "description": "yellow circle" },
+  "yeşil daire": { "replacement": "🟢", "description": "green circle" },
+  "büyük mavi daire": { "replacement": "🔵", "description": "blue circle" },
+  "mor daire": { "replacement": "🟣", "description": "purple circle" },
+  "kahverengi daire": { "replacement": "🟤", "description": "brown circle" },
+  "siyah daire": { "replacement": "⚫", "description": "black circle" },
+  "beyaz daire": { "replacement": "⚪", "description": "white circle" },
+  "kırmızı kare": { "replacement": "🟥", "description": "red square" },
+  "turuncu kare": { "replacement": "🟧", "description": "orange square" },
+  "sarı kare": { "replacement": "🟨", "description": "yellow square" },
+  "yeşil kare": { "replacement": "🟩", "description": "green square" },
+  "mavi kare": { "replacement": "🟦", "description": "blue square" },
+  "mor kare": { "replacement": "🟪", "description": "purple square" },
+  "kahverengi kare": { "replacement": "🟫", "description": "brown square" },
+  "siyah büyük kare": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "beyaz büyük kare": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "siyah orta boy kare": {
+    "replacement": "◼️",
+    "description": "black medium square"
+  },
+  "beyaz orta boy kare": {
+    "replacement": "◻️",
+    "description": "white medium square"
+  },
+  "siyah orta küçük kare": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "beyaz orta küçük kare": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "siyah küçük kare": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "beyaz küçük kare": {
+    "replacement": "▫️",
+    "description": "white small square"
+  },
+  "büyük turuncu elmas": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "büyük mavi elmas": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "küçük turuncu elmas": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "küçük mavi elmas": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "küçük kırmızı üçgen": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "aşağı küçük kırmızı üçgen": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "içinde nokta bulunan elmas şekli": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "Radyo düğmesi": { "replacement": "🔘", "description": "radio button" },
+  "beyaz kare düğme": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "siyah kare düğme": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "damalı bayrak": { "replacement": "🏁", "description": "chequered flag" },
+  "direkte üçgen bayrak": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "çapraz bayraklar": { "replacement": "🎌", "description": "crossed flags" },
+  "siyah bayrak": { "replacement": "🏴", "description": "black flag" },
+  "Beyaz Bayrak": { "replacement": "🏳️", "description": "white flag" },
+  "gökkuşağı bayrağı": { "replacement": "🏳️‍🌈", "description": "rainbow flag" },
+  "transseksüel bayrağı": {
+    "replacement": "🏳️‍⚧️",
+    "description": "transgender flag"
+  },
+  "korsan bayrağı": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "Yükselme adası": {
+    "replacement": "🇦🇨",
+    "description": "flag: Ascension Island"
+  },
+  "Andorra": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "Birleşik Arap Emirlikleri": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "Afganistan": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "Antigua barbuda": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "anguilla": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "Arnavutluk": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "Ermenistan": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "Angola": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "Antarktika": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "Arjantin": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "Amerikan Samoası": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "Avusturya": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "Avustralya": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "Aruba": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "Aland adaları": {
+    "replacement": "🇦🇽",
+    "description": "flag: Åland Islands"
+  },
+  "azerbaycan": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "Bosna Hersek": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "Barbados": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "Bangladeş": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "Belçika": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "Burkina Faso": { "replacement": "🇧🇫", "description": "flag: Burkina Faso" },
+  "Bulgaristan": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "Bahreyn": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "Burundi": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "Benin": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "St barthelemy": {
+    "replacement": "🇧🇱",
+    "description": "flag: St. Barthélemy"
+  },
+  "bermuda": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "Brunei": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "Bolivya": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "karayip hollanda": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "Brezilya": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "Bahamalar": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "Butan": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "Bouvet adası": { "replacement": "🇧🇻", "description": "flag: Bouvet Island" },
+  "Botsvana": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "Belarus": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "Belize": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "Kanada": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "cocos adaları": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "Kongo kinshasa": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "Orta Afrika Cumhuriyeti": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "kongo brazzaville": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "İsviçre": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "cote divoire": { "replacement": "🇨🇮", "description": "flag: Côte d’Ivoire" },
+  "Cook Adaları": { "replacement": "🇨🇰", "description": "flag: Cook Islands" },
+  "Şili": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "Kamerun": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "cn": { "replacement": "🇨🇳", "description": "flag: China" },
+  "Kolombiya": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "Clipperton adası": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "kosta rika": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "Küba": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "Cape verde": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "Curacao": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "Noel Adası": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "Kıbrıs": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "Çek Cumhuriyeti": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "de": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "diego garcia": { "replacement": "🇩🇬", "description": "flag: Diego Garcia" },
+  "Cibuti": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "Danimarka": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "Dominika": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "Dominik Cumhuriyeti": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "Cezayir": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "ceuta melilla": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "Ekvador": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "Estonya": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "Batı Sahra": { "replacement": "🇪🇭", "description": "flag: Western Sahara" },
+  "Eritre": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "es": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "Etiyopya": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "AB": { "replacement": "🇪🇺", "description": "flag: European Union" },
+  "Finlandiya": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "Fiji": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "Falkland adaları": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "mikronezya": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "Faroe Adaları": {
+    "replacement": "🇫🇴",
+    "description": "flag: Faroe Islands"
+  },
+  "fr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "Gabon": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "gb": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "Grenada": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "Gürcistan": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "Fransız Guyanası": {
+    "replacement": "🇬🇫",
+    "description": "flag: French Guiana"
+  },
+  "Guernsey": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "Gana": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "Cebelitarık": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "Grönland": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "Gambiya": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "Gine": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "guadeloupe": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "Ekvator Ginesi": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "Yunanistan": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "güney gürcistan güney sandviç adaları": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "Guatemala": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "guam": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "gine bissau": { "replacement": "🇬🇼", "description": "flag: Guinea-Bissau" },
+  "Guyana": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "Hong Kong": {
+    "replacement": "🇭🇰",
+    "description": "flag: Hong Kong SAR China"
+  },
+  "McDonald adalarını duydum": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "Honduras": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "Hırvatistan": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "Haiti": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "Macaristan": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "Kanarya Adaları": {
+    "replacement": "🇮🇨",
+    "description": "flag: Canary Islands"
+  },
+  "Endonezya": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "İrlanda": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "İsrail": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "adam adası": { "replacement": "🇮🇲", "description": "flag: Isle of Man" },
+  "Hindistan": { "replacement": "🇮🇳", "description": "flag: India" },
+  "ingiliz hint okyanusu bölgesi": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "Irak": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "iran": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "İzlanda": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "o": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "Jersey": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "Jamaika": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "Ürdün": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "jp": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "Kenya": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "kırgızistan": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "Kamboçya": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "Kiribati": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "Komorlar": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "st kitts nevis": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "Kuzey Kore": { "replacement": "🇰🇵", "description": "flag: North Korea" },
+  "kr": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "Kuveyt": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "Cayman Adaları": {
+    "replacement": "🇰🇾",
+    "description": "flag: Cayman Islands"
+  },
+  "kazakistan": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "Laos": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "Lübnan": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "Aziz lucia": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "Lihtenştayn": { "replacement": "🇱🇮", "description": "flag: Liechtenstein" },
+  "Sri Lanka": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "Liberya": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "Lesotho": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "litvanya": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "Lüksemburg": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "Letonya": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "Libya": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "Fas": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "Monako": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "Moldova": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "Karadağ": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "st martin": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "Madagaskar": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "Marşal Adaları": {
+    "replacement": "🇲🇭",
+    "description": "flag: Marshall Islands"
+  },
+  "Makedonya": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "Mali": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "Myanmar": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "Moğolistan": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "Macau": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "Kuzey Mariana Adaları": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "Martinik": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "Moritanya": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "Montserrat": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "Malta": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "Mauritius": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "maldivler": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "Malawi": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "Meksika": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "Malezya": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "Mozambik": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "Namibya": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "yeni kaledonya": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "Nijer": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "Norfolk Adası": {
+    "replacement": "🇳🇫",
+    "description": "flag: Norfolk Island"
+  },
+  "Nijerya": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "Nikaragua": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "Hollanda": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "Norveç": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "Nepal": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "Nauru": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "Niue": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "yeni Zelanda": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "Umman": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "Panama": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "Peru": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "Fransız Polinezyası": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "Papua Yeni Gine": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "Filipinler": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "Pakistan": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "Polonya": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "St Pierre miquelon": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "Pitcairn adaları": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "Porto Riko": { "replacement": "🇵🇷", "description": "flag: Puerto Rico" },
+  "Filistin Bölgesi": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "Portekiz": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "Palau": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "Paraguay": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "Katar": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "yeniden birleşme": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "romanya": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "Sırbistan": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "ru": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "Ruanda": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "Suudi Arabistan": {
+    "replacement": "🇸🇦",
+    "description": "flag: Saudi Arabia"
+  },
+  "Solomon Adaları": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "Seyşeller": { "replacement": "🇸🇨", "description": "flag: Seychelles" },
+  "Sudan": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "İsveç": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "Singapur": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "st helena": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "Slovenya": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "svalbard jan mayen": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "Slovakya": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "Sierra leone": { "replacement": "🇸🇱", "description": "flag: Sierra Leone" },
+  "San Marino": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "Senegal": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "Somali": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "Surinam": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "Güney Sudan": { "replacement": "🇸🇸", "description": "flag: South Sudan" },
+  "sao tome principe": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "el salvador": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "Sint Maarten": { "replacement": "🇸🇽", "description": "flag: Sint Maarten" },
+  "Suriye": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "Svaziland": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "tristan da cunha": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "turks caicos adaları": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "Çad": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "fransız güney toprakları": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "gitmek": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "Tayland": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "Tacikistan": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "tokelau": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "Timor leste": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "türkmenistan": { "replacement": "🇹🇲", "description": "flag: Turkmenistan" },
+  "Tunus": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "tonga": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "tr": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "Trinidad & Tobago": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "Tuvalu": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "tayvan": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "Tanzanya": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "ukrayna": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "Uganda": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "Biz uzaktaki adalar": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "Birleşmiş Milletler": {
+    "replacement": "🇺🇳",
+    "description": "flag: United Nations"
+  },
+  "bize": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "Uruguay": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "Özbekistan": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "Vatikan Şehri": { "replacement": "🇻🇦", "description": "flag: Vatican City" },
+  "Aziz vincent nar şurubu": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "Venezuela": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "İngiliz bakir adaları": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "Amerika Birleşik Devletleri Virgin Adaları": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "Vietnam": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "Vanuatu": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "Wallis futuna": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "samoa": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "kosova": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "Yemen": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "Mayotte": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "Güney Afrika": { "replacement": "🇿🇦", "description": "flag: South Africa" },
+  "zambia": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "Zimbabve": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "İngiltere": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "İskoçya": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "Galler": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

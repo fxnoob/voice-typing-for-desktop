@@ -1,0 +1,2660 @@
+{
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "ยิ้ม": {
+    "replacement": "😁",
+    "description": "beaming face with smiling eyes"
+  },
+  "หัวเราะ": { "replacement": "😆", "description": "grinning squinting face" },
+  "รอยยิ้มหยาดเหงื่อ": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "ความสุข": { "replacement": "😂", "description": "face with tears of joy" },
+  "ใบหน้ายิ้มเล็กน้อย": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "คว่ำหน้า": { "replacement": "🙃", "description": "upside-down face" },
+  "พริบ": { "replacement": "😉", "description": "winking face" },
+  "อาย": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "ไร้เดียงสา": {
+    "replacement": "😇",
+    "description": "smiling face with halo"
+  },
+  "ใบหน้ายิ้มด้วยหัวใจสามดวง": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "ดวงตาของหัวใจ": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "ดาวหลง": { "replacement": "🤩", "description": "star-struck" },
+  "จูบหัวใจ": { "replacement": "😘", "description": "face blowing a kiss" },
+  "จูบ": { "replacement": "💋", "description": "kiss mark" },
+  "ผ่อนคลาย": { "replacement": "☺️", "description": "smiling face" },
+  "จูบปิดตา": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "จูบตายิ้ม": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "หน้ายิ้มทั้งน้ำตา": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "ยำ": { "replacement": "😋", "description": "face savoring food" },
+  "แลบลิ้น": { "replacement": "😛", "description": "face with tongue" },
+  "แลบลิ้นขยิบตา": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "หน้าใส ๆ": { "replacement": "🤪", "description": "zany face" },
+  "แลบลิ้นปิดตา": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "หน้าปากเงิน": { "replacement": "🤑", "description": "money-mouth face" },
+  "กอด": { "replacement": "🤗", "description": "hugging face" },
+  "ยื่นมือเข้าปาก": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "หน้าแดง": { "replacement": "🤫", "description": "shushing face" },
+  "ความคิด": { "replacement": "🤔", "description": "thinking face" },
+  "หน้าปากซิป": { "replacement": "🤐", "description": "zipper-mouth face" },
+  "ยกคิ้ว": { "replacement": "🤨", "description": "face with raised eyebrow" },
+  "ใบหน้าที่เป็นกลาง": { "replacement": "😐", "description": "neutral face" },
+  "ไม่แสดงออก": { "replacement": "😑", "description": "expressionless face" },
+  "ไม่มีปาก": { "replacement": "😶", "description": "face without mouth" },
+  "ยิ้มเยาะ": { "replacement": "😏", "description": "smirking face" },
+  "ไม่คุ้นเคย": { "replacement": "😒", "description": "unamused face" },
+  "กลอกตา": { "replacement": "🙄", "description": "face with rolling eyes" },
+  "หน้าตาบูดบึ้ง": { "replacement": "😬", "description": "grimacing face" },
+  "นอนคว่ำหน้า": { "replacement": "🤥", "description": "lying face" },
+  "โล่งใจ": { "replacement": "😌", "description": "relieved face" },
+  "หม่น": { "replacement": "😔", "description": "pensive face" },
+  "ง่วงนอน": { "replacement": "😪", "description": "sleepy face" },
+  "หน้าน้ำลายไหล": { "replacement": "🤤", "description": "drooling face" },
+  "นอน": { "replacement": "😴", "description": "sleeping face" },
+  "หน้ากาก": { "replacement": "😷", "description": "face with medical mask" },
+  "เผชิญกับเครื่องวัดอุณหภูมิ": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "เผชิญกับผ้าพันแผลที่ศีรษะ": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "ใบหน้าคลื่นไส้": { "replacement": "🤢", "description": "nauseated face" },
+  "ใบหน้าอาเจียน": { "replacement": "🤮", "description": "face vomiting" },
+  "หน้าจาม": { "replacement": "🤧", "description": "sneezing face" },
+  "หน้าร้อน": { "replacement": "🥵", "description": "hot face" },
+  "ใบหน้าเย็นชา": { "replacement": "🥶", "description": "cold face" },
+  "หน้าวู่วาม": { "replacement": "🥴", "description": "woozy face" },
+  "หน้ามืด": { "replacement": "😵", "description": "dizzy face" },
+  "หัวระเบิด": { "replacement": "🤯", "description": "exploding head" },
+  "หน้าหมวกคาวบอย": { "replacement": "🤠", "description": "cowboy hat face" },
+  "ปาร์ตี้หน้า": { "replacement": "🥳", "description": "partying face" },
+  "ใบหน้าปลอมตัว": { "replacement": "🥸", "description": "disguised face" },
+  "แว่นกันแดด": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "หน้าโง่": { "replacement": "🤓", "description": "nerd face" },
+  "ใบหน้าข้างเดียว": {
+    "replacement": "🧐",
+    "description": "face with monocle"
+  },
+  "สับสน": { "replacement": "😖", "description": "confounded face" },
+  "กังวล": { "replacement": "😟", "description": "worried face" },
+  "หน้ามุ่ยเล็กน้อย": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "หน้าบึ้ง": {
+    "replacement": "😦",
+    "description": "frowning face with open mouth"
+  },
+  "อ้าปาก": { "replacement": "😮", "description": "face with open mouth" },
+  "เงียบ": { "replacement": "😯", "description": "hushed face" },
+  "ประหลาดใจ": { "replacement": "😲", "description": "astonished face" },
+  "ล้าง": { "replacement": "😳", "description": "flushed face" },
+  "ใบหน้าอ้อนวอน": { "replacement": "🥺", "description": "pleading face" },
+  "ปวดร้าว": { "replacement": "😧", "description": "anguished face" },
+  "ขี้กลัว": { "replacement": "😨", "description": "fearful face" },
+  "เหงื่อเย็น": {
+    "replacement": "😰",
+    "description": "anxious face with sweat"
+  },
+  "ผิดหวังโล่งใจ": {
+    "replacement": "😥",
+    "description": "sad but relieved face"
+  },
+  "ร้องไห้": { "replacement": "😭", "description": "loudly crying face" },
+  "กรีดร้อง": { "replacement": "😱", "description": "face screaming in fear" },
+  "อดทน": { "replacement": "😣", "description": "persevering face" },
+  "ผิดหวัง": { "replacement": "😞", "description": "disappointed face" },
+  "เหงื่อ": { "replacement": "😓", "description": "downcast face with sweat" },
+  "เบื่อหน่าย": { "replacement": "😩", "description": "weary face" },
+  "ใบหน้าเหนื่อยล้า": { "replacement": "😫", "description": "tired face" },
+  "หาว": { "replacement": "🥱", "description": "yawning face" },
+  "ชัยชนะ": { "replacement": "😤", "description": "face with steam from nose" },
+  "ความโกรธ": { "replacement": "💢", "description": "anger symbol" },
+  "โกรธ": { "replacement": "😠", "description": "angry face" },
+  "หน้าด่า": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "เปรตยิ้ม": { "replacement": "😈", "description": "smiling face with horns" },
+  "เปรต": { "replacement": "👿", "description": "angry face with horns" },
+  "กะโหลก": { "replacement": "💀", "description": "skull" },
+  "กะโหลกศีรษะและกระดูกไขว้": {
+    "replacement": "☠️",
+    "description": "skull and crossbones"
+  },
+  "แฮงกี้": { "replacement": "💩", "description": "pile of poo" },
+  "หน้าตัวตลก": { "replacement": "🤡", "description": "clown face" },
+  "ผีปอบญี่ปุ่น": { "replacement": "👹", "description": "ogre" },
+  "ก๊อบลินญี่ปุ่น": { "replacement": "👺", "description": "goblin" },
+  "ผี": { "replacement": "👻", "description": "ghost" },
+  "มนุษย์ต่างดาว": { "replacement": "👽", "description": "alien" },
+  "ผู้บุกรุกพื้นที่": { "replacement": "👾", "description": "alien monster" },
+  "หุ่นยนต์": { "replacement": "🤖", "description": "robot" },
+  "แมวยิ้ม": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "จอยแมว": { "replacement": "😹", "description": "cat with tears of joy" },
+  "แมวตา": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "แมวยิ้มเยาะ": { "replacement": "😼", "description": "cat with wry smile" },
+  "จูบแมว": { "replacement": "😽", "description": "kissing cat" },
+  "แมวร้อง": { "replacement": "🙀", "description": "weary cat" },
+  "หน้าแมวร้องไห้": { "replacement": "😿", "description": "crying cat" },
+  "แมวหน้ามุ่ย": { "replacement": "😾", "description": "pouting cat" },
+  "ไม่เห็นความชั่วร้าย": {
+    "replacement": "🙈",
+    "description": "see-no-evil monkey"
+  },
+  "อย่าได้ยินสิ่งชั่วร้าย": {
+    "replacement": "🙉",
+    "description": "hear-no-evil monkey"
+  },
+  "ไม่พูดสิ่งชั่วร้าย": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "จดหมายรัก": { "replacement": "💌", "description": "love letter" },
+  "กามเทพ": { "replacement": "💘", "description": "heart with arrow" },
+  "ของขวัญหัวใจ": { "replacement": "💝", "description": "heart with ribbon" },
+  "หัวใจที่เปล่งประกาย": {
+    "replacement": "💖",
+    "description": "sparkling heart"
+  },
+  "heartpulse": { "replacement": "💗", "description": "growing heart" },
+  "การเต้นของหัวใจ": { "replacement": "💓", "description": "beating heart" },
+  "หัวใจหมุนเวียน": { "replacement": "💞", "description": "revolving hearts" },
+  "สองหัวใจ": { "replacement": "💕", "description": "two hearts" },
+  "ตกแต่งหัวใจ": { "replacement": "💟", "description": "heart decoration" },
+  "อุทานหัวใจหนัก": { "replacement": "❣️", "description": "heart exclamation" },
+  "อกหัก": { "replacement": "💔", "description": "broken heart" },
+  "หัวใจ": { "replacement": "♥️", "description": "heart suit" },
+  "หัวใจสีส้ม": { "replacement": "🧡", "description": "orange heart" },
+  "หัวใจสีเหลือง": { "replacement": "💛", "description": "yellow heart" },
+  "หัวใจสีเขียว": { "replacement": "💚", "description": "green heart" },
+  "หัวใจสีฟ้า": { "replacement": "💙", "description": "blue heart" },
+  "หัวใจสีม่วง": { "replacement": "💜", "description": "purple heart" },
+  "หัวใจสีน้ำตาล": { "replacement": "🤎", "description": "brown heart" },
+  "ใจดำ": { "replacement": "🖤", "description": "black heart" },
+  "หัวใจสีขาว": { "replacement": "🤍", "description": "white heart" },
+  "บูม": { "replacement": "💥", "description": "collision" },
+  "เวียนหัว": { "replacement": "💫", "description": "dizzy" },
+  "หยดเหงื่อ": { "replacement": "💦", "description": "sweat droplets" },
+  "เส้นประ": { "replacement": "💨", "description": "dashing away" },
+  "หลุม": { "replacement": "🕳️", "description": "hole" },
+  "ระเบิด": { "replacement": "💣", "description": "bomb" },
+  "บอลลูนคำพูด": { "replacement": "💬", "description": "speech balloon" },
+  "ฟองคำพูดตา": { "replacement": "👁️‍🗨️", "description": "eye in speech bubble" },
+  "ฟองคำพูดด้านซ้าย": {
+    "replacement": "🗨️",
+    "description": "left speech bubble"
+  },
+  "ฟองความโกรธที่ถูกต้อง": {
+    "replacement": "🗯️",
+    "description": "right anger bubble"
+  },
+  "บอลลูนความคิด": { "replacement": "💭", "description": "thought balloon" },
+  "zzz": { "replacement": "💤", "description": "zzz" },
+  "คลื่น": { "replacement": "👋", "description": "waving hand" },
+  "ยกมือขึ้น": { "replacement": "🙋", "description": "person raising hand" },
+  "ยกมือขึ้นด้วยนิ้วที่กางออก": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "มือ": { "replacement": "✋", "description": "raised hand" },
+  "วัลแคนแสดงความยินดี": {
+    "replacement": "🖖",
+    "description": "vulcan salute"
+  },
+  "ตกลงมือ": { "replacement": "👌", "description": "OK hand" },
+  "นิ้วบีบ": { "replacement": "🤌", "description": "pinched fingers" },
+  "จับมือ": { "replacement": "🤝", "description": "handshake" },
+  "v": { "replacement": "✌️", "description": "victory hand" },
+  "ข้ามนิ้ว": { "replacement": "🤞", "description": "crossed fingers" },
+  "รักคุณท่าทาง": { "replacement": "🤟", "description": "love-you gesture" },
+  "โลหะ": { "replacement": "🤘", "description": "sign of the horns" },
+  "โทรหาฉัน": { "replacement": "🤙", "description": "call me hand" },
+  "ชี้ไปทางซ้าย": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "ชี้ไปทางขวา": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "ชี้ขึ้น 2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "นิ้วกลาง": { "replacement": "🖕", "description": "middle finger" },
+  "ชี้ลง": {
+    "replacement": "👇",
+    "description": "backhand index pointing down"
+  },
+  "ชี้ขึ้น": { "replacement": "☝️", "description": "index pointing up" },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "กำปั้น": { "replacement": "✊", "description": "raised fist" },
+  "กำปั้นกำลังมา": { "replacement": "👊", "description": "oncoming fist" },
+  "กำปั้นซ้าย": { "replacement": "🤛", "description": "left-facing fist" },
+  "กำปั้นขวา": { "replacement": "🤜", "description": "right-facing fist" },
+  "ปรบมือ": { "replacement": "🎬", "description": "clapper board" },
+  "เปิดมือ": { "replacement": "👐", "description": "open hands" },
+  "ฝ่ามือขึ้นด้วยกัน": {
+    "replacement": "🤲",
+    "description": "palms up together"
+  },
+  "อธิษฐาน": { "replacement": "🙏", "description": "folded hands" },
+  "เขียนมือ": { "replacement": "✍️", "description": "writing hand" },
+  "ดูแลเล็บ": { "replacement": "💅", "description": "nail polish" },
+  "เซลฟี่": { "replacement": "🤳", "description": "selfie" },
+  "กล้ามเนื้อ": { "replacement": "💪", "description": "flexed biceps" },
+  "แขนกล": { "replacement": "🦾", "description": "mechanical arm" },
+  "ขากล": { "replacement": "🦿", "description": "mechanical leg" },
+  "ขา": { "replacement": "🦵", "description": "leg" },
+  "เท้า": { "replacement": "🦶", "description": "foot" },
+  "หู": { "replacement": "👂", "description": "ear" },
+  "หูพร้อมเครื่องช่วยฟัง": {
+    "replacement": "🦻",
+    "description": "ear with hearing aid"
+  },
+  "จมูก": { "replacement": "👃", "description": "nose" },
+  "สมอง": { "replacement": "🧠", "description": "brain" },
+  "หัวใจทางกายวิภาค": { "replacement": "🫀", "description": "anatomical heart" },
+  "ปอด": { "replacement": "🫁", "description": "lungs" },
+  "ฟัน": { "replacement": "🦷", "description": "tooth" },
+  "กระดูก": { "replacement": "🦴", "description": "bone" },
+  "ตา": { "replacement": "👁️", "description": "eye" },
+  "ลิ้น": { "replacement": "👅", "description": "tongue" },
+  "ริมฝีปาก": { "replacement": "👄", "description": "mouth" },
+  "ทารก": { "replacement": "👶", "description": "baby" },
+  "เด็ก": { "replacement": "🧒", "description": "child" },
+  "เด็กชาย": { "replacement": "👦", "description": "boy" },
+  "สาว": { "replacement": "👧", "description": "girl" },
+  "ผู้ใหญ่": { "replacement": "🧑", "description": "person" },
+  "คนผมบลอนด์": { "replacement": "👱", "description": "person: blond hair" },
+  "ชาย": { "replacement": "👨", "description": "man" },
+  "คนมีเครา": { "replacement": "🧔", "description": "man: beard" },
+  "ชายผมแดง": { "replacement": "👨‍🦰", "description": "man: red hair" },
+  "ผู้ชายผมหยิก": { "replacement": "👨‍🦱", "description": "man: curly hair" },
+  "ชายผมขาว": { "replacement": "👨‍🦳", "description": "man: white hair" },
+  "คนหัวล้าน": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "ผู้หญิง": { "replacement": "🚺", "description": "women’s room" },
+  "ผู้หญิงผมแดง": { "replacement": "👩‍🦰", "description": "woman: red hair" },
+  "คนผมแดง": { "replacement": "🧑‍🦰", "description": "person: red hair" },
+  "ผู้หญิงผมหยิก": { "replacement": "👩‍🦱", "description": "woman: curly hair" },
+  "คนผมหยิก": { "replacement": "🧑‍🦱", "description": "person: curly hair" },
+  "ผู้หญิงผมขาว": { "replacement": "👩‍🦳", "description": "woman: white hair" },
+  "คนผมขาว": { "replacement": "🧑‍🦳", "description": "person: white hair" },
+  "ผู้หญิงหัวล้าน": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "ผู้หญิงผมบลอนด์": {
+    "replacement": "👱‍♀️",
+    "description": "woman: blond hair"
+  },
+  "ชายผมบลอนด์": { "replacement": "👱‍♂️", "description": "man: blond hair" },
+  "ผู้สูงอายุ": { "replacement": "🧓", "description": "older person" },
+  "ชายชรา": { "replacement": "👴", "description": "old man" },
+  "หญิงชรา": { "replacement": "👵", "description": "old woman" },
+  "คนหน้าบึ้ง": { "replacement": "🙍", "description": "person frowning" },
+  "ผู้ชายหน้าบึ้ง": { "replacement": "🙍‍♂️", "description": "man frowning" },
+  "ผู้หญิงหน้าบึ้ง": { "replacement": "🙍‍♀️", "description": "woman frowning" },
+  "หน้ามุ่ย": { "replacement": "🙎", "description": "person pouting" },
+  "ผู้ชายหน้ามุ่ย": { "replacement": "🙎‍♂️", "description": "man pouting" },
+  "ผู้หญิงหน้ามุ่ย": { "replacement": "🙎‍♀️", "description": "woman pouting" },
+  "ไม่ดี": { "replacement": "🙅", "description": "person gesturing NO" },
+  "ไม่มีคนดี": { "replacement": "🙅‍♂️", "description": "man gesturing NO" },
+  "ไม่มีผู้หญิงที่ดี": {
+    "replacement": "🙅‍♀️",
+    "description": "woman gesturing NO"
+  },
+  "ตกลงคน": { "replacement": "🙆", "description": "person gesturing OK" },
+  "ตกลงผู้ชาย": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "ตกลงผู้หญิง": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "คนให้ทิป": { "replacement": "💁‍♂️", "description": "man tipping hand" },
+  "ให้ทิปผู้หญิงมือ": {
+    "replacement": "💁‍♀️",
+    "description": "woman tipping hand"
+  },
+  "ยกมือคน": { "replacement": "🙋‍♂️", "description": "man raising hand" },
+  "ผู้หญิงยกมือ": { "replacement": "🙋‍♀️", "description": "woman raising hand" },
+  "คนหูหนวก": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "ผู้หญิงหูหนวก": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "คันธนู": { "replacement": "🙇", "description": "person bowing" },
+  "คนโค้งคำนับ": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "ผู้หญิงโค้งคำนับ": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "ใบหน้า": { "replacement": "🤦", "description": "person facepalming" },
+  "ผู้ชาย facepalming": {
+    "replacement": "🤦‍♂️",
+    "description": "man facepalming"
+  },
+  "ผู้หญิง facepalming": {
+    "replacement": "🤦‍♀️",
+    "description": "woman facepalming"
+  },
+  "ยัก": { "replacement": "🤷", "description": "person shrugging" },
+  "ผู้ชายยักไหล่": { "replacement": "🤷‍♂️", "description": "man shrugging" },
+  "ผู้หญิงยักไหล่": { "replacement": "🤷‍♀️", "description": "woman shrugging" },
+  "เจ้าหน้าที่สาธารณสุข": {
+    "replacement": "👨‍⚕️",
+    "description": "man health worker"
+  },
+  "เจ้าหน้าที่สาธารณสุขหญิง": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "นักเรียน": { "replacement": "🧑‍🎓", "description": "student" },
+  "นักเรียนชาย": { "replacement": "👨‍🎓", "description": "man student" },
+  "นักเรียนหญิง": { "replacement": "👩‍🎓", "description": "woman student" },
+  "ครู": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "ครูผู้ชาย": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "ครูผู้หญิง": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "ตัดสิน": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "คนตัดสิน": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "ผู้พิพากษาหญิง": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "ชาวนา": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "ชายชาวนา": { "replacement": "👨‍🌾", "description": "man farmer" },
+  "ชาวนาหญิง": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "ปรุงอาหาร": { "replacement": "🧑‍🍳", "description": "cook" },
+  "คนทำอาหาร": { "replacement": "👨‍🍳", "description": "man cook" },
+  "หญิงปรุงอาหาร": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "ช่าง": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "ช่างคน": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "ช่างผู้หญิง": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "คนงานโรงงาน": { "replacement": "🧑‍🏭", "description": "factory worker" },
+  "คนงานในโรงงาน": { "replacement": "👨‍🏭", "description": "man factory worker" },
+  "คนงานโรงงานหญิง": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "พนักงานออฟฟิศ": { "replacement": "👨‍💼", "description": "man office worker" },
+  "พนักงานออฟฟิศหญิง": {
+    "replacement": "👩‍💼",
+    "description": "woman office worker"
+  },
+  "นักวิทยาศาสตร์": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "นักวิทยาศาสตร์ชาย": { "replacement": "👨‍🔬", "description": "man scientist" },
+  "นักวิทยาศาสตร์หญิง": {
+    "replacement": "👩‍🔬",
+    "description": "woman scientist"
+  },
+  "นักเทคโนโลยี": { "replacement": "🧑‍💻", "description": "technologist" },
+  "นักเทคโนโลยีชาย": { "replacement": "👨‍💻", "description": "man technologist" },
+  "นักเทคโนโลยีหญิง": {
+    "replacement": "👩‍💻",
+    "description": "woman technologist"
+  },
+  "นักร้อง": { "replacement": "🧑‍🎤", "description": "singer" },
+  "นักร้องชาย": { "replacement": "👨‍🎤", "description": "man singer" },
+  "นักร้องหญิง": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "ศิลปิน": { "replacement": "🧑‍🎨", "description": "artist" },
+  "ศิลปินชาย": { "replacement": "👨‍🎨", "description": "man artist" },
+  "ศิลปินหญิง": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "นักบิน": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "นักบินคน": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "นักบินหญิง": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "นักบินอวกาศ": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "มนุษย์อวกาศ": { "replacement": "👨‍🚀", "description": "man astronaut" },
+  "นักบินอวกาศหญิง": { "replacement": "👩‍🚀", "description": "woman astronaut" },
+  "นักผจญเพลิง": { "replacement": "🧑‍🚒", "description": "firefighter" },
+  "นักดับเพลิงชาย": { "replacement": "👨‍🚒", "description": "man firefighter" },
+  "นักดับเพลิงหญิง": {
+    "replacement": "👩‍🚒",
+    "description": "woman firefighter"
+  },
+  "เจ้าหน้าที่ตำรวจ": { "replacement": "👮", "description": "police officer" },
+  "ตำรวจ": { "replacement": "👮‍♂️", "description": "man police officer" },
+  "ตำรวจหญิง": { "replacement": "👮‍♀️", "description": "woman police officer" },
+  "นักสืบ": { "replacement": "🕵️", "description": "detective" },
+  "นักสืบชาย": { "replacement": "🕵️‍♂️", "description": "man detective" },
+  "นักสืบหญิง": { "replacement": "🕵️‍♀️", "description": "woman detective" },
+  "ยาม": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "องครักษ์": { "replacement": "💂‍♂️", "description": "man guard" },
+  "นินจา": { "replacement": "🥷", "description": "ninja" },
+  "คนงานก่อสร้าง": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "หญิงคนงานก่อสร้าง": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "เจ้าชาย": { "replacement": "🤴", "description": "prince" },
+  "เจ้าหญิง": { "replacement": "👸", "description": "princess" },
+  "คนที่มีผ้าโพกหัว": {
+    "replacement": "👳",
+    "description": "person wearing turban"
+  },
+  "ผู้ชายที่มีผ้าโพกหัว": {
+    "replacement": "👳‍♂️",
+    "description": "man wearing turban"
+  },
+  "ผู้หญิงที่มีผ้าโพกหัว": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "ผู้ชายกับกัวปี่เหมา": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "ผู้หญิงที่มีผ้าคลุมศีรษะ": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "คนในทักซิโด้": { "replacement": "🤵", "description": "person in tuxedo" },
+  "ผู้ชายในชุดทักซิโด้": {
+    "replacement": "🤵‍♂️",
+    "description": "man in tuxedo"
+  },
+  "ผู้หญิงในชุดทักซิโด้": {
+    "replacement": "🤵‍♀️",
+    "description": "woman in tuxedo"
+  },
+  "คนที่มีผ้าคลุมหน้า": {
+    "replacement": "👰",
+    "description": "person with veil"
+  },
+  "ผู้ชายที่มีผ้าคลุมหน้า": {
+    "replacement": "👰‍♂️",
+    "description": "man with veil"
+  },
+  "ผู้หญิงที่มีผ้าคลุมหน้า": {
+    "replacement": "👰‍♀️",
+    "description": "woman with veil"
+  },
+  "หญิงตั้งครรภ์": { "replacement": "🤰", "description": "pregnant woman" },
+  "ให้นมบุตร": { "replacement": "🤱", "description": "breast-feeding" },
+  "ผู้หญิงให้นมลูก": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "ผู้ชายให้นมลูก": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "คนให้นมลูก": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "นางฟ้า": { "replacement": "🧚", "description": "fairy" },
+  "ซานต้า": { "replacement": "🎅", "description": "Santa Claus" },
+  "นางอนุประโยค": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "คำสั่ง mx": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "ซูเปอร์ฮีโร่": { "replacement": "🦸", "description": "superhero" },
+  "ชายในดวงใจ": { "replacement": "🦸‍♂️", "description": "man superhero" },
+  "ผู้หญิงในดวงใจ": { "replacement": "🦸‍♀️", "description": "woman superhero" },
+  "supervillain": { "replacement": "🦹", "description": "supervillain" },
+  "ผู้ชาย supervillain": {
+    "replacement": "🦹‍♂️",
+    "description": "man supervillain"
+  },
+  "ผู้หญิง supervillain": {
+    "replacement": "🦹‍♀️",
+    "description": "woman supervillain"
+  },
+  "นักเวทย์": { "replacement": "🧙", "description": "mage" },
+  "ผู้วิเศษ": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "ผู้วิเศษหญิง": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "มนุษย์นางฟ้า": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "นางฟ้าหญิง": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "แวมไพร์": { "replacement": "🧛", "description": "vampire" },
+  "มนุษย์แวมไพร์": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "แวมไพร์หญิง": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "Merperson": { "replacement": "🧜", "description": "merperson" },
+  "เงือก": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "เอลฟ์": { "replacement": "🧝", "description": "elf" },
+  "มนุษย์เอลฟ์": { "replacement": "🧝‍♂️", "description": "man elf" },
+  "ผู้หญิงเอลฟ์": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "มาร": { "replacement": "🧞", "description": "genie" },
+  "มนุษย์มาร": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "ผู้หญิงมาร": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "ซอมบี้": { "replacement": "🧟", "description": "zombie" },
+  "มนุษย์ซอมบี้": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "ผู้หญิงซอมบี้": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "นวด": { "replacement": "💆", "description": "person getting massage" },
+  "คนนวด": { "replacement": "💆‍♂️", "description": "man getting massage" },
+  "ผู้หญิงนวด": { "replacement": "💆‍♀️", "description": "woman getting massage" },
+  "ตัดผม": { "replacement": "💇", "description": "person getting haircut" },
+  "คนตัดผม": { "replacement": "💇‍♂️", "description": "man getting haircut" },
+  "ผู้หญิงตัดผม": {
+    "replacement": "💇‍♀️",
+    "description": "woman getting haircut"
+  },
+  "ที่เดิน": { "replacement": "🚶", "description": "person walking" },
+  "คนเดิน": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "ผู้หญิงเดิน": { "replacement": "🚶‍♀️", "description": "woman walking" },
+  "คนยืน": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "ผู้หญิงยืน": { "replacement": "🧍‍♀️", "description": "woman standing" },
+  "คนคุกเข่า": { "replacement": "🧎‍♂️", "description": "man kneeling" },
+  "ผู้หญิงคุกเข่า": { "replacement": "🧎‍♀️", "description": "woman kneeling" },
+  "คนที่มีไม้เท้าตรวจสอบ": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "ผู้หญิงที่มีไม้เท้า": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "คนในรถเข็นคนพิการ": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "ผู้ชายในรถเข็นคนพิการ": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "ผู้หญิงในรถเข็นคนพิการ": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "คนในรถเข็นคนพิการด้วยตนเอง": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "ผู้หญิงนั่งรถเข็นคนพิการ": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "นักวิ่ง": { "replacement": "🏃‍♂️", "description": "man running" },
+  "วิ่งผู้หญิง": { "replacement": "🏃‍♀️", "description": "woman running" },
+  "ผู้หญิงกำลังเต้นรำ": { "replacement": "💃", "description": "woman dancing" },
+  "ผู้ชายกำลังเต้นรำ": { "replacement": "🕺", "description": "man dancing" },
+  "ชุดสูทธุรกิจลอย": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "นักเต้น": { "replacement": "👯", "description": "people with bunny ears" },
+  "ผู้ชายเต้น": { "replacement": "👯‍♂️", "description": "men with bunny ears" },
+  "ผู้หญิงเต้นรำ": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "คนซาวน่า": { "replacement": "🧖‍♂️", "description": "man in steamy room" },
+  "ผู้หญิงซาวน่า": {
+    "replacement": "🧖‍♀️",
+    "description": "woman in steamy room"
+  },
+  "ปีนเขา": { "replacement": "🧗", "description": "person climbing" },
+  "คนปีนเขา": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "หญิงปีนเขา": { "replacement": "🧗‍♀️", "description": "woman climbing" },
+  "คนฟันดาบ": { "replacement": "🤺", "description": "person fencing" },
+  "การแข่งม้า": { "replacement": "🏇", "description": "horse racing" },
+  "นักเล่นสกี": { "replacement": "⛷️", "description": "skier" },
+  "นักสโนว์บอร์ด": { "replacement": "🏂", "description": "snowboarder" },
+  "การเล่นกอล์ฟ": { "replacement": "🏌️", "description": "person golfing" },
+  "คนเล่นกอล์ฟ": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "ผู้หญิงเล่นกอล์ฟ": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "นักท่อง": { "replacement": "🏄", "description": "person surfing" },
+  "ท่องผู้ชาย": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "ท่องผู้หญิง": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "เรือพาย": { "replacement": "🚣", "description": "person rowing boat" },
+  "คนพายเรือ": { "replacement": "🚣‍♂️", "description": "man rowing boat" },
+  "ผู้หญิงพายเรือ": { "replacement": "🚣‍♀️", "description": "woman rowing boat" },
+  "นักว่ายน้ำ": { "replacement": "🏊", "description": "person swimming" },
+  "คนว่ายน้ำ": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "ผู้หญิงว่ายน้ำ": { "replacement": "🏊‍♀️", "description": "woman swimming" },
+  "คนลูกบอลใหญ่": { "replacement": "⛹️‍♂️", "description": "man bouncing ball" },
+  "ผู้หญิงลูกใหญ่": {
+    "replacement": "⛹️‍♀️",
+    "description": "woman bouncing ball"
+  },
+  "การยกน้ำหนัก": {
+    "replacement": "🏋️",
+    "description": "person lifting weights"
+  },
+  "คนยกน้ำหนัก": { "replacement": "🏋️‍♂️", "description": "man lifting weights" },
+  "ผู้หญิงยกน้ำหนัก": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "นักปั่นจักรยาน": { "replacement": "🚴", "description": "person biking" },
+  "คนขี่จักรยาน": { "replacement": "🚴‍♂️", "description": "man biking" },
+  "ผู้หญิงขี่จักรยาน": { "replacement": "🚴‍♀️", "description": "woman biking" },
+  "นักปั่นจักรยานเสือภูเขา": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "คนขี่จักรยานเสือภูเขา": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "ผู้หญิงปั่นจักรยานเสือภูเขา": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "เกวียน": { "replacement": "🤸", "description": "person cartwheeling" },
+  "รถเข็นคน": { "replacement": "🤸‍♂️", "description": "man cartwheeling" },
+  "ผู้หญิงเกวียน": { "replacement": "🤸‍♀️", "description": "woman cartwheeling" },
+  "มวยปล้ำ": { "replacement": "🤼", "description": "people wrestling" },
+  "ผู้ชายมวยปล้ำ": { "replacement": "🤼‍♂️", "description": "men wrestling" },
+  "มวยปล้ำหญิง": { "replacement": "🤼‍♀️", "description": "women wrestling" },
+  "โปโลน้ำ": {
+    "replacement": "🤽",
+    "description": "person playing water polo"
+  },
+  "ผู้ชายกำลังเล่นโปโลน้ำ": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "ผู้หญิงกำลังเล่นโปโลน้ำ": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "คนแฮนด์บอล": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "ผู้ชายกำลังเล่นแฮนด์บอล": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "ผู้หญิงกำลังเล่นแฮนด์บอล": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "คนเล่นกล": { "replacement": "🤹", "description": "person juggling" },
+  "ผู้ชายเล่นกล": { "replacement": "🤹‍♂️", "description": "man juggling" },
+  "ผู้หญิงเล่นกล": { "replacement": "🤹‍♀️", "description": "woman juggling" },
+  "ตำแหน่งดอกบัว": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "คนตำแหน่งดอกบัว": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "บัวตำแหน่งหญิง": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "อาบน้ำ": { "replacement": "🚿", "description": "shower" },
+  "นอนเตียง": { "replacement": "🛌", "description": "person in bed" },
+  "คนจับมือกัน": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "ผู้หญิงสองคนจับมือกัน": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "คู่": { "replacement": "👫", "description": "woman and man holding hands" },
+  "ผู้ชายสองคนจับมือกัน": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "คู่รัก": { "replacement": "💏", "description": "kiss" },
+  "couplekiss ชายหญิง": {
+    "replacement": "👩‍❤️‍💋‍👨",
+    "description": "kiss: woman, man"
+  },
+  "couplekiss man man": {
+    "replacement": "👨‍❤️‍💋‍👨",
+    "description": "kiss: man, man"
+  },
+  "couplekiss ผู้หญิงผู้หญิง": {
+    "replacement": "👩‍❤️‍💋‍👩",
+    "description": "kiss: woman, woman"
+  },
+  "คู่กับหัวใจ": { "replacement": "💑", "description": "couple with heart" },
+  "คู่กับชายหญิงหัวใจ": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "คู่กับผู้ชายหัวใจ": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "คู่กับผู้หญิงหัวใจ": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "ครอบครัว": { "replacement": "👪", "description": "family" },
+  "ครอบครัวชายหญิงเด็กชาย": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "ครอบครัวชายหญิงสาว": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "ครอบครัวผู้ชายผู้หญิงเด็กผู้หญิง": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "ครอบครัวชายหญิงเด็กชายเด็กชาย": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "ครอบครัวผู้ชาย": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "ครอบครัวชายหญิง": {
+    "replacement": "👨‍👧‍👦",
+    "description": "family: man, girl, boy"
+  },
+  "คนในครอบครัวผู้ชายเด็กผู้หญิง": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "คนในครอบครัวผู้ชายเด็กผู้ชาย": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "ครอบครัวหญิงหญิงเด็กชาย": {
+    "replacement": "👩‍👩‍👦",
+    "description": "family: woman, woman, boy"
+  },
+  "ครอบครัวหญิงหญิงสาว": {
+    "replacement": "👩‍👩‍👧",
+    "description": "family: woman, woman, girl"
+  },
+  "ครอบครัวหญิงหญิงเด็กผู้ชาย": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "ครอบครัวหญิงหญิงเด็กชายเด็กชาย": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "ครอบครัวหญิงสาวหญิงสาว": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "เด็กชายครอบครัว": { "replacement": "👨‍👦", "description": "family: man, boy" },
+  "คนในครอบครัวเด็กชายเด็กชาย": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "สาวครอบครัว": { "replacement": "👨‍👧", "description": "family: man, girl" },
+  "เด็กชายหญิงครอบครัว": {
+    "replacement": "👩‍👦",
+    "description": "family: woman, boy"
+  },
+  "ครอบครัวหญิงเด็กชายเด็กชาย": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "หญิงสาวในครอบครัว": {
+    "replacement": "👩‍👧",
+    "description": "family: woman, girl"
+  },
+  "ครอบครัวหญิงสาวเด็กชาย": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "ครอบครัวหญิงสาว": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "พูดหัว": { "replacement": "🗣️", "description": "speaking head" },
+  "หน้าอกเป็นเงา": {
+    "replacement": "👥",
+    "description": "busts in silhouette"
+  },
+  "คนกอด": { "replacement": "🫂", "description": "people hugging" },
+  "รอยเท้า": { "replacement": "👣", "description": "footprints" },
+  "หน้าลิง": { "replacement": "🐵", "description": "monkey face" },
+  "ลิง": { "replacement": "🐒", "description": "monkey" },
+  "กอริลลา": { "replacement": "🦍", "description": "gorilla" },
+  "ลิงอุรังอุตัง": { "replacement": "🦧", "description": "orangutan" },
+  "หมา": { "replacement": "🐶", "description": "dog face" },
+  "สุนัข 2": { "replacement": "🐕", "description": "dog" },
+  "สุนัขนำทาง": { "replacement": "🦮", "description": "guide dog" },
+  "สุนัขบริการ": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "พุดเดิ้ล": { "replacement": "🐩", "description": "poodle" },
+  "หมาป่า": { "replacement": "🐺", "description": "wolf" },
+  "ใบหน้าสุนัขจิ้งจอก": { "replacement": "🦊", "description": "fox" },
+  "แรคคูน": { "replacement": "🦝", "description": "raccoon" },
+  "แมว": { "replacement": "🐱", "description": "cat face" },
+  "cat2": { "replacement": "🐈", "description": "cat" },
+  "แมวดำ": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "สิงโต": { "replacement": "🦁", "description": "lion" },
+  "เสือ": { "replacement": "🐯", "description": "tiger face" },
+  "เสือ 2": { "replacement": "🐅", "description": "tiger" },
+  "เสือดาว": { "replacement": "🐆", "description": "leopard" },
+  "ม้า": { "replacement": "🐴", "description": "horse face" },
+  "ม้าแข่ง": { "replacement": "🐎", "description": "horse" },
+  "ยูนิคอร์น": { "replacement": "🦄", "description": "unicorn" },
+  "ม้าลาย": { "replacement": "🦓", "description": "zebra" },
+  "กวาง": { "replacement": "🦌", "description": "deer" },
+  "วัวกระทิง": { "replacement": "🦬", "description": "bison" },
+  "วัว": { "replacement": "🐂", "description": "ox" },
+  "ควาย": { "replacement": "🐃", "description": "water buffalo" },
+  "วัว 2": { "replacement": "🐄", "description": "cow" },
+  "หมู": { "replacement": "🐷", "description": "pig face" },
+  "หมู 2": { "replacement": "🐖", "description": "pig" },
+  "หมูป่า": { "replacement": "🐗", "description": "boar" },
+  "จมูกหมู": { "replacement": "🐽", "description": "pig nose" },
+  "แกะ": { "replacement": "🐑", "description": "ewe" },
+  "แพะ": { "replacement": "🐐", "description": "goat" },
+  "อูฐหนอก": { "replacement": "🐪", "description": "camel" },
+  "อูฐ": { "replacement": "🐫", "description": "two-hump camel" },
+  "ลามา": { "replacement": "🦙", "description": "llama" },
+  "ยีราฟ": { "replacement": "🦒", "description": "giraffe" },
+  "ช้าง": { "replacement": "🐘", "description": "elephant" },
+  "แมมมอ ธ": { "replacement": "🦣", "description": "mammoth" },
+  "แรด": { "replacement": "🦏", "description": "rhinoceros" },
+  "ฮิปโปโปเตมัส": { "replacement": "🦛", "description": "hippopotamus" },
+  "เมาส์": { "replacement": "🐭", "description": "mouse face" },
+  "เมาส์ 2": { "replacement": "🐁", "description": "mouse" },
+  "หนู": { "replacement": "🐀", "description": "rat" },
+  "หนูแฮมสเตอร์": { "replacement": "🐹", "description": "hamster" },
+  "กระต่าย": { "replacement": "🐰", "description": "rabbit face" },
+  "กระต่าย 2": { "replacement": "🐇", "description": "rabbit" },
+  "กระแต": { "replacement": "🐿️", "description": "chipmunk" },
+  "บีเวอร์": { "replacement": "🦫", "description": "beaver" },
+  "เม่น": { "replacement": "🦔", "description": "hedgehog" },
+  "ค้างคาว": { "replacement": "🦇", "description": "bat" },
+  "หมี": { "replacement": "🐻", "description": "bear" },
+  "หมีขั้วโลก": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "โคอาล่า": { "replacement": "🐨", "description": "koala" },
+  "หน้าแพนด้า": { "replacement": "🐼", "description": "panda" },
+  "เฉื่อยชา": { "replacement": "🦥", "description": "sloth" },
+  "นาก": { "replacement": "🦦", "description": "otter" },
+  "เหม็น": { "replacement": "🦨", "description": "skunk" },
+  "จิงโจ้": { "replacement": "🦘", "description": "kangaroo" },
+  "แบดเจอร์": { "replacement": "🦡", "description": "badger" },
+  "ฟุต": { "replacement": "🐾", "description": "paw prints" },
+  "ไก่งวง": { "replacement": "🦃", "description": "turkey" },
+  "ไก่": { "replacement": "🐓", "description": "rooster" },
+  "ฟักลูกเจี๊ยบ": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "ลูกเจี๊ยบ": { "replacement": "🐤", "description": "baby chick" },
+  "นก": { "replacement": "🐦", "description": "bird" },
+  "เพนกวิน": { "replacement": "🐧", "description": "penguin" },
+  "นกพิราบ": { "replacement": "🕊️", "description": "dove" },
+  "นกอินทรี": { "replacement": "🦅", "description": "eagle" },
+  "เป็ด": { "replacement": "🦆", "description": "duck" },
+  "หงส์": { "replacement": "🦢", "description": "swan" },
+  "นกฮูก": { "replacement": "🦉", "description": "owl" },
+  "โดโด": { "replacement": "🦤", "description": "dodo" },
+  "ขน": { "replacement": "🪶", "description": "feather" },
+  "นกกระเรียน": { "replacement": "🦩", "description": "flamingo" },
+  "นกยูง": { "replacement": "🦚", "description": "peacock" },
+  "นกแก้ว": { "replacement": "🦜", "description": "parrot" },
+  "กบ": { "replacement": "🐸", "description": "frog" },
+  "จระเข้": { "replacement": "🐊", "description": "crocodile" },
+  "เต่า": { "replacement": "🐢", "description": "turtle" },
+  "จิ้งจก": { "replacement": "🦎", "description": "lizard" },
+  "งู": { "replacement": "🐍", "description": "snake" },
+  "หน้ามังกร": { "replacement": "🐲", "description": "dragon face" },
+  "มังกร": { "replacement": "🐉", "description": "dragon" },
+  "sauropod": { "replacement": "🦕", "description": "sauropod" },
+  "t-rex": { "replacement": "🦖", "description": "T-Rex" },
+  "ปลาวาฬ": { "replacement": "🐳", "description": "spouting whale" },
+  "ปลาวาฬ 2": { "replacement": "🐋", "description": "whale" },
+  "ปลาโลมา": { "replacement": "🐬", "description": "dolphin" },
+  "ซีล": { "replacement": "🦭", "description": "seal" },
+  "ปลา": { "replacement": "🐟", "description": "fish" },
+  "ปลาเขตร้อน": { "replacement": "🐠", "description": "tropical fish" },
+  "ปักเป้า": { "replacement": "🐡", "description": "blowfish" },
+  "ฉลาม": { "replacement": "🦈", "description": "shark" },
+  "ปลาหมึกยักษ์": { "replacement": "🐙", "description": "octopus" },
+  "เปลือก": { "replacement": "🐚", "description": "spiral shell" },
+  "หอยทาก": { "replacement": "🐌", "description": "snail" },
+  "ผีเสื้อ": { "replacement": "🦋", "description": "butterfly" },
+  "จุดบกพร่อง": { "replacement": "🐛", "description": "bug" },
+  "มด": { "replacement": "🐜", "description": "ant" },
+  "ผึ้ง": { "replacement": "🐝", "description": "honeybee" },
+  "ด้วง": { "replacement": "🪲", "description": "beetle" },
+  "เลดี้ด้วง": { "replacement": "🐞", "description": "lady beetle" },
+  "คริกเก็ต": { "replacement": "🦗", "description": "cricket" },
+  "แมลงสาบ": { "replacement": "🪳", "description": "cockroach" },
+  "แมงมุม": { "replacement": "🕷️", "description": "spider" },
+  "ใยแมงมุม": { "replacement": "🕸️", "description": "spider web" },
+  "แมงป่อง": { "replacement": "♏", "description": "Scorpio" },
+  "ยุง": { "replacement": "🦟", "description": "mosquito" },
+  "บิน": { "replacement": "🪰", "description": "fly" },
+  "หนอน": { "replacement": "🪱", "description": "worm" },
+  "จุลินทรีย์": { "replacement": "🦠", "description": "microbe" },
+  "ช่อดอกไม้": { "replacement": "💐", "description": "bouquet" },
+  "ดอกซากุระ": { "replacement": "🌸", "description": "cherry blossom" },
+  "ดอกไม้สีขาว": { "replacement": "💮", "description": "white flower" },
+  "ดอกกุหลาบ": { "replacement": "🌹", "description": "rose" },
+  "ดอกไม้ร่วงโรย": { "replacement": "🥀", "description": "wilted flower" },
+  "ชบา": { "replacement": "🌺", "description": "hibiscus" },
+  "ดอกทานตะวัน": { "replacement": "🌻", "description": "sunflower" },
+  "เบ่งบาน": { "replacement": "🌼", "description": "blossom" },
+  "ทิวลิป": { "replacement": "🌷", "description": "tulip" },
+  "ต้นกล้า": { "replacement": "🌱", "description": "seedling" },
+  "ไม้กระถาง": { "replacement": "🪴", "description": "potted plant" },
+  "ต้นไม้เขียวชอุ่มตลอดปี": {
+    "replacement": "🌲",
+    "description": "evergreen tree"
+  },
+  "ต้นไม้ผลัดใบ": { "replacement": "🌳", "description": "deciduous tree" },
+  "ต้นปาล์ม": { "replacement": "🌴", "description": "palm tree" },
+  "ต้นกระบองเพชร": { "replacement": "🌵", "description": "cactus" },
+  "รวงข้าว": { "replacement": "🌾", "description": "sheaf of rice" },
+  "สมุนไพร": { "replacement": "🌿", "description": "herb" },
+  "แชมร็อก": { "replacement": "☘️", "description": "shamrock" },
+  "โคลเวอร์สี่ใบ": { "replacement": "🍀", "description": "four leaf clover" },
+  "ใบเมเปิล": { "replacement": "🍁", "description": "maple leaf" },
+  "ใบไม้ร่วง": { "replacement": "🍂", "description": "fallen leaf" },
+  "ใบไม้": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "องุ่น": { "replacement": "🍇", "description": "grapes" },
+  "แตงโม": { "replacement": "🍉", "description": "watermelon" },
+  "ส้มเขียวหวาน": { "replacement": "🍊", "description": "tangerine" },
+  "มะนาว": { "replacement": "🍋", "description": "lemon" },
+  "กล้วย": { "replacement": "🍌", "description": "banana" },
+  "สัปปะรด": { "replacement": "🍍", "description": "pineapple" },
+  "มะม่วง": { "replacement": "🥭", "description": "mango" },
+  "แอปเปิ้ล": { "replacement": "🍎", "description": "red apple" },
+  "แอปเปิ้ลเขียว": { "replacement": "🍏", "description": "green apple" },
+  "ลูกแพร์": { "replacement": "🍐", "description": "pear" },
+  "ลูกพีช": { "replacement": "🍑", "description": "peach" },
+  "เชอร์รี่": { "replacement": "🍒", "description": "cherries" },
+  "สตรอเบอร์รี่": { "replacement": "🍓", "description": "strawberry" },
+  "บลูเบอร์รี่": { "replacement": "🫐", "description": "blueberries" },
+  "กีวี่": { "replacement": "🥝", "description": "kiwi fruit" },
+  "มะเขือเทศ": { "replacement": "🍅", "description": "tomato" },
+  "มะกอก": { "replacement": "🫒", "description": "olive" },
+  "มะพร้าว": { "replacement": "🥥", "description": "coconut" },
+  "อาโวคาโด": { "replacement": "🥑", "description": "avocado" },
+  "มะเขือ": { "replacement": "🍆", "description": "eggplant" },
+  "มันฝรั่ง": { "replacement": "🥔", "description": "potato" },
+  "แครอท": { "replacement": "🥕", "description": "carrot" },
+  "ข้าวโพด": { "replacement": "🌽", "description": "ear of corn" },
+  "พริกขี้หนู": { "replacement": "🌶️", "description": "hot pepper" },
+  "พริกหยวก": { "replacement": "🫑", "description": "bell pepper" },
+  "แตงกวา": { "replacement": "🥒", "description": "cucumber" },
+  "ใบเขียว": { "replacement": "🥬", "description": "leafy green" },
+  "บร็อคโคลี": { "replacement": "🥦", "description": "broccoli" },
+  "กระเทียม": { "replacement": "🧄", "description": "garlic" },
+  "หัวหอม": { "replacement": "🧅", "description": "onion" },
+  "เห็ด": { "replacement": "🍄", "description": "mushroom" },
+  "ถั่ว": { "replacement": "🥜", "description": "peanuts" },
+  "เกาลัด": { "replacement": "🌰", "description": "chestnut" },
+  "ขนมปัง": { "replacement": "🍞", "description": "bread" },
+  "ครัวซองต์": { "replacement": "🥐", "description": "croissant" },
+  "ขนมปังบาแกตต์": { "replacement": "🥖", "description": "baguette bread" },
+  "ขนมปังแบน": { "replacement": "🫓", "description": "flatbread" },
+  "เพรทเซล": { "replacement": "🥨", "description": "pretzel" },
+  "เบเกิล": { "replacement": "🥯", "description": "bagel" },
+  "แพนเค้ก": { "replacement": "🥞", "description": "pancakes" },
+  "วาฟเฟิล": { "replacement": "🧇", "description": "waffle" },
+  "ชีส": { "replacement": "🧀", "description": "cheese wedge" },
+  "เนื้อติดกระดูก": { "replacement": "🍖", "description": "meat on bone" },
+  "ขาสัตว์ปีก": { "replacement": "🍗", "description": "poultry leg" },
+  "ตัดเนื้อ": { "replacement": "🥩", "description": "cut of meat" },
+  "เบคอน": { "replacement": "🥓", "description": "bacon" },
+  "แฮมเบอร์เกอร์": { "replacement": "🍔", "description": "hamburger" },
+  "ทอด": { "replacement": "🍟", "description": "french fries" },
+  "พิซซ่า": { "replacement": "🍕", "description": "pizza" },
+  "ฮอทดอก": { "replacement": "🌭", "description": "hot dog" },
+  "แซนวิช": { "replacement": "🥪", "description": "sandwich" },
+  "ทาโก้": { "replacement": "🌮", "description": "taco" },
+  "เบอร์ริโต": { "replacement": "🌯", "description": "burrito" },
+  "ทามาเล่": { "replacement": "🫔", "description": "tamale" },
+  "ขนมปังแบนยัดไส้": {
+    "replacement": "🥙",
+    "description": "stuffed flatbread"
+  },
+  "Falafel": { "replacement": "🧆", "description": "falafel" },
+  "ไข่": { "replacement": "🥚", "description": "egg" },
+  "ไข่ดาว": { "replacement": "🍳", "description": "cooking" },
+  "กระทะตื้น": { "replacement": "🥘", "description": "shallow pan of food" },
+  "สตูว์": { "replacement": "🍲", "description": "pot of food" },
+  "ฟองดู": { "replacement": "🫕", "description": "fondue" },
+  "ชามช้อน": { "replacement": "🥣", "description": "bowl with spoon" },
+  "สลัดผัก": { "replacement": "🥗", "description": "green salad" },
+  "ป๊อปคอร์น": { "replacement": "🍿", "description": "popcorn" },
+  "เนย": { "replacement": "🧈", "description": "butter" },
+  "เกลือ": { "replacement": "🧂", "description": "salt" },
+  "อาหารกระป๋อง": { "replacement": "🥫", "description": "canned food" },
+  "เบนโตะ": { "replacement": "🍱", "description": "bento box" },
+  "ข้าวเกรียบปากหม้อ": { "replacement": "🍘", "description": "rice cracker" },
+  "ข้าวปั้น": { "replacement": "🍙", "description": "rice ball" },
+  "ข้าว": { "replacement": "🍚", "description": "cooked rice" },
+  "แกง": { "replacement": "🍛", "description": "curry rice" },
+  "ราเม็ง": { "replacement": "🍜", "description": "steaming bowl" },
+  "อาหารอิตาลีเส้นยาว": { "replacement": "🍝", "description": "spaghetti" },
+  "มันเทศ": { "replacement": "🍠", "description": "roasted sweet potato" },
+  "โอเด้ง": { "replacement": "🍢", "description": "oden" },
+  "ซูชิ": { "replacement": "🍣", "description": "sushi" },
+  "กุ้งทอด": { "replacement": "🍤", "description": "fried shrimp" },
+  "เค้กปลา": { "replacement": "🍥", "description": "fish cake with swirl" },
+  "เค้กพระจันทร์": { "replacement": "🥮", "description": "moon cake" },
+  "Dango": { "replacement": "🍡", "description": "dango" },
+  "เกี๊ยว": { "replacement": "🥟", "description": "dumpling" },
+  "คุกกี้เสี่ยงทาย": { "replacement": "🥠", "description": "fortune cookie" },
+  "กล่องซื้อกลับบ้าน": { "replacement": "🥡", "description": "takeout box" },
+  "ปู": { "replacement": "🦀", "description": "crab" },
+  "ลอบสเตอร์": { "replacement": "🦞", "description": "lobster" },
+  "กุ้ง": { "replacement": "🦐", "description": "shrimp" },
+  "ปลาหมึก": { "replacement": "🦑", "description": "squid" },
+  "หอยนางรม": { "replacement": "🦪", "description": "oyster" },
+  "ไอศครีม": { "replacement": "🍨", "description": "ice cream" },
+  "น้ำแข็งไส": { "replacement": "🍧", "description": "shaved ice" },
+  "โดนัท": { "replacement": "🍩", "description": "doughnut" },
+  "คุกกี้": { "replacement": "🍪", "description": "cookie" },
+  "วันเกิด": { "replacement": "🎂", "description": "birthday cake" },
+  "เค้ก": { "replacement": "🍰", "description": "shortcake" },
+  "คัพเค้ก": { "replacement": "🧁", "description": "cupcake" },
+  "พาย": { "replacement": "🥧", "description": "pie" },
+  "แท่งชอคโคแลต": { "replacement": "🍫", "description": "chocolate bar" },
+  "ลูกอม": { "replacement": "🍬", "description": "candy" },
+  "อมยิ้ม": { "replacement": "🍭", "description": "lollipop" },
+  "คัสตาร์": { "replacement": "🍮", "description": "custard" },
+  "หม้อน้ำผึ้ง": { "replacement": "🍯", "description": "honey pot" },
+  "ขวดนม": { "replacement": "🍼", "description": "baby bottle" },
+  "แก้วนม": { "replacement": "🥛", "description": "glass of milk" },
+  "กาแฟ": { "replacement": "☕", "description": "hot beverage" },
+  "กาน้ำชา": { "replacement": "🫖", "description": "teapot" },
+  "ชา": { "replacement": "🍵", "description": "teacup without handle" },
+  "เหล้าสาเก": { "replacement": "🍶", "description": "sake" },
+  "แชมเปญ": { "replacement": "🍾", "description": "bottle with popping cork" },
+  "แก้วไวน์": { "replacement": "🍷", "description": "wine glass" },
+  "ค็อกเทล": { "replacement": "🍸", "description": "cocktail glass" },
+  "เครื่องดื่มเขตร้อน": {
+    "replacement": "🍹",
+    "description": "tropical drink"
+  },
+  "เบียร์": { "replacement": "⚗️", "description": "alembic" },
+  "แว่นตากริ๊ง": { "replacement": "🥂", "description": "clinking glasses" },
+  "แก้วน้ำ": { "replacement": "🥃", "description": "tumbler glass" },
+  "ถ้วยด้วยฟาง": { "replacement": "🥤", "description": "cup with straw" },
+  "ชาฟอง": { "replacement": "🧋", "description": "bubble tea" },
+  "กล่องเครื่องดื่ม": { "replacement": "🧃", "description": "beverage box" },
+  "เพื่อน": { "replacement": "🧉", "description": "mate" },
+  "ก้อนน้ำแข็ง": { "replacement": "🧊", "description": "ice" },
+  "ตะเกียบ": { "replacement": "🥢", "description": "chopsticks" },
+  "จานพร้อมช้อนส้อม": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "ส้อมและมีด": { "replacement": "🍴", "description": "fork and knife" },
+  "ช้อน": { "replacement": "🥄", "description": "spoon" },
+  "hocho": { "replacement": "🔪", "description": "kitchen knife" },
+  "โถ": { "replacement": "🏺", "description": "amphora" },
+  "แผ่นดินแอฟริกา": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "โลกอเมริกา": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "โลกเอเชีย": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "โลกที่มีเส้นเมอริเดียน": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "แผนที่โลก": { "replacement": "🗺️", "description": "world map" },
+  "ญี่ปุ่น": { "replacement": "🗾", "description": "map of Japan" },
+  "เข็มทิศ": { "replacement": "🧭", "description": "compass" },
+  "ภูเขาหิมะ": { "replacement": "🏔️", "description": "snow-capped mountain" },
+  "ภูเขา": { "replacement": "⛰️", "description": "mountain" },
+  "ภูเขาไฟ": { "replacement": "🌋", "description": "volcano" },
+  "ภูเขาฟูจิ": { "replacement": "🗻", "description": "mount fuji" },
+  "การตั้งแคมป์": { "replacement": "🏕️", "description": "camping" },
+  "ร่มชายหาด": { "replacement": "🏖️", "description": "beach with umbrella" },
+  "ทะเลทราย": { "replacement": "🏜️", "description": "desert" },
+  "เกาะทะเลทราย": { "replacement": "🏝️", "description": "desert island" },
+  "อุทยานแห่งชาติ": { "replacement": "🏞️", "description": "national park" },
+  "สนามกีฬา": { "replacement": "🏟️", "description": "stadium" },
+  "อาคารคลาสสิก": { "replacement": "🏛️", "description": "classical building" },
+  "การก่อสร้างอาคาร": {
+    "replacement": "🏗️",
+    "description": "building construction"
+  },
+  "อิฐ": { "replacement": "🧱", "description": "brick" },
+  "ร็อค": { "replacement": "🪨", "description": "rock" },
+  "ไม้": { "replacement": "🪵", "description": "wood" },
+  "กระท่อม": { "replacement": "🛖", "description": "hut" },
+  "บ้าน": { "replacement": "🏠", "description": "house" },
+  "บ้านร้าง": { "replacement": "🏚️", "description": "derelict house" },
+  "บ้านพร้อมสวน": { "replacement": "🏡", "description": "house with garden" },
+  "สำนักงาน": { "replacement": "🏢", "description": "office building" },
+  "ที่ทำการไปรษณีย์": {
+    "replacement": "🏣",
+    "description": "Japanese post office"
+  },
+  "ที่ทำการไปรษณีย์ยุโรป": {
+    "replacement": "🏤",
+    "description": "post office"
+  },
+  "โรงพยาบาล": { "replacement": "🏥", "description": "hospital" },
+  "ธนาคาร": { "replacement": "🏦", "description": "bank" },
+  "โรงแรม": { "replacement": "🏨", "description": "hotel" },
+  "รักโรงแรม": { "replacement": "🏩", "description": "love hotel" },
+  "ร้านสะดวกซื้อ": { "replacement": "🏪", "description": "convenience store" },
+  "โรงเรียน": { "replacement": "🏫", "description": "school" },
+  "ห้างสรรพสินค้า": { "replacement": "🏬", "description": "department store" },
+  "โรงงาน": { "replacement": "🏭", "description": "factory" },
+  "ปราสาทญี่ปุ่น": { "replacement": "🏯", "description": "Japanese castle" },
+  "ปราสาทยุโรป": { "replacement": "🏰", "description": "castle" },
+  "งานแต่งงาน": { "replacement": "💒", "description": "wedding" },
+  "โตเกียวทาวเวอร์": { "replacement": "🗼", "description": "Tokyo tower" },
+  "เทพีเสรีภาพ": { "replacement": "🗽", "description": "Statue of Liberty" },
+  "คริสตจักร": { "replacement": "⛪", "description": "church" },
+  "มัสยิด": { "replacement": "🕌", "description": "mosque" },
+  "วิหารฮินดู": { "replacement": "🛕", "description": "hindu temple" },
+  "ธรรมศาลา": { "replacement": "🕍", "description": "synagogue" },
+  "ศาลเจ้าชินโต": { "replacement": "⛩️", "description": "shinto shrine" },
+  "กะอ์บะฮ์": { "replacement": "🕋", "description": "kaaba" },
+  "น้ำพุ": { "replacement": "⛲", "description": "fountain" },
+  "เต็นท์": { "replacement": "⛺", "description": "tent" },
+  "มีหมอก": { "replacement": "🌁", "description": "foggy" },
+  "คืนที่มีดวงดาว": { "replacement": "🌃", "description": "night with stars" },
+  "ทิวทัศน์ของเมือง": { "replacement": "🏙️", "description": "cityscape" },
+  "พระอาทิตย์ขึ้นเหนือภูเขา": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "พระอาทิตย์ขึ้น": { "replacement": "🌅", "description": "sunrise" },
+  "พระอาทิตย์ตกของเมือง": {
+    "replacement": "🌆",
+    "description": "cityscape at dusk"
+  },
+  "พระอาทิตย์ขึ้นของเมือง": { "replacement": "🌇", "description": "sunset" },
+  "สะพานในเวลากลางคืน": {
+    "replacement": "🌉",
+    "description": "bridge at night"
+  },
+  "น้ำพุร้อน": { "replacement": "♨️", "description": "hot springs" },
+  "ม้าหมุน": { "replacement": "🎠", "description": "carousel horse" },
+  "ชิงช้าสวรรค์": { "replacement": "🎡", "description": "ferris wheel" },
+  "รถไฟเหาะ": { "replacement": "🎢", "description": "roller coaster" },
+  "ช่างตัดผม": { "replacement": "💈", "description": "barber pole" },
+  "เต็นท์ละครสัตว์": { "replacement": "🎪", "description": "circus tent" },
+  "รถจักรไอน้ำ": { "replacement": "🚂", "description": "locomotive" },
+  "รถราง": { "replacement": "🚊", "description": "tram" },
+  "ด้าน bullettrain": {
+    "replacement": "🚄",
+    "description": "high-speed train"
+  },
+  "หน้า bullettrain": { "replacement": "🚅", "description": "bullet train" },
+  "รถไฟ 2": { "replacement": "🚆", "description": "train" },
+  "รถไฟฟ้าใต้ดิน": { "replacement": "🚇", "description": "metro" },
+  "รางไฟ": { "replacement": "🚈", "description": "light rail" },
+  "สถานี": { "replacement": "🚉", "description": "station" },
+  "โมโนเรล": { "replacement": "🚝", "description": "monorail" },
+  "รถไฟภูเขา": { "replacement": "🚞", "description": "mountain railway" },
+  "รถไฟ": { "replacement": "🚋", "description": "tram car" },
+  "รถบัส": { "replacement": "🚌", "description": "bus" },
+  "รถบัสที่กำลังจะมาถึง": {
+    "replacement": "🚍",
+    "description": "oncoming bus"
+  },
+  "รถเข็น": { "replacement": "🚎", "description": "trolleybus" },
+  "รถสองแถว": { "replacement": "🚐", "description": "minibus" },
+  "รถพยาบาล": { "replacement": "🚑", "description": "ambulance" },
+  "รถดับเพลิง": { "replacement": "🚒", "description": "fire engine" },
+  "รถตำรวจ": { "replacement": "🚓", "description": "police car" },
+  "รถตำรวจกำลังมา": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "แท็กซี่": { "replacement": "🚕", "description": "taxi" },
+  "แท็กซี่กำลังมา": { "replacement": "🚖", "description": "oncoming taxi" },
+  "รถยนต์": { "replacement": "🚗", "description": "automobile" },
+  "รถยนต์ที่กำลังจะมาถึง": {
+    "replacement": "🚘",
+    "description": "oncoming automobile"
+  },
+  "รถสีฟ้า": { "replacement": "🚙", "description": "sport utility vehicle" },
+  "รถกระบะ": { "replacement": "🛻", "description": "pickup truck" },
+  "รถบรรทุก": { "replacement": "🚚", "description": "delivery truck" },
+  "รถบรรทุกแบบก้อง": {
+    "replacement": "🚛",
+    "description": "articulated lorry"
+  },
+  "รถแทรกเตอร์": { "replacement": "🚜", "description": "tractor" },
+  "รถแข่ง": { "replacement": "🏎️", "description": "racing car" },
+  "รถจักรยานยนต์": { "replacement": "🏍️", "description": "motorcycle" },
+  "สกู๊ตเตอร์": { "replacement": "🛵", "description": "motor scooter" },
+  "รถเข็นคนพิการ": {
+    "replacement": "🦼",
+    "description": "motorized wheelchair"
+  },
+  "รถลากอัตโนมัติ": { "replacement": "🛺", "description": "auto rickshaw" },
+  "จักรยาน": { "replacement": "🚲", "description": "bicycle" },
+  "เตะสกู๊ตเตอร์": { "replacement": "🛴", "description": "kick scooter" },
+  "สเก็ตบอร์ด": { "replacement": "🛹", "description": "skateboard" },
+  "รองเท้าสเก็ต": { "replacement": "🛼", "description": "roller skate" },
+  "ป้ายรถเมล์": { "replacement": "🚏", "description": "bus stop" },
+  "มอเตอร์เวย์": { "replacement": "🛣️", "description": "motorway" },
+  "รางรถไฟ": { "replacement": "🚟", "description": "suspension railway" },
+  "ถังนํ็ามัน": { "replacement": "🛢️", "description": "oil drum" },
+  "ปั๊มน้ำมันเชื้อเพลิง": { "replacement": "⛽", "description": "fuel pump" },
+  "ไฟหมุน": { "replacement": "🚨", "description": "police car light" },
+  "ไฟจราจร": { "replacement": "🚥", "description": "horizontal traffic light" },
+  "สัญญาณไฟจราจรแนวตั้ง": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "ป้ายหยุด": { "replacement": "🛑", "description": "stop sign" },
+  "การก่อสร้าง": { "replacement": "🚧", "description": "construction" },
+  "สมอ": { "replacement": "⚓", "description": "anchor" },
+  "เรือ": { "replacement": "🚢", "description": "ship" },
+  "เรือแคนู": { "replacement": "🛶", "description": "canoe" },
+  "เรือเร็ว": { "replacement": "🚤", "description": "speedboat" },
+  "เรือโดยสาร": { "replacement": "🛳️", "description": "passenger ship" },
+  "เรือข้ามฟาก": { "replacement": "⛴️", "description": "ferry" },
+  "เรือยนต์": { "replacement": "🛥️", "description": "motor boat" },
+  "เครื่องบิน": { "replacement": "✈️", "description": "airplane" },
+  "เครื่องบินเล็ก": { "replacement": "🛩️", "description": "small airplane" },
+  "เที่ยวบินออกเดินทาง": {
+    "replacement": "🛫",
+    "description": "airplane departure"
+  },
+  "เที่ยวบินมาถึง": { "replacement": "🛬", "description": "airplane arrival" },
+  "ร่มชูชีพ": { "replacement": "🪂", "description": "parachute" },
+  "ที่นั่ง": { "replacement": "💺", "description": "seat" },
+  "เฮลิคอปเตอร์": { "replacement": "🚁", "description": "helicopter" },
+  "กระเช้าไฟฟ้าบนภูเขา": {
+    "replacement": "🚠",
+    "description": "mountain cableway"
+  },
+  "กระเช้าลอยฟ้า": { "replacement": "🚡", "description": "aerial tramway" },
+  "ดาวเทียมประดิษฐ์": { "replacement": "🛰️", "description": "satellite" },
+  "จรวด": { "replacement": "🚀", "description": "rocket" },
+  "จานบิน": { "replacement": "🥏", "description": "flying disc" },
+  "ระฆัง": { "replacement": "🔔", "description": "bell" },
+  "กระเป๋าเดินทาง": { "replacement": "🧳", "description": "luggage" },
+  "นาฬิกาทราย": { "replacement": "⌛", "description": "hourglass done" },
+  "นาฬิกาทรายไหลทราย": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "ดู": { "replacement": "⌚", "description": "watch" },
+  "นาฬิกาปลุก": { "replacement": "⏰", "description": "alarm clock" },
+  "นาฬิกาจับเวลา": { "replacement": "⏲️", "description": "timer clock" },
+  "นาฬิกาหิ้ง": { "replacement": "🕰️", "description": "mantelpiece clock" },
+  "นาฬิกา 12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "นาฬิกา 1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "นาฬิกา 1": { "replacement": "🕐", "description": "one o’clock" },
+  "นาฬิกา 130": { "replacement": "🕜", "description": "one-thirty" },
+  "นาฬิกา 2": { "replacement": "🕑", "description": "two o’clock" },
+  "นาฬิกา 230": { "replacement": "🕝", "description": "two-thirty" },
+  "นาฬิกา 3": { "replacement": "🕒", "description": "three o’clock" },
+  "นาฬิกา 330": { "replacement": "🕞", "description": "three-thirty" },
+  "นาฬิกา 4": { "replacement": "🕓", "description": "four o’clock" },
+  "นาฬิกา 430": { "replacement": "🕟", "description": "four-thirty" },
+  "นาฬิกา 5": { "replacement": "🕔", "description": "five o’clock" },
+  "นาฬิกา 530": { "replacement": "🕠", "description": "five-thirty" },
+  "นาฬิกา 6": { "replacement": "🕕", "description": "six o’clock" },
+  "นาฬิกา 630": { "replacement": "🕡", "description": "six-thirty" },
+  "นาฬิกา 7": { "replacement": "🕖", "description": "seven o’clock" },
+  "นาฬิกา 730": { "replacement": "🕢", "description": "seven-thirty" },
+  "นาฬิกา 8": { "replacement": "🕗", "description": "eight o’clock" },
+  "นาฬิกา 830": { "replacement": "🕣", "description": "eight-thirty" },
+  "นาฬิกา 9": { "replacement": "🕘", "description": "nine o’clock" },
+  "นาฬิกา 930": { "replacement": "🕤", "description": "nine-thirty" },
+  "นาฬิกา 10": { "replacement": "🕙", "description": "ten o’clock" },
+  "นาฬิกา 1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "นาฬิกา 11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "นาฬิกา 1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "ดวงจันทร์ใหม่": { "replacement": "🌑", "description": "new moon" },
+  "แว็กซ์พระจันทร์เสี้ยว": {
+    "replacement": "🌒",
+    "description": "waxing crescent moon"
+  },
+  "พระจันทร์ไตรมาสแรก": {
+    "replacement": "🌓",
+    "description": "first quarter moon"
+  },
+  "ดวงจันทร์": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "พระจันทร์เต็มดวง": { "replacement": "🌕", "description": "full moon" },
+  "พระจันทร์ที่ร่วงโรย": {
+    "replacement": "🌖",
+    "description": "waning gibbous moon"
+  },
+  "พระจันทร์ไตรมาสสุดท้าย": {
+    "replacement": "🌗",
+    "description": "last quarter moon"
+  },
+  "พระจันทร์เสี้ยวข้างแรม": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "เดือนเสี้ยว": { "replacement": "🌙", "description": "crescent moon" },
+  "พระจันทร์ใหม่พร้อมใบหน้า": {
+    "replacement": "🌚",
+    "description": "new moon face"
+  },
+  "พระจันทร์ไตรมาสแรกพร้อมใบหน้า": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "พระจันทร์ในไตรมาสสุดท้ายพร้อมใบหน้า": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "เทอร์โมมิเตอร์": { "replacement": "🌡️", "description": "thermometer" },
+  "แดดจัด": { "replacement": "☀️", "description": "sun" },
+  "พระจันทร์เต็มดวงพร้อมหน้า": {
+    "replacement": "🌝",
+    "description": "full moon face"
+  },
+  "ดวงอาทิตย์ด้วยใบหน้า": {
+    "replacement": "🌞",
+    "description": "sun with face"
+  },
+  "ดาวเคราะห์ล้อมรอบ": { "replacement": "🪐", "description": "ringed planet" },
+  "ดาว": { "replacement": "🌠", "description": "shooting star" },
+  "ดาว 2": { "replacement": "🌟", "description": "glowing star" },
+  "ทางช้างเผือก": { "replacement": "🌌", "description": "milky way" },
+  "เมฆ": { "replacement": "☁️", "description": "cloud" },
+  "แดดจัดเป็นบางส่วน": {
+    "replacement": "⛅",
+    "description": "sun behind cloud"
+  },
+  "เมฆกับฟ้าแลบและฝน": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "ดวงอาทิตย์หลังเมฆขนาดเล็ก": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "ดวงอาทิตย์หลังเมฆขนาดใหญ่": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "ดวงอาทิตย์หลังเมฆฝน": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "มีเมฆและฝน": { "replacement": "🌧️", "description": "cloud with rain" },
+  "มีเมฆและหิมะ": { "replacement": "🌨️", "description": "cloud with snow" },
+  "เมฆกับฟ้าแลบ": {
+    "replacement": "🌩️",
+    "description": "cloud with lightning"
+  },
+  "พายุทอร์นาโด": { "replacement": "🌪️", "description": "tornado" },
+  "หมอก": { "replacement": "🌫️", "description": "fog" },
+  "หน้าลม": { "replacement": "🌬️", "description": "wind face" },
+  "พายุไซโคลน": { "replacement": "🌀", "description": "cyclone" },
+  "รุ้ง": { "replacement": "🌈", "description": "rainbow" },
+  "ร่มปิด": { "replacement": "🌂", "description": "closed umbrella" },
+  "ร่มเปิด": { "replacement": "☂️", "description": "umbrella" },
+  "ร่ม": { "replacement": "☔", "description": "umbrella with rain drops" },
+  "ร่มกันแดดบนพื้นดิน": {
+    "replacement": "⛱️",
+    "description": "umbrella on ground"
+  },
+  "แซ่บ": { "replacement": "⚡", "description": "high voltage" },
+  "เกล็ดหิมะ": { "replacement": "❄️", "description": "snowflake" },
+  "มนุษย์หิมะกับหิมะ": { "replacement": "☃️", "description": "snowman" },
+  "มนุษย์หิมะ": { "replacement": "⛄", "description": "snowman without snow" },
+  "ดาวหาง": { "replacement": "☄️", "description": "comet" },
+  "ไฟ": { "replacement": "🔥", "description": "fire" },
+  "หยด": { "replacement": "💧", "description": "droplet" },
+  "มหาสมุทร": { "replacement": "🌊", "description": "water wave" },
+  "ฟักทองฮาโลวีน": { "replacement": "🎃", "description": "jack-o-lantern" },
+  "ต้นคริสต์มาส": { "replacement": "🎄", "description": "Christmas tree" },
+  "ดอกไม้ไฟ": { "replacement": "🎆", "description": "fireworks" },
+  "ดอกไม้เพลิง": { "replacement": "🎇", "description": "sparkler" },
+  "พลุ": { "replacement": "🧨", "description": "firecracker" },
+  "ประกายไฟ": { "replacement": "✨", "description": "sparkles" },
+  "บอลลูน": { "replacement": "🎈", "description": "balloon" },
+  "ธาดา": { "replacement": "🎉", "description": "party popper" },
+  "ลูกปา": { "replacement": "🎊", "description": "confetti ball" },
+  "ต้นไม้ทานาบาตะ": { "replacement": "🎋", "description": "tanabata tree" },
+  "ไม้ไผ่": { "replacement": "🎍", "description": "pine decoration" },
+  "ตุ๊กตา": { "replacement": "🎎", "description": "Japanese dolls" },
+  "ธง": { "replacement": "🎏", "description": "carp streamer" },
+  "ลมตีระฆัง": { "replacement": "🎐", "description": "wind chime" },
+  "ฉากข้าว": { "replacement": "🎑", "description": "moon viewing ceremony" },
+  "ซองจดหมายสีแดง": { "replacement": "🧧", "description": "red envelope" },
+  "ริบบิ้น": { "replacement": "🎀", "description": "ribbon" },
+  "ของขวัญ": { "replacement": "🎁", "description": "wrapped gift" },
+  "ริบบิ้นเตือนความจำ": {
+    "replacement": "🎗️",
+    "description": "reminder ribbon"
+  },
+  "ตั๋ว": { "replacement": "🎫", "description": "ticket" },
+  "เหรียญทหาร": { "replacement": "🎖️", "description": "military medal" },
+  "ถ้วยรางวัล": { "replacement": "🏆", "description": "trophy" },
+  "กีฬาเหรียญ": { "replacement": "🏅", "description": "sports medal" },
+  "เหรียญรางวัลอันดับ 1": {
+    "replacement": "🥇",
+    "description": "1st place medal"
+  },
+  "เหรียญรางวัลอันดับ 2": {
+    "replacement": "🥈",
+    "description": "2nd place medal"
+  },
+  "เหรียญอันดับที่ 3": {
+    "replacement": "🥉",
+    "description": "3rd place medal"
+  },
+  "ฟุตบอล": { "replacement": "🏈", "description": "american football" },
+  "เบสบอล": { "replacement": "⚾", "description": "baseball" },
+  "ซอฟท์บอล": { "replacement": "🥎", "description": "softball" },
+  "บาสเกตบอล": { "replacement": "🏀", "description": "basketball" },
+  "วอลเลย์บอล": { "replacement": "🏐", "description": "volleyball" },
+  "รักบี้": { "replacement": "🏉", "description": "rugby football" },
+  "เทนนิส": { "replacement": "🎾", "description": "tennis" },
+  "โบว์ลิ่ง": { "replacement": "🎳", "description": "bowling" },
+  "เกมคริกเก็ต": { "replacement": "🏏", "description": "cricket game" },
+  "กีฬาฮอกกี้": { "replacement": "🏑", "description": "field hockey" },
+  "ฮอคกี้น้ำแข็ง": { "replacement": "🏒", "description": "ice hockey" },
+  "ลาครอส": { "replacement": "🥍", "description": "lacrosse" },
+  "ปิงปอง": { "replacement": "🏓", "description": "ping pong" },
+  "แบดมินตัน": { "replacement": "🏸", "description": "badminton" },
+  "ถุงมือชกมวย": { "replacement": "🥊", "description": "boxing glove" },
+  "ชุดศิลปะการต่อสู้": {
+    "replacement": "🥋",
+    "description": "martial arts uniform"
+  },
+  "เป้าหมายสุทธิ": { "replacement": "🥅", "description": "goal net" },
+  "กอล์ฟ": { "replacement": "⛳", "description": "flag in hole" },
+  "ไอซ์สเก็ต": { "replacement": "⛸️", "description": "ice skate" },
+  "เบ็ดตกปลาและตกปลา": { "replacement": "🎣", "description": "fishing pole" },
+  "หน้ากากดำน้ำ": { "replacement": "🤿", "description": "diving mask" },
+  "เสื้อวิ่งพร้อมสายสะพาย": {
+    "replacement": "🎽",
+    "description": "running shirt"
+  },
+  "สกี": { "replacement": "🎿", "description": "skis" },
+  "เลื่อน": { "replacement": "📜", "description": "scroll" },
+  "หินดัดผม": { "replacement": "🥌", "description": "curling stone" },
+  "โผ": { "replacement": "🎯", "description": "direct hit" },
+  "โย่ว": { "replacement": "🪀", "description": "yo-yo" },
+  "ว่าว": { "replacement": "🪁", "description": "kite" },
+  "8 ลูก": { "replacement": "🎱", "description": "pool 8 ball" },
+  "ลูกบอลคริสตัล": { "replacement": "🔮", "description": "crystal ball" },
+  "ไม้กายสิทธิ์": { "replacement": "🪄", "description": "magic wand" },
+  "นาซาร์พระเครื่อง": { "replacement": "🧿", "description": "nazar amulet" },
+  "วิดีโอเกม": { "replacement": "🎮", "description": "video game" },
+  "จอยสติ๊ก": { "replacement": "🕹️", "description": "joystick" },
+  "สล็อตแมชชีน": { "replacement": "🎰", "description": "slot machine" },
+  "เกมตาย": { "replacement": "🎲", "description": "game die" },
+  "จิ๊กซอว์": { "replacement": "🧩", "description": "puzzle piece" },
+  "หมีเท็ดดี้": { "replacement": "🧸", "description": "teddy bear" },
+  "Pinata": { "replacement": "🪅", "description": "piñata" },
+  "ตุ๊กตาทำรัง": { "replacement": "🪆", "description": "nesting dolls" },
+  "โพดำ": { "replacement": "♠️", "description": "spade suit" },
+  "เพชร": { "replacement": "♦️", "description": "diamond suit" },
+  "คลับ": { "replacement": "♣️", "description": "club suit" },
+  "จำนำหมากรุก": { "replacement": "♟️", "description": "chess pawn" },
+  "โจ๊กเกอร์สีดำ": { "replacement": "🃏", "description": "joker" },
+  "ไพ่นกกระจอก": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "ไพ่ดอกไม้": { "replacement": "🎴", "description": "flower playing cards" },
+  "ศิลปะการแสดง": { "replacement": "🎭", "description": "performing arts" },
+  "ภาพกรอบ": { "replacement": "🖼️", "description": "framed picture" },
+  "ศิลปะ": { "replacement": "🎨", "description": "artist palette" },
+  "เกลียว": { "replacement": "🧵", "description": "thread" },
+  "เข็มเย็บผ้า": { "replacement": "🪡", "description": "sewing needle" },
+  "เส้นด้าย": { "replacement": "🧶", "description": "yarn" },
+  "ปม": { "replacement": "🪢", "description": "knot" },
+  "แว่นตา": { "replacement": "👓", "description": "glasses" },
+  "แว่นตากันแดดสีเข้ม": { "replacement": "🕶️", "description": "sunglasses" },
+  "แว่นตากันลม": { "replacement": "🥽", "description": "goggles" },
+  "เสื้อห้องปฏิบัติการ": { "replacement": "🥼", "description": "lab coat" },
+  "เสื้อกั๊กนิรภัย": { "replacement": "🦺", "description": "safety vest" },
+  "เนคไท": { "replacement": "👔", "description": "necktie" },
+  "เสื้อ": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "กางเกงยีนส์": { "replacement": "👖", "description": "jeans" },
+  "ผ้าพันคอ": { "replacement": "🧣", "description": "scarf" },
+  "ถุงมือ": { "replacement": "🧤", "description": "gloves" },
+  "เสื้อคลุม": { "replacement": "🧥", "description": "coat" },
+  "ถุงเท้า": { "replacement": "🧦", "description": "socks" },
+  "แต่งตัว": { "replacement": "👗", "description": "dress" },
+  "กิโมโน": { "replacement": "👘", "description": "kimono" },
+  "ส่าหรี": { "replacement": "🥻", "description": "sari" },
+  "ชุดว่ายน้ำชิ้นเดียว": {
+    "replacement": "🩱",
+    "description": "one-piece swimsuit"
+  },
+  "ว่ายน้ำสั้น ๆ": { "replacement": "🩲", "description": "briefs" },
+  "กางเกงขาสั้น": { "replacement": "🩳", "description": "shorts" },
+  "บิกินี่": { "replacement": "👙", "description": "bikini" },
+  "เสื้อผ้าผู้หญิง": { "replacement": "👚", "description": "woman’s clothes" },
+  "กระเป๋าเงิน": { "replacement": "👛", "description": "purse" },
+  "กระเป๋าถือ": { "replacement": "👜", "description": "handbag" },
+  "กระเป๋า": { "replacement": "👝", "description": "clutch bag" },
+  "ช้อปปิ้ง": { "replacement": "🛍️", "description": "shopping bags" },
+  "กระเป๋านักเรียน": { "replacement": "🎒", "description": "backpack" },
+  "รองเท้าแตะทอง": { "replacement": "🩴", "description": "thong sandal" },
+  "รองเท้าผู้ชาย": { "replacement": "👞", "description": "man’s shoe" },
+  "รองเท้ากีฬา": { "replacement": "👟", "description": "running shoe" },
+  "รองเท้าเดินป่า": { "replacement": "🥾", "description": "hiking boot" },
+  "รองเท้าแบน": { "replacement": "🥿", "description": "flat shoe" },
+  "ส้นสูง": { "replacement": "👠", "description": "high-heeled shoe" },
+  "รองเท้าแตะ": { "replacement": "👡", "description": "woman’s sandal" },
+  "รองเท้าบัลเล่ต์": { "replacement": "🩰", "description": "ballet shoes" },
+  "บูต": { "replacement": "👢", "description": "woman’s boot" },
+  "มงกุฎ": { "replacement": "👑", "description": "crown" },
+  "หมวกผู้หญิง": { "replacement": "👒", "description": "woman’s hat" },
+  "tophat": { "replacement": "🎩", "description": "top hat" },
+  "กระดานปูน": { "replacement": "🎓", "description": "graduation cap" },
+  "สูงสุดที่เรียกเก็บเงิน": {
+    "replacement": "🧢",
+    "description": "billed cap"
+  },
+  "หมวกทหาร": { "replacement": "🪖", "description": "military helmet" },
+  "หมวกกันน็อคกู้ภัย": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "ลูกปัดอธิษฐาน": { "replacement": "📿", "description": "prayer beads" },
+  "ลิปสติก": { "replacement": "💄", "description": "lipstick" },
+  "แหวน": { "replacement": "💍", "description": "ring" },
+  "อัญมณี": { "replacement": "💎", "description": "gem stone" },
+  "ปิดเสียง": { "replacement": "🔇", "description": "muted speaker" },
+  "ลำโพง": { "replacement": "📢", "description": "loudspeaker" },
+  "เสียง": { "replacement": "🔉", "description": "speaker medium volume" },
+  "เสียงดัง": { "replacement": "🔊", "description": "speaker high volume" },
+  "เมกะ": { "replacement": "📣", "description": "megaphone" },
+  "แตรไปรษณีย์": { "replacement": "📯", "description": "postal horn" },
+  "ไม่มีกระดิ่ง": { "replacement": "🔕", "description": "bell with slash" },
+  "โน้ตเพลง": { "replacement": "🎼", "description": "musical score" },
+  "โน้ตดนตรี": { "replacement": "🎵", "description": "musical note" },
+  "หมายเหตุ": { "replacement": "🎶", "description": "musical notes" },
+  "ไมโครโฟนสตูดิโอ": {
+    "replacement": "🎙️",
+    "description": "studio microphone"
+  },
+  "แถบเลื่อนระดับ": { "replacement": "🎚️", "description": "level slider" },
+  "ปุ่มควบคุม": { "replacement": "🎛️", "description": "control knobs" },
+  "ไมโครโฟน": { "replacement": "🎤", "description": "microphone" },
+  "หูฟัง": { "replacement": "🎧", "description": "headphone" },
+  "วิทยุ": { "replacement": "📻", "description": "radio" },
+  "แซกโซโฟน": { "replacement": "🎷", "description": "saxophone" },
+  "หีบเพลง": { "replacement": "🪗", "description": "accordion" },
+  "กีตาร์": { "replacement": "🎸", "description": "guitar" },
+  "คีย์บอร์ดดนตรี": { "replacement": "🎹", "description": "musical keyboard" },
+  "ทรัมเป็ต": { "replacement": "🎺", "description": "trumpet" },
+  "ไวโอลิน": { "replacement": "🎻", "description": "violin" },
+  "แบนโจ": { "replacement": "🪕", "description": "banjo" },
+  "กลอง": { "replacement": "🥁", "description": "drum" },
+  "กลองยาว": { "replacement": "🪘", "description": "long drum" },
+  "iphone": { "replacement": "📱", "description": "mobile phone" },
+  "โทร": { "replacement": "📲", "description": "mobile phone with arrow" },
+  "โทรศัพท์": { "replacement": "☎️", "description": "telephone" },
+  "เครื่องรับโทรศัพท์": {
+    "replacement": "📞",
+    "description": "telephone receiver"
+  },
+  "เพจเจอร์": { "replacement": "📟", "description": "pager" },
+  "แฟกซ์": { "replacement": "📠", "description": "fax machine" },
+  "แบตเตอรี่": { "replacement": "🔋", "description": "battery" },
+  "ปลั๊กไฟ": { "replacement": "🔌", "description": "electric plug" },
+  "คอมพิวเตอร์": { "replacement": "💻", "description": "laptop" },
+  "คอมพิวเตอร์เดสก์ท็อป": {
+    "replacement": "🖥️",
+    "description": "desktop computer"
+  },
+  "เครื่องพิมพ์": { "replacement": "🖨️", "description": "printer" },
+  "แป้นพิมพ์": { "replacement": "⌨️", "description": "keyboard" },
+  "เมาส์คอมพิวเตอร์": { "replacement": "🖱️", "description": "computer mouse" },
+  "แทร็กบอล": { "replacement": "🖲️", "description": "trackball" },
+  "minidisc": { "replacement": "💽", "description": "computer disk" },
+  "ฟลอปปีดิสก์": { "replacement": "💾", "description": "floppy disk" },
+  "ซีดี": { "replacement": "💿", "description": "optical disk" },
+  "ดีวีดี": { "replacement": "📀", "description": "dvd" },
+  "ลูกคิด": { "replacement": "🧮", "description": "abacus" },
+  "กล้องถ่ายภาพยนตร์": { "replacement": "🎥", "description": "movie camera" },
+  "แถบฟิล์ม": { "replacement": "🎞️", "description": "film frames" },
+  "เครื่องฉายภาพยนตร์": {
+    "replacement": "📽️",
+    "description": "film projector"
+  },
+  "โทรทัศน์": { "replacement": "📺", "description": "television" },
+  "กล้อง": { "replacement": "📷", "description": "camera" },
+  "แฟลชกล้อง": { "replacement": "📸", "description": "camera with flash" },
+  "กล้องวิดีโอ": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "แม็ก": {
+    "replacement": "🔍",
+    "description": "magnifying glass tilted left"
+  },
+  "แม็กขวา": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "เทียน": { "replacement": "🕯️", "description": "candle" },
+  "หลอดไฟ": { "replacement": "💡", "description": "light bulb" },
+  "ไฟฉาย": { "replacement": "🔦", "description": "flashlight" },
+  "โคมไฟอิซากายะ": { "replacement": "🏮", "description": "red paper lantern" },
+  "โคมไฟ diya": { "replacement": "🪔", "description": "diya lamp" },
+  "สมุดบันทึกพร้อมฝาปิดตกแต่ง": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "หนังสือปิด": { "replacement": "📕", "description": "closed book" },
+  "หนังสือ": { "replacement": "📚", "description": "books" },
+  "หนังสือสีเขียว": { "replacement": "📗", "description": "green book" },
+  "หนังสือสีฟ้า": { "replacement": "📘", "description": "blue book" },
+  "หนังสือสีส้ม": { "replacement": "📙", "description": "orange book" },
+  "สมุดบันทึก": { "replacement": "📓", "description": "notebook" },
+  "บัญชีแยกประเภท": { "replacement": "📒", "description": "ledger" },
+  "หน้าด้วย curl": { "replacement": "📃", "description": "page with curl" },
+  "หงายหน้าขึ้น": { "replacement": "📄", "description": "page facing up" },
+  "หนังสือพิมพ์": { "replacement": "📰", "description": "newspaper" },
+  "ม้วนหนังสือพิมพ์": {
+    "replacement": "🗞️",
+    "description": "rolled-up newspaper"
+  },
+  "แท็บบุ๊กมาร์ก": { "replacement": "📑", "description": "bookmark tabs" },
+  "บุ๊คมาร์ค": { "replacement": "🔖", "description": "bookmark" },
+  "ฉลาก": { "replacement": "🏷️", "description": "label" },
+  "ถุงเงิน": { "replacement": "💰", "description": "money bag" },
+  "เหรียญ": { "replacement": "🪙", "description": "coin" },
+  "เยน": { "replacement": "💴", "description": "yen banknote" },
+  "ดอลลาร์": { "replacement": "💵", "description": "dollar banknote" },
+  "ยูโร": { "replacement": "💶", "description": "euro banknote" },
+  "ปอนด์": { "replacement": "💷", "description": "pound banknote" },
+  "เงินที่มีปีก": { "replacement": "💸", "description": "money with wings" },
+  "บัตรเครดิต": { "replacement": "💳", "description": "credit card" },
+  "ใบเสร็จรับเงิน": { "replacement": "🧾", "description": "receipt" },
+  "แผนภูมิ": {
+    "replacement": "💹",
+    "description": "chart increasing with yen"
+  },
+  "อีเมล์": { "replacement": "📧", "description": "e-mail" },
+  "ซองจดหมายขาเข้า": {
+    "replacement": "📨",
+    "description": "incoming envelope"
+  },
+  "ซองจดหมายที่มีลูกศร": {
+    "replacement": "📩",
+    "description": "envelope with arrow"
+  },
+  "ถาดขาออก": { "replacement": "📤", "description": "outbox tray" },
+  "ถาดกล่องจดหมาย": { "replacement": "📥", "description": "inbox tray" },
+  "แพ็คเกจ": { "replacement": "📦", "description": "package" },
+  "กล่องจดหมาย": {
+    "replacement": "📫",
+    "description": "closed mailbox with raised flag"
+  },
+  "กล่องจดหมายปิด": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "กล่องจดหมายพร้อมเมล": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "กล่องจดหมายที่ไม่มีจดหมาย": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "ตู้ไปรษณีย์": { "replacement": "📮", "description": "postbox" },
+  "กล่องลงคะแนน": {
+    "replacement": "🗳️",
+    "description": "ballot box with ballot"
+  },
+  "ดินสอ 2": { "replacement": "✏️", "description": "pencil" },
+  "ปลายปากกาสีดำ": { "replacement": "✒️", "description": "black nib" },
+  "ปากกาหมึกซึม": { "replacement": "🖋️", "description": "fountain pen" },
+  "ปากกา": { "replacement": "🖊️", "description": "pen" },
+  "พู่กัน": { "replacement": "🖌️", "description": "paintbrush" },
+  "ดินสอสี": { "replacement": "🖍️", "description": "crayon" },
+  "บันทึก": { "replacement": "📝", "description": "memo" },
+  "กระเป๋าเอกสาร": { "replacement": "💼", "description": "briefcase" },
+  "โฟลเดอร์ไฟล์": { "replacement": "📁", "description": "file folder" },
+  "เปิดโฟลเดอร์ไฟล์": {
+    "replacement": "📂",
+    "description": "open file folder"
+  },
+  "ตัวแบ่งดัชนีการ์ด": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "วันที่": { "replacement": "📅", "description": "calendar" },
+  "ปฏิทิน": { "replacement": "📆", "description": "tear-off calendar" },
+  "แผ่นจดบันทึกเกลียว": {
+    "replacement": "🗒️",
+    "description": "spiral notepad"
+  },
+  "ปฏิทินเกลียว": { "replacement": "🗓️", "description": "spiral calendar" },
+  "ดัชนีการ์ด": { "replacement": "📇", "description": "card index" },
+  "แผนภูมิที่มีแนวโน้มสูงขึ้น": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "แผนภูมิที่มีแนวโน้มขาลง": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "แผนภูมิแท่ง": { "replacement": "📊", "description": "bar chart" },
+  "คลิปบอร์ด": { "replacement": "📋", "description": "clipboard" },
+  "หมุด": { "replacement": "📌", "description": "pushpin" },
+  "หมุดกลม": { "replacement": "📍", "description": "round pushpin" },
+  "คลิป": { "replacement": "📎", "description": "paperclip" },
+  "คลิปหนีบกระดาษ": { "replacement": "🖇️", "description": "linked paperclips" },
+  "ไม้บรรทัดตรง": { "replacement": "📏", "description": "straight ruler" },
+  "ไม้บรรทัดสามเหลี่ยม": {
+    "replacement": "📐",
+    "description": "triangular ruler"
+  },
+  "กรรไกร": { "replacement": "✂️", "description": "scissors" },
+  "กล่องไฟล์การ์ด": { "replacement": "🗃️", "description": "card file box" },
+  "ตู้เก็บเอกสาร": { "replacement": "🗄️", "description": "file cabinet" },
+  "ถังขยะ": { "replacement": "🗑️", "description": "wastebasket" },
+  "ล็อค": { "replacement": "🔒", "description": "locked" },
+  "ปลดล็อค": { "replacement": "🔓", "description": "unlocked" },
+  "ล็อคด้วยปากกาหมึก": {
+    "replacement": "🔏",
+    "description": "locked with pen"
+  },
+  "ปิดล็อคด้วยกุญแจ": { "replacement": "🔐", "description": "locked with key" },
+  "สำคัญ": { "replacement": "🔑", "description": "key" },
+  "คีย์เก่า": { "replacement": "🗝️", "description": "old key" },
+  "ค้อน": { "replacement": "🔨", "description": "hammer" },
+  "ขวาน": { "replacement": "🪓", "description": "axe" },
+  "เลือก": { "replacement": "⛏️", "description": "pick" },
+  "ค้อนและเลือก": { "replacement": "⚒️", "description": "hammer and pick" },
+  "ค้อนและประแจ": { "replacement": "🛠️", "description": "hammer and wrench" },
+  "กริช": { "replacement": "🗡️", "description": "dagger" },
+  "ดาบไขว้": { "replacement": "⚔️", "description": "crossed swords" },
+  "ปืน": { "replacement": "🔫", "description": "pistol" },
+  "บูมเมอแรง": { "replacement": "🪃", "description": "boomerang" },
+  "คันธนูและลูกศร": { "replacement": "🏹", "description": "bow and arrow" },
+  "โล่": { "replacement": "🛡️", "description": "shield" },
+  "เลื่อยไม้": { "replacement": "🪚", "description": "carpentry saw" },
+  "ประแจ": { "replacement": "🔧", "description": "wrench" },
+  "ไขควง": { "replacement": "🪛", "description": "screwdriver" },
+  "น็อตและสลักเกลียว": { "replacement": "🔩", "description": "nut and bolt" },
+  "เกียร์": { "replacement": "⚙️", "description": "gear" },
+  "ที่หนีบ": { "replacement": "🗜️", "description": "clamp" },
+  "ระดับความสมดุล": { "replacement": "⚖️", "description": "balance scale" },
+  "ไม้เท้า": { "replacement": "🦯", "description": "white cane" },
+  "ลิงค์": { "replacement": "🔗", "description": "link" },
+  "ห่วงโซ่": { "replacement": "⛓️", "description": "chains" },
+  "ตะขอ": { "replacement": "🪝", "description": "hook" },
+  "กล่องเครื่องมือ": { "replacement": "🧰", "description": "toolbox" },
+  "แม่เหล็ก": { "replacement": "🧲", "description": "magnet" },
+  "บันได": { "replacement": "🪜", "description": "ladder" },
+  "หลอดทดลอง": { "replacement": "🧪", "description": "test tube" },
+  "จานเพาะเชื้อ": { "replacement": "🧫", "description": "petri dish" },
+  "ดีเอ็นเอ": { "replacement": "🧬", "description": "dna" },
+  "กล้องจุลทรรศน์": { "replacement": "🔬", "description": "microscope" },
+  "กล้องโทรทรรศน์": { "replacement": "🔭", "description": "telescope" },
+  "ดาวเทียม": { "replacement": "📡", "description": "satellite antenna" },
+  "เข็มฉีดยา": { "replacement": "💉", "description": "syringe" },
+  "หยดเลือด": { "replacement": "🩸", "description": "drop of blood" },
+  "ยา": { "replacement": "💊", "description": "pill" },
+  "ผ้าพันแผลกาว": { "replacement": "🩹", "description": "adhesive bandage" },
+  "หูฟังของแพทย์": { "replacement": "🩺", "description": "stethoscope" },
+  "ประตู": { "replacement": "🚪", "description": "door" },
+  "ลิฟต์": { "replacement": "🛗", "description": "elevator" },
+  "กระจกเงา": { "replacement": "🪞", "description": "mirror" },
+  "หน้าต่าง": { "replacement": "🪟", "description": "window" },
+  "เตียง": { "replacement": "🛏️", "description": "bed" },
+  "โซฟาและโคมไฟ": { "replacement": "🛋️", "description": "couch and lamp" },
+  "เก้าอี้": { "replacement": "🪑", "description": "chair" },
+  "ห้องน้ำ": { "replacement": "🚾", "description": "water closet" },
+  "ลูกสูบ": { "replacement": "🪠", "description": "plunger" },
+  "อ่างอาบน้ำ": { "replacement": "🛁", "description": "bathtub" },
+  "กับดักหนู": { "replacement": "🪤", "description": "mouse trap" },
+  "มีดโกน": { "replacement": "🪒", "description": "razor" },
+  "ขวดโลชั่น": { "replacement": "🧴", "description": "lotion bottle" },
+  "เข็มกลัด": { "replacement": "🧷", "description": "safety pin" },
+  "ไม้กวาด": { "replacement": "🧹", "description": "broom" },
+  "ตะกร้า": { "replacement": "🧺", "description": "basket" },
+  "ม้วนกระดาษ": { "replacement": "🧻", "description": "roll of paper" },
+  "ถัง": { "replacement": "🪣", "description": "bucket" },
+  "สบู่": { "replacement": "🧼", "description": "soap" },
+  "แปรงสีฟัน": { "replacement": "🪥", "description": "toothbrush" },
+  "ฟองน้ำ": { "replacement": "🧽", "description": "sponge" },
+  "เครื่องดับเพลิง": {
+    "replacement": "🧯",
+    "description": "fire extinguisher"
+  },
+  "ตะกร้าสินค้า": { "replacement": "🛒", "description": "shopping cart" },
+  "การสูบบุหรี่": { "replacement": "🚬", "description": "cigarette" },
+  "โลงศพ": { "replacement": "⚰️", "description": "coffin" },
+  "ศิลาฤกษ์": { "replacement": "🪦", "description": "headstone" },
+  "โกศศพ": { "replacement": "⚱️", "description": "funeral urn" },
+  "moyai": { "replacement": "🗿", "description": "moai" },
+  "ป้ายประกาศ": { "replacement": "🪧", "description": "placard" },
+  "ATM": { "replacement": "🏧", "description": "ATM sign" },
+  "ใส่ขยะเข้าที่": { "replacement": "🚮", "description": "litter in bin sign" },
+  "น้ำดื่ม": { "replacement": "🚰", "description": "potable water" },
+  "วีลแชร์": { "replacement": "♿", "description": "wheelchair symbol" },
+  "บุรุษ": { "replacement": "🚹", "description": "men’s room" },
+  "สัญลักษณ์ทารก": { "replacement": "🚼", "description": "baby symbol" },
+  "การควบคุมหนังสือเดินทาง": {
+    "replacement": "🛂",
+    "description": "passport control"
+  },
+  "ศุลกากร": { "replacement": "🛃", "description": "customs" },
+  "รับสัมภาระ": { "replacement": "🛄", "description": "baggage claim" },
+  "กระเป๋าซ้าย": { "replacement": "🛅", "description": "left luggage" },
+  "คำเตือน": { "replacement": "⚠️", "description": "warning" },
+  "เด็กข้าม": { "replacement": "🚸", "description": "children crossing" },
+  "ห้ามเข้า": { "replacement": "⛔", "description": "no entry" },
+  "ไม่มีป้ายห้ามเข้า": { "replacement": "🚫", "description": "prohibited" },
+  "ห้ามนำจักรยานเข้า": { "replacement": "🚳", "description": "no bicycles" },
+  "ห้ามสูบบุหรี่": { "replacement": "🚭", "description": "no smoking" },
+  "อย่าทิ้งขยะ": { "replacement": "🚯", "description": "no littering" },
+  "น้ำที่ไม่สามารถดื่มได้": {
+    "replacement": "🚱",
+    "description": "non-potable water"
+  },
+  "ไม่มีคนเดินเท้า": { "replacement": "🚷", "description": "no pedestrians" },
+  "ไม่มีโทรศัพท์มือถือ": {
+    "replacement": "📵",
+    "description": "no mobile phones"
+  },
+  "ยังไม่บรรลุนิติภาวะ": {
+    "replacement": "🔞",
+    "description": "no one under eighteen"
+  },
+  "กัมมันตรังสี": { "replacement": "☢️", "description": "radioactive" },
+  "อันตรายทางชีวภาพ": { "replacement": "☣️", "description": "biohazard" },
+  "ลูกศรขึ้น": { "replacement": "⤴️", "description": "right arrow curving up" },
+  "ลูกศรขวาบน": { "replacement": "↗️", "description": "up-right arrow" },
+  "ลูกศรขวา": { "replacement": "➡️", "description": "right arrow" },
+  "ลูกศรขวาล่าง": { "replacement": "↘️", "description": "down-right arrow" },
+  "ลูกศรลง": { "replacement": "⬇️", "description": "down arrow" },
+  "ลูกศรซ้ายล่าง": { "replacement": "↙️", "description": "down-left arrow" },
+  "ลูกศรซ้าย": { "replacement": "⬅️", "description": "left arrow" },
+  "ลูกศรซ้ายบน": { "replacement": "↖️", "description": "up-left arrow" },
+  "ลูกศรขึ้นลง": { "replacement": "↕️", "description": "up-down arrow" },
+  "ลูกศรซ้ายขวา": { "replacement": "↔️", "description": "left-right arrow" },
+  "ลูกศรซ้ายพร้อมตะขอ": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "ลูกศรขอเกี่ยวขวา": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "ลูกศรมุ่งลง": {
+    "replacement": "⤵️",
+    "description": "right arrow curving down"
+  },
+  "ลูกศรตามเข็มนาฬิกา": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "ลูกศรทวนเข็มนาฬิกา": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "กลับ": { "replacement": "🔙", "description": "BACK arrow" },
+  "จบ": { "replacement": "🔚", "description": "END arrow" },
+  "บน": { "replacement": "🔛", "description": "ON! arrow" },
+  "เร็ว ๆ นี้": { "replacement": "🔜", "description": "SOON arrow" },
+  "ด้านบน": { "replacement": "🔝", "description": "TOP arrow" },
+  "ศาสนสถาน": { "replacement": "🛐", "description": "place of worship" },
+  "สัญลักษณ์อะตอม": { "replacement": "⚛️", "description": "atom symbol" },
+  "โอม": { "replacement": "🕉️", "description": "om" },
+  "ดาวของเดวิด": { "replacement": "✡️", "description": "star of David" },
+  "วงล้อแห่งธรรม": { "replacement": "☸️", "description": "wheel of dharma" },
+  "หยินหยาง": { "replacement": "☯️", "description": "yin yang" },
+  "ข้ามละติน": { "replacement": "✝️", "description": "latin cross" },
+  "ข้ามออร์โธดอกซ์": { "replacement": "☦️", "description": "orthodox cross" },
+  "ดาวและเสี้ยว": { "replacement": "☪️", "description": "star and crescent" },
+  "สัญลักษณ์สันติภาพ": { "replacement": "☮️", "description": "peace symbol" },
+  "เล่ม": { "replacement": "🕎", "description": "menorah" },
+  "ดาวหกแฉก": { "replacement": "🔯", "description": "dotted six-pointed star" },
+  "ราศีเมษ": { "replacement": "♈", "description": "Aries" },
+  "ราศีพฤษภ": { "replacement": "♉", "description": "Taurus" },
+  "ราศีเมถุน": { "replacement": "♊", "description": "Gemini" },
+  "โรคมะเร็ง": { "replacement": "♋", "description": "Cancer" },
+  "สิงห์": { "replacement": "♌", "description": "Leo" },
+  "กันย์": { "replacement": "♍", "description": "Virgo" },
+  "ราศีตุลย์": { "replacement": "♎", "description": "Libra" },
+  "ราศีธนู": { "replacement": "♐", "description": "Sagittarius" },
+  "ราศีมังกร": { "replacement": "♑", "description": "Capricorn" },
+  "ราศีกุมภ์": { "replacement": "♒", "description": "Aquarius" },
+  "ราศีมีน": { "replacement": "♓", "description": "Pisces" },
+  "ophiuchus": { "replacement": "⛎", "description": "Ophiuchus" },
+  "ลูกศรบิดไปทางขวา": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "ทำซ้ำ": { "replacement": "🔁", "description": "repeat button" },
+  "ทำซ้ำหนึ่ง": { "replacement": "🔂", "description": "repeat single button" },
+  "ลูกศรไปข้างหน้า": { "replacement": "▶️", "description": "play button" },
+  "กรอไปข้างหน้า": {
+    "replacement": "⏩",
+    "description": "fast-forward button"
+  },
+  "ปุ่มแทร็กถัดไป": { "replacement": "⏭️", "description": "next track button" },
+  "ปุ่มเล่นหรือหยุดชั่วคราว": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "ลูกศรย้อนกลับ": { "replacement": "◀️", "description": "reverse button" },
+  "ย้อนกลับ": { "replacement": "⏪", "description": "fast reverse button" },
+  "ปุ่มแทร็กก่อนหน้า": {
+    "replacement": "⏮️",
+    "description": "last track button"
+  },
+  "ลูกศรขึ้นขนาดเล็ก": { "replacement": "🔼", "description": "upwards button" },
+  "ลูกศรขึ้นสองเท่า": { "replacement": "⏫", "description": "fast up button" },
+  "ลูกศรลงขนาดเล็ก": { "replacement": "🔽", "description": "downwards button" },
+  "ลูกศรลงสองครั้ง": { "replacement": "⏬", "description": "fast down button" },
+  "ปุ่มหยุดชั่วคราว": { "replacement": "⏸️", "description": "pause button" },
+  "ปุ่มหยุด": { "replacement": "⏹️", "description": "stop button" },
+  "ปุ่มบันทึก": { "replacement": "⏺️", "description": "record button" },
+  "ปุ่มนำออก": { "replacement": "⏏️", "description": "eject button" },
+  "โรงภาพยนตร์": { "replacement": "🎦", "description": "cinema" },
+  "ความสว่างต่ำ": { "replacement": "🔅", "description": "dim button" },
+  "ความสว่างสูง": { "replacement": "🔆", "description": "bright button" },
+  "ความแรงของสัญญาณ": { "replacement": "📶", "description": "antenna bars" },
+  "โหมดการสั่นสะเทือน": {
+    "replacement": "📳",
+    "description": "vibration mode"
+  },
+  "ปิดโทรศัพท์มือถือ": {
+    "replacement": "📴",
+    "description": "mobile phone off"
+  },
+  "สัญลักษณ์หญิง": { "replacement": "♀️", "description": "female sign" },
+  "สัญญาณชาย": { "replacement": "♂️", "description": "male sign" },
+  "สัญลักษณ์คนข้ามเพศ": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "คูณหนัก x": { "replacement": "✖️", "description": "multiply" },
+  "เครื่องหมายบวกหนัก": { "replacement": "➕", "description": "plus" },
+  "เครื่องหมายลบหนัก": { "replacement": "➖", "description": "minus" },
+  "เครื่องหมายแบ่งส่วนหนัก": { "replacement": "➗", "description": "divide" },
+  "อินฟินิตี้": { "replacement": "♾️", "description": "infinity" },
+  "ปังปัง": { "replacement": "‼️", "description": "double exclamation mark" },
+  "interrobang": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "คำถาม": { "replacement": "❓", "description": "question mark" },
+  "คำถามสีเทา": { "replacement": "❔", "description": "white question mark" },
+  "อัศเจรีย์สีเทา": {
+    "replacement": "❕",
+    "description": "white exclamation mark"
+  },
+  "อัศเจรีย์": { "replacement": "❗", "description": "exclamation mark" },
+  "เส้นประหยัก": { "replacement": "〰️", "description": "wavy dash" },
+  "แลกเปลี่ยนเงินตรา": {
+    "replacement": "💱",
+    "description": "currency exchange"
+  },
+  "สัญลักษณ์ดอลลาร์หนัก": {
+    "replacement": "💲",
+    "description": "heavy dollar sign"
+  },
+  "สัญลักษณ์ทางการแพทย์": {
+    "replacement": "⚕️",
+    "description": "medical symbol"
+  },
+  "รีไซเคิล": { "replacement": "♻️", "description": "recycling symbol" },
+  "เฟลอร์เดอลิส": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "ตรีศูล": { "replacement": "🔱", "description": "trident emblem" },
+  "ป้ายชื่อ": { "replacement": "📛", "description": "name badge" },
+  "ผู้เริ่มต้น": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "o": { "replacement": "⭕", "description": "hollow red circle" },
+  "เครื่องหมายถูกสีขาว": {
+    "replacement": "✅",
+    "description": "check mark button"
+  },
+  "กล่องลงคะแนนพร้อมเครื่องหมายถูก": {
+    "replacement": "☑️",
+    "description": "check box with check"
+  },
+  "เครื่องหมายถูกหนัก": { "replacement": "✔️", "description": "check mark" },
+  "x": { "replacement": "❌", "description": "cross mark" },
+  "เครื่องหมายกากบาทกำลังสองลบ": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "ห่วงหยิก": { "replacement": "➰", "description": "curly loop" },
+  "วน": { "replacement": "➿", "description": "double curly loop" },
+  "เครื่องหมายสำรองส่วน": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "ดอกจันแปดแฉก": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "ดาวสีดำแปดแฉก": { "replacement": "✴️", "description": "eight-pointed star" },
+  "เปล่งประกาย": { "replacement": "❇️", "description": "sparkle" },
+  "ลิขสิทธิ์": { "replacement": "©️", "description": "copyright" },
+  "จดทะเบียน": { "replacement": "®️", "description": "registered" },
+  "tm": { "replacement": "™️", "description": "trade mark" },
+  "กัญชา": { "replacement": "#️⃣", "description": "keycap: #" },
+  "ดอกจัน": { "replacement": "*️⃣", "description": "keycap: *" },
+  "ศูนย์": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "หนึ่ง": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "สอง": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "สาม": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "สี่": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "ห้า": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "หก": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "เจ็ด": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "แปด": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "เก้า": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "ปุ่มกดสิบ": { "replacement": "🔟", "description": "keycap: 10" },
+  "abcd ทุน": { "replacement": "🔠", "description": "input latin uppercase" },
+  "เอบีซีดี": { "replacement": "🔡", "description": "input latin lowercase" },
+  "สัญลักษณ์": { "replacement": "🔣", "description": "input symbols" },
+  "abc": { "replacement": "🔤", "description": "input latin letters" },
+  "ก": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "ข": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "cl": { "replacement": "🆑", "description": "CL button" },
+  "เย็น": { "replacement": "🆒", "description": "COOL button" },
+  "ฟรี": { "replacement": "🆓", "description": "FREE button" },
+  "แหล่งข้อมูล": { "replacement": "ℹ️", "description": "information" },
+  "id": { "replacement": "🆔", "description": "ID button" },
+  "ม": { "replacement": "Ⓜ️", "description": "circled M" },
+  "ใหม่": { "replacement": "🆕", "description": "NEW button" },
+  "ง": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "ตกลง": { "replacement": "🆗", "description": "OK button" },
+  "ที่จอดรถ": { "replacement": "🅿️", "description": "P button" },
+  "sos": { "replacement": "🆘", "description": "SOS button" },
+  "ขึ้น": { "replacement": "🆙", "description": "UP! button" },
+  "เทียบกับ": { "replacement": "🆚", "description": "VS button" },
+  "koko": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "สา": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "ประโยชน์เชิงอุดมคติ": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "ยอมรับ": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "ขอแสดงความยินดี": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "ความลับ": { "replacement": "㊙️", "description": "Japanese “secret” button" },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "วงกลมสีแดง": { "replacement": "🔴", "description": "red circle" },
+  "วงกลมสีส้ม": { "replacement": "🟠", "description": "orange circle" },
+  "วงกลมสีเหลือง": { "replacement": "🟡", "description": "yellow circle" },
+  "วงกลมสีเขียว": { "replacement": "🟢", "description": "green circle" },
+  "วงกลมสีน้ำเงินขนาดใหญ่": {
+    "replacement": "🔵",
+    "description": "blue circle"
+  },
+  "วงกลมสีม่วง": { "replacement": "🟣", "description": "purple circle" },
+  "วงกลมสีน้ำตาล": { "replacement": "🟤", "description": "brown circle" },
+  "วงกลมสีดำ": { "replacement": "⚫", "description": "black circle" },
+  "วงกลมสีขาว": { "replacement": "⚪", "description": "white circle" },
+  "สี่เหลี่ยมสีแดง": { "replacement": "🟥", "description": "red square" },
+  "สี่เหลี่ยมสีส้ม": { "replacement": "🟧", "description": "orange square" },
+  "สี่เหลี่ยมสีเหลือง": { "replacement": "🟨", "description": "yellow square" },
+  "สี่เหลี่ยมสีเขียว": { "replacement": "🟩", "description": "green square" },
+  "สี่เหลี่ยมสีฟ้า": { "replacement": "🟦", "description": "blue square" },
+  "สี่เหลี่ยมสีม่วง": { "replacement": "🟪", "description": "purple square" },
+  "สี่เหลี่ยมสีน้ำตาล": { "replacement": "🟫", "description": "brown square" },
+  "สี่เหลี่ยมขนาดใหญ่สีดำ": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "สี่เหลี่ยมขนาดใหญ่สีขาว": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "สี่เหลี่ยมกลางสีดำ": {
+    "replacement": "◼️",
+    "description": "black medium square"
+  },
+  "สี่เหลี่ยมจัตุรัสกลางสีขาว": {
+    "replacement": "◻️",
+    "description": "white medium square"
+  },
+  "สี่เหลี่ยมเล็กกลางสีดำ": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "สี่เหลี่ยมเล็ก ๆ สีขาวขนาดกลาง": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "สี่เหลี่ยมเล็ก ๆ สีดำ": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "สี่เหลี่ยมเล็ก ๆ สีขาว": {
+    "replacement": "▫️",
+    "description": "white small square"
+  },
+  "เพชรสีส้มขนาดใหญ่": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "เพชรสีน้ำเงินขนาดใหญ่": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "เพชรสีส้มขนาดเล็ก": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "เพชรสีน้ำเงินขนาดเล็ก": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "สามเหลี่ยมสีแดงขนาดเล็ก": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "สามเหลี่ยมสีแดงเล็ก ๆ ลง": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "ทรงเพชรมีจุดด้านใน": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "ปุ่มตัวเลือก": { "replacement": "🔘", "description": "radio button" },
+  "ปุ่มสี่เหลี่ยมสีขาว": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "ปุ่มสี่เหลี่ยมสีดำ": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "ธงตาหมากรุก": { "replacement": "🏁", "description": "chequered flag" },
+  "ธงสามเหลี่ยมบนเสา": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "ข้ามธง": { "replacement": "🎌", "description": "crossed flags" },
+  "ธงดำ": { "replacement": "🏴", "description": "black flag" },
+  "ธงขาว": { "replacement": "🏳️", "description": "white flag" },
+  "ธงสีรุ้ง": { "replacement": "🏳️‍🌈", "description": "rainbow flag" },
+  "ธงคนข้ามเพศ": { "replacement": "🏳️‍⚧️", "description": "transgender flag" },
+  "ธงโจรสลัด": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "เกาะสวรรค์": {
+    "replacement": "🇦🇨",
+    "description": "flag: Ascension Island"
+  },
+  "อันดอร์รา": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "สหรัฐอาหรับเอมิเรตส์": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "อัฟกานิสถาน": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "แอนติกาบาร์บูดา": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "แองกวิลลา": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "แอลเบเนีย": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "อาร์เมเนีย": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "แองโกลา": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "แอนตาร์กติกา": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "อาร์เจนตินา": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "ซามัวอเมริกัน": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "ออสเตรีย": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "ออสเตรเลีย": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "อารูบา": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "หมู่เกาะโอลันด์": {
+    "replacement": "🇦🇽",
+    "description": "flag: Åland Islands"
+  },
+  "อาเซอร์ไบจาน": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "บอสเนียเฮอร์เซโกวีนา": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "บาร์เบโดส": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "บังคลาเทศ": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "เบลเยี่ยม": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "บูร์กินาฟาโซ": { "replacement": "🇧🇫", "description": "flag: Burkina Faso" },
+  "บัลแกเรีย": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "บาห์เรน": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "บุรุนดี": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "เบนิน": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "เซนต์บาร์เธเลมี": {
+    "replacement": "🇧🇱",
+    "description": "flag: St. Barthélemy"
+  },
+  "เบอร์มิวดา": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "บรูไน": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "โบลิเวีย": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "แคริบเบียนเนเธอร์แลนด์": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "บราซิล": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "บาฮามาส": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "ภูฏาน": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "เกาะบูเวต": { "replacement": "🇧🇻", "description": "flag: Bouvet Island" },
+  "บอตสวานา": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "เบลารุส": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "เบลีซ": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "แคนาดา": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "หมู่เกาะโคโคส": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "คองโกกินชาซา": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "สาธารณรัฐแอฟริกากลาง": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "คองโกบราซซาวิล": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "สวิตเซอร์แลนด์": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "cote divoire": { "replacement": "🇨🇮", "description": "flag: Côte d’Ivoire" },
+  "หมู่เกาะคุก": { "replacement": "🇨🇰", "description": "flag: Cook Islands" },
+  "ชิลี": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "แคเมอรูน": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "cn": { "replacement": "🇨🇳", "description": "flag: China" },
+  "โคลัมเบีย": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "เกาะคลิปเปอร์ตัน": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "คอสตาริกา": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "คิวบา": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "Cape Verde": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "คูราเซา": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "เกาะคริสต์มาส": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "ไซปรัส": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "สาธารณรัฐเช็ก": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "เดอ": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "ดิเอโกการ์เซีย": {
+    "replacement": "🇩🇬",
+    "description": "flag: Diego Garcia"
+  },
+  "จิบูตี": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "เดนมาร์ก": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "โดมินิกา": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "สาธารณรัฐโดมินิกัน": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "แอลจีเรีย": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "Ceuta Melilla": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "เอกวาดอร์": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "เอสโตเนีย": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "อียิปต์": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "ซาฮาร่าตะวันตก": {
+    "replacement": "🇪🇭",
+    "description": "flag: Western Sahara"
+  },
+  "เอริเทรีย": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "es": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "เอธิโอเปีย": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "สหภาพยุโรป": { "replacement": "🇪🇺", "description": "flag: European Union" },
+  "ฟินแลนด์": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "ฟิจิ": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "หมู่เกาะฟอล์กแลนด์": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "ไมโครนีเซีย": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "หมู่เกาะแฟโร": { "replacement": "🇫🇴", "description": "flag: Faroe Islands" },
+  "fr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "กาบอง": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "gb": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "เกรนาดา": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "จอร์เจีย": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "เฟรนช์เกีย": { "replacement": "🇬🇫", "description": "flag: French Guiana" },
+  "เกิร์นซีย์": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "กานา": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "ยิบรอลตาร์": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "กรีนแลนด์": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "แกมเบีย": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "กินี": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "กวาเดอลูป": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "อิเควทอเรียลกินี": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "กรีซ": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "หมู่เกาะเซาท์แซนด์วิชใต้ของจอร์เจีย": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "กัวเตมาลา": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "กวม": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "กินีบิสเซา": { "replacement": "🇬🇼", "description": "flag: Guinea-Bissau" },
+  "กายอานา": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "ฮ่องกง": { "replacement": "🇭🇰", "description": "flag: Hong Kong SAR China" },
+  "ได้ยินหมู่เกาะแมคโดนัลด์": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "ฮอนดูรัส": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "โครเอเชีย": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "เฮติ": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "ฮังการี": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "หมู่เกาะคานารี": {
+    "replacement": "🇮🇨",
+    "description": "flag: Canary Islands"
+  },
+  "อินโดนีเซีย": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "ไอร์แลนด์": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "อิสราเอล": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "เกาะแมน": { "replacement": "🇮🇲", "description": "flag: Isle of Man" },
+  "อินเดีย": { "replacement": "🇮🇳", "description": "flag: India" },
+  "ดินแดนมหาสมุทรอินเดียของอังกฤษ": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "อิรัก": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "อิหร่าน": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "ไอซ์แลนด์": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "มัน": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "จาเมกา": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "จอร์แดน": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "jp": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "เคนยา": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "คีร์กีซสถาน": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "กัมพูชา": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "คิริบาติ": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "คอโมโรส": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "เซนต์คิตส์เนวิส": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "เกาหลีเหนือ": { "replacement": "🇰🇵", "description": "flag: North Korea" },
+  "kr": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "คูเวต": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "หมู่เกาะเคย์เเมน": {
+    "replacement": "🇰🇾",
+    "description": "flag: Cayman Islands"
+  },
+  "คาซัคสถาน": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "ลาว": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "เลบานอน": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "เซนต์ลูเซีย": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "ลิกเตนสไตน์": { "replacement": "🇱🇮", "description": "flag: Liechtenstein" },
+  "ศรีลังกา": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "ไลบีเรีย": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "เลโซโท": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "ลิทัวเนีย": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "ลักเซมเบิร์ก": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "ลัตเวีย": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "ลิเบีย": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "โมร็อกโก": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "โมนาโก": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "มอลโดวา": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "มอนเตเนโกร": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "เซนต์มาร์ติน": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "มาดากัสการ์": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "หมู่เกาะมาร์แชลล์": {
+    "replacement": "🇲🇭",
+    "description": "flag: Marshall Islands"
+  },
+  "มาซิโดเนีย": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "มาลี": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "พม่า": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "มองโกเลีย": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "มาเก๊า": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "หมู่เกาะมาเรียนาเหนือ": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "มาร์ตินีก": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "มอริเตเนีย": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "มอนต์เซอร์รัต": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "มอลตา": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "มอริเชียส": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "มัลดีฟส์": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "มาลาวี": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "เม็กซิโก": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "มาเลเซีย": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "โมซัมบิก": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "นามิเบีย": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "นิวแคลิโดเนีย": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "ไนเจอร์": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "เกาะนอร์ฟอล์ก": {
+    "replacement": "🇳🇫",
+    "description": "flag: Norfolk Island"
+  },
+  "ไนจีเรีย": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "นิการากัว": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "เนเธอร์แลนด์": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "นอร์เวย์": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "เนปาล": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "นาอูรู": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "Niue": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "นิวซีแลนด์": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "โอมาน": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "ปานามา": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "เปรู": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "เฟรนช์โปลินีเซีย": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "ปาปัวนิวกินี": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "ฟิลิปปินส์": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "ปากีสถาน": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "โปแลนด์": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "St Pierre Miquelon": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "หมู่เกาะพิตแคร์น": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "เปอร์โตริโก้": { "replacement": "🇵🇷", "description": "flag: Puerto Rico" },
+  "ดินแดนปาเลสไตน์": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "โปรตุเกส": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "ปาเลา": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "ประเทศปารากวัย": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "กาตาร์": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "การพบกันใหม่": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "โรมาเนีย": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "เซอร์เบีย": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "รู": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "รวันดา": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "ซาอุดิอาราเบีย": {
+    "replacement": "🇸🇦",
+    "description": "flag: Saudi Arabia"
+  },
+  "หมู่เกาะโซโลมอน": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "เซเชลส์": { "replacement": "🇸🇨", "description": "flag: Seychelles" },
+  "ซูดาน": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "สวีเดน": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "สิงคโปร์": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "เซนต์เฮเลนา": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "สโลวีเนีย": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "Svalbard Jan Mayen": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "สโลวาเกีย": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "เซียร์ราลีโอน": { "replacement": "🇸🇱", "description": "flag: Sierra Leone" },
+  "ซานมาริโน": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "เซเนกัล": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "โซมาเลีย": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "ซูรินาเม": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "ซูดานใต้": { "replacement": "🇸🇸", "description": "flag: South Sudan" },
+  "เซาตูเมปรินซิปี": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "เอลซัลวาดอร์": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "Sint Maarten": { "replacement": "🇸🇽", "description": "flag: Sint Maarten" },
+  "ซีเรีย": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "สวาซิแลนด์": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "Tristan da Cunha": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "หมู่เกาะเติกส์เคคอส": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "ชาด": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "ดินแดนทางใต้ของฝรั่งเศส": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "ไป": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "ประเทศไทย": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "ทาจิกิสถาน": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "Tokelau": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "ติมอร์เลสเต": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "เติร์กเมนิสถาน": {
+    "replacement": "🇹🇲",
+    "description": "flag: Turkmenistan"
+  },
+  "ตูนิเซีย": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "ตองกา": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "tr": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "ตรินิแดด Tobago": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "ตูวาลู": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "ไต้หวัน": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "แทนซาเนีย": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "ยูเครน": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "ยูกันดา": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "หมู่เกาะรอบนอกของเรา": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "องค์การสหประชาชาติ": {
+    "replacement": "🇺🇳",
+    "description": "flag: United Nations"
+  },
+  "เรา": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "อุรุกวัย": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "อุซเบกิสถาน": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "เมืองวาติกัน": { "replacement": "🇻🇦", "description": "flag: Vatican City" },
+  "เซนต์วินเซนต์เกรนาดีนส์": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "เวเนซุเอลา": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "หมู่เกาะบริติชเวอร์จิน": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "หมู่เกาะเวอร์จินของเรา": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "เวียดนาม": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "วานูอาตู": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "วาลลิสฟูตูนา": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "ซามัว": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "โคโซโว": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "เยเมน": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "มายอต": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "แอฟริกาใต้": { "replacement": "🇿🇦", "description": "flag: South Africa" },
+  "แซมเบีย": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "ซิมบับเว": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "อังกฤษ": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "สกอตแลนด์": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "เวลส์": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

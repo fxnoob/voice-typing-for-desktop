@@ -1,0 +1,3042 @@
+{
+  "80": { "replacement": "🈵", "description": "Japanese “no vacancy” button" },
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "kucheka": { "replacement": "😀", "description": "grinning face" },
+  "tabasamu": {
+    "replacement": "😄",
+    "description": "grinning face with smiling eyes"
+  },
+  "kicheko": {
+    "replacement": "😁",
+    "description": "beaming face with smiling eyes"
+  },
+  "Kucheka": { "replacement": "😆", "description": "grinning squinting face" },
+  "tabasamu la jasho": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "furaha": { "replacement": "😂", "description": "face with tears of joy" },
+  "uso wenye kutabasamu kidogo": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "kichwa chini chini": {
+    "replacement": "🙃",
+    "description": "upside-down face"
+  },
+  "jicho la macho": { "replacement": "😉", "description": "winking face" },
+  "kuona haya": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "wasio na hatia": {
+    "replacement": "😇",
+    "description": "smiling face with halo"
+  },
+  "uso wenye tabasamu na mioyo mitatu": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "macho ya moyo": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "nyota ilipigwa": { "replacement": "🤩", "description": "star-struck" },
+  "moyo wa busu": { "replacement": "😘", "description": "face blowing a kiss" },
+  "kumbusu": { "replacement": "😗", "description": "kissing face" },
+  "walishirikiana": { "replacement": "☺️", "description": "smiling face" },
+  "kumbusu macho yaliyofungwa": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "kubusu macho ya tabasamu": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "uso wenye tabasamu na machozi": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "yum": { "replacement": "😋", "description": "face savoring food" },
+  "kukwama nje ulimi": {
+    "replacement": "😛",
+    "description": "face with tongue"
+  },
+  "kukwama nje ulimi kukonyeza jicho": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "uso wa zany": { "replacement": "🤪", "description": "zany face" },
+  "ulimi uliofungwa macho yaliyofungwa": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "uso mdomo wa pesa": {
+    "replacement": "🤑",
+    "description": "money-mouth face"
+  },
+  "kukumbatiana": { "replacement": "🤗", "description": "hugging face" },
+  "kukabidhi mdomo": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "kuficha uso": { "replacement": "🤫", "description": "shushing face" },
+  "kufikiri": { "replacement": "🤔", "description": "thinking face" },
+  "uso wa mdomo wa zipu": {
+    "replacement": "🤐",
+    "description": "zipper-mouth face"
+  },
+  "nyusi iliyoinuliwa": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "uso wa upande wowote": {
+    "replacement": "😐",
+    "description": "neutral face"
+  },
+  "bila kusema": { "replacement": "😑", "description": "expressionless face" },
+  "hakuna kinywa": { "replacement": "😶", "description": "face without mouth" },
+  "cheka": { "replacement": "😏", "description": "smirking face" },
+  "kutokufurahishwa": { "replacement": "😒", "description": "unamused face" },
+  "tembeza macho": {
+    "replacement": "🙄",
+    "description": "face with rolling eyes"
+  },
+  "grimacing": { "replacement": "😬", "description": "grimacing face" },
+  "uso wa uongo": { "replacement": "🤥", "description": "lying face" },
+  "kufarijika": { "replacement": "😌", "description": "relieved face" },
+  "muda mrefu": { "replacement": "😔", "description": "pensive face" },
+  "usingizi": { "replacement": "😪", "description": "sleepy face" },
+  "uso wa kutokwa na mate": {
+    "replacement": "🤤",
+    "description": "drooling face"
+  },
+  "kulala": { "replacement": "😴", "description": "sleeping face" },
+  "kinyago": { "replacement": "😷", "description": "face with medical mask" },
+  "uso na kipima joto": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "uso na bandeji ya kichwa": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "uso wa kichefuchefu": {
+    "replacement": "🤢",
+    "description": "nauseated face"
+  },
+  "uso wa kutapika": { "replacement": "🤮", "description": "face vomiting" },
+  "uso wa kupiga chafya": {
+    "replacement": "🤧",
+    "description": "sneezing face"
+  },
+  "uso wa moto": { "replacement": "🥵", "description": "hot face" },
+  "uso baridi": { "replacement": "🥶", "description": "cold face" },
+  "uso wa woozy": { "replacement": "🥴", "description": "woozy face" },
+  "uso wa kizunguzungu": { "replacement": "😵", "description": "dizzy face" },
+  "kulipuka kichwa": { "replacement": "🤯", "description": "exploding head" },
+  "uso wa kofia ya ng'ombe": {
+    "replacement": "🤠",
+    "description": "cowboy hat face"
+  },
+  "uso wa tafrija": { "replacement": "🥳", "description": "partying face" },
+  "uso uliojificha": { "replacement": "🥸", "description": "disguised face" },
+  "miwani": { "replacement": "🥽", "description": "goggles" },
+  "uso wa nerd": { "replacement": "🤓", "description": "nerd face" },
+  "uso wa monocle": { "replacement": "🧐", "description": "face with monocle" },
+  "changanyikiwa": { "replacement": "😕", "description": "confused face" },
+  "wasiwasi": { "replacement": "😟", "description": "worried face" },
+  "uso uliokunja uso kidogo": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "uso wa kukunja uso": { "replacement": "☹️", "description": "frowning face" },
+  "mdomo wazi": { "replacement": "😮", "description": "face with open mouth" },
+  "kunyamaza": { "replacement": "😯", "description": "hushed face" },
+  "kushangaa": { "replacement": "😲", "description": "astonished face" },
+  "flushed": { "replacement": "😳", "description": "flushed face" },
+  "uso wa kusihi": { "replacement": "🥺", "description": "pleading face" },
+  "kukunja uso": {
+    "replacement": "😦",
+    "description": "frowning face with open mouth"
+  },
+  "kufadhaika": { "replacement": "😖", "description": "confounded face" },
+  "waoga": { "replacement": "😨", "description": "fearful face" },
+  "jasho baridi": {
+    "replacement": "😰",
+    "description": "anxious face with sweat"
+  },
+  "amevunjika moyo": {
+    "replacement": "😥",
+    "description": "sad but relieved face"
+  },
+  "kulia": { "replacement": "😢", "description": "crying face" },
+  "kwikwi": { "replacement": "😭", "description": "loudly crying face" },
+  "kupiga kelele": {
+    "replacement": "😱",
+    "description": "face screaming in fear"
+  },
+  "Vumilia": { "replacement": "😣", "description": "persevering face" },
+  "tamaa": { "replacement": "😞", "description": "disappointed face" },
+  "jasho": { "replacement": "😓", "description": "downcast face with sweat" },
+  "nimechoka": { "replacement": "😩", "description": "weary face" },
+  "uso uliochoka": { "replacement": "😫", "description": "tired face" },
+  "uso wa miayo": { "replacement": "🥱", "description": "yawning face" },
+  "ushindi": {
+    "replacement": "😤",
+    "description": "face with steam from nose"
+  },
+  "hasira": { "replacement": "💢", "description": "anger symbol" },
+  "uso wa kulaani": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "tabasamu imp": {
+    "replacement": "😈",
+    "description": "smiling face with horns"
+  },
+  "imp": { "replacement": "👿", "description": "angry face with horns" },
+  "fuvu": { "replacement": "💀", "description": "skull" },
+  "fuvu na mifupa ya msalaba": {
+    "replacement": "☠️",
+    "description": "skull and crossbones"
+  },
+  "hankey": { "replacement": "💩", "description": "pile of poo" },
+  "uso wa kinyago": { "replacement": "🤡", "description": "clown face" },
+  "zimwi la Kijapani": { "replacement": "👹", "description": "ogre" },
+  "Kijapani goblin": { "replacement": "👺", "description": "goblin" },
+  "mzuka": { "replacement": "👻", "description": "ghost" },
+  "mgeni": { "replacement": "👽", "description": "alien" },
+  "mvamizi wa nafasi": { "replacement": "👾", "description": "alien monster" },
+  "roboti": { "replacement": "🤖", "description": "robot" },
+  "paka ya kutabasamu": { "replacement": "😺", "description": "grinning cat" },
+  "tabasamu paka": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "paka ya furaha": {
+    "replacement": "😹",
+    "description": "cat with tears of joy"
+  },
+  "macho ya moyo paka": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "paka paka": { "replacement": "😼", "description": "cat with wry smile" },
+  "paka ya kumbusu": { "replacement": "😽", "description": "kissing cat" },
+  "paka ya kupiga kelele": { "replacement": "🙀", "description": "weary cat" },
+  "uso wa paka anayelia": { "replacement": "😿", "description": "crying cat" },
+  "paka anayelalamika": { "replacement": "😾", "description": "pouting cat" },
+  "usione ubaya": { "replacement": "🙈", "description": "see-no-evil monkey" },
+  "usisikie mabaya": {
+    "replacement": "🙉",
+    "description": "hear-no-evil monkey"
+  },
+  "usiseme mabaya": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "busu": { "replacement": "💋", "description": "kiss mark" },
+  "barua ya mapenzi": { "replacement": "💌", "description": "love letter" },
+  "kikombe": { "replacement": "💘", "description": "heart with arrow" },
+  "moyo wa zawadi": { "replacement": "💝", "description": "heart with ribbon" },
+  "moyo unaong'aa": { "replacement": "💖", "description": "sparkling heart" },
+  "msukumo wa moyo": { "replacement": "💗", "description": "growing heart" },
+  "mapigo ya moyo": { "replacement": "💓", "description": "beating heart" },
+  "mioyo inayozunguka": {
+    "replacement": "💞",
+    "description": "revolving hearts"
+  },
+  "mioyo miwili": { "replacement": "💕", "description": "two hearts" },
+  "mapambo ya moyo": { "replacement": "💟", "description": "heart decoration" },
+  "mshangao mzito wa moyo": {
+    "replacement": "❣️",
+    "description": "heart exclamation"
+  },
+  "Moyo uliovunjika": { "replacement": "💔", "description": "broken heart" },
+  "moyo": { "replacement": "❤️", "description": "red heart" },
+  "moyo wa chungwa": { "replacement": "🧡", "description": "orange heart" },
+  "moyo wa manjano": { "replacement": "💛", "description": "yellow heart" },
+  "moyo wa kijani": { "replacement": "💚", "description": "green heart" },
+  "moyo wa bluu": { "replacement": "💙", "description": "blue heart" },
+  "moyo wa zambarau": { "replacement": "💜", "description": "purple heart" },
+  "moyo wa kahawia": { "replacement": "🤎", "description": "brown heart" },
+  "moyo mweusi": { "replacement": "🖤", "description": "black heart" },
+  "moyo mweupe": { "replacement": "🤍", "description": "white heart" },
+  "kuongezeka": { "replacement": "💥", "description": "collision" },
+  "kizunguzungu": { "replacement": "💫", "description": "dizzy" },
+  "jasho linashuka": { "replacement": "💦", "description": "sweat droplets" },
+  "dashi": { "replacement": "💨", "description": "dashing away" },
+  "shimo": { "replacement": "🕳️", "description": "hole" },
+  "bomu": { "replacement": "💣", "description": "bomb" },
+  "puto ya hotuba": { "replacement": "💬", "description": "speech balloon" },
+  "Bubble ya hotuba ya macho": {
+    "replacement": "👁️‍🗨️",
+    "description": "eye in speech bubble"
+  },
+  "Bubble ya hotuba ya kushoto": {
+    "replacement": "🗨️",
+    "description": "left speech bubble"
+  },
+  "Bubble ya hasira ya kulia": {
+    "replacement": "🗯️",
+    "description": "right anger bubble"
+  },
+  "mawazo puto": { "replacement": "💭", "description": "thought balloon" },
+  "zzz": { "replacement": "💤", "description": "zzz" },
+  "wimbi": { "replacement": "👋", "description": "waving hand" },
+  "kuinuliwa nyuma ya mkono": {
+    "replacement": "🤚",
+    "description": "raised back of hand"
+  },
+  "mkono ulioinuliwa na vidole vilivyopigwa": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "mkono": { "replacement": "✋", "description": "raised hand" },
+  "saluti ya vulcan": { "replacement": "🖖", "description": "vulcan salute" },
+  "sawa mkono": { "replacement": "👌", "description": "OK hand" },
+  "vidole vilivyobanwa": {
+    "replacement": "🤌",
+    "description": "pinched fingers"
+  },
+  "kubana mkono": { "replacement": "🤏", "description": "pinching hand" },
+  "v": { "replacement": "✌️", "description": "victory hand" },
+  "vidole vilivyovuka": {
+    "replacement": "🤞",
+    "description": "crossed fingers"
+  },
+  "nakupenda ishara": {
+    "replacement": "🤟",
+    "description": "love-you gesture"
+  },
+  "chuma": { "replacement": "🤘", "description": "sign of the horns" },
+  "niite mkono": { "replacement": "🤙", "description": "call me hand" },
+  "hatua kushoto": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "onyesha kulia": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "onyesha 2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "kidole cha kati": { "replacement": "🖕", "description": "middle finger" },
+  "onyesha chini": {
+    "replacement": "👇",
+    "description": "backhand index pointing down"
+  },
+  "onyesha juu": { "replacement": "☝️", "description": "index pointing up" },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "ngumi iliyoinuliwa": { "replacement": "✊", "description": "raised fist" },
+  "ngumi inayokuja": { "replacement": "👊", "description": "oncoming fist" },
+  "ngumi kushoto": { "replacement": "🤛", "description": "left-facing fist" },
+  "ngumi kulia": { "replacement": "🤜", "description": "right-facing fist" },
+  "kupiga makofi": { "replacement": "👏", "description": "clapping hands" },
+  "mikono iliyoinuliwa": {
+    "replacement": "🙌",
+    "description": "raising hands"
+  },
+  "fungua mikono": { "replacement": "👐", "description": "open hands" },
+  "mitende juu pamoja": {
+    "replacement": "🤲",
+    "description": "palms up together"
+  },
+  "kupeana mikono": { "replacement": "🤝", "description": "handshake" },
+  "omba": { "replacement": "🙏", "description": "folded hands" },
+  "mkono wa kuandika": { "replacement": "✍️", "description": "writing hand" },
+  "utunzaji wa kucha": { "replacement": "💅", "description": "nail polish" },
+  "picha ya kujipiga mwenyewe": {
+    "replacement": "🤳",
+    "description": "selfie"
+  },
+  "misuli": { "replacement": "💪", "description": "flexed biceps" },
+  "mkono wa mitambo": { "replacement": "🦾", "description": "mechanical arm" },
+  "mguu wa mitambo": { "replacement": "🦿", "description": "mechanical leg" },
+  "mguu": { "replacement": "🦶", "description": "foot" },
+  "sikio": { "replacement": "👂", "description": "ear" },
+  "sikio na msaada wa kusikia": {
+    "replacement": "🦻",
+    "description": "ear with hearing aid"
+  },
+  "pua": { "replacement": "👃", "description": "nose" },
+  "ubongo": { "replacement": "🧠", "description": "brain" },
+  "moyo wa anatomiki": {
+    "replacement": "🫀",
+    "description": "anatomical heart"
+  },
+  "mapafu": { "replacement": "🫁", "description": "lungs" },
+  "jino": { "replacement": "🦷", "description": "tooth" },
+  "mfupa": { "replacement": "🦴", "description": "bone" },
+  "macho": { "replacement": "👀", "description": "eyes" },
+  "jicho": { "replacement": "👁️", "description": "eye" },
+  "ulimi": { "replacement": "👅", "description": "tongue" },
+  "midomo": { "replacement": "👄", "description": "mouth" },
+  "mtoto": { "replacement": "🧒", "description": "child" },
+  "kijana": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "msichana": { "replacement": "👧", "description": "girl" },
+  "mtu mzima": { "replacement": "🧑", "description": "person" },
+  "mtu mwenye nywele nyekundu": {
+    "replacement": "👱‍♂️",
+    "description": "man: blond hair"
+  },
+  "mwanaume": { "replacement": "👨", "description": "man" },
+  "mtu mwenye ndevu": { "replacement": "🧔", "description": "man: beard" },
+  "mwenye nywele zilizokunjwa": {
+    "replacement": "👨‍🦱",
+    "description": "man: curly hair"
+  },
+  "mwenye nywele nyeupe": {
+    "replacement": "👨‍🦳",
+    "description": "man: white hair"
+  },
+  "mwenye upara": { "replacement": "👨‍🦲", "description": "man: bald" },
+  "mwanamke": { "replacement": "👩", "description": "woman" },
+  "mwanamke mwenye nywele nyekundu": {
+    "replacement": "👱‍♀️",
+    "description": "woman: blond hair"
+  },
+  "nywele nyekundu ya mtu": {
+    "replacement": "🧑‍🦰",
+    "description": "person: red hair"
+  },
+  "mwanamke mwenye nywele zilizokunjwa": {
+    "replacement": "👩‍🦱",
+    "description": "woman: curly hair"
+  },
+  "nywele zilizopindika": {
+    "replacement": "🧑‍🦱",
+    "description": "person: curly hair"
+  },
+  "mwanamke mwenye nywele nyeupe": {
+    "replacement": "👩‍🦳",
+    "description": "woman: white hair"
+  },
+  "nywele nyeupe za mtu": {
+    "replacement": "🧑‍🦳",
+    "description": "person: white hair"
+  },
+  "mwanamke mwenye upara": {
+    "replacement": "👩‍🦲",
+    "description": "woman: bald"
+  },
+  "mtu mwenye upara": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "mtu mzima mzima": { "replacement": "🧓", "description": "older person" },
+  "mzee": { "replacement": "👴", "description": "old man" },
+  "mwanamke mkubwa": { "replacement": "👵", "description": "old woman" },
+  "mtu aliyekunja uso": { "replacement": "🙍‍♂️", "description": "man frowning" },
+  "mwanamke aliyekunja uso": {
+    "replacement": "🙍‍♀️",
+    "description": "woman frowning"
+  },
+  "uso wenye uchungu": { "replacement": "🙎", "description": "person pouting" },
+  "mtu mwenye uchungu": { "replacement": "🙎‍♂️", "description": "man pouting" },
+  "kumlalamikia mwanamke": {
+    "replacement": "🙎‍♀️",
+    "description": "woman pouting"
+  },
+  "hakuna nzuri": { "replacement": "🙅", "description": "person gesturing NO" },
+  "hakuna mtu mzuri": {
+    "replacement": "🙅‍♂️",
+    "description": "man gesturing NO"
+  },
+  "hakuna mwanamke mzuri": {
+    "replacement": "🙅‍♀️",
+    "description": "woman gesturing NO"
+  },
+  "sawa mtu": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "sawa mwanamke": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "mtu anayeshika mkono": {
+    "replacement": "💁",
+    "description": "person tipping hand"
+  },
+  "kuelekeza mkono mtu": {
+    "replacement": "💁‍♂️",
+    "description": "man tipping hand"
+  },
+  "kidole cha mkono mwanamke": {
+    "replacement": "💁‍♀️",
+    "description": "woman tipping hand"
+  },
+  "kuinua mkono": { "replacement": "🙋", "description": "person raising hand" },
+  "kuinua mkono mtu": {
+    "replacement": "🙋‍♂️",
+    "description": "man raising hand"
+  },
+  "kuinua mkono mwanamke": {
+    "replacement": "🙋‍♀️",
+    "description": "woman raising hand"
+  },
+  "kiziwi": { "replacement": "🧏", "description": "deaf person" },
+  "kiziwi mtu": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "mwanamke kiziwi": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "upinde": { "replacement": "🙇", "description": "person bowing" },
+  "kuinama mtu": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "kuinama mwanamke": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "uso wa uso": { "replacement": "🤦", "description": "person facepalming" },
+  "macho ya mtu": { "replacement": "🤦‍♂️", "description": "man facepalming" },
+  "macho ya mwanamke": {
+    "replacement": "🤦‍♀️",
+    "description": "woman facepalming"
+  },
+  "shrug": { "replacement": "🤷", "description": "person shrugging" },
+  "mtu akipayuka": { "replacement": "🤷‍♂️", "description": "man shrugging" },
+  "kushtukia mwanamke": {
+    "replacement": "🤷‍♀️",
+    "description": "woman shrugging"
+  },
+  "mfanyakazi wa afya": {
+    "replacement": "🧑‍⚕️",
+    "description": "health worker"
+  },
+  "mtu mfanyakazi wa afya": {
+    "replacement": "👨‍⚕️",
+    "description": "man health worker"
+  },
+  "mwanamke mfanyakazi wa afya": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "mwanafunzi": { "replacement": "🧑‍🎓", "description": "student" },
+  "mwanafunzi wa kiume": { "replacement": "👨‍🎓", "description": "man student" },
+  "mwanamke mwanafunzi": {
+    "replacement": "👩‍🎓",
+    "description": "woman student"
+  },
+  "mwalimu": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "mwalimu wa mtu": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "mwalimu mwanamke": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "Hakimu": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "jaji mtu": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "jaji mwanamke": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "mkulima": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "mtu mkulima": { "replacement": "👨‍🌾", "description": "man farmer" },
+  "mkulima mwanamke": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "kupika": { "replacement": "🧑‍🍳", "description": "cook" },
+  "mtu kupika": { "replacement": "👨‍🍳", "description": "man cook" },
+  "mwanamke kupika": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "fundi": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "fundi wa mtu": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "fundi wa kike": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "mfanyakazi wa kiwanda": {
+    "replacement": "🧑‍🏭",
+    "description": "factory worker"
+  },
+  "mtu mfanyakazi wa kiwanda": {
+    "replacement": "👨‍🏭",
+    "description": "man factory worker"
+  },
+  "mwanamke mfanyakazi wa kiwanda": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "mfanyakazi wa ofisini": {
+    "replacement": "🧑‍💼",
+    "description": "office worker"
+  },
+  "mfanyakazi wa ofisini mtu": {
+    "replacement": "👨‍💼",
+    "description": "man office worker"
+  },
+  "mwanamke mfanyakazi wa ofisini": {
+    "replacement": "👩‍💼",
+    "description": "woman office worker"
+  },
+  "mwanasayansi": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "mwanasayansi mwanadamu": {
+    "replacement": "👨‍🔬",
+    "description": "man scientist"
+  },
+  "mwanasayansi mwanamke": {
+    "replacement": "👩‍🔬",
+    "description": "woman scientist"
+  },
+  "mtaalam": { "replacement": "🧑‍💻", "description": "technologist" },
+  "mtaalam wa teknolojia": {
+    "replacement": "👨‍💻",
+    "description": "man technologist"
+  },
+  "teknolojia ya mwanamke": {
+    "replacement": "👩‍💻",
+    "description": "woman technologist"
+  },
+  "mwimbaji": { "replacement": "🧑‍🎤", "description": "singer" },
+  "mwimbaji mtu": { "replacement": "👨‍🎤", "description": "man singer" },
+  "mwimbaji mwanamke": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "msanii": { "replacement": "🧑‍🎨", "description": "artist" },
+  "msanii wa kiume": { "replacement": "👨‍🎨", "description": "man artist" },
+  "msanii wa kike": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "rubani": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "rubani mtu": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "rubani mwanamke": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "mwanaanga": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "mwanaanga mwanaume": { "replacement": "👨‍🚀", "description": "man astronaut" },
+  "mwanaanga mwanamke": {
+    "replacement": "👩‍🚀",
+    "description": "woman astronaut"
+  },
+  "Mzima moto": { "replacement": "🧑‍🚒", "description": "firefighter" },
+  "mtu wa zima moto": { "replacement": "👨‍🚒", "description": "man firefighter" },
+  "mwanamke wa zima moto": {
+    "replacement": "👩‍🚒",
+    "description": "woman firefighter"
+  },
+  "askari": { "replacement": "👮", "description": "police officer" },
+  "polisi": { "replacement": "👮‍♀️", "description": "woman police officer" },
+  "upelelezi": { "replacement": "🕵️", "description": "detective" },
+  "upelelezi wa kiume": { "replacement": "🕵️‍♂️", "description": "man detective" },
+  "upelelezi wa kike": {
+    "replacement": "🕵️‍♀️",
+    "description": "woman detective"
+  },
+  "mlinzi": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "ninja": { "replacement": "🥷", "description": "ninja" },
+  "mjenzi": { "replacement": "👷", "description": "construction worker" },
+  "mfanyakazi wa ujenzi": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "mkuu": { "replacement": "🤴", "description": "prince" },
+  "mfalme": { "replacement": "👸", "description": "princess" },
+  "mtu mwenye kilemba": {
+    "replacement": "👳‍♂️",
+    "description": "man wearing turban"
+  },
+  "mwanamke mwenye kilemba": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "mtu mwenye gua pi mao": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "mwanamke mwenye kitambaa cha kichwa": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "mtu katika tuxedo": {
+    "replacement": "🤵‍♂️",
+    "description": "man in tuxedo"
+  },
+  "mwanamke katika tuxedo": {
+    "replacement": "🤵‍♀️",
+    "description": "woman in tuxedo"
+  },
+  "mtu aliye na pazia": {
+    "replacement": "👰",
+    "description": "person with veil"
+  },
+  "mtu mwenye pazia": {
+    "replacement": "👰‍♂️",
+    "description": "man with veil"
+  },
+  "mwanamke aliye na pazia": {
+    "replacement": "👰‍♀️",
+    "description": "woman with veil"
+  },
+  "mjamzito": { "replacement": "🤰", "description": "pregnant woman" },
+  "kunyonyesha": { "replacement": "🤱", "description": "breast-feeding" },
+  "mwanamke kulisha mtoto": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "mtu kulisha mtoto": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "malaika": { "replacement": "👼", "description": "baby angel" },
+  "santa": { "replacement": "🎅", "description": "Santa Claus" },
+  "bi claus": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "kifungu cha mx": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "shujaa": { "replacement": "🦸", "description": "superhero" },
+  "shujaa mtu": { "replacement": "🦸‍♂️", "description": "man superhero" },
+  "mwanamke shujaa": { "replacement": "🦸‍♀️", "description": "woman superhero" },
+  "msimamizi": { "replacement": "🦹", "description": "supervillain" },
+  "mtu anayesimamia": {
+    "replacement": "🦹‍♂️",
+    "description": "man supervillain"
+  },
+  "mwanamke anayesimamia": {
+    "replacement": "🦹‍♀️",
+    "description": "woman supervillain"
+  },
+  "mage": { "replacement": "🧙", "description": "mage" },
+  "mage mtu": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "mwanamke mage": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "hadithi": { "replacement": "🧚", "description": "fairy" },
+  "Fairy mtu": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "mwanamke wa Fairy": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "vampire": { "replacement": "🧛", "description": "vampire" },
+  "mtu wa vampire": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "mwanamke wa vampire": {
+    "replacement": "🧛‍♀️",
+    "description": "woman vampire"
+  },
+  "mshirika": { "replacement": "🧜", "description": "merperson" },
+  "merman": { "replacement": "🧜‍♂️", "description": "merman" },
+  "mermaid": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "elf": { "replacement": "🧝", "description": "elf" },
+  "mtu wa elf": { "replacement": "🧝‍♂️", "description": "man elf" },
+  "mwanamke wa elf": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "jini": { "replacement": "🧞", "description": "genie" },
+  "jini mtu": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "jini mwanamke": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "zombie": { "replacement": "🧟", "description": "zombie" },
+  "zombie mtu": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "zombie mwanamke": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "massage": { "replacement": "💆", "description": "person getting massage" },
+  "massage mtu": { "replacement": "💆‍♂️", "description": "man getting massage" },
+  "massage mwanamke": {
+    "replacement": "💆‍♀️",
+    "description": "woman getting massage"
+  },
+  "kukata nywele": {
+    "replacement": "💇",
+    "description": "person getting haircut"
+  },
+  "kukata nywele mtu": {
+    "replacement": "💇‍♂️",
+    "description": "man getting haircut"
+  },
+  "kukata nywele mwanamke": {
+    "replacement": "💇‍♀️",
+    "description": "woman getting haircut"
+  },
+  "kutembea": { "replacement": "🚶", "description": "person walking" },
+  "kutembea mtu": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "kutembea mwanamke": { "replacement": "🚶‍♀️", "description": "woman walking" },
+  "mtu aliyesimama": { "replacement": "🧍", "description": "person standing" },
+  "amesimama mtu": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "mwanamke aliyesimama": {
+    "replacement": "🧍‍♀️",
+    "description": "woman standing"
+  },
+  "mtu anayepiga magoti": {
+    "replacement": "🧎",
+    "description": "person kneeling"
+  },
+  "mtu aliyepiga magoti": {
+    "replacement": "🧎‍♂️",
+    "description": "man kneeling"
+  },
+  "kupiga magoti mwanamke": {
+    "replacement": "🧎‍♀️",
+    "description": "woman kneeling"
+  },
+  "mtu mwenye miwa ya kuchunguza": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "mwanamke aliye na miwa ya kuchunguza": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "mtu mwenye kiti cha magurudumu": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "mwanamke mwenye kiti cha magurudumu": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "mtu katika kiti cha magurudumu cha mwongozo": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "mtu mwenye kiti cha magurudumu cha mikono": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "mwanamke katika kiti cha magurudumu cha mikono": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "mkimbiaji": { "replacement": "🏃‍♂️", "description": "man running" },
+  "mbio mwanamke": { "replacement": "🏃‍♀️", "description": "woman running" },
+  "mwanamke akicheza": { "replacement": "💃", "description": "woman dancing" },
+  "mtu akicheza": { "replacement": "🕺", "description": "man dancing" },
+  "suti ya biashara inayotoa": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "wachezaji": { "replacement": "👯", "description": "people with bunny ears" },
+  "wanaume wanaocheza": {
+    "replacement": "👯‍♂️",
+    "description": "men with bunny ears"
+  },
+  "wanawake wanaocheza": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "mtu wa sauna": {
+    "replacement": "🧖",
+    "description": "person in steamy room"
+  },
+  "sauna mtu": { "replacement": "🧖‍♂️", "description": "man in steamy room" },
+  "mwanamke wa sauna": {
+    "replacement": "🧖‍♀️",
+    "description": "woman in steamy room"
+  },
+  "kupanda": { "replacement": "🧗", "description": "person climbing" },
+  "kupanda mtu": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "mwanamke anayepanda": {
+    "replacement": "🧗‍♀️",
+    "description": "woman climbing"
+  },
+  "uzio wa mtu": { "replacement": "🤺", "description": "person fencing" },
+  "mbio za farasi": { "replacement": "🏇", "description": "horse racing" },
+  "skier": { "replacement": "⛷️", "description": "skier" },
+  "snowboarder": { "replacement": "🏂", "description": "snowboarder" },
+  "mchezo wa gofu": { "replacement": "🏌️", "description": "person golfing" },
+  "mtu wa gofu": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "mwanamke wa gofu": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "surfer": { "replacement": "🏄", "description": "person surfing" },
+  "kutumia mtu": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "kutumia mwanamke": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "mashua": { "replacement": "⛵", "description": "sailboat" },
+  "kupiga makasia mtu": {
+    "replacement": "🚣‍♂️",
+    "description": "man rowing boat"
+  },
+  "kupiga makasia mwanamke": {
+    "replacement": "🚣‍♀️",
+    "description": "woman rowing boat"
+  },
+  "waogeleaji": { "replacement": "🏊", "description": "person swimming" },
+  "mtu wa kuogelea": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "mwanamke wa kuogelea": {
+    "replacement": "🏊‍♀️",
+    "description": "woman swimming"
+  },
+  "mtu anayepiga mpira": {
+    "replacement": "⛹️‍♂️",
+    "description": "man bouncing ball"
+  },
+  "mwanamke anayepiga mpira": {
+    "replacement": "⛹️‍♀️",
+    "description": "woman bouncing ball"
+  },
+  "kunyanyua uzani": {
+    "replacement": "🏋️",
+    "description": "person lifting weights"
+  },
+  "kuinua mtu": { "replacement": "🏋️‍♂️", "description": "man lifting weights" },
+  "kuinua uzito mwanamke": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "mwendesha baiskeli": { "replacement": "🚴", "description": "person biking" },
+  "baiskeli mtu": { "replacement": "🚴‍♂️", "description": "man biking" },
+  "mwanamke anayeendesha baiskeli": {
+    "replacement": "🚴‍♀️",
+    "description": "woman biking"
+  },
+  "mwendesha baiskeli mlima": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "mlima baiskeli mlima": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "mwanamke anayeendesha baiskeli mlima": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "magurudumu": { "replacement": "🤸", "description": "person cartwheeling" },
+  "mtu mkokoteni": { "replacement": "🤸‍♂️", "description": "man cartwheeling" },
+  "mwanamke mkokoteni": {
+    "replacement": "🤸‍♀️",
+    "description": "woman cartwheeling"
+  },
+  "mieleka": { "replacement": "🤼", "description": "people wrestling" },
+  "wanaume wakishindana": {
+    "replacement": "🤼‍♂️",
+    "description": "men wrestling"
+  },
+  "wanawake wakishindana": {
+    "replacement": "🤼‍♀️",
+    "description": "women wrestling"
+  },
+  "polo ya maji": {
+    "replacement": "🤽",
+    "description": "person playing water polo"
+  },
+  "mtu akicheza polo ya maji": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "mwanamke akicheza polo ya maji": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "mpira wa mikono": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "mtu akicheza mpira wa mikono": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "mwanamke akicheza mpira wa mikono": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "mtu wa mauzauza": { "replacement": "🤹", "description": "person juggling" },
+  "mtu anahangaika": { "replacement": "🤹‍♂️", "description": "man juggling" },
+  "mwanamke mauzauza": { "replacement": "🤹‍♀️", "description": "woman juggling" },
+  "nafasi ya lotus": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "nafasi ya lotus mtu": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "nafasi ya lotus mwanamke": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "umwagaji": { "replacement": "🛀", "description": "person taking bath" },
+  "kitanda cha kulala": { "replacement": "🛌", "description": "person in bed" },
+  "watu wakishikana mikono": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "wanawake wawili wameshikana mikono": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "wanandoa": {
+    "replacement": "👫",
+    "description": "woman and man holding hands"
+  },
+  "wanaume wawili wakiwa wameshikana mikono": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "couplekiss": { "replacement": "💏", "description": "kiss" },
+  "couplekiss mwanaume mwanamke": {
+    "replacement": "👩‍❤️‍💋‍👨",
+    "description": "kiss: woman, man"
+  },
+  "couplekiss mwanaume": {
+    "replacement": "👨‍❤️‍💋‍👨",
+    "description": "kiss: man, man"
+  },
+  "mwanamke wa couplekiss mwanamke": {
+    "replacement": "👩‍❤️‍💋‍👩",
+    "description": "kiss: woman, woman"
+  },
+  "wanandoa wenye moyo": {
+    "replacement": "💑",
+    "description": "couple with heart"
+  },
+  "wanandoa wenye moyo mwanamke mwanamume": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "wanandoa wenye moyo mtu mtu": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "wanandoa wenye moyo mwanamke mwanamke": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "familia": { "replacement": "👪", "description": "family" },
+  "mtu wa familia mwanamke mvulana": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "mtu wa familia mwanamke msichana": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "mtu wa familia mwanamke msichana wa kiume": {
+    "replacement": "👨‍👩‍👧‍👦",
+    "description": "family: man, woman, girl, boy"
+  },
+  "mtu wa familia mwanamke mvulana wa kiume": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "mtu wa familia mtu wa kiume": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "mtu wa familia mtu wa kike": {
+    "replacement": "👨‍👨‍👧",
+    "description": "family: man, man, girl"
+  },
+  "mtu wa familia mtu wa kiume msichana": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "mtu wa familia mtu wa kiume mvulana": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "mtu wa familia mtu wa kike msichana": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "mwanamke wa familia mwanamke mvulana": {
+    "replacement": "👩‍👩‍👦",
+    "description": "family: woman, woman, boy"
+  },
+  "mwanamke wa familia mwanamke msichana": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "mwanamke wa familia mwanamke mvulana wa kiume": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "mvulana wa familia": {
+    "replacement": "👨‍👦",
+    "description": "family: man, boy"
+  },
+  "jamaa wa kiume mvulana": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "msichana wa familia": {
+    "replacement": "👩‍👧",
+    "description": "family: woman, girl"
+  },
+  "jamaa wa kike msichana": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "kijana wa kike wa familia": {
+    "replacement": "👩‍👦",
+    "description": "family: woman, boy"
+  },
+  "mwanamke wa familia mvulana wa kiume": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "mwanamke wa kike msichana": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "msichana wa familia msichana": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "akizungumza kichwa": { "replacement": "🗣️", "description": "speaking head" },
+  "kraschlandning katika silhouette": {
+    "replacement": "👤",
+    "description": "bust in silhouette"
+  },
+  "mabasi katika silhouette": {
+    "replacement": "👥",
+    "description": "busts in silhouette"
+  },
+  "watu wakikumbatiana": {
+    "replacement": "🫂",
+    "description": "people hugging"
+  },
+  "nyayo": { "replacement": "👣", "description": "footprints" },
+  "nyani uso": { "replacement": "🐵", "description": "monkey face" },
+  "nyani": { "replacement": "🐒", "description": "monkey" },
+  "gorilla": { "replacement": "🦍", "description": "gorilla" },
+  "orangutan": { "replacement": "🦧", "description": "orangutan" },
+  "mbwa": { "replacement": "🐶", "description": "dog face" },
+  "mbwa2": { "replacement": "🐕", "description": "dog" },
+  "mbwa mwongozo": { "replacement": "🦮", "description": "guide dog" },
+  "mbwa wa huduma": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "poodle": { "replacement": "🐩", "description": "poodle" },
+  "mbwa Mwitu": { "replacement": "🐺", "description": "wolf" },
+  "uso wa mbweha": { "replacement": "🦊", "description": "fox" },
+  "raccoon": { "replacement": "🦝", "description": "raccoon" },
+  "paka": { "replacement": "🐱", "description": "cat face" },
+  "paka2": { "replacement": "🐈", "description": "cat" },
+  "paka mweusi": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "simba": { "replacement": "🦁", "description": "lion" },
+  "tiger": { "replacement": "🐯", "description": "tiger face" },
+  "tiger2": { "replacement": "🐅", "description": "tiger" },
+  "chui": { "replacement": "🐆", "description": "leopard" },
+  "farasi": { "replacement": "🐴", "description": "horse face" },
+  "farasi wa mbio": { "replacement": "🐎", "description": "horse" },
+  "nyati": { "replacement": "🦬", "description": "bison" },
+  "pundamilia": { "replacement": "🦓", "description": "zebra" },
+  "kulungu": { "replacement": "🦌", "description": "deer" },
+  "ng'ombe": { "replacement": "🐂", "description": "ox" },
+  "nyati wa maji": { "replacement": "🐃", "description": "water buffalo" },
+  "ng'ombe2": { "replacement": "🐄", "description": "cow" },
+  "nguruwe": { "replacement": "🐗", "description": "boar" },
+  "nguruwe2": { "replacement": "🐖", "description": "pig" },
+  "pua ya nguruwe": { "replacement": "🐽", "description": "pig nose" },
+  "kondoo mume": { "replacement": "🐏", "description": "ram" },
+  "kondoo": { "replacement": "🐑", "description": "ewe" },
+  "mbuzi": { "replacement": "🐐", "description": "goat" },
+  "ngamia anayenyonyesha": { "replacement": "🐪", "description": "camel" },
+  "ngamia": { "replacement": "🐫", "description": "two-hump camel" },
+  "llama": { "replacement": "🦙", "description": "llama" },
+  "twiga": { "replacement": "🦒", "description": "giraffe" },
+  "tembo": { "replacement": "🐘", "description": "elephant" },
+  "mammoth": { "replacement": "🦣", "description": "mammoth" },
+  "kifaru": { "replacement": "🦏", "description": "rhinoceros" },
+  "kiboko": { "replacement": "🦛", "description": "hippopotamus" },
+  "panya": { "replacement": "🐀", "description": "rat" },
+  "panya2": { "replacement": "🐁", "description": "mouse" },
+  "hamster": { "replacement": "🐹", "description": "hamster" },
+  "sungura": { "replacement": "🐰", "description": "rabbit face" },
+  "sungura2": { "replacement": "🐇", "description": "rabbit" },
+  "chipmunk": { "replacement": "🐿️", "description": "chipmunk" },
+  "beaver": { "replacement": "🦫", "description": "beaver" },
+  "hedgehog": { "replacement": "🦔", "description": "hedgehog" },
+  "popo": { "replacement": "🦇", "description": "bat" },
+  "kubeba": { "replacement": "🐻", "description": "bear" },
+  "kubeba polar": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "koala": { "replacement": "🐨", "description": "koala" },
+  "uso wa panda": { "replacement": "🐼", "description": "panda" },
+  "uvivu": { "replacement": "🦥", "description": "sloth" },
+  "otter": { "replacement": "🦦", "description": "otter" },
+  "skunk": { "replacement": "🦨", "description": "skunk" },
+  "kangaroo": { "replacement": "🦘", "description": "kangaroo" },
+  "beji": { "replacement": "🦡", "description": "badger" },
+  "miguu": { "replacement": "🐾", "description": "paw prints" },
+  "Uturuki": { "replacement": "🦃", "description": "turkey" },
+  "kuku": { "replacement": "🐔", "description": "chicken" },
+  "jogoo": { "replacement": "🍸", "description": "cocktail glass" },
+  "kuanguliwa kifaranga": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "kifaranga cha mtoto": { "replacement": "🐤", "description": "baby chick" },
+  "ndege": { "replacement": "✈️", "description": "airplane" },
+  "Ngwini": { "replacement": "🐧", "description": "penguin" },
+  "njiwa": { "replacement": "🕊️", "description": "dove" },
+  "tai": { "replacement": "👔", "description": "necktie" },
+  "bata": { "replacement": "🦆", "description": "duck" },
+  "Swan": { "replacement": "🦢", "description": "swan" },
+  "bundi": { "replacement": "🦉", "description": "owl" },
+  "dodo": { "replacement": "🦤", "description": "dodo" },
+  "manyoya": { "replacement": "🪶", "description": "feather" },
+  "flamingo": { "replacement": "🦩", "description": "flamingo" },
+  "tausi": { "replacement": "🦚", "description": "peacock" },
+  "kasuku": { "replacement": "🦜", "description": "parrot" },
+  "chura": { "replacement": "🐸", "description": "frog" },
+  "mamba": { "replacement": "🐊", "description": "crocodile" },
+  "kobe": { "replacement": "🐢", "description": "turtle" },
+  "mjusi": { "replacement": "🦎", "description": "lizard" },
+  "nyoka": { "replacement": "🐍", "description": "snake" },
+  "uso wa joka": { "replacement": "🐲", "description": "dragon face" },
+  "joka": { "replacement": "🐉", "description": "dragon" },
+  "sauropod": { "replacement": "🦕", "description": "sauropod" },
+  "t-rex": { "replacement": "🦖", "description": "T-Rex" },
+  "nyangumi": { "replacement": "🐳", "description": "spouting whale" },
+  "nyangumi2": { "replacement": "🐋", "description": "whale" },
+  "dolphin": { "replacement": "🐬", "description": "dolphin" },
+  "muhuri": { "replacement": "🦭", "description": "seal" },
+  "samaki": { "replacement": "🐟", "description": "fish" },
+  "samaki wa kitropiki": {
+    "replacement": "🐠",
+    "description": "tropical fish"
+  },
+  "samaki wa pigo": { "replacement": "🐡", "description": "blowfish" },
+  "papa": { "replacement": "🦈", "description": "shark" },
+  "pweza": { "replacement": "🐙", "description": "octopus" },
+  "ganda": { "replacement": "🐚", "description": "spiral shell" },
+  "konokono": { "replacement": "🐌", "description": "snail" },
+  "kipepeo": { "replacement": "🦋", "description": "butterfly" },
+  "mdudu": { "replacement": "🪱", "description": "worm" },
+  "mchwa": { "replacement": "🐜", "description": "ant" },
+  "nyuki": { "replacement": "🐝", "description": "honeybee" },
+  "mende": { "replacement": "🪳", "description": "cockroach" },
+  "mwanamke mende": { "replacement": "🐞", "description": "lady beetle" },
+  "kriketi": { "replacement": "🦗", "description": "cricket" },
+  "buibui": { "replacement": "🕷️", "description": "spider" },
+  "utando wa buibui": { "replacement": "🕸️", "description": "spider web" },
+  "nge": { "replacement": "🦂", "description": "scorpion" },
+  "mbu": { "replacement": "🦟", "description": "mosquito" },
+  "kuruka": { "replacement": "🪰", "description": "fly" },
+  "microbe": { "replacement": "🦠", "description": "microbe" },
+  "bouquet": { "replacement": "💐", "description": "bouquet" },
+  "maua ya cherry": { "replacement": "🌸", "description": "cherry blossom" },
+  "maua meupe": { "replacement": "💮", "description": "white flower" },
+  "Rosette": { "replacement": "🏵️", "description": "rosette" },
+  "kufufuka": { "replacement": "🌹", "description": "rose" },
+  "maua yaliyokauka": { "replacement": "🥀", "description": "wilted flower" },
+  "hibiscus": { "replacement": "🌺", "description": "hibiscus" },
+  "alizeti": { "replacement": "🌻", "description": "sunflower" },
+  "maua": { "replacement": "🌼", "description": "blossom" },
+  "tulip": { "replacement": "🌷", "description": "tulip" },
+  "mche": { "replacement": "🌱", "description": "seedling" },
+  "mmea wa sufuria": { "replacement": "🪴", "description": "potted plant" },
+  "mti wa kijani kibichi kila wakati": {
+    "replacement": "🌲",
+    "description": "evergreen tree"
+  },
+  "mti unaoamua": { "replacement": "🌳", "description": "deciduous tree" },
+  "mtende": { "replacement": "🌴", "description": "palm tree" },
+  "cactus": { "replacement": "🌵", "description": "cactus" },
+  "sikio la mchele": { "replacement": "🌾", "description": "sheaf of rice" },
+  "mimea": { "replacement": "🌿", "description": "herb" },
+  "shamrock": { "replacement": "☘️", "description": "shamrock" },
+  "karafuu nne ya majani": {
+    "replacement": "🍀",
+    "description": "four leaf clover"
+  },
+  "jani la maple": { "replacement": "🍁", "description": "maple leaf" },
+  "jani lililoanguka": { "replacement": "🍂", "description": "fallen leaf" },
+  "majani": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "zabibu": { "replacement": "🍇", "description": "grapes" },
+  "Tikiti": { "replacement": "🍈", "description": "melon" },
+  "tikiti maji": { "replacement": "🍉", "description": "watermelon" },
+  "tangerine": { "replacement": "🍊", "description": "tangerine" },
+  "limau": { "replacement": "🍋", "description": "lemon" },
+  "ndizi": { "replacement": "🍌", "description": "banana" },
+  "mananasi": { "replacement": "🍍", "description": "pineapple" },
+  "embe": { "replacement": "🥭", "description": "mango" },
+  "apple": { "replacement": "🍎", "description": "red apple" },
+  "apple ya kijani": { "replacement": "🍏", "description": "green apple" },
+  "peari": { "replacement": "🍐", "description": "pear" },
+  "Peach": { "replacement": "🍑", "description": "peach" },
+  "cherries": { "replacement": "🍒", "description": "cherries" },
+  "jordgubbar": { "replacement": "🍓", "description": "strawberry" },
+  "matunda ya bluu": { "replacement": "🫐", "description": "blueberries" },
+  "kiwi matunda": { "replacement": "🥝", "description": "kiwi fruit" },
+  "nyanya": { "replacement": "🍅", "description": "tomato" },
+  "mzeituni": { "replacement": "🫒", "description": "olive" },
+  "nazi": { "replacement": "🥥", "description": "coconut" },
+  "parachichi": { "replacement": "🥑", "description": "avocado" },
+  "mbilingani": { "replacement": "🍆", "description": "eggplant" },
+  "viazi": { "replacement": "🥔", "description": "potato" },
+  "karoti": { "replacement": "🥕", "description": "carrot" },
+  "mahindi": { "replacement": "🌽", "description": "ear of corn" },
+  "pilipili kali": { "replacement": "🌶️", "description": "hot pepper" },
+  "pilipili ya kengele": { "replacement": "🫑", "description": "bell pepper" },
+  "tango": { "replacement": "🥒", "description": "cucumber" },
+  "kijani kibichi": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "brokoli": { "replacement": "🥦", "description": "broccoli" },
+  "vitunguu": { "replacement": "🧄", "description": "garlic" },
+  "kitunguu": { "replacement": "🧅", "description": "onion" },
+  "uyoga": { "replacement": "🍄", "description": "mushroom" },
+  "karanga": { "replacement": "🥜", "description": "peanuts" },
+  "chestnut": { "replacement": "🌰", "description": "chestnut" },
+  "mkate": { "replacement": "🍞", "description": "bread" },
+  "mkoromo": { "replacement": "🥐", "description": "croissant" },
+  "mkate wa baguette": { "replacement": "🥖", "description": "baguette bread" },
+  "mkate wa gorofa": { "replacement": "🫓", "description": "flatbread" },
+  "pretzel": { "replacement": "🥨", "description": "pretzel" },
+  "bagel": { "replacement": "🥯", "description": "bagel" },
+  "pancake": { "replacement": "🥞", "description": "pancakes" },
+  "waffle": { "replacement": "🧇", "description": "waffle" },
+  "jibini": { "replacement": "🧀", "description": "cheese wedge" },
+  "nyama kwenye mfupa": { "replacement": "🍖", "description": "meat on bone" },
+  "mguu wa kuku": { "replacement": "🍗", "description": "poultry leg" },
+  "kata ya nyama": { "replacement": "🥩", "description": "cut of meat" },
+  "Bacon": { "replacement": "🥓", "description": "bacon" },
+  "hamburger": { "replacement": "🍔", "description": "hamburger" },
+  "kaanga": { "replacement": "🍟", "description": "french fries" },
+  "pizza": { "replacement": "🍕", "description": "pizza" },
+  "mbwa wa moto": { "replacement": "🌭", "description": "hot dog" },
+  "sandwich": { "replacement": "🥪", "description": "sandwich" },
+  "taco": { "replacement": "🌮", "description": "taco" },
+  "burrito": { "replacement": "🌯", "description": "burrito" },
+  "tamale": { "replacement": "🫔", "description": "tamale" },
+  "mkate wa gorofa uliojazwa": {
+    "replacement": "🥙",
+    "description": "stuffed flatbread"
+  },
+  "falafel": { "replacement": "🧆", "description": "falafel" },
+  "yai": { "replacement": "🥚", "description": "egg" },
+  "yai iliyokaangwa": { "replacement": "🍳", "description": "cooking" },
+  "sufuria duni ya chakula": {
+    "replacement": "🥘",
+    "description": "shallow pan of food"
+  },
+  "kitoweo": { "replacement": "🍲", "description": "pot of food" },
+  "fondue": { "replacement": "🫕", "description": "fondue" },
+  "bakuli na kijiko": { "replacement": "🥣", "description": "bowl with spoon" },
+  "saladi ya kijani": { "replacement": "🥗", "description": "green salad" },
+  "popcorn": { "replacement": "🍿", "description": "popcorn" },
+  "siagi": { "replacement": "🧈", "description": "butter" },
+  "chumvi": { "replacement": "🧂", "description": "salt" },
+  "chakula cha makopo": { "replacement": "🥫", "description": "canned food" },
+  "bento": { "replacement": "🍱", "description": "bento box" },
+  "Mchezaji wa mchele": { "replacement": "🍘", "description": "rice cracker" },
+  "mpira wa mchele": { "replacement": "🍙", "description": "rice ball" },
+  "mchele": { "replacement": "🍚", "description": "cooked rice" },
+  "curry": { "replacement": "🍛", "description": "curry rice" },
+  "ramen": { "replacement": "🍜", "description": "steaming bowl" },
+  "tambi": { "replacement": "🍝", "description": "spaghetti" },
+  "viazi vitamu": {
+    "replacement": "🍠",
+    "description": "roasted sweet potato"
+  },
+  "oden": { "replacement": "🍢", "description": "oden" },
+  "sushi": { "replacement": "🍣", "description": "sushi" },
+  "kamba ya kukaanga": { "replacement": "🍤", "description": "fried shrimp" },
+  "keki ya samaki": {
+    "replacement": "🍥",
+    "description": "fish cake with swirl"
+  },
+  "keki ya mwezi": { "replacement": "🥮", "description": "moon cake" },
+  "dango": { "replacement": "🍡", "description": "dango" },
+  "utupaji taka": { "replacement": "🥟", "description": "dumpling" },
+  "kuki ya bahati": { "replacement": "🥠", "description": "fortune cookie" },
+  "sanduku la kuchukua": { "replacement": "🥡", "description": "takeout box" },
+  "kaa": { "replacement": "🦀", "description": "crab" },
+  "kamba": { "replacement": "🦞", "description": "lobster" },
+  "uduvi": { "replacement": "🦐", "description": "shrimp" },
+  "ngisi": { "replacement": "🦑", "description": "squid" },
+  "chaza": { "replacement": "🦪", "description": "oyster" },
+  "barafu": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "barafu iliyonyolewa": { "replacement": "🍧", "description": "shaved ice" },
+  "ice cream": { "replacement": "🍨", "description": "ice cream" },
+  "donut": { "replacement": "🍩", "description": "doughnut" },
+  "kuki": { "replacement": "🍪", "description": "cookie" },
+  "siku ya kuzaliwa": { "replacement": "🎂", "description": "birthday cake" },
+  "keki": { "replacement": "🍰", "description": "shortcake" },
+  "keki ya kikombe": { "replacement": "🧁", "description": "cupcake" },
+  "pai": { "replacement": "🥧", "description": "pie" },
+  "chokoleti": { "replacement": "🍫", "description": "chocolate bar" },
+  "pipi": { "replacement": "🍬", "description": "candy" },
+  "lollipop": { "replacement": "🍭", "description": "lollipop" },
+  "custard": { "replacement": "🍮", "description": "custard" },
+  "sufuria ya asali": { "replacement": "🍯", "description": "honey pot" },
+  "chupa ya mtoto": { "replacement": "🍼", "description": "baby bottle" },
+  "glasi ya maziwa": { "replacement": "🥛", "description": "glass of milk" },
+  "kahawa": { "replacement": "☕", "description": "hot beverage" },
+  "teapot": { "replacement": "🫖", "description": "teapot" },
+  "chai": { "replacement": "🍵", "description": "teacup without handle" },
+  "kwa sababu": { "replacement": "🍶", "description": "sake" },
+  "shampeni": {
+    "replacement": "🍾",
+    "description": "bottle with popping cork"
+  },
+  "glasi ya divai": { "replacement": "🍷", "description": "wine glass" },
+  "undefined": { "replacement": "🇰🇾", "description": "flag: Cayman Islands" },
+  "bia": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "glasi zinazogongana": {
+    "replacement": "🥂",
+    "description": "clinking glasses"
+  },
+  "glasi ya kugonga": { "replacement": "🥃", "description": "tumbler glass" },
+  "kikombe na majani": { "replacement": "🥤", "description": "cup with straw" },
+  "chai ya Bubble": { "replacement": "🧋", "description": "bubble tea" },
+  "sanduku la vinywaji": { "replacement": "🧃", "description": "beverage box" },
+  "mwenzi": { "replacement": "🧉", "description": "mate" },
+  "mchemraba wa barafu": { "replacement": "🧊", "description": "ice" },
+  "vijiti": { "replacement": "🥢", "description": "chopsticks" },
+  "sahani na cutlery": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "uma na kisu": { "replacement": "🍴", "description": "fork and knife" },
+  "kijiko": { "replacement": "🥄", "description": "spoon" },
+  "hocho": { "replacement": "🔪", "description": "kitchen knife" },
+  "amphora": { "replacement": "🏺", "description": "amphora" },
+  "nchi ya afrika": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "Amerika ya Kusini": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "Asia asilia": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "ulimwengu na meridians": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "ramani ya ulimwengu": { "replacement": "🗺️", "description": "world map" },
+  "Kijapani": { "replacement": "🗾", "description": "map of Japan" },
+  "dira": { "replacement": "🧭", "description": "compass" },
+  "theluji ya mlima": {
+    "replacement": "🏔️",
+    "description": "snow-capped mountain"
+  },
+  "mlima": { "replacement": "⛰️", "description": "mountain" },
+  "volkano": { "replacement": "🌋", "description": "volcano" },
+  "mlima fuji": { "replacement": "🗻", "description": "mount fuji" },
+  "kambi": { "replacement": "🏕️", "description": "camping" },
+  "mwavuli wa pwani": {
+    "replacement": "🏖️",
+    "description": "beach with umbrella"
+  },
+  "jangwa": { "replacement": "🏜️", "description": "desert" },
+  "kisiwa cha jangwani": {
+    "replacement": "🏝️",
+    "description": "desert island"
+  },
+  "mbuga ya wanyama": { "replacement": "🏞️", "description": "national park" },
+  "uwanja": { "replacement": "🏟️", "description": "stadium" },
+  "jengo la classical": {
+    "replacement": "🏛️",
+    "description": "classical building"
+  },
+  "ujenzi wa jengo": {
+    "replacement": "🏗️",
+    "description": "building construction"
+  },
+  "matofali": { "replacement": "🧱", "description": "brick" },
+  "mwamba": { "replacement": "🪨", "description": "rock" },
+  "kuni": { "replacement": "🪵", "description": "wood" },
+  "kibanda": { "replacement": "🛖", "description": "hut" },
+  "nyumba": { "replacement": "🏠", "description": "house" },
+  "nyumba ya uharibifu": {
+    "replacement": "🏚️",
+    "description": "derelict house"
+  },
+  "nyumba na bustani": {
+    "replacement": "🏡",
+    "description": "house with garden"
+  },
+  "ofisini": { "replacement": "🏢", "description": "office building" },
+  "ofisi ya Posta": {
+    "replacement": "🏣",
+    "description": "Japanese post office"
+  },
+  "ofisi ya posta ya ulaya": {
+    "replacement": "🏤",
+    "description": "post office"
+  },
+  "hospitali": { "replacement": "🏥", "description": "hospital" },
+  "Benki": { "replacement": "🏦", "description": "bank" },
+  "hoteli": { "replacement": "🏨", "description": "hotel" },
+  "upendo hoteli": { "replacement": "🏩", "description": "love hotel" },
+  "duka la urahisi": {
+    "replacement": "🏪",
+    "description": "convenience store"
+  },
+  "shule": { "replacement": "🏫", "description": "school" },
+  "duka la idara": { "replacement": "🏬", "description": "department store" },
+  "kiwanda": { "replacement": "🏭", "description": "factory" },
+  "kasri la Kijapani": {
+    "replacement": "🏯",
+    "description": "Japanese castle"
+  },
+  "kasri la ulaya": { "replacement": "🏰", "description": "castle" },
+  "harusi": { "replacement": "💒", "description": "wedding" },
+  "mnara wa tokyo": { "replacement": "🗼", "description": "Tokyo tower" },
+  "sanamu ya uhuru": {
+    "replacement": "🗽",
+    "description": "Statue of Liberty"
+  },
+  "kanisa": { "replacement": "⛪", "description": "church" },
+  "msikiti": { "replacement": "🕌", "description": "mosque" },
+  "hekalu la hindu": { "replacement": "🛕", "description": "hindu temple" },
+  "sinagogi": { "replacement": "🕍", "description": "synagogue" },
+  "kaburi la shinto": { "replacement": "⛩️", "description": "shinto shrine" },
+  "kaaba": { "replacement": "🕋", "description": "kaaba" },
+  "chemchemi": { "replacement": "⛲", "description": "fountain" },
+  "hema": { "replacement": "⛺", "description": "tent" },
+  "ukungu": { "replacement": "🌫️", "description": "fog" },
+  "usiku na nyota": { "replacement": "🌃", "description": "night with stars" },
+  "uporaji wa jiji": { "replacement": "🏙️", "description": "cityscape" },
+  "jua juu ya milima": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "kuchomoza kwa jua": { "replacement": "🌅", "description": "sunrise" },
+  "machweo ya jiji": {
+    "replacement": "🌆",
+    "description": "cityscape at dusk"
+  },
+  "kuchomoza jua kwa jiji": { "replacement": "🌇", "description": "sunset" },
+  "daraja usiku": { "replacement": "🌉", "description": "bridge at night" },
+  "maeneo ya moto": { "replacement": "♨️", "description": "hot springs" },
+  "farasi jukwa": { "replacement": "🎠", "description": "carousel horse" },
+  "Ferris gurudumu": { "replacement": "🎡", "description": "ferris wheel" },
+  "roller Coaster": { "replacement": "🎢", "description": "roller coaster" },
+  "kinyozi": { "replacement": "💈", "description": "barber pole" },
+  "hema ya sarakasi": { "replacement": "🎪", "description": "circus tent" },
+  "locomotive ya mvuke": { "replacement": "🚂", "description": "locomotive" },
+  "gari la reli": { "replacement": "🚃", "description": "railway car" },
+  "upande wa bullettrain": {
+    "replacement": "🚄",
+    "description": "high-speed train"
+  },
+  "mbele ya bullettrain": {
+    "replacement": "🚅",
+    "description": "bullet train"
+  },
+  "treni2": { "replacement": "🚆", "description": "train" },
+  "metro": { "replacement": "🚇", "description": "metro" },
+  "reli nyepesi": { "replacement": "🚈", "description": "light rail" },
+  "kituo": { "replacement": "🚉", "description": "station" },
+  "tramu": { "replacement": "🚊", "description": "tram" },
+  "monorail": { "replacement": "🚝", "description": "monorail" },
+  "reli ya mlima": { "replacement": "🚞", "description": "mountain railway" },
+  "treni": { "replacement": "🚋", "description": "tram car" },
+  "basi": { "replacement": "🚌", "description": "bus" },
+  "basi linalokuja": { "replacement": "🚍", "description": "oncoming bus" },
+  "basi ya trolley": { "replacement": "🚎", "description": "trolleybus" },
+  "basi dogo": { "replacement": "🚐", "description": "minibus" },
+  "gari la wagonjwa": { "replacement": "🚑", "description": "ambulance" },
+  "injini ya moto": { "replacement": "🚒", "description": "fire engine" },
+  "gari la polisi": { "replacement": "🚓", "description": "police car" },
+  "gari la polisi linalokuja": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "teksi": { "replacement": "🚕", "description": "taxi" },
+  "teksi inayokuja": { "replacement": "🚖", "description": "oncoming taxi" },
+  "gari": { "replacement": "🚗", "description": "automobile" },
+  "gari linalokuja": {
+    "replacement": "🚘",
+    "description": "oncoming automobile"
+  },
+  "gari la samawati": {
+    "replacement": "🚙",
+    "description": "sport utility vehicle"
+  },
+  "lori la kubeba": { "replacement": "🛻", "description": "pickup truck" },
+  "lori": { "replacement": "🚚", "description": "delivery truck" },
+  "lori lililotamkwa": {
+    "replacement": "🚛",
+    "description": "articulated lorry"
+  },
+  "trekta": { "replacement": "🚜", "description": "tractor" },
+  "mbio za gari": { "replacement": "🏎️", "description": "racing car" },
+  "pikipiki": { "replacement": "🛴", "description": "kick scooter" },
+  "Kiti cha magurudumu cha mikono": {
+    "replacement": "🦽",
+    "description": "manual wheelchair"
+  },
+  "Kiti cha magurudumu": {
+    "replacement": "🦼",
+    "description": "motorized wheelchair"
+  },
+  "Urisho wa gari": { "replacement": "🛺", "description": "auto rickshaw" },
+  "baiskeli": { "replacement": "🚲", "description": "bicycle" },
+  "skateboard": { "replacement": "🛹", "description": "skateboard" },
+  "viatu telezi": { "replacement": "🛼", "description": "roller skate" },
+  "Kituo cha basi": { "replacement": "🚏", "description": "bus stop" },
+  "Barabara": { "replacement": "🛣️", "description": "motorway" },
+  "wimbo wa reli": { "replacement": "🛤️", "description": "railway track" },
+  "ngoma ya mafuta": { "replacement": "🛢️", "description": "oil drum" },
+  "bomba la mafuta": { "replacement": "⛽", "description": "fuel pump" },
+  "taa inayozunguka": {
+    "replacement": "🚨",
+    "description": "police car light"
+  },
+  "taa ya trafiki": {
+    "replacement": "🚥",
+    "description": "horizontal traffic light"
+  },
+  "wima trafiki taa": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "ishara ya kuacha": { "replacement": "🛑", "description": "stop sign" },
+  "ujenzi": { "replacement": "🚧", "description": "construction" },
+  "nanga": { "replacement": "⚓", "description": "anchor" },
+  "mtumbwi": { "replacement": "🛶", "description": "canoe" },
+  "mashua ya mwendo kasi": { "replacement": "🚤", "description": "speedboat" },
+  "meli ya abiria": { "replacement": "🛳️", "description": "passenger ship" },
+  "kivuko": { "replacement": "⛴️", "description": "ferry" },
+  "mashua ya magari": { "replacement": "🛥️", "description": "motor boat" },
+  "meli": { "replacement": "🚢", "description": "ship" },
+  "ndege ndogo": { "replacement": "🛩️", "description": "small airplane" },
+  "kuondoka kwa ndege": {
+    "replacement": "🛫",
+    "description": "airplane departure"
+  },
+  "kuwasili kwa ndege": {
+    "replacement": "🛬",
+    "description": "airplane arrival"
+  },
+  "parachuti": { "replacement": "🪂", "description": "parachute" },
+  "kiti": { "replacement": "💺", "description": "seat" },
+  "helikopta": { "replacement": "🚁", "description": "helicopter" },
+  "reli ya kusimamishwa": {
+    "replacement": "🚟",
+    "description": "suspension railway"
+  },
+  "njia ya mlima": { "replacement": "🚠", "description": "mountain cableway" },
+  "barabara ya angani": {
+    "replacement": "🚡",
+    "description": "aerial tramway"
+  },
+  "satelaiti bandia": { "replacement": "🛰️", "description": "satellite" },
+  "roketi": { "replacement": "🚀", "description": "rocket" },
+  "mchuzi wa kuruka": { "replacement": "🛸", "description": "flying saucer" },
+  "kengele ya kengele": { "replacement": "🛎️", "description": "bellhop bell" },
+  "mzigo": { "replacement": "🧳", "description": "luggage" },
+  "glasi ya saa": { "replacement": "⌛", "description": "hourglass done" },
+  "mchanga wa mtiririko wa saa": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "angalia": { "replacement": "⌚", "description": "watch" },
+  "Saa ya Kengele": { "replacement": "⏰", "description": "alarm clock" },
+  "saa ya saa": { "replacement": "⏲️", "description": "timer clock" },
+  "saa ya kipengee": {
+    "replacement": "🕰️",
+    "description": "mantelpiece clock"
+  },
+  "saa12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "saa1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "saa1": { "replacement": "🕐", "description": "one o’clock" },
+  "saa130": { "replacement": "🕜", "description": "one-thirty" },
+  "saa2": { "replacement": "🕑", "description": "two o’clock" },
+  "saa230": { "replacement": "🕝", "description": "two-thirty" },
+  "saa3": { "replacement": "🕒", "description": "three o’clock" },
+  "saa330": { "replacement": "🕞", "description": "three-thirty" },
+  "saa4": { "replacement": "🕓", "description": "four o’clock" },
+  "saa 430": { "replacement": "🕟", "description": "four-thirty" },
+  "saa5": { "replacement": "🕔", "description": "five o’clock" },
+  "saa530": { "replacement": "🕠", "description": "five-thirty" },
+  "saa6": { "replacement": "🕕", "description": "six o’clock" },
+  "saa630": { "replacement": "🕡", "description": "six-thirty" },
+  "saa7": { "replacement": "🕖", "description": "seven o’clock" },
+  "saa730": { "replacement": "🕢", "description": "seven-thirty" },
+  "saa8": { "replacement": "🕗", "description": "eight o’clock" },
+  "saa 830": { "replacement": "🕣", "description": "eight-thirty" },
+  "saa9": { "replacement": "🕘", "description": "nine o’clock" },
+  "saa930": { "replacement": "🕤", "description": "nine-thirty" },
+  "saa10": { "replacement": "🕙", "description": "ten o’clock" },
+  "saa1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "saa11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "saa1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "mwezi mpya": { "replacement": "🌑", "description": "new moon" },
+  "mwezi wa mpevu": {
+    "replacement": "🌒",
+    "description": "waxing crescent moon"
+  },
+  "robo ya kwanza ya mwezi": {
+    "replacement": "🌓",
+    "description": "first quarter moon"
+  },
+  "mwezi": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "mwezi mzima": { "replacement": "🌕", "description": "full moon" },
+  "mwezi wa gibbous": {
+    "replacement": "🌖",
+    "description": "waning gibbous moon"
+  },
+  "mwezi wa robo iliyopita": {
+    "replacement": "🌗",
+    "description": "last quarter moon"
+  },
+  "mwezi uliopungua wa mpevu": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "mwezi mpevu": { "replacement": "🌙", "description": "crescent moon" },
+  "mwezi mpya na uso": { "replacement": "🌚", "description": "new moon face" },
+  "mwezi wa kwanza wa robo na uso": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "mwezi wa robo iliyopita na uso": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "kipima joto": { "replacement": "🌡️", "description": "thermometer" },
+  "jua": { "replacement": "☀️", "description": "sun" },
+  "mwezi kamili na uso": {
+    "replacement": "🌝",
+    "description": "full moon face"
+  },
+  "jua na uso": { "replacement": "🌞", "description": "sun with face" },
+  "sayari iliyochomwa": { "replacement": "🪐", "description": "ringed planet" },
+  "nyota": { "replacement": "🌠", "description": "shooting star" },
+  "nyota2": { "replacement": "🌟", "description": "glowing star" },
+  "njia ya maziwa": { "replacement": "🌌", "description": "milky way" },
+  "wingu": { "replacement": "☁️", "description": "cloud" },
+  "jua kidogo": { "replacement": "⛅", "description": "sun behind cloud" },
+  "wingu na umeme na mvua": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "jua nyuma ya wingu ndogo": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "jua nyuma ya wingu kubwa": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "jua nyuma ya wingu la mvua": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "wingu na mvua": { "replacement": "🌧️", "description": "cloud with rain" },
+  "wingu na theluji": { "replacement": "🌨️", "description": "cloud with snow" },
+  "wingu na umeme": {
+    "replacement": "🌩️",
+    "description": "cloud with lightning"
+  },
+  "kimbunga": { "replacement": "🌀", "description": "cyclone" },
+  "uso wa upepo": { "replacement": "🌬️", "description": "wind face" },
+  "upinde wa mvua": { "replacement": "🌈", "description": "rainbow" },
+  "mwavuli uliofungwa": {
+    "replacement": "🌂",
+    "description": "closed umbrella"
+  },
+  "mwavuli wazi": { "replacement": "☂️", "description": "umbrella" },
+  "mwavuli": { "replacement": "☔", "description": "umbrella with rain drops" },
+  "vimelea juu ya ardhi": {
+    "replacement": "⛱️",
+    "description": "umbrella on ground"
+  },
+  "zap": { "replacement": "⚡", "description": "high voltage" },
+  "theluji": { "replacement": "❄️", "description": "snowflake" },
+  "mtu wa theluji na theluji": {
+    "replacement": "☃️",
+    "description": "snowman"
+  },
+  "mtu wa theluji": {
+    "replacement": "⛄",
+    "description": "snowman without snow"
+  },
+  "comet": { "replacement": "☄️", "description": "comet" },
+  "moto": { "replacement": "🔥", "description": "fire" },
+  "droplet": { "replacement": "💧", "description": "droplet" },
+  "Bahari": { "replacement": "🌊", "description": "water wave" },
+  "taa ya taa ya jack": {
+    "replacement": "🎃",
+    "description": "jack-o-lantern"
+  },
+  "mti wa Krismasi": { "replacement": "🎄", "description": "Christmas tree" },
+  "fataki": { "replacement": "🎆", "description": "fireworks" },
+  "kung'ara": { "replacement": "🎇", "description": "sparkler" },
+  "firecracker": { "replacement": "🧨", "description": "firecracker" },
+  "huangaza": { "replacement": "✨", "description": "sparkles" },
+  "puto": { "replacement": "🎈", "description": "balloon" },
+  "tada": { "replacement": "🎉", "description": "party popper" },
+  "mpira wa confetti": { "replacement": "🎊", "description": "confetti ball" },
+  "mti wa tanabata": { "replacement": "🎋", "description": "tanabata tree" },
+  "mianzi": { "replacement": "🎍", "description": "pine decoration" },
+  "wanasesere": { "replacement": "🎎", "description": "Japanese dolls" },
+  "bendera": { "replacement": "🎏", "description": "carp streamer" },
+  "chime ya upepo": { "replacement": "🎐", "description": "wind chime" },
+  "eneo la mchele": {
+    "replacement": "🎑",
+    "description": "moon viewing ceremony"
+  },
+  "bahasha nyekundu": { "replacement": "🧧", "description": "red envelope" },
+  "utepe": { "replacement": "🎀", "description": "ribbon" },
+  "zawadi": { "replacement": "🎁", "description": "wrapped gift" },
+  "Ribbon ya ukumbusho": {
+    "replacement": "🎗️",
+    "description": "reminder ribbon"
+  },
+  "tiketi": { "replacement": "🎟️", "description": "admission tickets" },
+  "tikiti": { "replacement": "🎫", "description": "ticket" },
+  "jeshi la medali": { "replacement": "🎖️", "description": "military medal" },
+  "nyara": { "replacement": "🏆", "description": "trophy" },
+  "michezo ya medali": { "replacement": "🏅", "description": "sports medal" },
+  "1 medali ya mahali": {
+    "replacement": "🥇",
+    "description": "1st place medal"
+  },
+  "Nafasi ya 2 medali": {
+    "replacement": "🥈",
+    "description": "2nd place medal"
+  },
+  "Nafasi ya 3 medali": {
+    "replacement": "🥉",
+    "description": "3rd place medal"
+  },
+  "soka": { "replacement": "⚽", "description": "soccer ball" },
+  "baseball": { "replacement": "⚾", "description": "baseball" },
+  "mpira laini": { "replacement": "🥎", "description": "softball" },
+  "mpira wa kikapu": { "replacement": "🏀", "description": "basketball" },
+  "mpira wa wavu": { "replacement": "🏐", "description": "volleyball" },
+  "mpira wa miguu": { "replacement": "🖲️", "description": "trackball" },
+  "mpira wa miguu wa raga": {
+    "replacement": "🏉",
+    "description": "rugby football"
+  },
+  "tenisi": { "replacement": "🎾", "description": "tennis" },
+  "disc ya kuruka": { "replacement": "🥏", "description": "flying disc" },
+  "Bowling": { "replacement": "🎳", "description": "bowling" },
+  "mchezo wa kriketi": { "replacement": "🏏", "description": "cricket game" },
+  "uwanja wa magongo": { "replacement": "🏑", "description": "field hockey" },
+  "mchezo wa magongo unaochezewa kwenye barafu": {
+    "replacement": "🏒",
+    "description": "ice hockey"
+  },
+  "lacrosse": { "replacement": "🥍", "description": "lacrosse" },
+  "ping pong": { "replacement": "🏓", "description": "ping pong" },
+  "badminton": { "replacement": "🏸", "description": "badminton" },
+  "kinga ya ndondi": { "replacement": "🥊", "description": "boxing glove" },
+  "sare ya sanaa ya kijeshi": {
+    "replacement": "🥋",
+    "description": "martial arts uniform"
+  },
+  "wavu wa goli": { "replacement": "🥅", "description": "goal net" },
+  "gofu": { "replacement": "⛳", "description": "flag in hole" },
+  "skate ya barafu": { "replacement": "⛸️", "description": "ice skate" },
+  "nguzo ya uvuvi na samaki": {
+    "replacement": "🎣",
+    "description": "fishing pole"
+  },
+  "kinyago cha kupiga mbizi": {
+    "replacement": "🤿",
+    "description": "diving mask"
+  },
+  "shati ya kukimbia na ukanda": {
+    "replacement": "🎽",
+    "description": "running shirt"
+  },
+  "ski": { "replacement": "🎿", "description": "skis" },
+  "Foundationmailinglist": { "replacement": "🛷", "description": "sled" },
+  "jiwe la kujikunja": { "replacement": "🥌", "description": "curling stone" },
+  "dart": { "replacement": "🎯", "description": "direct hit" },
+  "yo yo": { "replacement": "🪀", "description": "yo-yo" },
+  "kite": { "replacement": "🪁", "description": "kite" },
+  "8ball": { "replacement": "🎱", "description": "pool 8 ball" },
+  "mpira wa kioo": { "replacement": "🔮", "description": "crystal ball" },
+  "uchawi wand": { "replacement": "🪄", "description": "magic wand" },
+  "nazar hirizi": { "replacement": "🧿", "description": "nazar amulet" },
+  "mchezo wa video": { "replacement": "🎮", "description": "video game" },
+  "fimbo ya furaha": { "replacement": "🕹️", "description": "joystick" },
+  "mashine yanayopangwa": {
+    "replacement": "🎰",
+    "description": "slot machine"
+  },
+  "mchezo kufa": { "replacement": "🎲", "description": "game die" },
+  "jigsaw": { "replacement": "🧩", "description": "puzzle piece" },
+  "teddy kubeba": { "replacement": "🧸", "description": "teddy bear" },
+  "pinata": { "replacement": "🪅", "description": "piñata" },
+  "wanasesere wa kiota": { "replacement": "🪆", "description": "nesting dolls" },
+  "jembe": { "replacement": "♠️", "description": "spade suit" },
+  "mioyo": { "replacement": "♥️", "description": "heart suit" },
+  "almasi": { "replacement": "♦️", "description": "diamond suit" },
+  "vilabu": { "replacement": "♣️", "description": "club suit" },
+  "chess pawn": { "replacement": "♟️", "description": "chess pawn" },
+  "mcheshi mweusi": { "replacement": "🃏", "description": "joker" },
+  "MahJong": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "kadi za kucheza maua": {
+    "replacement": "🎴",
+    "description": "flower playing cards"
+  },
+  "maonyesho": { "replacement": "🎭", "description": "performing arts" },
+  "picha iliyoundwa": { "replacement": "🖼️", "description": "framed picture" },
+  "sanaa": { "replacement": "🎨", "description": "artist palette" },
+  "uzi": { "replacement": "🧶", "description": "yarn" },
+  "sindano ya kushona": { "replacement": "🪡", "description": "sewing needle" },
+  "fundo": { "replacement": "🪢", "description": "knot" },
+  "glasi za macho": { "replacement": "👓", "description": "glasses" },
+  "miwani nyeusi": { "replacement": "🕶️", "description": "sunglasses" },
+  "Kanzu ya maabara": { "replacement": "🥼", "description": "lab coat" },
+  "vest ya usalama": { "replacement": "🦺", "description": "safety vest" },
+  "shati": { "replacement": "👕", "description": "t-shirt" },
+  "jeans": { "replacement": "👖", "description": "jeans" },
+  "skafu": { "replacement": "🧣", "description": "scarf" },
+  "kinga": { "replacement": "🧤", "description": "gloves" },
+  "kanzu": { "replacement": "🧥", "description": "coat" },
+  "soksi": { "replacement": "🧦", "description": "socks" },
+  "nguo": { "replacement": "👗", "description": "dress" },
+  "kimono": { "replacement": "👘", "description": "kimono" },
+  "sari": { "replacement": "🥻", "description": "sari" },
+  "kipande kimoja cha kuogelea": {
+    "replacement": "🩱",
+    "description": "one-piece swimsuit"
+  },
+  "kuogelea kifupi": { "replacement": "🩲", "description": "briefs" },
+  "kaptura": { "replacement": "🩳", "description": "shorts" },
+  "bikini": { "replacement": "👙", "description": "bikini" },
+  "nguo za wanawake": { "replacement": "👚", "description": "woman’s clothes" },
+  "mkoba": { "replacement": "💼", "description": "briefcase" },
+  "ununuzi": { "replacement": "🛍️", "description": "shopping bags" },
+  "satchel ya shule": { "replacement": "🎒", "description": "backpack" },
+  "kiatu cha kamba": { "replacement": "🩴", "description": "thong sandal" },
+  "kiatu cha wanaume": { "replacement": "👞", "description": "man’s shoe" },
+  "kiatu cha riadha": { "replacement": "👟", "description": "running shoe" },
+  "kupanda buti": { "replacement": "🥾", "description": "hiking boot" },
+  "kiatu gorofa": { "replacement": "🥿", "description": "flat shoe" },
+  "kiatu kirefu": { "replacement": "👠", "description": "high-heeled shoe" },
+  "viatu": { "replacement": "👡", "description": "woman’s sandal" },
+  "viatu vya ballet": { "replacement": "🩰", "description": "ballet shoes" },
+  "buti": { "replacement": "👢", "description": "woman’s boot" },
+  "taji": { "replacement": "👑", "description": "crown" },
+  "kofia ya wanawake": { "replacement": "👒", "description": "woman’s hat" },
+  "tophat": { "replacement": "🎩", "description": "top hat" },
+  "bodi ya chokaa": { "replacement": "🎓", "description": "graduation cap" },
+  "kofia iliyotozwa": { "replacement": "🧢", "description": "billed cap" },
+  "kofia ya kijeshi": { "replacement": "🪖", "description": "military helmet" },
+  "kofia ya mfanyakazi wa uokoaji": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "shanga za maombi": { "replacement": "📿", "description": "prayer beads" },
+  "mdomo": { "replacement": "💄", "description": "lipstick" },
+  "pete": { "replacement": "💍", "description": "ring" },
+  "vito": { "replacement": "💎", "description": "gem stone" },
+  "bubu": { "replacement": "🔇", "description": "muted speaker" },
+  "mzungumzaji": { "replacement": "🔈", "description": "speaker low volume" },
+  "sauti": { "replacement": "🔉", "description": "speaker medium volume" },
+  "sauti kubwa": { "replacement": "🔊", "description": "speaker high volume" },
+  "kipaza sauti": { "replacement": "🎤", "description": "microphone" },
+  "mega": { "replacement": "📣", "description": "megaphone" },
+  "pembe ya posta": { "replacement": "📯", "description": "postal horn" },
+  "kengele": { "replacement": "🔔", "description": "bell" },
+  "hakuna kengele": { "replacement": "🔕", "description": "bell with slash" },
+  "alama ya muziki": { "replacement": "🎼", "description": "musical score" },
+  "noti ya muziki": { "replacement": "🎵", "description": "musical note" },
+  "maelezo": { "replacement": "🎶", "description": "musical notes" },
+  "kipaza sauti studio": {
+    "replacement": "🎙️",
+    "description": "studio microphone"
+  },
+  "mtelezi wa kiwango": { "replacement": "🎚️", "description": "level slider" },
+  "kudhibiti vifungo": { "replacement": "🎛️", "description": "control knobs" },
+  "vichwa vya sauti": { "replacement": "🎧", "description": "headphone" },
+  "redio": { "replacement": "📻", "description": "radio" },
+  "saxophone": { "replacement": "🎷", "description": "saxophone" },
+  "akodoni": { "replacement": "🪗", "description": "accordion" },
+  "gitaa": { "replacement": "🎸", "description": "guitar" },
+  "kibodi ya muziki": {
+    "replacement": "🎹",
+    "description": "musical keyboard"
+  },
+  "tarumbeta": { "replacement": "🎺", "description": "trumpet" },
+  "violin": { "replacement": "🎻", "description": "violin" },
+  "banjo": { "replacement": "🪕", "description": "banjo" },
+  "ngoma": { "replacement": "🥁", "description": "drum" },
+  "ngoma ndefu": { "replacement": "🪘", "description": "long drum" },
+  "iphone": { "replacement": "📱", "description": "mobile phone" },
+  "kupiga simu": {
+    "replacement": "📲",
+    "description": "mobile phone with arrow"
+  },
+  "simu": { "replacement": "☎️", "description": "telephone" },
+  "kipokea simu": { "replacement": "📞", "description": "telephone receiver" },
+  "pager": { "replacement": "📟", "description": "pager" },
+  "faksi": { "replacement": "📠", "description": "fax machine" },
+  "betri": { "replacement": "🔋", "description": "battery" },
+  "kuziba umeme": { "replacement": "🔌", "description": "electric plug" },
+  "kompyuta": { "replacement": "💻", "description": "laptop" },
+  "Tarakilishi": { "replacement": "🖥️", "description": "desktop computer" },
+  "printa": { "replacement": "🖨️", "description": "printer" },
+  "kibodi": { "replacement": "⌨️", "description": "keyboard" },
+  "panya ya kompyuta": { "replacement": "🖱️", "description": "computer mouse" },
+  "minidisc": { "replacement": "💽", "description": "computer disk" },
+  "disketi": { "replacement": "💾", "description": "floppy disk" },
+  "cd": { "replacement": "💿", "description": "optical disk" },
+  "dvd": { "replacement": "📀", "description": "dvd" },
+  "abacus": { "replacement": "🧮", "description": "abacus" },
+  "kamera ya sinema": { "replacement": "🎥", "description": "movie camera" },
+  "ukanda wa filamu": { "replacement": "🎞️", "description": "film frames" },
+  "mradi wa filamu": { "replacement": "📽️", "description": "film projector" },
+  "makofi": { "replacement": "🎬", "description": "clapper board" },
+  "tv": { "replacement": "📺", "description": "television" },
+  "kamera": { "replacement": "📷", "description": "camera" },
+  "flash ya kamera": {
+    "replacement": "📸",
+    "description": "camera with flash"
+  },
+  "kamera ya video": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "mag": { "replacement": "🔍", "description": "magnifying glass tilted left" },
+  "mag kulia": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "mshumaa": { "replacement": "🕯️", "description": "candle" },
+  "balbu": { "replacement": "💡", "description": "light bulb" },
+  "tochi": { "replacement": "🔦", "description": "flashlight" },
+  "taa ya izakaya": { "replacement": "🏮", "description": "red paper lantern" },
+  "taa ya diya": { "replacement": "🪔", "description": "diya lamp" },
+  "daftari na kifuniko cha mapambo": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "kitabu kilichofungwa": { "replacement": "📕", "description": "closed book" },
+  "kitabu": { "replacement": "📒", "description": "ledger" },
+  "kitabu kijani": { "replacement": "📗", "description": "green book" },
+  "kitabu cha bluu": { "replacement": "📘", "description": "blue book" },
+  "kitabu cha machungwa": { "replacement": "📙", "description": "orange book" },
+  "vitabu": { "replacement": "📚", "description": "books" },
+  "daftari": { "replacement": "📓", "description": "notebook" },
+  "ukurasa na curl": { "replacement": "📃", "description": "page with curl" },
+  "tembeza": { "replacement": "📜", "description": "scroll" },
+  "ukurasa unaangalia juu": {
+    "replacement": "📄",
+    "description": "page facing up"
+  },
+  "gazeti": { "replacement": "📰", "description": "newspaper" },
+  "roll ya magazeti": {
+    "replacement": "🗞️",
+    "description": "rolled-up newspaper"
+  },
+  "tabo za alamisho": { "replacement": "📑", "description": "bookmark tabs" },
+  "alamisho": { "replacement": "🔖", "description": "bookmark" },
+  "lebo": { "replacement": "🏷️", "description": "label" },
+  "mkoba wa pesa": { "replacement": "💰", "description": "money bag" },
+  "sarafu": { "replacement": "🪙", "description": "coin" },
+  "yen": { "replacement": "💴", "description": "yen banknote" },
+  "dola": { "replacement": "💵", "description": "dollar banknote" },
+  "euro": { "replacement": "💶", "description": "euro banknote" },
+  "pauni": { "replacement": "💷", "description": "pound banknote" },
+  "pesa na mabawa": { "replacement": "💸", "description": "money with wings" },
+  "kadi ya mkopo": { "replacement": "💳", "description": "credit card" },
+  "risiti": { "replacement": "🧾", "description": "receipt" },
+  "chati": { "replacement": "💹", "description": "chart increasing with yen" },
+  "barua pepe": { "replacement": "📧", "description": "e-mail" },
+  "bahasha inayoingia": {
+    "replacement": "📨",
+    "description": "incoming envelope"
+  },
+  "bahasha na mshale": {
+    "replacement": "📩",
+    "description": "envelope with arrow"
+  },
+  "tray ya sanduku la nje": {
+    "replacement": "📤",
+    "description": "outbox tray"
+  },
+  "trei ya kikasha": { "replacement": "📥", "description": "inbox tray" },
+  "kifurushi": { "replacement": "📦", "description": "package" },
+  "sanduku la barua": {
+    "replacement": "📫",
+    "description": "closed mailbox with raised flag"
+  },
+  "sanduku la barua limefungwa": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "sanduku la barua na barua": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "sanduku la barua bila barua": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "sanduku la posta": { "replacement": "📮", "description": "postbox" },
+  "sanduku la kura": {
+    "replacement": "🗳️",
+    "description": "ballot box with ballot"
+  },
+  "penseli2": { "replacement": "✏️", "description": "pencil" },
+  "nib nyeusi": { "replacement": "✒️", "description": "black nib" },
+  "kalamu ya chemchemi": { "replacement": "🖋️", "description": "fountain pen" },
+  "kalamu": { "replacement": "🖊️", "description": "pen" },
+  "brashi ya rangi": { "replacement": "🖌️", "description": "paintbrush" },
+  "crayoni": { "replacement": "🖍️", "description": "crayon" },
+  "kumbukumbu": { "replacement": "📝", "description": "memo" },
+  "folda ya faili": { "replacement": "📁", "description": "file folder" },
+  "fungua folda ya faili": {
+    "replacement": "📂",
+    "description": "open file folder"
+  },
+  "mgawanyiko wa ripoti ya kadi": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "tarehe": { "replacement": "📅", "description": "calendar" },
+  "Kalenda": { "replacement": "📆", "description": "tear-off calendar" },
+  "kijitabu cha ond": { "replacement": "🗒️", "description": "spiral notepad" },
+  "ond kalenda": { "replacement": "🗓️", "description": "spiral calendar" },
+  "faharisi ya kadi": { "replacement": "📇", "description": "card index" },
+  "chati na mwenendo wa juu": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "chati na mwenendo wa kushuka": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "chati ya baa": { "replacement": "📊", "description": "bar chart" },
+  "clipboard": { "replacement": "📋", "description": "clipboard" },
+  "msukuma": { "replacement": "📌", "description": "pushpin" },
+  "pushpin pande zote": { "replacement": "📍", "description": "round pushpin" },
+  "kipande cha karatasi": { "replacement": "📎", "description": "paperclip" },
+  "vidonge vya paperclip": {
+    "replacement": "🖇️",
+    "description": "linked paperclips"
+  },
+  "rula moja kwa moja": {
+    "replacement": "📏",
+    "description": "straight ruler"
+  },
+  "mtawala wa pembetatu": {
+    "replacement": "📐",
+    "description": "triangular ruler"
+  },
+  "mkasi": { "replacement": "✂️", "description": "scissors" },
+  "sanduku la faili la kadi": {
+    "replacement": "🗃️",
+    "description": "card file box"
+  },
+  "baraza la mawaziri la faili": {
+    "replacement": "🗄️",
+    "description": "file cabinet"
+  },
+  "Kikapu cha taka": { "replacement": "🗑️", "description": "wastebasket" },
+  "kufuli": { "replacement": "🔒", "description": "locked" },
+  "kufungua": { "replacement": "🔓", "description": "unlocked" },
+  "kufuli na kalamu ya wino": {
+    "replacement": "🔏",
+    "description": "locked with pen"
+  },
+  "lock iliyofungwa na ufunguo": {
+    "replacement": "🔐",
+    "description": "locked with key"
+  },
+  "ufunguo": { "replacement": "🔧", "description": "wrench" },
+  "kitufe cha zamani": { "replacement": "🗝️", "description": "old key" },
+  "nyundo": { "replacement": "🔨", "description": "hammer" },
+  "shoka": { "replacement": "🪓", "description": "axe" },
+  "chagua": { "replacement": "⛏️", "description": "pick" },
+  "nyundo na chagua": { "replacement": "⚒️", "description": "hammer and pick" },
+  "nyundo na ufunguo": {
+    "replacement": "🛠️",
+    "description": "hammer and wrench"
+  },
+  "kisu": { "replacement": "🗡️", "description": "dagger" },
+  "panga zilizovuka": { "replacement": "⚔️", "description": "crossed swords" },
+  "bunduki": { "replacement": "🔫", "description": "pistol" },
+  "boomerang": { "replacement": "🪃", "description": "boomerang" },
+  "upinde na mshale": { "replacement": "🏹", "description": "bow and arrow" },
+  "ngao": { "replacement": "🛡️", "description": "shield" },
+  "useremala uliona": { "replacement": "🪚", "description": "carpentry saw" },
+  "bisibisi": { "replacement": "🪛", "description": "screwdriver" },
+  "karanga na bolt": { "replacement": "🔩", "description": "nut and bolt" },
+  "gia": { "replacement": "⚙️", "description": "gear" },
+  "kubana": { "replacement": "🗜️", "description": "clamp" },
+  "mizani ya usawa": { "replacement": "⚖️", "description": "balance scale" },
+  "kuchunguza miwa": { "replacement": "🦯", "description": "white cane" },
+  "kiungo": { "replacement": "🔗", "description": "link" },
+  "minyororo": { "replacement": "⛓️", "description": "chains" },
+  "ndoano": { "replacement": "🪝", "description": "hook" },
+  "sanduku la zana": { "replacement": "🧰", "description": "toolbox" },
+  "sumaku": { "replacement": "🧲", "description": "magnet" },
+  "ngazi": { "replacement": "🪜", "description": "ladder" },
+  "alembic": { "replacement": "⚗️", "description": "alembic" },
+  "bomba la mtihani": { "replacement": "🧪", "description": "test tube" },
+  "sahani ya petri": { "replacement": "🧫", "description": "petri dish" },
+  "dna": { "replacement": "🧬", "description": "dna" },
+  "darubini": { "replacement": "🔭", "description": "telescope" },
+  "setilaiti": { "replacement": "📡", "description": "satellite antenna" },
+  "sindano": { "replacement": "💉", "description": "syringe" },
+  "tone la damu": { "replacement": "🩸", "description": "drop of blood" },
+  "kidonge": { "replacement": "💊", "description": "pill" },
+  "bandage ya wambiso": {
+    "replacement": "🩹",
+    "description": "adhesive bandage"
+  },
+  "stethoscope": { "replacement": "🩺", "description": "stethoscope" },
+  "mlango": { "replacement": "🚪", "description": "door" },
+  "lifti": { "replacement": "🛗", "description": "elevator" },
+  "kioo": { "replacement": "🪞", "description": "mirror" },
+  "dirisha": { "replacement": "🪟", "description": "window" },
+  "kitanda": { "replacement": "🛏️", "description": "bed" },
+  "kitanda na taa": { "replacement": "🛋️", "description": "couch and lamp" },
+  "mwenyekiti": { "replacement": "🪑", "description": "chair" },
+  "choo": { "replacement": "🚻", "description": "restroom" },
+  "bomba": { "replacement": "🪠", "description": "plunger" },
+  "oga": { "replacement": "🚿", "description": "shower" },
+  "bathtub": { "replacement": "🛁", "description": "bathtub" },
+  "mtego wa panya": { "replacement": "🪤", "description": "mouse trap" },
+  "wembe": { "replacement": "🪒", "description": "razor" },
+  "chupa ya lotion": { "replacement": "🧴", "description": "lotion bottle" },
+  "pini ya usalama": { "replacement": "🧷", "description": "safety pin" },
+  "ufagio": { "replacement": "🧹", "description": "broom" },
+  "kikapu": { "replacement": "🧺", "description": "basket" },
+  "roll ya karatasi": { "replacement": "🧻", "description": "roll of paper" },
+  "ndoo": { "replacement": "🪣", "description": "bucket" },
+  "sabuni": { "replacement": "🧼", "description": "soap" },
+  "mswaki": { "replacement": "🪥", "description": "toothbrush" },
+  "sifongo": { "replacement": "🧽", "description": "sponge" },
+  "Kizima moto": { "replacement": "🧯", "description": "fire extinguisher" },
+  "gari la ununuzi": { "replacement": "🛒", "description": "shopping cart" },
+  "kuvuta sigara": { "replacement": "🚬", "description": "cigarette" },
+  "jeneza": { "replacement": "⚰️", "description": "coffin" },
+  "jiwe kuu": { "replacement": "🪦", "description": "headstone" },
+  "mkojo wa mazishi": { "replacement": "⚱️", "description": "funeral urn" },
+  "moyai": { "replacement": "🗿", "description": "moai" },
+  "bango": { "replacement": "🪧", "description": "placard" },
+  "anga": { "replacement": "🏧", "description": "ATM sign" },
+  "weka takataka mahali pake": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "Maji safi": { "replacement": "🚰", "description": "potable water" },
+  "kiti cha magurudumu": {
+    "replacement": "♿",
+    "description": "wheelchair symbol"
+  },
+  "wanaume": { "replacement": "🚹", "description": "men’s room" },
+  "wanawake": { "replacement": "🚺", "description": "women’s room" },
+  "alama ya mtoto": { "replacement": "🚼", "description": "baby symbol" },
+  "wc": { "replacement": "🚾", "description": "water closet" },
+  "kudhibiti pasipoti": {
+    "replacement": "🛂",
+    "description": "passport control"
+  },
+  "mila": { "replacement": "🛃", "description": "customs" },
+  "kudai mizigo": { "replacement": "🛄", "description": "baggage claim" },
+  "mizigo ya kushoto": { "replacement": "🛅", "description": "left luggage" },
+  "onyo": { "replacement": "⚠️", "description": "warning" },
+  "watoto wanavuka": {
+    "replacement": "🚸",
+    "description": "children crossing"
+  },
+  "hakuna kiingilio": { "replacement": "⛔", "description": "no entry" },
+  "hakuna ishara ya kuingia": {
+    "replacement": "🚫",
+    "description": "prohibited"
+  },
+  "hakuna baiskeli": { "replacement": "🚳", "description": "no bicycles" },
+  "hakuna kuvuta sigara": { "replacement": "🚭", "description": "no smoking" },
+  "Usitupe taka": { "replacement": "🚯", "description": "no littering" },
+  "maji yasiyo ya kunywa": {
+    "replacement": "🚱",
+    "description": "non-potable water"
+  },
+  "hakuna watembea kwa miguu": {
+    "replacement": "🚷",
+    "description": "no pedestrians"
+  },
+  "hakuna simu za rununu": {
+    "replacement": "📵",
+    "description": "no mobile phones"
+  },
+  "umri mdogo": { "replacement": "🔞", "description": "no one under eighteen" },
+  "mionzi": { "replacement": "☢️", "description": "radioactive" },
+  "biohazard": { "replacement": "☣️", "description": "biohazard" },
+  "mshale juu": { "replacement": "⬆️", "description": "up arrow" },
+  "mshale juu kulia": { "replacement": "↗️", "description": "up-right arrow" },
+  "mshale kulia": { "replacement": "➡️", "description": "right arrow" },
+  "mshale chini kulia": {
+    "replacement": "↘️",
+    "description": "down-right arrow"
+  },
+  "mshale chini": { "replacement": "⬇️", "description": "down arrow" },
+  "mshale chini kushoto": {
+    "replacement": "↙️",
+    "description": "down-left arrow"
+  },
+  "mshale kushoto": { "replacement": "⬅️", "description": "left arrow" },
+  "mshale juu kushoto": { "replacement": "↖️", "description": "up-left arrow" },
+  "mshale juu chini": { "replacement": "↕️", "description": "up-down arrow" },
+  "mshale wa kushoto kulia": {
+    "replacement": "↔️",
+    "description": "left-right arrow"
+  },
+  "mshale wa kushoto na ndoano": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "mshale ndoano ya kulia": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "mshale unaoelekea juu": {
+    "replacement": "⤴️",
+    "description": "right arrow curving up"
+  },
+  "mshale ukielekea chini": {
+    "replacement": "⤵️",
+    "description": "right arrow curving down"
+  },
+  "mishale kwa saa": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "mishale kinyume cha saa": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "nyuma": { "replacement": "🔙", "description": "BACK arrow" },
+  "mwisho": { "replacement": "🔚", "description": "END arrow" },
+  "kuwasha": { "replacement": "🔛", "description": "ON! arrow" },
+  "hivi karibuni": { "replacement": "🔜", "description": "SOON arrow" },
+  "juu": { "replacement": "🆙", "description": "UP! button" },
+  "mahali pa ibada": { "replacement": "🛐", "description": "place of worship" },
+  "ishara ya chembe": { "replacement": "⚛️", "description": "atom symbol" },
+  "om": { "replacement": "🕉️", "description": "om" },
+  "nyota ya david": { "replacement": "✡️", "description": "star of David" },
+  "gurudumu la dharma": {
+    "replacement": "☸️",
+    "description": "wheel of dharma"
+  },
+  "yin yang": { "replacement": "☯️", "description": "yin yang" },
+  "latin msalaba": { "replacement": "✝️", "description": "latin cross" },
+  "msalaba halisi": { "replacement": "☦️", "description": "orthodox cross" },
+  "nyota na mpevu": { "replacement": "☪️", "description": "star and crescent" },
+  "alama ya amani": { "replacement": "☮️", "description": "peace symbol" },
+  "menorah": { "replacement": "🕎", "description": "menorah" },
+  "nyota sita iliyoelekezwa": {
+    "replacement": "🔯",
+    "description": "dotted six-pointed star"
+  },
+  "aries": { "replacement": "♈", "description": "Aries" },
+  "taurusi": { "replacement": "♉", "description": "Taurus" },
+  "gemini": { "replacement": "♊", "description": "Gemini" },
+  "saratani": { "replacement": "♋", "description": "Cancer" },
+  "leo": { "replacement": "♌", "description": "Leo" },
+  "bikira": { "replacement": "♍", "description": "Virgo" },
+  "libra": { "replacement": "♎", "description": "Libra" },
+  "scorpius": { "replacement": "♏", "description": "Scorpio" },
+  "sagittarius": { "replacement": "♐", "description": "Sagittarius" },
+  "capricorn": { "replacement": "♑", "description": "Capricorn" },
+  "aquarius": { "replacement": "♒", "description": "Aquarius" },
+  "misukosuko": { "replacement": "♓", "description": "Pisces" },
+  "ophiuchus": { "replacement": "⛎", "description": "Ophiuchus" },
+  "mishale iliyopinduka ya kulia": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "kurudia": { "replacement": "🔁", "description": "repeat button" },
+  "kurudia moja": {
+    "replacement": "🔂",
+    "description": "repeat single button"
+  },
+  "mshale mbele": { "replacement": "▶️", "description": "play button" },
+  "haraka mbele": { "replacement": "⏩", "description": "fast-forward button" },
+  "kitufe cha wimbo kinachofuata": {
+    "replacement": "⏭️",
+    "description": "next track button"
+  },
+  "cheza au kitufe cha kusitisha": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "mshale nyuma": { "replacement": "◀️", "description": "reverse button" },
+  "kurudisha nyuma": {
+    "replacement": "⏪",
+    "description": "fast reverse button"
+  },
+  "kitufe cha wimbo kilichopita": {
+    "replacement": "⏮️",
+    "description": "last track button"
+  },
+  "mshale juu kidogo": { "replacement": "🔼", "description": "upwards button" },
+  "mshale mara mbili juu": {
+    "replacement": "⏫",
+    "description": "fast up button"
+  },
+  "mshale chini kidogo": {
+    "replacement": "🔽",
+    "description": "downwards button"
+  },
+  "mshale mara mbili chini": {
+    "replacement": "⏬",
+    "description": "fast down button"
+  },
+  "kitufe cha kusitisha": {
+    "replacement": "⏸️",
+    "description": "pause button"
+  },
+  "kitufe cha kuacha": { "replacement": "⏹️", "description": "stop button" },
+  "kitufe cha rekodi": { "replacement": "⏺️", "description": "record button" },
+  "toa kitufe": { "replacement": "⏏️", "description": "eject button" },
+  "sinema": { "replacement": "🎦", "description": "cinema" },
+  "mwangaza mdogo": { "replacement": "🔅", "description": "dim button" },
+  "mwangaza wa juu": { "replacement": "🔆", "description": "bright button" },
+  "nguvu ya ishara": { "replacement": "📶", "description": "antenna bars" },
+  "hali ya kutetemeka": {
+    "replacement": "📳",
+    "description": "vibration mode"
+  },
+  "simu ya rununu imezimwa": {
+    "replacement": "📴",
+    "description": "mobile phone off"
+  },
+  "ishara ya kike": { "replacement": "♀️", "description": "female sign" },
+  "ishara ya kiume": { "replacement": "♂️", "description": "male sign" },
+  "ishara ya jinsia": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "kuzidisha nzito x": { "replacement": "✖️", "description": "multiply" },
+  "ishara nzito pamoja": { "replacement": "➕", "description": "plus" },
+  "ishara nzito ya kuondoa": { "replacement": "➖", "description": "minus" },
+  "ishara nzito ya mgawanyiko": {
+    "replacement": "➗",
+    "description": "divide"
+  },
+  "kutokuwa na mwisho": { "replacement": "♾️", "description": "infinity" },
+  "bangbang": { "replacement": "‼️", "description": "double exclamation mark" },
+  "kuingiliana": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "swali": { "replacement": "❓", "description": "question mark" },
+  "swali la kijivu": {
+    "replacement": "❔",
+    "description": "white question mark"
+  },
+  "mshangao wa kijivu": {
+    "replacement": "❕",
+    "description": "white exclamation mark"
+  },
+  "mshangao": { "replacement": "❗", "description": "exclamation mark" },
+  "dashi ya wavy": { "replacement": "〰️", "description": "wavy dash" },
+  "ubadilishaji wa sarafu": {
+    "replacement": "💱",
+    "description": "currency exchange"
+  },
+  "ishara nzito ya dola": {
+    "replacement": "💲",
+    "description": "heavy dollar sign"
+  },
+  "ishara ya matibabu": {
+    "replacement": "⚕️",
+    "description": "medical symbol"
+  },
+  "kusaga": { "replacement": "♻️", "description": "recycling symbol" },
+  "fleur de lis": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "tatu": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "jina beji": { "replacement": "📛", "description": "name badge" },
+  "anayeanza": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "o": { "replacement": "⭕", "description": "hollow red circle" },
+  "alama nyeupe ya kuangalia": {
+    "replacement": "✅",
+    "description": "check mark button"
+  },
+  "sanduku la kura na hundi": {
+    "replacement": "☑️",
+    "description": "check box with check"
+  },
+  "alama nzito ya kuangalia": {
+    "replacement": "✔️",
+    "description": "check mark"
+  },
+  "x": { "replacement": "❌", "description": "cross mark" },
+  "alama hasi ya mraba": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "kitanzi kilichopindika": {
+    "replacement": "➰",
+    "description": "curly loop"
+  },
+  "kitanzi": { "replacement": "➿", "description": "double curly loop" },
+  "alama ya kubadilisha sehemu": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "Nyota wanane waliotajwa": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "nyota nane nyeusi iliyoelekezwa": {
+    "replacement": "✴️",
+    "description": "eight-pointed star"
+  },
+  "kung'aa": { "replacement": "❇️", "description": "sparkle" },
+  "hakimiliki": { "replacement": "©️", "description": "copyright" },
+  "iliyosajiliwa": { "replacement": "®️", "description": "registered" },
+  "tm": { "replacement": "™️", "description": "trade mark" },
+  "hash": { "replacement": "#️⃣", "description": "keycap: #" },
+  "kinyota": { "replacement": "*️⃣", "description": "keycap: *" },
+  "sufuri": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "moja": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "mbili": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "nne": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "tano": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "sita": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "saba": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "nane": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "tisa": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "keycap kumi": { "replacement": "🔟", "description": "keycap: 10" },
+  "mtaji abcd": { "replacement": "🔠", "description": "input latin uppercase" },
+  "abcd": { "replacement": "🔡", "description": "input latin lowercase" },
+  "alama": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "abc": { "replacement": "🔤", "description": "input latin letters" },
+  "a": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "ab": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "b": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "cl": { "replacement": "🆑", "description": "CL button" },
+  "baridi": { "replacement": "🆒", "description": "COOL button" },
+  "bure": { "replacement": "🆓", "description": "FREE button" },
+  "chanzo cha habari": { "replacement": "ℹ️", "description": "information" },
+  "kitambulisho": { "replacement": "🆔", "description": "ID button" },
+  "m": { "replacement": "Ⓜ️", "description": "circled M" },
+  "mpya": { "replacement": "🆕", "description": "NEW button" },
+  "ng": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "sawa": { "replacement": "🆗", "description": "OK button" },
+  "maegesho": { "replacement": "🅿️", "description": "P button" },
+  "sos": { "replacement": "🆘", "description": "SOS button" },
+  "dhidi ya": { "replacement": "🆚", "description": "VS button" },
+  "koko": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "sa": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "faida ya ideograph": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "kubali": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "hongera": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "siri": { "replacement": "㊙️", "description": "Japanese “secret” button" },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "mduara nyekundu": { "replacement": "🔴", "description": "red circle" },
+  "mduara wa machungwa": { "replacement": "🟠", "description": "orange circle" },
+  "mduara wa manjano": { "replacement": "🟡", "description": "yellow circle" },
+  "mduara wa kijani": { "replacement": "🟢", "description": "green circle" },
+  "mduara mkubwa wa samawati": {
+    "replacement": "🔵",
+    "description": "blue circle"
+  },
+  "mduara wa zambarau": { "replacement": "🟣", "description": "purple circle" },
+  "mduara wa kahawia": { "replacement": "🟤", "description": "brown circle" },
+  "mduara mweusi": { "replacement": "⚫", "description": "black circle" },
+  "mduara mweupe": { "replacement": "⚪", "description": "white circle" },
+  "mraba mwekundu": { "replacement": "🟥", "description": "red square" },
+  "mraba wa machungwa": { "replacement": "🟧", "description": "orange square" },
+  "mraba wa njano": { "replacement": "🟨", "description": "yellow square" },
+  "mraba kijani": { "replacement": "🟩", "description": "green square" },
+  "mraba wa bluu": { "replacement": "🟦", "description": "blue square" },
+  "mraba wa zambarau": { "replacement": "🟪", "description": "purple square" },
+  "mraba wa kahawia": { "replacement": "🟫", "description": "brown square" },
+  "mraba mkubwa mweusi": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "mraba mkubwa mweupe": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "mraba mweusi wa kati": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "mraba mweupe wa kati": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "mraba mdogo mweusi": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "mraba mweupe mdogo": {
+    "replacement": "▫️",
+    "description": "white small square"
+  },
+  "almasi kubwa ya machungwa": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "almasi kubwa ya samawati": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "almasi ndogo ya machungwa": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "almasi ndogo ya bluu": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "pembetatu ndogo nyekundu": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "pembetatu nyekundu nyekundu chini": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "umbo la almasi na nukta ndani": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "kitufe cha redio": { "replacement": "🔘", "description": "radio button" },
+  "kifungo nyeupe mraba": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "kifungo nyeusi mraba": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "bendera ya checkered": {
+    "replacement": "🏁",
+    "description": "chequered flag"
+  },
+  "bendera ya pembetatu kwenye chapisho": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "bendera zilizovuka": { "replacement": "🎌", "description": "crossed flags" },
+  "bendera nyeusi": { "replacement": "🏴", "description": "black flag" },
+  "bendera nyeupe": { "replacement": "🏳️", "description": "white flag" },
+  "bendera ya upinde wa mvua": {
+    "replacement": "🏳️‍🌈",
+    "description": "rainbow flag"
+  },
+  "bendera ya jinsia": {
+    "replacement": "🏳️‍⚧️",
+    "description": "transgender flag"
+  },
+  "bendera ya maharamia": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "kisiwa cha kupaa": {
+    "replacement": "🇦🇨",
+    "description": "flag: Ascension Island"
+  },
+  "andorra": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "umoja wa waarabu waarabu": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "afghanistan": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "antigua barbuda": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "maumivu": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "albania": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "armenia": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "angola": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "antaktika": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "argentina": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "Samoa ya Marekani": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "austria": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "australia": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "aruba": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "visiwa vya aland": {
+    "replacement": "🇦🇽",
+    "description": "flag: Åland Islands"
+  },
+  "azabajani": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "bosnia herzegovina": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "barbado": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "bangladesh": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "Ubelgiji": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "burkina faso": { "replacement": "🇧🇫", "description": "flag: Burkina Faso" },
+  "bulgaria": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "bahrain": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "burundi": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "benini": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "st barthelemy": {
+    "replacement": "🇧🇱",
+    "description": "flag: St. Barthélemy"
+  },
+  "bermuda": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "brunei": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "Bolivia": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "uholanzi uholanzi": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "brazil": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "bahamas": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "bhutani": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "kisiwa cha bouvet": {
+    "replacement": "🇧🇻",
+    "description": "flag: Bouvet Island"
+  },
+  "botswana": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "belarusi": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "belize": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "canada": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "visiwa vya cocos": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "congo kinshasa": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "jamhuri ya afrika ya kati": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "congo brazzaville": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "Uswisi": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "cote divoire": { "replacement": "🇨🇮", "description": "flag: Côte d’Ivoire" },
+  "kupika visiwa": { "replacement": "🇨🇰", "description": "flag: Cook Islands" },
+  "chile": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "cameroon": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "cn": { "replacement": "🇨🇳", "description": "flag: China" },
+  "colombia": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "kisiwa cha clipperton": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "Costa Rica": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "cuba": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "Cape Verde": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "curacao": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "kisiwa cha Krismasi": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "cyprus": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "Jamhuri ya Czech": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "de": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "diego garcia": { "replacement": "🇩🇬", "description": "flag: Diego Garcia" },
+  "djibouti": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "utawala": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "Jamhuri ya Dominika": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "algeria": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "ceuta melilla": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "ekadoado": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "estonia": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "Misri": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "sahara ya magharibi": {
+    "replacement": "🇪🇭",
+    "description": "flag: Western Sahara"
+  },
+  "eritrea": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "es": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "ethiopia": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "eu": { "replacement": "🇪🇺", "description": "flag: European Union" },
+  "finland": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "fiji": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "visiwa vya falkland": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "micronesia": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "visiwa vya faroe": {
+    "replacement": "🇫🇴",
+    "description": "flag: Faroe Islands"
+  },
+  "fr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "gabon": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "gb": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "grenada": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "georgia": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "french guiana": {
+    "replacement": "🇬🇫",
+    "description": "flag: French Guiana"
+  },
+  "guernsey": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "ghana": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "gibraltar": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "gambia": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "Guinea": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "guadeloupe": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "Guinea ya ikweta": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "Ugiriki": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "visiwa vya sandwich kusini kusini mwa georgia": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "guatemala": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "guam": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "Guinea bissau": {
+    "replacement": "🇬🇼",
+    "description": "flag: Guinea-Bissau"
+  },
+  "Hong Kong": {
+    "replacement": "🇭🇰",
+    "description": "flag: Hong Kong SAR China"
+  },
+  "zilisikika visiwa vya mcdonald": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "honduras": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "croatia": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "haiti": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "njaa": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "visiwa vya canary": {
+    "replacement": "🇮🇨",
+    "description": "flag: Canary Islands"
+  },
+  "indonesia": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "ireland": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "israeli": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "kisiwa cha mwanadamu": {
+    "replacement": "🇮🇲",
+    "description": "flag: Isle of Man"
+  },
+  "india": { "replacement": "🇮🇳", "description": "flag: India" },
+  "wilaya ya bahari ya indian ya british": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "iraq": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "iran": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "ni": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "jezi": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "jamaica": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "jordani": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "jp": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "kenya": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "kyrgyzstan": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "cambodia": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "kiribati": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "comoro": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "st kitts nevis": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "Korea Kaskazini": {
+    "replacement": "🇰🇵",
+    "description": "flag: North Korea"
+  },
+  "kr": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "kuwait": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "kazakhstan": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "laos": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "lebanon": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "st lucia": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "liechtenstein": {
+    "replacement": "🇱🇮",
+    "description": "flag: Liechtenstein"
+  },
+  "Sri Lanka": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "liberia": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "lesotho": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "lithuania": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "luxembourg": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "latvia": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "libya": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "moroko": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "monako": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "moldova": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "montenegro": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "st martin": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "madagaska": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "visiwa vya marshall": {
+    "replacement": "🇲🇭",
+    "description": "flag: Marshall Islands"
+  },
+  "macedonia": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "mali": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "Myanmar": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "mongolia": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "macau": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "visiwa vya mariana kaskazini": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "martinique": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "mauritania": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "montserrat": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "malta": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "mauritius": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "maldives": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "malawi": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "mexico": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "malaysia": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "Msumbiji": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "namibia": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "kaledonia mpya": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "niger": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "kisiwa cha norfolk": {
+    "replacement": "🇳🇫",
+    "description": "flag: Norfolk Island"
+  },
+  "nigeria": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "nikaragua": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "Uholanzi": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "norway": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "nepal": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "nauru": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "niue": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "zealand mpya": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "oman": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "panama": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "peru": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "Kifaransa polynesia": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "papua Guinea mpya": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "Ufilipino": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "Pakistan": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "poland": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "st pierre miquelon": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "visiwa vya pitcairn": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "puerto rico": { "replacement": "🇵🇷", "description": "flag: Puerto Rico" },
+  "wilaya za palestina": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "portugal": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "palau": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "paraguay": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "qatar": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "kuungana tena": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "Kirumi": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "serbia": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "ru": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "rwanda": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "saudi arabia": { "replacement": "🇸🇦", "description": "flag: Saudi Arabia" },
+  "visiwa vya solomon": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "Shelisheli": { "replacement": "🇸🇨", "description": "flag: Seychelles" },
+  "sudan": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "Uswidi": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "singapore": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "st helena": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "slovenia": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "svalbard jan mayen": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "slovakia": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "Sierra Leone": { "replacement": "🇸🇱", "description": "flag: Sierra Leone" },
+  "san marino": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "senegal": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "somalia": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "suriname": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "sudan kusini": { "replacement": "🇸🇸", "description": "flag: South Sudan" },
+  "sao tome principe": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "El Salvador": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "sint maarten": { "replacement": "🇸🇽", "description": "flag: Sint Maarten" },
+  "syria": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "uswazi": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "tristan da cunha": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "visiwa vya turks caicos": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "chad": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "wilaya za kusini za Ufaransa": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "kuchukua": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "Thailand": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "tajikistan": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "tokelau": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "timor leste": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "turkmenistan": { "replacement": "🇹🇲", "description": "flag: Turkmenistan" },
+  "tunisia": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "Tonga": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "tr": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "trinidad tobago": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "tuvalu": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "taiwan": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "tanzania": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "ukraine": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "uganda": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "sisi visiwa vya nje": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "umoja wa mataifa": {
+    "replacement": "🇺🇳",
+    "description": "flag: United Nations"
+  },
+  "sisi": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "uruguay": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "uzbekistan": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "jiji la Vatican": {
+    "replacement": "🇻🇦",
+    "description": "flag: Vatican City"
+  },
+  "st vincent grenadines": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "venezuela": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "visiwa vya bikira wa british": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "sisi visiwa bikira": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "vietnam": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "vanuatu": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "wallis futuna": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "samoa": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "kosovo": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "yemen": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "mayotte": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "Africa Kusini": { "replacement": "🇿🇦", "description": "flag: South Africa" },
+  "zambia": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "zimbabwe": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "Uingereza": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "scotland": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "miombolezo": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

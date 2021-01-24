@@ -1,0 +1,3096 @@
+{
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "χαμόγελο": {
+    "replacement": "😄",
+    "description": "grinning face with smiling eyes"
+  },
+  "χαμογελαστός": {
+    "replacement": "😃",
+    "description": "grinning face with big eyes"
+  },
+  "γκριμάτσα": {
+    "replacement": "😁",
+    "description": "beaming face with smiling eyes"
+  },
+  "γέλιο": { "replacement": "😆", "description": "grinning squinting face" },
+  "χαμόγελο ιδρώτα": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "Χαρά": { "replacement": "😂", "description": "face with tears of joy" },
+  "ελαφρώς χαμογελαστό πρόσωπο": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "ανάποδα πρόσωπο": { "replacement": "🙃", "description": "upside-down face" },
+  "κλείσιμο ματιού": { "replacement": "😉", "description": "winking face" },
+  "κοκκινίζω": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "αθώος": { "replacement": "😇", "description": "smiling face with halo" },
+  "χαμογελαστό πρόσωπο με τρεις καρδιές": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "καρδιά μάτια": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "αστέρι χτύπησε": { "replacement": "🤩", "description": "star-struck" },
+  "φιλιά καρδιά": { "replacement": "😘", "description": "face blowing a kiss" },
+  "ασπασμός": { "replacement": "😗", "description": "kissing face" },
+  "χαλαρή": { "replacement": "☺️", "description": "smiling face" },
+  "φιλιά κλειστά μάτια": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "φιλιά χαμογελαστά μάτια": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "χαμογελαστό πρόσωπο με δάκρυ": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "ναι": { "replacement": "😋", "description": "face savoring food" },
+  "κολλήσει έξω τη γλώσσα": {
+    "replacement": "😛",
+    "description": "face with tongue"
+  },
+  "κολλήσει έξω τη γλώσσα κλείνοντας το μάτι μάτι": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "πρόσωπο zany": { "replacement": "🤪", "description": "zany face" },
+  "έκλεισε τη γλώσσα κλειστά μάτια": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "πρόσωπο στόμα χρήματα": {
+    "replacement": "🤑",
+    "description": "money-mouth face"
+  },
+  "αγκαλιές": { "replacement": "🤗", "description": "hugging face" },
+  "παραδώστε το στόμα": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "ντροπαλό πρόσωπο": { "replacement": "🤫", "description": "shushing face" },
+  "σκέψη": { "replacement": "🤔", "description": "thinking face" },
+  "φερμουάρ στο στόμα": {
+    "replacement": "🤐",
+    "description": "zipper-mouth face"
+  },
+  "ανασηκωμένο φρύδι": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "ουδέτερο πρόσωπο": { "replacement": "😐", "description": "neutral face" },
+  "χωρίς έκφραση": {
+    "replacement": "😑",
+    "description": "expressionless face"
+  },
+  "χωρίς στόμα": { "replacement": "😶", "description": "face without mouth" },
+  "χαζό χαμόγελο": { "replacement": "😏", "description": "smirking face" },
+  "αχρηστία": { "replacement": "😒", "description": "unamused face" },
+  "γύρισμα ματιών": {
+    "replacement": "🙄",
+    "description": "face with rolling eyes"
+  },
+  "μορφασμός": { "replacement": "😬", "description": "grimacing face" },
+  "ψέματα πρόσωπο": { "replacement": "🤥", "description": "lying face" },
+  "ανακουφισμένος": { "replacement": "😌", "description": "relieved face" },
+  "συλλογισμένος": { "replacement": "😔", "description": "pensive face" },
+  "νυσταγμένος": { "replacement": "😪", "description": "sleepy face" },
+  "στριμωγμένο πρόσωπο": {
+    "replacement": "🤤",
+    "description": "drooling face"
+  },
+  "κοιμάμαι": { "replacement": "😴", "description": "sleeping face" },
+  "μάσκα": { "replacement": "😷", "description": "face with medical mask" },
+  "πρόσωπο με θερμόμετρο": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "πρόσωπο με επίδεσμο κεφαλής": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "ναυτία": { "replacement": "🤢", "description": "nauseated face" },
+  "εμετό πρόσωπο": { "replacement": "🤮", "description": "face vomiting" },
+  "φτέρνισμα προσώπου": { "replacement": "🤧", "description": "sneezing face" },
+  "ζεστό πρόσωπο": { "replacement": "🥵", "description": "hot face" },
+  "κρύο πρόσωπο": { "replacement": "🥶", "description": "cold face" },
+  "χαρούμενο πρόσωπο": { "replacement": "🥴", "description": "woozy face" },
+  "ζαλισμένο πρόσωπο": { "replacement": "😵", "description": "dizzy face" },
+  "έκρηξη κεφάλι": { "replacement": "🤯", "description": "exploding head" },
+  "πρόσωπο καπέλο": { "replacement": "🤠", "description": "cowboy hat face" },
+  "πρόσωπο πάρτι": { "replacement": "🥳", "description": "partying face" },
+  "μεταμφιεσμένο πρόσωπο": {
+    "replacement": "🥸",
+    "description": "disguised face"
+  },
+  "γυαλιά ηλίου": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "πρόσωπο nerd": { "replacement": "🤓", "description": "nerd face" },
+  "πρόσωπο μονόκλ": { "replacement": "🧐", "description": "face with monocle" },
+  "ταραγμένος": { "replacement": "😕", "description": "confused face" },
+  "ανήσυχος": { "replacement": "😟", "description": "worried face" },
+  "ελαφρώς συνοφρυωμένο πρόσωπο": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "συνοφρυωμένο πρόσωπο": {
+    "replacement": "☹️",
+    "description": "frowning face"
+  },
+  "ανοιχτό στόμα": {
+    "replacement": "😮",
+    "description": "face with open mouth"
+  },
+  "σιωπηλός": { "replacement": "😯", "description": "hushed face" },
+  "έκπληκτος": { "replacement": "😲", "description": "astonished face" },
+  "ξεπλύθηκε": { "replacement": "😳", "description": "flushed face" },
+  "παρακαλώ πρόσωπο": { "replacement": "🥺", "description": "pleading face" },
+  "συνοφρυώματος": {
+    "replacement": "😦",
+    "description": "frowning face with open mouth"
+  },
+  "εκνευρισμένος": { "replacement": "😧", "description": "anguished face" },
+  "φοβερός": { "replacement": "😨", "description": "fearful face" },
+  "κρύος ιδρώτας": {
+    "replacement": "😰",
+    "description": "anxious face with sweat"
+  },
+  "απογοητευμένος ανακουφισμένος": {
+    "replacement": "😥",
+    "description": "sad but relieved face"
+  },
+  "κραυγή": { "replacement": "😱", "description": "face screaming in fear" },
+  "λυγμός": { "replacement": "😭", "description": "loudly crying face" },
+  "καταραμένος": { "replacement": "😖", "description": "confounded face" },
+  "επιμένω": { "replacement": "😣", "description": "persevering face" },
+  "απογοητευμένος": { "replacement": "😞", "description": "disappointed face" },
+  "ιδρώτας": { "replacement": "😓", "description": "downcast face with sweat" },
+  "κουρασμένος": { "replacement": "😩", "description": "weary face" },
+  "κουρασμένο πρόσωπο": { "replacement": "😫", "description": "tired face" },
+  "χασμουρητό πρόσωπο": { "replacement": "🥱", "description": "yawning face" },
+  "θρίαμβος": {
+    "replacement": "😤",
+    "description": "face with steam from nose"
+  },
+  "οργή": { "replacement": "😡", "description": "pouting face" },
+  "θυμωμένος": { "replacement": "😠", "description": "angry face" },
+  "κατάρα πρόσωπο": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "χαμογελαστά imp": {
+    "replacement": "😈",
+    "description": "smiling face with horns"
+  },
+  "διαβολάκι": { "replacement": "👿", "description": "angry face with horns" },
+  "κρανίο": { "replacement": "💀", "description": "skull" },
+  "κρανίο και εγκάρσια οστά": {
+    "replacement": "☠️",
+    "description": "skull and crossbones"
+  },
+  "Χάνκεϊ": { "replacement": "💩", "description": "pile of poo" },
+  "πρόσωπο κλόουν": { "replacement": "🤡", "description": "clown face" },
+  "ιαπωνικό ogre": { "replacement": "👹", "description": "ogre" },
+  "ιαπωνικό goblin": { "replacement": "👺", "description": "goblin" },
+  "φάντασμα": { "replacement": "👻", "description": "ghost" },
+  "εξωγήινο": { "replacement": "👽", "description": "alien" },
+  "εισβολέας διαστήματος": {
+    "replacement": "👾",
+    "description": "alien monster"
+  },
+  "ρομπότ": { "replacement": "🤖", "description": "robot" },
+  "γελαστή γάτα": { "replacement": "😺", "description": "grinning cat" },
+  "χαμόγελο γάτα": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "γάτα χαράς": { "replacement": "😹", "description": "cat with tears of joy" },
+  "καρδιά μάτια γάτα": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "γάτα smirk": { "replacement": "😼", "description": "cat with wry smile" },
+  "φιλιά γάτα": { "replacement": "😽", "description": "kissing cat" },
+  "κραυγή γάτα": { "replacement": "🙀", "description": "weary cat" },
+  "κλαίει το πρόσωπο της γάτας": {
+    "replacement": "😿",
+    "description": "crying cat"
+  },
+  "σύκο γάτα": { "replacement": "😾", "description": "pouting cat" },
+  "δεν βλέπω κακό": {
+    "replacement": "🙈",
+    "description": "see-no-evil monkey"
+  },
+  "μην ακούτε κακό": {
+    "replacement": "🙉",
+    "description": "hear-no-evil monkey"
+  },
+  "μη μιλάς κακό": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "φιλί": { "replacement": "💋", "description": "kiss mark" },
+  "γράμμα αγάπης": { "replacement": "💌", "description": "love letter" },
+  "Έρως": { "replacement": "💘", "description": "heart with arrow" },
+  "καρδιά δώρο": { "replacement": "💝", "description": "heart with ribbon" },
+  "αφρώδη καρδιά": { "replacement": "💖", "description": "sparkling heart" },
+  "καρδιακός παλμός": { "replacement": "💗", "description": "growing heart" },
+  "ΧΤΥΠΟΣ καρδιας": { "replacement": "💓", "description": "beating heart" },
+  "περιστρεφόμενες καρδιές": {
+    "replacement": "💞",
+    "description": "revolving hearts"
+  },
+  "δύο καρδιές": { "replacement": "💕", "description": "two hearts" },
+  "διακόσμηση καρδιάς": {
+    "replacement": "💟",
+    "description": "heart decoration"
+  },
+  "έντονο θαυμαστικό της καρδιάς": {
+    "replacement": "❣️",
+    "description": "heart exclamation"
+  },
+  "ραγισμένη καρδιά": { "replacement": "💔", "description": "broken heart" },
+  "καρδιά": { "replacement": "❤️", "description": "red heart" },
+  "πορτοκαλί καρδιά": { "replacement": "🧡", "description": "orange heart" },
+  "κίτρινη καρδιά": { "replacement": "💛", "description": "yellow heart" },
+  "πράσινη καρδιά": { "replacement": "💚", "description": "green heart" },
+  "μπλε καρδιά": { "replacement": "💙", "description": "blue heart" },
+  "μωβ καρδιά": { "replacement": "💜", "description": "purple heart" },
+  "καφέ καρδιά": { "replacement": "🤎", "description": "brown heart" },
+  "μαύρη καρδιά": { "replacement": "🖤", "description": "black heart" },
+  "λευκή καρδιά": { "replacement": "🤍", "description": "white heart" },
+  "θυμός": { "replacement": "💢", "description": "anger symbol" },
+  "κεραία": { "replacement": "💥", "description": "collision" },
+  "ζαλισμένος": { "replacement": "💫", "description": "dizzy" },
+  "σταγόνες ιδρώτα": { "replacement": "💦", "description": "sweat droplets" },
+  "παύλα": { "replacement": "💨", "description": "dashing away" },
+  "τρύπα": { "replacement": "🕳️", "description": "hole" },
+  "βόμβα": { "replacement": "💣", "description": "bomb" },
+  "μπαλόνι ομιλίας": { "replacement": "💬", "description": "speech balloon" },
+  "φούσκα ομιλία ματιών": {
+    "replacement": "👁️‍🗨️",
+    "description": "eye in speech bubble"
+  },
+  "φούσκα ομιλίας αριστερά": {
+    "replacement": "🗨️",
+    "description": "left speech bubble"
+  },
+  "σωστή φούσκα θυμού": {
+    "replacement": "🗯️",
+    "description": "right anger bubble"
+  },
+  "σκέφτηκε μπαλόνι": { "replacement": "💭", "description": "thought balloon" },
+  "ζζ": { "replacement": "💤", "description": "zzz" },
+  "κύμα": { "replacement": "👋", "description": "waving hand" },
+  "σηκωμένο πίσω χέρι": {
+    "replacement": "🤚",
+    "description": "raised back of hand"
+  },
+  "σηκωμένο χέρι με δάχτυλα": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "χέρι": { "replacement": "✋", "description": "raised hand" },
+  "βουλκανικό χαιρετισμό": {
+    "replacement": "🖖",
+    "description": "vulcan salute"
+  },
+  "εντάξει χέρι": { "replacement": "👌", "description": "OK hand" },
+  "τσιμπήματα": { "replacement": "🤌", "description": "pinched fingers" },
+  "τσίμπημα του χεριού": { "replacement": "🤏", "description": "pinching hand" },
+  "β": { "replacement": "✌️", "description": "victory hand" },
+  "σταυρωμενα δαχτυλα": {
+    "replacement": "🤞",
+    "description": "crossed fingers"
+  },
+  "σε αγαπώ χειρονομία": {
+    "replacement": "🤟",
+    "description": "love-you gesture"
+  },
+  "μέταλλο": { "replacement": "🤘", "description": "sign of the horns" },
+  "καλέστε με χέρι": { "replacement": "🤙", "description": "call me hand" },
+  "αριστερό σημείο": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "σημείο δεξιά": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "σημείο 2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "μεσαίο δάχτυλο": { "replacement": "🖕", "description": "middle finger" },
+  "δείξτε προς τα κάτω": {
+    "replacement": "👇",
+    "description": "backhand index pointing down"
+  },
+  "δείξτε προς τα πάνω": {
+    "replacement": "☝️",
+    "description": "index pointing up"
+  },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "σηκώθηκε": { "replacement": "✊", "description": "raised fist" },
+  "γροθιά που έρχεται": { "replacement": "👊", "description": "oncoming fist" },
+  "γροθιά αριστερά": { "replacement": "🤛", "description": "left-facing fist" },
+  "γροθιά δεξιά": { "replacement": "🤜", "description": "right-facing fist" },
+  "χειροκρότημα": { "replacement": "👏", "description": "clapping hands" },
+  "σήκωσε τα χέρια": { "replacement": "🙌", "description": "raising hands" },
+  "ανοιχτά χέρια": { "replacement": "👐", "description": "open hands" },
+  "παλάμες μαζί": { "replacement": "🤲", "description": "palms up together" },
+  "χειραψία": { "replacement": "🤝", "description": "handshake" },
+  "προσεύχομαι": { "replacement": "🙏", "description": "folded hands" },
+  "γράφοντας το χέρι": { "replacement": "✍️", "description": "writing hand" },
+  "φροντίδα νυχιών": { "replacement": "💅", "description": "nail polish" },
+  "selfie": { "replacement": "🤳", "description": "selfie" },
+  "μυς": { "replacement": "💪", "description": "flexed biceps" },
+  "μηχανικός βραχίονας": {
+    "replacement": "🦾",
+    "description": "mechanical arm"
+  },
+  "μηχανικό πόδι": { "replacement": "🦿", "description": "mechanical leg" },
+  "πόδι": { "replacement": "🦶", "description": "foot" },
+  "αυτί": { "replacement": "👂", "description": "ear" },
+  "αυτί με ακουστικό βαρηκοΐας": {
+    "replacement": "🦻",
+    "description": "ear with hearing aid"
+  },
+  "μύτη": { "replacement": "👃", "description": "nose" },
+  "εγκέφαλος": { "replacement": "🧠", "description": "brain" },
+  "ανατομική καρδιά": { "replacement": "🫀", "description": "anatomical heart" },
+  "πνεύμονες": { "replacement": "🫁", "description": "lungs" },
+  "δόντι": { "replacement": "🦷", "description": "tooth" },
+  "οστό": { "replacement": "🦴", "description": "bone" },
+  "μάτια": { "replacement": "👀", "description": "eyes" },
+  "μάτι": { "replacement": "👁️", "description": "eye" },
+  "γλώσσα": { "replacement": "👅", "description": "tongue" },
+  "χείλια": { "replacement": "👄", "description": "mouth" },
+  "μωρό": { "replacement": "👶", "description": "baby" },
+  "παιδί": { "replacement": "🧒", "description": "child" },
+  "αγόρι": { "replacement": "👦", "description": "boy" },
+  "κορίτσι": { "replacement": "👧", "description": "girl" },
+  "ενήλικας": { "replacement": "🧑", "description": "person" },
+  "ξανθά μαλλιά πρόσωπο": {
+    "replacement": "👱",
+    "description": "person: blond hair"
+  },
+  "άνδρας": { "replacement": "👨", "description": "man" },
+  "γενειοφόρος": { "replacement": "🧔", "description": "man: beard" },
+  "κόκκινα μαλλιά άνθρωπος": {
+    "replacement": "👨‍🦰",
+    "description": "man: red hair"
+  },
+  "σγουρά μαλλιά άντρας": {
+    "replacement": "👨‍🦱",
+    "description": "man: curly hair"
+  },
+  "λευκά μαλλιά άντρας": {
+    "replacement": "👨‍🦳",
+    "description": "man: white hair"
+  },
+  "φαλακρός": { "replacement": "👨‍🦲", "description": "man: bald" },
+  "γυναίκα": { "replacement": "🦹‍♀️", "description": "woman supervillain" },
+  "κοκκινομάλλης γυναίκα": {
+    "replacement": "👩‍🦰",
+    "description": "woman: red hair"
+  },
+  "πρόσωπο κόκκινα μαλλιά": {
+    "replacement": "🧑‍🦰",
+    "description": "person: red hair"
+  },
+  "σγουρά μαλλιά γυναίκα": {
+    "replacement": "👩‍🦱",
+    "description": "woman: curly hair"
+  },
+  "πρόσωπο σγουρά μαλλιά": {
+    "replacement": "🧑‍🦱",
+    "description": "person: curly hair"
+  },
+  "λευκά μαλλιά γυναίκα": {
+    "replacement": "👩‍🦳",
+    "description": "woman: white hair"
+  },
+  "πρόσωπο λευκά μαλλιά": {
+    "replacement": "🧑‍🦳",
+    "description": "person: white hair"
+  },
+  "φαλακρή γυναίκα": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "πρόσωπο φαλακρό": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "ξανθιά μαλλιά γυναίκα": {
+    "replacement": "👱‍♀️",
+    "description": "woman: blond hair"
+  },
+  "ξανθιά μαλλιά άντρας": {
+    "replacement": "👱‍♂️",
+    "description": "man: blond hair"
+  },
+  "μεγαλύτερος ενήλικας": {
+    "replacement": "🧓",
+    "description": "older person"
+  },
+  "μεγαλύτερος άντρας": { "replacement": "👴", "description": "old man" },
+  "ηλικιωμένη γυναίκα": { "replacement": "👵", "description": "old woman" },
+  "πρόσωπο συνοφρυώματος": {
+    "replacement": "🙍",
+    "description": "person frowning"
+  },
+  "συνοφρυωμένος": { "replacement": "🙍‍♂️", "description": "man frowning" },
+  "συνοφρυωμένη γυναίκα": {
+    "replacement": "🙍‍♀️",
+    "description": "woman frowning"
+  },
+  "σύκο πρόσωπο": { "replacement": "🙎", "description": "person pouting" },
+  "άντρας": { "replacement": "🤸‍♂️", "description": "man cartwheeling" },
+  "σύκο γυναίκα": { "replacement": "🙎‍♀️", "description": "woman pouting" },
+  "όχι καλό": { "replacement": "🙅", "description": "person gesturing NO" },
+  "κανένας καλός άντρας": {
+    "replacement": "🙅‍♂️",
+    "description": "man gesturing NO"
+  },
+  "καμία καλή γυναίκα": {
+    "replacement": "🙅‍♀️",
+    "description": "woman gesturing NO"
+  },
+  "εντάξει άτομο": {
+    "replacement": "🙆",
+    "description": "person gesturing OK"
+  },
+  "καλα ρε": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "εντάξει γυναίκα": {
+    "replacement": "🙆‍♀️",
+    "description": "woman gesturing OK"
+  },
+  "ανατροπή πρόσωπο χέρι": {
+    "replacement": "💁",
+    "description": "person tipping hand"
+  },
+  "ανατροπής χέρι άνθρωπος": {
+    "replacement": "💁‍♂️",
+    "description": "man tipping hand"
+  },
+  "ανατροπή χέρι γυναίκα": {
+    "replacement": "💁‍♀️",
+    "description": "woman tipping hand"
+  },
+  "σηκώνοντας το χέρι": {
+    "replacement": "🙋",
+    "description": "person raising hand"
+  },
+  "αυξάνοντας τον άνθρωπο": {
+    "replacement": "🙋‍♂️",
+    "description": "man raising hand"
+  },
+  "αυξάνοντας το χέρι γυναίκα": {
+    "replacement": "🙋‍♀️",
+    "description": "woman raising hand"
+  },
+  "κωφός": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "κωφή γυναίκα": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "τόξο": { "replacement": "🙇", "description": "person bowing" },
+  "υποκλίτης": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "υποκλίνοντας γυναίκα": {
+    "replacement": "🙇‍♀️",
+    "description": "woman bowing"
+  },
+  "facepalm": { "replacement": "🤦", "description": "person facepalming" },
+  "σήκωμα των ώμων": { "replacement": "🤷", "description": "person shrugging" },
+  "άντρας αδιαφορία": { "replacement": "🤷‍♂️", "description": "man shrugging" },
+  "γυναίκα αδιαφορία": {
+    "replacement": "🤷‍♀️",
+    "description": "woman shrugging"
+  },
+  "επαγγελματίας υγείας": {
+    "replacement": "🧑‍⚕️",
+    "description": "health worker"
+  },
+  "εργαζόμενος στον άνθρωπο": {
+    "replacement": "👨‍⚕️",
+    "description": "man health worker"
+  },
+  "γυναίκα εργαζόμενος για την υγεία": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "μαθητης σχολειου": { "replacement": "🧑‍🎓", "description": "student" },
+  "φοιτητής": { "replacement": "👨‍🎓", "description": "man student" },
+  "γυναίκα φοιτητής": { "replacement": "👩‍🎓", "description": "woman student" },
+  "δάσκαλος": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "άντρας δάσκαλος": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "γυναίκα δάσκαλος": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "δικαστής": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "άντρας κριτής": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "γυναίκα δικαστής": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "αγρότης": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "άντρας αγρότης": { "replacement": "👨‍🌾", "description": "man farmer" },
+  "γυναίκα αγρότης": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "μάγειρας": { "replacement": "🧑‍🍳", "description": "cook" },
+  "άντρας μάγειρας": { "replacement": "👨‍🍳", "description": "man cook" },
+  "γυναίκα μάγειρας": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "μηχανικός": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "άντρας μηχανικός": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "γυναίκα μηχανικός": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "εργάτης εργοστασίου": {
+    "replacement": "🧑‍🏭",
+    "description": "factory worker"
+  },
+  "άντρας εργάτης": {
+    "replacement": "👨‍🏭",
+    "description": "man factory worker"
+  },
+  "γυναίκα εργάτρια": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "υπάλληλος γραφείου": {
+    "replacement": "🧑‍💼",
+    "description": "office worker"
+  },
+  "άνθρωπος υπάλληλος γραφείου": {
+    "replacement": "👨‍💼",
+    "description": "man office worker"
+  },
+  "γυναίκα υπάλληλος γραφείου": {
+    "replacement": "👩‍💼",
+    "description": "woman office worker"
+  },
+  "επιστήμονας": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "άνθρωπος επιστήμονας": {
+    "replacement": "👨‍🔬",
+    "description": "man scientist"
+  },
+  "γυναίκα επιστήμονας": {
+    "replacement": "👩‍🔬",
+    "description": "woman scientist"
+  },
+  "τεχνολόγος": { "replacement": "🧑‍💻", "description": "technologist" },
+  "άνθρωπος τεχνολόγος": {
+    "replacement": "👨‍💻",
+    "description": "man technologist"
+  },
+  "γυναίκα τεχνολόγος": {
+    "replacement": "👩‍💻",
+    "description": "woman technologist"
+  },
+  "τραγουδιστής": { "replacement": "🧑‍🎤", "description": "singer" },
+  "άντρας τραγουδιστής": { "replacement": "👨‍🎤", "description": "man singer" },
+  "γυναίκα τραγουδίστρια": {
+    "replacement": "👩‍🎤",
+    "description": "woman singer"
+  },
+  "καλλιτέχνης": { "replacement": "🧑‍🎨", "description": "artist" },
+  "άντρας καλλιτέχνης": { "replacement": "👨‍🎨", "description": "man artist" },
+  "γυναίκα καλλιτέχνης": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "πιλότος": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "άντρας πιλότος": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "γυναίκα πιλότος": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "αστροναύτης": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "άντρας αστροναύτης": { "replacement": "👨‍🚀", "description": "man astronaut" },
+  "γυναίκα αστροναύτης": {
+    "replacement": "👩‍🚀",
+    "description": "woman astronaut"
+  },
+  "πυροσβέστης": { "replacement": "🧑‍🚒", "description": "firefighter" },
+  "άντρας πυροσβέστης": {
+    "replacement": "👨‍🚒",
+    "description": "man firefighter"
+  },
+  "γυναίκα πυροσβέστης": {
+    "replacement": "👩‍🚒",
+    "description": "woman firefighter"
+  },
+  "αστυνομικός": { "replacement": "👮‍♂️", "description": "man police officer" },
+  "αστυνομικίνα": {
+    "replacement": "👮‍♀️",
+    "description": "woman police officer"
+  },
+  "ντεντεκτίβ": { "replacement": "🕵️", "description": "detective" },
+  "αρσενικός ντετέκτιβ": {
+    "replacement": "🕵️‍♂️",
+    "description": "man detective"
+  },
+  "γυναίκα ντετέκτιβ": {
+    "replacement": "🕵️‍♀️",
+    "description": "woman detective"
+  },
+  "φρουρά": { "replacement": "💂", "description": "guard" },
+  "εθνοφρουρός": { "replacement": "💂‍♂️", "description": "man guard" },
+  "φύλακα": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "νίντζα": { "replacement": "🥷", "description": "ninja" },
+  "εργάτης οικοδομής": {
+    "replacement": "👷",
+    "description": "construction worker"
+  },
+  "άντρας εργάτης οικοδομών": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "γυναίκα εργάτης οικοδομών": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "πρίγκιπας": { "replacement": "🤴", "description": "prince" },
+  "πριγκίπισσα": { "replacement": "👸", "description": "princess" },
+  "άτομο με τουρμπάνι": {
+    "replacement": "👳",
+    "description": "person wearing turban"
+  },
+  "άντρας με τουρμπάνι": {
+    "replacement": "👳‍♂️",
+    "description": "man wearing turban"
+  },
+  "γυναίκα με τουρμπάνι": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "άντρας με gua pi mao": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "γυναίκα με μαντίλα": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "άτομο στο σμόκιν": {
+    "replacement": "🤵",
+    "description": "person in tuxedo"
+  },
+  "άντρας στο σμόκιν": {
+    "replacement": "🤵‍♂️",
+    "description": "man in tuxedo"
+  },
+  "γυναίκα στο σμόκιν": {
+    "replacement": "🤵‍♀️",
+    "description": "woman in tuxedo"
+  },
+  "άτομο με πέπλο": { "replacement": "👰", "description": "person with veil" },
+  "άντρας με πέπλο": { "replacement": "👰‍♂️", "description": "man with veil" },
+  "γυναίκα με πέπλο": {
+    "replacement": "👰‍♀️",
+    "description": "woman with veil"
+  },
+  "εγκυος": { "replacement": "🤰", "description": "pregnant woman" },
+  "Θηλασμός": { "replacement": "🤱", "description": "breast-feeding" },
+  "γυναίκα που ταΐζει το μωρό": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "άντρας σίτιση μωρό": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "πρόσωπο που ταΐζει το μωρό": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "άγγελος": { "replacement": "👼", "description": "baby angel" },
+  "Σάντα": { "replacement": "🎅", "description": "Santa Claus" },
+  "κ. Βασίλη": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "mx claus": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "υπερήρωας": { "replacement": "🦸", "description": "superhero" },
+  "άνθρωπος υπερήρωα": { "replacement": "🦸‍♂️", "description": "man superhero" },
+  "γυναίκα υπερήρωα": { "replacement": "🦸‍♀️", "description": "woman superhero" },
+  "υπερπληθυσμός": { "replacement": "🦹", "description": "supervillain" },
+  "μάγος": { "replacement": "🧙", "description": "mage" },
+  "φίλε μου": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "γυναίκα μάγου": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "νεράιδα": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "γυναίκα νεράιδων": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "βρυκόλακας": { "replacement": "🧟", "description": "zombie" },
+  "άντρας βαμπίρ": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "γυναίκα βαμπίρ": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "έμπορος": { "replacement": "🧜", "description": "merperson" },
+  "γέρμαν": { "replacement": "🧜‍♂️", "description": "merman" },
+  "γοργόνα": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "ξωτικό": { "replacement": "🧝‍♂️", "description": "man elf" },
+  "γυναίκα ξωτικό": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "τζίνι": { "replacement": "🧞", "description": "genie" },
+  "Τζίνι": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "γυναίκα τζίνι": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "άντρας ζόμπι": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "γυναίκα ζόμπι": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "μασάζ": { "replacement": "💆", "description": "person getting massage" },
+  "άνθρωπος μασάζ": {
+    "replacement": "💆‍♂️",
+    "description": "man getting massage"
+  },
+  "γυναίκα μασάζ": {
+    "replacement": "💆‍♀️",
+    "description": "woman getting massage"
+  },
+  "ΚΟΥΡΕΜΑ ΜΑΛΛΙΩΝ": {
+    "replacement": "💇",
+    "description": "person getting haircut"
+  },
+  "άντρας κούρεμα": {
+    "replacement": "💇‍♂️",
+    "description": "man getting haircut"
+  },
+  "γυναίκα κούρεμα": {
+    "replacement": "💇‍♀️",
+    "description": "woman getting haircut"
+  },
+  "το περπάτημα": { "replacement": "🚶", "description": "person walking" },
+  "περπάτημα": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "περπατώντας γυναίκα": {
+    "replacement": "🚶‍♀️",
+    "description": "woman walking"
+  },
+  "όρθιο άτομο": { "replacement": "🧍", "description": "person standing" },
+  "άντρας όρθιος": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "όρθια γυναίκα": { "replacement": "🧍‍♀️", "description": "woman standing" },
+  "γονατιστής": { "replacement": "🧎‍♂️", "description": "man kneeling" },
+  "γονατιστή γυναίκα": {
+    "replacement": "🧎‍♀️",
+    "description": "woman kneeling"
+  },
+  "άτομο με ζαχαροκάλαμο": {
+    "replacement": "🧑‍🦯",
+    "description": "person with white cane"
+  },
+  "άντρας με ζαχαροκάλαμο": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "γυναίκα με ζαχαροκάλαμο": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "άτομο σε μηχανοκίνητο αναπηρικό καροτσάκι": {
+    "replacement": "🧑‍🦼",
+    "description": "person in motorized wheelchair"
+  },
+  "άντρας με αναπηρικό καροτσάκι": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "γυναίκα σε μηχανοκίνητο αναπηρικό καροτσάκι": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "άτομο σε χειροκίνητη αναπηρική καρέκλα": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "άντρας σε χειροκίνητη αναπηρική καρέκλα": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "γυναίκα σε χειροκίνητη αναπηρική καρέκλα": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "δρομέας": { "replacement": "🏃‍♂️", "description": "man running" },
+  "γυναίκα που τρέχει": { "replacement": "🏃‍♀️", "description": "woman running" },
+  "γυναίκα που χορεύει": {
+    "replacement": "💃",
+    "description": "woman dancing"
+  },
+  "άντρας χορεύει": { "replacement": "🕺", "description": "man dancing" },
+  "επαγγελματικό κοστούμι": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "χορευτές": { "replacement": "👯", "description": "people with bunny ears" },
+  "άντρες που χορεύουν": {
+    "replacement": "👯‍♂️",
+    "description": "men with bunny ears"
+  },
+  "γυναίκες που χορεύουν": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "άτομο σάουνας": {
+    "replacement": "🧖",
+    "description": "person in steamy room"
+  },
+  "άντρας σάουνας": {
+    "replacement": "🧖‍♂️",
+    "description": "man in steamy room"
+  },
+  "γυναίκα σάουνας": {
+    "replacement": "🧖‍♀️",
+    "description": "woman in steamy room"
+  },
+  "ορειβασία": { "replacement": "🧗", "description": "person climbing" },
+  "αναρρίχηση": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "γυναίκα αναρρίχησης": {
+    "replacement": "🧗‍♀️",
+    "description": "woman climbing"
+  },
+  "άτομο περίφραξη": { "replacement": "🤺", "description": "person fencing" },
+  "ιπποδρομίες": { "replacement": "🏇", "description": "horse racing" },
+  "σκιέρ": { "replacement": "⛷️", "description": "skier" },
+  "σνόουμπορντ": { "replacement": "🏂", "description": "snowboarder" },
+  "γκολφ": { "replacement": "⛳", "description": "flag in hole" },
+  "άνθρωπος γκολφ": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "γυναίκα γκολφ": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "σέρφερ": { "replacement": "🏄", "description": "person surfing" },
+  "άνθρωπος σερφ": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "γυναίκα σερφ": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "βάρκα με κουπιά": {
+    "replacement": "🚣",
+    "description": "person rowing boat"
+  },
+  "άντρας κωπηλασίας": {
+    "replacement": "🚣‍♂️",
+    "description": "man rowing boat"
+  },
+  "γυναίκα κωπηλασίας": {
+    "replacement": "🚣‍♀️",
+    "description": "woman rowing boat"
+  },
+  "κολυμβητής": { "replacement": "🏊", "description": "person swimming" },
+  "άντρας κολύμπι": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "γυναίκα κολύμβησης": {
+    "replacement": "🏊‍♀️",
+    "description": "woman swimming"
+  },
+  "αναπήδηση μπάλα πρόσωπο": {
+    "replacement": "⛹️",
+    "description": "person bouncing ball"
+  },
+  "αναπηδούν μπάλα άνθρωπος": {
+    "replacement": "⛹️‍♂️",
+    "description": "man bouncing ball"
+  },
+  "γυναίκα που αναπηδά μπάλα": {
+    "replacement": "⛹️‍♀️",
+    "description": "woman bouncing ball"
+  },
+  "άρση βαρών": {
+    "replacement": "🏋️",
+    "description": "person lifting weights"
+  },
+  "άρση βαρών άνθρωπος": {
+    "replacement": "🏋️‍♂️",
+    "description": "man lifting weights"
+  },
+  "γυναίκα άρση βαρών": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "ποδηλάτης": { "replacement": "🚴", "description": "person biking" },
+  "άνθρωπος ποδηλασίας": { "replacement": "🚴‍♂️", "description": "man biking" },
+  "γυναίκα ποδηλασίας": { "replacement": "🚴‍♀️", "description": "woman biking" },
+  "ποδηλάτης βουνού": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "άνθρωπος ορεινή ποδηλασία": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "γυναίκα ποδηλασίας βουνού": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "καροτσάκι": { "replacement": "🤸", "description": "person cartwheeling" },
+  "γυναικεία αμαξίδια": {
+    "replacement": "🤸‍♀️",
+    "description": "woman cartwheeling"
+  },
+  "πάλη": { "replacement": "🤼", "description": "people wrestling" },
+  "άνδρες που παλεύουν": {
+    "replacement": "🤼‍♂️",
+    "description": "men wrestling"
+  },
+  "γυναίκες που παλεύουν": {
+    "replacement": "🤼‍♀️",
+    "description": "women wrestling"
+  },
+  "Υδατοσφαίριση": {
+    "replacement": "🤽",
+    "description": "person playing water polo"
+  },
+  "άντρας παίζει πόλο": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "γυναίκα που παίζει πόλο": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "άτομο χάντμπολ": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "άντρας παίζει χάντμπολ": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "γυναίκα που παίζει χάντμπολ": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "ζογκλέρ άτομο": { "replacement": "🤹", "description": "person juggling" },
+  "άντρας ζογκλέρ": { "replacement": "🤹‍♂️", "description": "man juggling" },
+  "γυναίκα ζογκλέρ": { "replacement": "🤹‍♀️", "description": "woman juggling" },
+  "θέση λωτού": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "άνθρωπος θέση λωτού": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "γυναίκα θέση λωτού": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "λούτρο": { "replacement": "🛀", "description": "person taking bath" },
+  "κρεβάτι ύπνου": { "replacement": "🛌", "description": "person in bed" },
+  "άτομα που κρατούν τα χέρια": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "δύο γυναίκες, κρατώντας τα χέρια": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "ζευγάρι": { "replacement": "💏", "description": "kiss" },
+  "δύο άντρες κρατώντας τα χέρια": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "άντρας ζευγάρι": { "replacement": "👨‍❤️‍💋‍👨", "description": "kiss: man, man" },
+  "ζευγάρι γυναίκα": {
+    "replacement": "👩‍❤️‍💋‍👩",
+    "description": "kiss: woman, woman"
+  },
+  "ζευγάρι με καρδιά": {
+    "replacement": "💑",
+    "description": "couple with heart"
+  },
+  "ζευγάρι με άνδρα γυναίκα καρδιά": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "ζευγάρι με καρδιά άνθρωπος άντρας": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "ζευγάρι με γυναίκα γυναίκα καρδιά": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "οικογένεια": { "replacement": "👪", "description": "family" },
+  "οικογένεια άνδρας γυναίκα αγόρι": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "οικογενειακό άνδρα γυναίκα κορίτσι": {
+    "replacement": "👨‍👩‍👧",
+    "description": "family: man, woman, girl"
+  },
+  "οικογένεια άνδρας γυναίκα κορίτσι αγόρι": {
+    "replacement": "👨‍👩‍👧‍👦",
+    "description": "family: man, woman, girl, boy"
+  },
+  "οικογένεια άνδρας γυναίκα αγόρι αγόρι": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "οικογένεια άνδρας γυναίκα κορίτσι κορίτσι": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "οικογένεια άνθρωπος άνθρωπος αγόρι": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "οικογενειακό άτομο άντρας κορίτσι": {
+    "replacement": "👨‍👨‍👧",
+    "description": "family: man, man, girl"
+  },
+  "οικογένεια άνθρωπος άνδρας κορίτσι αγόρι": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "οικογένεια άντρας αγόρι αγόρι αγόρι": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "οικογενειακό άτομο άντρας κορίτσι κορίτσι": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "οικογένεια γυναίκα γυναίκα αγόρι": {
+    "replacement": "👩‍👩‍👦",
+    "description": "family: woman, woman, boy"
+  },
+  "οικογενειακή γυναίκα γυναίκα κορίτσι": {
+    "replacement": "👩‍👩‍👧",
+    "description": "family: woman, woman, girl"
+  },
+  "οικογένεια γυναίκα γυναίκα κορίτσι αγόρι": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "οικογένεια γυναίκα γυναίκα αγόρι αγόρι": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "οικογενειακή γυναίκα γυναίκα κορίτσι κορίτσι": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "οικογενειακό αγόρι": {
+    "replacement": "👨‍👦",
+    "description": "family: man, boy"
+  },
+  "οικογένεια αγόρι αγόρι αγόρι": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "κορίτσι άντρας της οικογένειας": {
+    "replacement": "👨‍👧",
+    "description": "family: man, girl"
+  },
+  "οικογενειακό αγόρι κορίτσι": {
+    "replacement": "👨‍👧‍👦",
+    "description": "family: man, girl, boy"
+  },
+  "οικογενειακό κορίτσι κορίτσι": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "αγόρι γυναίκα της οικογένειας": {
+    "replacement": "👩‍👦",
+    "description": "family: woman, boy"
+  },
+  "οικογενειακή γυναίκα αγόρι αγόρι": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "οικογενειακή γυναίκα κορίτσι": {
+    "replacement": "👩‍👧",
+    "description": "family: woman, girl"
+  },
+  "οικογενειακή γυναίκα κορίτσι αγόρι": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "οικογενειακή γυναίκα κορίτσι κορίτσι": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "μιλώντας κεφάλι": { "replacement": "🗣️", "description": "speaking head" },
+  "προτομή σε σιλουέτα": {
+    "replacement": "👤",
+    "description": "bust in silhouette"
+  },
+  "προτομές στη σιλουέτα": {
+    "replacement": "👥",
+    "description": "busts in silhouette"
+  },
+  "άνθρωποι αγκαλιάζουν": {
+    "replacement": "🫂",
+    "description": "people hugging"
+  },
+  "πατημασιές": { "replacement": "👣", "description": "footprints" },
+  "πρόσωπο μαϊμού": { "replacement": "🐵", "description": "monkey face" },
+  "Πίθηκος": { "replacement": "🐒", "description": "monkey" },
+  "γορίλλας": { "replacement": "🦍", "description": "gorilla" },
+  "οραγγουτάγγος": { "replacement": "🦧", "description": "orangutan" },
+  "σκύλος": { "replacement": "🐶", "description": "dog face" },
+  "σκύλος2": { "replacement": "🐕", "description": "dog" },
+  "σκύλος-οδηγός": { "replacement": "🦮", "description": "guide dog" },
+  "σκύλος υπηρεσίας": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "σγουρόμαλλο σκυλάκι": { "replacement": "🐩", "description": "poodle" },
+  "λύκος": { "replacement": "🐺", "description": "wolf" },
+  "αλεπού πρόσωπο": { "replacement": "🦊", "description": "fox" },
+  "ρακούν": { "replacement": "🦝", "description": "raccoon" },
+  "Γάτα": { "replacement": "🐱", "description": "cat face" },
+  "γάτα2": { "replacement": "🐈", "description": "cat" },
+  "μαύρη γάτα": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "λιοντάρι": { "replacement": "🦁", "description": "lion" },
+  "τίγρη": { "replacement": "🐯", "description": "tiger face" },
+  "τίγρη2": { "replacement": "🐅", "description": "tiger" },
+  "λεοπάρδαλη": { "replacement": "🐆", "description": "leopard" },
+  "άλογο": { "replacement": "🐴", "description": "horse face" },
+  "άλογο αγώνων": { "replacement": "🐎", "description": "horse" },
+  "μονόκερος": { "replacement": "🦄", "description": "unicorn" },
+  "ζέβρα": { "replacement": "🦓", "description": "zebra" },
+  "ελάφι": { "replacement": "🦌", "description": "deer" },
+  "βόνασος": { "replacement": "🦬", "description": "bison" },
+  "αγελάδα": { "replacement": "🐮", "description": "cow face" },
+  "βόδι": { "replacement": "🐂", "description": "ox" },
+  "νεροβουβαλο": { "replacement": "🐃", "description": "water buffalo" },
+  "αγελάδα2": { "replacement": "🐄", "description": "cow" },
+  "Χοίρος": { "replacement": "🐷", "description": "pig face" },
+  "χοίρος2": { "replacement": "🐖", "description": "pig" },
+  "κάπρος": { "replacement": "🐗", "description": "boar" },
+  "μύτη χοίρου": { "replacement": "🐽", "description": "pig nose" },
+  "έμβολο": { "replacement": "🪠", "description": "plunger" },
+  "πρόβατο": { "replacement": "🐑", "description": "ewe" },
+  "γίδα": { "replacement": "🐐", "description": "goat" },
+  "καμήλα dromedary": { "replacement": "🐪", "description": "camel" },
+  "καμήλα": { "replacement": "🐫", "description": "two-hump camel" },
+  "είδος μικρής καμήλας": { "replacement": "🦙", "description": "llama" },
+  "καμηλοπάρδαλη": { "replacement": "🦒", "description": "giraffe" },
+  "ελέφαντας": { "replacement": "🐘", "description": "elephant" },
+  "μαμμούθ": { "replacement": "🦣", "description": "mammoth" },
+  "ρινόκερως": { "replacement": "🦏", "description": "rhinoceros" },
+  "ιπποπόταμος": { "replacement": "🦛", "description": "hippopotamus" },
+  "ποντίκι": { "replacement": "🐭", "description": "mouse face" },
+  "ποντίκι2": { "replacement": "🐁", "description": "mouse" },
+  "αρουραίος": { "replacement": "🐀", "description": "rat" },
+  "χάμστερ": { "replacement": "🐹", "description": "hamster" },
+  "κουνέλι": { "replacement": "🐰", "description": "rabbit face" },
+  "κουνέλι2": { "replacement": "🐇", "description": "rabbit" },
+  "είδος σκίουρου": { "replacement": "🐿️", "description": "chipmunk" },
+  "κάστορας": { "replacement": "🦫", "description": "beaver" },
+  "Σκατζόχοιρος": { "replacement": "🦔", "description": "hedgehog" },
+  "νυχτερίδα": { "replacement": "🦇", "description": "bat" },
+  "αρκούδα": { "replacement": "🐻", "description": "bear" },
+  "πολική αρκούδα": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "δενδρόβιο ζώο της αυστραλίας": {
+    "replacement": "🐨",
+    "description": "koala"
+  },
+  "πρόσωπο panda": { "replacement": "🐼", "description": "panda" },
+  "νωθρότητα": { "replacement": "🦥", "description": "sloth" },
+  "βίδρα": { "replacement": "🦦", "description": "otter" },
+  "παλιάνθρωπος": { "replacement": "🦨", "description": "skunk" },
+  "καγκουρώ": { "replacement": "🦘", "description": "kangaroo" },
+  "ασβός": { "replacement": "🦡", "description": "badger" },
+  "πόδια": { "replacement": "🐾", "description": "paw prints" },
+  "Τουρκία": { "replacement": "🦃", "description": "turkey" },
+  "κοτόπουλο": { "replacement": "🐔", "description": "chicken" },
+  "πετεινός": { "replacement": "🐓", "description": "rooster" },
+  "επώαση γκόμενα": { "replacement": "🐣", "description": "hatching chick" },
+  "μωρό γκόμενα": { "replacement": "🐤", "description": "baby chick" },
+  "γκόμενα": { "replacement": "🐥", "description": "front-facing baby chick" },
+  "πουλί": { "replacement": "🐦", "description": "bird" },
+  "πιγκουίνος": { "replacement": "🐧", "description": "penguin" },
+  "περιστέρι": { "replacement": "🕊️", "description": "dove" },
+  "αετός": { "replacement": "🦅", "description": "eagle" },
+  "πάπια": { "replacement": "🦆", "description": "duck" },
+  "κύκνος": { "replacement": "🦢", "description": "swan" },
+  "κουκουβάγια": { "replacement": "🦉", "description": "owl" },
+  "μυθολογικό πτηνό": { "replacement": "🦤", "description": "dodo" },
+  "φτερό": { "replacement": "🪶", "description": "feather" },
+  "φοινικόπτερος": { "replacement": "🦩", "description": "flamingo" },
+  "παγώνι": { "replacement": "🦚", "description": "peacock" },
+  "παπαγάλος": { "replacement": "🦜", "description": "parrot" },
+  "βάτραχος": { "replacement": "🐸", "description": "frog" },
+  "κροκόδειλος": { "replacement": "🐊", "description": "crocodile" },
+  "χελώνα": { "replacement": "🐢", "description": "turtle" },
+  "σαύρα": { "replacement": "🦎", "description": "lizard" },
+  "φίδι": { "replacement": "🐍", "description": "snake" },
+  "πρόσωπο δράκου": { "replacement": "🐲", "description": "dragon face" },
+  "δράκων": { "replacement": "🐉", "description": "dragon" },
+  "σαουρόποδα": { "replacement": "🦕", "description": "sauropod" },
+  "t-rex": { "replacement": "🦖", "description": "T-Rex" },
+  "φάλαινα": { "replacement": "🐳", "description": "spouting whale" },
+  "φάλαινα2": { "replacement": "🐋", "description": "whale" },
+  "δελφίνι": { "replacement": "🐬", "description": "dolphin" },
+  "σφραγίδα": { "replacement": "🦭", "description": "seal" },
+  "ψάρι": { "replacement": "🐟", "description": "fish" },
+  "τροπικό ψάρι": { "replacement": "🐠", "description": "tropical fish" },
+  "καουτσούκ": { "replacement": "🐡", "description": "blowfish" },
+  "καρχαρίας": { "replacement": "🦈", "description": "shark" },
+  "χταπόδι": { "replacement": "🐙", "description": "octopus" },
+  "κέλυφος": { "replacement": "🐚", "description": "spiral shell" },
+  "σαλιγκάρι": { "replacement": "🐌", "description": "snail" },
+  "πεταλούδα": { "replacement": "🦋", "description": "butterfly" },
+  "έντομο": { "replacement": "🐛", "description": "bug" },
+  "μυρμήγκι": { "replacement": "🐜", "description": "ant" },
+  "μέλισσα": { "replacement": "🐝", "description": "honeybee" },
+  "σκαθάρι": { "replacement": "🪲", "description": "beetle" },
+  "κυρία σκαθάρι": { "replacement": "🐞", "description": "lady beetle" },
+  "κρίκετ": { "replacement": "🦗", "description": "cricket" },
+  "κατσαρίδα": { "replacement": "🪳", "description": "cockroach" },
+  "αράχνη": { "replacement": "🕷️", "description": "spider" },
+  "ιστός αράχνης": { "replacement": "🕸️", "description": "spider web" },
+  "σκορπιός": { "replacement": "♏", "description": "Scorpio" },
+  "κουνούπι": { "replacement": "🦟", "description": "mosquito" },
+  "πετώ": { "replacement": "🪰", "description": "fly" },
+  "σκουλήκι": { "replacement": "🪱", "description": "worm" },
+  "μικρόβιο": { "replacement": "🦠", "description": "microbe" },
+  "μπουκέτο": { "replacement": "💐", "description": "bouquet" },
+  "άνθος κερασιάς": { "replacement": "🌸", "description": "cherry blossom" },
+  "λευκό λουλούδι": { "replacement": "💮", "description": "white flower" },
+  "ροζέτα": { "replacement": "🏵️", "description": "rosette" },
+  "τριαντάφυλλο": { "replacement": "🌹", "description": "rose" },
+  "μαραμένο λουλούδι": { "replacement": "🥀", "description": "wilted flower" },
+  "υβίσκος": { "replacement": "🌺", "description": "hibiscus" },
+  "ηλιοτρόπιο": { "replacement": "🌻", "description": "sunflower" },
+  "άνθος": { "replacement": "🌼", "description": "blossom" },
+  "τουλίπα": { "replacement": "🌷", "description": "tulip" },
+  "σπορόφυτο": { "replacement": "🌱", "description": "seedling" },
+  "φυτό σε γλάστρα": { "replacement": "🪴", "description": "potted plant" },
+  "αειθαλές δέντρο": { "replacement": "🌲", "description": "evergreen tree" },
+  "φυλλοβόλο δέντρο": { "replacement": "🌳", "description": "deciduous tree" },
+  "φοίνικας": { "replacement": "🌴", "description": "palm tree" },
+  "κάκτος": { "replacement": "🌵", "description": "cactus" },
+  "αυτί ρυζιού": { "replacement": "🌾", "description": "sheaf of rice" },
+  "βότανο": { "replacement": "🌿", "description": "herb" },
+  "τριφύλλι": { "replacement": "☘️", "description": "shamrock" },
+  "τετράφυλλο τριφύλλι": {
+    "replacement": "🍀",
+    "description": "four leaf clover"
+  },
+  "φύλλο σφενδάμου": { "replacement": "🍁", "description": "maple leaf" },
+  "πεσμένο φύλλο": { "replacement": "🍂", "description": "fallen leaf" },
+  "φύλλα": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "σταφύλια": { "replacement": "🍇", "description": "grapes" },
+  "πεπόνι": { "replacement": "🍈", "description": "melon" },
+  "καρπούζι": { "replacement": "🍉", "description": "watermelon" },
+  "μανταρίνι": { "replacement": "🍊", "description": "tangerine" },
+  "λεμόνι": { "replacement": "🍋", "description": "lemon" },
+  "μπανάνα": { "replacement": "🍌", "description": "banana" },
+  "ανανάς": { "replacement": "🍍", "description": "pineapple" },
+  "μάνγκο": { "replacement": "🥭", "description": "mango" },
+  "μήλο": { "replacement": "🍎", "description": "red apple" },
+  "πράσινο μήλο": { "replacement": "🍏", "description": "green apple" },
+  "αχλάδι": { "replacement": "🍐", "description": "pear" },
+  "ροδάκινο": { "replacement": "🍑", "description": "peach" },
+  "κεράσια": { "replacement": "🍒", "description": "cherries" },
+  "φράουλα": { "replacement": "🍓", "description": "strawberry" },
+  "βατόμουρα": { "replacement": "🫐", "description": "blueberries" },
+  "ακτινίδια": { "replacement": "🥝", "description": "kiwi fruit" },
+  "ντομάτα": { "replacement": "🍅", "description": "tomato" },
+  "ελιά": { "replacement": "🫒", "description": "olive" },
+  "καρύδα": { "replacement": "🥥", "description": "coconut" },
+  "αβοκάντο": { "replacement": "🥑", "description": "avocado" },
+  "μελιτζάνα": { "replacement": "🍆", "description": "eggplant" },
+  "πατάτα": { "replacement": "🥔", "description": "potato" },
+  "καρότο": { "replacement": "🥕", "description": "carrot" },
+  "καλαμπόκι": { "replacement": "🌽", "description": "ear of corn" },
+  "καυτή πιπεριά": { "replacement": "🌶️", "description": "hot pepper" },
+  "πιπεριά": { "replacement": "🫑", "description": "bell pepper" },
+  "αγγούρι": { "replacement": "🥒", "description": "cucumber" },
+  "φυλλώδες πράσινο": { "replacement": "🥬", "description": "leafy green" },
+  "μπρόκολο": { "replacement": "🥦", "description": "broccoli" },
+  "σκόρδο": { "replacement": "🧄", "description": "garlic" },
+  "κρεμμύδι": { "replacement": "🧅", "description": "onion" },
+  "μανιτάρι": { "replacement": "🍄", "description": "mushroom" },
+  "φιστίκια": { "replacement": "🥜", "description": "peanuts" },
+  "κάστανο": { "replacement": "🌰", "description": "chestnut" },
+  "ψωμί": { "replacement": "🍞", "description": "bread" },
+  "κρουασάν": { "replacement": "🥐", "description": "croissant" },
+  "μπαγκέτα ψωμί": { "replacement": "🥖", "description": "baguette bread" },
+  "επίπεδο ψωμί": { "replacement": "🫓", "description": "flatbread" },
+  "κουλουράκι": { "replacement": "🍪", "description": "cookie" },
+  "κουλούρι": { "replacement": "🥯", "description": "bagel" },
+  "τηγανίτες": { "replacement": "🥞", "description": "pancakes" },
+  "φλυαρώ": { "replacement": "🧇", "description": "waffle" },
+  "τυρί": { "replacement": "🧀", "description": "cheese wedge" },
+  "κρέας στα οστά": { "replacement": "🍖", "description": "meat on bone" },
+  "πόδι πουλερικών": { "replacement": "🍗", "description": "poultry leg" },
+  "κομμένο κρέας": { "replacement": "🥩", "description": "cut of meat" },
+  "μπέικον": { "replacement": "🥓", "description": "bacon" },
+  "χάμπουργκερ": { "replacement": "🍔", "description": "hamburger" },
+  "πατατες ΤΗΓΑΝΙΤΕΣ": { "replacement": "🍟", "description": "french fries" },
+  "πίτσα": { "replacement": "🍕", "description": "pizza" },
+  "λουκάνικο": { "replacement": "🌭", "description": "hot dog" },
+  "σάντουιτς": { "replacement": "🥪", "description": "sandwich" },
+  "taco": { "replacement": "🌮", "description": "taco" },
+  "burrito": { "replacement": "🌯", "description": "burrito" },
+  "tamale": { "replacement": "🫔", "description": "tamale" },
+  "γεμιστό ψωμί": { "replacement": "🥙", "description": "stuffed flatbread" },
+  "φαλάφελ": { "replacement": "🧆", "description": "falafel" },
+  "αυγό": { "replacement": "🥚", "description": "egg" },
+  "τηγανιτό αυγό": { "replacement": "🍳", "description": "cooking" },
+  "ρηχό ταψί φαγητού": {
+    "replacement": "🥘",
+    "description": "shallow pan of food"
+  },
+  "στιφάδο": { "replacement": "🍲", "description": "pot of food" },
+  "είδος τυρόπητας": { "replacement": "🫕", "description": "fondue" },
+  "μπολ με κουτάλι": { "replacement": "🥣", "description": "bowl with spoon" },
+  "πράσινη σαλάτα": { "replacement": "🥗", "description": "green salad" },
+  "ποπ κορν": { "replacement": "🍿", "description": "popcorn" },
+  "βούτυρο": { "replacement": "🧈", "description": "butter" },
+  "άλας": { "replacement": "🧂", "description": "salt" },
+  "κονσερβοποιημένα τρόφιμα": {
+    "replacement": "🥫",
+    "description": "canned food"
+  },
+  "μπάντο": { "replacement": "🍱", "description": "bento box" },
+  "κράκερ ρυζιού": { "replacement": "🍘", "description": "rice cracker" },
+  "μπαλα ΡΥΖΙΟΥ": { "replacement": "🍙", "description": "rice ball" },
+  "ρύζι": { "replacement": "🍚", "description": "cooked rice" },
+  "κάρι": { "replacement": "🍛", "description": "curry rice" },
+  "Ράμεν": { "replacement": "🍜", "description": "steaming bowl" },
+  "μακαρόνια": { "replacement": "🍝", "description": "spaghetti" },
+  "γλυκοπατάτα": { "replacement": "🍠", "description": "roasted sweet potato" },
+  "Οντέν": { "replacement": "🍢", "description": "oden" },
+  "σούσι": { "replacement": "🍣", "description": "sushi" },
+  "τηγανητές γαρίδες": { "replacement": "🍤", "description": "fried shrimp" },
+  "ψαροκροκέτα": { "replacement": "🍥", "description": "fish cake with swirl" },
+  "τούρτα φεγγάρι": { "replacement": "🥮", "description": "moon cake" },
+  "ντάγκο": { "replacement": "🍡", "description": "dango" },
+  "είδος ζυμαρικών": { "replacement": "🥟", "description": "dumpling" },
+  "μπισκότο τύχης": { "replacement": "🥠", "description": "fortune cookie" },
+  "κουτί αποστολής": { "replacement": "🥡", "description": "takeout box" },
+  "Κάβουρας": { "replacement": "🦀", "description": "crab" },
+  "αστακός": { "replacement": "🦞", "description": "lobster" },
+  "γαρίδα": { "replacement": "🦐", "description": "shrimp" },
+  "καλαμάρι": { "replacement": "🦑", "description": "squid" },
+  "στρείδι": { "replacement": "🦪", "description": "oyster" },
+  "παγωτό": { "replacement": "🍨", "description": "ice cream" },
+  "ξυρισμένος πάγος": { "replacement": "🍧", "description": "shaved ice" },
+  "ντόνατ": { "replacement": "🍩", "description": "doughnut" },
+  "γενέθλια": { "replacement": "🎂", "description": "birthday cake" },
+  "κέικ": { "replacement": "🍰", "description": "shortcake" },
+  "κεκάκι": { "replacement": "🧁", "description": "cupcake" },
+  "πίτα": { "replacement": "🥧", "description": "pie" },
+  "μπάρα σοκολάτας": { "replacement": "🍫", "description": "chocolate bar" },
+  "καραμέλα": { "replacement": "🍬", "description": "candy" },
+  "γλειφιτζούρι": { "replacement": "🍭", "description": "lollipop" },
+  "κρέμα": { "replacement": "🍮", "description": "custard" },
+  "δοχείο μελιού": { "replacement": "🍯", "description": "honey pot" },
+  "μπιμπερό": { "replacement": "🍼", "description": "baby bottle" },
+  "ποτήρι γάλα": { "replacement": "🥛", "description": "glass of milk" },
+  "καφές": { "replacement": "☕", "description": "hot beverage" },
+  "τσαγιέρα": { "replacement": "🫖", "description": "teapot" },
+  "τσάι": { "replacement": "🍵", "description": "teacup without handle" },
+  "χάρη": { "replacement": "🍶", "description": "sake" },
+  "σαμπάνια": {
+    "replacement": "🍾",
+    "description": "bottle with popping cork"
+  },
+  "κρασοπότηρο": { "replacement": "🍷", "description": "wine glass" },
+  "κοκτέιλ": { "replacement": "🍸", "description": "cocktail glass" },
+  "τροπικό ποτό": { "replacement": "🍹", "description": "tropical drink" },
+  "μπύρα": { "replacement": "🍺", "description": "beer mug" },
+  "μπύρες": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "τσούγκριζαν ποτήρια": {
+    "replacement": "🥂",
+    "description": "clinking glasses"
+  },
+  "ποτήρι ποτήρι": { "replacement": "🥃", "description": "tumbler glass" },
+  "φλιτζάνι με άχυρο": { "replacement": "🥤", "description": "cup with straw" },
+  "τσαι με ΦΟΥΣΚΕΣ": { "replacement": "🧋", "description": "bubble tea" },
+  "κουτί ποτών": { "replacement": "🧃", "description": "beverage box" },
+  "σύντροφος": { "replacement": "🧉", "description": "mate" },
+  "παγάκι": { "replacement": "🧊", "description": "ice" },
+  "ξυλάκια": { "replacement": "🥢", "description": "chopsticks" },
+  "πλάκα με μαχαιροπίρουνα": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "πιρούνι και μαχαίρι": {
+    "replacement": "🍴",
+    "description": "fork and knife"
+  },
+  "κουτάλι": { "replacement": "🥄", "description": "spoon" },
+  "Χοχό": { "replacement": "🔪", "description": "kitchen knife" },
+  "αμφορέας": { "replacement": "🏺", "description": "amphora" },
+  "γη Αφρική": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "γη americas": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "γη Ασία": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "κόσμο με μεσημβρινούς": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "ΠΑΓΚΟΣΜΙΟΣ ΧΑΡΤΗΣ": { "replacement": "🗺️", "description": "world map" },
+  "Ιαπωνία": { "replacement": "🗾", "description": "map of Japan" },
+  "πυξίδα": { "replacement": "🧭", "description": "compass" },
+  "χιόνι στο βουνό": {
+    "replacement": "🏔️",
+    "description": "snow-capped mountain"
+  },
+  "βουνό": { "replacement": "⛰️", "description": "mountain" },
+  "ηφαίστειο": { "replacement": "🌋", "description": "volcano" },
+  "βουνό Φούτζι": { "replacement": "🗻", "description": "mount fuji" },
+  "κατασκήνωση": { "replacement": "🏕️", "description": "camping" },
+  "ομπρέλα θαλάσσης": {
+    "replacement": "🏖️",
+    "description": "beach with umbrella"
+  },
+  "έρημος": { "replacement": "🏜️", "description": "desert" },
+  "έρημο νησί": { "replacement": "🏝️", "description": "desert island" },
+  "ΕΘΝΙΚΟ ΠΑΡΚΟ": { "replacement": "🏞️", "description": "national park" },
+  "στάδιο": { "replacement": "🏟️", "description": "stadium" },
+  "κλασικό κτίριο": {
+    "replacement": "🏛️",
+    "description": "classical building"
+  },
+  "κατασκευή κτηρίου": {
+    "replacement": "🏗️",
+    "description": "building construction"
+  },
+  "τούβλα": { "replacement": "🧱", "description": "brick" },
+  "βράχος": { "replacement": "🪨", "description": "rock" },
+  "ξύλο": { "replacement": "🪵", "description": "wood" },
+  "καλύβα": { "replacement": "🛖", "description": "hut" },
+  "σπίτια": { "replacement": "🏘️", "description": "houses" },
+  "εγκαταλελειμμένο σπίτι": {
+    "replacement": "🏚️",
+    "description": "derelict house"
+  },
+  "σπίτι": { "replacement": "🏠", "description": "house" },
+  "σπίτι με κήπο": { "replacement": "🏡", "description": "house with garden" },
+  "γραφείο": { "replacement": "🏢", "description": "office building" },
+  "ταχυδρομείο": { "replacement": "🏣", "description": "Japanese post office" },
+  "ευρωπαϊκό ταχυδρομείο": {
+    "replacement": "🏤",
+    "description": "post office"
+  },
+  "νοσοκομείο": { "replacement": "🏥", "description": "hospital" },
+  "τράπεζα": { "replacement": "🏦", "description": "bank" },
+  "ξενοδοχειο": { "replacement": "🏨", "description": "hotel" },
+  "ξενοδοχείο αγάπης": { "replacement": "🏩", "description": "love hotel" },
+  "παντοπωλείο": { "replacement": "🏪", "description": "convenience store" },
+  "σχολείο": { "replacement": "🏫", "description": "school" },
+  "πολυκατάστημα": { "replacement": "🏬", "description": "department store" },
+  "εργοστάσιο": { "replacement": "🏭", "description": "factory" },
+  "ιαπωνικό κάστρο": { "replacement": "🏯", "description": "Japanese castle" },
+  "Ευρωπαϊκό κάστρο": { "replacement": "🏰", "description": "castle" },
+  "γάμος": { "replacement": "💒", "description": "wedding" },
+  "πύργος του Τόκιο": { "replacement": "🗼", "description": "Tokyo tower" },
+  "άγαλμα της ελευθερίας": {
+    "replacement": "🗽",
+    "description": "Statue of Liberty"
+  },
+  "Εκκλησία": { "replacement": "⛪", "description": "church" },
+  "τζαμί": { "replacement": "🕌", "description": "mosque" },
+  "ινδουιστικό ναό": { "replacement": "🛕", "description": "hindu temple" },
+  "συναγωγή": { "replacement": "🕍", "description": "synagogue" },
+  "ιερό του Σίντο": { "replacement": "⛩️", "description": "shinto shrine" },
+  "Κάαμπα": { "replacement": "🕋", "description": "kaaba" },
+  "κρήνη": { "replacement": "⛲", "description": "fountain" },
+  "σκηνή": { "replacement": "⛺", "description": "tent" },
+  "ομιχλώδης": { "replacement": "🌁", "description": "foggy" },
+  "νύχτα με αστέρια": {
+    "replacement": "🌃",
+    "description": "night with stars"
+  },
+  "αστικό τοπίο": { "replacement": "🏙️", "description": "cityscape" },
+  "Ανατολή του ηλίου πάνω από τα βουνά": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "Ανατολή ηλίου": { "replacement": "🌅", "description": "sunrise" },
+  "ηλιοβασίλεμα της πόλης": {
+    "replacement": "🌆",
+    "description": "cityscape at dusk"
+  },
+  "ανατολή της πόλης": { "replacement": "🌇", "description": "sunset" },
+  "γέφυρα τη νύχτα": { "replacement": "🌉", "description": "bridge at night" },
+  "θερμοπηγές": { "replacement": "♨️", "description": "hot springs" },
+  "καρουσέλ άλογο": { "replacement": "🎠", "description": "carousel horse" },
+  "ΡΟΔΑ του λουνα παρκ": { "replacement": "🎡", "description": "ferris wheel" },
+  "ρόλερ κόστερ": { "replacement": "🎢", "description": "roller coaster" },
+  "κουρέας": { "replacement": "💈", "description": "barber pole" },
+  "σκηνή τσίρκου": { "replacement": "🎪", "description": "circus tent" },
+  "ατμομηχανή": { "replacement": "🚂", "description": "locomotive" },
+  "σιδηροδρομικό αυτοκίνητο": {
+    "replacement": "🚃",
+    "description": "railway car"
+  },
+  "πλευρά bullettrain": {
+    "replacement": "🚄",
+    "description": "high-speed train"
+  },
+  "bullettrain μπροστά": { "replacement": "🚅", "description": "bullet train" },
+  "τρένο2": { "replacement": "🚆", "description": "train" },
+  "μετρό": { "replacement": "🚇", "description": "metro" },
+  "ελαφριά ράγα": { "replacement": "🚈", "description": "light rail" },
+  "σταθμός": { "replacement": "🚉", "description": "station" },
+  "τραμ": { "replacement": "🚊", "description": "tram" },
+  "μονόγραμμος": { "replacement": "🚝", "description": "monorail" },
+  "ορεινός σιδηρόδρομος": {
+    "replacement": "🚞",
+    "description": "mountain railway"
+  },
+  "τρένο": { "replacement": "🚋", "description": "tram car" },
+  "λεωφορείο": { "replacement": "🚌", "description": "bus" },
+  "επερχόμενο λεωφορείο": {
+    "replacement": "🚍",
+    "description": "oncoming bus"
+  },
+  "τρόλεϊ": { "replacement": "🚎", "description": "trolleybus" },
+  "μικρό λεωφορείο": { "replacement": "🚐", "description": "minibus" },
+  "ασθενοφόρο": { "replacement": "🚑", "description": "ambulance" },
+  "πυροσβεστικό όχημα": { "replacement": "🚒", "description": "fire engine" },
+  "αυτοκίνητο αστυνομίας": { "replacement": "🚓", "description": "police car" },
+  "επερχόμενο αυτοκίνητο της αστυνομίας": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "ταξί": { "replacement": "🚕", "description": "taxi" },
+  "επερχόμενο ταξί": { "replacement": "🚖", "description": "oncoming taxi" },
+  "αυτοκίνητο": { "replacement": "🚗", "description": "automobile" },
+  "επερχόμενο αυτοκίνητο": {
+    "replacement": "🚘",
+    "description": "oncoming automobile"
+  },
+  "μπλε αυτοκίνητο": {
+    "replacement": "🚙",
+    "description": "sport utility vehicle"
+  },
+  "φορτηγό": { "replacement": "🚚", "description": "delivery truck" },
+  "αρθρωτό φορτηγό": {
+    "replacement": "🚛",
+    "description": "articulated lorry"
+  },
+  "τρακτέρ": { "replacement": "🚜", "description": "tractor" },
+  "αγωνιστικό αυτοκίνητο": { "replacement": "🏎️", "description": "racing car" },
+  "μοτοσυκλέτα": { "replacement": "🏍️", "description": "motorcycle" },
+  "μηχανικό σκούτερ": { "replacement": "🛵", "description": "motor scooter" },
+  "χειροκίνητη αναπηρική καρέκλα": {
+    "replacement": "🦽",
+    "description": "manual wheelchair"
+  },
+  "μηχανοκίνητο αναπηρικό καροτσάκι": {
+    "replacement": "🦼",
+    "description": "motorized wheelchair"
+  },
+  "αυτόματη χειράμαξα": { "replacement": "🛺", "description": "auto rickshaw" },
+  "ποδήλατο": { "replacement": "🚲", "description": "bicycle" },
+  "κλωτσιά σκούτερ": { "replacement": "🛴", "description": "kick scooter" },
+  "πατίνι": { "replacement": "🛹", "description": "skateboard" },
+  "πατίνια": { "replacement": "🛼", "description": "roller skate" },
+  "στάση λεωφορείου": { "replacement": "🚏", "description": "bus stop" },
+  "αυτοκινητόδρομος": { "replacement": "🛣️", "description": "motorway" },
+  "σιδηροδρομική γραμμή": {
+    "replacement": "🛤️",
+    "description": "railway track"
+  },
+  "βαρέλι λαδιού": { "replacement": "🛢️", "description": "oil drum" },
+  "αντλία καυσίμου": { "replacement": "⛽", "description": "fuel pump" },
+  "περιστρεφόμενο φως": {
+    "replacement": "🚨",
+    "description": "police car light"
+  },
+  "φανάρι": { "replacement": "🚥", "description": "horizontal traffic light" },
+  "κάθετο φανάρι": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "σήμα στοπ": { "replacement": "🛑", "description": "stop sign" },
+  "κατασκευή": { "replacement": "🚧", "description": "construction" },
+  "άγκυρα": { "replacement": "⚓", "description": "anchor" },
+  "σκάφος": { "replacement": "⛵", "description": "sailboat" },
+  "κανό": { "replacement": "🛶", "description": "canoe" },
+  "ταχεία βενζινάκατος": { "replacement": "🚤", "description": "speedboat" },
+  "επιβατηγό πλοίο": { "replacement": "🛳️", "description": "passenger ship" },
+  "πορθμείο": { "replacement": "⛴️", "description": "ferry" },
+  "μηχανοκίνητο σκάφος": { "replacement": "🛥️", "description": "motor boat" },
+  "πλοίο": { "replacement": "🚢", "description": "ship" },
+  "αεροπλάνο": { "replacement": "✈️", "description": "airplane" },
+  "μικρό αεροπλάνο": { "replacement": "🛩️", "description": "small airplane" },
+  "αναχώρηση πτήσης": {
+    "replacement": "🛫",
+    "description": "airplane departure"
+  },
+  "άφιξη πτήσης": { "replacement": "🛬", "description": "airplane arrival" },
+  "αλεξίπτωτο": { "replacement": "🪂", "description": "parachute" },
+  "έδρα": { "replacement": "💺", "description": "seat" },
+  "ελικόπτερο": { "replacement": "🚁", "description": "helicopter" },
+  "σιδηροδρομική ανάρτηση": {
+    "replacement": "🚟",
+    "description": "suspension railway"
+  },
+  "συρματόσχοινα στο βουνό": {
+    "replacement": "🚠",
+    "description": "mountain cableway"
+  },
+  "εναέρια τραμ": { "replacement": "🚡", "description": "aerial tramway" },
+  "τεχνητός δορυφόρος": { "replacement": "🛰️", "description": "satellite" },
+  "ρουκέτα": { "replacement": "🚀", "description": "rocket" },
+  "ιπτάμενος δίσκος": { "replacement": "🥏", "description": "flying disc" },
+  "κουδούνι κουδουνιών": { "replacement": "🛎️", "description": "bellhop bell" },
+  "αποσκευές": { "replacement": "🧳", "description": "luggage" },
+  "κλεψύδρα": { "replacement": "⌛", "description": "hourglass done" },
+  "κλεψύδρα που ρέει άμμος": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "παρακολουθώ": { "replacement": "⌚", "description": "watch" },
+  "ξυπνητηρι": { "replacement": "⏰", "description": "alarm clock" },
+  "χρονόμετρο": { "replacement": "⏲️", "description": "timer clock" },
+  "ρολόι": { "replacement": "🕰️", "description": "mantelpiece clock" },
+  "ρολόι12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "ρολόι1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "ρολόι1": { "replacement": "🕐", "description": "one o’clock" },
+  "ρολόι130": { "replacement": "🕜", "description": "one-thirty" },
+  "ρολόι2": { "replacement": "🕑", "description": "two o’clock" },
+  "ρολόι230": { "replacement": "🕝", "description": "two-thirty" },
+  "ρολόι3": { "replacement": "🕒", "description": "three o’clock" },
+  "ρολόι330": { "replacement": "🕞", "description": "three-thirty" },
+  "ρολόι4": { "replacement": "🕓", "description": "four o’clock" },
+  "ρολόι430": { "replacement": "🕟", "description": "four-thirty" },
+  "ρολόι5": { "replacement": "🕔", "description": "five o’clock" },
+  "ρολόι530": { "replacement": "🕠", "description": "five-thirty" },
+  "ρολόι6": { "replacement": "🕕", "description": "six o’clock" },
+  "ρολόι630": { "replacement": "🕡", "description": "six-thirty" },
+  "ρολόι7": { "replacement": "🕖", "description": "seven o’clock" },
+  "ρολόι730": { "replacement": "🕢", "description": "seven-thirty" },
+  "ρολόι8": { "replacement": "🕗", "description": "eight o’clock" },
+  "ρολόι830": { "replacement": "🕣", "description": "eight-thirty" },
+  "ρολόι9": { "replacement": "🕘", "description": "nine o’clock" },
+  "ρολόι930": { "replacement": "🕤", "description": "nine-thirty" },
+  "ρολόι10": { "replacement": "🕙", "description": "ten o’clock" },
+  "ρολόι1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "ρολόι11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "ρολόι1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "νέα Σελήνη": { "replacement": "🌑", "description": "new moon" },
+  "κερί ημισελήνου": {
+    "replacement": "🌒",
+    "description": "waxing crescent moon"
+  },
+  "φεγγάρι πρώτου τετάρτου": {
+    "replacement": "🌓",
+    "description": "first quarter moon"
+  },
+  "φεγγάρι": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "Πανσέληνος": { "replacement": "🌕", "description": "full moon" },
+  "εξασθενημένο φεγγάρι": {
+    "replacement": "🌖",
+    "description": "waning gibbous moon"
+  },
+  "φεγγάρι τελευταίου τετάρτου": {
+    "replacement": "🌗",
+    "description": "last quarter moon"
+  },
+  "ημισελήνου που εξασθενεί": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "Μισοφέγγαρο": { "replacement": "🌙", "description": "crescent moon" },
+  "νέο φεγγάρι με πρόσωπο": {
+    "replacement": "🌚",
+    "description": "new moon face"
+  },
+  "φεγγάρι πρώτου τετάρτου με πρόσωπο": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "φεγγάρι τελευταίου τετάρτου με πρόσωπο": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "θερμόμετρο": { "replacement": "🌡️", "description": "thermometer" },
+  "ηλιόλουστος": { "replacement": "☀️", "description": "sun" },
+  "πανσέληνος με πρόσωπο": {
+    "replacement": "🌝",
+    "description": "full moon face"
+  },
+  "ήλιος με πρόσωπο": { "replacement": "🌞", "description": "sun with face" },
+  "δαχτυλίδι πλανήτη": { "replacement": "🪐", "description": "ringed planet" },
+  "αστέρι": { "replacement": "⭐", "description": "star" },
+  "αστέρι2": { "replacement": "🌟", "description": "glowing star" },
+  "αστέρια": { "replacement": "🌠", "description": "shooting star" },
+  "Γαλαξίας": { "replacement": "🌌", "description": "milky way" },
+  "σύννεφο": { "replacement": "☁️", "description": "cloud" },
+  "μερική ηλιοφάνεια": {
+    "replacement": "⛅",
+    "description": "sun behind cloud"
+  },
+  "σύννεφο με αστραπή και βροχή": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "ήλιο πίσω από το μικρό σύννεφο": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "ήλιος πίσω από το μεγάλο σύννεφο": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "ήλιος πίσω από το σύννεφο της βροχής": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "σύννεφο με βροχή": { "replacement": "🌧️", "description": "cloud with rain" },
+  "σύννεφο με χιόνι": { "replacement": "🌨️", "description": "cloud with snow" },
+  "σύννεφο με αστραπές": {
+    "replacement": "🌩️",
+    "description": "cloud with lightning"
+  },
+  "ανεμοστρόβιλος": { "replacement": "🌪️", "description": "tornado" },
+  "ομίχλη": { "replacement": "🌫️", "description": "fog" },
+  "πρόσωπο ανέμου": { "replacement": "🌬️", "description": "wind face" },
+  "κυκλώνας": { "replacement": "🌀", "description": "cyclone" },
+  "ΟΥΡΑΝΙΟ ΤΟΞΟ": { "replacement": "🌈", "description": "rainbow" },
+  "κλειστή ομπρέλα": { "replacement": "🌂", "description": "closed umbrella" },
+  "ανοιχτή ομπρέλα": { "replacement": "☂️", "description": "umbrella" },
+  "ομπρέλα": { "replacement": "☔", "description": "umbrella with rain drops" },
+  "ομπρέλα στο έδαφος": {
+    "replacement": "⛱️",
+    "description": "umbrella on ground"
+  },
+  "ζαπ": { "replacement": "⚡", "description": "high voltage" },
+  "νιφάδα χιονιού": { "replacement": "❄️", "description": "snowflake" },
+  "χιονάνθρωπος με χιόνι": { "replacement": "☃️", "description": "snowman" },
+  "χιονάνθρωπος": {
+    "replacement": "⛄",
+    "description": "snowman without snow"
+  },
+  "κομήτης": { "replacement": "☄️", "description": "comet" },
+  "Φωτιά": { "replacement": "🔥", "description": "fire" },
+  "σταγονίδιο": { "replacement": "💧", "description": "droplet" },
+  "ωκεανός": { "replacement": "🌊", "description": "water wave" },
+  "Τζακ ο 'λάντερν": { "replacement": "🎃", "description": "jack-o-lantern" },
+  "χριστουγεννιάτικο δέντρο": {
+    "replacement": "🎄",
+    "description": "Christmas tree"
+  },
+  "πυροτεχνήματα": { "replacement": "🎆", "description": "fireworks" },
+  "αδαμάντας": { "replacement": "🎇", "description": "sparkler" },
+  "κροτίδα": { "replacement": "🧨", "description": "firecracker" },
+  "λάμπει": { "replacement": "✨", "description": "sparkles" },
+  "μπαλόνι": { "replacement": "🎈", "description": "balloon" },
+  "Τάδα": { "replacement": "🎉", "description": "party popper" },
+  "μπάλα κομφετί": { "replacement": "🎊", "description": "confetti ball" },
+  "δέντρο tanabata": { "replacement": "🎋", "description": "tanabata tree" },
+  "μπαμπού": { "replacement": "🎍", "description": "pine decoration" },
+  "κούκλες": { "replacement": "🎎", "description": "Japanese dolls" },
+  "σημαίες": { "replacement": "🎏", "description": "carp streamer" },
+  "άνεμος κτύπημα": { "replacement": "🎐", "description": "wind chime" },
+  "σκηνή ρυζιού": {
+    "replacement": "🎑",
+    "description": "moon viewing ceremony"
+  },
+  "κόκκινος φάκελος": { "replacement": "🧧", "description": "red envelope" },
+  "ταινία": { "replacement": "🎀", "description": "ribbon" },
+  "δώρο": { "replacement": "🎁", "description": "wrapped gift" },
+  "κορδέλα υπενθύμισης": {
+    "replacement": "🎗️",
+    "description": "reminder ribbon"
+  },
+  "εισιτήρια": { "replacement": "🎟️", "description": "admission tickets" },
+  "εισιτήριο": { "replacement": "🎫", "description": "ticket" },
+  "μετάλλιο στρατιωτικό": {
+    "replacement": "🎖️",
+    "description": "military medal"
+  },
+  "τρόπαιο": { "replacement": "🏆", "description": "trophy" },
+  "αθλητικά μετάλλια": { "replacement": "🏅", "description": "sports medal" },
+  "1ο μετάλλιο": { "replacement": "🥇", "description": "1st place medal" },
+  "2ο μετάλλιο": { "replacement": "🥈", "description": "2nd place medal" },
+  "3ο μετάλλιο": { "replacement": "🥉", "description": "3rd place medal" },
+  "ποδόσφαιρο": { "replacement": "🏈", "description": "american football" },
+  "μπέιζμπολ": { "replacement": "⚾", "description": "baseball" },
+  "σόφτμπολ": { "replacement": "🥎", "description": "softball" },
+  "μπάσκετ": { "replacement": "🏀", "description": "basketball" },
+  "βόλεϊ": { "replacement": "🏐", "description": "volleyball" },
+  "ποδόσφαιρο ράγκμπι": {
+    "replacement": "🏉",
+    "description": "rugby football"
+  },
+  "τένις": { "replacement": "🎾", "description": "tennis" },
+  "μπόουλινγκ": { "replacement": "🎳", "description": "bowling" },
+  "παιχνίδι κρίκετ": { "replacement": "🏏", "description": "cricket game" },
+  "χόκεϊ επί χόρτου": { "replacement": "🏑", "description": "field hockey" },
+  "χόκεϊ στον παγο": { "replacement": "🏒", "description": "ice hockey" },
+  "λακρός": { "replacement": "🥍", "description": "lacrosse" },
+  "πινγκ πονγκ": { "replacement": "🏓", "description": "ping pong" },
+  "παιγνίδι όμοιο με τέννις": {
+    "replacement": "🏸",
+    "description": "badminton"
+  },
+  "γάντι του μποξ": { "replacement": "🥊", "description": "boxing glove" },
+  "στολή πολεμικών τεχνών": {
+    "replacement": "🥋",
+    "description": "martial arts uniform"
+  },
+  "καθαρό γκολ": { "replacement": "🥅", "description": "goal net" },
+  "παγοπέδιλο": { "replacement": "⛸️", "description": "ice skate" },
+  "πόλο αλιείας και ψάρι": {
+    "replacement": "🎣",
+    "description": "fishing pole"
+  },
+  "μάσκα κατάδυσεων": { "replacement": "🤿", "description": "diving mask" },
+  "πουκάμισο για τρέξιμο με ζώνη": {
+    "replacement": "🎽",
+    "description": "running shirt"
+  },
+  "σκι": { "replacement": "🎿", "description": "skis" },
+  "έλκηθρο": { "replacement": "🛷", "description": "sled" },
+  "μπούκλα": { "replacement": "🥌", "description": "curling stone" },
+  "βέλος": { "replacement": "🎯", "description": "direct hit" },
+  "γεια": { "replacement": "🪀", "description": "yo-yo" },
+  "χαρταετός": { "replacement": "🪁", "description": "kite" },
+  "8 μπάλα": { "replacement": "🎱", "description": "pool 8 ball" },
+  "γυάλινη σφαίρα": { "replacement": "🔮", "description": "crystal ball" },
+  "μαγικό ραβδί": { "replacement": "🪄", "description": "magic wand" },
+  "ναζάρ φυλαχτό": { "replacement": "🧿", "description": "nazar amulet" },
+  "βιντεοπαιχνίδι": { "replacement": "🎮", "description": "video game" },
+  "χειριστήριο": { "replacement": "🕹️", "description": "joystick" },
+  "κουλοχέρης": { "replacement": "🎰", "description": "slot machine" },
+  "το παιχνίδι πεθαίνει": { "replacement": "🎲", "description": "game die" },
+  "λεπτό πριόνι": { "replacement": "🧩", "description": "puzzle piece" },
+  "αρκουδάκι": { "replacement": "🧸", "description": "teddy bear" },
+  "pinata": { "replacement": "🪅", "description": "piñata" },
+  "κούκλες που φωλιάζουν": {
+    "replacement": "🪆",
+    "description": "nesting dolls"
+  },
+  "μπαστούνια": { "replacement": "♠️", "description": "spade suit" },
+  "καρδιές": { "replacement": "♥️", "description": "heart suit" },
+  "διαμάντια": { "replacement": "♦️", "description": "diamond suit" },
+  "κλαμπ": { "replacement": "♣️", "description": "club suit" },
+  "πιόνι σκακιού": { "replacement": "♟️", "description": "chess pawn" },
+  "μαύρο τζόκερ": { "replacement": "🃏", "description": "joker" },
+  "ματζόνγκ": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "κάρτες παιχνιδιού λουλουδιών": {
+    "replacement": "🎴",
+    "description": "flower playing cards"
+  },
+  "τέχνες του θεάματος": {
+    "replacement": "🎭",
+    "description": "performing arts"
+  },
+  "κορνίζα": { "replacement": "🖼️", "description": "framed picture" },
+  "τέχνη": { "replacement": "🎨", "description": "artist palette" },
+  "Νήμα": { "replacement": "🧵", "description": "thread" },
+  "βελόνα ραψίματος": { "replacement": "🪡", "description": "sewing needle" },
+  "νήμα": { "replacement": "🧶", "description": "yarn" },
+  "κόμπος": { "replacement": "🪢", "description": "knot" },
+  "γυαλιά": { "replacement": "👓", "description": "glasses" },
+  "σκούρα γυαλιά ηλίου": { "replacement": "🕶️", "description": "sunglasses" },
+  "μεγάλα ματογυαλιά": { "replacement": "🥽", "description": "goggles" },
+  "ιατρική ρόμπα": { "replacement": "🥼", "description": "lab coat" },
+  "γιλεκο ΑΣΦΑΛΕΙΑΣ": { "replacement": "🦺", "description": "safety vest" },
+  "γραβάτα": { "replacement": "👔", "description": "necktie" },
+  "πουκάμισο": { "replacement": "👕", "description": "t-shirt" },
+  "τζιν παντελονι": { "replacement": "👖", "description": "jeans" },
+  "κασκόλ": { "replacement": "🧣", "description": "scarf" },
+  "γάντια": { "replacement": "🧤", "description": "gloves" },
+  "παλτό": { "replacement": "🧥", "description": "coat" },
+  "κάλτσες": { "replacement": "🧦", "description": "socks" },
+  "φόρεμα": { "replacement": "👗", "description": "dress" },
+  "κιμονό": { "replacement": "👘", "description": "kimono" },
+  "Σάρι": { "replacement": "🥻", "description": "sari" },
+  "ένα κομμάτι μαγιό": {
+    "replacement": "🩱",
+    "description": "one-piece swimsuit"
+  },
+  "κολυμπήστε σύντομα": { "replacement": "🩲", "description": "briefs" },
+  "σορτς": { "replacement": "🩳", "description": "shorts" },
+  "μπικίνι": { "replacement": "👙", "description": "bikini" },
+  "γυναικεία ρούχα": { "replacement": "👚", "description": "woman’s clothes" },
+  "πορτοφόλι": { "replacement": "👛", "description": "purse" },
+  "τσάντα": { "replacement": "👜", "description": "handbag" },
+  "σακούλα": { "replacement": "👝", "description": "clutch bag" },
+  "ψώνια": { "replacement": "🛍️", "description": "shopping bags" },
+  "σχολική τσάντα": { "replacement": "🎒", "description": "backpack" },
+  "σανδάλια στρινγκ": { "replacement": "🩴", "description": "thong sandal" },
+  "επανδρώνει παπούτσι": { "replacement": "👞", "description": "man’s shoe" },
+  "αθλητικό παπούτσι": { "replacement": "👟", "description": "running shoe" },
+  "μπότα πεζοπορίας": { "replacement": "🥾", "description": "hiking boot" },
+  "επίπεδο παπούτσι": { "replacement": "🥿", "description": "flat shoe" },
+  "Ψηλοτάκουνα": { "replacement": "👠", "description": "high-heeled shoe" },
+  "σανδάλι": { "replacement": "👡", "description": "woman’s sandal" },
+  "ΠΑΠΟΥΤΣΙΑ ΜΠΑΛΕΤΟΥ": { "replacement": "🩰", "description": "ballet shoes" },
+  "μπότα": { "replacement": "👢", "description": "woman’s boot" },
+  "στέμμα": { "replacement": "👑", "description": "crown" },
+  "γυναικείο καπέλο": { "replacement": "👒", "description": "woman’s hat" },
+  "tophat": { "replacement": "🎩", "description": "top hat" },
+  "σανίδα κονιάματος": { "replacement": "🎓", "description": "graduation cap" },
+  "ανώτατο όριο": { "replacement": "🧢", "description": "billed cap" },
+  "στρατιωτικό κράνος": {
+    "replacement": "🪖",
+    "description": "military helmet"
+  },
+  "κράνος εργαζόμενος διάσωσης": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "χάντρες προσευχής": { "replacement": "📿", "description": "prayer beads" },
+  "κραγιόν": { "replacement": "💄", "description": "lipstick" },
+  "δαχτυλίδι": { "replacement": "💍", "description": "ring" },
+  "κόσμημα": { "replacement": "💎", "description": "gem stone" },
+  "βουβός": { "replacement": "🔇", "description": "muted speaker" },
+  "Ομιλητής": { "replacement": "🔈", "description": "speaker low volume" },
+  "ήχος": { "replacement": "🔉", "description": "speaker medium volume" },
+  "δυνατος ΗΧΟΣ": { "replacement": "🔊", "description": "speaker high volume" },
+  "μεγάφωνο": { "replacement": "📢", "description": "loudspeaker" },
+  "μέγα": { "replacement": "📣", "description": "megaphone" },
+  "ταχυδρομικό κέρατο": { "replacement": "📯", "description": "postal horn" },
+  "κουδούνι": { "replacement": "🔔", "description": "bell" },
+  "χωρίς κουδούνι": { "replacement": "🔕", "description": "bell with slash" },
+  "μουσικό σκορ": { "replacement": "🎼", "description": "musical score" },
+  "μουσική νότα": { "replacement": "🎵", "description": "musical note" },
+  "σημειώσεις": { "replacement": "🎶", "description": "musical notes" },
+  "μικρόφωνο στούντιο": {
+    "replacement": "🎙️",
+    "description": "studio microphone"
+  },
+  "ρυθμιστικό επιπέδου": { "replacement": "🎚️", "description": "level slider" },
+  "κουμπιά ελέγχου": { "replacement": "🎛️", "description": "control knobs" },
+  "μικρόφωνο": { "replacement": "🎤", "description": "microphone" },
+  "ακουστικά": { "replacement": "🎧", "description": "headphone" },
+  "ραδιόφωνο": { "replacement": "📻", "description": "radio" },
+  "σαξόφωνο": { "replacement": "🎷", "description": "saxophone" },
+  "ακορντεόν": { "replacement": "🪗", "description": "accordion" },
+  "κιθάρα": { "replacement": "🎸", "description": "guitar" },
+  "μουσικό πληκτρολόγιο": {
+    "replacement": "🎹",
+    "description": "musical keyboard"
+  },
+  "τρομπέτα": { "replacement": "🎺", "description": "trumpet" },
+  "βιολί": { "replacement": "🎻", "description": "violin" },
+  "ταμπουράς": { "replacement": "🪕", "description": "banjo" },
+  "τύμπανο": { "replacement": "🥁", "description": "drum" },
+  "μακρύ τύμπανο": { "replacement": "🪘", "description": "long drum" },
+  "iphone": { "replacement": "📱", "description": "mobile phone" },
+  "κλήση": { "replacement": "📲", "description": "mobile phone with arrow" },
+  "τηλέφωνο": { "replacement": "☎️", "description": "telephone" },
+  "δέκτης τηλεφώνου": {
+    "replacement": "📞",
+    "description": "telephone receiver"
+  },
+  "τηλεειδοποιητής": { "replacement": "📟", "description": "pager" },
+  "φαξ": { "replacement": "📠", "description": "fax machine" },
+  "μπαταρία": { "replacement": "🔋", "description": "battery" },
+  "ηλεκτρική πρίζα": { "replacement": "🔌", "description": "electric plug" },
+  "υπολογιστή": { "replacement": "💻", "description": "laptop" },
+  "επιτραπέζιος υπολογιστής": {
+    "replacement": "🖥️",
+    "description": "desktop computer"
+  },
+  "εκτυπωτής": { "replacement": "🖨️", "description": "printer" },
+  "πληκτρολόγιο": { "replacement": "⌨️", "description": "keyboard" },
+  "ποντίκι υπολογιστή": {
+    "replacement": "🖱️",
+    "description": "computer mouse"
+  },
+  "ιχνοσφαίρα": { "replacement": "🖲️", "description": "trackball" },
+  "μίνι δίσκος": { "replacement": "💽", "description": "computer disk" },
+  "δισκέτα": { "replacement": "💾", "description": "floppy disk" },
+  "CD": { "replacement": "💿", "description": "optical disk" },
+  "DVD": { "replacement": "📀", "description": "dvd" },
+  "άβακας": { "replacement": "🧮", "description": "abacus" },
+  "κάμερα ταινιών": { "replacement": "🎥", "description": "movie camera" },
+  "ταινία ταινιών": { "replacement": "🎞️", "description": "film frames" },
+  "προβολέας ταινιών": { "replacement": "📽️", "description": "film projector" },
+  "γλωσσίδι": { "replacement": "🎬", "description": "clapper board" },
+  "τηλεόραση": { "replacement": "📺", "description": "television" },
+  "ΦΩΤΟΓΡΑΦΙΚΗ ΜΗΧΑΝΗ": { "replacement": "📷", "description": "camera" },
+  "φλας κάμερας": { "replacement": "📸", "description": "camera with flash" },
+  "βίντεο κάμερα": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "μάγ": { "replacement": "🔍", "description": "magnifying glass tilted left" },
+  "εντάξει": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "κερί": { "replacement": "🕯️", "description": "candle" },
+  "βολβός": { "replacement": "💡", "description": "light bulb" },
+  "φακός": { "replacement": "🔦", "description": "flashlight" },
+  "φανάρι izakaya": { "replacement": "🏮", "description": "red paper lantern" },
+  "λαμπτήρας diya": { "replacement": "🪔", "description": "diya lamp" },
+  "σημειωματάριο με διακοσμητικό κάλυμμα": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "κλειστό βιβλίο": { "replacement": "📕", "description": "closed book" },
+  "Βιβλίο": { "replacement": "📖", "description": "open book" },
+  "πράσινο βιβλίο": { "replacement": "📗", "description": "green book" },
+  "μπλε βιβλιο": { "replacement": "📘", "description": "blue book" },
+  "πορτοκαλί βιβλίο": { "replacement": "📙", "description": "orange book" },
+  "βιβλία": { "replacement": "📚", "description": "books" },
+  "σημειωματάριο": { "replacement": "📓", "description": "notebook" },
+  "καθολικό": { "replacement": "📒", "description": "ledger" },
+  "σελίδα με μπούκλα": { "replacement": "📃", "description": "page with curl" },
+  "πάπυρος": { "replacement": "📜", "description": "scroll" },
+  "σελίδα προς τα πάνω": {
+    "replacement": "📄",
+    "description": "page facing up"
+  },
+  "εφημερίδα": { "replacement": "📰", "description": "newspaper" },
+  "ρολό εφημερίδων": {
+    "replacement": "🗞️",
+    "description": "rolled-up newspaper"
+  },
+  "καρτέλες σελιδοδεικτών": {
+    "replacement": "📑",
+    "description": "bookmark tabs"
+  },
+  "σελιδοδείκτης": { "replacement": "🔖", "description": "bookmark" },
+  "επιγραφή": { "replacement": "🏷️", "description": "label" },
+  "τσάντα χρημάτων": { "replacement": "💰", "description": "money bag" },
+  "νόμισμα": { "replacement": "🪙", "description": "coin" },
+  "γιέν": { "replacement": "💴", "description": "yen banknote" },
+  "δολάριο": { "replacement": "💵", "description": "dollar banknote" },
+  "ευρώ": { "replacement": "💶", "description": "euro banknote" },
+  "λίβρα": { "replacement": "💷", "description": "pound banknote" },
+  "χρήματα με φτερά": {
+    "replacement": "💸",
+    "description": "money with wings"
+  },
+  "πιστωτική κάρτα": { "replacement": "💳", "description": "credit card" },
+  "παραλαβή": { "replacement": "🧾", "description": "receipt" },
+  "διάγραμμα": {
+    "replacement": "💹",
+    "description": "chart increasing with yen"
+  },
+  "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ": { "replacement": "📧", "description": "e-mail" },
+  "εισερχόμενος φάκελος": {
+    "replacement": "📨",
+    "description": "incoming envelope"
+  },
+  "φάκελος με βέλος": {
+    "replacement": "📩",
+    "description": "envelope with arrow"
+  },
+  "δίσκος εξερχόμενων": { "replacement": "📤", "description": "outbox tray" },
+  "δίσκος εισερχομένων": { "replacement": "📥", "description": "inbox tray" },
+  "πακέτο": { "replacement": "📦", "description": "package" },
+  "γραμματοκιβώτιο": {
+    "replacement": "📫",
+    "description": "closed mailbox with raised flag"
+  },
+  "το γραμματοκιβώτιο έκλεισε": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "γραμματοκιβώτιο με αλληλογραφία": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "γραμματοκιβώτιο χωρίς αλληλογραφία": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "ταχυδρομική θυρίδα": { "replacement": "📮", "description": "postbox" },
+  "κάλπη": { "replacement": "🗳️", "description": "ballot box with ballot" },
+  "μολύβι2": { "replacement": "✏️", "description": "pencil" },
+  "μαύρη μύτη": { "replacement": "✒️", "description": "black nib" },
+  "πένα": { "replacement": "🖋️", "description": "fountain pen" },
+  "στυλό": { "replacement": "🖊️", "description": "pen" },
+  "πινελο ΖΩΓΡΑΦΙΚΗΣ": { "replacement": "🖌️", "description": "paintbrush" },
+  "παστέλ": { "replacement": "🖍️", "description": "crayon" },
+  "σημείωμα": { "replacement": "📝", "description": "memo" },
+  "χαρτοφύλακας": { "replacement": "💼", "description": "briefcase" },
+  "φάκελος αρχείων": { "replacement": "📁", "description": "file folder" },
+  "άνοιγμα φακέλου αρχείου": {
+    "replacement": "📂",
+    "description": "open file folder"
+  },
+  "διαχωριστικά ευρετηρίου καρτών": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "ημερομηνία": { "replacement": "📅", "description": "calendar" },
+  "Ημερολόγιο": { "replacement": "📆", "description": "tear-off calendar" },
+  "σπειροειδές σημειωματάριο": {
+    "replacement": "🗒️",
+    "description": "spiral notepad"
+  },
+  "σπειροειδές ημερολόγιο": {
+    "replacement": "🗓️",
+    "description": "spiral calendar"
+  },
+  "δείκτης κάρτας": { "replacement": "📇", "description": "card index" },
+  "γράφημα με ανοδική τάση": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "γράφημα με πτωτική τάση": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "ραβδόγραμμα": { "replacement": "📊", "description": "bar chart" },
+  "πρόχειρο": { "replacement": "📋", "description": "clipboard" },
+  "πινέζα": { "replacement": "📌", "description": "pushpin" },
+  "στρογγυλή πινέζα": { "replacement": "📍", "description": "round pushpin" },
+  "συνδετήρας": { "replacement": "📎", "description": "paperclip" },
+  "συνδετήρες": { "replacement": "🖇️", "description": "linked paperclips" },
+  "ευθεία χάρακα": { "replacement": "📏", "description": "straight ruler" },
+  "τριγωνικό χάρακα": {
+    "replacement": "📐",
+    "description": "triangular ruler"
+  },
+  "ψαλίδια": { "replacement": "✂️", "description": "scissors" },
+  "πλαίσιο αρχείου κάρτας": {
+    "replacement": "🗃️",
+    "description": "card file box"
+  },
+  "αρχειοθήκη": { "replacement": "🗄️", "description": "file cabinet" },
+  "καλάθι αχρήστων": { "replacement": "🗑️", "description": "wastebasket" },
+  "κλειδαριά": { "replacement": "🔒", "description": "locked" },
+  "ξεκλείδωμα": { "replacement": "🔓", "description": "unlocked" },
+  "κλειδώστε με στυλό μελάνης": {
+    "replacement": "🔏",
+    "description": "locked with pen"
+  },
+  "κλειστή κλειδαριά με κλειδί": {
+    "replacement": "🔐",
+    "description": "locked with key"
+  },
+  "κλειδί": { "replacement": "🔑", "description": "key" },
+  "παλιό κλειδί": { "replacement": "🗝️", "description": "old key" },
+  "σφυρί": { "replacement": "🔨", "description": "hammer" },
+  "τσεκούρι": { "replacement": "🪓", "description": "axe" },
+  "διαλέγω": { "replacement": "⛏️", "description": "pick" },
+  "σφυρί και διάλεξε": {
+    "replacement": "⚒️",
+    "description": "hammer and pick"
+  },
+  "σφυρί και γαλλικό κλειδί": {
+    "replacement": "🛠️",
+    "description": "hammer and wrench"
+  },
+  "στιλέτο": { "replacement": "🗡️", "description": "dagger" },
+  "σταυρωμένα σπαθιά": { "replacement": "⚔️", "description": "crossed swords" },
+  "όπλο": { "replacement": "🔫", "description": "pistol" },
+  "μπούμερανγκ": { "replacement": "🪃", "description": "boomerang" },
+  "τόξο και βέλος": { "replacement": "🏹", "description": "bow and arrow" },
+  "ασπίδα": { "replacement": "🛡️", "description": "shield" },
+  "πριόνι ξυλουργικής": { "replacement": "🪚", "description": "carpentry saw" },
+  "γαλλικο ΚΛΕΙΔΙ": { "replacement": "🔧", "description": "wrench" },
+  "κατσαβίδι": { "replacement": "🪛", "description": "screwdriver" },
+  "παξιμάδι και βιδα": { "replacement": "🔩", "description": "nut and bolt" },
+  "μηχανισμός": { "replacement": "⚙️", "description": "gear" },
+  "σφιγκτήρας": { "replacement": "🗜️", "description": "clamp" },
+  "κλίμακα ισορροπίας": { "replacement": "⚖️", "description": "balance scale" },
+  "διερεύνηση από ζαχαροκάλαμο": {
+    "replacement": "🦯",
+    "description": "white cane"
+  },
+  "Σύνδεσμος": { "replacement": "🔗", "description": "link" },
+  "αλυσίδες": { "replacement": "⛓️", "description": "chains" },
+  "άγκιστρο": { "replacement": "🪝", "description": "hook" },
+  "εργαλειοθήκη": { "replacement": "🧰", "description": "toolbox" },
+  "μαγνήτης": { "replacement": "🧲", "description": "magnet" },
+  "σκάλα": { "replacement": "🪜", "description": "ladder" },
+  "αποσταλακτήριο": { "replacement": "⚗️", "description": "alembic" },
+  "δοκιμαστικός σωλήνας": { "replacement": "🧪", "description": "test tube" },
+  "τρυβλίο Petri": { "replacement": "🧫", "description": "petri dish" },
+  "ΝΝΑ": { "replacement": "🧬", "description": "dna" },
+  "μικροσκόπιο": { "replacement": "🔬", "description": "microscope" },
+  "τηλεσκόπιο": { "replacement": "🔭", "description": "telescope" },
+  "δορυφόρος": { "replacement": "📡", "description": "satellite antenna" },
+  "σύριγγα": { "replacement": "💉", "description": "syringe" },
+  "σταγόνα αίματος": { "replacement": "🩸", "description": "drop of blood" },
+  "χάπι": { "replacement": "💊", "description": "pill" },
+  "αυτοκόλλητο επίδεσμο": {
+    "replacement": "🩹",
+    "description": "adhesive bandage"
+  },
+  "στηθοσκόπιο": { "replacement": "🩺", "description": "stethoscope" },
+  "θύρα": { "replacement": "🚪", "description": "door" },
+  "ανελκυστήρας": { "replacement": "🛗", "description": "elevator" },
+  "καθρέφτης": { "replacement": "🪞", "description": "mirror" },
+  "παράθυρο": { "replacement": "🪟", "description": "window" },
+  "κρεβάτι": { "replacement": "🛏️", "description": "bed" },
+  "καναπές και λάμπα": { "replacement": "🛋️", "description": "couch and lamp" },
+  "καρέκλα": { "replacement": "🪑", "description": "chair" },
+  "τουαλέτα": { "replacement": "🚾", "description": "water closet" },
+  "ντους": { "replacement": "🚿", "description": "shower" },
+  "μπανιέρα": { "replacement": "🛁", "description": "bathtub" },
+  "παγίδα ποντικιού": { "replacement": "🪤", "description": "mouse trap" },
+  "ξυράφι": { "replacement": "🪒", "description": "razor" },
+  "μπουκάλι λοσιόν": { "replacement": "🧴", "description": "lotion bottle" },
+  "παραμάνα": { "replacement": "🧷", "description": "safety pin" },
+  "σκούπα": { "replacement": "🧹", "description": "broom" },
+  "καλάθι": { "replacement": "🧺", "description": "basket" },
+  "ρολό χαρτιού": { "replacement": "🧻", "description": "roll of paper" },
+  "κάδος": { "replacement": "🪣", "description": "bucket" },
+  "σαπούνι": { "replacement": "🧼", "description": "soap" },
+  "οδοντόβουρτσα": { "replacement": "🪥", "description": "toothbrush" },
+  "σφουγγάρι": { "replacement": "🧽", "description": "sponge" },
+  "πυροσβεστήρας": { "replacement": "🧯", "description": "fire extinguisher" },
+  "καλάθι αγορών": { "replacement": "🛒", "description": "shopping cart" },
+  "κάπνισμα": { "replacement": "🚬", "description": "cigarette" },
+  "φέρετρο": { "replacement": "⚰️", "description": "coffin" },
+  "ταφόπλακα": { "replacement": "🪦", "description": "headstone" },
+  "κηδεία δοχείο": { "replacement": "⚱️", "description": "funeral urn" },
+  "Μοάι": { "replacement": "🗿", "description": "moai" },
+  "πλακάτ": { "replacement": "🪧", "description": "placard" },
+  "ΑΤΜ": { "replacement": "🏧", "description": "ATM sign" },
+  "βάλτε τα σκουπίδια στη θέση του": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "πόσιμο νερό": { "replacement": "🚰", "description": "potable water" },
+  "ΑΝΑΠΗΡΙΚΟ ΚΑΡΟΤΣΑΚΙ": {
+    "replacement": "♿",
+    "description": "wheelchair symbol"
+  },
+  "άντρες": { "replacement": "🚹", "description": "men’s room" },
+  "γυναικες": { "replacement": "🚺", "description": "women’s room" },
+  "σύμβολο του μωρού": { "replacement": "🚼", "description": "baby symbol" },
+  "έλεγχος διαβατηρίων": {
+    "replacement": "🛂",
+    "description": "passport control"
+  },
+  "ΗΘΗ και εθιμα": { "replacement": "🛃", "description": "customs" },
+  "αξίωση αποσκευών": { "replacement": "🛄", "description": "baggage claim" },
+  "αριστερά αποσκευές": { "replacement": "🛅", "description": "left luggage" },
+  "προειδοποίηση": { "replacement": "⚠️", "description": "warning" },
+  "παιδιά που διασχίζουν": {
+    "replacement": "🚸",
+    "description": "children crossing"
+  },
+  "απαγορεύεται η είσοδος": { "replacement": "⛔", "description": "no entry" },
+  "κανένα σημάδι εισόδου": { "replacement": "🚫", "description": "prohibited" },
+  "χωρίς ποδήλατα": { "replacement": "🚳", "description": "no bicycles" },
+  "Απαγορεύεται το κάπνισμα": {
+    "replacement": "🚭",
+    "description": "no smoking"
+  },
+  "μην πετάτε σκουπίδια": {
+    "replacement": "🚯",
+    "description": "no littering"
+  },
+  "μη πόσιμο νερό": { "replacement": "🚱", "description": "non-potable water" },
+  "όχι πεζοί": { "replacement": "🚷", "description": "no pedestrians" },
+  "χωρίς κινητά τηλέφωνα": {
+    "replacement": "📵",
+    "description": "no mobile phones"
+  },
+  "ανήλικος": { "replacement": "🔞", "description": "no one under eighteen" },
+  "ραδιενεργός": { "replacement": "☢️", "description": "radioactive" },
+  "βιολογικός κίνδυνος": { "replacement": "☣️", "description": "biohazard" },
+  "βέλος προς τα πάνω": {
+    "replacement": "🔼",
+    "description": "upwards button"
+  },
+  "πάνω δεξιά": { "replacement": "↗️", "description": "up-right arrow" },
+  "βέλος δεξιά": { "replacement": "➡️", "description": "right arrow" },
+  "κάτω βέλος δεξιά": {
+    "replacement": "↘️",
+    "description": "down-right arrow"
+  },
+  "βέλος προς τα κάτω": {
+    "replacement": "🔽",
+    "description": "downwards button"
+  },
+  "βέλος κάτω αριστερά": {
+    "replacement": "↙️",
+    "description": "down-left arrow"
+  },
+  "αριστερό βέλος": { "replacement": "⬅️", "description": "left arrow" },
+  "πάνω αριστερά": { "replacement": "↖️", "description": "up-left arrow" },
+  "αριστερό δεξί βέλος": {
+    "replacement": "↔️",
+    "description": "left-right arrow"
+  },
+  "αριστερό βέλος με γάντζο": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "δεξί γάντζο": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "βέλη δεξιόστροφα": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "βέλη αριστερόστροφα": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "πίσω": { "replacement": "🔙", "description": "BACK arrow" },
+  "τέλος": { "replacement": "🔚", "description": "END arrow" },
+  "επί": { "replacement": "🔛", "description": "ON! arrow" },
+  "σύντομα": { "replacement": "🔜", "description": "SOON arrow" },
+  "μπλουζα": { "replacement": "🔝", "description": "TOP arrow" },
+  "τόπος λατρείας": { "replacement": "🛐", "description": "place of worship" },
+  "σύμβολο ατόμου": { "replacement": "⚛️", "description": "atom symbol" },
+  "ομ": { "replacement": "🕉️", "description": "om" },
+  "αστέρι του Δαβίδ": { "replacement": "✡️", "description": "star of David" },
+  "τροχός του Ντάρμα": {
+    "replacement": "☸️",
+    "description": "wheel of dharma"
+  },
+  "Γιν Γιανγκ": { "replacement": "☯️", "description": "yin yang" },
+  "λατινικός σταυρός": { "replacement": "✝️", "description": "latin cross" },
+  "ορθόδοξος σταυρός": { "replacement": "☦️", "description": "orthodox cross" },
+  "αστέρι και ημισέληνος": {
+    "replacement": "☪️",
+    "description": "star and crescent"
+  },
+  "σύμβολο ειρήνης": { "replacement": "☮️", "description": "peace symbol" },
+  "μενορά": { "replacement": "🕎", "description": "menorah" },
+  "έξι μυτερό αστέρι": {
+    "replacement": "🔯",
+    "description": "dotted six-pointed star"
+  },
+  "Κριός": { "replacement": "♈", "description": "Aries" },
+  "Ταύρος": { "replacement": "♉", "description": "Taurus" },
+  "Δίδυμοι": { "replacement": "♊", "description": "Gemini" },
+  "Καρκίνος": { "replacement": "♋", "description": "Cancer" },
+  "Λέων": { "replacement": "♌", "description": "Leo" },
+  "Παρθένος": { "replacement": "♍", "description": "Virgo" },
+  "ΖΥΓΟΣ": { "replacement": "♎", "description": "Libra" },
+  "Τοξότης": { "replacement": "♐", "description": "Sagittarius" },
+  "Αιγόκερως": { "replacement": "♑", "description": "Capricorn" },
+  "Υδροχόος": { "replacement": "♒", "description": "Aquarius" },
+  "Ιχθύες": { "replacement": "♓", "description": "Pisces" },
+  "Οφιούχος": { "replacement": "⛎", "description": "Ophiuchus" },
+  "στριμμένα βέλη προς τα δεξιά": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "επαναλαμβάνω": { "replacement": "🔁", "description": "repeat button" },
+  "επαναλάβετε ένα": {
+    "replacement": "🔂",
+    "description": "repeat single button"
+  },
+  "βέλος προς τα εμπρός": { "replacement": "▶️", "description": "play button" },
+  "γρήγορη προώθηση": {
+    "replacement": "⏩",
+    "description": "fast-forward button"
+  },
+  "επόμενο κουμπί κομματιού": {
+    "replacement": "⏭️",
+    "description": "next track button"
+  },
+  "κουμπί αναπαραγωγής ή παύσης": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "βέλος προς τα πίσω": {
+    "replacement": "◀️",
+    "description": "reverse button"
+  },
+  "προς τα πίσω": { "replacement": "⏪", "description": "fast reverse button" },
+  "προηγούμενο κουμπί κομματιού": {
+    "replacement": "⏮️",
+    "description": "last track button"
+  },
+  "το βέλος διπλασιάζεται": {
+    "replacement": "⏫",
+    "description": "fast up button"
+  },
+  "διπλό κάτω βέλος": {
+    "replacement": "⏬",
+    "description": "fast down button"
+  },
+  "κουμπί παύσης": { "replacement": "⏸️", "description": "pause button" },
+  "κουμπί διακοπής": { "replacement": "⏹️", "description": "stop button" },
+  "κουμπί εγγραφής": { "replacement": "⏺️", "description": "record button" },
+  "κουμπί εξαγωγής": { "replacement": "⏏️", "description": "eject button" },
+  "κινηματογράφος": { "replacement": "🎦", "description": "cinema" },
+  "χαμηλή φωτεινότητα": { "replacement": "🔅", "description": "dim button" },
+  "υψηλή φωτεινότητα": { "replacement": "🔆", "description": "bright button" },
+  "ισχύς σήματος": { "replacement": "📶", "description": "antenna bars" },
+  "λειτουργία δόνησης": {
+    "replacement": "📳",
+    "description": "vibration mode"
+  },
+  "κινητό τηλέφωνο απενεργοποιημένο": {
+    "replacement": "📴",
+    "description": "mobile phone off"
+  },
+  "γυναικείο σημάδι": { "replacement": "♀️", "description": "female sign" },
+  "αρσενικό σημάδι": { "replacement": "♂️", "description": "male sign" },
+  "τρανσέξουαλ σύμβολο": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "βαρύς πολλαπλασιασμός x": { "replacement": "✖️", "description": "multiply" },
+  "βαρύ σύμβολο συν": { "replacement": "➕", "description": "plus" },
+  "βαρύ μείον": { "replacement": "➖", "description": "minus" },
+  "βαριά διαίρεση σημάδι": { "replacement": "➗", "description": "divide" },
+  "άπειρο": { "replacement": "♾️", "description": "infinity" },
+  "Μπανγκ Μπανγκ": {
+    "replacement": "‼️",
+    "description": "double exclamation mark"
+  },
+  "Ιντερμπανγκ": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "ερώτηση": { "replacement": "❓", "description": "question mark" },
+  "γκρι ερώτηση": { "replacement": "❔", "description": "white question mark" },
+  "γκρι θαυμαστικό": {
+    "replacement": "❕",
+    "description": "white exclamation mark"
+  },
+  "επιφώνημα": { "replacement": "❗", "description": "exclamation mark" },
+  "κυματιστή παύλα": { "replacement": "〰️", "description": "wavy dash" },
+  "ανταλλαγή συναλλάγματος": {
+    "replacement": "💱",
+    "description": "currency exchange"
+  },
+  "βαρύ σύμβολο δολαρίου": {
+    "replacement": "💲",
+    "description": "heavy dollar sign"
+  },
+  "ιατρικό σύμβολο": { "replacement": "⚕️", "description": "medical symbol" },
+  "Ανακυκλωνω": { "replacement": "♻️", "description": "recycling symbol" },
+  "fleur de lis": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "τρίαινα": { "replacement": "🔱", "description": "trident emblem" },
+  "σήμα ονόματος": { "replacement": "📛", "description": "name badge" },
+  "αρχάριος": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "ο": { "replacement": "⭕", "description": "hollow red circle" },
+  "λευκό σημάδι επιλογής": {
+    "replacement": "✅",
+    "description": "check mark button"
+  },
+  "κάλπη με επιταγή": {
+    "replacement": "☑️",
+    "description": "check box with check"
+  },
+  "βαρύ σημάδι επιλογής": { "replacement": "✔️", "description": "check mark" },
+  "Χ": { "replacement": "❌", "description": "cross mark" },
+  "αρνητικό τετράγωνο σταυρό σημάδι": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "σγουρός βρόχος": { "replacement": "➰", "description": "curly loop" },
+  "βρόχος": { "replacement": "➿", "description": "double curly loop" },
+  "ανταλλακτικό σήμα": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "οκτώ αστερίσκος": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "οκτώ αιχμηρό μαύρο αστέρι": {
+    "replacement": "✴️",
+    "description": "eight-pointed star"
+  },
+  "λάμπω": { "replacement": "❇️", "description": "sparkle" },
+  "πνευματική ιδιοκτησία": { "replacement": "©️", "description": "copyright" },
+  "εγγεγραμμένος": { "replacement": "®️", "description": "registered" },
+  "τμ": { "replacement": "™️", "description": "trade mark" },
+  "χασίσι": { "replacement": "#️⃣", "description": "keycap: #" },
+  "αστερίσκος": { "replacement": "*️⃣", "description": "keycap: *" },
+  "μηδέν": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "ένας": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "δύο": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "τρία": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "τέσσερα": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "πέντε": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "έξι": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "επτά": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "οκτώ": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "εννέα": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "keycap δέκα": { "replacement": "🔟", "description": "keycap: 10" },
+  "κεφάλαιο abcd": {
+    "replacement": "🔠",
+    "description": "input latin uppercase"
+  },
+  "Α Β Γ Δ": { "replacement": "🔡", "description": "input latin lowercase" },
+  "σύμβολα": { "replacement": "🔣", "description": "input symbols" },
+  "αλφάβητο": { "replacement": "🔤", "description": "input latin letters" },
+  "ένα": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "αβ": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "σι": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "cl": { "replacement": "🆑", "description": "CL button" },
+  "δροσερός": { "replacement": "🆒", "description": "COOL button" },
+  "Ελεύθερος": { "replacement": "🆓", "description": "FREE button" },
+  "πηγή πληροφορίας": { "replacement": "ℹ️", "description": "information" },
+  "ταυτότητα": { "replacement": "🆔", "description": "ID button" },
+  "Μ": { "replacement": "Ⓜ️", "description": "circled M" },
+  "νέος": { "replacement": "🆕", "description": "NEW button" },
+  "ng": { "replacement": "🆖", "description": "NG button" },
+  "ο2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "Εντάξει": { "replacement": "🆗", "description": "OK button" },
+  "στάθμευση": { "replacement": "🅿️", "description": "P button" },
+  "σύνθημα κινδύνου": { "replacement": "🆘", "description": "SOS button" },
+  "πάνω": { "replacement": "🆙", "description": "UP! button" },
+  "εναντίον": { "replacement": "🆚", "description": "VS button" },
+  "Κόκο": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "ΑΝΩΝΥΜΗ ΕΤΑΙΡΙΑ": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "πλεονέκτημα ιδεογραφίας": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "αποδέχομαι": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7α": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "Συγχαρητήρια": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "μυστικό": { "replacement": "㊙️", "description": "Japanese “secret” button" },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "κόκκινος κύκλος": { "replacement": "🔴", "description": "red circle" },
+  "πορτοκαλί κύκλο": { "replacement": "🟠", "description": "orange circle" },
+  "κίτρινο κύκλο": { "replacement": "🟡", "description": "yellow circle" },
+  "πράσινο κύκλο": { "replacement": "🟢", "description": "green circle" },
+  "μεγάλο μπλε κύκλο": { "replacement": "🔵", "description": "blue circle" },
+  "μοβ κύκλος": { "replacement": "🟣", "description": "purple circle" },
+  "καφέ κύκλος": { "replacement": "🟤", "description": "brown circle" },
+  "μαύρο κύκλο": { "replacement": "⚫", "description": "black circle" },
+  "λευκό κύκλο": { "replacement": "⚪", "description": "white circle" },
+  "κόκκινη πλατεία": { "replacement": "🟥", "description": "red square" },
+  "πορτοκαλί τετράγωνο": { "replacement": "🟧", "description": "orange square" },
+  "κίτρινο τετράγωνο": { "replacement": "🟨", "description": "yellow square" },
+  "πράσινη πλατεία": { "replacement": "🟩", "description": "green square" },
+  "μπλε πλατεία": { "replacement": "🟦", "description": "blue square" },
+  "μωβ πλατεία": { "replacement": "🟪", "description": "purple square" },
+  "καφέ τετράγωνο": { "replacement": "🟫", "description": "brown square" },
+  "μαύρο μεγάλο τετράγωνο": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "λευκή μεγάλη πλατεία": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "μαύρο μεσαίο τετράγωνο": {
+    "replacement": "◼️",
+    "description": "black medium square"
+  },
+  "λευκό μεσαίο τετράγωνο": {
+    "replacement": "◻️",
+    "description": "white medium square"
+  },
+  "μαύρο μεσαίο μικρό τετράγωνο": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "λευκό μεσαίο μικρό τετράγωνο": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "μαύρο μικρό τετράγωνο": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "λευκή μικρή πλατεία": {
+    "replacement": "▫️",
+    "description": "white small square"
+  },
+  "μεγάλο πορτοκαλί διαμάντι": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "μεγάλο μπλε διαμάντι": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "μικρό πορτοκαλί διαμάντι": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "μικρό μπλε διαμάντι": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "μικρό κόκκινο τρίγωνο": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "μικρό κόκκινο τρίγωνο προς τα κάτω": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "σχήμα διαμαντιού με κουκκίδα μέσα": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "κουμπί ραδιοφώνου": { "replacement": "🔘", "description": "radio button" },
+  "λευκό τετράγωνο κουμπί": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "μαύρο τετράγωνο κουμπί": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "καρό σημαία": { "replacement": "🏁", "description": "chequered flag" },
+  "τριγωνική σημαία στο ταχυδρομείο": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "τεμνόμενες σημαίες": { "replacement": "🎌", "description": "crossed flags" },
+  "μαύρη σημαία": { "replacement": "🏴", "description": "black flag" },
+  "λευκή σημαία": { "replacement": "🏳️", "description": "white flag" },
+  "σημαία ουράνιου τόξου": {
+    "replacement": "🏳️‍🌈",
+    "description": "rainbow flag"
+  },
+  "τρανσέξουαλ σημαία": {
+    "replacement": "🏳️‍⚧️",
+    "description": "transgender flag"
+  },
+  "πειρατική σημαία": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "νησί ανάβασης": {
+    "replacement": "🇦🇨",
+    "description": "flag: Ascension Island"
+  },
+  "Ανδόρα": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "Ηνωμένα Αραβικά Εμιράτα": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "Αφγανιστάν": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "Αντίγκουα Μπαρμπούντα": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "Ανγκουίλα": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "Αλβανία": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "Αρμενία": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "Αγκόλα": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "Ανταρκτική": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "Αργεντίνη": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "Αμερικάνικη Σαμόα": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "Αυστρία": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "Αυστραλία": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "Αρούμπα": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "νησιά Άλαντ": { "replacement": "🇦🇽", "description": "flag: Åland Islands" },
+  "Αζερμπαϊτζάν": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "Βοσνία-Ερζεγοβίνη": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "Μπαρμπάντος": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "Μπαγκλαντές": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "Βέλγιο": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "Μπουρκίνα Φάσο": {
+    "replacement": "🇧🇫",
+    "description": "flag: Burkina Faso"
+  },
+  "Βουλγαρία": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "Μπαχρέιν": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "Μπουρούντι": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "Μπενίν": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "Βαρθολομαίος": {
+    "replacement": "🇧🇱",
+    "description": "flag: St. Barthélemy"
+  },
+  "Βερμούδα": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "Μπρουνέι": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "Βολιβία": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "καραϊβική Ολλανδία": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "Βραζιλία": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "Μπαχάμες": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "Μπουτάν": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "νησί μπουκέτο": {
+    "replacement": "🇧🇻",
+    "description": "flag: Bouvet Island"
+  },
+  "Μποτσουάνα": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "Λευκορωσία": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "Μπελίζ": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "Καναδάς": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "Νησιά Κόκος": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "Κονγκό Κινσάσα": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "Δημοκρατία Κεντρικής Αφρικής": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "Κονγκό Μπραζαβίλ": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "Ελβετία": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "cote divoire": { "replacement": "🇨🇮", "description": "flag: Côte d’Ivoire" },
+  "νησιά μαγειρικής": {
+    "replacement": "🇨🇰",
+    "description": "flag: Cook Islands"
+  },
+  "χιλή": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "καμερούν": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "cn": { "replacement": "🇨🇳", "description": "flag: China" },
+  "Κολομβία": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "νησί clipperton": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "Κόστα Ρίκα": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "Κούβα": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "ακρωτήριο": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "κουράσω": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "χριστουγεννιάτικο νησί": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "Κύπρος": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "Τσεχική Δημοκρατία": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "ντε": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "diego garcia": { "replacement": "🇩🇬", "description": "flag: Diego Garcia" },
+  "τζιμπουτί": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "Δανία": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "ντομίνικα": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "Δομινικανή δημοκρατία": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "Αλγερία": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "ceuta melilla": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "Εκουαδόρ": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "Εσθονία": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "Αίγυπτος": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "Δυτική Σαχάρα": {
+    "replacement": "🇪🇭",
+    "description": "flag: Western Sahara"
+  },
+  "Ερυθραία": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "es": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "Αιθιοπία": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "ΕΕ": { "replacement": "🇪🇺", "description": "flag: European Union" },
+  "Φινλανδία": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "Φίτζι": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "νησιά Φώκλαντ": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "Μικρονησία": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "Νήσοι Φερόες": { "replacement": "🇫🇴", "description": "flag: Faroe Islands" },
+  "πρ": { "replacement": "🇫🇷", "description": "flag: France" },
+  "Γκαμπόν": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "γιγαμπάιτ": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "Γρενάδα": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "Γεωργία": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "γαλλική γουιάνα": {
+    "replacement": "🇬🇫",
+    "description": "flag: French Guiana"
+  },
+  "Γκέρνσεϊ": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "Γκάνα": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "Γιβραλτάρ": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "Γροιλανδία": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "Γκάμπια": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "γκινέα": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "Γουαδελούπη": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "Ισημερινή Γουινέα": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "Ελλάδα": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "Νότια Γεωργία νησιά νότια σάντουιτς": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "Γουατεμάλα": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "Γκουάμ": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "Γουινέα Μπισάου": {
+    "replacement": "🇬🇼",
+    "description": "flag: Guinea-Bissau"
+  },
+  "Γουιάνα": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "Χονγκ Κονγκ": {
+    "replacement": "🇭🇰",
+    "description": "flag: Hong Kong SAR China"
+  },
+  "άκουσα νησιά mcdonald": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "Ονδούρα": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "Κροατία": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "Αΐτη": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "Ουγγαρία": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "Κανάριοι Νήσοι": {
+    "replacement": "🇮🇨",
+    "description": "flag: Canary Islands"
+  },
+  "Ινδονησία": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "Ιρλανδία": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "Ισραήλ": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "Νήσος του Μαν": { "replacement": "🇮🇲", "description": "flag: Isle of Man" },
+  "Ινδία": { "replacement": "🇮🇳", "description": "flag: India" },
+  "βρετανική επικράτεια Ινδικού Ωκεανού": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "Ιράκ": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "Ιράν": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "Ισλανδία": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "το": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "φανέλα": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "Ιαμαϊκή": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "Ιορδανία": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "jp": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "Κενύα": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "Κιργιζιστάν": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "Καμπότζη": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "kiribati": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "Κομόρες": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "Άγιος Βασίλης Νέβις": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "Βόρεια Κορέα": { "replacement": "🇰🇵", "description": "flag: North Korea" },
+  "Κρ": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "Κουβέιτ": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "νησιά Καϊμάν": {
+    "replacement": "🇰🇾",
+    "description": "flag: Cayman Islands"
+  },
+  "Καζακστάν": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "Λάος": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "Λίβανος": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "Αγία Λουκία": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "Λιχτενστάιν": { "replacement": "🇱🇮", "description": "flag: Liechtenstein" },
+  "Σρι Λάνκα": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "Λιβερία": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "λεσότο": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "Λιθουανία": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "Λουξεμβούργο": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "Λετονία": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "Λιβύη": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "Μαρόκο": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "Μονακό": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "Μολδαβία": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "Μαυροβούνιο": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "Άγιος Μαρτίνος": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "Μαδαγασκάρη": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "Νήσοι Μάρσαλ": {
+    "replacement": "🇲🇭",
+    "description": "flag: Marshall Islands"
+  },
+  "Μακεδόνια": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "Μάλι": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "Μυανμάρ": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "Μογγολία": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "Μακάο": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "Βορεια Νησια Μαριανα": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "μαρτινίκα": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "μαυριτανία": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "Μοντσερράτ": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "Μάλτα": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "Μαυρίκιος": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "Μαλδίβες": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "Μαλάουι": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "Μεξικό": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "Μαλαισία": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "Μοζαμβίκη": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "Ναμίμπια": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "Νέα Καληδονία": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "Νίγηρας": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "Νορβολκ νησί": {
+    "replacement": "🇳🇫",
+    "description": "flag: Norfolk Island"
+  },
+  "Νιγηρία": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "Νικαράγουα": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "Ολλανδία": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "Νορβηγία": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "Νεπάλ": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "Ναουρού": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "Νιούε": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "Νέα Ζηλανδία": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "Ομάν": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "Παναμάς": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "Περού": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "Γαλλική Πολυνησία": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "Παπούα Νέα Γουινέα": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "Φιλιππίνες": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "Πακιστάν": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "Πολωνία": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "μικρό pierre μικρό": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "νησιά pitcairn": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "Πουέρτο Ρίκο": { "replacement": "🇵🇷", "description": "flag: Puerto Rico" },
+  "παλαιστινιακά εδάφη": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "Πορτογαλία": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "Παλάου": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "Παραγουάη": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "Κατάρ": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "επανένωση": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "Ρουμανία": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "Σερβία": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "ru": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "Ρουάντα": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "Σαουδική Αραβία": {
+    "replacement": "🇸🇦",
+    "description": "flag: Saudi Arabia"
+  },
+  "Νησιά του Σολομώντα": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "Σεϋχέλλες": { "replacement": "🇸🇨", "description": "flag: Seychelles" },
+  "Σουδάν": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "Σουηδία": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "Σινγκαπούρη": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "Αγία Έλενα": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "Σλοβενία": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "svalbard jan mayen": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "Σλοβακία": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "Σιέρρα Λεόνε": { "replacement": "🇸🇱", "description": "flag: Sierra Leone" },
+  "Σαν Μαρίνο": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "Σενεγάλη": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "Σομαλία": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "Σουρινάμ": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "Νότιο Σουδάν": { "replacement": "🇸🇸", "description": "flag: South Sudan" },
+  "Σάο Τομέ Πρίνσιπε": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "Ελ Σαλβαδόρ": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "sint maarten": { "replacement": "🇸🇽", "description": "flag: Sint Maarten" },
+  "Συρία": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "Σουαζιλάνδη": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "tristan da cunha": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "Νησιά Τερκς Κάικος": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "Τσαντ": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "γαλλικές νότιες περιοχές": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "να πάω": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "Ταϊλάνδη": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "Τατζικιστάν": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "Τοκελάου": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "Τιμόρ Λέστε": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "Τουρκμενιστάν": { "replacement": "🇹🇲", "description": "flag: Turkmenistan" },
+  "Τυνησία": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "Τόνγκα": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "τρ": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "Τρινιντάντ Τομπάγκο": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "Τουβαλού": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "Ταϊβάν": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "Τανζανία": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "Ουκρανία": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "Ουγκάντα": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "μας απομακρυσμένα νησιά": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "Ηνωμένα Έθνη": {
+    "replacement": "🇺🇳",
+    "description": "flag: United Nations"
+  },
+  "μας": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "Ουρουγουάη": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "Ουζμπεκιστάν": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "η πόλη του Βατικανού": {
+    "replacement": "🇻🇦",
+    "description": "flag: Vatican City"
+  },
+  "Γουιντενίνες": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "Βενεζουέλα": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "Βρετανικά παρθένα νησιά": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "μας παρθένα νησιά": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "Βιετνάμ": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "Βανουάτου": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "Γουόλις Φουτούνα": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "σαμόα": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "Κόσοβο": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "Γέμενη": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "Μαγιότ": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "Νότια Αφρική": { "replacement": "🇿🇦", "description": "flag: South Africa" },
+  "Ζάμπια": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "Ζιμπάμπουε": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "Αγγλία": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "Σκωτία": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "Ουαλία": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

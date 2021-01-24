@@ -1,0 +1,2552 @@
+{
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "웃음이 넘치는": { "replacement": "😀", "description": "grinning face" },
+  "웃는": { "replacement": "😃", "description": "grinning face with big eyes" },
+  "미소": {
+    "replacement": "😄",
+    "description": "grinning face with smiling eyes"
+  },
+  "이를 드러내고 웃다": {
+    "replacement": "😁",
+    "description": "beaming face with smiling eyes"
+  },
+  "웃음": { "replacement": "😆", "description": "grinning squinting face" },
+  "땀을 흘리다": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "즐거움": { "replacement": "😂", "description": "face with tears of joy" },
+  "살짝 웃는 얼굴": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "거꾸로 얼굴": { "replacement": "🙃", "description": "upside-down face" },
+  "눈짓": { "replacement": "😉", "description": "winking face" },
+  "붉히다": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "순진한": { "replacement": "😇", "description": "smiling face with halo" },
+  "세 마음으로 웃는 얼굴": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "심장 눈": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "스타 스트라이크": { "replacement": "🤩", "description": "star-struck" },
+  "키스하는 마음": {
+    "replacement": "😘",
+    "description": "face blowing a kiss"
+  },
+  "키스": { "replacement": "💋", "description": "kiss mark" },
+  "느긋한": { "replacement": "☺️", "description": "smiling face" },
+  "눈 감고 키스": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "웃는 눈에 키스": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "눈물로 웃는 얼굴": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "냠": { "replacement": "😋", "description": "face savoring food" },
+  "혀를 내밀다": { "replacement": "😛", "description": "face with tongue" },
+  "혀를 내밀고 윙크하는 눈": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "엉뚱한 얼굴": { "replacement": "🥴", "description": "woozy face" },
+  "눈을 감고 혀를 내밀었다": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "돈 입 얼굴": { "replacement": "🤑", "description": "money-mouth face" },
+  "포옹": { "replacement": "🤗", "description": "hugging face" },
+  "입을 넘기다": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "쉿하는 얼굴": { "replacement": "🤫", "description": "shushing face" },
+  "생각": { "replacement": "🤔", "description": "thinking face" },
+  "지퍼 입 얼굴": { "replacement": "🤐", "description": "zipper-mouth face" },
+  "올려 진 눈썹": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "중립적 인 얼굴": { "replacement": "😐", "description": "neutral face" },
+  "무표정": { "replacement": "😑", "description": "expressionless face" },
+  "입이 없다": { "replacement": "😶", "description": "face without mouth" },
+  "웃다": { "replacement": "😏", "description": "smirking face" },
+  "재미없는": { "replacement": "😒", "description": "unamused face" },
+  "눈을 굴리다": {
+    "replacement": "🙄",
+    "description": "face with rolling eyes"
+  },
+  "찡그린": { "replacement": "😬", "description": "grimacing face" },
+  "거짓말하는 얼굴": { "replacement": "🤥", "description": "lying face" },
+  "안심": { "replacement": "😌", "description": "relieved face" },
+  "잠겨있는": { "replacement": "😔", "description": "pensive face" },
+  "졸리는": { "replacement": "😪", "description": "sleepy face" },
+  "침을 흘리는 얼굴": { "replacement": "🤤", "description": "drooling face" },
+  "자고": { "replacement": "😴", "description": "sleeping face" },
+  "마스크": { "replacement": "😷", "description": "face with medical mask" },
+  "온도계로 얼굴": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "머리에 붕대를 감은 얼굴": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "메스 꺼운 얼굴": { "replacement": "🤢", "description": "nauseated face" },
+  "구토 얼굴": { "replacement": "🤮", "description": "face vomiting" },
+  "재채기하는 얼굴": { "replacement": "🤧", "description": "sneezing face" },
+  "뜨거운 얼굴": { "replacement": "🥵", "description": "hot face" },
+  "차가운 얼굴": { "replacement": "🥶", "description": "cold face" },
+  "어지러운 얼굴": { "replacement": "😵", "description": "dizzy face" },
+  "폭발하는 머리": { "replacement": "🤯", "description": "exploding head" },
+  "카우보이 모자 얼굴": {
+    "replacement": "🤠",
+    "description": "cowboy hat face"
+  },
+  "파티 얼굴": { "replacement": "🥳", "description": "partying face" },
+  "변장 한 얼굴": { "replacement": "🥸", "description": "disguised face" },
+  "색안경": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "괴상한 얼굴": { "replacement": "🤓", "description": "nerd face" },
+  "단안경 얼굴": { "replacement": "🧐", "description": "face with monocle" },
+  "혼란": { "replacement": "😕", "description": "confused face" },
+  "걱정": { "replacement": "😟", "description": "worried face" },
+  "약간 찡그린 얼굴": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "찡그린 얼굴": { "replacement": "☹️", "description": "frowning face" },
+  "입을 벌리다": { "replacement": "😮", "description": "face with open mouth" },
+  "조용히": { "replacement": "😯", "description": "hushed face" },
+  "놀란": { "replacement": "😲", "description": "astonished face" },
+  "플러시": { "replacement": "😳", "description": "flushed face" },
+  "탄원하는 얼굴": { "replacement": "🥺", "description": "pleading face" },
+  "찌푸린": {
+    "replacement": "😦",
+    "description": "frowning face with open mouth"
+  },
+  "고뇌": { "replacement": "😧", "description": "anguished face" },
+  "두려워": { "replacement": "😨", "description": "fearful face" },
+  "식은 땀": { "replacement": "😰", "description": "anxious face with sweat" },
+  "실망 안도": { "replacement": "😥", "description": "sad but relieved face" },
+  "울음 소리": { "replacement": "😢", "description": "crying face" },
+  "흐느낌": { "replacement": "😭", "description": "loudly crying face" },
+  "비명": { "replacement": "😱", "description": "face screaming in fear" },
+  "혼란스러운": { "replacement": "😖", "description": "confounded face" },
+  "인내하다": { "replacement": "😣", "description": "persevering face" },
+  "실망한": { "replacement": "😞", "description": "disappointed face" },
+  "땀": { "replacement": "😓", "description": "downcast face with sweat" },
+  "피곤한": { "replacement": "😩", "description": "weary face" },
+  "피곤한 얼굴": { "replacement": "😫", "description": "tired face" },
+  "하품하는 얼굴": { "replacement": "🥱", "description": "yawning face" },
+  "승리": { "replacement": "😤", "description": "face with steam from nose" },
+  "격노": { "replacement": "😡", "description": "pouting face" },
+  "성난": { "replacement": "😠", "description": "angry face" },
+  "저주하는 얼굴": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "웃는 꼬마 도깨비": {
+    "replacement": "😈",
+    "description": "smiling face with horns"
+  },
+  "꼬마 도깨비": {
+    "replacement": "👿",
+    "description": "angry face with horns"
+  },
+  "두개골": { "replacement": "💀", "description": "skull" },
+  "두개골과 이미지": {
+    "replacement": "☠️",
+    "description": "skull and crossbones"
+  },
+  "Hankey": { "replacement": "💩", "description": "pile of poo" },
+  "광대 얼굴": { "replacement": "🤡", "description": "clown face" },
+  "일본 귀신": { "replacement": "👹", "description": "ogre" },
+  "일본 고블린": { "replacement": "👺", "description": "goblin" },
+  "유령": { "replacement": "👻", "description": "ghost" },
+  "외계인": { "replacement": "👽", "description": "alien" },
+  "우주 침략자": { "replacement": "👾", "description": "alien monster" },
+  "로봇": { "replacement": "🤖", "description": "robot" },
+  "웃는 고양이": { "replacement": "😺", "description": "grinning cat" },
+  "미소 고양이": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "기쁨 고양이": {
+    "replacement": "😹",
+    "description": "cat with tears of joy"
+  },
+  "심장 눈 고양이": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "능글 맞은 고양이": {
+    "replacement": "😼",
+    "description": "cat with wry smile"
+  },
+  "키스 고양이": { "replacement": "😽", "description": "kissing cat" },
+  "비명 고양이": { "replacement": "🙀", "description": "weary cat" },
+  "우는 고양이 얼굴": { "replacement": "😿", "description": "crying cat" },
+  "삐죽 고양이": { "replacement": "😾", "description": "pouting cat" },
+  "악을 보지 않는다": {
+    "replacement": "🙈",
+    "description": "see-no-evil monkey"
+  },
+  "악의를 듣지 마라": {
+    "replacement": "🙉",
+    "description": "hear-no-evil monkey"
+  },
+  "악한 말하지 마": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "연애 편지": { "replacement": "💌", "description": "love letter" },
+  "큐핏": { "replacement": "💘", "description": "heart with arrow" },
+  "선물 마음": { "replacement": "💝", "description": "heart with ribbon" },
+  "반짝이는 하트": { "replacement": "💖", "description": "sparkling heart" },
+  "심장 박동": { "replacement": "💓", "description": "beating heart" },
+  "회전하는 하트": { "replacement": "💞", "description": "revolving hearts" },
+  "두개의 심장": { "replacement": "💕", "description": "two hearts" },
+  "하트 장식": { "replacement": "💟", "description": "heart decoration" },
+  "무거운 심장 느낌표": {
+    "replacement": "❣️",
+    "description": "heart exclamation"
+  },
+  "상한 마음": { "replacement": "💔", "description": "broken heart" },
+  "심장": { "replacement": "❤️", "description": "red heart" },
+  "오렌지 하트": { "replacement": "🧡", "description": "orange heart" },
+  "노란 마음": { "replacement": "💛", "description": "yellow heart" },
+  "녹색 마음": { "replacement": "💚", "description": "green heart" },
+  "푸른 마음": { "replacement": "💙", "description": "blue heart" },
+  "퍼플 하트": { "replacement": "💜", "description": "purple heart" },
+  "브라운 하트": { "replacement": "🤎", "description": "brown heart" },
+  "흑심": { "replacement": "🖤", "description": "black heart" },
+  "하얀 마음": { "replacement": "🤍", "description": "white heart" },
+  "분노": { "replacement": "💢", "description": "anger symbol" },
+  "팔": { "replacement": "💥", "description": "collision" },
+  "핑": { "replacement": "💫", "description": "dizzy" },
+  "땀방울": { "replacement": "💦", "description": "sweat droplets" },
+  "대시": { "replacement": "💨", "description": "dashing away" },
+  "구멍": { "replacement": "🕳️", "description": "hole" },
+  "폭탄": { "replacement": "💣", "description": "bomb" },
+  "말풍선": { "replacement": "💬", "description": "speech balloon" },
+  "눈 연설 거품": {
+    "replacement": "👁️‍🗨️",
+    "description": "eye in speech bubble"
+  },
+  "왼쪽 된 말풍선": {
+    "replacement": "🗨️",
+    "description": "left speech bubble"
+  },
+  "오른쪽 분노 거품": {
+    "replacement": "🗯️",
+    "description": "right anger bubble"
+  },
+  "생각 풍선": { "replacement": "💭", "description": "thought balloon" },
+  "쿨쿨": { "replacement": "💤", "description": "zzz" },
+  "웨이브": { "replacement": "👋", "description": "waving hand" },
+  "손등을 들다": { "replacement": "🤚", "description": "raised back of hand" },
+  "손가락을 펴고 손을 들었다.": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "손": { "replacement": "✋", "description": "raised hand" },
+  "발칸 경례": { "replacement": "🖖", "description": "vulcan salute" },
+  "좋아 손": { "replacement": "👌", "description": "OK hand" },
+  "꼬집은 손가락": { "replacement": "🤌", "description": "pinched fingers" },
+  "꼬집는 손": { "replacement": "🤏", "description": "pinching hand" },
+  "V": { "replacement": "✌️", "description": "victory hand" },
+  "교차 손가락": { "replacement": "🤞", "description": "crossed fingers" },
+  "사랑해 제스처": { "replacement": "🤟", "description": "love-you gesture" },
+  "금속": { "replacement": "🤘", "description": "sign of the horns" },
+  "손 불러줘": { "replacement": "🤙", "description": "call me hand" },
+  "왼쪽을 가리키다": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "오른쪽을 가리키다": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "포인트 2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "가운데 손가락": { "replacement": "🖕", "description": "middle finger" },
+  "아래를 가리키다": {
+    "replacement": "👇",
+    "description": "backhand index pointing down"
+  },
+  "지적하다": { "replacement": "☝️", "description": "index pointing up" },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "주먹을 들다": { "replacement": "✊", "description": "raised fist" },
+  "주먹 다가오는": { "replacement": "👊", "description": "oncoming fist" },
+  "왼쪽 주먹": { "replacement": "🤛", "description": "left-facing fist" },
+  "오른쪽 주먹": { "replacement": "🤜", "description": "right-facing fist" },
+  "박수": { "replacement": "👏", "description": "clapping hands" },
+  "손을 들다": { "replacement": "🙋", "description": "person raising hand" },
+  "열린 손": { "replacement": "👐", "description": "open hands" },
+  "함께 손바닥을 위로": {
+    "replacement": "🤲",
+    "description": "palms up together"
+  },
+  "악수": { "replacement": "🤝", "description": "handshake" },
+  "빌다": { "replacement": "🙏", "description": "folded hands" },
+  "손 쓰기": { "replacement": "✍️", "description": "writing hand" },
+  "손톱 손질": { "replacement": "💅", "description": "nail polish" },
+  "셀카": { "replacement": "🤳", "description": "selfie" },
+  "근육": { "replacement": "💪", "description": "flexed biceps" },
+  "기계 팔": { "replacement": "🦾", "description": "mechanical arm" },
+  "기계 다리": { "replacement": "🦿", "description": "mechanical leg" },
+  "다리": { "replacement": "🦵", "description": "leg" },
+  "발": { "replacement": "🦶", "description": "foot" },
+  "귀": { "replacement": "👂", "description": "ear" },
+  "보청기와 귀": { "replacement": "🦻", "description": "ear with hearing aid" },
+  "코": { "replacement": "👃", "description": "nose" },
+  "뇌": { "replacement": "🧠", "description": "brain" },
+  "해부학 적 심장": { "replacement": "🫀", "description": "anatomical heart" },
+  "폐": { "replacement": "🫁", "description": "lungs" },
+  "이": { "replacement": "🦷", "description": "tooth" },
+  "뼈": { "replacement": "🦴", "description": "bone" },
+  "눈": { "replacement": "👁️", "description": "eye" },
+  "혀": { "replacement": "👅", "description": "tongue" },
+  "입술": { "replacement": "👄", "description": "mouth" },
+  "아가": { "replacement": "👶", "description": "baby" },
+  "아이": { "replacement": "🧒", "description": "child" },
+  "소년": { "replacement": "👦", "description": "boy" },
+  "소녀": { "replacement": "👧", "description": "girl" },
+  "성인": { "replacement": "🧑", "description": "person" },
+  "금발 머리 사람": {
+    "replacement": "👱",
+    "description": "person: blond hair"
+  },
+  "남자": { "replacement": "👨", "description": "man" },
+  "수염 난 사람": { "replacement": "🧔", "description": "man: beard" },
+  "빨간 머리 남자": { "replacement": "👨‍🦰", "description": "man: red hair" },
+  "곱슬 머리 남자": { "replacement": "👨‍🦱", "description": "man: curly hair" },
+  "백발 남자": { "replacement": "👨‍🦳", "description": "man: white hair" },
+  "대머리 남자": { "replacement": "👨‍🦲", "description": "man: bald" },
+  "여자": { "replacement": "🚺", "description": "women’s room" },
+  "빨간 머리 여자": { "replacement": "👩‍🦰", "description": "woman: red hair" },
+  "사람 빨간 머리": {
+    "replacement": "🧑‍🦰",
+    "description": "person: red hair"
+  },
+  "곱슬 머리 여자": { "replacement": "👩‍🦱", "description": "woman: curly hair" },
+  "사람 곱슬 머리": {
+    "replacement": "🧑‍🦱",
+    "description": "person: curly hair"
+  },
+  "흰 머리 여자": { "replacement": "👩‍🦳", "description": "woman: white hair" },
+  "사람 흰 머리카락": {
+    "replacement": "🧑‍🦳",
+    "description": "person: white hair"
+  },
+  "대머리 여자": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "사람 대머리": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "금발 머리 여자": { "replacement": "👱‍♀️", "description": "woman: blond hair" },
+  "금발 머리 남자": { "replacement": "👱‍♂️", "description": "man: blond hair" },
+  "노인": { "replacement": "🧓", "description": "older person" },
+  "늙은이": { "replacement": "👴", "description": "old man" },
+  "나이든 여자": { "replacement": "👵", "description": "old woman" },
+  "찡그린 사람": { "replacement": "🙍", "description": "person frowning" },
+  "찡그린 남자": { "replacement": "🙍‍♂️", "description": "man frowning" },
+  "찡그린 여자": { "replacement": "🙍‍♀️", "description": "woman frowning" },
+  "삐죽 얼굴": { "replacement": "🙎", "description": "person pouting" },
+  "삐죽 남자": { "replacement": "🙎‍♂️", "description": "man pouting" },
+  "삐죽 여자": { "replacement": "🙎‍♀️", "description": "woman pouting" },
+  "좋지 않다": { "replacement": "🙅", "description": "person gesturing NO" },
+  "좋은 사람이 아니야": {
+    "replacement": "🙅‍♂️",
+    "description": "man gesturing NO"
+  },
+  "좋은 여자가 아니야": {
+    "replacement": "🙅‍♀️",
+    "description": "woman gesturing NO"
+  },
+  "그래 사람": { "replacement": "🙆", "description": "person gesturing OK" },
+  "알았어": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "그래 여자": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "팁 손 사람": { "replacement": "💁", "description": "person tipping hand" },
+  "팁 손 남자": { "replacement": "💁‍♂️", "description": "man tipping hand" },
+  "팁 손 여자": { "replacement": "💁‍♀️", "description": "woman tipping hand" },
+  "손 남자 올리기": { "replacement": "🙋‍♂️", "description": "man raising hand" },
+  "손 여자 양육": { "replacement": "🙋‍♀️", "description": "woman raising hand" },
+  "청각 장애인": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "귀머거리 여자": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "활": { "replacement": "🙇", "description": "person bowing" },
+  "절하는 남자": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "굴복 여자": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "안면 손바닥": { "replacement": "🤦", "description": "person facepalming" },
+  "남자 얼굴": { "replacement": "🤦‍♂️", "description": "man facepalming" },
+  "여자 facepalming": {
+    "replacement": "🤦‍♀️",
+    "description": "woman facepalming"
+  },
+  "어깨를 으쓱하다": { "replacement": "🤷", "description": "person shrugging" },
+  "어깨를 으쓱하는 남자": {
+    "replacement": "🤷‍♂️",
+    "description": "man shrugging"
+  },
+  "어깨를 으쓱하는 여자": {
+    "replacement": "🤷‍♀️",
+    "description": "woman shrugging"
+  },
+  "보건 종사자": { "replacement": "🧑‍⚕️", "description": "health worker" },
+  "남자 건강 노동자": {
+    "replacement": "👨‍⚕️",
+    "description": "man health worker"
+  },
+  "여성 건강 노동자": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "학생": { "replacement": "🧑‍🎓", "description": "student" },
+  "남자 학생": { "replacement": "👨‍🎓", "description": "man student" },
+  "여자 학생": { "replacement": "👩‍🎓", "description": "woman student" },
+  "선생님": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "남자 선생님": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "여자 선생님": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "판사": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "남자 판사": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "여자 판사": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "농장주": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "남자 농부": { "replacement": "👨‍🌾", "description": "man farmer" },
+  "여자 농부": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "쿡": { "replacement": "🧑‍🍳", "description": "cook" },
+  "남자 요리사": { "replacement": "👨‍🍳", "description": "man cook" },
+  "여자 요리사": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "정비공": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "남자 정비사": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "여자 정비사": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "공장 노동자": { "replacement": "🧑‍🏭", "description": "factory worker" },
+  "남자 공장 노동자": {
+    "replacement": "👨‍🏭",
+    "description": "man factory worker"
+  },
+  "여자 공장 노동자": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "회사원": { "replacement": "🧑‍💼", "description": "office worker" },
+  "남자 회사원": { "replacement": "👨‍💼", "description": "man office worker" },
+  "여자 회사원": { "replacement": "👩‍💼", "description": "woman office worker" },
+  "과학자": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "남자 과학자": { "replacement": "👨‍🔬", "description": "man scientist" },
+  "여성 과학자": { "replacement": "👩‍🔬", "description": "woman scientist" },
+  "과학 기술자": { "replacement": "🧑‍💻", "description": "technologist" },
+  "남자 기술자": { "replacement": "👨‍💻", "description": "man technologist" },
+  "여성 기술자": { "replacement": "👩‍💻", "description": "woman technologist" },
+  "가수": { "replacement": "🧑‍🎤", "description": "singer" },
+  "남자 가수": { "replacement": "👨‍🎤", "description": "man singer" },
+  "여자 가수": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "예술가": { "replacement": "🧑‍🎨", "description": "artist" },
+  "남자 예술가": { "replacement": "👨‍🎨", "description": "man artist" },
+  "여자 예술가": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "조종사": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "남자 조종사": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "여자 조종사": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "우주 비행사": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "남자 우주 비행사": { "replacement": "👨‍🚀", "description": "man astronaut" },
+  "여자 우주 비행사": { "replacement": "👩‍🚀", "description": "woman astronaut" },
+  "소방관": { "replacement": "🧑‍🚒", "description": "firefighter" },
+  "남자 소방관": { "replacement": "👨‍🚒", "description": "man firefighter" },
+  "여자 소방관": { "replacement": "👩‍🚒", "description": "woman firefighter" },
+  "경찰관": { "replacement": "👮", "description": "police officer" },
+  "경관": { "replacement": "👮‍♂️", "description": "man police officer" },
+  "여경": { "replacement": "👮‍♀️", "description": "woman police officer" },
+  "형사": { "replacement": "🕵️", "description": "detective" },
+  "남성 형사": { "replacement": "🕵️‍♂️", "description": "man detective" },
+  "여성 탐정": { "replacement": "🕵️‍♀️", "description": "woman detective" },
+  "가드": { "replacement": "💂", "description": "guard" },
+  "위병": { "replacement": "💂‍♂️", "description": "man guard" },
+  "경비원": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "닌자": { "replacement": "🥷", "description": "ninja" },
+  "건설 노동자": { "replacement": "👷", "description": "construction worker" },
+  "건설 노동자 남자": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "건설 노동자 여자": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "왕자": { "replacement": "🤴", "description": "prince" },
+  "공주님": { "replacement": "👸", "description": "princess" },
+  "터번을 가진 사람": {
+    "replacement": "👳",
+    "description": "person wearing turban"
+  },
+  "터번을 가진 남자": {
+    "replacement": "👳‍♂️",
+    "description": "man wearing turban"
+  },
+  "터번을 가진 여자": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "gua pi mao를 가진 남자": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "headscarf를 가진 여자": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "턱시도 입은 사람": {
+    "replacement": "🤵",
+    "description": "person in tuxedo"
+  },
+  "턱시도 입은 남자": {
+    "replacement": "🤵‍♂️",
+    "description": "man in tuxedo"
+  },
+  "턱시도에 여자": { "replacement": "🤵‍♀️", "description": "woman in tuxedo" },
+  "베일을 가진 사람": {
+    "replacement": "👰",
+    "description": "person with veil"
+  },
+  "베일을 가진 남자": {
+    "replacement": "👰‍♂️",
+    "description": "man with veil"
+  },
+  "베일을 가진 여자": {
+    "replacement": "👰‍♀️",
+    "description": "woman with veil"
+  },
+  "임산부": { "replacement": "🤰", "description": "pregnant woman" },
+  "모유 수유": { "replacement": "🤱", "description": "breast-feeding" },
+  "여자 먹이 아기": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "남자 먹이 아기": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "아기를 먹이는 사람": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "천사": { "replacement": "👼", "description": "baby angel" },
+  "산타": { "replacement": "🎅", "description": "Santa Claus" },
+  "부인 클로스": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "MX 클로스": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "슈퍼 히어로": { "replacement": "🦸", "description": "superhero" },
+  "슈퍼 히어로 남자": { "replacement": "🦸‍♂️", "description": "man superhero" },
+  "슈퍼 히어로 여자": { "replacement": "🦸‍♀️", "description": "woman superhero" },
+  "슈퍼 악당": { "replacement": "🦹", "description": "supervillain" },
+  "슈퍼 악당 남자": { "replacement": "🦹‍♂️", "description": "man supervillain" },
+  "슈퍼 빌런 여자": {
+    "replacement": "🦹‍♀️",
+    "description": "woman supervillain"
+  },
+  "마술사": { "replacement": "🧙", "description": "mage" },
+  "마법사 남자": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "마법사 여자": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "요정": { "replacement": "🧞", "description": "genie" },
+  "요정 남자": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "요정 여자": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "흡혈귀": { "replacement": "🧛", "description": "vampire" },
+  "뱀파이어 남자": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "뱀파이어 여자": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "상인": { "replacement": "🧜", "description": "merperson" },
+  "인어": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "꼬마 요정": { "replacement": "🧝", "description": "elf" },
+  "엘프 맨": { "replacement": "🧝‍♂️", "description": "man elf" },
+  "엘프 여자": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "지니 맨": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "지니 여자": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "좀비": { "replacement": "🧟", "description": "zombie" },
+  "좀비 맨": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "좀비 여자": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "마사지": { "replacement": "💆", "description": "person getting massage" },
+  "마사지 맨": { "replacement": "💆‍♂️", "description": "man getting massage" },
+  "마사지 여자": {
+    "replacement": "💆‍♀️",
+    "description": "woman getting massage"
+  },
+  "이발": { "replacement": "💇", "description": "person getting haircut" },
+  "이발 남자": { "replacement": "💇‍♂️", "description": "man getting haircut" },
+  "이발 여자": { "replacement": "💇‍♀️", "description": "woman getting haircut" },
+  "보행": { "replacement": "🚶", "description": "person walking" },
+  "걷는 남자": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "걷는 여자": { "replacement": "🚶‍♀️", "description": "woman walking" },
+  "서있는 사람": { "replacement": "🧍", "description": "person standing" },
+  "서있는 남자": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "서있는 여자": { "replacement": "🧍‍♀️", "description": "woman standing" },
+  "무릎을 꿇은 사람": { "replacement": "🧎", "description": "person kneeling" },
+  "무릎을 꿇은 남자": { "replacement": "🧎‍♂️", "description": "man kneeling" },
+  "무릎 꿇는 여자": { "replacement": "🧎‍♀️", "description": "woman kneeling" },
+  "프로빙 지팡이를 가진 사람": {
+    "replacement": "🧑‍🦯",
+    "description": "person with white cane"
+  },
+  "프로빙 지팡이 가진 남자": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "프로빙 지팡이 가진 여자": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "전동 휠체어를 탄 사람": {
+    "replacement": "🧑‍🦼",
+    "description": "person in motorized wheelchair"
+  },
+  "전동 휠체어에 남자": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "전동 휠체어에서 여자": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "수동 휠체어를 탄 사람": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "수동 휠체어에 남자": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "수동 휠체어에 여자": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "달리는 사람": { "replacement": "🏃", "description": "person running" },
+  "런닝 맨": { "replacement": "🏃‍♂️", "description": "man running" },
+  "달리는 여자": { "replacement": "🏃‍♀️", "description": "woman running" },
+  "춤추는 여자": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "춤추는 남자": { "replacement": "👯‍♂️", "description": "men with bunny ears" },
+  "비즈니스 정장 공중 부양": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "댄서": { "replacement": "👯", "description": "people with bunny ears" },
+  "사우나 사람": {
+    "replacement": "🧖",
+    "description": "person in steamy room"
+  },
+  "사우나 남자": { "replacement": "🧖‍♂️", "description": "man in steamy room" },
+  "사우나 여자": { "replacement": "🧖‍♀️", "description": "woman in steamy room" },
+  "등반": { "replacement": "🧗", "description": "person climbing" },
+  "등반 남자": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "등산 여자": { "replacement": "🧗‍♀️", "description": "woman climbing" },
+  "사람 펜싱": { "replacement": "🤺", "description": "person fencing" },
+  "경마": { "replacement": "🏇", "description": "horse racing" },
+  "스키 타는 사람": { "replacement": "⛷️", "description": "skier" },
+  "스노 보더": { "replacement": "🏂", "description": "snowboarder" },
+  "골프": { "replacement": "⛳", "description": "flag in hole" },
+  "골프 남자": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "골프 여자": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "서퍼": { "replacement": "🏄", "description": "person surfing" },
+  "서핑 남자": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "서핑 여자": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "노 젓는 배": { "replacement": "🚣", "description": "person rowing boat" },
+  "로잉 맨": { "replacement": "🚣‍♂️", "description": "man rowing boat" },
+  "조정 여자": { "replacement": "🚣‍♀️", "description": "woman rowing boat" },
+  "헤엄 치는 사람": { "replacement": "🏊", "description": "person swimming" },
+  "수영 남자": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "수영 여자": { "replacement": "🏊‍♀️", "description": "woman swimming" },
+  "튀는 공 사람": {
+    "replacement": "⛹️",
+    "description": "person bouncing ball"
+  },
+  "튀는 공 남자": { "replacement": "⛹️‍♂️", "description": "man bouncing ball" },
+  "튀는 공 여자": { "replacement": "⛹️‍♀️", "description": "woman bouncing ball" },
+  "역도": { "replacement": "🏋️", "description": "person lifting weights" },
+  "역도 남자": { "replacement": "🏋️‍♂️", "description": "man lifting weights" },
+  "역도 여자": { "replacement": "🏋️‍♀️", "description": "woman lifting weights" },
+  "자전거 타는 사람": { "replacement": "🚴", "description": "person biking" },
+  "자전거를 타는 사람": { "replacement": "🚴‍♂️", "description": "man biking" },
+  "자전거를 타는 여자": { "replacement": "🚴‍♀️", "description": "woman biking" },
+  "산악 자전거": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "산악 자전거를 타는 사람": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "산악 자전거를 타는 여자": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "수레 바퀴": { "replacement": "🤸", "description": "person cartwheeling" },
+  "수레 바퀴 남자": { "replacement": "🤸‍♂️", "description": "man cartwheeling" },
+  "손수레를 타는 여자": {
+    "replacement": "🤸‍♀️",
+    "description": "woman cartwheeling"
+  },
+  "레슬링": { "replacement": "🤼", "description": "people wrestling" },
+  "레슬링하는 남자": { "replacement": "🤼‍♂️", "description": "men wrestling" },
+  "레슬링하는 여성": { "replacement": "🤼‍♀️", "description": "women wrestling" },
+  "수구": { "replacement": "🤽", "description": "person playing water polo" },
+  "남자 수구를 연주": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "여자 수구를 연주": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "핸드볼 사람": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "핸드볼을하는 남자": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "여자 핸드볼 게임": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "저글링 사람": { "replacement": "🤹", "description": "person juggling" },
+  "저글링하는 남자": { "replacement": "🤹‍♂️", "description": "man juggling" },
+  "저글링하는 여자": { "replacement": "🤹‍♀️", "description": "woman juggling" },
+  "연꽃 위치": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "로터스 위치 남자": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "로터스 위치 여자": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "목욕": { "replacement": "🛀", "description": "person taking bath" },
+  "잠자는 침대": { "replacement": "🛌", "description": "person in bed" },
+  "사람들이 손을 잡고": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "손을 잡고 두 여자": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "두": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "두 사람이 손을 잡고": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "커플 키스": { "replacement": "💏", "description": "kiss" },
+  "couplekiss 남자 여자": {
+    "replacement": "👩‍❤️‍💋‍👨",
+    "description": "kiss: woman, man"
+  },
+  "커플 키스 남자 남자": {
+    "replacement": "👨‍❤️‍💋‍👨",
+    "description": "kiss: man, man"
+  },
+  "couplekiss 여자 여자": {
+    "replacement": "👩‍❤️‍💋‍👩",
+    "description": "kiss: woman, woman"
+  },
+  "마음으로 커플": { "replacement": "💑", "description": "couple with heart" },
+  "심장 여자 남자와 커플": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "심장 남자 남자와 커플": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "심장 여자 여자와 커플": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "가족": { "replacement": "👪", "description": "family" },
+  "가족 남자 여자 소년": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "가족 남자 여자 소녀": {
+    "replacement": "👨‍👩‍👧",
+    "description": "family: man, woman, girl"
+  },
+  "가족 남자 여자 소녀 소년": {
+    "replacement": "👨‍👩‍👧‍👦",
+    "description": "family: man, woman, girl, boy"
+  },
+  "가족 남자 여자 소년 소년": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "가족 남자 여자 소녀 소녀": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "가족 남자 남자 소년": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "가족 남자 남자 여자": {
+    "replacement": "👨‍👨‍👧",
+    "description": "family: man, man, girl"
+  },
+  "가족 남자 남자 소녀 소년": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "가족 남자 남자 소년 소년": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "가족 남자 남자 소녀 소녀": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "가족 여자 여자 소년": {
+    "replacement": "👩‍👩‍👦",
+    "description": "family: woman, woman, boy"
+  },
+  "가족 여자 여자 소녀": {
+    "replacement": "👩‍👩‍👧",
+    "description": "family: woman, woman, girl"
+  },
+  "가족 여자 여자 소녀 소년": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "가족 여자 여자 소년 소년": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "가족 여자 여자 소녀 소녀": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "가족 남자 소년": { "replacement": "👨‍👦", "description": "family: man, boy" },
+  "가족 남자 소년 소년": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "가족 남자 여자": { "replacement": "👨‍👧", "description": "family: man, girl" },
+  "가족 남자 소녀 소년": {
+    "replacement": "👨‍👧‍👦",
+    "description": "family: man, girl, boy"
+  },
+  "가족 남자 소녀 소녀": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "가족 여자 소년": {
+    "replacement": "👩‍👦",
+    "description": "family: woman, boy"
+  },
+  "가족 여자 소년 소년": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "가족 여자 소녀": {
+    "replacement": "👩‍👧",
+    "description": "family: woman, girl"
+  },
+  "가족 여자 소녀 소년": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "가족 여자 소녀 소녀": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "말하는 머리": { "replacement": "🗣️", "description": "speaking head" },
+  "실루엣 흉상": { "replacement": "👥", "description": "busts in silhouette" },
+  "포옹하는 사람들": { "replacement": "🫂", "description": "people hugging" },
+  "발자취": { "replacement": "👣", "description": "footprints" },
+  "원숭이 얼굴": { "replacement": "🐵", "description": "monkey face" },
+  "원숭이": { "replacement": "🐒", "description": "monkey" },
+  "고릴라": { "replacement": "🦍", "description": "gorilla" },
+  "오랑우탄": { "replacement": "🦧", "description": "orangutan" },
+  "개": { "replacement": "🐶", "description": "dog face" },
+  "dog2": { "replacement": "🐕", "description": "dog" },
+  "안내견": { "replacement": "🦮", "description": "guide dog" },
+  "서비스 견": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "푸들": { "replacement": "🐩", "description": "poodle" },
+  "늑대": { "replacement": "🐺", "description": "wolf" },
+  "여우 얼굴": { "replacement": "🦊", "description": "fox" },
+  "너구리": { "replacement": "🦝", "description": "raccoon" },
+  "고양이": { "replacement": "🐱", "description": "cat face" },
+  "고양이 2": { "replacement": "🐈", "description": "cat" },
+  "검은 고양이": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "사자": { "replacement": "🦁", "description": "lion" },
+  "호랑이": { "replacement": "🐯", "description": "tiger face" },
+  "tiger2": { "replacement": "🐅", "description": "tiger" },
+  "표범": { "replacement": "🐆", "description": "leopard" },
+  "말": { "replacement": "🐴", "description": "horse face" },
+  "경주마": { "replacement": "🐎", "description": "horse" },
+  "일각수": { "replacement": "🦄", "description": "unicorn" },
+  "얼룩말": { "replacement": "🦓", "description": "zebra" },
+  "사슴": { "replacement": "🦌", "description": "deer" },
+  "바이슨": { "replacement": "🦬", "description": "bison" },
+  "소": { "replacement": "🐂", "description": "ox" },
+  "물소": { "replacement": "🐃", "description": "water buffalo" },
+  "cow2": { "replacement": "🐄", "description": "cow" },
+  "돼지": { "replacement": "🐷", "description": "pig face" },
+  "돼지 2": { "replacement": "🐖", "description": "pig" },
+  "수퇘지": { "replacement": "🐗", "description": "boar" },
+  "돼지 코": { "replacement": "🐽", "description": "pig nose" },
+  "램": { "replacement": "🐏", "description": "ram" },
+  "양": { "replacement": "🐑", "description": "ewe" },
+  "염소": { "replacement": "🐐", "description": "goat" },
+  "단봉 낙타": { "replacement": "🐪", "description": "camel" },
+  "낙타": { "replacement": "🐫", "description": "two-hump camel" },
+  "야마": { "replacement": "🦙", "description": "llama" },
+  "기린": { "replacement": "🦒", "description": "giraffe" },
+  "코끼리": { "replacement": "🐘", "description": "elephant" },
+  "거대한": { "replacement": "🦣", "description": "mammoth" },
+  "코뿔소": { "replacement": "🦏", "description": "rhinoceros" },
+  "하마": { "replacement": "🦛", "description": "hippopotamus" },
+  "쥐": { "replacement": "🐀", "description": "rat" },
+  "mouse2": { "replacement": "🐁", "description": "mouse" },
+  "햄스터": { "replacement": "🐹", "description": "hamster" },
+  "토끼": { "replacement": "🐰", "description": "rabbit face" },
+  "토끼 2": { "replacement": "🐇", "description": "rabbit" },
+  "다람쥐": { "replacement": "🐿️", "description": "chipmunk" },
+  "비버": { "replacement": "🦫", "description": "beaver" },
+  "고슴도치": { "replacement": "🦔", "description": "hedgehog" },
+  "박쥐": { "replacement": "🦇", "description": "bat" },
+  "곰": { "replacement": "🐻", "description": "bear" },
+  "북극곰": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "코알라": { "replacement": "🐨", "description": "koala" },
+  "팬더 얼굴": { "replacement": "🐼", "description": "panda" },
+  "나태": { "replacement": "🦥", "description": "sloth" },
+  "수달": { "replacement": "🦦", "description": "otter" },
+  "스컹크": { "replacement": "🦨", "description": "skunk" },
+  "캥거루": { "replacement": "🦘", "description": "kangaroo" },
+  "오소리": { "replacement": "🦡", "description": "badger" },
+  "피트": { "replacement": "🐾", "description": "paw prints" },
+  "터키": { "replacement": "🦃", "description": "turkey" },
+  "치킨": { "replacement": "🐔", "description": "chicken" },
+  "수탉": { "replacement": "🐓", "description": "rooster" },
+  "병아리를 부화": { "replacement": "🐣", "description": "hatching chick" },
+  "아기 병아리": { "replacement": "🐤", "description": "baby chick" },
+  "부화 한 병아리": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "새": { "replacement": "🐦", "description": "bird" },
+  "펭귄": { "replacement": "🐧", "description": "penguin" },
+  "비둘기": { "replacement": "🕊️", "description": "dove" },
+  "독수리": { "replacement": "🦅", "description": "eagle" },
+  "오리": { "replacement": "🦆", "description": "duck" },
+  "백조": { "replacement": "🦢", "description": "swan" },
+  "올빼미": { "replacement": "🦉", "description": "owl" },
+  "도도": { "replacement": "🦤", "description": "dodo" },
+  "깃": { "replacement": "🪶", "description": "feather" },
+  "플라밍고": { "replacement": "🦩", "description": "flamingo" },
+  "공작": { "replacement": "🦚", "description": "peacock" },
+  "앵무새": { "replacement": "🦜", "description": "parrot" },
+  "개구리": { "replacement": "🐸", "description": "frog" },
+  "악어": { "replacement": "🐊", "description": "crocodile" },
+  "터틀": { "replacement": "🐢", "description": "turtle" },
+  "도마뱀": { "replacement": "🦎", "description": "lizard" },
+  "뱀": { "replacement": "🐍", "description": "snake" },
+  "용 얼굴": { "replacement": "🐲", "description": "dragon face" },
+  "용": { "replacement": "🐉", "description": "dragon" },
+  "용각류": { "replacement": "🦕", "description": "sauropod" },
+  "T- 렉스": { "replacement": "🦖", "description": "T-Rex" },
+  "고래": { "replacement": "🐳", "description": "spouting whale" },
+  "whale2": { "replacement": "🐋", "description": "whale" },
+  "돌고래": { "replacement": "🐬", "description": "dolphin" },
+  "봉인": { "replacement": "🦭", "description": "seal" },
+  "물고기": { "replacement": "♓", "description": "Pisces" },
+  "열대어": { "replacement": "🐠", "description": "tropical fish" },
+  "복어": { "replacement": "🐡", "description": "blowfish" },
+  "상어": { "replacement": "🦈", "description": "shark" },
+  "문어": { "replacement": "🐙", "description": "octopus" },
+  "껍질": { "replacement": "🐚", "description": "spiral shell" },
+  "달팽이": { "replacement": "🐌", "description": "snail" },
+  "나비": { "replacement": "🦋", "description": "butterfly" },
+  "곤충": { "replacement": "🐛", "description": "bug" },
+  "개미": { "replacement": "🐜", "description": "ant" },
+  "벌": { "replacement": "🐝", "description": "honeybee" },
+  "딱정벌레": { "replacement": "🪲", "description": "beetle" },
+  "레이디 딱정벌레": { "replacement": "🐞", "description": "lady beetle" },
+  "크리켓": { "replacement": "🦗", "description": "cricket" },
+  "바퀴벌레": { "replacement": "🪳", "description": "cockroach" },
+  "거미": { "replacement": "🕷️", "description": "spider" },
+  "거미줄": { "replacement": "🕸️", "description": "spider web" },
+  "투석기": { "replacement": "🦂", "description": "scorpion" },
+  "모기": { "replacement": "🦟", "description": "mosquito" },
+  "파리": { "replacement": "🪰", "description": "fly" },
+  "벌레": { "replacement": "🪱", "description": "worm" },
+  "미생물": { "replacement": "🦠", "description": "microbe" },
+  "꽃다발": { "replacement": "💐", "description": "bouquet" },
+  "벚꽃": { "replacement": "🌸", "description": "cherry blossom" },
+  "흰 꽃": { "replacement": "💮", "description": "white flower" },
+  "장미 매듭": { "replacement": "🏵️", "description": "rosette" },
+  "장미": { "replacement": "🌹", "description": "rose" },
+  "시든 꽃": { "replacement": "🥀", "description": "wilted flower" },
+  "히비스커스": { "replacement": "🌺", "description": "hibiscus" },
+  "해바라기": { "replacement": "🌻", "description": "sunflower" },
+  "꽃": { "replacement": "🌼", "description": "blossom" },
+  "튤립": { "replacement": "🌷", "description": "tulip" },
+  "모": { "replacement": "🌱", "description": "seedling" },
+  "화분": { "replacement": "🪴", "description": "potted plant" },
+  "상록수": { "replacement": "🌲", "description": "evergreen tree" },
+  "낙엽수": { "replacement": "🌳", "description": "deciduous tree" },
+  "야자수": { "replacement": "🌴", "description": "palm tree" },
+  "선인장": { "replacement": "🌵", "description": "cactus" },
+  "쌀 이삭": { "replacement": "🌾", "description": "sheaf of rice" },
+  "목초": { "replacement": "🌿", "description": "herb" },
+  "토끼풀": { "replacement": "☘️", "description": "shamrock" },
+  "네 잎 클로버": { "replacement": "🍀", "description": "four leaf clover" },
+  "단풍잎": { "replacement": "🍁", "description": "maple leaf" },
+  "낙엽": { "replacement": "🍂", "description": "fallen leaf" },
+  "이파리": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "포도": { "replacement": "🍇", "description": "grapes" },
+  "멜론": { "replacement": "🍈", "description": "melon" },
+  "수박": { "replacement": "🍉", "description": "watermelon" },
+  "귤": { "replacement": "🍊", "description": "tangerine" },
+  "레몬": { "replacement": "🍋", "description": "lemon" },
+  "바나나": { "replacement": "🍌", "description": "banana" },
+  "파인애플": { "replacement": "🍍", "description": "pineapple" },
+  "망고": { "replacement": "🥭", "description": "mango" },
+  "사과": { "replacement": "🍎", "description": "red apple" },
+  "녹색 사과": { "replacement": "🍏", "description": "green apple" },
+  "배": { "replacement": "🚢", "description": "ship" },
+  "복숭아": { "replacement": "🍑", "description": "peach" },
+  "버찌": { "replacement": "🍒", "description": "cherries" },
+  "딸기": { "replacement": "🍓", "description": "strawberry" },
+  "블루 베리": { "replacement": "🫐", "description": "blueberries" },
+  "키위 과일": { "replacement": "🥝", "description": "kiwi fruit" },
+  "토마토": { "replacement": "🍅", "description": "tomato" },
+  "올리브": { "replacement": "🫒", "description": "olive" },
+  "코코넛": { "replacement": "🥥", "description": "coconut" },
+  "아보카도": { "replacement": "🥑", "description": "avocado" },
+  "가지": { "replacement": "🍆", "description": "eggplant" },
+  "감자": { "replacement": "🥔", "description": "potato" },
+  "당근": { "replacement": "🥕", "description": "carrot" },
+  "옥수수": { "replacement": "🌽", "description": "ear of corn" },
+  "매운 고추": { "replacement": "🌶️", "description": "hot pepper" },
+  "피망": { "replacement": "🫑", "description": "bell pepper" },
+  "오이": { "replacement": "🥒", "description": "cucumber" },
+  "잎이 많은 녹색": { "replacement": "🥬", "description": "leafy green" },
+  "브로콜리": { "replacement": "🥦", "description": "broccoli" },
+  "마늘": { "replacement": "🧄", "description": "garlic" },
+  "양파": { "replacement": "🧅", "description": "onion" },
+  "버섯": { "replacement": "🍄", "description": "mushroom" },
+  "땅콩": { "replacement": "🥜", "description": "peanuts" },
+  "밤나무": { "replacement": "🌰", "description": "chestnut" },
+  "빵": { "replacement": "🍞", "description": "bread" },
+  "크로와상": { "replacement": "🥐", "description": "croissant" },
+  "바게트 빵": { "replacement": "🥖", "description": "baguette bread" },
+  "플랫 브레드": { "replacement": "🫓", "description": "flatbread" },
+  "프레첼": { "replacement": "🥨", "description": "pretzel" },
+  "베이글": { "replacement": "🥯", "description": "bagel" },
+  "팬케이크": { "replacement": "🥞", "description": "pancakes" },
+  "와플": { "replacement": "🧇", "description": "waffle" },
+  "치즈": { "replacement": "🧀", "description": "cheese wedge" },
+  "뼈에 고기": { "replacement": "🍖", "description": "meat on bone" },
+  "가금류 다리": { "replacement": "🍗", "description": "poultry leg" },
+  "고기를 잘라": { "replacement": "🥩", "description": "cut of meat" },
+  "베이컨": { "replacement": "🥓", "description": "bacon" },
+  "햄버거": { "replacement": "🍔", "description": "hamburger" },
+  "튀김": { "replacement": "🍟", "description": "french fries" },
+  "피자": { "replacement": "🍕", "description": "pizza" },
+  "핫도그": { "replacement": "🌭", "description": "hot dog" },
+  "샌드위치": { "replacement": "🥪", "description": "sandwich" },
+  "타코": { "replacement": "🌮", "description": "taco" },
+  "부리또": { "replacement": "🌯", "description": "burrito" },
+  "타 말레": { "replacement": "🫔", "description": "tamale" },
+  "박제 빵": { "replacement": "🥙", "description": "stuffed flatbread" },
+  "팔라 펠": { "replacement": "🧆", "description": "falafel" },
+  "계란": { "replacement": "🥚", "description": "egg" },
+  "계란 후라이": { "replacement": "🍳", "description": "cooking" },
+  "음식의 얕은 팬": {
+    "replacement": "🥘",
+    "description": "shallow pan of food"
+  },
+  "스튜": { "replacement": "🍲", "description": "pot of food" },
+  "폰듀": { "replacement": "🫕", "description": "fondue" },
+  "숟가락으로 그릇": { "replacement": "🥣", "description": "bowl with spoon" },
+  "그린 샐러드": { "replacement": "🥗", "description": "green salad" },
+  "팝콘": { "replacement": "🍿", "description": "popcorn" },
+  "버터": { "replacement": "🧈", "description": "butter" },
+  "소금": { "replacement": "🧂", "description": "salt" },
+  "통조림 식품": { "replacement": "🥫", "description": "canned food" },
+  "도시락": { "replacement": "🍱", "description": "bento box" },
+  "쌀 과자": { "replacement": "🍘", "description": "rice cracker" },
+  "주먹밥": { "replacement": "🍙", "description": "rice ball" },
+  "쌀": { "replacement": "🍚", "description": "cooked rice" },
+  "카레": { "replacement": "🍛", "description": "curry rice" },
+  "라면": { "replacement": "🍜", "description": "steaming bowl" },
+  "스파게티": { "replacement": "🍝", "description": "spaghetti" },
+  "고구마": { "replacement": "🍠", "description": "roasted sweet potato" },
+  "오뎅": { "replacement": "🍢", "description": "oden" },
+  "회": { "replacement": "🍣", "description": "sushi" },
+  "새우 튀김": { "replacement": "🍤", "description": "fried shrimp" },
+  "어묵": { "replacement": "🍥", "description": "fish cake with swirl" },
+  "월병": { "replacement": "🥮", "description": "moon cake" },
+  "단고": { "replacement": "🍡", "description": "dango" },
+  "심": { "replacement": "🥟", "description": "dumpling" },
+  "포춘 쿠키": { "replacement": "🥠", "description": "fortune cookie" },
+  "테이크 아웃 상자": { "replacement": "🥡", "description": "takeout box" },
+  "게": { "replacement": "🦀", "description": "crab" },
+  "랍스터": { "replacement": "🦞", "description": "lobster" },
+  "새우": { "replacement": "🦐", "description": "shrimp" },
+  "오징어": { "replacement": "🦑", "description": "squid" },
+  "굴": { "replacement": "🦪", "description": "oyster" },
+  "아이스크림": { "replacement": "🍨", "description": "ice cream" },
+  "빙수": { "replacement": "🍧", "description": "shaved ice" },
+  "도넛": { "replacement": "🍩", "description": "doughnut" },
+  "쿠키": { "replacement": "🍪", "description": "cookie" },
+  "생신": { "replacement": "🎂", "description": "birthday cake" },
+  "케이크": { "replacement": "🍰", "description": "shortcake" },
+  "컵케익": { "replacement": "🧁", "description": "cupcake" },
+  "파이": { "replacement": "🥧", "description": "pie" },
+  "초콜릿 바": { "replacement": "🍫", "description": "chocolate bar" },
+  "사탕": { "replacement": "🍬", "description": "candy" },
+  "사탕 과자": { "replacement": "🍭", "description": "lollipop" },
+  "커스터드": { "replacement": "🍮", "description": "custard" },
+  "꿀단지": { "replacement": "🍯", "description": "honey pot" },
+  "젖병": { "replacement": "🍼", "description": "baby bottle" },
+  "우유 유리": { "replacement": "🥛", "description": "glass of milk" },
+  "커피": { "replacement": "☕", "description": "hot beverage" },
+  "주전자": { "replacement": "🫖", "description": "teapot" },
+  "차": { "replacement": "🚗", "description": "automobile" },
+  "때문": { "replacement": "🍶", "description": "sake" },
+  "샴페인": { "replacement": "🍾", "description": "bottle with popping cork" },
+  "와인 잔": { "replacement": "🍷", "description": "wine glass" },
+  "칵테일": { "replacement": "🍸", "description": "cocktail glass" },
+  "열대 음료": { "replacement": "🍹", "description": "tropical drink" },
+  "맥주": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "부딪 치는 안경": { "replacement": "🥂", "description": "clinking glasses" },
+  "텀블러 유리": { "replacement": "🥃", "description": "tumbler glass" },
+  "빨대로 컵": { "replacement": "🥤", "description": "cup with straw" },
+  "버블티": { "replacement": "🧋", "description": "bubble tea" },
+  "음료수 상자": { "replacement": "🧃", "description": "beverage box" },
+  "항해사": { "replacement": "🧉", "description": "mate" },
+  "아이스 큐브": { "replacement": "🧊", "description": "ice" },
+  "젓가락": { "replacement": "🥢", "description": "chopsticks" },
+  "칼 붙이 접시": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "포크와 나이프": { "replacement": "🍴", "description": "fork and knife" },
+  "숟가락": { "replacement": "🥄", "description": "spoon" },
+  "호초": { "replacement": "🔪", "description": "kitchen knife" },
+  "암포라": { "replacement": "🏺", "description": "amphora" },
+  "지구 아프리카": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "지구 아메리카": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "지구 아시아": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "자오선이있는 지구": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "세계지도": { "replacement": "🗺️", "description": "world map" },
+  "일본": { "replacement": "🗾", "description": "map of Japan" },
+  "나침반": { "replacement": "🧭", "description": "compass" },
+  "산 눈": { "replacement": "🏔️", "description": "snow-capped mountain" },
+  "산": { "replacement": "⛰️", "description": "mountain" },
+  "화산": { "replacement": "🌋", "description": "volcano" },
+  "후지산": { "replacement": "🗻", "description": "mount fuji" },
+  "캠핑": { "replacement": "🏕️", "description": "camping" },
+  "비치 파라솔": { "replacement": "🏖️", "description": "beach with umbrella" },
+  "사막": { "replacement": "🏜️", "description": "desert" },
+  "무인도": { "replacement": "🏝️", "description": "desert island" },
+  "국립 공원": { "replacement": "🏞️", "description": "national park" },
+  "경기장": { "replacement": "🏟️", "description": "stadium" },
+  "고전 건물": { "replacement": "🏛️", "description": "classical building" },
+  "건물 건설": { "replacement": "🏗️", "description": "building construction" },
+  "벽돌": { "replacement": "🧱", "description": "brick" },
+  "록": { "replacement": "🪨", "description": "rock" },
+  "목재": { "replacement": "🪵", "description": "wood" },
+  "오두막": { "replacement": "🛖", "description": "hut" },
+  "주택": { "replacement": "🏘️", "description": "houses" },
+  "외딴 집": { "replacement": "🏚️", "description": "derelict house" },
+  "집": { "replacement": "🏠", "description": "house" },
+  "정원이있는 집": { "replacement": "🏡", "description": "house with garden" },
+  "사무실": { "replacement": "🏢", "description": "office building" },
+  "우체국": { "replacement": "🏣", "description": "Japanese post office" },
+  "유럽 ​​우체국": { "replacement": "🏤", "description": "post office" },
+  "병원": { "replacement": "🏥", "description": "hospital" },
+  "은행": { "replacement": "🏦", "description": "bank" },
+  "호텔": { "replacement": "🏨", "description": "hotel" },
+  "러브 호텔": { "replacement": "🏩", "description": "love hotel" },
+  "편의점": { "replacement": "🏪", "description": "convenience store" },
+  "학교": { "replacement": "🏫", "description": "school" },
+  "백화점": { "replacement": "🏬", "description": "department store" },
+  "공장": { "replacement": "🏭", "description": "factory" },
+  "일본 성": { "replacement": "🏯", "description": "Japanese castle" },
+  "유럽 ​​성": { "replacement": "🏰", "description": "castle" },
+  "혼례": { "replacement": "💒", "description": "wedding" },
+  "도쿄 타워": { "replacement": "🗼", "description": "Tokyo tower" },
+  "자유의 여신상": { "replacement": "🗽", "description": "Statue of Liberty" },
+  "교회에": { "replacement": "⛪", "description": "church" },
+  "사원": { "replacement": "🕌", "description": "mosque" },
+  "힌두교 사원": { "replacement": "🛕", "description": "hindu temple" },
+  "유태 교회당": { "replacement": "🕍", "description": "synagogue" },
+  "신사": { "replacement": "⛩️", "description": "shinto shrine" },
+  "Kaaba": { "replacement": "🕋", "description": "kaaba" },
+  "분수": { "replacement": "⛲", "description": "fountain" },
+  "텐트": { "replacement": "⛺", "description": "tent" },
+  "흐린": { "replacement": "🌁", "description": "foggy" },
+  "별이있는 밤": { "replacement": "🌃", "description": "night with stars" },
+  "도시 풍경": { "replacement": "🏙️", "description": "cityscape" },
+  "산 위로 일출": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "해돋이": { "replacement": "🌅", "description": "sunrise" },
+  "도시 일몰": { "replacement": "🌆", "description": "cityscape at dusk" },
+  "도시 일출": { "replacement": "🌇", "description": "sunset" },
+  "밤에 다리": { "replacement": "🌉", "description": "bridge at night" },
+  "온천": { "replacement": "♨️", "description": "hot springs" },
+  "회전 목마 말": { "replacement": "🎠", "description": "carousel horse" },
+  "관람차": { "replacement": "🎡", "description": "ferris wheel" },
+  "롤러 코스터": { "replacement": "🎢", "description": "roller coaster" },
+  "이발사": { "replacement": "💈", "description": "barber pole" },
+  "서커스 텐트": { "replacement": "🎪", "description": "circus tent" },
+  "증기 기관차": { "replacement": "🚂", "description": "locomotive" },
+  "철도 차량": { "replacement": "🚃", "description": "railway car" },
+  "bullettrain 측": { "replacement": "🚄", "description": "high-speed train" },
+  "총알 열차 앞": { "replacement": "🚅", "description": "bullet train" },
+  "train2": { "replacement": "🚆", "description": "train" },
+  "지하철": { "replacement": "🚇", "description": "metro" },
+  "경전철": { "replacement": "🚈", "description": "light rail" },
+  "역": { "replacement": "🚉", "description": "station" },
+  "시가 전차": { "replacement": "🚊", "description": "tram" },
+  "모노레일": { "replacement": "🚝", "description": "monorail" },
+  "산악 철도": { "replacement": "🚞", "description": "mountain railway" },
+  "기차": { "replacement": "🚋", "description": "tram car" },
+  "버스": { "replacement": "🚌", "description": "bus" },
+  "다가오는 버스": { "replacement": "🚍", "description": "oncoming bus" },
+  "무궤도 전차": { "replacement": "🚎", "description": "trolleybus" },
+  "소형 버스": { "replacement": "🚐", "description": "minibus" },
+  "구급차": { "replacement": "🚑", "description": "ambulance" },
+  "소방차": { "replacement": "🚒", "description": "fire engine" },
+  "경찰차": { "replacement": "🚓", "description": "police car" },
+  "다가오는 경찰차": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "택시": { "replacement": "🚕", "description": "taxi" },
+  "다가오는 택시": { "replacement": "🚖", "description": "oncoming taxi" },
+  "다가오는 자동차": {
+    "replacement": "🚘",
+    "description": "oncoming automobile"
+  },
+  "파란 차": { "replacement": "🚙", "description": "sport utility vehicle" },
+  "픽업 트럭": { "replacement": "🛻", "description": "pickup truck" },
+  "트럭": { "replacement": "🚚", "description": "delivery truck" },
+  "관절 트럭": { "replacement": "🚛", "description": "articulated lorry" },
+  "트랙터": { "replacement": "🚜", "description": "tractor" },
+  "경주 용 자동차": { "replacement": "🏎️", "description": "racing car" },
+  "오토바이": { "replacement": "🏍️", "description": "motorcycle" },
+  "모터 스쿠터": { "replacement": "🛵", "description": "motor scooter" },
+  "수동 휠체어": { "replacement": "🦽", "description": "manual wheelchair" },
+  "전동 휠체어": { "replacement": "🦼", "description": "motorized wheelchair" },
+  "자동 인력거": { "replacement": "🛺", "description": "auto rickshaw" },
+  "자전거": { "replacement": "🚲", "description": "bicycle" },
+  "킥 스쿠터": { "replacement": "🛴", "description": "kick scooter" },
+  "스케이트 보드": { "replacement": "🛹", "description": "skateboard" },
+  "롤러 스케이트": { "replacement": "🛼", "description": "roller skate" },
+  "버스 정류장": { "replacement": "🚏", "description": "bus stop" },
+  "고속 도로": { "replacement": "🛣️", "description": "motorway" },
+  "기찻길": { "replacement": "🛤️", "description": "railway track" },
+  "기름 통": { "replacement": "🛢️", "description": "oil drum" },
+  "연료 펌프": { "replacement": "⛽", "description": "fuel pump" },
+  "회전 조명": { "replacement": "🚨", "description": "police car light" },
+  "신호등": { "replacement": "🚥", "description": "horizontal traffic light" },
+  "수직 신호등": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "정지 신호": { "replacement": "🛑", "description": "stop sign" },
+  "구성": { "replacement": "🚧", "description": "construction" },
+  "닻": { "replacement": "⚓", "description": "anchor" },
+  "보트": { "replacement": "⛵", "description": "sailboat" },
+  "카누": { "replacement": "🛶", "description": "canoe" },
+  "쾌속정": { "replacement": "🚤", "description": "speedboat" },
+  "여객선": { "replacement": "🛳️", "description": "passenger ship" },
+  "나룻배": { "replacement": "⛴️", "description": "ferry" },
+  "모터 보트": { "replacement": "🛥️", "description": "motor boat" },
+  "비행기": { "replacement": "✈️", "description": "airplane" },
+  "작은 비행기": { "replacement": "🛩️", "description": "small airplane" },
+  "항공편 출발": { "replacement": "🛫", "description": "airplane departure" },
+  "비행 도착": { "replacement": "🛬", "description": "airplane arrival" },
+  "낙하산": { "replacement": "🪂", "description": "parachute" },
+  "좌석": { "replacement": "💺", "description": "seat" },
+  "헬리콥터": { "replacement": "🚁", "description": "helicopter" },
+  "서스펜션 철도": { "replacement": "🚟", "description": "suspension railway" },
+  "산 케이블카": { "replacement": "🚠", "description": "mountain cableway" },
+  "공중 전차": { "replacement": "🚡", "description": "aerial tramway" },
+  "인공위성": { "replacement": "🛰️", "description": "satellite" },
+  "로켓": { "replacement": "🚀", "description": "rocket" },
+  "비행 접시": { "replacement": "🛸", "description": "flying saucer" },
+  "벨보이 벨": { "replacement": "🛎️", "description": "bellhop bell" },
+  "짐": { "replacement": "🧳", "description": "luggage" },
+  "모래 시계": { "replacement": "⌛", "description": "hourglass done" },
+  "모래 시계 흐르는 모래": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "손목 시계": { "replacement": "⌚", "description": "watch" },
+  "알람 시계": { "replacement": "⏰", "description": "alarm clock" },
+  "스톱워치": { "replacement": "⏱️", "description": "stopwatch" },
+  "타이머 시계": { "replacement": "⏲️", "description": "timer clock" },
+  "벽난로 시계": { "replacement": "🕰️", "description": "mantelpiece clock" },
+  "clock12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "시계 1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "clock1": { "replacement": "🕐", "description": "one o’clock" },
+  "시계 130": { "replacement": "🕜", "description": "one-thirty" },
+  "clock2": { "replacement": "🕑", "description": "two o’clock" },
+  "시계 230": { "replacement": "🕝", "description": "two-thirty" },
+  "clock3": { "replacement": "🕒", "description": "three o’clock" },
+  "시계 330": { "replacement": "🕞", "description": "three-thirty" },
+  "clock4": { "replacement": "🕓", "description": "four o’clock" },
+  "시계 430": { "replacement": "🕟", "description": "four-thirty" },
+  "clock5": { "replacement": "🕔", "description": "five o’clock" },
+  "시계 530": { "replacement": "🕠", "description": "five-thirty" },
+  "clock6": { "replacement": "🕕", "description": "six o’clock" },
+  "시계 630": { "replacement": "🕡", "description": "six-thirty" },
+  "clock7": { "replacement": "🕖", "description": "seven o’clock" },
+  "시계 730": { "replacement": "🕢", "description": "seven-thirty" },
+  "clock8": { "replacement": "🕗", "description": "eight o’clock" },
+  "시계 830": { "replacement": "🕣", "description": "eight-thirty" },
+  "clock9": { "replacement": "🕘", "description": "nine o’clock" },
+  "시계 930": { "replacement": "🕤", "description": "nine-thirty" },
+  "clock10": { "replacement": "🕙", "description": "ten o’clock" },
+  "시계 1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "clock11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "시계 1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "뉴 문": { "replacement": "🌑", "description": "new moon" },
+  "초승달": { "replacement": "🌙", "description": "crescent moon" },
+  "1/4 분기": { "replacement": "🌓", "description": "first quarter moon" },
+  "달": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "보름달": { "replacement": "🌕", "description": "full moon" },
+  "약 해지는 초승달": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "지난 분기 달": { "replacement": "🌗", "description": "last quarter moon" },
+  "얼굴을 가진 초승달": { "replacement": "🌚", "description": "new moon face" },
+  "얼굴이있는 1/4 분기 달": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "얼굴이있는 지난 분기 달": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "온도계": { "replacement": "🌡️", "description": "thermometer" },
+  "맑은": { "replacement": "☀️", "description": "sun" },
+  "얼굴 보름달": { "replacement": "🌝", "description": "full moon face" },
+  "얼굴로 태양": { "replacement": "🌞", "description": "sun with face" },
+  "고리 형 행성": { "replacement": "🪐", "description": "ringed planet" },
+  "별": { "replacement": "🌠", "description": "shooting star" },
+  "star2": { "replacement": "🌟", "description": "glowing star" },
+  "은하수": { "replacement": "🌌", "description": "milky way" },
+  "구름": { "replacement": "☁️", "description": "cloud" },
+  "부분적으로 맑은": { "replacement": "⛅", "description": "sun behind cloud" },
+  "번개와 비와 구름": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "작은 구름 뒤에 태양": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "큰 구름 뒤에 태양": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "비 구름 뒤에 태양": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "비와 구름": { "replacement": "🌧️", "description": "cloud with rain" },
+  "눈 구름": { "replacement": "🌨️", "description": "cloud with snow" },
+  "번개와 구름": { "replacement": "🌩️", "description": "cloud with lightning" },
+  "폭풍": { "replacement": "🌪️", "description": "tornado" },
+  "안개": { "replacement": "🌫️", "description": "fog" },
+  "바람의 얼굴": { "replacement": "🌬️", "description": "wind face" },
+  "집진 장치": { "replacement": "🌀", "description": "cyclone" },
+  "무지개": { "replacement": "🌈", "description": "rainbow" },
+  "닫힌 우산": { "replacement": "🌂", "description": "closed umbrella" },
+  "열린 우산": { "replacement": "☂️", "description": "umbrella" },
+  "우산": { "replacement": "☔", "description": "umbrella with rain drops" },
+  "지상에 파라솔": { "replacement": "⛱️", "description": "umbrella on ground" },
+  "기력": { "replacement": "⚡", "description": "high voltage" },
+  "눈송이": { "replacement": "❄️", "description": "snowflake" },
+  "눈 눈사람": { "replacement": "☃️", "description": "snowman" },
+  "눈사람": { "replacement": "⛄", "description": "snowman without snow" },
+  "혜성": { "replacement": "☄️", "description": "comet" },
+  "불": { "replacement": "🔥", "description": "fire" },
+  "작은 물방울": { "replacement": "💧", "description": "droplet" },
+  "대양": { "replacement": "🌊", "description": "water wave" },
+  "잭 오 랜턴": { "replacement": "🎃", "description": "jack-o-lantern" },
+  "크리스마스 트리": { "replacement": "🎄", "description": "Christmas tree" },
+  "불꽃": { "replacement": "❇️", "description": "sparkle" },
+  "빛나는 것": { "replacement": "🎇", "description": "sparkler" },
+  "폭죽": { "replacement": "🧨", "description": "firecracker" },
+  "반짝임": { "replacement": "✨", "description": "sparkles" },
+  "풍선": { "replacement": "🎈", "description": "balloon" },
+  "타다": { "replacement": "🎉", "description": "party popper" },
+  "색종이 공": { "replacement": "🎊", "description": "confetti ball" },
+  "칠석 나무": { "replacement": "🎋", "description": "tanabata tree" },
+  "대나무": { "replacement": "🎍", "description": "pine decoration" },
+  "인형": { "replacement": "🎎", "description": "Japanese dolls" },
+  "깃발": { "replacement": "🎏", "description": "carp streamer" },
+  "바람 차임": { "replacement": "🎐", "description": "wind chime" },
+  "쌀 장면": { "replacement": "🎑", "description": "moon viewing ceremony" },
+  "빨간 봉투": { "replacement": "🧧", "description": "red envelope" },
+  "리본": { "replacement": "🎀", "description": "ribbon" },
+  "선물": { "replacement": "🎁", "description": "wrapped gift" },
+  "알림 리본": { "replacement": "🎗️", "description": "reminder ribbon" },
+  "티켓": { "replacement": "🎫", "description": "ticket" },
+  "메달 군대": { "replacement": "🎖️", "description": "military medal" },
+  "트로피": { "replacement": "🏆", "description": "trophy" },
+  "메달 스포츠": { "replacement": "🏅", "description": "sports medal" },
+  "1 위 메달": { "replacement": "🥇", "description": "1st place medal" },
+  "2 위 메달": { "replacement": "🥈", "description": "2nd place medal" },
+  "3 위 메달": { "replacement": "🥉", "description": "3rd place medal" },
+  "축구": { "replacement": "🏈", "description": "american football" },
+  "야구": { "replacement": "⚾", "description": "baseball" },
+  "소프트볼": { "replacement": "🥎", "description": "softball" },
+  "농구": { "replacement": "🏀", "description": "basketball" },
+  "배구": { "replacement": "🏐", "description": "volleyball" },
+  "럭비 축구": { "replacement": "🏉", "description": "rugby football" },
+  "테니스": { "replacement": "🎾", "description": "tennis" },
+  "플라잉 디스크": { "replacement": "🥏", "description": "flying disc" },
+  "볼링": { "replacement": "🎳", "description": "bowling" },
+  "크리켓 경기": { "replacement": "🏏", "description": "cricket game" },
+  "필드 하키": { "replacement": "🏑", "description": "field hockey" },
+  "아이스 하키": { "replacement": "🏒", "description": "ice hockey" },
+  "라크로스": { "replacement": "🥍", "description": "lacrosse" },
+  "탁구": { "replacement": "🏓", "description": "ping pong" },
+  "배드민턴": { "replacement": "🏸", "description": "badminton" },
+  "권투 글러브": { "replacement": "🥊", "description": "boxing glove" },
+  "무술 유니폼": { "replacement": "🥋", "description": "martial arts uniform" },
+  "골넷": { "replacement": "🥅", "description": "goal net" },
+  "아이스 스케이트": { "replacement": "⛸️", "description": "ice skate" },
+  "낚싯대와 물고기": { "replacement": "🎣", "description": "fishing pole" },
+  "다이빙 마스크": { "replacement": "🤿", "description": "diving mask" },
+  "새시가 달린 러닝 셔츠": {
+    "replacement": "🎽",
+    "description": "running shirt"
+  },
+  "스키": { "replacement": "🎿", "description": "skis" },
+  "썰매": { "replacement": "🛷", "description": "sled" },
+  "컬링 스톤": { "replacement": "🥌", "description": "curling stone" },
+  "다트": { "replacement": "🎯", "description": "direct hit" },
+  "yo yo": { "replacement": "🪀", "description": "yo-yo" },
+  "연": { "replacement": "🪁", "description": "kite" },
+  "8 볼": { "replacement": "🎱", "description": "pool 8 ball" },
+  "수정 구슬": { "replacement": "🔮", "description": "crystal ball" },
+  "마법의 지팡이": { "replacement": "🪄", "description": "magic wand" },
+  "나자르 부적": { "replacement": "🧿", "description": "nazar amulet" },
+  "비디오 게임": { "replacement": "🎮", "description": "video game" },
+  "조종간": { "replacement": "🕹️", "description": "joystick" },
+  "슬롯 머신": { "replacement": "🎰", "description": "slot machine" },
+  "게임 다이": { "replacement": "🎲", "description": "game die" },
+  "실톱": { "replacement": "🧩", "description": "puzzle piece" },
+  "테디 베어": { "replacement": "🧸", "description": "teddy bear" },
+  "피 나타": { "replacement": "🪅", "description": "piñata" },
+  "중첩 인형": { "replacement": "🪆", "description": "nesting dolls" },
+  "스페이드 한 벌": { "replacement": "♠️", "description": "spade suit" },
+  "하트": { "replacement": "♥️", "description": "heart suit" },
+  "다이아 패 한 벌": { "replacement": "♦️", "description": "diamond suit" },
+  "클럽": { "replacement": "♣️", "description": "club suit" },
+  "체스 폰": { "replacement": "♟️", "description": "chess pawn" },
+  "블랙 조커": { "replacement": "🃏", "description": "joker" },
+  "마작": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "꽃 카드 놀이": {
+    "replacement": "🎴",
+    "description": "flower playing cards"
+  },
+  "공연 예술": { "replacement": "🎭", "description": "performing arts" },
+  "액자 사진": { "replacement": "🖼️", "description": "framed picture" },
+  "미술": { "replacement": "🎨", "description": "artist palette" },
+  "실": { "replacement": "🧶", "description": "yarn" },
+  "재봉 바늘": { "replacement": "🪡", "description": "sewing needle" },
+  "매듭": { "replacement": "🪢", "description": "knot" },
+  "안경": { "replacement": "👓", "description": "glasses" },
+  "어두운 선글라스": { "replacement": "🕶️", "description": "sunglasses" },
+  "고글": { "replacement": "🥽", "description": "goggles" },
+  "실험복": { "replacement": "🥼", "description": "lab coat" },
+  "안전 조끼": { "replacement": "🦺", "description": "safety vest" },
+  "넥타이": { "replacement": "👔", "description": "necktie" },
+  "셔츠": { "replacement": "👕", "description": "t-shirt" },
+  "청바지": { "replacement": "👖", "description": "jeans" },
+  "스카프": { "replacement": "🧣", "description": "scarf" },
+  "장갑": { "replacement": "🧤", "description": "gloves" },
+  "코트": { "replacement": "🧥", "description": "coat" },
+  "양말": { "replacement": "🧦", "description": "socks" },
+  "드레스": { "replacement": "👗", "description": "dress" },
+  "키모노": { "replacement": "👘", "description": "kimono" },
+  "사리": { "replacement": "🥻", "description": "sari" },
+  "원피스 수영복": { "replacement": "🩱", "description": "one-piece swimsuit" },
+  "브리핑 수영": { "replacement": "🩲", "description": "briefs" },
+  "반바지": { "replacement": "🩳", "description": "shorts" },
+  "비키니": { "replacement": "👙", "description": "bikini" },
+  "여성 의류": { "replacement": "👚", "description": "woman’s clothes" },
+  "지갑": { "replacement": "👛", "description": "purse" },
+  "핸드백": { "replacement": "👜", "description": "handbag" },
+  "작은 주머니": { "replacement": "👝", "description": "clutch bag" },
+  "쇼핑": { "replacement": "🛍️", "description": "shopping bags" },
+  "학교 가방": { "replacement": "🎒", "description": "backpack" },
+  "끈 샌들": { "replacement": "🩴", "description": "thong sandal" },
+  "망 신발": { "replacement": "👞", "description": "man’s shoe" },
+  "운동화": { "replacement": "👟", "description": "running shoe" },
+  "하이킹 부츠": { "replacement": "🥾", "description": "hiking boot" },
+  "플랫 슈즈": { "replacement": "🥿", "description": "flat shoe" },
+  "하이힐": { "replacement": "👠", "description": "high-heeled shoe" },
+  "샌들": { "replacement": "👡", "description": "woman’s sandal" },
+  "발레 슈즈": { "replacement": "🩰", "description": "ballet shoes" },
+  "신병": { "replacement": "👢", "description": "woman’s boot" },
+  "왕관": { "replacement": "👑", "description": "crown" },
+  "여성 모자": { "replacement": "👒", "description": "woman’s hat" },
+  "모자": { "replacement": "🎩", "description": "top hat" },
+  "박격포 보드": { "replacement": "🎓", "description": "graduation cap" },
+  "청구 한도": { "replacement": "🧢", "description": "billed cap" },
+  "군용 헬멧": { "replacement": "🪖", "description": "military helmet" },
+  "구조 작업자 헬멧": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "염주": { "replacement": "📿", "description": "prayer beads" },
+  "립스틱": { "replacement": "💄", "description": "lipstick" },
+  "반지": { "replacement": "💍", "description": "ring" },
+  "보석": { "replacement": "💎", "description": "gem stone" },
+  "음소거": { "replacement": "🔇", "description": "muted speaker" },
+  "스피커": { "replacement": "🔈", "description": "speaker low volume" },
+  "소리": { "replacement": "🔉", "description": "speaker medium volume" },
+  "소음": { "replacement": "🔊", "description": "speaker high volume" },
+  "확성기": { "replacement": "📢", "description": "loudspeaker" },
+  "메가": { "replacement": "📣", "description": "megaphone" },
+  "우편 경적": { "replacement": "📯", "description": "postal horn" },
+  "벨": { "replacement": "🔔", "description": "bell" },
+  "종 없음": { "replacement": "🔕", "description": "bell with slash" },
+  "악보": { "replacement": "🎼", "description": "musical score" },
+  "음표": { "replacement": "🎵", "description": "musical note" },
+  "메모": { "replacement": "📝", "description": "memo" },
+  "스튜디오 마이크": {
+    "replacement": "🎙️",
+    "description": "studio microphone"
+  },
+  "레벨 슬라이더": { "replacement": "🎚️", "description": "level slider" },
+  "컨트롤 노브": { "replacement": "🎛️", "description": "control knobs" },
+  "마이크로폰": { "replacement": "🎤", "description": "microphone" },
+  "헤드폰": { "replacement": "🎧", "description": "headphone" },
+  "라디오": { "replacement": "📻", "description": "radio" },
+  "색소폰": { "replacement": "🎷", "description": "saxophone" },
+  "아코디언": { "replacement": "🪗", "description": "accordion" },
+  "기타": { "replacement": "🎸", "description": "guitar" },
+  "음악 키보드": { "replacement": "🎹", "description": "musical keyboard" },
+  "트럼펫": { "replacement": "🎺", "description": "trumpet" },
+  "바이올린": { "replacement": "🎻", "description": "violin" },
+  "밴조": { "replacement": "🪕", "description": "banjo" },
+  "북": { "replacement": "🥁", "description": "drum" },
+  "긴 드럼": { "replacement": "🪘", "description": "long drum" },
+  "아이폰": { "replacement": "📱", "description": "mobile phone" },
+  "부름": { "replacement": "📲", "description": "mobile phone with arrow" },
+  "전화": { "replacement": "☎️", "description": "telephone" },
+  "전화 수신기": { "replacement": "📞", "description": "telephone receiver" },
+  "휴대용 소형 무선 호출기": { "replacement": "📟", "description": "pager" },
+  "팩스": { "replacement": "📠", "description": "fax machine" },
+  "배터리": { "replacement": "🔋", "description": "battery" },
+  "전기 플러그": { "replacement": "🔌", "description": "electric plug" },
+  "컴퓨터": { "replacement": "💻", "description": "laptop" },
+  "데스크탑 컴퓨터": { "replacement": "🖥️", "description": "desktop computer" },
+  "인쇄기": { "replacement": "🖨️", "description": "printer" },
+  "건반": { "replacement": "⌨️", "description": "keyboard" },
+  "컴퓨터 마우스": { "replacement": "🖱️", "description": "computer mouse" },
+  "트랙볼": { "replacement": "🖲️", "description": "trackball" },
+  "미니 디스크": { "replacement": "💽", "description": "computer disk" },
+  "플로피 디스크": { "replacement": "💾", "description": "floppy disk" },
+  "CD": { "replacement": "💿", "description": "optical disk" },
+  "DVD": { "replacement": "📀", "description": "dvd" },
+  "주판": { "replacement": "🧮", "description": "abacus" },
+  "영화 카메라": { "replacement": "🎥", "description": "movie camera" },
+  "필름 스트립": { "replacement": "🎞️", "description": "film frames" },
+  "필름 프로젝터": { "replacement": "📽️", "description": "film projector" },
+  "설렁": { "replacement": "🎬", "description": "clapper board" },
+  "TV": { "replacement": "📺", "description": "television" },
+  "카메라": { "replacement": "📷", "description": "camera" },
+  "카메라 플래시": { "replacement": "📸", "description": "camera with flash" },
+  "비디오 카메라": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "잡지": {
+    "replacement": "🔍",
+    "description": "magnifying glass tilted left"
+  },
+  "매그 오른쪽": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "양초": { "replacement": "🕯️", "description": "candle" },
+  "구근": { "replacement": "💡", "description": "light bulb" },
+  "플래시": { "replacement": "🔦", "description": "flashlight" },
+  "이자카야 랜턴": { "replacement": "🏮", "description": "red paper lantern" },
+  "디야 램프": { "replacement": "🪔", "description": "diya lamp" },
+  "장식용 커버가있는 노트북": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "닫힌 책": { "replacement": "📕", "description": "closed book" },
+  "도서": { "replacement": "📖", "description": "open book" },
+  "녹색 책": { "replacement": "📗", "description": "green book" },
+  "파란 책": { "replacement": "📘", "description": "blue book" },
+  "오렌지 책": { "replacement": "📙", "description": "orange book" },
+  "서적": { "replacement": "📚", "description": "books" },
+  "공책": { "replacement": "📓", "description": "notebook" },
+  "원장": { "replacement": "📒", "description": "ledger" },
+  "컬이있는 페이지": { "replacement": "📃", "description": "page with curl" },
+  "스크롤": { "replacement": "📜", "description": "scroll" },
+  "페이지가 위로 향함": {
+    "replacement": "📄",
+    "description": "page facing up"
+  },
+  "신문": { "replacement": "📰", "description": "newspaper" },
+  "신문 롤": { "replacement": "🗞️", "description": "rolled-up newspaper" },
+  "북마크 탭": { "replacement": "📑", "description": "bookmark tabs" },
+  "서표": { "replacement": "🔖", "description": "bookmark" },
+  "상표": { "replacement": "🏷️", "description": "label" },
+  "돈 가방": { "replacement": "💰", "description": "money bag" },
+  "동전": { "replacement": "🪙", "description": "coin" },
+  "엔": { "replacement": "💴", "description": "yen banknote" },
+  "달러": { "replacement": "💵", "description": "dollar banknote" },
+  "유로": { "replacement": "💶", "description": "euro banknote" },
+  "파운드": { "replacement": "💷", "description": "pound banknote" },
+  "날개 달린 돈": { "replacement": "💸", "description": "money with wings" },
+  "신용 카드": { "replacement": "💳", "description": "credit card" },
+  "영수증": { "replacement": "🧾", "description": "receipt" },
+  "차트": { "replacement": "💹", "description": "chart increasing with yen" },
+  "이메일": { "replacement": "📧", "description": "e-mail" },
+  "들어오는 봉투": { "replacement": "📨", "description": "incoming envelope" },
+  "화살표가있는 봉투": {
+    "replacement": "📩",
+    "description": "envelope with arrow"
+  },
+  "보낼 편지함 트레이": { "replacement": "📤", "description": "outbox tray" },
+  "받은 편지함 트레이": { "replacement": "📥", "description": "inbox tray" },
+  "꾸러미": { "replacement": "📦", "description": "package" },
+  "사서함": {
+    "replacement": "📫",
+    "description": "closed mailbox with raised flag"
+  },
+  "사서함 폐쇄": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "우편함 우편함": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "메일이없는 사서함": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "게시물 상자": { "replacement": "📮", "description": "postbox" },
+  "투표함": { "replacement": "🗳️", "description": "ballot box with ballot" },
+  "연필 2": { "replacement": "✏️", "description": "pencil" },
+  "검은 펜촉": { "replacement": "✒️", "description": "black nib" },
+  "만년필": { "replacement": "🖋️", "description": "fountain pen" },
+  "펜": { "replacement": "🖊️", "description": "pen" },
+  "화필": { "replacement": "🖌️", "description": "paintbrush" },
+  "크레용": { "replacement": "🖍️", "description": "crayon" },
+  "서류 가방": { "replacement": "💼", "description": "briefcase" },
+  "파일 폴더": { "replacement": "📁", "description": "file folder" },
+  "파일 폴더 열기": { "replacement": "📂", "description": "open file folder" },
+  "카드 인덱스 분할기": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "데이트": { "replacement": "📅", "description": "calendar" },
+  "달력": { "replacement": "📆", "description": "tear-off calendar" },
+  "나선형 메모장": { "replacement": "🗒️", "description": "spiral notepad" },
+  "나선형 달력": { "replacement": "🗓️", "description": "spiral calendar" },
+  "카드 색인": { "replacement": "📇", "description": "card index" },
+  "상승 추세 차트": { "replacement": "📈", "description": "chart increasing" },
+  "하향 추세 차트": { "replacement": "📉", "description": "chart decreasing" },
+  "막대 차트": { "replacement": "📊", "description": "bar chart" },
+  "클립 보드": { "replacement": "📋", "description": "clipboard" },
+  "압정": { "replacement": "📌", "description": "pushpin" },
+  "둥근 압정": { "replacement": "📍", "description": "round pushpin" },
+  "클립": { "replacement": "📎", "description": "paperclip" },
+  "종이 클립": { "replacement": "🖇️", "description": "linked paperclips" },
+  "직선 자": { "replacement": "📏", "description": "straight ruler" },
+  "삼각자": { "replacement": "📐", "description": "triangular ruler" },
+  "가위": { "replacement": "✂️", "description": "scissors" },
+  "카드 파일 상자": { "replacement": "🗃️", "description": "card file box" },
+  "파일 캐비닛": { "replacement": "🗄️", "description": "file cabinet" },
+  "쓰레기통": { "replacement": "🗑️", "description": "wastebasket" },
+  "자물쇠": { "replacement": "🔒", "description": "locked" },
+  "터놓다": { "replacement": "🔓", "description": "unlocked" },
+  "잉크 펜으로 잠금": { "replacement": "🔏", "description": "locked with pen" },
+  "열쇠로 잠긴 자물쇠": {
+    "replacement": "🔐",
+    "description": "locked with key"
+  },
+  "키": { "replacement": "🔑", "description": "key" },
+  "이전 키": { "replacement": "🗝️", "description": "old key" },
+  "망치": { "replacement": "🔨", "description": "hammer" },
+  "도끼": { "replacement": "🪓", "description": "axe" },
+  "선택": { "replacement": "⛏️", "description": "pick" },
+  "망치와 선택": { "replacement": "⚒️", "description": "hammer and pick" },
+  "망치와 렌치": { "replacement": "🛠️", "description": "hammer and wrench" },
+  "단검": { "replacement": "🗡️", "description": "dagger" },
+  "교차 칼": { "replacement": "⚔️", "description": "crossed swords" },
+  "총": { "replacement": "🔫", "description": "pistol" },
+  "부메랑": { "replacement": "🪃", "description": "boomerang" },
+  "활과 화살": { "replacement": "🏹", "description": "bow and arrow" },
+  "방패": { "replacement": "🛡️", "description": "shield" },
+  "목공 톱": { "replacement": "🪚", "description": "carpentry saw" },
+  "렌치": { "replacement": "🔧", "description": "wrench" },
+  "드라이버": { "replacement": "🪛", "description": "screwdriver" },
+  "너트와 볼트": { "replacement": "🔩", "description": "nut and bolt" },
+  "기어": { "replacement": "⚙️", "description": "gear" },
+  "집게": { "replacement": "🗜️", "description": "clamp" },
+  "균형 척도": { "replacement": "⚖️", "description": "balance scale" },
+  "프로빙 지팡이": { "replacement": "🦯", "description": "white cane" },
+  "링크": { "replacement": "🔗", "description": "link" },
+  "쇠사슬": { "replacement": "⛓️", "description": "chains" },
+  "훅": { "replacement": "🪝", "description": "hook" },
+  "공구 상자": { "replacement": "🧰", "description": "toolbox" },
+  "자석": { "replacement": "🧲", "description": "magnet" },
+  "사다리": { "replacement": "🪜", "description": "ladder" },
+  "증류기": { "replacement": "⚗️", "description": "alembic" },
+  "시험관": { "replacement": "🧪", "description": "test tube" },
+  "페트리 접시": { "replacement": "🧫", "description": "petri dish" },
+  "DNA": { "replacement": "🧬", "description": "dna" },
+  "현미경": { "replacement": "🔬", "description": "microscope" },
+  "망원경": { "replacement": "🔭", "description": "telescope" },
+  "위성": { "replacement": "📡", "description": "satellite antenna" },
+  "주사기": { "replacement": "💉", "description": "syringe" },
+  "피 한 방울": { "replacement": "🩸", "description": "drop of blood" },
+  "알약": { "replacement": "💊", "description": "pill" },
+  "접착 붕대": { "replacement": "🩹", "description": "adhesive bandage" },
+  "청진기": { "replacement": "🩺", "description": "stethoscope" },
+  "문": { "replacement": "🚪", "description": "door" },
+  "엘리베이터": { "replacement": "🛗", "description": "elevator" },
+  "거울": { "replacement": "🪞", "description": "mirror" },
+  "창문": { "replacement": "🪟", "description": "window" },
+  "침대": { "replacement": "🛏️", "description": "bed" },
+  "소파와 램프": { "replacement": "🛋️", "description": "couch and lamp" },
+  "의자": { "replacement": "🪑", "description": "chair" },
+  "화장실": { "replacement": "🚾", "description": "water closet" },
+  "플런저": { "replacement": "🪠", "description": "plunger" },
+  "샤워": { "replacement": "🚿", "description": "shower" },
+  "목욕통": { "replacement": "🛁", "description": "bathtub" },
+  "마우스 트랩": { "replacement": "🪤", "description": "mouse trap" },
+  "면도칼": { "replacement": "🪒", "description": "razor" },
+  "로션 병": { "replacement": "🧴", "description": "lotion bottle" },
+  "안전핀": { "replacement": "🧷", "description": "safety pin" },
+  "비": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "바구니": { "replacement": "🧺", "description": "basket" },
+  "종이 롤": { "replacement": "🧻", "description": "roll of paper" },
+  "버킷": { "replacement": "🪣", "description": "bucket" },
+  "비누": { "replacement": "🧼", "description": "soap" },
+  "칫솔": { "replacement": "🪥", "description": "toothbrush" },
+  "스펀지": { "replacement": "🧽", "description": "sponge" },
+  "소화기": { "replacement": "🧯", "description": "fire extinguisher" },
+  "쇼핑 카트": { "replacement": "🛒", "description": "shopping cart" },
+  "흡연": { "replacement": "🚬", "description": "cigarette" },
+  "관": { "replacement": "⚰️", "description": "coffin" },
+  "주춧돌": { "replacement": "🪦", "description": "headstone" },
+  "장례식 항아리": { "replacement": "⚱️", "description": "funeral urn" },
+  "모야이": { "replacement": "🗿", "description": "moai" },
+  "방": { "replacement": "🪧", "description": "placard" },
+  "ATM": { "replacement": "🏧", "description": "ATM sign" },
+  "쓰레기를 그 자리에 두다": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "식수": { "replacement": "🚰", "description": "potable water" },
+  "바퀴 달린 의자": { "replacement": "♿", "description": "wheelchair symbol" },
+  "망": { "replacement": "🚹", "description": "men’s room" },
+  "아기 기호": { "replacement": "🚼", "description": "baby symbol" },
+  "여권 통제": { "replacement": "🛂", "description": "passport control" },
+  "세관": { "replacement": "🛃", "description": "customs" },
+  "수하물 수취": { "replacement": "🛄", "description": "baggage claim" },
+  "왼쪽 수하물": { "replacement": "🛅", "description": "left luggage" },
+  "경고": { "replacement": "⚠️", "description": "warning" },
+  "횡단하는 어린이": {
+    "replacement": "🚸",
+    "description": "children crossing"
+  },
+  "출입 불가": { "replacement": "⛔", "description": "no entry" },
+  "진입 흔적 없음": { "replacement": "🚫", "description": "prohibited" },
+  "자전거 없음": { "replacement": "🚳", "description": "no bicycles" },
+  "금연": { "replacement": "🚭", "description": "no smoking" },
+  "쓰레기하지 마십시오": { "replacement": "🚯", "description": "no littering" },
+  "비 음용수": { "replacement": "🚱", "description": "non-potable water" },
+  "보행자 없음": { "replacement": "🚷", "description": "no pedestrians" },
+  "휴대 전화 없음": { "replacement": "📵", "description": "no mobile phones" },
+  "부족": { "replacement": "🔞", "description": "no one under eighteen" },
+  "방사성": { "replacement": "☢️", "description": "radioactive" },
+  "생물학적 위험": { "replacement": "☣️", "description": "biohazard" },
+  "위쪽 화살표": {
+    "replacement": "⤴️",
+    "description": "right arrow curving up"
+  },
+  "오른쪽 위 화살표": { "replacement": "↗️", "description": "up-right arrow" },
+  "오른쪽 화살표": { "replacement": "➡️", "description": "right arrow" },
+  "오른쪽 아래 화살표": {
+    "replacement": "↘️",
+    "description": "down-right arrow"
+  },
+  "아래쪽 화살표": { "replacement": "⏬", "description": "fast down button" },
+  "왼쪽 아래 화살표": { "replacement": "↙️", "description": "down-left arrow" },
+  "왼쪽 화살표": { "replacement": "⬅️", "description": "left arrow" },
+  "왼쪽 위 화살표": { "replacement": "↖️", "description": "up-left arrow" },
+  "왼쪽 오른쪽 화살표": {
+    "replacement": "↔️",
+    "description": "left-right arrow"
+  },
+  "후크가있는 왼쪽 화살표": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "화살표 오른쪽 훅": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "시계 방향 화살표": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "반 시계 방향 화살표": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "뒤": { "replacement": "🔙", "description": "BACK arrow" },
+  "종료": { "replacement": "🔚", "description": "END arrow" },
+  "의 위에": { "replacement": "🔛", "description": "ON! arrow" },
+  "곧": { "replacement": "🔜", "description": "SOON arrow" },
+  "상단": { "replacement": "🔝", "description": "TOP arrow" },
+  "예배 장소": { "replacement": "🛐", "description": "place of worship" },
+  "원자 기호": { "replacement": "⚛️", "description": "atom symbol" },
+  "옴": { "replacement": "🕉️", "description": "om" },
+  "다윗의 별": { "replacement": "✡️", "description": "star of David" },
+  "달마의 바퀴": { "replacement": "☸️", "description": "wheel of dharma" },
+  "음양": { "replacement": "☯️", "description": "yin yang" },
+  "라틴 십자가": { "replacement": "✝️", "description": "latin cross" },
+  "정통 십자가": { "replacement": "☦️", "description": "orthodox cross" },
+  "별과 초승달": { "replacement": "☪️", "description": "star and crescent" },
+  "평화의 상징": { "replacement": "☮️", "description": "peace symbol" },
+  "메 노라": { "replacement": "🕎", "description": "menorah" },
+  "6 각별": { "replacement": "🔯", "description": "dotted six-pointed star" },
+  "양자리": { "replacement": "♈", "description": "Aries" },
+  "황소 자리": { "replacement": "♉", "description": "Taurus" },
+  "쌍둥이 자리": { "replacement": "♊", "description": "Gemini" },
+  "암": { "replacement": "♋", "description": "Cancer" },
+  "사자 별자리": { "replacement": "♌", "description": "Leo" },
+  "처녀 자리": { "replacement": "♍", "description": "Virgo" },
+  "천칭": { "replacement": "♎", "description": "Libra" },
+  "전갈 자리": { "replacement": "♏", "description": "Scorpio" },
+  "궁수": { "replacement": "♐", "description": "Sagittarius" },
+  "염소 자리": { "replacement": "♑", "description": "Capricorn" },
+  "물병 자리": { "replacement": "♒", "description": "Aquarius" },
+  "오피 우 커스": { "replacement": "⛎", "description": "Ophiuchus" },
+  "오른쪽으로 꼬인 화살표": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "반복": { "replacement": "🔂", "description": "repeat single button" },
+  "앞으로 화살표": { "replacement": "▶️", "description": "play button" },
+  "빨리 감기": { "replacement": "⏩", "description": "fast-forward button" },
+  "다음 트랙 버튼": { "replacement": "⏭️", "description": "next track button" },
+  "재생 또는 일시 중지 버튼": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "뒤로 화살표": { "replacement": "◀️", "description": "reverse button" },
+  "되감기": { "replacement": "⏪", "description": "fast reverse button" },
+  "이전 트랙 버튼": { "replacement": "⏮️", "description": "last track button" },
+  "작은 위쪽 화살표": { "replacement": "🔼", "description": "upwards button" },
+  "두 배 위로 화살표": { "replacement": "⏫", "description": "fast up button" },
+  "작은 아래쪽 화살표": {
+    "replacement": "🔽",
+    "description": "downwards button"
+  },
+  "일시 중지 버튼": { "replacement": "⏸️", "description": "pause button" },
+  "중지 버튼": { "replacement": "⏹️", "description": "stop button" },
+  "녹음 버튼": { "replacement": "⏺️", "description": "record button" },
+  "탈출 버튼": { "replacement": "⏏️", "description": "eject button" },
+  "영화": { "replacement": "🎦", "description": "cinema" },
+  "낮은 밝기": { "replacement": "🔅", "description": "dim button" },
+  "고휘도": { "replacement": "🔆", "description": "bright button" },
+  "신호 강도": { "replacement": "📶", "description": "antenna bars" },
+  "진동 모드": { "replacement": "📳", "description": "vibration mode" },
+  "휴대폰 끄기": { "replacement": "📴", "description": "mobile phone off" },
+  "여성 기호": { "replacement": "♀️", "description": "female sign" },
+  "남성 기호": { "replacement": "♂️", "description": "male sign" },
+  "트랜스젠더 기호": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "무거운 곱셈 x": { "replacement": "✖️", "description": "multiply" },
+  "무거운 더하기 기호": { "replacement": "➕", "description": "plus" },
+  "무거운 빼기 기호": { "replacement": "➖", "description": "minus" },
+  "무거운 구분 기호": { "replacement": "➗", "description": "divide" },
+  "무한대": { "replacement": "♾️", "description": "infinity" },
+  "Bangbang": { "replacement": "‼️", "description": "double exclamation mark" },
+  "인터로 방": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "질문": { "replacement": "❓", "description": "question mark" },
+  "회색 질문": { "replacement": "❔", "description": "white question mark" },
+  "회색 느낌표": {
+    "replacement": "❕",
+    "description": "white exclamation mark"
+  },
+  "감탄": { "replacement": "❗", "description": "exclamation mark" },
+  "물결 모양의 대시": { "replacement": "〰️", "description": "wavy dash" },
+  "환전소": { "replacement": "💱", "description": "currency exchange" },
+  "무거운 달러 기호": {
+    "replacement": "💲",
+    "description": "heavy dollar sign"
+  },
+  "의료 기호": { "replacement": "⚕️", "description": "medical symbol" },
+  "재활용": { "replacement": "♻️", "description": "recycling symbol" },
+  "Fleur de Lis": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "삼지창": { "replacement": "🔱", "description": "trident emblem" },
+  "이름 배지": { "replacement": "📛", "description": "name badge" },
+  "초보자": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "영형": { "replacement": "⭕", "description": "hollow red circle" },
+  "흰색 확인 표시": { "replacement": "✅", "description": "check mark button" },
+  "체크 투표함": { "replacement": "☑️", "description": "check box with check" },
+  "무거운 체크 표시": { "replacement": "✔️", "description": "check mark" },
+  "엑스": { "replacement": "❌", "description": "cross mark" },
+  "음의 제곱 십자 표시": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "곱슬 루프": { "replacement": "➰", "description": "curly loop" },
+  "고리": { "replacement": "➿", "description": "double curly loop" },
+  "부품 교체 표시": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "8 개의 음성 별표": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "팔각 검은 별": { "replacement": "✴️", "description": "eight-pointed star" },
+  "저작권": { "replacement": "©️", "description": "copyright" },
+  "등기": { "replacement": "®️", "description": "registered" },
+  "tm": { "replacement": "™️", "description": "trade mark" },
+  "해시시": { "replacement": "#️⃣", "description": "keycap: #" },
+  "별표": { "replacement": "*️⃣", "description": "keycap: *" },
+  "제로": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "하나": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "세": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "네": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "다섯": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "육": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "일곱": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "여덟": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "아홉": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "키캡 10": { "replacement": "🔟", "description": "keycap: 10" },
+  "자본 abcd": { "replacement": "🔠", "description": "input latin uppercase" },
+  "abcd": { "replacement": "🔡", "description": "input latin lowercase" },
+  "기호": { "replacement": "🔣", "description": "input symbols" },
+  "알파벳": { "replacement": "🔤", "description": "input latin letters" },
+  "ㅏ": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "ab": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "cl": { "replacement": "🆑", "description": "CL button" },
+  "멋있는": { "replacement": "🆒", "description": "COOL button" },
+  "비어 있는": { "replacement": "🆓", "description": "FREE button" },
+  "정보 출처": { "replacement": "ℹ️", "description": "information" },
+  "신분증": { "replacement": "🆔", "description": "ID button" },
+  "미디엄": { "replacement": "Ⓜ️", "description": "circled M" },
+  "새로운": { "replacement": "🆕", "description": "NEW button" },
+  "ng": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "확인": { "replacement": "🆗", "description": "OK button" },
+  "주차": { "replacement": "🅿️", "description": "P button" },
+  "위급 신호": { "replacement": "🆘", "description": "SOS button" },
+  "쪽으로": { "replacement": "🆙", "description": "UP! button" },
+  "vs": { "replacement": "🆚", "description": "VS button" },
+  "코코": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "sa": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "표의 문자 장점": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "동의하기": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "축하합니다": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "비밀": { "replacement": "㊙️", "description": "Japanese “secret” button" },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "빨간색 원": { "replacement": "🔴", "description": "red circle" },
+  "주황색 원": { "replacement": "🟠", "description": "orange circle" },
+  "노란색 원": { "replacement": "🟡", "description": "yellow circle" },
+  "녹색 원": { "replacement": "🟢", "description": "green circle" },
+  "큰 파란색 원": { "replacement": "🔵", "description": "blue circle" },
+  "보라색 원": { "replacement": "🟣", "description": "purple circle" },
+  "갈색 원": { "replacement": "🟤", "description": "brown circle" },
+  "검은 색 원": { "replacement": "⚫", "description": "black circle" },
+  "흰색 원": { "replacement": "⚪", "description": "white circle" },
+  "붉은 광장": { "replacement": "🟥", "description": "red square" },
+  "주황색 사각형": { "replacement": "🟧", "description": "orange square" },
+  "노란색 사각형": { "replacement": "🟨", "description": "yellow square" },
+  "녹색 광장": { "replacement": "🟩", "description": "green square" },
+  "파란색 사각형": { "replacement": "🟦", "description": "blue square" },
+  "보라색 사각형": { "replacement": "🟪", "description": "purple square" },
+  "갈색 사각형": { "replacement": "🟫", "description": "brown square" },
+  "검은 색 큰 정사각형": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "흰색 큰 사각형": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "검은 색 중간 정사각형": {
+    "replacement": "◼️",
+    "description": "black medium square"
+  },
+  "흰색 중간 정사각형": {
+    "replacement": "◻️",
+    "description": "white medium square"
+  },
+  "검은 색 중간 작은 정사각형": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "흰색 중간 작은 정사각형": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "검은 색 작은 정사각형": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "흰색 작은 정사각형": {
+    "replacement": "▫️",
+    "description": "white small square"
+  },
+  "큰 주황색 다이아몬드": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "큰 파란색 다이아몬드": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "작은 주황색 다이아몬드": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "작은 파란색 다이아몬드": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "작은 빨간색 삼각형": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "아래로 작은 빨간 삼각형": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "내부에 점이있는 다이아몬드 모양": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "라디오 버튼": { "replacement": "🔘", "description": "radio button" },
+  "흰색 사각형 버튼": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "검은 색 사각형 버튼": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "체크 무늬 깃발": { "replacement": "🏁", "description": "chequered flag" },
+  "게시물에 삼각 깃발": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "교차 플래그": { "replacement": "🎌", "description": "crossed flags" },
+  "검은 깃발": { "replacement": "🏴", "description": "black flag" },
+  "백기": { "replacement": "🏳️", "description": "white flag" },
+  "무지개 깃발": { "replacement": "🏳️‍🌈", "description": "rainbow flag" },
+  "트랜스젠더 깃발": {
+    "replacement": "🏳️‍⚧️",
+    "description": "transgender flag"
+  },
+  "해적 깃발": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "승천 섬": { "replacement": "🇦🇨", "description": "flag: Ascension Island" },
+  "안도라": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "아랍 에미리트": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "아프가니스탄": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "안티구아 바부 다": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "앵 귈라": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "알바니아": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "아르메니아": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "앙골라": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "남극": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "아르헨티나": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "아메리칸 사모아": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "오스트리아": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "호주": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "아루바": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "올란드 제도": { "replacement": "🇦🇽", "description": "flag: Åland Islands" },
+  "아제르바이잔": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "보스니아 헤르체고비나": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "바베이도스": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "방글라데시": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "벨기에": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "부키 나 파소": { "replacement": "🇧🇫", "description": "flag: Burkina Faso" },
+  "불가리아": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "바레인": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "부룬디": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "베닌": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "St Barthelemy": {
+    "replacement": "🇧🇱",
+    "description": "flag: St. Barthélemy"
+  },
+  "버뮤다": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "브루나이": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "볼리비아": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "카리브해 네덜란드": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "브라질": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "바하마": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "부탄": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "부베 섬": { "replacement": "🇧🇻", "description": "flag: Bouvet Island" },
+  "보츠와나": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "벨라루스": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "벨리즈": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "캐나다": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "코코스 제도": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "콩고 킨 샤사": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "중앙 아프리카 공화국": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "콩고 브라자빌": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "스위스": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "코트 디부 아르": {
+    "replacement": "🇨🇮",
+    "description": "flag: Côte d’Ivoire"
+  },
+  "Cook Islands": { "replacement": "🇨🇰", "description": "flag: Cook Islands" },
+  "칠레": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "카메룬": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "cn": { "replacement": "🇨🇳", "description": "flag: China" },
+  "콜롬비아": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "Clipperton Island": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "코스타리카": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "쿠바": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "케이프 베르데": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "큐라 소": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "크리스마스 섬": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "키프로스": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "체코 공화국": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "드": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "디에고 가르시아": {
+    "replacement": "🇩🇬",
+    "description": "flag: Diego Garcia"
+  },
+  "지부티": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "덴마크": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "도미니카": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "도미니카 공화국": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "알제리": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "ceuta melilla": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "에콰도르": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "에스토니아": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "이집트": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "서부 사하라": { "replacement": "🇪🇭", "description": "flag: Western Sahara" },
+  "에리트레아": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "es": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "에티오피아": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "유럽 ​​연합": { "replacement": "🇪🇺", "description": "flag: European Union" },
+  "핀란드": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "피지": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "포클랜드 제도": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "미크로네시아": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "페로 제도": { "replacement": "🇫🇴", "description": "flag: Faroe Islands" },
+  "fr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "가봉": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "gb": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "그레나다": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "그루지야": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "프랑스 령 기아나": {
+    "replacement": "🇬🇫",
+    "description": "flag: French Guiana"
+  },
+  "건지": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "가나": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "지브롤터": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "그린란드": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "감비아": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "기니": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "과들루프": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "적도 기니": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "그리스": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "사우스 조지아 사우스 샌드위치 제도": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "과테말라": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "괌": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "기니 비사우": { "replacement": "🇬🇼", "description": "flag: Guinea-Bissau" },
+  "가이아나": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "홍콩": { "replacement": "🇭🇰", "description": "flag: Hong Kong SAR China" },
+  "맥도날드 제도를 들었다": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "온두라스": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "크로아티아": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "아이티": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "헝가리": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "카나리아 제도": {
+    "replacement": "🇮🇨",
+    "description": "flag: Canary Islands"
+  },
+  "인도네시아": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "아일랜드": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "이스라엘": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "맨 섬": { "replacement": "🇮🇲", "description": "flag: Isle of Man" },
+  "인도": { "replacement": "🇮🇳", "description": "flag: India" },
+  "영국령 인도양 지역": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "이라크": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "이란": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "아이슬란드": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "그것": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "저지": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "자메이카": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "요르단": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "jp": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "케냐": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "키르기스스탄": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "캄보디아": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "키리바시": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "코모로": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "세인트 키츠 네비스": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "북한": { "replacement": "🇰🇵", "description": "flag: North Korea" },
+  "kr": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "쿠웨이트": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "케이맨 제도": { "replacement": "🇰🇾", "description": "flag: Cayman Islands" },
+  "카자흐스탄": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "라오스": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "레바논": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "St Lucia": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "리히텐슈타인": { "replacement": "🇱🇮", "description": "flag: Liechtenstein" },
+  "스리랑카": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "라이베리아": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "레소토": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "리투아니아": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "룩셈부르크": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "라트비아": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "리비아": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "모로코": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "모나코": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "몰도바": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "몬테네그로": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "St Martin": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "마다가스카르": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "마샬 제도": { "replacement": "🇲🇭", "description": "flag: Marshall Islands" },
+  "마케도니아": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "말리": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "미얀마": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "몽골리아": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "마카오": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "북 마리아나 제도": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "마르티니크": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "모리타니": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "Montserrat": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "몰타": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "모리셔스": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "몰디브": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "말라위": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "멕시코": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "말레이시아": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "모잠비크": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "나미비아": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "뉴 칼레도니아": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "니제르": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "노퍽 섬": { "replacement": "🇳🇫", "description": "flag: Norfolk Island" },
+  "나이지리아": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "니카라과": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "네덜란드": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "노르웨이": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "네팔": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "나우루": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "니우에": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "뉴질랜드": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "오만": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "파나마": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "페루": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "프랑스 령 폴리네시아의": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "파푸아 뉴기니": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "필리핀 제도": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "파키스탄": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "폴란드": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "St Pierre Miquelon": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "핏 케언 제도": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "푸에르토 리코": { "replacement": "🇵🇷", "description": "flag: Puerto Rico" },
+  "팔레스타인 영토": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "포르투갈": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "팔라우": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "파라과이": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "카타르": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "재결합": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "루마니아": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "세르비아": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "ru": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "르완다": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "사우디 아라비아": {
+    "replacement": "🇸🇦",
+    "description": "flag: Saudi Arabia"
+  },
+  "솔로몬 제도": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "세이셸": { "replacement": "🇸🇨", "description": "flag: Seychelles" },
+  "수단": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "스웨덴": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "싱가포르": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "St Helena": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "슬로베니아": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "스발 바르 얀 마옌": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "슬로바키아": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "시에라 리온": { "replacement": "🇸🇱", "description": "flag: Sierra Leone" },
+  "산 마리노": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "세네갈": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "소말리아": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "수리남": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "남 수단": { "replacement": "🇸🇸", "description": "flag: South Sudan" },
+  "상투 메 프린시 페": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "엘살바도르": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "신트 마르텐": { "replacement": "🇸🇽", "description": "flag: Sint Maarten" },
+  "시리아": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "스와질란드": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "Tristan da Cunha": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "터크 스 케이 커스 제도": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "차드": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "프랑스 남부 영토": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "토고": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "태국": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "타지키스탄": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "토켈 라우": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "Timor Lete": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "투르크 메니스탄": {
+    "replacement": "🇹🇲",
+    "description": "flag: Turkmenistan"
+  },
+  "튀니지": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "통가": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "tr": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "트리니다드 토바고": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "투발루": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "대만": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "탄자니아": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "우크라이나": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "우간다": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "우리 외딴 섬": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "연합 국가": { "replacement": "🇺🇳", "description": "flag: United Nations" },
+  "우리": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "우루과이": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "우즈베키스탄": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "바티칸 시티": { "replacement": "🇻🇦", "description": "flag: Vatican City" },
+  "세인트 빈센트 그레나딘": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "베네수엘라": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "영국령 버진 아일랜드": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "미국 버진 아일랜드": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "베트남": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "바누아투": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "월리스 푸 투나": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "사모아": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "코소보": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "예멘": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "마 요트": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "남아프리카": { "replacement": "🇿🇦", "description": "flag: South Africa" },
+  "잠비아": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "짐바브웨": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "영국": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "스코틀랜드": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "웨일즈": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

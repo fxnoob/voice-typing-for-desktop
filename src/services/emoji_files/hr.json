@@ -1,0 +1,2972 @@
+{
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "cerekajući se": { "replacement": "😀", "description": "grinning face" },
+  "smajlića": {
+    "replacement": "😃",
+    "description": "grinning face with big eyes"
+  },
+  "osmijeh": {
+    "replacement": "😁",
+    "description": "beaming face with smiling eyes"
+  },
+  "smijući se": {
+    "replacement": "😆",
+    "description": "grinning squinting face"
+  },
+  "znojni osmijeh": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "radost": { "replacement": "😂", "description": "face with tears of joy" },
+  "blago nasmiješeno lice": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "naopako lice": { "replacement": "🙃", "description": "upside-down face" },
+  "mig": { "replacement": "😉", "description": "winking face" },
+  "rumenilo": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "nevin": { "replacement": "😇", "description": "smiling face with halo" },
+  "nasmijano lice s tri srca": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "srce oči": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "udarila zvijezda": { "replacement": "🤩", "description": "star-struck" },
+  "ljubeći srce": { "replacement": "😘", "description": "face blowing a kiss" },
+  "ljubljenje": { "replacement": "😗", "description": "kissing face" },
+  "opušten": { "replacement": "☺️", "description": "smiling face" },
+  "ljubeći zatvorene oči": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "ljubeći nasmiješene oči": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "nasmijano lice sa suzom": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "njam": { "replacement": "😋", "description": "face savoring food" },
+  "isplažen jezik": { "replacement": "😛", "description": "face with tongue" },
+  "ispružio jezik namigivanje okom": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "otkačeno lice": { "replacement": "🤪", "description": "zany face" },
+  "isplažen jezik zatvorenih očiju": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "novac usta lice": { "replacement": "🤑", "description": "money-mouth face" },
+  "zagrljaji": { "replacement": "🤗", "description": "hugging face" },
+  "predati usta": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "stišljivo lice": { "replacement": "🤫", "description": "shushing face" },
+  "razmišljajući": { "replacement": "🤔", "description": "thinking face" },
+  "patentni zatvarač lice": {
+    "replacement": "🤐",
+    "description": "zipper-mouth face"
+  },
+  "podignuta obrva": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "neutralno lice": { "replacement": "😐", "description": "neutral face" },
+  "bezizražajno": { "replacement": "😑", "description": "expressionless face" },
+  "nema usta": { "replacement": "😶", "description": "face without mouth" },
+  "zlobno smješkanje": { "replacement": "😏", "description": "smirking face" },
+  "nezadovoljno": { "replacement": "😒", "description": "unamused face" },
+  "kolutati očima": {
+    "replacement": "🙄",
+    "description": "face with rolling eyes"
+  },
+  "grimasirajući se": { "replacement": "😬", "description": "grimacing face" },
+  "lažljivo lice": { "replacement": "🤥", "description": "lying face" },
+  "laknulo": { "replacement": "😌", "description": "relieved face" },
+  "zamišljen": { "replacement": "😔", "description": "pensive face" },
+  "pospano": { "replacement": "😪", "description": "sleepy face" },
+  "sline lice": { "replacement": "🤤", "description": "drooling face" },
+  "spavanje": { "replacement": "😴", "description": "sleeping face" },
+  "maska": { "replacement": "😷", "description": "face with medical mask" },
+  "lice s termometrom": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "lice zavojem za glavu": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "mučno lice": { "replacement": "🤢", "description": "nauseated face" },
+  "povraćanje lica": { "replacement": "🤮", "description": "face vomiting" },
+  "kihanje lica": { "replacement": "🤧", "description": "sneezing face" },
+  "vruće lice": { "replacement": "🥵", "description": "hot face" },
+  "hladno lice": { "replacement": "🥶", "description": "cold face" },
+  "nejasno lice": { "replacement": "🥴", "description": "woozy face" },
+  "vrtoglavo lice": { "replacement": "😵", "description": "dizzy face" },
+  "eksplodirajuća glava": {
+    "replacement": "🤯",
+    "description": "exploding head"
+  },
+  "lice kaubojskog šešira": {
+    "replacement": "🤠",
+    "description": "cowboy hat face"
+  },
+  "lice za zabave": { "replacement": "🥳", "description": "partying face" },
+  "prikriveno lice": { "replacement": "🥸", "description": "disguised face" },
+  "sunčane naočale": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "štrebersko lice": { "replacement": "🤓", "description": "nerd face" },
+  "lice monokla": { "replacement": "🧐", "description": "face with monocle" },
+  "zbunjen": { "replacement": "😖", "description": "confounded face" },
+  "zabrinut": { "replacement": "😟", "description": "worried face" },
+  "blago namršteno lice": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "namršteno lice": { "replacement": "☹️", "description": "frowning face" },
+  "otvorena usta": {
+    "replacement": "😮",
+    "description": "face with open mouth"
+  },
+  "prigušen": { "replacement": "😯", "description": "hushed face" },
+  "zapanjen": { "replacement": "😲", "description": "astonished face" },
+  "zarumenjen": { "replacement": "😳", "description": "flushed face" },
+  "molećivo lice": { "replacement": "🥺", "description": "pleading face" },
+  "mršteći se": {
+    "replacement": "😦",
+    "description": "frowning face with open mouth"
+  },
+  "tjeskoban": { "replacement": "😧", "description": "anguished face" },
+  "bojažljiv": { "replacement": "😨", "description": "fearful face" },
+  "hladan znoj": {
+    "replacement": "😰",
+    "description": "anxious face with sweat"
+  },
+  "razočarano olakšanje": {
+    "replacement": "😥",
+    "description": "sad but relieved face"
+  },
+  "plakati": { "replacement": "😢", "description": "crying face" },
+  "jecanje": { "replacement": "😭", "description": "loudly crying face" },
+  "vrisak": { "replacement": "😱", "description": "face screaming in fear" },
+  "ustrajati": { "replacement": "😣", "description": "persevering face" },
+  "razočaran": { "replacement": "😞", "description": "disappointed face" },
+  "znoj": { "replacement": "😓", "description": "downcast face with sweat" },
+  "umoran": { "replacement": "😩", "description": "weary face" },
+  "umorno lice": { "replacement": "😫", "description": "tired face" },
+  "zijevajući lice": { "replacement": "🥱", "description": "yawning face" },
+  "trijumf": {
+    "replacement": "😤",
+    "description": "face with steam from nose"
+  },
+  "bijes": { "replacement": "💢", "description": "anger symbol" },
+  "ljut": { "replacement": "😠", "description": "angry face" },
+  "psujuće lice": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "nasmiješeni imp": {
+    "replacement": "😈",
+    "description": "smiling face with horns"
+  },
+  "imp": { "replacement": "👿", "description": "angry face with horns" },
+  "lubanja": { "replacement": "💀", "description": "skull" },
+  "lubanja i prekrižene kosti": {
+    "replacement": "☠️",
+    "description": "skull and crossbones"
+  },
+  "hankey": { "replacement": "💩", "description": "pile of poo" },
+  "klaunsko lice": { "replacement": "🤡", "description": "clown face" },
+  "japanski ogr": { "replacement": "👹", "description": "ogre" },
+  "japanski goblin": { "replacement": "👺", "description": "goblin" },
+  "duh": { "replacement": "🧞", "description": "genie" },
+  "stranac": { "replacement": "👽", "description": "alien" },
+  "svemirski osvajač": { "replacement": "👾", "description": "alien monster" },
+  "robot": { "replacement": "🤖", "description": "robot" },
+  "smajli mačka": { "replacement": "😺", "description": "grinning cat" },
+  "osmijeh mačka": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "mačka radost": {
+    "replacement": "😹",
+    "description": "cat with tears of joy"
+  },
+  "srce oči mačka": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "smiješka mačka": {
+    "replacement": "😼",
+    "description": "cat with wry smile"
+  },
+  "ljubljenje mačke": { "replacement": "😽", "description": "kissing cat" },
+  "vrištati mačka": { "replacement": "🙀", "description": "weary cat" },
+  "uplakano mačje lice": { "replacement": "😿", "description": "crying cat" },
+  "napuhana mačka": { "replacement": "😾", "description": "pouting cat" },
+  "ne vidim zla": { "replacement": "🙈", "description": "see-no-evil monkey" },
+  "ne čuj zla": { "replacement": "🙉", "description": "hear-no-evil monkey" },
+  "ne govori zlo": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "poljubac": { "replacement": "💋", "description": "kiss mark" },
+  "ljubavno pismo": { "replacement": "💌", "description": "love letter" },
+  "Kupidon": { "replacement": "💘", "description": "heart with arrow" },
+  "poklon srce": { "replacement": "💝", "description": "heart with ribbon" },
+  "iskričavo srce": { "replacement": "💖", "description": "sparkling heart" },
+  "srčani puls": { "replacement": "💗", "description": "growing heart" },
+  "otkucaji srca": { "replacement": "💓", "description": "beating heart" },
+  "okretajuća srca": { "replacement": "💞", "description": "revolving hearts" },
+  "dva srca": { "replacement": "💕", "description": "two hearts" },
+  "ukras srca": { "replacement": "💟", "description": "heart decoration" },
+  "težak usklik srca": {
+    "replacement": "❣️",
+    "description": "heart exclamation"
+  },
+  "slomljeno srce": { "replacement": "💔", "description": "broken heart" },
+  "srce": { "replacement": "❤️", "description": "red heart" },
+  "narančasto srce": { "replacement": "🧡", "description": "orange heart" },
+  "žuto srce": { "replacement": "💛", "description": "yellow heart" },
+  "zeleno srce": { "replacement": "💚", "description": "green heart" },
+  "plavo srce": { "replacement": "💙", "description": "blue heart" },
+  "ljubičasto srce": { "replacement": "💜", "description": "purple heart" },
+  "smeđe srce": { "replacement": "🤎", "description": "brown heart" },
+  "crno srce": { "replacement": "🖤", "description": "black heart" },
+  "bijelo srce": { "replacement": "🤍", "description": "white heart" },
+  "bum": { "replacement": "💥", "description": "collision" },
+  "vrtoglavica": { "replacement": "💫", "description": "dizzy" },
+  "kapi znoja": { "replacement": "💦", "description": "sweat droplets" },
+  "crtica": { "replacement": "💨", "description": "dashing away" },
+  "rupa": { "replacement": "🕳️", "description": "hole" },
+  "bomba": { "replacement": "💣", "description": "bomb" },
+  "govorni balon": { "replacement": "💬", "description": "speech balloon" },
+  "očni govorni balon": {
+    "replacement": "👁️‍🗨️",
+    "description": "eye in speech bubble"
+  },
+  "lijevi govorni balon": {
+    "replacement": "🗨️",
+    "description": "left speech bubble"
+  },
+  "mjehur desne ljutnje": {
+    "replacement": "🗯️",
+    "description": "right anger bubble"
+  },
+  "balon misli": { "replacement": "💭", "description": "thought balloon" },
+  "zzz": { "replacement": "💤", "description": "zzz" },
+  "val": { "replacement": "👋", "description": "waving hand" },
+  "podignut nadlanica": {
+    "replacement": "🤚",
+    "description": "raised back of hand"
+  },
+  "podignuta ruka s raširenim prstima": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "ruka": { "replacement": "✋", "description": "raised hand" },
+  "vulkanski pozdrav": { "replacement": "🖖", "description": "vulcan salute" },
+  "ok ruku": { "replacement": "👌", "description": "OK hand" },
+  "uštipnuti prsti": { "replacement": "🤌", "description": "pinched fingers" },
+  "štipajući ruku": { "replacement": "🤏", "description": "pinching hand" },
+  "v": { "replacement": "✌️", "description": "victory hand" },
+  "prekriženih prstiju": {
+    "replacement": "🤞",
+    "description": "crossed fingers"
+  },
+  "volim te gesta": { "replacement": "🤟", "description": "love-you gesture" },
+  "metal": { "replacement": "🤘", "description": "sign of the horns" },
+  "nazovi me rukom": { "replacement": "🤙", "description": "call me hand" },
+  "točka lijevo": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "točka desno": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "točka gore 2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "srednji prst": { "replacement": "🖕", "description": "middle finger" },
+  "pokaži dolje": {
+    "replacement": "👇",
+    "description": "backhand index pointing down"
+  },
+  "istaknuti": { "replacement": "☝️", "description": "index pointing up" },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "šaka podignuta": { "replacement": "✊", "description": "raised fist" },
+  "šaka nadolazeća": { "replacement": "👊", "description": "oncoming fist" },
+  "šaka lijevo": { "replacement": "🤛", "description": "left-facing fist" },
+  "šaka desno": { "replacement": "🤜", "description": "right-facing fist" },
+  "pljeskati": { "replacement": "👏", "description": "clapping hands" },
+  "podignute ruke": { "replacement": "🙌", "description": "raising hands" },
+  "otvorenih ruku": { "replacement": "👐", "description": "open hands" },
+  "dlanovi zajedno": {
+    "replacement": "🤲",
+    "description": "palms up together"
+  },
+  "stisak ruke": { "replacement": "🤝", "description": "handshake" },
+  "moliti": { "replacement": "🙏", "description": "folded hands" },
+  "rukom za pisanje": { "replacement": "✍️", "description": "writing hand" },
+  "njega noktiju": { "replacement": "💅", "description": "nail polish" },
+  "selfie": { "replacement": "🤳", "description": "selfie" },
+  "mišića": { "replacement": "💪", "description": "flexed biceps" },
+  "mehanička ruka": { "replacement": "🦾", "description": "mechanical arm" },
+  "mehanička noga": { "replacement": "🦿", "description": "mechanical leg" },
+  "noga": { "replacement": "🦶", "description": "foot" },
+  "uho": { "replacement": "👂", "description": "ear" },
+  "uho sa slušnim aparatom": {
+    "replacement": "🦻",
+    "description": "ear with hearing aid"
+  },
+  "nos": { "replacement": "👃", "description": "nose" },
+  "mozak": { "replacement": "🧠", "description": "brain" },
+  "anatomsko srce": { "replacement": "🫀", "description": "anatomical heart" },
+  "pluća": { "replacement": "🫁", "description": "lungs" },
+  "zub": { "replacement": "🦷", "description": "tooth" },
+  "kost": { "replacement": "🦴", "description": "bone" },
+  "oči": { "replacement": "👀", "description": "eyes" },
+  "oko": { "replacement": "👁️", "description": "eye" },
+  "jezik": { "replacement": "👅", "description": "tongue" },
+  "usne": { "replacement": "👄", "description": "mouth" },
+  "dijete": { "replacement": "🧒", "description": "child" },
+  "dječak": { "replacement": "👦", "description": "boy" },
+  "djevojka": { "replacement": "👧", "description": "girl" },
+  "odrasla osoba": { "replacement": "🧑", "description": "person" },
+  "plavokosa osoba": {
+    "replacement": "👱",
+    "description": "person: blond hair"
+  },
+  "čovjek": { "replacement": "👨", "description": "man" },
+  "bradonja": { "replacement": "🧔", "description": "man: beard" },
+  "crvenokosi muškarac": {
+    "replacement": "👨‍🦰",
+    "description": "man: red hair"
+  },
+  "kovrčave kose": { "replacement": "👩‍🦱", "description": "woman: curly hair" },
+  "bijelokosi muškarac": {
+    "replacement": "👨‍🦳",
+    "description": "man: white hair"
+  },
+  "ćelavi čovjek": { "replacement": "👨‍🦲", "description": "man: bald" },
+  "žena": { "replacement": "👩", "description": "woman" },
+  "crvenokosa žena": { "replacement": "👩‍🦰", "description": "woman: red hair" },
+  "osoba crvena kosa": {
+    "replacement": "🧑‍🦰",
+    "description": "person: red hair"
+  },
+  "osoba kovrčava kosa": {
+    "replacement": "🧑‍🦱",
+    "description": "person: curly hair"
+  },
+  "bijelokosa žena": {
+    "replacement": "👩‍🦳",
+    "description": "woman: white hair"
+  },
+  "osoba bijela kosa": {
+    "replacement": "🧑‍🦳",
+    "description": "person: white hair"
+  },
+  "ćelava žena": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "osoba ćelava": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "plavokosa žena": { "replacement": "👱‍♀️", "description": "woman: blond hair" },
+  "plavokosi muškarac": {
+    "replacement": "👱‍♂️",
+    "description": "man: blond hair"
+  },
+  "starija odrasla osoba": {
+    "replacement": "🧓",
+    "description": "older person"
+  },
+  "stariji čovjek": { "replacement": "👴", "description": "old man" },
+  "starija žena": { "replacement": "👵", "description": "old woman" },
+  "namrgođena osoba": { "replacement": "🙍", "description": "person frowning" },
+  "namrgođen čovjek": { "replacement": "🙍‍♂️", "description": "man frowning" },
+  "namrgođena žena": { "replacement": "🙍‍♀️", "description": "woman frowning" },
+  "napuhano lice": { "replacement": "🙎", "description": "person pouting" },
+  "napuhao čovjeka": { "replacement": "🙎‍♂️", "description": "man pouting" },
+  "napuhana žena": { "replacement": "🙎‍♀️", "description": "woman pouting" },
+  "nije dobro": { "replacement": "🙅", "description": "person gesturing NO" },
+  "nijedan dobar čovjek": {
+    "replacement": "🙅‍♂️",
+    "description": "man gesturing NO"
+  },
+  "nijedna dobra žena": {
+    "replacement": "🙅‍♀️",
+    "description": "woman gesturing NO"
+  },
+  "ok osoba": { "replacement": "🙆", "description": "person gesturing OK" },
+  "ok čovječe": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "ok žena": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "tipping hand osoba": {
+    "replacement": "💁",
+    "description": "person tipping hand"
+  },
+  "tipkajući ruku čovjek": {
+    "replacement": "💁‍♂️",
+    "description": "man tipping hand"
+  },
+  "tipking hand žena": {
+    "replacement": "💁‍♀️",
+    "description": "woman tipping hand"
+  },
+  "dižući ruku": { "replacement": "🙋", "description": "person raising hand" },
+  "dižući ruku čovjek": {
+    "replacement": "🙋‍♂️",
+    "description": "man raising hand"
+  },
+  "dizanje ruke žena": {
+    "replacement": "🙋‍♀️",
+    "description": "woman raising hand"
+  },
+  "gluha osoba": { "replacement": "🧏", "description": "deaf person" },
+  "gluh čovjek": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "gluha žena": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "nakloniti se": { "replacement": "🙇", "description": "person bowing" },
+  "klanjajući se čovjek": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "klanjajuća žena": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "facepalm": { "replacement": "🤦", "description": "person facepalming" },
+  "čovjek facepalming": {
+    "replacement": "🤦‍♂️",
+    "description": "man facepalming"
+  },
+  "žena facepalming": {
+    "replacement": "🤦‍♀️",
+    "description": "woman facepalming"
+  },
+  "slijeganje": { "replacement": "🤷", "description": "person shrugging" },
+  "čovjek sliježe ramenima": {
+    "replacement": "🤷‍♂️",
+    "description": "man shrugging"
+  },
+  "žena sliježe ramenima": {
+    "replacement": "🤷‍♀️",
+    "description": "woman shrugging"
+  },
+  "zdravstveni radnik": {
+    "replacement": "🧑‍⚕️",
+    "description": "health worker"
+  },
+  "čovjek zdravstveni radnik": {
+    "replacement": "👨‍⚕️",
+    "description": "man health worker"
+  },
+  "žena zdravstveni radnik": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "student": { "replacement": "🧑‍🎓", "description": "student" },
+  "čovjek student": { "replacement": "👨‍🎓", "description": "man student" },
+  "studentica": { "replacement": "👩‍🎓", "description": "woman student" },
+  "učitelj, nastavnik, profesor": {
+    "replacement": "🧑‍🏫",
+    "description": "teacher"
+  },
+  "čovjek učitelj": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "žena učiteljica": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "suditi": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "čovjek sudac": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "žena sudac": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "seljak": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "čovjek poljoprivrednik": {
+    "replacement": "👨‍🌾",
+    "description": "man farmer"
+  },
+  "žena poljoprivrednik": {
+    "replacement": "👩‍🌾",
+    "description": "woman farmer"
+  },
+  "kuhati": { "replacement": "🧑‍🍳", "description": "cook" },
+  "čovjek kuhar": { "replacement": "👨‍🍳", "description": "man cook" },
+  "žena kuharica": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "mehaničar": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "čovjek mehaničar": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "žena mehaničar": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "radnik u tvornici": {
+    "replacement": "🧑‍🏭",
+    "description": "factory worker"
+  },
+  "čovjek tvornički radnik": {
+    "replacement": "👨‍🏭",
+    "description": "man factory worker"
+  },
+  "žena tvornica": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "radnik u uredu": { "replacement": "🧑‍💼", "description": "office worker" },
+  "čovjek uredski radnik": {
+    "replacement": "👨‍💼",
+    "description": "man office worker"
+  },
+  "žena uredski radnik": {
+    "replacement": "👩‍💼",
+    "description": "woman office worker"
+  },
+  "znanstvenik": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "čovjek znanstvenik": { "replacement": "👨‍🔬", "description": "man scientist" },
+  "žena znanstvenica": {
+    "replacement": "👩‍🔬",
+    "description": "woman scientist"
+  },
+  "tehnolog": { "replacement": "🧑‍💻", "description": "technologist" },
+  "čovjek tehnolog": { "replacement": "👨‍💻", "description": "man technologist" },
+  "žena tehnolog": { "replacement": "👩‍💻", "description": "woman technologist" },
+  "pjevač": { "replacement": "🧑‍🎤", "description": "singer" },
+  "čovjek pjevač": { "replacement": "👨‍🎤", "description": "man singer" },
+  "žena pjevačica": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "umjetnik": { "replacement": "🧑‍🎨", "description": "artist" },
+  "čovjek umjetnik": { "replacement": "👨‍🎨", "description": "man artist" },
+  "žena umjetnica": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "pilot": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "čovjek pilot": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "žena pilot": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "astronaut": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "čovjek astronaut": { "replacement": "👨‍🚀", "description": "man astronaut" },
+  "žena astronaut": { "replacement": "👩‍🚀", "description": "woman astronaut" },
+  "vatrogasac": { "replacement": "🧑‍🚒", "description": "firefighter" },
+  "čovjek vatrogasac": {
+    "replacement": "👨‍🚒",
+    "description": "man firefighter"
+  },
+  "žena vatrogasac": {
+    "replacement": "👩‍🚒",
+    "description": "woman firefighter"
+  },
+  "policajac": { "replacement": "👮‍♂️", "description": "man police officer" },
+  "policajka": { "replacement": "👮‍♀️", "description": "woman police officer" },
+  "detektiv": { "replacement": "🕵️", "description": "detective" },
+  "muški detektiv": { "replacement": "🕵️‍♂️", "description": "man detective" },
+  "ženska detektivka": {
+    "replacement": "🕵️‍♀️",
+    "description": "woman detective"
+  },
+  "straža": { "replacement": "💂", "description": "guard" },
+  "gardista": { "replacement": "💂‍♂️", "description": "man guard" },
+  "čuvarica": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "nindža": { "replacement": "🥷", "description": "ninja" },
+  "građevinski radnik": {
+    "replacement": "👷",
+    "description": "construction worker"
+  },
+  "građevinski radnik čovjek": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "žena građevinski radnik": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "princ": { "replacement": "🤴", "description": "prince" },
+  "princeza": { "replacement": "👸", "description": "princess" },
+  "osoba s turbanom": {
+    "replacement": "👳",
+    "description": "person wearing turban"
+  },
+  "čovjek s turbanom": {
+    "replacement": "👳‍♂️",
+    "description": "man wearing turban"
+  },
+  "žena s turbanom": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "čovjek s gua pi mao": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "žena sa maramom": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "osoba u smokingu": {
+    "replacement": "🤵",
+    "description": "person in tuxedo"
+  },
+  "čovjek u smokingu": {
+    "replacement": "🤵‍♂️",
+    "description": "man in tuxedo"
+  },
+  "žena u smokingu": {
+    "replacement": "🤵‍♀️",
+    "description": "woman in tuxedo"
+  },
+  "osoba s velom": { "replacement": "👰", "description": "person with veil" },
+  "čovjek s velom": { "replacement": "👰‍♂️", "description": "man with veil" },
+  "žena s velom": { "replacement": "👰‍♀️", "description": "woman with veil" },
+  "trudna žena": { "replacement": "🤰", "description": "pregnant woman" },
+  "dojenje": { "replacement": "🤱", "description": "breast-feeding" },
+  "žena koja hrani dijete": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "čovjek koji hrani dijete": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "osoba koja hrani dijete": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "anđeo": { "replacement": "👼", "description": "baby angel" },
+  "Djed Mraz": { "replacement": "🎅", "description": "Santa Claus" },
+  "gospođo Klaus": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "mx klaus": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "superheroj": { "replacement": "🦸", "description": "superhero" },
+  "čovjek superheroja": { "replacement": "🦸‍♂️", "description": "man superhero" },
+  "žena superheroja": { "replacement": "🦸‍♀️", "description": "woman superhero" },
+  "superzloduh": { "replacement": "🦹", "description": "supervillain" },
+  "superzlikov čovjek": {
+    "replacement": "🦹‍♂️",
+    "description": "man supervillain"
+  },
+  "superzlikovka žena": {
+    "replacement": "🦹‍♀️",
+    "description": "woman supervillain"
+  },
+  "mag": { "replacement": "🔍", "description": "magnifying glass tilted left" },
+  "mag čovjek": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "mage žena": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "vila": { "replacement": "🧚", "description": "fairy" },
+  "vilinski čovjek": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "vila žena": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "vampir": { "replacement": "🧛", "description": "vampire" },
+  "vampir čovjek": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "vampirska žena": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "merperson": { "replacement": "🧜", "description": "merperson" },
+  "triton": { "replacement": "🧜‍♂️", "description": "merman" },
+  "sirena": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "patuljak": { "replacement": "🧝", "description": "elf" },
+  "vilenjak": { "replacement": "🧝‍♂️", "description": "man elf" },
+  "vilenjačka žena": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "duh čovjek": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "duh žena": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "zombi": { "replacement": "🧟", "description": "zombie" },
+  "zombi čovjek": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "zombi žena": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "masaža": { "replacement": "💆", "description": "person getting massage" },
+  "čovjek za masažu": {
+    "replacement": "💆‍♂️",
+    "description": "man getting massage"
+  },
+  "žena za masažu": {
+    "replacement": "💆‍♀️",
+    "description": "woman getting massage"
+  },
+  "šišanje": { "replacement": "💇", "description": "person getting haircut" },
+  "frizura čovjek": {
+    "replacement": "💇‍♂️",
+    "description": "man getting haircut"
+  },
+  "šišanje žene": {
+    "replacement": "💇‍♀️",
+    "description": "woman getting haircut"
+  },
+  "hodanje": { "replacement": "🚶", "description": "person walking" },
+  "hodajući čovjek": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "hodajuća žena": { "replacement": "🚶‍♀️", "description": "woman walking" },
+  "osoba koja stoji": { "replacement": "🧍", "description": "person standing" },
+  "stojeći čovjek": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "žena koja stoji": { "replacement": "🧍‍♀️", "description": "woman standing" },
+  "klečeća osoba": { "replacement": "🧎", "description": "person kneeling" },
+  "klečeći čovjek": { "replacement": "🧎‍♂️", "description": "man kneeling" },
+  "klečeća žena": { "replacement": "🧎‍♀️", "description": "woman kneeling" },
+  "osoba sa sondom za ispitivanje": {
+    "replacement": "🧑‍🦯",
+    "description": "person with white cane"
+  },
+  "čovjek sa sondom za ispitivanje": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "žena sa sondom za ispitivanje": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "osoba u motornim kolicima": {
+    "replacement": "🧑‍🦼",
+    "description": "person in motorized wheelchair"
+  },
+  "čovjek u motornim kolicima": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "žena u motornim kolicima": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "osoba u ručnim invalidskim kolicima": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "čovjek u ručnim invalidskim kolicima": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "žena u ručnim invalidskim kolicima": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "trkač": { "replacement": "🏃", "description": "person running" },
+  "čovjek koji trči": { "replacement": "🏃‍♂️", "description": "man running" },
+  "trčeća žena": { "replacement": "🏃‍♀️", "description": "woman running" },
+  "žena pleše": { "replacement": "💃", "description": "woman dancing" },
+  "čovjek koji pleše": { "replacement": "🕺", "description": "man dancing" },
+  "poslovno odijelo koje levitira": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "plesačice": { "replacement": "👯", "description": "people with bunny ears" },
+  "plešući muškarci": {
+    "replacement": "👯‍♂️",
+    "description": "men with bunny ears"
+  },
+  "rasplesane žene": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "osoba iz saune": {
+    "replacement": "🧖",
+    "description": "person in steamy room"
+  },
+  "čovjek iz saune": {
+    "replacement": "🧖‍♂️",
+    "description": "man in steamy room"
+  },
+  "žena iz saune": {
+    "replacement": "🧖‍♀️",
+    "description": "woman in steamy room"
+  },
+  "penjanje": { "replacement": "🧗", "description": "person climbing" },
+  "penjački čovjek": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "žena penjačica": { "replacement": "🧗‍♀️", "description": "woman climbing" },
+  "mačevanje osobe": { "replacement": "🤺", "description": "person fencing" },
+  "konjske utrke": { "replacement": "🏇", "description": "horse racing" },
+  "skijaš": { "replacement": "⛷️", "description": "skier" },
+  "snowboarder": { "replacement": "🏂", "description": "snowboarder" },
+  "golf": { "replacement": "⛳", "description": "flag in hole" },
+  "čovjek za golf": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "žena za golf": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "surfer": { "replacement": "🏄", "description": "person surfing" },
+  "surfajući čovjek": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "surfajući žena": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "čamac": { "replacement": "⛵", "description": "sailboat" },
+  "veslač": { "replacement": "🚣‍♂️", "description": "man rowing boat" },
+  "veslačica": { "replacement": "🚣‍♀️", "description": "woman rowing boat" },
+  "plivač": { "replacement": "🏊", "description": "person swimming" },
+  "plivac": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "plivačka žena": { "replacement": "🏊‍♀️", "description": "woman swimming" },
+  "odskočna lopta osoba": {
+    "replacement": "⛹️",
+    "description": "person bouncing ball"
+  },
+  "odskočna lopta čovjek": {
+    "replacement": "⛹️‍♂️",
+    "description": "man bouncing ball"
+  },
+  "odskočna lopta žena": {
+    "replacement": "⛹️‍♀️",
+    "description": "woman bouncing ball"
+  },
+  "dizanje utega": {
+    "replacement": "🏋️",
+    "description": "person lifting weights"
+  },
+  "dizanje utega čovjek": {
+    "replacement": "🏋️‍♂️",
+    "description": "man lifting weights"
+  },
+  "dizanje utega žena": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "biciklista": { "replacement": "🚴", "description": "person biking" },
+  "čovjek biciklist": { "replacement": "🚴‍♂️", "description": "man biking" },
+  "žena biciklistica": { "replacement": "🚴‍♀️", "description": "woman biking" },
+  "brdski biciklist": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "čovjek za brdski biciklizam": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "žena za brdski biciklizam": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "kotačić": { "replacement": "🤸", "description": "person cartwheeling" },
+  "čovjek kotača": { "replacement": "🤸‍♂️", "description": "man cartwheeling" },
+  "žena kotača": { "replacement": "🤸‍♀️", "description": "woman cartwheeling" },
+  "hrvanje": { "replacement": "🤼", "description": "people wrestling" },
+  "muškarci hrvanje": { "replacement": "🤼‍♂️", "description": "men wrestling" },
+  "rvanje žena": { "replacement": "🤼‍♀️", "description": "women wrestling" },
+  "vaterpolo": {
+    "replacement": "🤽",
+    "description": "person playing water polo"
+  },
+  "čovjek koji igra vaterpolo": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "žena koja igra vaterpolo": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "rukometna osoba": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "čovjek koji igra rukomet": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "žena koja igra rukomet": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "žonglerirajuća osoba": {
+    "replacement": "🤹",
+    "description": "person juggling"
+  },
+  "čovjek žonglira": { "replacement": "🤹‍♂️", "description": "man juggling" },
+  "žena koja žonglira": {
+    "replacement": "🤹‍♀️",
+    "description": "woman juggling"
+  },
+  "položaj lotosa": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "lotus položaj čovjek": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "lotus pozicija žena": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "kupka": { "replacement": "🛀", "description": "person taking bath" },
+  "krevet za spavanje": { "replacement": "🛌", "description": "person in bed" },
+  "ljudi koji se drže za ruke": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "dvije žene koje se drže za ruke": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "par": { "replacement": "👫", "description": "woman and man holding hands" },
+  "dvojica muškaraca koji se drže za ruke": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "par ljubitelja": { "replacement": "💏", "description": "kiss" },
+  "couplekiss muškarac žena": {
+    "replacement": "👩‍❤️‍💋‍👨",
+    "description": "kiss: woman, man"
+  },
+  "couplekiss muškarac man": {
+    "replacement": "👨‍❤️‍💋‍👨",
+    "description": "kiss: man, man"
+  },
+  "couplekiss žena žena": {
+    "replacement": "👩‍❤️‍💋‍👩",
+    "description": "kiss: woman, woman"
+  },
+  "par sa srcem": { "replacement": "💑", "description": "couple with heart" },
+  "par sa srcem žena muškarac": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "par sa srcem čovjek muškarac": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "par sa srcem žena žena": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "obitelj": { "replacement": "👪", "description": "family" },
+  "obiteljski čovjek žena dječak": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "obiteljski čovjek žena djevojka": {
+    "replacement": "👨‍👩‍👧",
+    "description": "family: man, woman, girl"
+  },
+  "obiteljski čovjek žena djevojka dječak": {
+    "replacement": "👨‍👩‍👧‍👦",
+    "description": "family: man, woman, girl, boy"
+  },
+  "obiteljski čovjek žena dječak dječak": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "obiteljski čovjek žena djevojka djevojka": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "obiteljski čovjek muškarac dječak": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "obiteljski čovjek muškarac djevojka": {
+    "replacement": "👨‍👨‍👧",
+    "description": "family: man, man, girl"
+  },
+  "obiteljski čovjek muškarac djevojka dječak": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "obiteljski čovjek muškarac dječak dječak": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "obiteljski čovjek muškarac djevojka djevojka": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "obiteljska žena žena dječak": {
+    "replacement": "👩‍👩‍👦",
+    "description": "family: woman, woman, boy"
+  },
+  "obiteljska žena žena djevojka": {
+    "replacement": "👩‍👩‍👧",
+    "description": "family: woman, woman, girl"
+  },
+  "obiteljska žena žena djevojka dječak": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "obiteljska žena žena dječak dječak": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "obiteljska žena žena djevojka djevojka": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "obiteljski čovjek dječak": {
+    "replacement": "👨‍👦",
+    "description": "family: man, boy"
+  },
+  "obiteljski čovjek dječak dječak": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "obiteljski čovjek djevojka": {
+    "replacement": "👨‍👧",
+    "description": "family: man, girl"
+  },
+  "obiteljski čovjek djevojka dječak": {
+    "replacement": "👨‍👧‍👦",
+    "description": "family: man, girl, boy"
+  },
+  "obiteljski čovjek djevojka djevojka": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "obiteljska žena dječak": {
+    "replacement": "👩‍👦",
+    "description": "family: woman, boy"
+  },
+  "obiteljska žena dječak dječak": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "obiteljska žena djevojka": {
+    "replacement": "👩‍👧",
+    "description": "family: woman, girl"
+  },
+  "obiteljska žena djevojčica dječak": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "obiteljska žena djevojka djevojka": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "govoreća glava": { "replacement": "🗣️", "description": "speaking head" },
+  "poprsje u silueti": {
+    "replacement": "👤",
+    "description": "bust in silhouette"
+  },
+  "poprsja u silueti": {
+    "replacement": "👥",
+    "description": "busts in silhouette"
+  },
+  "ljudi koji se grle": { "replacement": "🫂", "description": "people hugging" },
+  "otisci stopala": { "replacement": "👣", "description": "footprints" },
+  "majmunsko lice": { "replacement": "🐵", "description": "monkey face" },
+  "majmun": { "replacement": "🐒", "description": "monkey" },
+  "gorila": { "replacement": "🦍", "description": "gorilla" },
+  "orangutan": { "replacement": "🦧", "description": "orangutan" },
+  "pas": { "replacement": "🐶", "description": "dog face" },
+  "pas2": { "replacement": "🐕", "description": "dog" },
+  "pas vodič": { "replacement": "🦮", "description": "guide dog" },
+  "službeni pas": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "pudlica": { "replacement": "🐩", "description": "poodle" },
+  "vuk": { "replacement": "🐺", "description": "wolf" },
+  "lisica lice": { "replacement": "🦊", "description": "fox" },
+  "rakun": { "replacement": "🦝", "description": "raccoon" },
+  "mačka": { "replacement": "🐱", "description": "cat face" },
+  "mačka2": { "replacement": "🐈", "description": "cat" },
+  "Crna mačka": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "lav": { "replacement": "🦁", "description": "lion" },
+  "tigar": { "replacement": "🐯", "description": "tiger face" },
+  "tigar2": { "replacement": "🐅", "description": "tiger" },
+  "leopard": { "replacement": "🐆", "description": "leopard" },
+  "konj": { "replacement": "🐴", "description": "horse face" },
+  "trkaći konj": { "replacement": "🐎", "description": "horse" },
+  "jednorog": { "replacement": "🦄", "description": "unicorn" },
+  "zebra": { "replacement": "🦓", "description": "zebra" },
+  "jelena": { "replacement": "🦌", "description": "deer" },
+  "bizon": { "replacement": "🦬", "description": "bison" },
+  "krava": { "replacement": "🐮", "description": "cow face" },
+  "vol": { "replacement": "🐂", "description": "ox" },
+  "vodeni bivol": { "replacement": "🐃", "description": "water buffalo" },
+  "krava2": { "replacement": "🐄", "description": "cow" },
+  "svinja": { "replacement": "🐷", "description": "pig face" },
+  "svinja2": { "replacement": "🐖", "description": "pig" },
+  "vepar": { "replacement": "🐗", "description": "boar" },
+  "svinjski nos": { "replacement": "🐽", "description": "pig nose" },
+  "radna memorija": { "replacement": "🐏", "description": "ram" },
+  "ovce": { "replacement": "🐑", "description": "ewe" },
+  "Jarac": { "replacement": "♑", "description": "Capricorn" },
+  "dromedarska deva": { "replacement": "🐪", "description": "camel" },
+  "deva": { "replacement": "🐫", "description": "two-hump camel" },
+  "lama": { "replacement": "🦙", "description": "llama" },
+  "žirafa": { "replacement": "🦒", "description": "giraffe" },
+  "slon": { "replacement": "🐘", "description": "elephant" },
+  "Mamut": { "replacement": "🦣", "description": "mammoth" },
+  "nosorog": { "replacement": "🦏", "description": "rhinoceros" },
+  "nilski konj": { "replacement": "🦛", "description": "hippopotamus" },
+  "miš": { "replacement": "🐭", "description": "mouse face" },
+  "miš2": { "replacement": "🐁", "description": "mouse" },
+  "štakor": { "replacement": "🐀", "description": "rat" },
+  "hrčak": { "replacement": "🐹", "description": "hamster" },
+  "zec": { "replacement": "🐰", "description": "rabbit face" },
+  "zec2": { "replacement": "🐇", "description": "rabbit" },
+  "vjeverica": { "replacement": "🐿️", "description": "chipmunk" },
+  "dabar": { "replacement": "🦫", "description": "beaver" },
+  "jež": { "replacement": "🦔", "description": "hedgehog" },
+  "šišmiš": { "replacement": "🦇", "description": "bat" },
+  "snositi": { "replacement": "🐻", "description": "bear" },
+  "polarni medvjed": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "koala": { "replacement": "🐨", "description": "koala" },
+  "lice pande": { "replacement": "🐼", "description": "panda" },
+  "lijenost": { "replacement": "🦥", "description": "sloth" },
+  "vidra": { "replacement": "🦦", "description": "otter" },
+  "tvor": { "replacement": "🦨", "description": "skunk" },
+  "klokan": { "replacement": "🦘", "description": "kangaroo" },
+  "jazavac": { "replacement": "🦡", "description": "badger" },
+  "stopala": { "replacement": "🐾", "description": "paw prints" },
+  "purica": { "replacement": "🦃", "description": "turkey" },
+  "piletina": { "replacement": "🐔", "description": "chicken" },
+  "pijetao": { "replacement": "🐓", "description": "rooster" },
+  "izleganje pilića": { "replacement": "🐣", "description": "hatching chick" },
+  "dječja kokoš": { "replacement": "🐤", "description": "baby chick" },
+  "izleglo pile": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "ptica": { "replacement": "🐦", "description": "bird" },
+  "pingvin": { "replacement": "🐧", "description": "penguin" },
+  "golubica": { "replacement": "🕊️", "description": "dove" },
+  "orao": { "replacement": "🦅", "description": "eagle" },
+  "patka": { "replacement": "🦆", "description": "duck" },
+  "labud": { "replacement": "🦢", "description": "swan" },
+  "sova": { "replacement": "🦉", "description": "owl" },
+  "dodo": { "replacement": "🦤", "description": "dodo" },
+  "pero": { "replacement": "🪶", "description": "feather" },
+  "flamingo": { "replacement": "🦩", "description": "flamingo" },
+  "paun": { "replacement": "🦚", "description": "peacock" },
+  "papiga": { "replacement": "🦜", "description": "parrot" },
+  "žaba": { "replacement": "🐸", "description": "frog" },
+  "krokodil": { "replacement": "🐊", "description": "crocodile" },
+  "kornjača": { "replacement": "🐢", "description": "turtle" },
+  "gušter": { "replacement": "🦎", "description": "lizard" },
+  "zmija": { "replacement": "🐍", "description": "snake" },
+  "zmajevo lice": { "replacement": "🐲", "description": "dragon face" },
+  "zmaj": { "replacement": "🪁", "description": "kite" },
+  "sauropod": { "replacement": "🦕", "description": "sauropod" },
+  "t-rex": { "replacement": "🦖", "description": "T-Rex" },
+  "kit": { "replacement": "🐳", "description": "spouting whale" },
+  "kit2": { "replacement": "🐋", "description": "whale" },
+  "dupin": { "replacement": "🐬", "description": "dolphin" },
+  "pečat": { "replacement": "🦭", "description": "seal" },
+  "riba": { "replacement": "🐟", "description": "fish" },
+  "tropska riba": { "replacement": "🐠", "description": "tropical fish" },
+  "puhalica": { "replacement": "🐡", "description": "blowfish" },
+  "morski pas": { "replacement": "🦈", "description": "shark" },
+  "hobotnica": { "replacement": "🐙", "description": "octopus" },
+  "ljuska": { "replacement": "🐚", "description": "spiral shell" },
+  "puž": { "replacement": "🐌", "description": "snail" },
+  "leptir": { "replacement": "🦋", "description": "butterfly" },
+  "buba": { "replacement": "🪲", "description": "beetle" },
+  "mrav": { "replacement": "🐜", "description": "ant" },
+  "pčela": { "replacement": "🐝", "description": "honeybee" },
+  "bubamara": { "replacement": "🐞", "description": "lady beetle" },
+  "kriket": { "replacement": "🦗", "description": "cricket" },
+  "žohar": { "replacement": "🪳", "description": "cockroach" },
+  "pauk": { "replacement": "🕷️", "description": "spider" },
+  "paukova mreža": { "replacement": "🕸️", "description": "spider web" },
+  "škorpion": { "replacement": "♏", "description": "Scorpio" },
+  "komarac": { "replacement": "🦟", "description": "mosquito" },
+  "letjeti": { "replacement": "🪰", "description": "fly" },
+  "crv": { "replacement": "🪱", "description": "worm" },
+  "mikrob": { "replacement": "🦠", "description": "microbe" },
+  "buket": { "replacement": "💐", "description": "bouquet" },
+  "cvijet trešnje": { "replacement": "🌸", "description": "cherry blossom" },
+  "bijeli cvijet": { "replacement": "💮", "description": "white flower" },
+  "rozeta": { "replacement": "🏵️", "description": "rosette" },
+  "ruža": { "replacement": "🌹", "description": "rose" },
+  "uvenuli cvijet": { "replacement": "🥀", "description": "wilted flower" },
+  "hibiskus": { "replacement": "🌺", "description": "hibiscus" },
+  "suncokret": { "replacement": "🌻", "description": "sunflower" },
+  "cvijet": { "replacement": "🌼", "description": "blossom" },
+  "lala": { "replacement": "🌷", "description": "tulip" },
+  "sadnica": { "replacement": "🌱", "description": "seedling" },
+  "biljka u saksiji": { "replacement": "🪴", "description": "potted plant" },
+  "zimzeleno drvo": { "replacement": "🌲", "description": "evergreen tree" },
+  "listopadno drvo": { "replacement": "🌳", "description": "deciduous tree" },
+  "palmino drvo": { "replacement": "🌴", "description": "palm tree" },
+  "kaktus": { "replacement": "🌵", "description": "cactus" },
+  "uho riže": { "replacement": "🌾", "description": "sheaf of rice" },
+  "biljka": { "replacement": "🌿", "description": "herb" },
+  "djetelina": { "replacement": "☘️", "description": "shamrock" },
+  "djetelina s četiri lista": {
+    "replacement": "🍀",
+    "description": "four leaf clover"
+  },
+  "javorov list": { "replacement": "🍁", "description": "maple leaf" },
+  "otpalo lišće": { "replacement": "🍂", "description": "fallen leaf" },
+  "lišće": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "grožđe": { "replacement": "🍇", "description": "grapes" },
+  "dinja": { "replacement": "🍈", "description": "melon" },
+  "lubenica": { "replacement": "🍉", "description": "watermelon" },
+  "mandarina": { "replacement": "🍊", "description": "tangerine" },
+  "limun": { "replacement": "🍋", "description": "lemon" },
+  "banana": { "replacement": "🍌", "description": "banana" },
+  "ananas": { "replacement": "🍍", "description": "pineapple" },
+  "mango": { "replacement": "🥭", "description": "mango" },
+  "jabuka": { "replacement": "🍎", "description": "red apple" },
+  "zelena jabuka": { "replacement": "🍏", "description": "green apple" },
+  "kruška": { "replacement": "🍐", "description": "pear" },
+  "breskva": { "replacement": "🍑", "description": "peach" },
+  "višnje": { "replacement": "🍒", "description": "cherries" },
+  "jagoda": { "replacement": "🍓", "description": "strawberry" },
+  "borovnice": { "replacement": "🫐", "description": "blueberries" },
+  "voće kivi": { "replacement": "🥝", "description": "kiwi fruit" },
+  "rajčica": { "replacement": "🍅", "description": "tomato" },
+  "maslina": { "replacement": "🫒", "description": "olive" },
+  "kokos": { "replacement": "🥥", "description": "coconut" },
+  "avokado": { "replacement": "🥑", "description": "avocado" },
+  "patlidžan": { "replacement": "🍆", "description": "eggplant" },
+  "krumpir": { "replacement": "🥔", "description": "potato" },
+  "mrkva": { "replacement": "🥕", "description": "carrot" },
+  "kukuruz": { "replacement": "🌽", "description": "ear of corn" },
+  "feferon": { "replacement": "🌶️", "description": "hot pepper" },
+  "babura paprika": { "replacement": "🫑", "description": "bell pepper" },
+  "krastavac": { "replacement": "🥒", "description": "cucumber" },
+  "lisnato zeleno": { "replacement": "🥬", "description": "leafy green" },
+  "brokula": { "replacement": "🥦", "description": "broccoli" },
+  "češnjak": { "replacement": "🧄", "description": "garlic" },
+  "luk": { "replacement": "🧅", "description": "onion" },
+  "gljiva": { "replacement": "🍄", "description": "mushroom" },
+  "kikiriki": { "replacement": "🥜", "description": "peanuts" },
+  "kesten": { "replacement": "🌰", "description": "chestnut" },
+  "kruh": { "replacement": "🍞", "description": "bread" },
+  "kroasan": { "replacement": "🥐", "description": "croissant" },
+  "baguette kruh": { "replacement": "🥖", "description": "baguette bread" },
+  "somun": { "replacement": "🫓", "description": "flatbread" },
+  "pereca": { "replacement": "🥨", "description": "pretzel" },
+  "Pecivo": { "replacement": "🥯", "description": "bagel" },
+  "palačinke": { "replacement": "🥞", "description": "pancakes" },
+  "blebetanje": { "replacement": "🧇", "description": "waffle" },
+  "sir": { "replacement": "🧀", "description": "cheese wedge" },
+  "meso na kosti": { "replacement": "🍖", "description": "meat on bone" },
+  "noga peradi": { "replacement": "🍗", "description": "poultry leg" },
+  "rez mesa": { "replacement": "🥩", "description": "cut of meat" },
+  "slanina": { "replacement": "🥓", "description": "bacon" },
+  "hamburger": { "replacement": "🍔", "description": "hamburger" },
+  "pomfrit": { "replacement": "🍟", "description": "french fries" },
+  "pizza": { "replacement": "🍕", "description": "pizza" },
+  "hotdog": { "replacement": "🌭", "description": "hot dog" },
+  "sendvič": { "replacement": "🥪", "description": "sandwich" },
+  "taco": { "replacement": "🌮", "description": "taco" },
+  "burrito": { "replacement": "🌯", "description": "burrito" },
+  "tamale": { "replacement": "🫔", "description": "tamale" },
+  "punjeni somun": { "replacement": "🥙", "description": "stuffed flatbread" },
+  "falafel": { "replacement": "🧆", "description": "falafel" },
+  "jaje": { "replacement": "🥚", "description": "egg" },
+  "prženo jaje": { "replacement": "🍳", "description": "cooking" },
+  "plitka posuda s hranom": {
+    "replacement": "🥘",
+    "description": "shallow pan of food"
+  },
+  "paprikaš": { "replacement": "🍲", "description": "pot of food" },
+  "fondi": { "replacement": "🫕", "description": "fondue" },
+  "zdjela sa žlicom": { "replacement": "🥣", "description": "bowl with spoon" },
+  "zelena salata": { "replacement": "🥗", "description": "green salad" },
+  "kokice": { "replacement": "🍿", "description": "popcorn" },
+  "maslac": { "replacement": "🧈", "description": "butter" },
+  "sol": { "replacement": "🧂", "description": "salt" },
+  "konzervirana hrana": { "replacement": "🥫", "description": "canned food" },
+  "bento": { "replacement": "🍱", "description": "bento box" },
+  "riža kreker": { "replacement": "🍘", "description": "rice cracker" },
+  "kugla riže": { "replacement": "🍙", "description": "rice ball" },
+  "riža": { "replacement": "🍚", "description": "cooked rice" },
+  "curry": { "replacement": "🍛", "description": "curry rice" },
+  "ramen": { "replacement": "🍜", "description": "steaming bowl" },
+  "špageti": { "replacement": "🍝", "description": "spaghetti" },
+  "slatki krumpir": {
+    "replacement": "🍠",
+    "description": "roasted sweet potato"
+  },
+  "oden": { "replacement": "🍢", "description": "oden" },
+  "suši": { "replacement": "🍣", "description": "sushi" },
+  "pržene škampi": { "replacement": "🍤", "description": "fried shrimp" },
+  "riblji kolač": {
+    "replacement": "🍥",
+    "description": "fish cake with swirl"
+  },
+  "mjesecev kolac": { "replacement": "🥮", "description": "moon cake" },
+  "dango": { "replacement": "🍡", "description": "dango" },
+  "knedla": { "replacement": "🥟", "description": "dumpling" },
+  "kolačić sudbine": { "replacement": "🥠", "description": "fortune cookie" },
+  "kutija za iznošenje": { "replacement": "🥡", "description": "takeout box" },
+  "Rak": { "replacement": "♋", "description": "Cancer" },
+  "jastog": { "replacement": "🦞", "description": "lobster" },
+  "škampi": { "replacement": "🦐", "description": "shrimp" },
+  "lignje": { "replacement": "🦑", "description": "squid" },
+  "kamenica": { "replacement": "🦪", "description": "oyster" },
+  "sladoled": { "replacement": "🍨", "description": "ice cream" },
+  "obrijani led": { "replacement": "🍧", "description": "shaved ice" },
+  "krafna": { "replacement": "🍩", "description": "doughnut" },
+  "kolačić": { "replacement": "🍪", "description": "cookie" },
+  "rođendan": { "replacement": "🎂", "description": "birthday cake" },
+  "torta": { "replacement": "🍰", "description": "shortcake" },
+  "Kolačić": { "replacement": "🧁", "description": "cupcake" },
+  "pita": { "replacement": "🥧", "description": "pie" },
+  "čokoladica": { "replacement": "🍫", "description": "chocolate bar" },
+  "bombon": { "replacement": "🍬", "description": "candy" },
+  "lizalica": { "replacement": "🍭", "description": "lollipop" },
+  "krema": { "replacement": "🍮", "description": "custard" },
+  "lonac meda": { "replacement": "🍯", "description": "honey pot" },
+  "bočica za bebu": { "replacement": "🍼", "description": "baby bottle" },
+  "čaša za mlijeko": { "replacement": "🥛", "description": "glass of milk" },
+  "kava": { "replacement": "☕", "description": "hot beverage" },
+  "čajnik": { "replacement": "🫖", "description": "teapot" },
+  "čaj": { "replacement": "🍵", "description": "teacup without handle" },
+  "sake": { "replacement": "🍶", "description": "sake" },
+  "šampanjac": {
+    "replacement": "🍾",
+    "description": "bottle with popping cork"
+  },
+  "čaša za vino": { "replacement": "🍷", "description": "wine glass" },
+  "koktel": { "replacement": "🍸", "description": "cocktail glass" },
+  "tropsko piće": { "replacement": "🍹", "description": "tropical drink" },
+  "pivo": { "replacement": "🍺", "description": "beer mug" },
+  "piva": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "zveckanje naočala": {
+    "replacement": "🥂",
+    "description": "clinking glasses"
+  },
+  "staklo za prevrtanje": {
+    "replacement": "🥃",
+    "description": "tumbler glass"
+  },
+  "šalica sa slamom": { "replacement": "🥤", "description": "cup with straw" },
+  "Čaj s mjehurićima": { "replacement": "🧋", "description": "bubble tea" },
+  "kutija za piće": { "replacement": "🧃", "description": "beverage box" },
+  "pariti": { "replacement": "🧉", "description": "mate" },
+  "kocka leda": { "replacement": "🧊", "description": "ice" },
+  "štapići za jelo": { "replacement": "🥢", "description": "chopsticks" },
+  "tanjur s priborom za jelo": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "vilica i nož": { "replacement": "🍴", "description": "fork and knife" },
+  "žlica": { "replacement": "🥄", "description": "spoon" },
+  "hocho": { "replacement": "🔪", "description": "kitchen knife" },
+  "amfora": { "replacement": "🏺", "description": "amphora" },
+  "zemlja afrika": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "zemaljske amerike": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "zemlja azija": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "globus s meridijanima": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "karta svijeta": { "replacement": "🗺️", "description": "world map" },
+  "Japan": { "replacement": "🗾", "description": "map of Japan" },
+  "kompas": { "replacement": "🧭", "description": "compass" },
+  "planinski snijeg": {
+    "replacement": "🏔️",
+    "description": "snow-capped mountain"
+  },
+  "planina": { "replacement": "⛰️", "description": "mountain" },
+  "vulkan": { "replacement": "🌋", "description": "volcano" },
+  "planina fuji": { "replacement": "🗻", "description": "mount fuji" },
+  "kampiranje": { "replacement": "🏕️", "description": "camping" },
+  "suncobran": { "replacement": "🏖️", "description": "beach with umbrella" },
+  "pustinja": { "replacement": "🏜️", "description": "desert" },
+  "pustinjski otok": { "replacement": "🏝️", "description": "desert island" },
+  "Nacionalni park": { "replacement": "🏞️", "description": "national park" },
+  "stadion": { "replacement": "🏟️", "description": "stadium" },
+  "klasična građevina": {
+    "replacement": "🏛️",
+    "description": "classical building"
+  },
+  "visokogradnja": {
+    "replacement": "🏗️",
+    "description": "building construction"
+  },
+  "cigle": { "replacement": "🧱", "description": "brick" },
+  "stijena": { "replacement": "🪨", "description": "rock" },
+  "drvo": { "replacement": "🪵", "description": "wood" },
+  "koliba": { "replacement": "🛖", "description": "hut" },
+  "kuće": { "replacement": "🏘️", "description": "houses" },
+  "zapuštena kuća": { "replacement": "🏚️", "description": "derelict house" },
+  "kuća": { "replacement": "🏠", "description": "house" },
+  "kuća s vrtom": { "replacement": "🏡", "description": "house with garden" },
+  "ured": { "replacement": "🏢", "description": "office building" },
+  "Poštanski ured": {
+    "replacement": "🏣",
+    "description": "Japanese post office"
+  },
+  "europska pošta": { "replacement": "🏤", "description": "post office" },
+  "bolnica": { "replacement": "🏥", "description": "hospital" },
+  "banka": { "replacement": "🏦", "description": "bank" },
+  "hotel": { "replacement": "🏨", "description": "hotel" },
+  "ljubavni hotel": { "replacement": "🏩", "description": "love hotel" },
+  "mini market": { "replacement": "🏪", "description": "convenience store" },
+  "škola": { "replacement": "🏫", "description": "school" },
+  "robna kuća": { "replacement": "🏬", "description": "department store" },
+  "tvornica": { "replacement": "🏭", "description": "factory" },
+  "japanski dvorac": { "replacement": "🏯", "description": "Japanese castle" },
+  "europski dvorac": { "replacement": "🏰", "description": "castle" },
+  "vjenčanje": { "replacement": "💒", "description": "wedding" },
+  "tokijski toranj": { "replacement": "🗼", "description": "Tokyo tower" },
+  "kip slobode": { "replacement": "🗽", "description": "Statue of Liberty" },
+  "crkva": { "replacement": "⛪", "description": "church" },
+  "džamija": { "replacement": "🕌", "description": "mosque" },
+  "hinduistički hram": { "replacement": "🛕", "description": "hindu temple" },
+  "sinagoga": { "replacement": "🕍", "description": "synagogue" },
+  "šintoističko svetište": {
+    "replacement": "⛩️",
+    "description": "shinto shrine"
+  },
+  "kaaba": { "replacement": "🕋", "description": "kaaba" },
+  "fontana": { "replacement": "⛲", "description": "fountain" },
+  "šator": { "replacement": "⛺", "description": "tent" },
+  "maglovit": { "replacement": "🌁", "description": "foggy" },
+  "noć sa zvijezdama": {
+    "replacement": "🌃",
+    "description": "night with stars"
+  },
+  "gradski krajolik": { "replacement": "🏙️", "description": "cityscape" },
+  "izlazak sunca nad planinama": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "izlazak sunca": { "replacement": "🌅", "description": "sunrise" },
+  "zalazak sunca u gradu": {
+    "replacement": "🌆",
+    "description": "cityscape at dusk"
+  },
+  "izlazak grada": { "replacement": "🌇", "description": "sunset" },
+  "most noću": { "replacement": "🌉", "description": "bridge at night" },
+  "izvori vruće vode": { "replacement": "♨️", "description": "hot springs" },
+  "vrtuljak konj": { "replacement": "🎠", "description": "carousel horse" },
+  "ferrisko kolo": { "replacement": "🎡", "description": "ferris wheel" },
+  "brdska željeznica": { "replacement": "🎢", "description": "roller coaster" },
+  "brijač": { "replacement": "💈", "description": "barber pole" },
+  "cirkuski šator": { "replacement": "🎪", "description": "circus tent" },
+  "Parna Lokomotiva": { "replacement": "🚂", "description": "locomotive" },
+  "željeznički vagon": { "replacement": "🚃", "description": "railway car" },
+  "strana metka": { "replacement": "🚄", "description": "high-speed train" },
+  "bullettrain sprijeda": {
+    "replacement": "🚅",
+    "description": "bullet train"
+  },
+  "vlak2": { "replacement": "🚆", "description": "train" },
+  "metro": { "replacement": "🚇", "description": "metro" },
+  "laka željeznica": { "replacement": "🚈", "description": "light rail" },
+  "stanica": { "replacement": "🚉", "description": "station" },
+  "tramvaj": { "replacement": "🚊", "description": "tram" },
+  "pruga sa jednim kolosjekom": {
+    "replacement": "🚝",
+    "description": "monorail"
+  },
+  "planinska željeznica": {
+    "replacement": "🚞",
+    "description": "mountain railway"
+  },
+  "vlak": { "replacement": "🚋", "description": "tram car" },
+  "autobus": { "replacement": "🚌", "description": "bus" },
+  "nadolazeći autobus": { "replacement": "🚍", "description": "oncoming bus" },
+  "trolejbus": { "replacement": "🚎", "description": "trolleybus" },
+  "minibus": { "replacement": "🚐", "description": "minibus" },
+  "kola hitne pomoći": { "replacement": "🚑", "description": "ambulance" },
+  "vatrogasna kola": { "replacement": "🚒", "description": "fire engine" },
+  "policijski auto": { "replacement": "🚓", "description": "police car" },
+  "nadolazeći policijski automobil": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "taksi": { "replacement": "🚕", "description": "taxi" },
+  "nadolazeći taksi": { "replacement": "🚖", "description": "oncoming taxi" },
+  "automobil": { "replacement": "🚗", "description": "automobile" },
+  "nadolazeći automobil": {
+    "replacement": "🚘",
+    "description": "oncoming automobile"
+  },
+  "plavi auto": { "replacement": "🚙", "description": "sport utility vehicle" },
+  "kamionet": { "replacement": "🛻", "description": "pickup truck" },
+  "kamion": { "replacement": "🚚", "description": "delivery truck" },
+  "zglobni kamion": { "replacement": "🚛", "description": "articulated lorry" },
+  "traktor": { "replacement": "🚜", "description": "tractor" },
+  "trkači automobil": { "replacement": "🏎️", "description": "racing car" },
+  "motocikl": { "replacement": "🏍️", "description": "motorcycle" },
+  "motorni skuter": { "replacement": "🛵", "description": "motor scooter" },
+  "ručna invalidska kolica": {
+    "replacement": "🦽",
+    "description": "manual wheelchair"
+  },
+  "motorna kolica": {
+    "replacement": "🦼",
+    "description": "motorized wheelchair"
+  },
+  "auto rikša": { "replacement": "🛺", "description": "auto rickshaw" },
+  "bicikl": { "replacement": "🚲", "description": "bicycle" },
+  "kick skuter": { "replacement": "🛴", "description": "kick scooter" },
+  "skejtbord": { "replacement": "🛹", "description": "skateboard" },
+  "rolšua": { "replacement": "🛼", "description": "roller skate" },
+  "Autobusna postaja": { "replacement": "🚏", "description": "bus stop" },
+  "autocesta": { "replacement": "🛣️", "description": "motorway" },
+  "željeznička pruga": { "replacement": "🛤️", "description": "railway track" },
+  "bubanj za ulje": { "replacement": "🛢️", "description": "oil drum" },
+  "Pumpa za gorivo": { "replacement": "⛽", "description": "fuel pump" },
+  "rotirajuće svjetlo": {
+    "replacement": "🚨",
+    "description": "police car light"
+  },
+  "semafor": { "replacement": "🚥", "description": "horizontal traffic light" },
+  "vertikalni semafor": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "znak stop": { "replacement": "🛑", "description": "stop sign" },
+  "građevinarstvo": { "replacement": "🚧", "description": "construction" },
+  "sidro": { "replacement": "⚓", "description": "anchor" },
+  "kanu": { "replacement": "🛶", "description": "canoe" },
+  "gliser": { "replacement": "🚤", "description": "speedboat" },
+  "putnički brod": { "replacement": "🛳️", "description": "passenger ship" },
+  "trajekt": { "replacement": "⛴️", "description": "ferry" },
+  "motorni čamac": { "replacement": "🛥️", "description": "motor boat" },
+  "brod": { "replacement": "🚢", "description": "ship" },
+  "zrakoplov": { "replacement": "✈️", "description": "airplane" },
+  "mali zrakoplov": { "replacement": "🛩️", "description": "small airplane" },
+  "odlazak leta": { "replacement": "🛫", "description": "airplane departure" },
+  "dolazak leta": { "replacement": "🛬", "description": "airplane arrival" },
+  "padobran": { "replacement": "🪂", "description": "parachute" },
+  "sjedalo": { "replacement": "💺", "description": "seat" },
+  "helikopter": { "replacement": "🚁", "description": "helicopter" },
+  "ovjesna željeznica": {
+    "replacement": "🚟",
+    "description": "suspension railway"
+  },
+  "planinska žičara": {
+    "replacement": "🚠",
+    "description": "mountain cableway"
+  },
+  "zračni tramvaj": { "replacement": "🚡", "description": "aerial tramway" },
+  "umjetni satelit": { "replacement": "🛰️", "description": "satellite" },
+  "raketa": { "replacement": "🚀", "description": "rocket" },
+  "leteći tanjur": { "replacement": "🛸", "description": "flying saucer" },
+  "zvono zvono": { "replacement": "🛎️", "description": "bellhop bell" },
+  "prtljaga": { "replacement": "🧳", "description": "luggage" },
+  "pješčani sat": { "replacement": "⌛", "description": "hourglass done" },
+  "pješčani sat koji teče pijesak": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "Gledati": { "replacement": "⌚", "description": "watch" },
+  "budilica": { "replacement": "⏰", "description": "alarm clock" },
+  "štoperica": { "replacement": "⏱️", "description": "stopwatch" },
+  "tajmer sat": { "replacement": "⏲️", "description": "timer clock" },
+  "sat na kaminu": { "replacement": "🕰️", "description": "mantelpiece clock" },
+  "sat12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "sat1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "sat1": { "replacement": "🕐", "description": "one o’clock" },
+  "sat130": { "replacement": "🕜", "description": "one-thirty" },
+  "sat2": { "replacement": "🕑", "description": "two o’clock" },
+  "sat230": { "replacement": "🕝", "description": "two-thirty" },
+  "sat3": { "replacement": "🕒", "description": "three o’clock" },
+  "sat330": { "replacement": "🕞", "description": "three-thirty" },
+  "sat4": { "replacement": "🕓", "description": "four o’clock" },
+  "sat430": { "replacement": "🕟", "description": "four-thirty" },
+  "sat5": { "replacement": "🕔", "description": "five o’clock" },
+  "sat530": { "replacement": "🕠", "description": "five-thirty" },
+  "sat6": { "replacement": "🕕", "description": "six o’clock" },
+  "sat630": { "replacement": "🕡", "description": "six-thirty" },
+  "sat7": { "replacement": "🕖", "description": "seven o’clock" },
+  "sat730": { "replacement": "🕢", "description": "seven-thirty" },
+  "sat8": { "replacement": "🕗", "description": "eight o’clock" },
+  "sat830": { "replacement": "🕣", "description": "eight-thirty" },
+  "sat9": { "replacement": "🕘", "description": "nine o’clock" },
+  "sat930": { "replacement": "🕤", "description": "nine-thirty" },
+  "sat10": { "replacement": "🕙", "description": "ten o’clock" },
+  "sat1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "sat11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "sat1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "mladi mjesec": { "replacement": "🌑", "description": "new moon" },
+  "rastući polumjesec": {
+    "replacement": "🌒",
+    "description": "waxing crescent moon"
+  },
+  "mjesec prvog kvartala": {
+    "replacement": "🌓",
+    "description": "first quarter moon"
+  },
+  "mjesec": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "Puni mjesec": { "replacement": "🌕", "description": "full moon" },
+  "opadajući gibavi mjesec": {
+    "replacement": "🌖",
+    "description": "waning gibbous moon"
+  },
+  "posljednja četvrt mjeseca": {
+    "replacement": "🌗",
+    "description": "last quarter moon"
+  },
+  "opadajući polumjesec": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "polumjesec": { "replacement": "🌙", "description": "crescent moon" },
+  "mladi mjesec s licem": {
+    "replacement": "🌚",
+    "description": "new moon face"
+  },
+  "mjesec prvog kvartala s licem": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "posljednja četvrt mjeseca s licem": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "termometar": { "replacement": "🌡️", "description": "thermometer" },
+  "sunčano": { "replacement": "☀️", "description": "sun" },
+  "pun mjesec s licem": {
+    "replacement": "🌝",
+    "description": "full moon face"
+  },
+  "sunce s licem": { "replacement": "🌞", "description": "sun with face" },
+  "prstenasti planet": { "replacement": "🪐", "description": "ringed planet" },
+  "zvijezda": { "replacement": "⭐", "description": "star" },
+  "zvijezda2": { "replacement": "🌟", "description": "glowing star" },
+  "zvijezde": { "replacement": "🌠", "description": "shooting star" },
+  "mliječna staza": { "replacement": "🌌", "description": "milky way" },
+  "oblak": { "replacement": "☁️", "description": "cloud" },
+  "djelomično sunčano": {
+    "replacement": "⛅",
+    "description": "sun behind cloud"
+  },
+  "oblak s munjama i kišom": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "sunce iza malog oblaka": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "sunce iza velikog oblaka": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "sunce iza kišnog oblaka": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "oblak s kišom": { "replacement": "🌧️", "description": "cloud with rain" },
+  "oblak sa snijegom": {
+    "replacement": "🌨️",
+    "description": "cloud with snow"
+  },
+  "oblak s munjom": {
+    "replacement": "🌩️",
+    "description": "cloud with lightning"
+  },
+  "tornado": { "replacement": "🌪️", "description": "tornado" },
+  "magla": { "replacement": "🌫️", "description": "fog" },
+  "vjetar lice": { "replacement": "🌬️", "description": "wind face" },
+  "ciklon": { "replacement": "🌀", "description": "cyclone" },
+  "duga": { "replacement": "🌈", "description": "rainbow" },
+  "zatvoreni kišobran": {
+    "replacement": "🌂",
+    "description": "closed umbrella"
+  },
+  "otvoreni kišobran": { "replacement": "☂️", "description": "umbrella" },
+  "kišobran": {
+    "replacement": "☔",
+    "description": "umbrella with rain drops"
+  },
+  "suncobran na tlu": {
+    "replacement": "⛱️",
+    "description": "umbrella on ground"
+  },
+  "zap": { "replacement": "⚡", "description": "high voltage" },
+  "pahuljica": { "replacement": "❄️", "description": "snowflake" },
+  "snjegović sa snijegom": { "replacement": "☃️", "description": "snowman" },
+  "snjegović": { "replacement": "⛄", "description": "snowman without snow" },
+  "kometa": { "replacement": "☄️", "description": "comet" },
+  "vatra": { "replacement": "🔥", "description": "fire" },
+  "kapljica": { "replacement": "💧", "description": "droplet" },
+  "ocean": { "replacement": "🌊", "description": "water wave" },
+  "bundeva": { "replacement": "🎃", "description": "jack-o-lantern" },
+  "božićno drvce": { "replacement": "🎄", "description": "Christmas tree" },
+  "vatromet": { "replacement": "🎆", "description": "fireworks" },
+  "blistavi dragi kamen": { "replacement": "🎇", "description": "sparkler" },
+  "petarda": { "replacement": "🧨", "description": "firecracker" },
+  "svjetluca": { "replacement": "✨", "description": "sparkles" },
+  "balon": { "replacement": "🎈", "description": "balloon" },
+  "tada": { "replacement": "🎉", "description": "party popper" },
+  "kugla za konfete": { "replacement": "🎊", "description": "confetti ball" },
+  "stablo tanabata": { "replacement": "🎋", "description": "tanabata tree" },
+  "bambus": { "replacement": "🎍", "description": "pine decoration" },
+  "lutke": { "replacement": "🎎", "description": "Japanese dolls" },
+  "zastave": { "replacement": "🎏", "description": "carp streamer" },
+  "zvuk vjetra": { "replacement": "🎐", "description": "wind chime" },
+  "scena riže": { "replacement": "🎑", "description": "moon viewing ceremony" },
+  "crvena omotnica": { "replacement": "🧧", "description": "red envelope" },
+  "vrpca": { "replacement": "🎀", "description": "ribbon" },
+  "dar": { "replacement": "🎁", "description": "wrapped gift" },
+  "vrpca za podsjetnik": {
+    "replacement": "🎗️",
+    "description": "reminder ribbon"
+  },
+  "ulaznice": { "replacement": "🎟️", "description": "admission tickets" },
+  "ulaznica": { "replacement": "🎫", "description": "ticket" },
+  "medalja vojna": { "replacement": "🎖️", "description": "military medal" },
+  "trofej": { "replacement": "🏆", "description": "trophy" },
+  "sportovi s medaljama": {
+    "replacement": "🏅",
+    "description": "sports medal"
+  },
+  "Medalja za 1. mjesto": {
+    "replacement": "🥇",
+    "description": "1st place medal"
+  },
+  "Medalja za 2. mjesto": {
+    "replacement": "🥈",
+    "description": "2nd place medal"
+  },
+  "Medalja za 3. mjesto": {
+    "replacement": "🥉",
+    "description": "3rd place medal"
+  },
+  "nogomet": { "replacement": "🏈", "description": "american football" },
+  "bejzbol": { "replacement": "⚾", "description": "baseball" },
+  "softball": { "replacement": "🥎", "description": "softball" },
+  "košarka": { "replacement": "🏀", "description": "basketball" },
+  "odbojka": { "replacement": "🏐", "description": "volleyball" },
+  "ragbi nogomet": { "replacement": "🏉", "description": "rugby football" },
+  "tenis": { "replacement": "🎾", "description": "tennis" },
+  "leteći disk": { "replacement": "🥏", "description": "flying disc" },
+  "kuglanje": { "replacement": "🎳", "description": "bowling" },
+  "kriket igra": { "replacement": "🏏", "description": "cricket game" },
+  "Hokej na travi": { "replacement": "🏑", "description": "field hockey" },
+  "Hokej": { "replacement": "🏒", "description": "ice hockey" },
+  "lacrosse": { "replacement": "🥍", "description": "lacrosse" },
+  "stolni tenis": { "replacement": "🏓", "description": "ping pong" },
+  "badminton": { "replacement": "🏸", "description": "badminton" },
+  "bokserska rukavica": { "replacement": "🥊", "description": "boxing glove" },
+  "odora borilačkih vještina": {
+    "replacement": "🥋",
+    "description": "martial arts uniform"
+  },
+  "mrežu golova": { "replacement": "🥅", "description": "goal net" },
+  "klizanje na ledu": { "replacement": "⛸️", "description": "ice skate" },
+  "štap i riba": { "replacement": "🎣", "description": "fishing pole" },
+  "maska ​​za ronjenje": { "replacement": "🤿", "description": "diving mask" },
+  "košulja za trčanje s remenom": {
+    "replacement": "🎽",
+    "description": "running shirt"
+  },
+  "skijati": { "replacement": "🎿", "description": "skis" },
+  "sanke": { "replacement": "🛷", "description": "sled" },
+  "kamen za uvijanje": { "replacement": "🥌", "description": "curling stone" },
+  "strijelica": { "replacement": "🎯", "description": "direct hit" },
+  "yo yo": { "replacement": "🪀", "description": "yo-yo" },
+  "8 lopta": { "replacement": "🎱", "description": "pool 8 ball" },
+  "Kristalna kugla": { "replacement": "🔮", "description": "crystal ball" },
+  "čarobni štapić": { "replacement": "🪄", "description": "magic wand" },
+  "nazar amulet": { "replacement": "🧿", "description": "nazar amulet" },
+  "video igra": { "replacement": "🎮", "description": "video game" },
+  "džojstik": { "replacement": "🕹️", "description": "joystick" },
+  "automat za kockanje": { "replacement": "🎰", "description": "slot machine" },
+  "divljač umrijeti": { "replacement": "🎲", "description": "game die" },
+  "slagalica": { "replacement": "🧩", "description": "puzzle piece" },
+  "plišani medvjedić": { "replacement": "🧸", "description": "teddy bear" },
+  "pinjata": { "replacement": "🪅", "description": "piñata" },
+  "gnjezdarice": { "replacement": "🪆", "description": "nesting dolls" },
+  "pik": { "replacement": "♠️", "description": "spade suit" },
+  "srca": { "replacement": "♥️", "description": "heart suit" },
+  "dijamant": { "replacement": "♦️", "description": "diamond suit" },
+  "klubovi": { "replacement": "♣️", "description": "club suit" },
+  "šahovski pijun": { "replacement": "♟️", "description": "chess pawn" },
+  "crni joker": { "replacement": "🃏", "description": "joker" },
+  "mahjong": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "karte za igranje cvijeća": {
+    "replacement": "🎴",
+    "description": "flower playing cards"
+  },
+  "izvedbena umjetnost": {
+    "replacement": "🎭",
+    "description": "performing arts"
+  },
+  "uokvirena slika": { "replacement": "🖼️", "description": "framed picture" },
+  "umjetnost": { "replacement": "🎨", "description": "artist palette" },
+  "nit": { "replacement": "🧵", "description": "thread" },
+  "igla za šivanje": { "replacement": "🪡", "description": "sewing needle" },
+  "pređa": { "replacement": "🧶", "description": "yarn" },
+  "čvor": { "replacement": "🪢", "description": "knot" },
+  "naočale": { "replacement": "👓", "description": "glasses" },
+  "tamne sunčane naočale": { "replacement": "🕶️", "description": "sunglasses" },
+  "zaštitne naočale": { "replacement": "🥽", "description": "goggles" },
+  "Laboratorijska kuta": { "replacement": "🥼", "description": "lab coat" },
+  "sigurnosni prsluk": { "replacement": "🦺", "description": "safety vest" },
+  "kravata": { "replacement": "👔", "description": "necktie" },
+  "košulja": { "replacement": "👕", "description": "t-shirt" },
+  "traperice": { "replacement": "👖", "description": "jeans" },
+  "šal": { "replacement": "🧣", "description": "scarf" },
+  "rukavice": { "replacement": "🧤", "description": "gloves" },
+  "kaput": { "replacement": "🧥", "description": "coat" },
+  "čarape": { "replacement": "🧦", "description": "socks" },
+  "haljina": { "replacement": "👗", "description": "dress" },
+  "kimono": { "replacement": "👘", "description": "kimono" },
+  "sari": { "replacement": "🥻", "description": "sari" },
+  "jednodijelni kupaći kostim": {
+    "replacement": "🩱",
+    "description": "one-piece swimsuit"
+  },
+  "plivati ​​kratko": { "replacement": "🩲", "description": "briefs" },
+  "kratke hlače": { "replacement": "🩳", "description": "shorts" },
+  "bikini": { "replacement": "👙", "description": "bikini" },
+  "ženska odjeća": { "replacement": "👚", "description": "woman’s clothes" },
+  "torbica": { "replacement": "👜", "description": "handbag" },
+  "vrećica": { "replacement": "👝", "description": "clutch bag" },
+  "kupovina": { "replacement": "🛍️", "description": "shopping bags" },
+  "školska torba": { "replacement": "🎒", "description": "backpack" },
+  "tanga sandala": { "replacement": "🩴", "description": "thong sandal" },
+  "mans cipela": { "replacement": "👞", "description": "man’s shoe" },
+  "atletska cipela": { "replacement": "👟", "description": "running shoe" },
+  "planinarska čizma": { "replacement": "🥾", "description": "hiking boot" },
+  "ravna cipela": { "replacement": "🥿", "description": "flat shoe" },
+  "visoka peta": { "replacement": "👠", "description": "high-heeled shoe" },
+  "sandala": { "replacement": "👡", "description": "woman’s sandal" },
+  "baletne cipele": { "replacement": "🩰", "description": "ballet shoes" },
+  "čizma": { "replacement": "👢", "description": "woman’s boot" },
+  "kruna": { "replacement": "👑", "description": "crown" },
+  "ženska kapa": { "replacement": "👒", "description": "woman’s hat" },
+  "cilindar": { "replacement": "🎩", "description": "top hat" },
+  "mortna daska": { "replacement": "🎓", "description": "graduation cap" },
+  "naplaćena kapa": { "replacement": "🧢", "description": "billed cap" },
+  "vojna kaciga": { "replacement": "🪖", "description": "military helmet" },
+  "kaciga spasilaca": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "molitvene kuglice": { "replacement": "📿", "description": "prayer beads" },
+  "ruž": { "replacement": "💄", "description": "lipstick" },
+  "prsten": { "replacement": "💍", "description": "ring" },
+  "dragulj": { "replacement": "💎", "description": "gem stone" },
+  "nijemi": { "replacement": "🔇", "description": "muted speaker" },
+  "zvučnik": { "replacement": "📢", "description": "loudspeaker" },
+  "zvuk": { "replacement": "🔉", "description": "speaker medium volume" },
+  "glasan zvuk": { "replacement": "🔊", "description": "speaker high volume" },
+  "mega": { "replacement": "📣", "description": "megaphone" },
+  "poštanski rog": { "replacement": "📯", "description": "postal horn" },
+  "zvono": { "replacement": "🔔", "description": "bell" },
+  "bez zvona": { "replacement": "🔕", "description": "bell with slash" },
+  "notna glazba": { "replacement": "🎼", "description": "musical score" },
+  "glazbena nota": { "replacement": "🎵", "description": "musical note" },
+  "bilješke": { "replacement": "🎶", "description": "musical notes" },
+  "studijski mikrofon": {
+    "replacement": "🎙️",
+    "description": "studio microphone"
+  },
+  "klizač za nivo": { "replacement": "🎚️", "description": "level slider" },
+  "gumbi za upravljanje": {
+    "replacement": "🎛️",
+    "description": "control knobs"
+  },
+  "mikrofon": { "replacement": "🎤", "description": "microphone" },
+  "slušalice": { "replacement": "🎧", "description": "headphone" },
+  "radio": { "replacement": "📻", "description": "radio" },
+  "saksofon": { "replacement": "🎷", "description": "saxophone" },
+  "harmonika": { "replacement": "🪗", "description": "accordion" },
+  "gitara": { "replacement": "🎸", "description": "guitar" },
+  "glazbena tipkovnica": {
+    "replacement": "🎹",
+    "description": "musical keyboard"
+  },
+  "truba": { "replacement": "🎺", "description": "trumpet" },
+  "violina": { "replacement": "🎻", "description": "violin" },
+  "bendžo": { "replacement": "🪕", "description": "banjo" },
+  "bubanj": { "replacement": "🥁", "description": "drum" },
+  "dugački bubanj": { "replacement": "🪘", "description": "long drum" },
+  "iphone": { "replacement": "📱", "description": "mobile phone" },
+  "pozivajući": {
+    "replacement": "📲",
+    "description": "mobile phone with arrow"
+  },
+  "telefon": { "replacement": "☎️", "description": "telephone" },
+  "telefonska slušalica": {
+    "replacement": "📞",
+    "description": "telephone receiver"
+  },
+  "dojavljivač": { "replacement": "📟", "description": "pager" },
+  "faks": { "replacement": "📠", "description": "fax machine" },
+  "baterija": { "replacement": "🔋", "description": "battery" },
+  "električni utikač": { "replacement": "🔌", "description": "electric plug" },
+  "Računalo": { "replacement": "💻", "description": "laptop" },
+  "stolno računalo": { "replacement": "🖥️", "description": "desktop computer" },
+  "pisač": { "replacement": "🖨️", "description": "printer" },
+  "tipkovnica": { "replacement": "⌨️", "description": "keyboard" },
+  "kompjuterski miš": { "replacement": "🖱️", "description": "computer mouse" },
+  "trackball": { "replacement": "🖲️", "description": "trackball" },
+  "minidisc": { "replacement": "💽", "description": "computer disk" },
+  "disketa": { "replacement": "💾", "description": "floppy disk" },
+  "CD": { "replacement": "💿", "description": "optical disk" },
+  "DVD": { "replacement": "📀", "description": "dvd" },
+  "abakus": { "replacement": "🧮", "description": "abacus" },
+  "filmska kamera": { "replacement": "🎥", "description": "movie camera" },
+  "filmska traka": { "replacement": "🎞️", "description": "film frames" },
+  "filmski projektor": { "replacement": "📽️", "description": "film projector" },
+  "pljeskanje": { "replacement": "🎬", "description": "clapper board" },
+  "televizor": { "replacement": "📺", "description": "television" },
+  "fotoaparat": { "replacement": "📷", "description": "camera" },
+  "bljeskalica fotoaparata": {
+    "replacement": "📸",
+    "description": "camera with flash"
+  },
+  "videokamera": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "mag desno": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "svijeća": { "replacement": "🕯️", "description": "candle" },
+  "žarulja": { "replacement": "💡", "description": "light bulb" },
+  "baterijska svjetiljka": { "replacement": "🔦", "description": "flashlight" },
+  "izakaya fenjer": { "replacement": "🏮", "description": "red paper lantern" },
+  "diya lampa": { "replacement": "🪔", "description": "diya lamp" },
+  "bilježnica s ukrasnim koricama": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "zatvorena knjiga": { "replacement": "📕", "description": "closed book" },
+  "knjiga": { "replacement": "📒", "description": "ledger" },
+  "zelena knjiga": { "replacement": "📗", "description": "green book" },
+  "plava knjiga": { "replacement": "📘", "description": "blue book" },
+  "narančasta knjiga": { "replacement": "📙", "description": "orange book" },
+  "knjige": { "replacement": "📚", "description": "books" },
+  "bilježnica": { "replacement": "📓", "description": "notebook" },
+  "stranica s uvojkom": {
+    "replacement": "📃",
+    "description": "page with curl"
+  },
+  "svitak": { "replacement": "📜", "description": "scroll" },
+  "stranica okrenuta prema gore": {
+    "replacement": "📄",
+    "description": "page facing up"
+  },
+  "novine": { "replacement": "📰", "description": "newspaper" },
+  "novinska rola": {
+    "replacement": "🗞️",
+    "description": "rolled-up newspaper"
+  },
+  "kartice s oznakama": { "replacement": "📑", "description": "bookmark tabs" },
+  "oznaka": { "replacement": "🔖", "description": "bookmark" },
+  "označiti": { "replacement": "🏷️", "description": "label" },
+  "vrećica s novcem": { "replacement": "💰", "description": "money bag" },
+  "novčić": { "replacement": "🪙", "description": "coin" },
+  "jen": { "replacement": "💴", "description": "yen banknote" },
+  "dolar": { "replacement": "💵", "description": "dollar banknote" },
+  "euro": { "replacement": "💶", "description": "euro banknote" },
+  "funta": { "replacement": "💷", "description": "pound banknote" },
+  "novac s krilima": { "replacement": "💸", "description": "money with wings" },
+  "kreditna kartica": { "replacement": "💳", "description": "credit card" },
+  "priznanica": { "replacement": "🧾", "description": "receipt" },
+  "grafikon": {
+    "replacement": "💹",
+    "description": "chart increasing with yen"
+  },
+  "e-mail": { "replacement": "📧", "description": "e-mail" },
+  "dolazna omotnica": {
+    "replacement": "📨",
+    "description": "incoming envelope"
+  },
+  "omotnica sa strelicom": {
+    "replacement": "📩",
+    "description": "envelope with arrow"
+  },
+  "ladica za izlazne sandučiće": {
+    "replacement": "📤",
+    "description": "outbox tray"
+  },
+  "ladica za ulaznu poštu": {
+    "replacement": "📥",
+    "description": "inbox tray"
+  },
+  "paket": { "replacement": "📦", "description": "package" },
+  "poštanski sandučić": {
+    "replacement": "📫",
+    "description": "closed mailbox with raised flag"
+  },
+  "poštanski sandučić zatvoren": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "poštanski sandučić s poštom": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "poštanski sandučić bez pošte": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "Poštanski sandučić": { "replacement": "📮", "description": "postbox" },
+  "glasačka kutija": {
+    "replacement": "🗳️",
+    "description": "ballot box with ballot"
+  },
+  "olovka2": { "replacement": "✏️", "description": "pencil" },
+  "crna pegla": { "replacement": "✒️", "description": "black nib" },
+  "nalivpero": { "replacement": "🖋️", "description": "fountain pen" },
+  "olovka": { "replacement": "🖊️", "description": "pen" },
+  "kist": { "replacement": "🖌️", "description": "paintbrush" },
+  "krejon": { "replacement": "🖍️", "description": "crayon" },
+  "dopis": { "replacement": "📝", "description": "memo" },
+  "aktovka": { "replacement": "💼", "description": "briefcase" },
+  "mapa datoteka": { "replacement": "📁", "description": "file folder" },
+  "otvori mapu datoteke": {
+    "replacement": "📂",
+    "description": "open file folder"
+  },
+  "razdjelnici kartoteke": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "datum": { "replacement": "📅", "description": "calendar" },
+  "kalendar": { "replacement": "📆", "description": "tear-off calendar" },
+  "spiralna bilježnica": {
+    "replacement": "🗒️",
+    "description": "spiral notepad"
+  },
+  "spiralni kalendar": {
+    "replacement": "🗓️",
+    "description": "spiral calendar"
+  },
+  "kartoteka": { "replacement": "📇", "description": "card index" },
+  "grafikon s trendom rasta": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "grafikon s opadajućim trendom": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "Grafikon": { "replacement": "📊", "description": "bar chart" },
+  "međuspremnik": { "replacement": "📋", "description": "clipboard" },
+  "pribadača": { "replacement": "📌", "description": "pushpin" },
+  "okrugla klinica": { "replacement": "📍", "description": "round pushpin" },
+  "spajalica": { "replacement": "📎", "description": "paperclip" },
+  "Spajalice": { "replacement": "🖇️", "description": "linked paperclips" },
+  "ravni vladar": { "replacement": "📏", "description": "straight ruler" },
+  "trokutasto ravnalo": {
+    "replacement": "📐",
+    "description": "triangular ruler"
+  },
+  "škare": { "replacement": "✂️", "description": "scissors" },
+  "kartoteku": { "replacement": "🗃️", "description": "card file box" },
+  "Ormarić za spise": { "replacement": "🗄️", "description": "file cabinet" },
+  "koš za smeće": { "replacement": "🗑️", "description": "wastebasket" },
+  "zaključati": { "replacement": "🔒", "description": "locked" },
+  "otključati": { "replacement": "🔓", "description": "unlocked" },
+  "brava s tintom": { "replacement": "🔏", "description": "locked with pen" },
+  "zatvorena brava s ključem": {
+    "replacement": "🔐",
+    "description": "locked with key"
+  },
+  "ključ": { "replacement": "🔧", "description": "wrench" },
+  "stari ključ": { "replacement": "🗝️", "description": "old key" },
+  "čekić": { "replacement": "🔨", "description": "hammer" },
+  "sjekira": { "replacement": "🪓", "description": "axe" },
+  "odabrati": { "replacement": "⛏️", "description": "pick" },
+  "čekić i pijuk": { "replacement": "⚒️", "description": "hammer and pick" },
+  "čekić i ključ": { "replacement": "🛠️", "description": "hammer and wrench" },
+  "bodež": { "replacement": "🗡️", "description": "dagger" },
+  "ukrštene mačeve": { "replacement": "⚔️", "description": "crossed swords" },
+  "pištolj": { "replacement": "🔫", "description": "pistol" },
+  "bumerang": { "replacement": "🪃", "description": "boomerang" },
+  "luk i strijela": { "replacement": "🏹", "description": "bow and arrow" },
+  "štit": { "replacement": "🛡️", "description": "shield" },
+  "tesarska pila": { "replacement": "🪚", "description": "carpentry saw" },
+  "odvijač": { "replacement": "🪛", "description": "screwdriver" },
+  "matica i vijak": { "replacement": "🔩", "description": "nut and bolt" },
+  "zupčanik": { "replacement": "⚙️", "description": "gear" },
+  "Stezaljka": { "replacement": "🗜️", "description": "clamp" },
+  "vaga ravnoteže": { "replacement": "⚖️", "description": "balance scale" },
+  "sonda trska": { "replacement": "🦯", "description": "white cane" },
+  "veza": { "replacement": "🔗", "description": "link" },
+  "lanci": { "replacement": "⛓️", "description": "chains" },
+  "kuka": { "replacement": "🪝", "description": "hook" },
+  "kutija s alatima": { "replacement": "🧰", "description": "toolbox" },
+  "magnet": { "replacement": "🧲", "description": "magnet" },
+  "ljestve": { "replacement": "🪜", "description": "ladder" },
+  "alembic": { "replacement": "⚗️", "description": "alembic" },
+  "epruveta": { "replacement": "🧪", "description": "test tube" },
+  "petrijeva zdjelica": { "replacement": "🧫", "description": "petri dish" },
+  "dna": { "replacement": "🧬", "description": "dna" },
+  "mikroskop": { "replacement": "🔬", "description": "microscope" },
+  "teleskop": { "replacement": "🔭", "description": "telescope" },
+  "satelit": { "replacement": "📡", "description": "satellite antenna" },
+  "injekcija": { "replacement": "💉", "description": "syringe" },
+  "kap krvi": { "replacement": "🩸", "description": "drop of blood" },
+  "pilula": { "replacement": "💊", "description": "pill" },
+  "flaster": { "replacement": "🩹", "description": "adhesive bandage" },
+  "stetoskop": { "replacement": "🩺", "description": "stethoscope" },
+  "vrata": { "replacement": "🚪", "description": "door" },
+  "lift": { "replacement": "🛗", "description": "elevator" },
+  "ogledalo": { "replacement": "🪞", "description": "mirror" },
+  "prozor": { "replacement": "🪟", "description": "window" },
+  "krevet": { "replacement": "🛏️", "description": "bed" },
+  "kauč i lampa": { "replacement": "🛋️", "description": "couch and lamp" },
+  "stolica": { "replacement": "🪑", "description": "chair" },
+  "WC": { "replacement": "🚽", "description": "toilet" },
+  "klip": { "replacement": "🪠", "description": "plunger" },
+  "tuš": { "replacement": "🚿", "description": "shower" },
+  "kada": { "replacement": "🛁", "description": "bathtub" },
+  "zamka za miša": { "replacement": "🪤", "description": "mouse trap" },
+  "britva": { "replacement": "🪒", "description": "razor" },
+  "bočica s losionom": { "replacement": "🧴", "description": "lotion bottle" },
+  "zihernadla": { "replacement": "🧷", "description": "safety pin" },
+  "metla": { "replacement": "🧹", "description": "broom" },
+  "košara": { "replacement": "🧺", "description": "basket" },
+  "kolut papira": { "replacement": "🧻", "description": "roll of paper" },
+  "kanta": { "replacement": "🪣", "description": "bucket" },
+  "sapun": { "replacement": "🧼", "description": "soap" },
+  "četkica za zube": { "replacement": "🪥", "description": "toothbrush" },
+  "spužva": { "replacement": "🧽", "description": "sponge" },
+  "aparat za gašenje požara": {
+    "replacement": "🧯",
+    "description": "fire extinguisher"
+  },
+  "kolica za kupovinu": { "replacement": "🛒", "description": "shopping cart" },
+  "pušenje": { "replacement": "🚬", "description": "cigarette" },
+  "mrtvački sanduk": { "replacement": "⚰️", "description": "coffin" },
+  "nadgrobni spomenik": { "replacement": "🪦", "description": "headstone" },
+  "pogrebna urna": { "replacement": "⚱️", "description": "funeral urn" },
+  "moyai": { "replacement": "🗿", "description": "moai" },
+  "plakat": { "replacement": "🪧", "description": "placard" },
+  "bankomat": { "replacement": "🏧", "description": "ATM sign" },
+  "na njegovo mjesto staviti leglo": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "pitka voda": { "replacement": "🚰", "description": "potable water" },
+  "invalidska kolica": {
+    "replacement": "♿",
+    "description": "wheelchair symbol"
+  },
+  "muškarci": { "replacement": "🚹", "description": "men’s room" },
+  "ženske": { "replacement": "🚺", "description": "women’s room" },
+  "zahod": { "replacement": "🚾", "description": "water closet" },
+  "baby simbol": { "replacement": "🚼", "description": "baby symbol" },
+  "kontrola putovnica": {
+    "replacement": "🛂",
+    "description": "passport control"
+  },
+  "običaji": { "replacement": "🛃", "description": "customs" },
+  "zahtjev za prtljagu": {
+    "replacement": "🛄",
+    "description": "baggage claim"
+  },
+  "lijeva prtljaga": { "replacement": "🛅", "description": "left luggage" },
+  "upozorenje": { "replacement": "⚠️", "description": "warning" },
+  "djeca koja prelaze": {
+    "replacement": "🚸",
+    "description": "children crossing"
+  },
+  "zabranjen ulaz": { "replacement": "⛔", "description": "no entry" },
+  "nema znaka za ulazak": { "replacement": "🚫", "description": "prohibited" },
+  "bez bicikala": { "replacement": "🚳", "description": "no bicycles" },
+  "Zabranjeno pušenje": { "replacement": "🚭", "description": "no smoking" },
+  "ne bacajte smeće": { "replacement": "🚯", "description": "no littering" },
+  "voda za piće": { "replacement": "🚱", "description": "non-potable water" },
+  "nema pješaka": { "replacement": "🚷", "description": "no pedestrians" },
+  "nema mobitela": { "replacement": "📵", "description": "no mobile phones" },
+  "maloljetnik": {
+    "replacement": "🔞",
+    "description": "no one under eighteen"
+  },
+  "radioaktivni": { "replacement": "☢️", "description": "radioactive" },
+  "biohazard": { "replacement": "☣️", "description": "biohazard" },
+  "strelica prema gore": {
+    "replacement": "⤴️",
+    "description": "right arrow curving up"
+  },
+  "strelica gore desno": {
+    "replacement": "↗️",
+    "description": "up-right arrow"
+  },
+  "strelica desno": { "replacement": "➡️", "description": "right arrow" },
+  "strelica dolje desno": {
+    "replacement": "↘️",
+    "description": "down-right arrow"
+  },
+  "strelica dolje": { "replacement": "⬇️", "description": "down arrow" },
+  "strelica dolje lijevo": {
+    "replacement": "↙️",
+    "description": "down-left arrow"
+  },
+  "strelica lijevo": { "replacement": "⬅️", "description": "left arrow" },
+  "strelica gore lijevo": {
+    "replacement": "↖️",
+    "description": "up-left arrow"
+  },
+  "lijeva strelica udesno": {
+    "replacement": "↔️",
+    "description": "left-right arrow"
+  },
+  "lijeva strelica s kukom": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "strelica desno kuka": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "strelica usmjerena prema dolje": {
+    "replacement": "⤵️",
+    "description": "right arrow curving down"
+  },
+  "strelice u smjeru kazaljke na satu": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "strelice u smjeru suprotnom od kazaljke na satu": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "leđa": { "replacement": "🔙", "description": "BACK arrow" },
+  "kraj": { "replacement": "🔚", "description": "END arrow" },
+  "na": { "replacement": "🔛", "description": "ON! arrow" },
+  "uskoro": { "replacement": "🔜", "description": "SOON arrow" },
+  "vrh": { "replacement": "🔝", "description": "TOP arrow" },
+  "mjesto štovanja": { "replacement": "🛐", "description": "place of worship" },
+  "simbol atoma": { "replacement": "⚛️", "description": "atom symbol" },
+  "om": { "replacement": "🕉️", "description": "om" },
+  "Davidova zvijezda": { "replacement": "✡️", "description": "star of David" },
+  "kotačić dharme": { "replacement": "☸️", "description": "wheel of dharma" },
+  "jin jang": { "replacement": "☯️", "description": "yin yang" },
+  "latinski križ": { "replacement": "✝️", "description": "latin cross" },
+  "pravoslavni križ": { "replacement": "☦️", "description": "orthodox cross" },
+  "zvijezda i polumjesec": {
+    "replacement": "☪️",
+    "description": "star and crescent"
+  },
+  "simbol mira": { "replacement": "☮️", "description": "peace symbol" },
+  "menora": { "replacement": "🕎", "description": "menorah" },
+  "šestokraka zvijezda": {
+    "replacement": "🔯",
+    "description": "dotted six-pointed star"
+  },
+  "Ovan": { "replacement": "♈", "description": "Aries" },
+  "Bik": { "replacement": "♉", "description": "Taurus" },
+  "Blizanci": { "replacement": "♊", "description": "Gemini" },
+  "Leo": { "replacement": "♌", "description": "Leo" },
+  "Djevica": { "replacement": "♍", "description": "Virgo" },
+  "Vaga": { "replacement": "♎", "description": "Libra" },
+  "Strijelac": { "replacement": "♐", "description": "Sagittarius" },
+  "Vodenjak": { "replacement": "♒", "description": "Aquarius" },
+  "Riba": { "replacement": "♓", "description": "Pisces" },
+  "ophiuchus": { "replacement": "⛎", "description": "Ophiuchus" },
+  "uvijene strelice udesno": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "ponoviti": { "replacement": "🔁", "description": "repeat button" },
+  "ponovi jedan": {
+    "replacement": "🔂",
+    "description": "repeat single button"
+  },
+  "strelica prema naprijed": {
+    "replacement": "▶️",
+    "description": "play button"
+  },
+  "brzo naprijed": {
+    "replacement": "⏩",
+    "description": "fast-forward button"
+  },
+  "gumb sljedećeg zapisa": {
+    "replacement": "⏭️",
+    "description": "next track button"
+  },
+  "gumb za reprodukciju ili pauzu": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "strelica unatrag": { "replacement": "◀️", "description": "reverse button" },
+  "premotati": { "replacement": "⏪", "description": "fast reverse button" },
+  "gumb prethodne pjesme": {
+    "replacement": "⏮️",
+    "description": "last track button"
+  },
+  "strelica prema gore mala": {
+    "replacement": "🔼",
+    "description": "upwards button"
+  },
+  "strelica udvostruči": {
+    "replacement": "⏫",
+    "description": "fast up button"
+  },
+  "strelica dolje mala": {
+    "replacement": "🔽",
+    "description": "downwards button"
+  },
+  "strelica udvostručena": {
+    "replacement": "⏬",
+    "description": "fast down button"
+  },
+  "gumb za pauzu": { "replacement": "⏸️", "description": "pause button" },
+  "gumb za zaustavljanje": {
+    "replacement": "⏹️",
+    "description": "stop button"
+  },
+  "gumb za snimanje": { "replacement": "⏺️", "description": "record button" },
+  "gumb za izbacivanje": { "replacement": "⏏️", "description": "eject button" },
+  "kino": { "replacement": "🎦", "description": "cinema" },
+  "mala svjetlina": { "replacement": "🔅", "description": "dim button" },
+  "velika svjetlina": { "replacement": "🔆", "description": "bright button" },
+  "jačina signala": { "replacement": "📶", "description": "antenna bars" },
+  "način vibracije": { "replacement": "📳", "description": "vibration mode" },
+  "isključen mobitel": {
+    "replacement": "📴",
+    "description": "mobile phone off"
+  },
+  "ženski znak": { "replacement": "♀️", "description": "female sign" },
+  "muški znak": { "replacement": "♂️", "description": "male sign" },
+  "transrodni simbol": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "teško množenje x": { "replacement": "✖️", "description": "multiply" },
+  "teški znak plus": { "replacement": "➕", "description": "plus" },
+  "teški minus znak": { "replacement": "➖", "description": "minus" },
+  "teški znak podjele": { "replacement": "➗", "description": "divide" },
+  "beskonačnost": { "replacement": "♾️", "description": "infinity" },
+  "bum bum": { "replacement": "‼️", "description": "double exclamation mark" },
+  "interrobang": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "pitanje": { "replacement": "❓", "description": "question mark" },
+  "sivo pitanje": { "replacement": "❔", "description": "white question mark" },
+  "sivi usklik": {
+    "replacement": "❕",
+    "description": "white exclamation mark"
+  },
+  "uzvik": { "replacement": "❗", "description": "exclamation mark" },
+  "valovita crtica": { "replacement": "〰️", "description": "wavy dash" },
+  "Razmjena valute": {
+    "replacement": "💱",
+    "description": "currency exchange"
+  },
+  "teški znak dolara": {
+    "replacement": "💲",
+    "description": "heavy dollar sign"
+  },
+  "medicinski simbol": { "replacement": "⚕️", "description": "medical symbol" },
+  "reciklirati": { "replacement": "♻️", "description": "recycling symbol" },
+  "fleur de lis": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "trozubac": { "replacement": "🔱", "description": "trident emblem" },
+  "značka s imenom": { "replacement": "📛", "description": "name badge" },
+  "početnik": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "o": { "replacement": "⭕", "description": "hollow red circle" },
+  "bijela kvačica": { "replacement": "✅", "description": "check mark button" },
+  "glasačka kutija s čekom": {
+    "replacement": "☑️",
+    "description": "check box with check"
+  },
+  "teška kvačica": { "replacement": "✔️", "description": "check mark" },
+  "x": { "replacement": "❌", "description": "cross mark" },
+  "negativni kvadrat poprečni znak": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "kovrčava petlja": { "replacement": "➰", "description": "curly loop" },
+  "petlja": { "replacement": "➿", "description": "double curly loop" },
+  "oznaka izmjene dijela": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "zvjezdica s osam krakova": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "osmerokraka crna zvijezda": {
+    "replacement": "✴️",
+    "description": "eight-pointed star"
+  },
+  "svjetlucati": { "replacement": "❇️", "description": "sparkle" },
+  "autorska prava": { "replacement": "©️", "description": "copyright" },
+  "registriran": { "replacement": "®️", "description": "registered" },
+  "tm": { "replacement": "™️", "description": "trade mark" },
+  "hash": { "replacement": "#️⃣", "description": "keycap: #" },
+  "zvjezdica": { "replacement": "*️⃣", "description": "keycap: *" },
+  "nula": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "jedan": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "dva": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "tri": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "četiri": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "pet": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "šest": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "sedam": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "osam": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "devet": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "tipkovnica deset": { "replacement": "🔟", "description": "keycap: 10" },
+  "glavni grad abcd": {
+    "replacement": "🔠",
+    "description": "input latin uppercase"
+  },
+  "abcd": { "replacement": "🔡", "description": "input latin lowercase" },
+  "simboli": { "replacement": "🔣", "description": "input symbols" },
+  "abc": { "replacement": "🔤", "description": "input latin letters" },
+  "a": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "ab": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "b": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "kl": { "replacement": "🆑", "description": "CL button" },
+  "cool": { "replacement": "🆒", "description": "COOL button" },
+  "besplatno": { "replacement": "🆓", "description": "FREE button" },
+  "izvor informacija": { "replacement": "ℹ️", "description": "information" },
+  "iskaznica": { "replacement": "🆔", "description": "ID button" },
+  "m": { "replacement": "Ⓜ️", "description": "circled M" },
+  "novi": { "replacement": "🆕", "description": "NEW button" },
+  "ng": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "u redu": { "replacement": "🆗", "description": "OK button" },
+  "parkiralište": { "replacement": "🅿️", "description": "P button" },
+  "SOS": { "replacement": "🆘", "description": "SOS button" },
+  "gore": { "replacement": "🆙", "description": "UP! button" },
+  "nasuprot": { "replacement": "🆚", "description": "VS button" },
+  "koko": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "sa": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "ideografska prednost": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "prihvatiti": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "Čestitamo": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "tajna": { "replacement": "㊙️", "description": "Japanese “secret” button" },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "crveni krug": { "replacement": "🔴", "description": "red circle" },
+  "narančasti krug": { "replacement": "🟠", "description": "orange circle" },
+  "žuti krug": { "replacement": "🟡", "description": "yellow circle" },
+  "zeleni krug": { "replacement": "🟢", "description": "green circle" },
+  "veliki plavi krug": { "replacement": "🔵", "description": "blue circle" },
+  "ljubičasti krug": { "replacement": "🟣", "description": "purple circle" },
+  "smeđi krug": { "replacement": "🟤", "description": "brown circle" },
+  "crni krug": { "replacement": "⚫", "description": "black circle" },
+  "bijeli krug": { "replacement": "⚪", "description": "white circle" },
+  "crveni kvadrat": { "replacement": "🟥", "description": "red square" },
+  "narančasti kvadrat": { "replacement": "🟧", "description": "orange square" },
+  "žuti kvadrat": { "replacement": "🟨", "description": "yellow square" },
+  "zeleni kvadrat": { "replacement": "🟩", "description": "green square" },
+  "plavi kvadrat": { "replacement": "🟦", "description": "blue square" },
+  "ljubičasti kvadrat": { "replacement": "🟪", "description": "purple square" },
+  "smeđi kvadrat": { "replacement": "🟫", "description": "brown square" },
+  "crni veliki kvadrat": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "bijeli veliki kvadrat": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "crni srednji kvadrat": {
+    "replacement": "◼️",
+    "description": "black medium square"
+  },
+  "bijeli srednji kvadrat": {
+    "replacement": "◻️",
+    "description": "white medium square"
+  },
+  "crni srednje mali kvadrat": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "bijeli srednje mali kvadrat": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "crni mali kvadrat": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "bijeli mali kvadrat": {
+    "replacement": "▫️",
+    "description": "white small square"
+  },
+  "veliki narančasti dijamant": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "veliki plavi dijamant": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "mali narančasti dijamant": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "mali plavi dijamant": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "mali crveni trokut": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "mali crveni trokut dolje": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "oblik dijamanta s točkom iznutra": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "Radio gumb": { "replacement": "🔘", "description": "radio button" },
+  "bijeli kvadratni gumb": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "crni kvadratni gumb": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "karirana zastava": { "replacement": "🏁", "description": "chequered flag" },
+  "trokutasta zastava na stupu": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "prekrižene zastave": { "replacement": "🎌", "description": "crossed flags" },
+  "Crna zastava": { "replacement": "🏴", "description": "black flag" },
+  "bijela zastava": { "replacement": "🏳️", "description": "white flag" },
+  "dugina zastava": { "replacement": "🏳️‍🌈", "description": "rainbow flag" },
+  "transrodna spola": {
+    "replacement": "🏳️‍⚧️",
+    "description": "transgender flag"
+  },
+  "gusarska zastava": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "otok uzašašća": {
+    "replacement": "🇦🇨",
+    "description": "flag: Ascension Island"
+  },
+  "Andora": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "Ujedinjeni Arapski Emirati": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "afganistana": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "antigva barbuda": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "anguilla": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "Albanija": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "Armenija": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "Angola": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "antarktika": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "Argentina": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "Američka Samoa": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "Austrija": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "Australija": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "aruba": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "otoci na kopnu": {
+    "replacement": "🇦🇽",
+    "description": "flag: Åland Islands"
+  },
+  "Azerbejdžan": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "bosna hercegovina": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "barbados": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "bangladeš": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "Belgija": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "burkina faso": { "replacement": "🇧🇫", "description": "flag: Burkina Faso" },
+  "Bugarska": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "bahrein": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "Burundi": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "benin": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "st. barthelemy": {
+    "replacement": "🇧🇱",
+    "description": "flag: St. Barthélemy"
+  },
+  "bermuda": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "Brunej": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "Bolivija": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "Karibi Nizozemska": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "Brazil": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "bahami": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "butan": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "otok buvet": { "replacement": "🇧🇻", "description": "flag: Bouvet Island" },
+  "Bocvana": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "bjelorusija": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "belize": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "Kanada": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "kokosovim otocima": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "kongo kinshasa": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "Centralna Afrička Republika": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "kongo brazzaville": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "Švicarska": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "cote divoire": { "replacement": "🇨🇮", "description": "flag: Côte d’Ivoire" },
+  "kuhati otoke": { "replacement": "🇨🇰", "description": "flag: Cook Islands" },
+  "Čile": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "Kamerun": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "cn": { "replacement": "🇨🇳", "description": "flag: China" },
+  "Kolumbija": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "otok Clipperton": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "Kostarika": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "Kuba": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "Cape Verde": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "curacao": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "božićni otok": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "cipar": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "Češka Republika": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "de": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "diego garcia": { "replacement": "🇩🇬", "description": "flag: Diego Garcia" },
+  "džibuti": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "Danska": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "dominika": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "Dominikanska Republika": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "Alžir": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "ceuta melilla": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "Ekvador": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "Estonija": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "Egipat": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "Zapadna Sahara": {
+    "replacement": "🇪🇭",
+    "description": "flag: Western Sahara"
+  },
+  "eritreja": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "es": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "Etiopija": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "eu": { "replacement": "🇪🇺", "description": "flag: European Union" },
+  "Finska": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "fidži": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "falklandski otoci": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "mikronezija": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "Farski otoci": { "replacement": "🇫🇴", "description": "flag: Faroe Islands" },
+  "fr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "Gabon": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "gb": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "grenada": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "Gruzija": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "Francuska Gvajana": {
+    "replacement": "🇬🇫",
+    "description": "flag: French Guiana"
+  },
+  "gernsija": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "Gana": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "Gibraltar": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "Grenland": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "Gambija": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "Gvineja": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "guadeloupe": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "ekvatorijalna gvineja": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "Grčka": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "južna gruzija južni sendvič otoci": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "Gvatemala": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "guam": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "gvinejski bisau": {
+    "replacement": "🇬🇼",
+    "description": "flag: Guinea-Bissau"
+  },
+  "gvajana": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "hong kong": {
+    "replacement": "🇭🇰",
+    "description": "flag: Hong Kong SAR China"
+  },
+  "čuo otoke McDonalda": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "Honduras": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "Hrvatska": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "Haiti": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "Mađarska": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "Kanarski otoci": {
+    "replacement": "🇮🇨",
+    "description": "flag: Canary Islands"
+  },
+  "Indonezija": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "Irska": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "Izrael": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "otok čovjek": { "replacement": "🇮🇲", "description": "flag: Isle of Man" },
+  "Indija": { "replacement": "🇮🇳", "description": "flag: India" },
+  "britanski teritorij indijskog oceana": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "Irak": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "iran": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "Island": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "to": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "dres": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "Jamajka": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "Jordan": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "jp": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "Kenija": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "Kirgistan": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "Kambodža": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "kiribati": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "Komori": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "st kitts nevis": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "Sjeverna Koreja": {
+    "replacement": "🇰🇵",
+    "description": "flag: North Korea"
+  },
+  "kr": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "Kuvajt": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "Kajmanski otoci": {
+    "replacement": "🇰🇾",
+    "description": "flag: Cayman Islands"
+  },
+  "Kazahstan": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "Laos": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "libanon": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "st. lucija": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "Lihtenštajn": { "replacement": "🇱🇮", "description": "flag: Liechtenstein" },
+  "šrilanka": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "Liberija": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "Lesoto": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "Litva": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "Luksemburg": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "latvija": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "Libija": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "Maroko": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "monako": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "Moldavija": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "crna gora": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "sveti martin": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "Madagaskar": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "maršalski otoci": {
+    "replacement": "🇲🇭",
+    "description": "flag: Marshall Islands"
+  },
+  "Makedonija": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "mali": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "mjanmar": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "Mongolija": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "makao": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "sjeverni otoci mariana": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "martinik": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "Mauritanija": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "montserrat": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "Malta": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "mauritius": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "maldivi": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "Malavi": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "Meksiko": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "Malezija": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "mozambik": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "namibija": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "nova Kaledonija": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "Niger": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "otok Norfolk": {
+    "replacement": "🇳🇫",
+    "description": "flag: Norfolk Island"
+  },
+  "Nigerija": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "Nikaragva": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "Nizozemska": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "Norveška": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "Nepal": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "nauru": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "niue": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "Novi Zeland": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "Oman": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "Panama": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "Peru": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "Francuska Polinezija": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "Papua Nova Gvineja": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "Filipini": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "Pakistan": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "Poljska": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "st pierre miquelon": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "pitcairn otoci": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "Portoriko": { "replacement": "🇵🇷", "description": "flag: Puerto Rico" },
+  "palestinske teritorije": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "portugalski": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "palau": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "Paragvaj": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "Katar": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "ponovno sjedinjenje": {
+    "replacement": "🇷🇪",
+    "description": "flag: Réunion"
+  },
+  "Rumunjska": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "Srbija": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "ru": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "ruanda": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "Saudijska Arabija": {
+    "replacement": "🇸🇦",
+    "description": "flag: Saudi Arabia"
+  },
+  "Salomonovi otoci": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "sejšeli": { "replacement": "🇸🇨", "description": "flag: Seychelles" },
+  "sudan": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "Švedska": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "Singapur": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "sveta helena": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "Slovenija": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "svalbard jan mayen": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "Slovačka": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "Sijera Leone": { "replacement": "🇸🇱", "description": "flag: Sierra Leone" },
+  "san marino": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "senegal": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "Somalija": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "surinam": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "Južni Sudan": { "replacement": "🇸🇸", "description": "flag: South Sudan" },
+  "sao tome principe": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "El Salvador": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "sint maarten": { "replacement": "🇸🇽", "description": "flag: Sint Maarten" },
+  "Sirija": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "swaziland": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "tristan da cunha": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "otoci turks kaikos": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "Čad": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "francuski južni teritoriji": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "ići": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "Tajland": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "Tadžikistana": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "tokelau": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "timor leste": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "turkmenistan": { "replacement": "🇹🇲", "description": "flag: Turkmenistan" },
+  "Tunis": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "laka dvokolica": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "tr": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "trinidad tobago": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "tuvalu": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "Tajvan": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "tanzanija": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "ukrajine": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "Uganda": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "nas udaljeni otoci": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "Ujedinjeni narodi": {
+    "replacement": "🇺🇳",
+    "description": "flag: United Nations"
+  },
+  "nas": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "urugvaj": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "uzbekistana": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "grad Vatikan": { "replacement": "🇻🇦", "description": "flag: Vatican City" },
+  "st. vincent grenadine": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "venezuela": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "Britanski djevičanski otoci": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "nas djevičanski otoci": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "Vijetnam": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "vanuatu": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "wallis futuna": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "samoa": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "kosovo": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "Jemen": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "majote": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "Južna Afrika": { "replacement": "🇿🇦", "description": "flag: South Africa" },
+  "Zambija": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "zimbabve": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "Engleska": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "Škotska": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "walesa": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

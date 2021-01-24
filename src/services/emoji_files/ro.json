@@ -1,0 +1,3099 @@
+{
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "rânjind": { "replacement": "😀", "description": "grinning face" },
+  "zâmbitoare": {
+    "replacement": "😃",
+    "description": "grinning face with big eyes"
+  },
+  "zâmbet": {
+    "replacement": "😄",
+    "description": "grinning face with smiling eyes"
+  },
+  "grimasă": { "replacement": "😬", "description": "grimacing face" },
+  "razand": { "replacement": "😆", "description": "grinning squinting face" },
+  "zâmbet de sudoare": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "bucurie": { "replacement": "😂", "description": "face with tears of joy" },
+  "față ușor zâmbitoare": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "fața cu capul în jos": {
+    "replacement": "🙃",
+    "description": "upside-down face"
+  },
+  "a face cu ochiul": { "replacement": "😉", "description": "winking face" },
+  "înroșește": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "nevinovat": { "replacement": "😇", "description": "smiling face with halo" },
+  "fata zambitoare cu trei inimi": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "ochi inima": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "stea a lovit": { "replacement": "🤩", "description": "star-struck" },
+  "sărutând inima": {
+    "replacement": "😘",
+    "description": "face blowing a kiss"
+  },
+  "sărutându-se": { "replacement": "😗", "description": "kissing face" },
+  "relaxat": { "replacement": "☺️", "description": "smiling face" },
+  "sărutând cu ochii inchiși": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "sărutând ochii zâmbitori": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "fata zambitoare cu lacrima": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "da": { "replacement": "😋", "description": "face savoring food" },
+  "scoase limba": { "replacement": "😛", "description": "face with tongue" },
+  "scoase limba ochiul clipind": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "față nebună": { "replacement": "🤪", "description": "zany face" },
+  "scoase limba ochii închiși": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "bani gura fata": { "replacement": "🤑", "description": "money-mouth face" },
+  "îmbrățișări": { "replacement": "🤗", "description": "hugging face" },
+  "mână peste gură": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "față înfundată": { "replacement": "🤫", "description": "shushing face" },
+  "gândire": { "replacement": "🤔", "description": "thinking face" },
+  "fermoar gura fata": {
+    "replacement": "🤐",
+    "description": "zipper-mouth face"
+  },
+  "spranceana ridicata": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "față neutră": { "replacement": "😐", "description": "neutral face" },
+  "lipsit de expresie": {
+    "replacement": "😑",
+    "description": "expressionless face"
+  },
+  "fără gură": { "replacement": "😶", "description": "face without mouth" },
+  "rânjet": { "replacement": "😏", "description": "smirking face" },
+  "neamuzat": { "replacement": "😒", "description": "unamused face" },
+  "da ochii peste cap": {
+    "replacement": "🙄",
+    "description": "face with rolling eyes"
+  },
+  "fata culcata": { "replacement": "🤥", "description": "lying face" },
+  "ușurat": { "replacement": "😌", "description": "relieved face" },
+  "meditativ": { "replacement": "😔", "description": "pensive face" },
+  "somnoros": { "replacement": "😪", "description": "sleepy face" },
+  "față de babă": { "replacement": "🤤", "description": "drooling face" },
+  "dormit": { "replacement": "😴", "description": "sleeping face" },
+  "masca": { "replacement": "😷", "description": "face with medical mask" },
+  "față cu termometru": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "față cu bandaj pentru cap": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "față greață": { "replacement": "🤢", "description": "nauseated face" },
+  "vărsături pe față": { "replacement": "🤮", "description": "face vomiting" },
+  "strănutul feței": { "replacement": "🤧", "description": "sneezing face" },
+  "fata fierbinte": { "replacement": "🥵", "description": "hot face" },
+  "fata rece": { "replacement": "🥶", "description": "cold face" },
+  "față groaznică": { "replacement": "🥴", "description": "woozy face" },
+  "față amețită": { "replacement": "😵", "description": "dizzy face" },
+  "explodând capul": { "replacement": "🤯", "description": "exploding head" },
+  "față pălărie de cowboy": {
+    "replacement": "🤠",
+    "description": "cowboy hat face"
+  },
+  "față de petrecere": { "replacement": "🥳", "description": "partying face" },
+  "față deghizată": { "replacement": "🥸", "description": "disguised face" },
+  "ochelari de soare": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "Față tocilar": { "replacement": "🤓", "description": "nerd face" },
+  "față de monoclu": {
+    "replacement": "🧐",
+    "description": "face with monocle"
+  },
+  "confuz": { "replacement": "😖", "description": "confounded face" },
+  "îngrijorat": { "replacement": "😟", "description": "worried face" },
+  "fața ușor încruntată": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "fața încruntată": { "replacement": "☹️", "description": "frowning face" },
+  "deschide gura": {
+    "replacement": "😮",
+    "description": "face with open mouth"
+  },
+  "tăcut": { "replacement": "😯", "description": "hushed face" },
+  "uimit": { "replacement": "😲", "description": "astonished face" },
+  "îmbujorat": { "replacement": "😳", "description": "flushed face" },
+  "față rugătoare": { "replacement": "🥺", "description": "pleading face" },
+  "încruntat": {
+    "replacement": "😦",
+    "description": "frowning face with open mouth"
+  },
+  "angoasa": { "replacement": "😧", "description": "anguished face" },
+  "fricos": { "replacement": "😨", "description": "fearful face" },
+  "transpirație rece": {
+    "replacement": "😰",
+    "description": "anxious face with sweat"
+  },
+  "dezamăgit ușurat": {
+    "replacement": "😥",
+    "description": "sad but relieved face"
+  },
+  "strigăt": { "replacement": "😢", "description": "crying face" },
+  "suspin": { "replacement": "😭", "description": "loudly crying face" },
+  "ţipăt": { "replacement": "😱", "description": "face screaming in fear" },
+  "persevera": { "replacement": "😣", "description": "persevering face" },
+  "dezamăgit": { "replacement": "😞", "description": "disappointed face" },
+  "sudoare": { "replacement": "😓", "description": "downcast face with sweat" },
+  "obosit": { "replacement": "😩", "description": "weary face" },
+  "fata obosita": { "replacement": "😫", "description": "tired face" },
+  "fața căscată": { "replacement": "🥱", "description": "yawning face" },
+  "triumf": { "replacement": "😤", "description": "face with steam from nose" },
+  "furie": { "replacement": "💢", "description": "anger symbol" },
+  "furios": { "replacement": "😠", "description": "angry face" },
+  "chipul blestemat": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "zâmbitor imp": {
+    "replacement": "😈",
+    "description": "smiling face with horns"
+  },
+  "imp": { "replacement": "👿", "description": "angry face with horns" },
+  "craniu": { "replacement": "💀", "description": "skull" },
+  "craniu și oase încrucișate": {
+    "replacement": "☠️",
+    "description": "skull and crossbones"
+  },
+  "hankey": { "replacement": "💩", "description": "pile of poo" },
+  "față de clovn": { "replacement": "🤡", "description": "clown face" },
+  "ogru japonez": { "replacement": "👹", "description": "ogre" },
+  "goblin japonez": { "replacement": "👺", "description": "goblin" },
+  "fantomă": { "replacement": "👻", "description": "ghost" },
+  "străin": { "replacement": "👽", "description": "alien" },
+  "invadator spațial": { "replacement": "👾", "description": "alien monster" },
+  "robot": { "replacement": "🤖", "description": "robot" },
+  "pisică zâmbitoare": { "replacement": "😺", "description": "grinning cat" },
+  "pisica zambeste": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "pisica bucurie": {
+    "replacement": "😹",
+    "description": "cat with tears of joy"
+  },
+  "inima ochii pisică": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "pisica zambitoare": {
+    "replacement": "😼",
+    "description": "cat with wry smile"
+  },
+  "pisica saruta": { "replacement": "😽", "description": "kissing cat" },
+  "pisica tipa": { "replacement": "🙀", "description": "weary cat" },
+  "față de pisică plângând": {
+    "replacement": "😿",
+    "description": "crying cat"
+  },
+  "pisică bâjbâind": { "replacement": "😾", "description": "pouting cat" },
+  "nu vad nici un rau": {
+    "replacement": "🙈",
+    "description": "see-no-evil monkey"
+  },
+  "nu auzi nici un rău": {
+    "replacement": "🙉",
+    "description": "hear-no-evil monkey"
+  },
+  "nu vorbi de rău": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "pup": { "replacement": "💋", "description": "kiss mark" },
+  "scrisoare de dragoste": {
+    "replacement": "💌",
+    "description": "love letter"
+  },
+  "Cupidon": { "replacement": "💘", "description": "heart with arrow" },
+  "inima cadou": { "replacement": "💝", "description": "heart with ribbon" },
+  "inima sclipitoare": {
+    "replacement": "💖",
+    "description": "sparkling heart"
+  },
+  "heartpulse": { "replacement": "💗", "description": "growing heart" },
+  "bătăi de inimă": { "replacement": "💓", "description": "beating heart" },
+  "inimi rotative": { "replacement": "💞", "description": "revolving hearts" },
+  "doua inimi": { "replacement": "💕", "description": "two hearts" },
+  "decorarea inimii": {
+    "replacement": "💟",
+    "description": "heart decoration"
+  },
+  "exclamare grea a inimii": {
+    "replacement": "❣️",
+    "description": "heart exclamation"
+  },
+  "inimă frântă": { "replacement": "💔", "description": "broken heart" },
+  "inima": { "replacement": "❤️", "description": "red heart" },
+  "inima portocalie": { "replacement": "🧡", "description": "orange heart" },
+  "inimă galbenă": { "replacement": "💛", "description": "yellow heart" },
+  "inimă verde": { "replacement": "💚", "description": "green heart" },
+  "inima albastra": { "replacement": "💙", "description": "blue heart" },
+  "inima mov": { "replacement": "💜", "description": "purple heart" },
+  "inima maro": { "replacement": "🤎", "description": "brown heart" },
+  "inima neagra": { "replacement": "🖤", "description": "black heart" },
+  "inimă albă": { "replacement": "🤍", "description": "white heart" },
+  "boom": { "replacement": "💥", "description": "collision" },
+  "ameţit": { "replacement": "💫", "description": "dizzy" },
+  "picături de sudoare": {
+    "replacement": "💦",
+    "description": "sweat droplets"
+  },
+  "liniuță": { "replacement": "💨", "description": "dashing away" },
+  "gaură": { "replacement": "🕳️", "description": "hole" },
+  "bombă": { "replacement": "💣", "description": "bomb" },
+  "balon de vorbire": { "replacement": "💬", "description": "speech balloon" },
+  "discurs ocular": {
+    "replacement": "👁️‍🗨️",
+    "description": "eye in speech bubble"
+  },
+  "bulă de vorbire din stânga": {
+    "replacement": "🗨️",
+    "description": "left speech bubble"
+  },
+  "bula dreaptă a furiei": {
+    "replacement": "🗯️",
+    "description": "right anger bubble"
+  },
+  "balon de gândire": { "replacement": "💭", "description": "thought balloon" },
+  "zzz": { "replacement": "💤", "description": "zzz" },
+  "val": { "replacement": "👋", "description": "waving hand" },
+  "ridicat pe dos": {
+    "replacement": "🤚",
+    "description": "raised back of hand"
+  },
+  "mâna ridicată cu degetele strânse": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "mână": { "replacement": "✋", "description": "raised hand" },
+  "salut vulcanic": { "replacement": "🖖", "description": "vulcan salute" },
+  "ok mana": { "replacement": "👌", "description": "OK hand" },
+  "degetele ciupite": { "replacement": "🤌", "description": "pinched fingers" },
+  "ciupind mâna": { "replacement": "🤏", "description": "pinching hand" },
+  "v": { "replacement": "✌️", "description": "victory hand" },
+  "degete incrucișate": {
+    "replacement": "🤞",
+    "description": "crossed fingers"
+  },
+  "te iubesc gestul": {
+    "replacement": "🤟",
+    "description": "love-you gesture"
+  },
+  "metal": { "replacement": "🤘", "description": "sign of the horns" },
+  "strigă-mă de mână": { "replacement": "🤙", "description": "call me hand" },
+  "punctul stânga": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "punct dreapta": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "arată în sus 2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "degetul mijlociu": { "replacement": "🖕", "description": "middle finger" },
+  "arată în jos": {
+    "replacement": "👇",
+    "description": "backhand index pointing down"
+  },
+  "arată în sus": { "replacement": "☝️", "description": "index pointing up" },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "pumnul ridicat": { "replacement": "✊", "description": "raised fist" },
+  "pumnul se apropie": { "replacement": "👊", "description": "oncoming fist" },
+  "pumn stânga": { "replacement": "🤛", "description": "left-facing fist" },
+  "pumnul drept": { "replacement": "🤜", "description": "right-facing fist" },
+  "bate": { "replacement": "👏", "description": "clapping hands" },
+  "mâinile ridicate": { "replacement": "🙌", "description": "raising hands" },
+  "mâinile deschise": { "replacement": "👐", "description": "open hands" },
+  "palmele ridicate împreună": {
+    "replacement": "🤲",
+    "description": "palms up together"
+  },
+  "strângere de mână": { "replacement": "🤝", "description": "handshake" },
+  "roaga-te": { "replacement": "🙏", "description": "folded hands" },
+  "scriind mâna": { "replacement": "✍️", "description": "writing hand" },
+  "ingrijirea unghiilor": { "replacement": "💅", "description": "nail polish" },
+  "selfie": { "replacement": "🤳", "description": "selfie" },
+  "muşchi": { "replacement": "💪", "description": "flexed biceps" },
+  "brat mecanic": { "replacement": "🦾", "description": "mechanical arm" },
+  "picior mecanic": { "replacement": "🦿", "description": "mechanical leg" },
+  "picior": { "replacement": "🦶", "description": "foot" },
+  "ureche": { "replacement": "👂", "description": "ear" },
+  "ureche cu aparat auditiv": {
+    "replacement": "🦻",
+    "description": "ear with hearing aid"
+  },
+  "nas": { "replacement": "👃", "description": "nose" },
+  "creier": { "replacement": "🧠", "description": "brain" },
+  "inima anatomică": { "replacement": "🫀", "description": "anatomical heart" },
+  "plămânii": { "replacement": "🫁", "description": "lungs" },
+  "dinte": { "replacement": "🦷", "description": "tooth" },
+  "os": { "replacement": "🦴", "description": "bone" },
+  "ochi": { "replacement": "👁️", "description": "eye" },
+  "limbă": { "replacement": "👅", "description": "tongue" },
+  "buze": { "replacement": "👄", "description": "mouth" },
+  "bebelus": { "replacement": "👶", "description": "baby" },
+  "copil": { "replacement": "🧒", "description": "child" },
+  "băiat": { "replacement": "👦", "description": "boy" },
+  "fată": { "replacement": "👧", "description": "girl" },
+  "adult": { "replacement": "🧑", "description": "person" },
+  "persoană cu părul blond": {
+    "replacement": "👱",
+    "description": "person: blond hair"
+  },
+  "om": { "replacement": "🕉️", "description": "om" },
+  "om cu barbă": { "replacement": "🧔", "description": "man: beard" },
+  "barbat cu parul rosu": {
+    "replacement": "👨‍🦰",
+    "description": "man: red hair"
+  },
+  "bărbat cu părul creț": {
+    "replacement": "👨‍🦱",
+    "description": "man: curly hair"
+  },
+  "bărbat cu părul alb": {
+    "replacement": "👨‍🦳",
+    "description": "man: white hair"
+  },
+  "om chel": { "replacement": "👨‍🦲", "description": "man: bald" },
+  "femeie": { "replacement": "👩", "description": "woman" },
+  "femeie cu părul roșu": {
+    "replacement": "👩‍🦰",
+    "description": "woman: red hair"
+  },
+  "persoana parul rosu": {
+    "replacement": "🧑‍🦰",
+    "description": "person: red hair"
+  },
+  "femeie cu părul creț": {
+    "replacement": "👩‍🦱",
+    "description": "woman: curly hair"
+  },
+  "persoana par cret": {
+    "replacement": "🧑‍🦱",
+    "description": "person: curly hair"
+  },
+  "femeie cu părul alb": {
+    "replacement": "👩‍🦳",
+    "description": "woman: white hair"
+  },
+  "persoana par alb": {
+    "replacement": "🧑‍🦳",
+    "description": "person: white hair"
+  },
+  "femeie cheală": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "persoană chelă": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "femeie cu părul blond": {
+    "replacement": "👱‍♀️",
+    "description": "woman: blond hair"
+  },
+  "bărbat cu părul blond": {
+    "replacement": "👱‍♂️",
+    "description": "man: blond hair"
+  },
+  "adult mai în vârstă": { "replacement": "🧓", "description": "older person" },
+  "bărbat în vârstă": { "replacement": "👴", "description": "old man" },
+  "femeie în vârstă": { "replacement": "👵", "description": "old woman" },
+  "persoană încruntată": {
+    "replacement": "🙍",
+    "description": "person frowning"
+  },
+  "om încruntat": { "replacement": "🙍‍♂️", "description": "man frowning" },
+  "femeie încruntată": { "replacement": "🙍‍♀️", "description": "woman frowning" },
+  "chipul bâjbâind": { "replacement": "🙎", "description": "person pouting" },
+  "bărbătește cu gâfâie": { "replacement": "🙎‍♂️", "description": "man pouting" },
+  "femeie bâjbâind": { "replacement": "🙎‍♀️", "description": "woman pouting" },
+  "nu e bine": { "replacement": "🙅", "description": "person gesturing NO" },
+  "nici un om bun": { "replacement": "🙅‍♂️", "description": "man gesturing NO" },
+  "nici o femeie bună": {
+    "replacement": "🙅‍♀️",
+    "description": "woman gesturing NO"
+  },
+  "ok persoana": { "replacement": "🙆", "description": "person gesturing OK" },
+  "OK omule": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "ok femeie": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "basculantă mână persoană": {
+    "replacement": "💁",
+    "description": "person tipping hand"
+  },
+  "basculant mână om": {
+    "replacement": "💁‍♂️",
+    "description": "man tipping hand"
+  },
+  "femeie de mână de basculare": {
+    "replacement": "💁‍♀️",
+    "description": "woman tipping hand"
+  },
+  "ridicând mâna": {
+    "replacement": "🙋",
+    "description": "person raising hand"
+  },
+  "ridicând mâna omului": {
+    "replacement": "🙋‍♂️",
+    "description": "man raising hand"
+  },
+  "ridicând mâna femeie": {
+    "replacement": "🙋‍♀️",
+    "description": "woman raising hand"
+  },
+  "persoană surdă": { "replacement": "🧏", "description": "deaf person" },
+  "om surd": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "femeie surdă": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "arc": { "replacement": "🙇", "description": "person bowing" },
+  "om înclinat": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "femeie plecată": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "palma peste fata": {
+    "replacement": "🤦",
+    "description": "person facepalming"
+  },
+  "om facepalming": { "replacement": "🤦‍♂️", "description": "man facepalming" },
+  "femeie facepalming": {
+    "replacement": "🤦‍♀️",
+    "description": "woman facepalming"
+  },
+  "ridicare din umeri": {
+    "replacement": "🤷",
+    "description": "person shrugging"
+  },
+  "omul ridicând din umeri": {
+    "replacement": "🤷‍♂️",
+    "description": "man shrugging"
+  },
+  "femeie ridicând din umeri": {
+    "replacement": "🤷‍♀️",
+    "description": "woman shrugging"
+  },
+  "lucrător în sănătate": {
+    "replacement": "🧑‍⚕️",
+    "description": "health worker"
+  },
+  "om sanitar": { "replacement": "👨‍⚕️", "description": "man health worker" },
+  "femeie lucrătoare în sănătate": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "student": { "replacement": "🧑‍🎓", "description": "student" },
+  "om student": { "replacement": "👨‍🎓", "description": "man student" },
+  "femeie studentă": { "replacement": "👩‍🎓", "description": "woman student" },
+  "profesor": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "om profesor": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "femeie profesoară": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "judecător": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "bărbat judecător": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "femeie judecătoare": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "agricultor": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "om fermier": { "replacement": "👨‍🌾", "description": "man farmer" },
+  "femeie fermieră": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "bucătar": { "replacement": "👨‍🍳", "description": "man cook" },
+  "femeie bucătar": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "mecanic": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "om mecanic": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "femeie mecanic": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "muncitor in fabrica": {
+    "replacement": "🧑‍🏭",
+    "description": "factory worker"
+  },
+  "om lucrător la fabrică": {
+    "replacement": "👨‍🏭",
+    "description": "man factory worker"
+  },
+  "femeie lucrătoare din fabrică": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "lucrător de birou": {
+    "replacement": "🧑‍💼",
+    "description": "office worker"
+  },
+  "om de birou": { "replacement": "👨‍💼", "description": "man office worker" },
+  "femeie lucrătoare de birou": {
+    "replacement": "👩‍💼",
+    "description": "woman office worker"
+  },
+  "om de stiinta": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "om de știință": { "replacement": "👨‍🔬", "description": "man scientist" },
+  "femeie de știință": {
+    "replacement": "👩‍🔬",
+    "description": "woman scientist"
+  },
+  "tehnolog": { "replacement": "🧑‍💻", "description": "technologist" },
+  "om tehnolog": { "replacement": "👨‍💻", "description": "man technologist" },
+  "femeie tehnologă": {
+    "replacement": "👩‍💻",
+    "description": "woman technologist"
+  },
+  "cântăreaţă": { "replacement": "🧑‍🎤", "description": "singer" },
+  "bărbat cântăreț": { "replacement": "👨‍🎤", "description": "man singer" },
+  "femeie cântăreață": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "artist": { "replacement": "🧑‍🎨", "description": "artist" },
+  "om artist": { "replacement": "👨‍🎨", "description": "man artist" },
+  "femeie artistă": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "pilot": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "om pilot": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "femeie pilot": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "astronaut": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "om astronaut": { "replacement": "👨‍🚀", "description": "man astronaut" },
+  "femeie astronaut": { "replacement": "👩‍🚀", "description": "woman astronaut" },
+  "pompier": { "replacement": "🚒", "description": "fire engine" },
+  "om pompier": { "replacement": "👨‍🚒", "description": "man firefighter" },
+  "femeie pompier": { "replacement": "👩‍🚒", "description": "woman firefighter" },
+  "politist": { "replacement": "👮", "description": "police officer" },
+  "polițist": { "replacement": "👮‍♂️", "description": "man police officer" },
+  "politista": { "replacement": "👮‍♀️", "description": "woman police officer" },
+  "detectiv": { "replacement": "🕵️", "description": "detective" },
+  "detectiv de sex masculin": {
+    "replacement": "🕵️‍♂️",
+    "description": "man detective"
+  },
+  "detectiv feminin": { "replacement": "🕵️‍♀️", "description": "woman detective" },
+  "paznic": { "replacement": "💂", "description": "guard" },
+  "străjer": { "replacement": "💂‍♂️", "description": "man guard" },
+  "gardiană": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "ninja": { "replacement": "🥷", "description": "ninja" },
+  "muncitor în construcții": {
+    "replacement": "👷",
+    "description": "construction worker"
+  },
+  "om muncitor în construcții": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "femeie muncitoare în construcții": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "prinţ": { "replacement": "🤴", "description": "prince" },
+  "prinţesă": { "replacement": "👸", "description": "princess" },
+  "persoana cu turban": {
+    "replacement": "👳",
+    "description": "person wearing turban"
+  },
+  "om cu turban": { "replacement": "👳‍♂️", "description": "man wearing turban" },
+  "femeie cu turban": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "om cu gua pi mao": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "femeie cu batic": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "persoană în smoching": {
+    "replacement": "🤵",
+    "description": "person in tuxedo"
+  },
+  "om în smoching": { "replacement": "🤵‍♂️", "description": "man in tuxedo" },
+  "femeie în smoching": {
+    "replacement": "🤵‍♀️",
+    "description": "woman in tuxedo"
+  },
+  "persoana cu voal": {
+    "replacement": "👰",
+    "description": "person with veil"
+  },
+  "om cu voal": { "replacement": "👰‍♂️", "description": "man with veil" },
+  "femeie cu voal": {
+    "replacement": "👰‍♀️",
+    "description": "woman with veil"
+  },
+  "femeie insarcinata": {
+    "replacement": "🤰",
+    "description": "pregnant woman"
+  },
+  "alăptarea": { "replacement": "🤱", "description": "breast-feeding" },
+  "femeie care hrănește copilul": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "om care hrănește copilul": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "persoană care hrănește copilul": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "înger": { "replacement": "👼", "description": "baby angel" },
+  "Moș Crăciun": { "replacement": "🎅", "description": "Santa Claus" },
+  "d-na Claus": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "mx claus": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "supererou": { "replacement": "🦸", "description": "superhero" },
+  "om super-erou": { "replacement": "🦸‍♂️", "description": "man superhero" },
+  "femeie super-erou": {
+    "replacement": "🦸‍♀️",
+    "description": "woman superhero"
+  },
+  "supravilan": { "replacement": "🦹", "description": "supervillain" },
+  "om supraveghetor": {
+    "replacement": "🦹‍♂️",
+    "description": "man supervillain"
+  },
+  "femeie supravilan": {
+    "replacement": "🦹‍♀️",
+    "description": "woman supervillain"
+  },
+  "mag": { "replacement": "🔍", "description": "magnifying glass tilted left" },
+  "om mag": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "femeie magică": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "Zana": { "replacement": "🧚", "description": "fairy" },
+  "om de zână": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "femeie zână": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "vampir": { "replacement": "🧛", "description": "vampire" },
+  "om vampir": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "femeie vampir": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "merperson": { "replacement": "🧜", "description": "merperson" },
+  "merman": { "replacement": "🧜‍♂️", "description": "merman" },
+  "sirenă": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "elf": { "replacement": "🧝", "description": "elf" },
+  "om elf": { "replacement": "🧝‍♂️", "description": "man elf" },
+  "femeie elfa": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "genie": { "replacement": "🧞", "description": "genie" },
+  "genie man": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "femeie genie": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "zombie": { "replacement": "🧟", "description": "zombie" },
+  "om zombie": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "femeie zombie": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "masaj": { "replacement": "💆", "description": "person getting massage" },
+  "om de masaj": { "replacement": "💆‍♂️", "description": "man getting massage" },
+  "femeie de masaj": {
+    "replacement": "💆‍♀️",
+    "description": "woman getting massage"
+  },
+  "tunsoare": { "replacement": "💇", "description": "person getting haircut" },
+  "bărbat tuns": { "replacement": "💇‍♂️", "description": "man getting haircut" },
+  "femeie tunsoare": {
+    "replacement": "💇‍♀️",
+    "description": "woman getting haircut"
+  },
+  "mersul pe jos": { "replacement": "🚶", "description": "person walking" },
+  "om plimbător": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "femeie plimbătoare": { "replacement": "🚶‍♀️", "description": "woman walking" },
+  "persoană în picioare": {
+    "replacement": "🧍",
+    "description": "person standing"
+  },
+  "om în picioare": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "femeie în picioare": {
+    "replacement": "🧍‍♀️",
+    "description": "woman standing"
+  },
+  "persoană îngenuncheată": {
+    "replacement": "🧎",
+    "description": "person kneeling"
+  },
+  "om îngenuncheat": { "replacement": "🧎‍♂️", "description": "man kneeling" },
+  "femeie îngenuncheată": {
+    "replacement": "🧎‍♀️",
+    "description": "woman kneeling"
+  },
+  "persoană cu baston de sondare": {
+    "replacement": "🧑‍🦯",
+    "description": "person with white cane"
+  },
+  "om cu baston de sondare": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "femeie cu baston de sondare": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "persoană în scaun cu rotile motorizat": {
+    "replacement": "🧑‍🦼",
+    "description": "person in motorized wheelchair"
+  },
+  "om în scaun cu rotile motorizat": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "femeie în scaun cu rotile motorizat": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "persoană în scaun cu rotile manual": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "om în scaun cu rotile manual": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "femeie în scaun cu rotile manual": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "alergător": { "replacement": "🏃‍♂️", "description": "man running" },
+  "femeie care aleargă": {
+    "replacement": "🏃‍♀️",
+    "description": "woman running"
+  },
+  "femeie dansând": { "replacement": "💃", "description": "woman dancing" },
+  "omul dansând": { "replacement": "🕺", "description": "man dancing" },
+  "costum de afaceri care levitează": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "dansatori": { "replacement": "👯", "description": "people with bunny ears" },
+  "barbati dansatori": {
+    "replacement": "👯‍♂️",
+    "description": "men with bunny ears"
+  },
+  "femei dansatoare": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "persoana sauna": {
+    "replacement": "🧖",
+    "description": "person in steamy room"
+  },
+  "om de saună": { "replacement": "🧖‍♂️", "description": "man in steamy room" },
+  "femeie de saună": {
+    "replacement": "🧖‍♀️",
+    "description": "woman in steamy room"
+  },
+  "alpinism": { "replacement": "🧗", "description": "person climbing" },
+  "om cățărător": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "femeie cățărătoare": {
+    "replacement": "🧗‍♀️",
+    "description": "woman climbing"
+  },
+  "scrimă de persoană": {
+    "replacement": "🤺",
+    "description": "person fencing"
+  },
+  "cursa de cai": { "replacement": "🏇", "description": "horse racing" },
+  "schior": { "replacement": "⛷️", "description": "skier" },
+  "snowboarder": { "replacement": "🏂", "description": "snowboarder" },
+  "golf": { "replacement": "⛳", "description": "flag in hole" },
+  "om de golf": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "femeie de golf": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "surfer": { "replacement": "🏄", "description": "person surfing" },
+  "om surfist": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "femeie de surf": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "barcă cu vâsle": {
+    "replacement": "🚣",
+    "description": "person rowing boat"
+  },
+  "om cu canotaj": { "replacement": "🚣‍♂️", "description": "man rowing boat" },
+  "femeie cu canotaj": {
+    "replacement": "🚣‍♀️",
+    "description": "woman rowing boat"
+  },
+  "înotător": { "replacement": "🏊", "description": "person swimming" },
+  "om înot": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "femeie înotătoare": { "replacement": "🏊‍♀️", "description": "woman swimming" },
+  "persoana cu mingea care sări": {
+    "replacement": "⛹️",
+    "description": "person bouncing ball"
+  },
+  "om cu mingea sărind": {
+    "replacement": "⛹️‍♂️",
+    "description": "man bouncing ball"
+  },
+  "femeie cu mingi care sări": {
+    "replacement": "⛹️‍♀️",
+    "description": "woman bouncing ball"
+  },
+  "ridicare de greutăți": {
+    "replacement": "🏋️",
+    "description": "person lifting weights"
+  },
+  "om de ridicare greutati": {
+    "replacement": "🏋️‍♂️",
+    "description": "man lifting weights"
+  },
+  "femeie cu greutate": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "biciclist": { "replacement": "🚴", "description": "person biking" },
+  "om cu bicicleta": { "replacement": "🚴‍♂️", "description": "man biking" },
+  "femeie cu bicicleta": { "replacement": "🚴‍♀️", "description": "woman biking" },
+  "biciclist de munte": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "om de ciclism montan": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "femeie de ciclism montan": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "roată de căruță": {
+    "replacement": "🤸",
+    "description": "person cartwheeling"
+  },
+  "omul cu căruța": { "replacement": "🤸‍♂️", "description": "man cartwheeling" },
+  "femeie cărucior": {
+    "replacement": "🤸‍♀️",
+    "description": "woman cartwheeling"
+  },
+  "lupte libere": { "replacement": "🤼", "description": "people wrestling" },
+  "bărbați care se luptă": {
+    "replacement": "🤼‍♂️",
+    "description": "men wrestling"
+  },
+  "femeile lupte": { "replacement": "🤼‍♀️", "description": "women wrestling" },
+  "polo pe apă": {
+    "replacement": "🤽",
+    "description": "person playing water polo"
+  },
+  "om jucând waterpolo": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "femeie jucând polo pe apă": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "persoana de handbal": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "om care joacă handbal": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "femeie jucând handbal": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "persoană de jonglerie": {
+    "replacement": "🤹",
+    "description": "person juggling"
+  },
+  "omul jonglând": { "replacement": "🤹‍♂️", "description": "man juggling" },
+  "femeie jonglând": { "replacement": "🤹‍♀️", "description": "woman juggling" },
+  "poziția lotusului": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "poziție lotus om": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "femeie poziție lotus": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "baie": { "replacement": "🛀", "description": "person taking bath" },
+  "pat de dormit": { "replacement": "🛌", "description": "person in bed" },
+  "oameni care se țin de mână": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "două femei ținându-se de mână": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "cuplu": {
+    "replacement": "👫",
+    "description": "woman and man holding hands"
+  },
+  "doi bărbați ținându-se de mână": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "kisskiss": { "replacement": "💏", "description": "kiss" },
+  "couplekiss barbat femeie": {
+    "replacement": "👩‍❤️‍💋‍👨",
+    "description": "kiss: woman, man"
+  },
+  "couplekiss man man": {
+    "replacement": "👨‍❤️‍💋‍👨",
+    "description": "kiss: man, man"
+  },
+  "couplekiss femeie femeie": {
+    "replacement": "👩‍❤️‍💋‍👩",
+    "description": "kiss: woman, woman"
+  },
+  "cuplu cu inimă": { "replacement": "💑", "description": "couple with heart" },
+  "cuplu cu inima femeie barbat": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "cuplu cu inima om barbat": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "cuplu cu inima femeie femeie": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "familie": { "replacement": "👪", "description": "family" },
+  "familie om femeie băiat": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "familie bărbat femeie fată": {
+    "replacement": "👨‍👩‍👧",
+    "description": "family: man, woman, girl"
+  },
+  "familie om femeie fată băiat": {
+    "replacement": "👨‍👩‍👧‍👦",
+    "description": "family: man, woman, girl, boy"
+  },
+  "familie om femeie băiat băiat": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "familie om femeie fată fată": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "om de familie bărbat băiat": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "om de familie bărbat fată": {
+    "replacement": "👨‍👨‍👧",
+    "description": "family: man, man, girl"
+  },
+  "om de familie bărbat fată băiat": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "om de familie bărbat băiat băiat": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "om de familie bărbat fată fată": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "familie femeie femeie băiat": {
+    "replacement": "👩‍👩‍👦",
+    "description": "family: woman, woman, boy"
+  },
+  "familie femeie femeie fată": {
+    "replacement": "👩‍👩‍👧",
+    "description": "family: woman, woman, girl"
+  },
+  "familie femeie femeie fată băiat": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "familie femeie femeie băiat băiat": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "familie femeie femeie fată fată": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "om de familie băiat": {
+    "replacement": "👨‍👦",
+    "description": "family: man, boy"
+  },
+  "om de familie băiat băiat": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "fată bărbat de familie": {
+    "replacement": "👨‍👧",
+    "description": "family: man, girl"
+  },
+  "om de familie fată băiat": {
+    "replacement": "👨‍👧‍👦",
+    "description": "family: man, girl, boy"
+  },
+  "om de familie fată fată": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "femeie de familie băiat": {
+    "replacement": "👩‍👦",
+    "description": "family: woman, boy"
+  },
+  "familie femeie băiat băiat": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "fată femeie de familie": {
+    "replacement": "👩‍👧",
+    "description": "family: woman, girl"
+  },
+  "familie femeie fată băiat": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "femeie de familie fată fată": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "vorbind cap": { "replacement": "🗣️", "description": "speaking head" },
+  "bust în siluetă": {
+    "replacement": "👤",
+    "description": "bust in silhouette"
+  },
+  "busturi în siluetă": {
+    "replacement": "👥",
+    "description": "busts in silhouette"
+  },
+  "oameni care se îmbrățișează": {
+    "replacement": "🫂",
+    "description": "people hugging"
+  },
+  "urme de pasi": { "replacement": "👣", "description": "footprints" },
+  "fata de maimuta": { "replacement": "🐵", "description": "monkey face" },
+  "maimuţă": { "replacement": "🐒", "description": "monkey" },
+  "gorilă": { "replacement": "🦍", "description": "gorilla" },
+  "orangutan": { "replacement": "🦧", "description": "orangutan" },
+  "câine": { "replacement": "🐶", "description": "dog face" },
+  "câine2": { "replacement": "🐕", "description": "dog" },
+  "câine-ghid": { "replacement": "🦮", "description": "guide dog" },
+  "câine de serviciu": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "pudel": { "replacement": "🐩", "description": "poodle" },
+  "lup": { "replacement": "🐺", "description": "wolf" },
+  "față de vulpe": { "replacement": "🦊", "description": "fox" },
+  "raton": { "replacement": "🦝", "description": "raccoon" },
+  "pisică": { "replacement": "🐱", "description": "cat face" },
+  "cat2": { "replacement": "🐈", "description": "cat" },
+  "pisica neagra": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "leu": { "replacement": "🦁", "description": "lion" },
+  "tigru": { "replacement": "🐯", "description": "tiger face" },
+  "tigru2": { "replacement": "🐅", "description": "tiger" },
+  "leopard": { "replacement": "🐆", "description": "leopard" },
+  "cal": { "replacement": "🐴", "description": "horse face" },
+  "cal de curse": { "replacement": "🐎", "description": "horse" },
+  "inorog": { "replacement": "🦄", "description": "unicorn" },
+  "zebră": { "replacement": "🦓", "description": "zebra" },
+  "cerb": { "replacement": "🦌", "description": "deer" },
+  "bizoni": { "replacement": "🦬", "description": "bison" },
+  "vacă": { "replacement": "🐮", "description": "cow face" },
+  "bou": { "replacement": "🐂", "description": "ox" },
+  "bivol de apa": { "replacement": "🐃", "description": "water buffalo" },
+  "vaca2": { "replacement": "🐄", "description": "cow" },
+  "porc": { "replacement": "🐷", "description": "pig face" },
+  "porc2": { "replacement": "🐖", "description": "pig" },
+  "vier": { "replacement": "🐗", "description": "boar" },
+  "nas de porc": { "replacement": "🐽", "description": "pig nose" },
+  "Berbec": { "replacement": "♈", "description": "Aries" },
+  "oaie": { "replacement": "🐑", "description": "ewe" },
+  "capră": { "replacement": "🐐", "description": "goat" },
+  "cămilă dromedară": { "replacement": "🐪", "description": "camel" },
+  "cămilă": { "replacement": "🐫", "description": "two-hump camel" },
+  "lamă": { "replacement": "🦙", "description": "llama" },
+  "girafă": { "replacement": "🦒", "description": "giraffe" },
+  "elefant": { "replacement": "🐘", "description": "elephant" },
+  "mamut": { "replacement": "🦣", "description": "mammoth" },
+  "rinocer": { "replacement": "🦏", "description": "rhinoceros" },
+  "hipopotam": { "replacement": "🦛", "description": "hippopotamus" },
+  "mouse": { "replacement": "🐭", "description": "mouse face" },
+  "mouse2": { "replacement": "🐁", "description": "mouse" },
+  "şobolan": { "replacement": "🐀", "description": "rat" },
+  "hamster": { "replacement": "🐹", "description": "hamster" },
+  "iepure": { "replacement": "🐰", "description": "rabbit face" },
+  "iepure2": { "replacement": "🐇", "description": "rabbit" },
+  "veveriță": { "replacement": "🐿️", "description": "chipmunk" },
+  "castor": { "replacement": "🦫", "description": "beaver" },
+  "arici": { "replacement": "🦔", "description": "hedgehog" },
+  "băţ": { "replacement": "🦇", "description": "bat" },
+  "urs": { "replacement": "🐻", "description": "bear" },
+  "urs polar": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "koala": { "replacement": "🐨", "description": "koala" },
+  "fata panda": { "replacement": "🐼", "description": "panda" },
+  "Lene": { "replacement": "🦥", "description": "sloth" },
+  "Vidra": { "replacement": "🦦", "description": "otter" },
+  "sconcs": { "replacement": "🦨", "description": "skunk" },
+  "cangur": { "replacement": "🦘", "description": "kangaroo" },
+  "bursuc": { "replacement": "🦡", "description": "badger" },
+  "picioare": { "replacement": "🐾", "description": "paw prints" },
+  "Curcan": { "replacement": "🦃", "description": "turkey" },
+  "pui": { "replacement": "🐔", "description": "chicken" },
+  "cocoş": { "replacement": "🐓", "description": "rooster" },
+  "pui de eclozare": { "replacement": "🐣", "description": "hatching chick" },
+  "pui de copil": { "replacement": "🐤", "description": "baby chick" },
+  "pui eclozat": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "pasăre": { "replacement": "🐦", "description": "bird" },
+  "pinguin": { "replacement": "🐧", "description": "penguin" },
+  "porumbel": { "replacement": "🕊️", "description": "dove" },
+  "vultur": { "replacement": "🦅", "description": "eagle" },
+  "rață": { "replacement": "🦆", "description": "duck" },
+  "lebădă": { "replacement": "🦢", "description": "swan" },
+  "bufniţă": { "replacement": "🦉", "description": "owl" },
+  "dodo": { "replacement": "🦤", "description": "dodo" },
+  "pană": { "replacement": "🪶", "description": "feather" },
+  "flamingo": { "replacement": "🦩", "description": "flamingo" },
+  "păun": { "replacement": "🦚", "description": "peacock" },
+  "papagal": { "replacement": "🦜", "description": "parrot" },
+  "broască": { "replacement": "🐸", "description": "frog" },
+  "crocodil": { "replacement": "🐊", "description": "crocodile" },
+  "broasca testoasa": { "replacement": "🐢", "description": "turtle" },
+  "şopârlă": { "replacement": "🦎", "description": "lizard" },
+  "şarpe": { "replacement": "🐍", "description": "snake" },
+  "fata de dragon": { "replacement": "🐲", "description": "dragon face" },
+  "balaur": { "replacement": "🐉", "description": "dragon" },
+  "sauropod": { "replacement": "🦕", "description": "sauropod" },
+  "t-rex": { "replacement": "🦖", "description": "T-Rex" },
+  "balenă": { "replacement": "🐳", "description": "spouting whale" },
+  "balena2": { "replacement": "🐋", "description": "whale" },
+  "delfin": { "replacement": "🐬", "description": "dolphin" },
+  "sigiliu": { "replacement": "🦭", "description": "seal" },
+  "peşte": { "replacement": "🐟", "description": "fish" },
+  "peste tropical": { "replacement": "🐠", "description": "tropical fish" },
+  "suflă": { "replacement": "🐡", "description": "blowfish" },
+  "rechin": { "replacement": "🦈", "description": "shark" },
+  "caracatiță": { "replacement": "🐙", "description": "octopus" },
+  "coajă": { "replacement": "🐚", "description": "spiral shell" },
+  "melc": { "replacement": "🐌", "description": "snail" },
+  "fluture": { "replacement": "🦋", "description": "butterfly" },
+  "gândac": { "replacement": "🪲", "description": "beetle" },
+  "furnică": { "replacement": "🐜", "description": "ant" },
+  "albină": { "replacement": "🐝", "description": "honeybee" },
+  "lady beetle": { "replacement": "🐞", "description": "lady beetle" },
+  "greier": { "replacement": "🦗", "description": "cricket" },
+  "gândac de bucătărie": { "replacement": "🪳", "description": "cockroach" },
+  "păianjen": { "replacement": "🕷️", "description": "spider" },
+  "panza de paianjen": { "replacement": "🕸️", "description": "spider web" },
+  "scorpion": { "replacement": "🦂", "description": "scorpion" },
+  "ţânţar": { "replacement": "🦟", "description": "mosquito" },
+  "a zbura": { "replacement": "🪰", "description": "fly" },
+  "vierme": { "replacement": "🪱", "description": "worm" },
+  "microb": { "replacement": "🦠", "description": "microbe" },
+  "buchet": { "replacement": "💐", "description": "bouquet" },
+  "floare de cires": { "replacement": "🌸", "description": "cherry blossom" },
+  "floare albă": { "replacement": "💮", "description": "white flower" },
+  "rozetă": { "replacement": "🏵️", "description": "rosette" },
+  "Trandafir": { "replacement": "🌹", "description": "rose" },
+  "floare ofilită": { "replacement": "🥀", "description": "wilted flower" },
+  "hibiscus": { "replacement": "🌺", "description": "hibiscus" },
+  "floarea soarelui": { "replacement": "🌻", "description": "sunflower" },
+  "a inflori": { "replacement": "🌼", "description": "blossom" },
+  "lalea": { "replacement": "🌷", "description": "tulip" },
+  "răsad": { "replacement": "🌱", "description": "seedling" },
+  "planta in ghiveci": { "replacement": "🪴", "description": "potted plant" },
+  "copac vesnic verde": {
+    "replacement": "🌲",
+    "description": "evergreen tree"
+  },
+  "Foioase": { "replacement": "🌳", "description": "deciduous tree" },
+  "palmier": { "replacement": "🌴", "description": "palm tree" },
+  "cactus": { "replacement": "🌵", "description": "cactus" },
+  "spice de orez": { "replacement": "🌾", "description": "sheaf of rice" },
+  "ierburi": { "replacement": "🌿", "description": "herb" },
+  "trifoi": { "replacement": "☘️", "description": "shamrock" },
+  "trifoi cu patru foi": {
+    "replacement": "🍀",
+    "description": "four leaf clover"
+  },
+  "frunză de arțar": { "replacement": "🍁", "description": "maple leaf" },
+  "frunza căzută": { "replacement": "🍂", "description": "fallen leaf" },
+  "frunze": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "struguri": { "replacement": "🍇", "description": "grapes" },
+  "pepene": { "replacement": "🍉", "description": "watermelon" },
+  "mandarină": { "replacement": "🍊", "description": "tangerine" },
+  "lămâie": { "replacement": "🍋", "description": "lemon" },
+  "banană": { "replacement": "🍌", "description": "banana" },
+  "ananas": { "replacement": "🍍", "description": "pineapple" },
+  "Mango": { "replacement": "🥭", "description": "mango" },
+  "măr": { "replacement": "🍎", "description": "red apple" },
+  "Mar verde": { "replacement": "🍏", "description": "green apple" },
+  "pară": { "replacement": "🍐", "description": "pear" },
+  "piersică": { "replacement": "🍑", "description": "peach" },
+  "cireșe": { "replacement": "🍒", "description": "cherries" },
+  "căpșună": { "replacement": "🍓", "description": "strawberry" },
+  "afine": { "replacement": "🫐", "description": "blueberries" },
+  "kiwi": { "replacement": "🥝", "description": "kiwi fruit" },
+  "roșie": { "replacement": "🍅", "description": "tomato" },
+  "măslin": { "replacement": "🫒", "description": "olive" },
+  "nucă de cocos": { "replacement": "🥥", "description": "coconut" },
+  "avocado": { "replacement": "🥑", "description": "avocado" },
+  "vânătă": { "replacement": "🍆", "description": "eggplant" },
+  "cartof": { "replacement": "🥔", "description": "potato" },
+  "morcov": { "replacement": "🥕", "description": "carrot" },
+  "porumb": { "replacement": "🌽", "description": "ear of corn" },
+  "ardei iute": { "replacement": "🌶️", "description": "hot pepper" },
+  "ardei gras": { "replacement": "🫑", "description": "bell pepper" },
+  "castravete": { "replacement": "🥒", "description": "cucumber" },
+  "verde ca frunza": { "replacement": "🥬", "description": "leafy green" },
+  "brocoli": { "replacement": "🥦", "description": "broccoli" },
+  "usturoi": { "replacement": "🧄", "description": "garlic" },
+  "ceapă": { "replacement": "🧅", "description": "onion" },
+  "ciupercă": { "replacement": "🍄", "description": "mushroom" },
+  "arahide": { "replacement": "🥜", "description": "peanuts" },
+  "castan": { "replacement": "🌰", "description": "chestnut" },
+  "pâine": { "replacement": "🍞", "description": "bread" },
+  "croissant": { "replacement": "🥐", "description": "croissant" },
+  "pâine baghetă": { "replacement": "🥖", "description": "baguette bread" },
+  "pâine plată": { "replacement": "🫓", "description": "flatbread" },
+  "covrig": { "replacement": "🥨", "description": "pretzel" },
+  "bagel": { "replacement": "🥯", "description": "bagel" },
+  "clătite": { "replacement": "🥞", "description": "pancakes" },
+  "vafe": { "replacement": "🧇", "description": "waffle" },
+  "brânză": { "replacement": "🧀", "description": "cheese wedge" },
+  "carne pe os": { "replacement": "🍖", "description": "meat on bone" },
+  "pulpă de pasăre": { "replacement": "🍗", "description": "poultry leg" },
+  "bucată de carne": { "replacement": "🥩", "description": "cut of meat" },
+  "slănină": { "replacement": "🥓", "description": "bacon" },
+  "hamburger": { "replacement": "🍔", "description": "hamburger" },
+  "cartofi prajiti": { "replacement": "🍟", "description": "french fries" },
+  "pizza": { "replacement": "🍕", "description": "pizza" },
+  "hot dog": { "replacement": "🌭", "description": "hot dog" },
+  "sandwich": { "replacement": "🥪", "description": "sandwich" },
+  "taco": { "replacement": "🌮", "description": "taco" },
+  "burrito": { "replacement": "🌯", "description": "burrito" },
+  "tamale": { "replacement": "🫔", "description": "tamale" },
+  "pâine plină umplută": {
+    "replacement": "🥙",
+    "description": "stuffed flatbread"
+  },
+  "falafel": { "replacement": "🧆", "description": "falafel" },
+  "ou": { "replacement": "🥚", "description": "egg" },
+  "ou prajit": { "replacement": "🍳", "description": "cooking" },
+  "tigaie superficială cu alimente": {
+    "replacement": "🥘",
+    "description": "shallow pan of food"
+  },
+  "tocană": { "replacement": "🍲", "description": "pot of food" },
+  "fondue": { "replacement": "🫕", "description": "fondue" },
+  "castron cu lingura": {
+    "replacement": "🥣",
+    "description": "bowl with spoon"
+  },
+  "salată verde": { "replacement": "🥗", "description": "green salad" },
+  "floricele de porumb": { "replacement": "🍿", "description": "popcorn" },
+  "unt": { "replacement": "🧈", "description": "butter" },
+  "sare": { "replacement": "🧂", "description": "salt" },
+  "mancare la conserva": { "replacement": "🥫", "description": "canned food" },
+  "bento": { "replacement": "🍱", "description": "bento box" },
+  "cracker de orez": { "replacement": "🍘", "description": "rice cracker" },
+  "bilă de orez": { "replacement": "🍙", "description": "rice ball" },
+  "orez": { "replacement": "🍚", "description": "cooked rice" },
+  "curry": { "replacement": "🍛", "description": "curry rice" },
+  "ramen": { "replacement": "🍜", "description": "steaming bowl" },
+  "spaghete": { "replacement": "🍝", "description": "spaghetti" },
+  "cartof dulce": {
+    "replacement": "🍠",
+    "description": "roasted sweet potato"
+  },
+  "oden": { "replacement": "🍢", "description": "oden" },
+  "sushi": { "replacement": "🍣", "description": "sushi" },
+  "creveti prajiti": { "replacement": "🍤", "description": "fried shrimp" },
+  "tort de peste": {
+    "replacement": "🍥",
+    "description": "fish cake with swirl"
+  },
+  "tort de luna": { "replacement": "🥮", "description": "moon cake" },
+  "dango": { "replacement": "🍡", "description": "dango" },
+  "găluşcă": { "replacement": "🥟", "description": "dumpling" },
+  "prăjitură cu răvaș": {
+    "replacement": "🥠",
+    "description": "fortune cookie"
+  },
+  "cutie de luat masa": { "replacement": "🥡", "description": "takeout box" },
+  "crab": { "replacement": "🦀", "description": "crab" },
+  "homar": { "replacement": "🦞", "description": "lobster" },
+  "crevetă": { "replacement": "🦐", "description": "shrimp" },
+  "calamar": { "replacement": "🦑", "description": "squid" },
+  "stridie": { "replacement": "🦪", "description": "oyster" },
+  "inghetata": { "replacement": "🍨", "description": "ice cream" },
+  "gheață rasă": { "replacement": "🍧", "description": "shaved ice" },
+  "gogoașă": { "replacement": "🍩", "description": "doughnut" },
+  "fursec": { "replacement": "🍪", "description": "cookie" },
+  "zi de nastere": { "replacement": "🎂", "description": "birthday cake" },
+  "tort": { "replacement": "🍰", "description": "shortcake" },
+  "briose": { "replacement": "🧁", "description": "cupcake" },
+  "plăcintă": { "replacement": "🥧", "description": "pie" },
+  "ciocolata": { "replacement": "🍫", "description": "chocolate bar" },
+  "bomboane": { "replacement": "🍬", "description": "candy" },
+  "acadea": { "replacement": "🍭", "description": "lollipop" },
+  "cremă": { "replacement": "🍮", "description": "custard" },
+  "borcan cu miere": { "replacement": "🍯", "description": "honey pot" },
+  "biberon": { "replacement": "🍼", "description": "baby bottle" },
+  "pahar de lapte": { "replacement": "🥛", "description": "glass of milk" },
+  "cafea": { "replacement": "☕", "description": "hot beverage" },
+  "ceainic": { "replacement": "🫖", "description": "teapot" },
+  "ceai": { "replacement": "🍵", "description": "teacup without handle" },
+  "dragul": { "replacement": "🍶", "description": "sake" },
+  "Șampanie": {
+    "replacement": "🍾",
+    "description": "bottle with popping cork"
+  },
+  "pahar de vin": { "replacement": "🍷", "description": "wine glass" },
+  "cocktail": { "replacement": "🍸", "description": "cocktail glass" },
+  "băutură tropicală": { "replacement": "🍹", "description": "tropical drink" },
+  "bere": { "replacement": "🍺", "description": "beer mug" },
+  "beri": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "ochelari care clintesc": {
+    "replacement": "🥂",
+    "description": "clinking glasses"
+  },
+  "pahar de sticlă": { "replacement": "🥃", "description": "tumbler glass" },
+  "cana cu paie": { "replacement": "🥤", "description": "cup with straw" },
+  "ceai cu bule": { "replacement": "🧋", "description": "bubble tea" },
+  "cutie pentru băuturi": { "replacement": "🧃", "description": "beverage box" },
+  "prietene": { "replacement": "🧉", "description": "mate" },
+  "cub de gheata": { "replacement": "🧊", "description": "ice" },
+  "betisoare": { "replacement": "🥢", "description": "chopsticks" },
+  "farfurie cu tacâmuri": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "furculiță și cuțit": {
+    "replacement": "🍴",
+    "description": "fork and knife"
+  },
+  "linguriţă": { "replacement": "🥄", "description": "spoon" },
+  "hocho": { "replacement": "🔪", "description": "kitchen knife" },
+  "amforă": { "replacement": "🏺", "description": "amphora" },
+  "Africa de pământ": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "America de pământ": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "pământ Asia": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "glob cu meridiane": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "harta lumii": { "replacement": "🗺️", "description": "world map" },
+  "Japonia": { "replacement": "🗾", "description": "map of Japan" },
+  "busolă": { "replacement": "🧭", "description": "compass" },
+  "zăpadă de munte": {
+    "replacement": "🏔️",
+    "description": "snow-capped mountain"
+  },
+  "Munte": { "replacement": "⛰️", "description": "mountain" },
+  "vulcan": { "replacement": "🌋", "description": "volcano" },
+  "muntele Fuji": { "replacement": "🗻", "description": "mount fuji" },
+  "camping": { "replacement": "🏕️", "description": "camping" },
+  "umbrela de plaja": {
+    "replacement": "🏖️",
+    "description": "beach with umbrella"
+  },
+  "deşert": { "replacement": "🏜️", "description": "desert" },
+  "insulă pustie": { "replacement": "🏝️", "description": "desert island" },
+  "parc național": { "replacement": "🏞️", "description": "national park" },
+  "stadiu": { "replacement": "🏟️", "description": "stadium" },
+  "clădire clasică": {
+    "replacement": "🏛️",
+    "description": "classical building"
+  },
+  "constructia unei cladiri": {
+    "replacement": "🏗️",
+    "description": "building construction"
+  },
+  "cărămizi": { "replacement": "🧱", "description": "brick" },
+  "stâncă": { "replacement": "🪨", "description": "rock" },
+  "lemn": { "replacement": "🪵", "description": "wood" },
+  "colibă": { "replacement": "🛖", "description": "hut" },
+  "case": { "replacement": "🏘️", "description": "houses" },
+  "casă abandonată": { "replacement": "🏚️", "description": "derelict house" },
+  "casa": { "replacement": "🏠", "description": "house" },
+  "casă cu grădină": {
+    "replacement": "🏡",
+    "description": "house with garden"
+  },
+  "birou": { "replacement": "🏢", "description": "office building" },
+  "Oficiul postal": {
+    "replacement": "🏣",
+    "description": "Japanese post office"
+  },
+  "oficiul poștal european": {
+    "replacement": "🏤",
+    "description": "post office"
+  },
+  "spital": { "replacement": "🏥", "description": "hospital" },
+  "bancă": { "replacement": "🏦", "description": "bank" },
+  "hotel": { "replacement": "🏨", "description": "hotel" },
+  "dragoste la hotel": { "replacement": "🏩", "description": "love hotel" },
+  "magazin": { "replacement": "🏪", "description": "convenience store" },
+  "şcoală": { "replacement": "🏫", "description": "school" },
+  "magazin universal": {
+    "replacement": "🏬",
+    "description": "department store"
+  },
+  "fabrică": { "replacement": "🏭", "description": "factory" },
+  "castel japonez": { "replacement": "🏯", "description": "Japanese castle" },
+  "castel european": { "replacement": "🏰", "description": "castle" },
+  "nuntă": { "replacement": "💒", "description": "wedding" },
+  "Turnul Tokio": { "replacement": "🗼", "description": "Tokyo tower" },
+  "Statuia Libertății": {
+    "replacement": "🗽",
+    "description": "Statue of Liberty"
+  },
+  "biserică": { "replacement": "⛪", "description": "church" },
+  "moschee": { "replacement": "🕌", "description": "mosque" },
+  "templu hindus": { "replacement": "🛕", "description": "hindu temple" },
+  "sinagogă": { "replacement": "🕍", "description": "synagogue" },
+  "altar shinto": { "replacement": "⛩️", "description": "shinto shrine" },
+  "kaaba": { "replacement": "🕋", "description": "kaaba" },
+  "Fântână": { "replacement": "⛲", "description": "fountain" },
+  "cort": { "replacement": "⛺", "description": "tent" },
+  "ceață": { "replacement": "🌁", "description": "foggy" },
+  "noapte cu stele": { "replacement": "🌃", "description": "night with stars" },
+  "peisaj urban": { "replacement": "🏙️", "description": "cityscape" },
+  "răsăritul soarelui peste munți": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "răsărit": { "replacement": "🌅", "description": "sunrise" },
+  "apusul orașului": {
+    "replacement": "🌆",
+    "description": "cityscape at dusk"
+  },
+  "răsăritul orașului": { "replacement": "🌇", "description": "sunset" },
+  "pod noaptea": { "replacement": "🌉", "description": "bridge at night" },
+  "primaveri calduroase": { "replacement": "♨️", "description": "hot springs" },
+  "cal carusel": { "replacement": "🎠", "description": "carousel horse" },
+  "roată": { "replacement": "🎡", "description": "ferris wheel" },
+  "Rollercoaster": { "replacement": "🎢", "description": "roller coaster" },
+  "frizer": { "replacement": "💈", "description": "barber pole" },
+  "cort de circ": { "replacement": "🎪", "description": "circus tent" },
+  "locomotiva cu abur": { "replacement": "🚂", "description": "locomotive" },
+  "vagon de cale ferată": { "replacement": "🚃", "description": "railway car" },
+  "partea bullettrain": {
+    "replacement": "🚄",
+    "description": "high-speed train"
+  },
+  "bullettrain front": { "replacement": "🚅", "description": "bullet train" },
+  "tren2": { "replacement": "🚆", "description": "train" },
+  "metroul": { "replacement": "🚇", "description": "metro" },
+  "Cale Ușoară": { "replacement": "🚈", "description": "light rail" },
+  "statie": { "replacement": "🚉", "description": "station" },
+  "tramvai": { "replacement": "🚊", "description": "tram" },
+  "monorai": { "replacement": "🚝", "description": "monorail" },
+  "calea ferată de munte": {
+    "replacement": "🚞",
+    "description": "mountain railway"
+  },
+  "tren": { "replacement": "🚋", "description": "tram car" },
+  "autobuz": { "replacement": "🚌", "description": "bus" },
+  "autobuz care se apropie": {
+    "replacement": "🚍",
+    "description": "oncoming bus"
+  },
+  "troleibuz": { "replacement": "🚎", "description": "trolleybus" },
+  "microbuz": { "replacement": "🚐", "description": "minibus" },
+  "ambulanță": { "replacement": "🚑", "description": "ambulance" },
+  "mașină de poliție": { "replacement": "🚓", "description": "police car" },
+  "mașina de poliție care se apropie": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "Taxi": { "replacement": "🚕", "description": "taxi" },
+  "taxi care se apropie": {
+    "replacement": "🚖",
+    "description": "oncoming taxi"
+  },
+  "mașină": { "replacement": "🚗", "description": "automobile" },
+  "automobilul care se apropie": {
+    "replacement": "🚘",
+    "description": "oncoming automobile"
+  },
+  "mașină albastră": {
+    "replacement": "🚙",
+    "description": "sport utility vehicle"
+  },
+  "camion": { "replacement": "🚚", "description": "delivery truck" },
+  "camion articulat": {
+    "replacement": "🚛",
+    "description": "articulated lorry"
+  },
+  "tractor": { "replacement": "🚜", "description": "tractor" },
+  "mașină de curse": { "replacement": "🏎️", "description": "racing car" },
+  "motocicletă": { "replacement": "🏍️", "description": "motorcycle" },
+  "scuter": { "replacement": "🛵", "description": "motor scooter" },
+  "scaun cu rotile manual": {
+    "replacement": "🦽",
+    "description": "manual wheelchair"
+  },
+  "scaun cu rotile motorizat": {
+    "replacement": "🦼",
+    "description": "motorized wheelchair"
+  },
+  "ricșa auto": { "replacement": "🛺", "description": "auto rickshaw" },
+  "bicicletă": { "replacement": "🚲", "description": "bicycle" },
+  "kick scooter": { "replacement": "🛴", "description": "kick scooter" },
+  "skateboard": { "replacement": "🛹", "description": "skateboard" },
+  "patine cu rotile": { "replacement": "🛼", "description": "roller skate" },
+  "stație de autobuz": { "replacement": "🚏", "description": "bus stop" },
+  "autostrada": { "replacement": "🛣️", "description": "motorway" },
+  "cale ferată": { "replacement": "🛤️", "description": "railway track" },
+  "tambur de ulei": { "replacement": "🛢️", "description": "oil drum" },
+  "pompă de combustibil": { "replacement": "⛽", "description": "fuel pump" },
+  "lumină rotativă": { "replacement": "🚨", "description": "police car light" },
+  "semafor": { "replacement": "🚥", "description": "horizontal traffic light" },
+  "semafor vertical": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "semn de oprire": { "replacement": "🛑", "description": "stop sign" },
+  "constructie": { "replacement": "🚧", "description": "construction" },
+  "ancoră": { "replacement": "⚓", "description": "anchor" },
+  "barcă": { "replacement": "⛵", "description": "sailboat" },
+  "canoe": { "replacement": "🛶", "description": "canoe" },
+  "barca cu motor": { "replacement": "🛥️", "description": "motor boat" },
+  "nava de pasageri": { "replacement": "🛳️", "description": "passenger ship" },
+  "BAC": { "replacement": "⛴️", "description": "ferry" },
+  "navă": { "replacement": "🚢", "description": "ship" },
+  "avion": { "replacement": "✈️", "description": "airplane" },
+  "avion mic": { "replacement": "🛩️", "description": "small airplane" },
+  "plecarea zborului": {
+    "replacement": "🛫",
+    "description": "airplane departure"
+  },
+  "sosirea zborului": {
+    "replacement": "🛬",
+    "description": "airplane arrival"
+  },
+  "paraşuta": { "replacement": "🪂", "description": "parachute" },
+  "scaun": { "replacement": "🪑", "description": "chair" },
+  "elicopter": { "replacement": "🚁", "description": "helicopter" },
+  "cale ferată suspendată": {
+    "replacement": "🚟",
+    "description": "suspension railway"
+  },
+  "telecabina montană": {
+    "replacement": "🚠",
+    "description": "mountain cableway"
+  },
+  "tramvai aerian": { "replacement": "🚡", "description": "aerial tramway" },
+  "satelit artificial": { "replacement": "🛰️", "description": "satellite" },
+  "rachetă": { "replacement": "🚀", "description": "rocket" },
+  "farfurie zburătoare": {
+    "replacement": "🛸",
+    "description": "flying saucer"
+  },
+  "clopot clopot": { "replacement": "🛎️", "description": "bellhop bell" },
+  "bagaje": { "replacement": "🧳", "description": "luggage" },
+  "clepsidră": { "replacement": "⌛", "description": "hourglass done" },
+  "nisip care curge clepsidră": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "ceas": { "replacement": "⌚", "description": "watch" },
+  "ceas cu alarmă": { "replacement": "⏰", "description": "alarm clock" },
+  "cronometru": { "replacement": "⏱️", "description": "stopwatch" },
+  "ceas cu temporizator": { "replacement": "⏲️", "description": "timer clock" },
+  "ceas de la cămin": {
+    "replacement": "🕰️",
+    "description": "mantelpiece clock"
+  },
+  "ceasul12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "ceasul1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "ceas1": { "replacement": "🕐", "description": "one o’clock" },
+  "ceas130": { "replacement": "🕜", "description": "one-thirty" },
+  "ceas2": { "replacement": "🕑", "description": "two o’clock" },
+  "ceas230": { "replacement": "🕝", "description": "two-thirty" },
+  "ceas3": { "replacement": "🕒", "description": "three o’clock" },
+  "ceas330": { "replacement": "🕞", "description": "three-thirty" },
+  "ceas4": { "replacement": "🕓", "description": "four o’clock" },
+  "ceas430": { "replacement": "🕟", "description": "four-thirty" },
+  "ceasul5": { "replacement": "🕔", "description": "five o’clock" },
+  "ceas530": { "replacement": "🕠", "description": "five-thirty" },
+  "ceas6": { "replacement": "🕕", "description": "six o’clock" },
+  "ceas630": { "replacement": "🕡", "description": "six-thirty" },
+  "ceasul7": { "replacement": "🕖", "description": "seven o’clock" },
+  "ceasul 730": { "replacement": "🕢", "description": "seven-thirty" },
+  "ceas8": { "replacement": "🕗", "description": "eight o’clock" },
+  "ceas830": { "replacement": "🕣", "description": "eight-thirty" },
+  "ceasul9": { "replacement": "🕘", "description": "nine o’clock" },
+  "ceas930": { "replacement": "🕤", "description": "nine-thirty" },
+  "ceas10": { "replacement": "🕙", "description": "ten o’clock" },
+  "ceas1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "ceas11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "ceasul1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "lună nouă": { "replacement": "🌑", "description": "new moon" },
+  "semilună crescândă": {
+    "replacement": "🌒",
+    "description": "waxing crescent moon"
+  },
+  "primul sfert de lună": {
+    "replacement": "🌓",
+    "description": "first quarter moon"
+  },
+  "luna": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "lună plină": { "replacement": "🌕", "description": "full moon" },
+  "lună gibboasă în scădere": {
+    "replacement": "🌖",
+    "description": "waning gibbous moon"
+  },
+  "ultimul sfert de lună": {
+    "replacement": "🌗",
+    "description": "last quarter moon"
+  },
+  "semilună în scădere": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "semilună": { "replacement": "🌙", "description": "crescent moon" },
+  "luna noua cu fata": { "replacement": "🌚", "description": "new moon face" },
+  "primul sfert de lună cu fața": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "ultimul sfert de lună cu fața": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "termometru": { "replacement": "🌡️", "description": "thermometer" },
+  "însorită": { "replacement": "☀️", "description": "sun" },
+  "luna plina cu fata": {
+    "replacement": "🌝",
+    "description": "full moon face"
+  },
+  "soare cu față": { "replacement": "🌞", "description": "sun with face" },
+  "planeta inelată": { "replacement": "🪐", "description": "ringed planet" },
+  "stea": { "replacement": "⭐", "description": "star" },
+  "stea2": { "replacement": "🌟", "description": "glowing star" },
+  "stele": { "replacement": "🌠", "description": "shooting star" },
+  "calea Lactee": { "replacement": "🌌", "description": "milky way" },
+  "nor": { "replacement": "☁️", "description": "cloud" },
+  "parțial însorit": { "replacement": "⛅", "description": "sun behind cloud" },
+  "nor cu fulgere și ploaie": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "soare în spatele norului mic": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "soare în spatele norului mare": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "soare în spatele norului de ploaie": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "nor cu ploaie": { "replacement": "🌧️", "description": "cloud with rain" },
+  "nor cu zăpadă": { "replacement": "🌨️", "description": "cloud with snow" },
+  "nor cu fulgere": {
+    "replacement": "🌩️",
+    "description": "cloud with lightning"
+  },
+  "tornadă": { "replacement": "🌪️", "description": "tornado" },
+  "ceaţă": { "replacement": "🌫️", "description": "fog" },
+  "față de vânt": { "replacement": "🌬️", "description": "wind face" },
+  "ciclon": { "replacement": "🌀", "description": "cyclone" },
+  "curcubeu": { "replacement": "🌈", "description": "rainbow" },
+  "umbrelă închisă": { "replacement": "🌂", "description": "closed umbrella" },
+  "umbrelă deschisă": { "replacement": "☂️", "description": "umbrella" },
+  "umbrelă": { "replacement": "☔", "description": "umbrella with rain drops" },
+  "umbrelă de soare la sol": {
+    "replacement": "⛱️",
+    "description": "umbrella on ground"
+  },
+  "zap": { "replacement": "⚡", "description": "high voltage" },
+  "fulg de nea": { "replacement": "❄️", "description": "snowflake" },
+  "om de zăpadă cu zăpadă": { "replacement": "☃️", "description": "snowman" },
+  "om de zapada": {
+    "replacement": "⛄",
+    "description": "snowman without snow"
+  },
+  "cometă": { "replacement": "☄️", "description": "comet" },
+  "foc": { "replacement": "🔥", "description": "fire" },
+  "picătură": { "replacement": "💧", "description": "droplet" },
+  "ocean": { "replacement": "🌊", "description": "water wave" },
+  "jack o lantern": { "replacement": "🎃", "description": "jack-o-lantern" },
+  "Brad de Crăciun": { "replacement": "🎄", "description": "Christmas tree" },
+  "focuri de artificii": { "replacement": "🎆", "description": "fireworks" },
+  "sclipitoare": { "replacement": "🎇", "description": "sparkler" },
+  "petard": { "replacement": "🧨", "description": "firecracker" },
+  "scânteie": { "replacement": "❇️", "description": "sparkle" },
+  "balon": { "replacement": "🎈", "description": "balloon" },
+  "tada": { "replacement": "🎉", "description": "party popper" },
+  "mingea de confetti": { "replacement": "🎊", "description": "confetti ball" },
+  "arborele tanabata": { "replacement": "🎋", "description": "tanabata tree" },
+  "bambus": { "replacement": "🎍", "description": "pine decoration" },
+  "păpuși": { "replacement": "🎎", "description": "Japanese dolls" },
+  "steaguri": { "replacement": "🎏", "description": "carp streamer" },
+  "zgomot de vânt": { "replacement": "🎐", "description": "wind chime" },
+  "scena orezului": {
+    "replacement": "🎑",
+    "description": "moon viewing ceremony"
+  },
+  "plic roșu": { "replacement": "🧧", "description": "red envelope" },
+  "panglică": { "replacement": "🎀", "description": "ribbon" },
+  "cadou": { "replacement": "🎁", "description": "wrapped gift" },
+  "panglică de reamintire": {
+    "replacement": "🎗️",
+    "description": "reminder ribbon"
+  },
+  "bilete": { "replacement": "🎟️", "description": "admission tickets" },
+  "bilet": { "replacement": "🎫", "description": "ticket" },
+  "medalie militară": { "replacement": "🎖️", "description": "military medal" },
+  "trofeu": { "replacement": "🏆", "description": "trophy" },
+  "sport medalie": { "replacement": "🏅", "description": "sports medal" },
+  "Medalia locului 1": {
+    "replacement": "🥇",
+    "description": "1st place medal"
+  },
+  "Medalia locului 2": {
+    "replacement": "🥈",
+    "description": "2nd place medal"
+  },
+  "Medalia locului 3": {
+    "replacement": "🥉",
+    "description": "3rd place medal"
+  },
+  "fotbal": { "replacement": "🏈", "description": "american football" },
+  "baseball": { "replacement": "⚾", "description": "baseball" },
+  "minge moale": { "replacement": "🥎", "description": "softball" },
+  "baschet": { "replacement": "🏀", "description": "basketball" },
+  "volei": { "replacement": "🏐", "description": "volleyball" },
+  "fotbal de rugby": { "replacement": "🏉", "description": "rugby football" },
+  "tenis": { "replacement": "🎾", "description": "tennis" },
+  "disc zburător": { "replacement": "🥏", "description": "flying disc" },
+  "bowling": { "replacement": "🎳", "description": "bowling" },
+  "joc de cricket": { "replacement": "🏏", "description": "cricket game" },
+  "hochei pe iarbă": { "replacement": "🏑", "description": "field hockey" },
+  "hochei pe gheata": { "replacement": "🏒", "description": "ice hockey" },
+  "lacrosse": { "replacement": "🥍", "description": "lacrosse" },
+  "tenis de masa": { "replacement": "🏓", "description": "ping pong" },
+  "badminton": { "replacement": "🏸", "description": "badminton" },
+  "manusa de box": { "replacement": "🥊", "description": "boxing glove" },
+  "uniformă de arte marțiale": {
+    "replacement": "🥋",
+    "description": "martial arts uniform"
+  },
+  "plasă de goluri": { "replacement": "🥅", "description": "goal net" },
+  "patină pe gheață": { "replacement": "⛸️", "description": "ice skate" },
+  "stâlp de pescuit și pește": {
+    "replacement": "🎣",
+    "description": "fishing pole"
+  },
+  "masca de scufundare": { "replacement": "🤿", "description": "diving mask" },
+  "cămașă de alergat cu bandă": {
+    "replacement": "🎽",
+    "description": "running shirt"
+  },
+  "schi": { "replacement": "🎿", "description": "skis" },
+  "sanie": { "replacement": "🛷", "description": "sled" },
+  "piatră ondulată": { "replacement": "🥌", "description": "curling stone" },
+  "lance": { "replacement": "🎯", "description": "direct hit" },
+  "yo yo": { "replacement": "🪀", "description": "yo-yo" },
+  "zmeu": { "replacement": "🪁", "description": "kite" },
+  "8ball": { "replacement": "🎱", "description": "pool 8 ball" },
+  "minge de cristal": { "replacement": "🔮", "description": "crystal ball" },
+  "bagheta magica": { "replacement": "🪄", "description": "magic wand" },
+  "nazar amuleta": { "replacement": "🧿", "description": "nazar amulet" },
+  "joc video": { "replacement": "🎮", "description": "video game" },
+  "joystick": { "replacement": "🕹️", "description": "joystick" },
+  "jocuri mecanice": { "replacement": "🎰", "description": "slot machine" },
+  "joc mor": { "replacement": "🎲", "description": "game die" },
+  "puzzle": { "replacement": "🧩", "description": "puzzle piece" },
+  "ursuleț": { "replacement": "🧸", "description": "teddy bear" },
+  "pinata": { "replacement": "🪅", "description": "piñata" },
+  "păpuși cuibăritoare": { "replacement": "🪆", "description": "nesting dolls" },
+  "pică": { "replacement": "♠️", "description": "spade suit" },
+  "inimile": { "replacement": "♥️", "description": "heart suit" },
+  "diamante": { "replacement": "♦️", "description": "diamond suit" },
+  "cluburi": { "replacement": "♣️", "description": "club suit" },
+  "pion de șah": { "replacement": "♟️", "description": "chess pawn" },
+  "glumă neagră": { "replacement": "🃏", "description": "joker" },
+  "mahjong": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "cărți de joc cu flori": {
+    "replacement": "🎴",
+    "description": "flower playing cards"
+  },
+  "artele spectacolului": {
+    "replacement": "🎭",
+    "description": "performing arts"
+  },
+  "poză încadrată": { "replacement": "🖼️", "description": "framed picture" },
+  "artă": { "replacement": "🎨", "description": "artist palette" },
+  "fir": { "replacement": "🧵", "description": "thread" },
+  "ac de cusut": { "replacement": "🪡", "description": "sewing needle" },
+  "fire": { "replacement": "🧶", "description": "yarn" },
+  "nod": { "replacement": "🪢", "description": "knot" },
+  "ochelari de vedere": { "replacement": "👓", "description": "glasses" },
+  "ochelari de soare negri": {
+    "replacement": "🕶️",
+    "description": "sunglasses"
+  },
+  "ochelari de protecţie": { "replacement": "🥽", "description": "goggles" },
+  "haină de laborator": { "replacement": "🥼", "description": "lab coat" },
+  "vesta de salvare": { "replacement": "🦺", "description": "safety vest" },
+  "cravată": { "replacement": "👔", "description": "necktie" },
+  "cămaşă": { "replacement": "👕", "description": "t-shirt" },
+  "blugi": { "replacement": "👖", "description": "jeans" },
+  "eșarfă": { "replacement": "🧣", "description": "scarf" },
+  "mănuși": { "replacement": "🧤", "description": "gloves" },
+  "palton": { "replacement": "🧥", "description": "coat" },
+  "șosete": { "replacement": "🧦", "description": "socks" },
+  "rochie": { "replacement": "👗", "description": "dress" },
+  "chimono": { "replacement": "👘", "description": "kimono" },
+  "sari": { "replacement": "🥻", "description": "sari" },
+  "costum de baie dintr-o bucată": {
+    "replacement": "🩱",
+    "description": "one-piece swimsuit"
+  },
+  "scurt de înot": { "replacement": "🩲", "description": "briefs" },
+  "pantaloni scurti": { "replacement": "🩳", "description": "shorts" },
+  "bikini": { "replacement": "👙", "description": "bikini" },
+  "haine pentru femei": {
+    "replacement": "👚",
+    "description": "woman’s clothes"
+  },
+  "pungă": { "replacement": "👝", "description": "clutch bag" },
+  "geantă de mână": { "replacement": "👜", "description": "handbag" },
+  "cumpărături": { "replacement": "🛍️", "description": "shopping bags" },
+  "ghiozdan școală": { "replacement": "🎒", "description": "backpack" },
+  "sandale tanga": { "replacement": "🩴", "description": "thong sandal" },
+  "pantof de om": { "replacement": "👞", "description": "man’s shoe" },
+  "pantof de sport": { "replacement": "👟", "description": "running shoe" },
+  "ghete de catarat": { "replacement": "🥾", "description": "hiking boot" },
+  "pantof plat": { "replacement": "🥿", "description": "flat shoe" },
+  "toc inalt": { "replacement": "👠", "description": "high-heeled shoe" },
+  "sandală": { "replacement": "👡", "description": "woman’s sandal" },
+  "papuci de balet": { "replacement": "🩰", "description": "ballet shoes" },
+  "cizmă": { "replacement": "👢", "description": "woman’s boot" },
+  "coroană": { "replacement": "👑", "description": "crown" },
+  "pălărie pentru femei": { "replacement": "👒", "description": "woman’s hat" },
+  "tophat": { "replacement": "🎩", "description": "top hat" },
+  "tablă de mortar": { "replacement": "🎓", "description": "graduation cap" },
+  "capac facturat": { "replacement": "🧢", "description": "billed cap" },
+  "cască militară": { "replacement": "🪖", "description": "military helmet" },
+  "casca muncitorului de salvare": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "mătănii": { "replacement": "📿", "description": "prayer beads" },
+  "ruj": { "replacement": "💄", "description": "lipstick" },
+  "inel": { "replacement": "💍", "description": "ring" },
+  "bijuterie": { "replacement": "💎", "description": "gem stone" },
+  "mut": { "replacement": "🔇", "description": "muted speaker" },
+  "vorbitor": { "replacement": "🔈", "description": "speaker low volume" },
+  "sunet": { "replacement": "🔉", "description": "speaker medium volume" },
+  "sunet puternic": {
+    "replacement": "🔊",
+    "description": "speaker high volume"
+  },
+  "difuzor": { "replacement": "📢", "description": "loudspeaker" },
+  "mega": { "replacement": "📣", "description": "megaphone" },
+  "corn poștal": { "replacement": "📯", "description": "postal horn" },
+  "clopot": { "replacement": "🔔", "description": "bell" },
+  "fără clopot": { "replacement": "🔕", "description": "bell with slash" },
+  "scor muzical": { "replacement": "🎼", "description": "musical score" },
+  "notă muzicală": { "replacement": "🎵", "description": "musical note" },
+  "note": { "replacement": "🎶", "description": "musical notes" },
+  "microfon de studio": {
+    "replacement": "🎙️",
+    "description": "studio microphone"
+  },
+  "glisor de nivel": { "replacement": "🎚️", "description": "level slider" },
+  "butoane de control": { "replacement": "🎛️", "description": "control knobs" },
+  "microfon": { "replacement": "🎤", "description": "microphone" },
+  "Căști": { "replacement": "🎧", "description": "headphone" },
+  "radio": { "replacement": "📻", "description": "radio" },
+  "saxofon": { "replacement": "🎷", "description": "saxophone" },
+  "acordeon": { "replacement": "🪗", "description": "accordion" },
+  "chitară": { "replacement": "🎸", "description": "guitar" },
+  "tastatură muzicală": {
+    "replacement": "🎹",
+    "description": "musical keyboard"
+  },
+  "trompeta": { "replacement": "🎺", "description": "trumpet" },
+  "vioară": { "replacement": "🎻", "description": "violin" },
+  "banjo": { "replacement": "🪕", "description": "banjo" },
+  "Tobă": { "replacement": "🥁", "description": "drum" },
+  "tambur lung": { "replacement": "🪘", "description": "long drum" },
+  "iphone": { "replacement": "📱", "description": "mobile phone" },
+  "chemând": { "replacement": "📲", "description": "mobile phone with arrow" },
+  "telefon": { "replacement": "☎️", "description": "telephone" },
+  "receptor telefonic": {
+    "replacement": "📞",
+    "description": "telephone receiver"
+  },
+  "pager": { "replacement": "📟", "description": "pager" },
+  "fax": { "replacement": "📠", "description": "fax machine" },
+  "baterie": { "replacement": "🔋", "description": "battery" },
+  "priza": { "replacement": "🔌", "description": "electric plug" },
+  "calculator": { "replacement": "💻", "description": "laptop" },
+  "calculator desktop": {
+    "replacement": "🖥️",
+    "description": "desktop computer"
+  },
+  "imprimantă": { "replacement": "🖨️", "description": "printer" },
+  "tastatură": { "replacement": "⌨️", "description": "keyboard" },
+  "mouse-ul computerului": {
+    "replacement": "🖱️",
+    "description": "computer mouse"
+  },
+  "trackball": { "replacement": "🖲️", "description": "trackball" },
+  "minidisc": { "replacement": "💽", "description": "computer disk" },
+  "floppy disk": { "replacement": "💾", "description": "floppy disk" },
+  "CD": { "replacement": "💿", "description": "optical disk" },
+  "DVD": { "replacement": "📀", "description": "dvd" },
+  "abac": { "replacement": "🧮", "description": "abacus" },
+  "camera de film": { "replacement": "🎥", "description": "movie camera" },
+  "bandă de film": { "replacement": "🎞️", "description": "film frames" },
+  "proiector de film": { "replacement": "📽️", "description": "film projector" },
+  "clapă": { "replacement": "🎬", "description": "clapper board" },
+  "televizor": { "replacement": "📺", "description": "television" },
+  "aparat foto": { "replacement": "📷", "description": "camera" },
+  "blițul camerei foto": {
+    "replacement": "📸",
+    "description": "camera with flash"
+  },
+  "cameră video": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "dreapta": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "lumânare": { "replacement": "🕯️", "description": "candle" },
+  "bec": { "replacement": "💡", "description": "light bulb" },
+  "lanternă": { "replacement": "🔦", "description": "flashlight" },
+  "lanterna izakaya": {
+    "replacement": "🏮",
+    "description": "red paper lantern"
+  },
+  "lampa diya": { "replacement": "🪔", "description": "diya lamp" },
+  "caiet cu capac decorativ": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "carte închisă": { "replacement": "📕", "description": "closed book" },
+  "carte": { "replacement": "📖", "description": "open book" },
+  "carte verde": { "replacement": "📗", "description": "green book" },
+  "carte albastra": { "replacement": "📘", "description": "blue book" },
+  "carte portocalie": { "replacement": "📙", "description": "orange book" },
+  "cărți": { "replacement": "📚", "description": "books" },
+  "caiet": { "replacement": "📓", "description": "notebook" },
+  "registru": { "replacement": "📒", "description": "ledger" },
+  "pagină cu buclă": { "replacement": "📃", "description": "page with curl" },
+  "sul": { "replacement": "📜", "description": "scroll" },
+  "pagina cu fața în sus": {
+    "replacement": "📄",
+    "description": "page facing up"
+  },
+  "ziar": { "replacement": "📰", "description": "newspaper" },
+  "rola ziarului": {
+    "replacement": "🗞️",
+    "description": "rolled-up newspaper"
+  },
+  "file de marcaje": { "replacement": "📑", "description": "bookmark tabs" },
+  "marcaj": { "replacement": "🔖", "description": "bookmark" },
+  "eticheta": { "replacement": "🏷️", "description": "label" },
+  "geantă cu bani": { "replacement": "💰", "description": "money bag" },
+  "monedă": { "replacement": "🪙", "description": "coin" },
+  "yen": { "replacement": "💴", "description": "yen banknote" },
+  "dolar": { "replacement": "💵", "description": "dollar banknote" },
+  "euro": { "replacement": "💶", "description": "euro banknote" },
+  "livră": { "replacement": "💷", "description": "pound banknote" },
+  "bani cu aripi": { "replacement": "💸", "description": "money with wings" },
+  "card de credit": { "replacement": "💳", "description": "credit card" },
+  "chitanță": { "replacement": "🧾", "description": "receipt" },
+  "diagramă": {
+    "replacement": "💹",
+    "description": "chart increasing with yen"
+  },
+  "e-mail": { "replacement": "📧", "description": "e-mail" },
+  "plic de intrare": {
+    "replacement": "📨",
+    "description": "incoming envelope"
+  },
+  "plic cu săgeată": {
+    "replacement": "📩",
+    "description": "envelope with arrow"
+  },
+  "tava de ieșire": { "replacement": "📤", "description": "outbox tray" },
+  "tava de intrare": { "replacement": "📥", "description": "inbox tray" },
+  "pachet": { "replacement": "📦", "description": "package" },
+  "cutie poștală": { "replacement": "📮", "description": "postbox" },
+  "cutia poștală închisă": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "cutie poștală cu poștă": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "cutie poștală fără mail": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "urna": { "replacement": "🗳️", "description": "ballot box with ballot" },
+  "creion2": { "replacement": "✏️", "description": "pencil" },
+  "plumb negru": { "replacement": "✒️", "description": "black nib" },
+  "stilou": { "replacement": "🖋️", "description": "fountain pen" },
+  "pix": { "replacement": "🖊️", "description": "pen" },
+  "pensulă": { "replacement": "🖌️", "description": "paintbrush" },
+  "pastel": { "replacement": "🖍️", "description": "crayon" },
+  "notificare": { "replacement": "📝", "description": "memo" },
+  "servietă": { "replacement": "💼", "description": "briefcase" },
+  "dosar fișier": { "replacement": "📁", "description": "file folder" },
+  "deschideți fișierul": {
+    "replacement": "📂",
+    "description": "open file folder"
+  },
+  "divizoare de index de card": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "Data": { "replacement": "📅", "description": "calendar" },
+  "calendar": { "replacement": "📆", "description": "tear-off calendar" },
+  "blocnotes spiralat": {
+    "replacement": "🗒️",
+    "description": "spiral notepad"
+  },
+  "calendar spiralat": {
+    "replacement": "🗓️",
+    "description": "spiral calendar"
+  },
+  "indexul cardului": { "replacement": "📇", "description": "card index" },
+  "grafic cu tendință ascendentă": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "grafic cu tendință descendentă": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "grafic cu bare": { "replacement": "📊", "description": "bar chart" },
+  "clipboard": { "replacement": "📋", "description": "clipboard" },
+  "ghidon": { "replacement": "📌", "description": "pushpin" },
+  "știft rotund": { "replacement": "📍", "description": "round pushpin" },
+  "agrafă de birou": { "replacement": "📎", "description": "paperclip" },
+  "agrafe": { "replacement": "🖇️", "description": "linked paperclips" },
+  "domnitor drept": { "replacement": "📏", "description": "straight ruler" },
+  "rigla triunghiulară": {
+    "replacement": "📐",
+    "description": "triangular ruler"
+  },
+  "foarfece": { "replacement": "✂️", "description": "scissors" },
+  "cutie fișier card": { "replacement": "🗃️", "description": "card file box" },
+  "cabinet de dosare": { "replacement": "🗄️", "description": "file cabinet" },
+  "cos de gunoi": { "replacement": "🗑️", "description": "wastebasket" },
+  "Lacăt": { "replacement": "🔒", "description": "locked" },
+  "debloca": { "replacement": "🔓", "description": "unlocked" },
+  "încuietoare cu stilou de cerneală": {
+    "replacement": "🔏",
+    "description": "locked with pen"
+  },
+  "încuietoare închisă cu cheie": {
+    "replacement": "🔐",
+    "description": "locked with key"
+  },
+  "cheie": { "replacement": "🔧", "description": "wrench" },
+  "cheie veche": { "replacement": "🗝️", "description": "old key" },
+  "ciocan": { "replacement": "🔨", "description": "hammer" },
+  "topor": { "replacement": "🪓", "description": "axe" },
+  "alege": { "replacement": "⛏️", "description": "pick" },
+  "ciocănesc și culege": {
+    "replacement": "⚒️",
+    "description": "hammer and pick"
+  },
+  "ciocan și cheie": {
+    "replacement": "🛠️",
+    "description": "hammer and wrench"
+  },
+  "pumnal": { "replacement": "🗡️", "description": "dagger" },
+  "săbiile încrucișate": {
+    "replacement": "⚔️",
+    "description": "crossed swords"
+  },
+  "pistol": { "replacement": "🔫", "description": "pistol" },
+  "bumerang": { "replacement": "🪃", "description": "boomerang" },
+  "arc și săgeată": { "replacement": "🏹", "description": "bow and arrow" },
+  "scut": { "replacement": "🛡️", "description": "shield" },
+  "ferăstrău de tâmplărie": {
+    "replacement": "🪚",
+    "description": "carpentry saw"
+  },
+  "şurubelniţă": { "replacement": "🪛", "description": "screwdriver" },
+  "piulița și șurubul": { "replacement": "🔩", "description": "nut and bolt" },
+  "Angrenaj": { "replacement": "⚙️", "description": "gear" },
+  "clemă": { "replacement": "🗜️", "description": "clamp" },
+  "scara echilibrului": { "replacement": "⚖️", "description": "balance scale" },
+  "sondă baston": { "replacement": "🦯", "description": "white cane" },
+  "legătură": { "replacement": "🔗", "description": "link" },
+  "lanţuri": { "replacement": "⛓️", "description": "chains" },
+  "cârlig": { "replacement": "🪝", "description": "hook" },
+  "trusa de scule": { "replacement": "🧰", "description": "toolbox" },
+  "magnet": { "replacement": "🧲", "description": "magnet" },
+  "scară": { "replacement": "🪜", "description": "ladder" },
+  "alambic": { "replacement": "⚗️", "description": "alembic" },
+  "eprubetă": { "replacement": "🧪", "description": "test tube" },
+  "vas Petri": { "replacement": "🧫", "description": "petri dish" },
+  "dna": { "replacement": "🧬", "description": "dna" },
+  "microscop": { "replacement": "🔬", "description": "microscope" },
+  "telescop": { "replacement": "🔭", "description": "telescope" },
+  "satelit": { "replacement": "📡", "description": "satellite antenna" },
+  "seringă": { "replacement": "💉", "description": "syringe" },
+  "picătură de sânge": { "replacement": "🩸", "description": "drop of blood" },
+  "pilula": { "replacement": "💊", "description": "pill" },
+  "bandaj adeziv": { "replacement": "🩹", "description": "adhesive bandage" },
+  "stetoscop": { "replacement": "🩺", "description": "stethoscope" },
+  "uşă": { "replacement": "🚪", "description": "door" },
+  "lift": { "replacement": "🛗", "description": "elevator" },
+  "oglindă": { "replacement": "🪞", "description": "mirror" },
+  "fereastră": { "replacement": "🪟", "description": "window" },
+  "pat": { "replacement": "🛏️", "description": "bed" },
+  "canapea și lampă": { "replacement": "🛋️", "description": "couch and lamp" },
+  "toaletă": { "replacement": "🚻", "description": "restroom" },
+  "pompă de WC": { "replacement": "🪠", "description": "plunger" },
+  "duș": { "replacement": "🚿", "description": "shower" },
+  "cadă": { "replacement": "🛁", "description": "bathtub" },
+  "capcana mouse-ului": { "replacement": "🪤", "description": "mouse trap" },
+  "aparat de ras": { "replacement": "🪒", "description": "razor" },
+  "sticlă de loțiune": { "replacement": "🧴", "description": "lotion bottle" },
+  "ac de siguranță": { "replacement": "🧷", "description": "safety pin" },
+  "mătură": { "replacement": "🧹", "description": "broom" },
+  "coş": { "replacement": "🧺", "description": "basket" },
+  "sul de hârtie": { "replacement": "🧻", "description": "roll of paper" },
+  "găleată": { "replacement": "🪣", "description": "bucket" },
+  "săpun": { "replacement": "🧼", "description": "soap" },
+  "periuta de dinti": { "replacement": "🪥", "description": "toothbrush" },
+  "burete": { "replacement": "🧽", "description": "sponge" },
+  "Stingător de foc": {
+    "replacement": "🧯",
+    "description": "fire extinguisher"
+  },
+  "cărucior de cumpărături": {
+    "replacement": "🛒",
+    "description": "shopping cart"
+  },
+  "fumat": { "replacement": "🚬", "description": "cigarette" },
+  "sicriu": { "replacement": "⚰️", "description": "coffin" },
+  "piatră de mormânt": { "replacement": "🪦", "description": "headstone" },
+  "urna funerară": { "replacement": "⚱️", "description": "funeral urn" },
+  "moyai": { "replacement": "🗿", "description": "moai" },
+  "pancartă": { "replacement": "🪧", "description": "placard" },
+  "ATM": { "replacement": "🏧", "description": "ATM sign" },
+  "pune așternutul în locul său": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "apă potabilă": { "replacement": "🚰", "description": "potable water" },
+  "scaun cu rotile": {
+    "replacement": "♿",
+    "description": "wheelchair symbol"
+  },
+  "a bărbaților": { "replacement": "🚹", "description": "men’s room" },
+  "Femei": { "replacement": "🚺", "description": "women’s room" },
+  "simbol copil": { "replacement": "🚼", "description": "baby symbol" },
+  "toaleta": { "replacement": "🚾", "description": "water closet" },
+  "control pașapoarte": {
+    "replacement": "🛂",
+    "description": "passport control"
+  },
+  "vamă": { "replacement": "🛃", "description": "customs" },
+  "ridicarea bagajelor": {
+    "replacement": "🛄",
+    "description": "baggage claim"
+  },
+  "bagaje lasate": { "replacement": "🛅", "description": "left luggage" },
+  "avertizare": { "replacement": "⚠️", "description": "warning" },
+  "copii care traversează": {
+    "replacement": "🚸",
+    "description": "children crossing"
+  },
+  "nicio intrare": { "replacement": "⛔", "description": "no entry" },
+  "fără semn de intrare": { "replacement": "🚫", "description": "prohibited" },
+  "Interzis pentru Biciclete": {
+    "replacement": "🚳",
+    "description": "no bicycles"
+  },
+  "fumatul interzis": { "replacement": "🚭", "description": "no smoking" },
+  "nu așternut": { "replacement": "🚯", "description": "no littering" },
+  "apă nepotabilă": { "replacement": "🚱", "description": "non-potable water" },
+  "Interzis Pietoni": { "replacement": "🚷", "description": "no pedestrians" },
+  "fără telefoane mobile": {
+    "replacement": "📵",
+    "description": "no mobile phones"
+  },
+  "minor": { "replacement": "🔞", "description": "no one under eighteen" },
+  "radioactiv": { "replacement": "☢️", "description": "radioactive" },
+  "pericol biologic": { "replacement": "☣️", "description": "biohazard" },
+  "săgeată în sus": { "replacement": "⬆️", "description": "up arrow" },
+  "săgeata sus dreapta": {
+    "replacement": "↗️",
+    "description": "up-right arrow"
+  },
+  "săgeată dreapta": { "replacement": "➡️", "description": "right arrow" },
+  "săgeata jos dreapta": {
+    "replacement": "↘️",
+    "description": "down-right arrow"
+  },
+  "săgeata în jos": { "replacement": "⬇️", "description": "down arrow" },
+  "săgeata în stânga jos": {
+    "replacement": "↙️",
+    "description": "down-left arrow"
+  },
+  "săgeată la stânga": { "replacement": "⬅️", "description": "left arrow" },
+  "săgeata din stânga sus": {
+    "replacement": "↖️",
+    "description": "up-left arrow"
+  },
+  "săgeata în sus": { "replacement": "↕️", "description": "up-down arrow" },
+  "săgeata stânga dreapta": {
+    "replacement": "↔️",
+    "description": "left-right arrow"
+  },
+  "săgeata spre stânga cu cârlig": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "săgeată dreapta cârlig": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "săgeata îndreptându-se în sus": {
+    "replacement": "⤴️",
+    "description": "right arrow curving up"
+  },
+  "săgeata îndreptată în jos": {
+    "replacement": "⤵️",
+    "description": "right arrow curving down"
+  },
+  "săgeți în sensul acelor de ceasornic": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "săgeți în sens invers acelor de ceasornic": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "înapoi": { "replacement": "🔙", "description": "BACK arrow" },
+  "Sfârșit": { "replacement": "🔚", "description": "END arrow" },
+  "pe": { "replacement": "🔛", "description": "ON! arrow" },
+  "curând": { "replacement": "🔜", "description": "SOON arrow" },
+  "top": { "replacement": "🔝", "description": "TOP arrow" },
+  "lăcaș de cult": { "replacement": "🛐", "description": "place of worship" },
+  "simbolul atomului": { "replacement": "⚛️", "description": "atom symbol" },
+  "steaua lui David": { "replacement": "✡️", "description": "star of David" },
+  "roata dharmei": { "replacement": "☸️", "description": "wheel of dharma" },
+  "Yin Yang": { "replacement": "☯️", "description": "yin yang" },
+  "cruce latină": { "replacement": "✝️", "description": "latin cross" },
+  "cruce ortodoxă": { "replacement": "☦️", "description": "orthodox cross" },
+  "stea și semilună": {
+    "replacement": "☪️",
+    "description": "star and crescent"
+  },
+  "simbolul păcii": { "replacement": "☮️", "description": "peace symbol" },
+  "menorah": { "replacement": "🕎", "description": "menorah" },
+  "stea cu șase vârfuri": {
+    "replacement": "🔯",
+    "description": "dotted six-pointed star"
+  },
+  "Taurul": { "replacement": "♉", "description": "Taurus" },
+  "zodia Gemeni": { "replacement": "♊", "description": "Gemini" },
+  "cancer": { "replacement": "♋", "description": "Cancer" },
+  "Leu": { "replacement": "♌", "description": "Leo" },
+  "fecioara": { "replacement": "♍", "description": "Virgo" },
+  "balanta": { "replacement": "♎", "description": "Libra" },
+  "scorpius": { "replacement": "♏", "description": "Scorpio" },
+  "sagetator": { "replacement": "♐", "description": "Sagittarius" },
+  "Capricornul": { "replacement": "♑", "description": "Capricorn" },
+  "vărsător": { "replacement": "♒", "description": "Aquarius" },
+  "peștii": { "replacement": "♓", "description": "Pisces" },
+  "ophiuchus": { "replacement": "⛎", "description": "Ophiuchus" },
+  "săgeți răsucite spre dreapta": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "repeta": { "replacement": "🔁", "description": "repeat button" },
+  "repetă una": { "replacement": "🔂", "description": "repeat single button" },
+  "săgeată înainte": { "replacement": "▶️", "description": "play button" },
+  "repede inainte": {
+    "replacement": "⏩",
+    "description": "fast-forward button"
+  },
+  "butonul următor următor": {
+    "replacement": "⏭️",
+    "description": "next track button"
+  },
+  "butonul redare sau pauză": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "săgeată înapoi": { "replacement": "◀️", "description": "reverse button" },
+  "derula înapoi": {
+    "replacement": "⏪",
+    "description": "fast reverse button"
+  },
+  "butonul track anterior": {
+    "replacement": "⏮️",
+    "description": "last track button"
+  },
+  "săgeată în sus mică": {
+    "replacement": "🔼",
+    "description": "upwards button"
+  },
+  "săgeata dublează în sus": {
+    "replacement": "⏫",
+    "description": "fast up button"
+  },
+  "săgeata în jos mică": {
+    "replacement": "🔽",
+    "description": "downwards button"
+  },
+  "săgeata dublă în jos": {
+    "replacement": "⏬",
+    "description": "fast down button"
+  },
+  "butonul de pauză": { "replacement": "⏸️", "description": "pause button" },
+  "butonul de oprire": { "replacement": "⏹️", "description": "stop button" },
+  "butonul de înregistrare": {
+    "replacement": "⏺️",
+    "description": "record button"
+  },
+  "butonul de evacuare": { "replacement": "⏏️", "description": "eject button" },
+  "Cinema": { "replacement": "🎦", "description": "cinema" },
+  "luminozitate scăzută": { "replacement": "🔅", "description": "dim button" },
+  "luminozitate mare": { "replacement": "🔆", "description": "bright button" },
+  "puterea semnalului": { "replacement": "📶", "description": "antenna bars" },
+  "modul de vibrații": { "replacement": "📳", "description": "vibration mode" },
+  "telefonul mobil oprit": {
+    "replacement": "📴",
+    "description": "mobile phone off"
+  },
+  "semn feminin": { "replacement": "♀️", "description": "female sign" },
+  "semn masculin": { "replacement": "♂️", "description": "male sign" },
+  "simbol transgender": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "multiplicare grea x": { "replacement": "✖️", "description": "multiply" },
+  "semnul plus greu": { "replacement": "➕", "description": "plus" },
+  "semn minus greu": { "replacement": "➖", "description": "minus" },
+  "semn de divizie grea": { "replacement": "➗", "description": "divide" },
+  "infinit": { "replacement": "♾️", "description": "infinity" },
+  "bangbang": { "replacement": "‼️", "description": "double exclamation mark" },
+  "interrobang": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "întrebare": { "replacement": "❓", "description": "question mark" },
+  "întrebare gri": {
+    "replacement": "❔",
+    "description": "white question mark"
+  },
+  "exclamatie gri": {
+    "replacement": "❕",
+    "description": "white exclamation mark"
+  },
+  "exclamare": { "replacement": "❗", "description": "exclamation mark" },
+  "liniuță ondulată": { "replacement": "〰️", "description": "wavy dash" },
+  "schimb valutar": { "replacement": "💱", "description": "currency exchange" },
+  "semn greu de dolar": {
+    "replacement": "💲",
+    "description": "heavy dollar sign"
+  },
+  "simbol medical": { "replacement": "⚕️", "description": "medical symbol" },
+  "recicla": { "replacement": "♻️", "description": "recycling symbol" },
+  "fleur de lis": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "trident": { "replacement": "🔱", "description": "trident emblem" },
+  "insigna cu nume": { "replacement": "📛", "description": "name badge" },
+  "începător": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "o": { "replacement": "⭕", "description": "hollow red circle" },
+  "bifă albă": { "replacement": "✅", "description": "check mark button" },
+  "urna cu cec": { "replacement": "☑️", "description": "check box with check" },
+  "bifă grea": { "replacement": "✔️", "description": "check mark" },
+  "X": { "replacement": "❌", "description": "cross mark" },
+  "semn de cruce pătrat negativ": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "bucla buclata": { "replacement": "➰", "description": "curly loop" },
+  "buclă": { "replacement": "➿", "description": "double curly loop" },
+  "marca de alternanță a pieselor": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "opt asterisc cu spițe": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "stea neagră cu opt vârfuri": {
+    "replacement": "✴️",
+    "description": "eight-pointed star"
+  },
+  "drepturi de autor": { "replacement": "©️", "description": "copyright" },
+  "înregistrat": { "replacement": "®️", "description": "registered" },
+  "tm": { "replacement": "™️", "description": "trade mark" },
+  "hash": { "replacement": "#️⃣", "description": "keycap: #" },
+  "asterisc": { "replacement": "*️⃣", "description": "keycap: *" },
+  "zero": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "unu": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "Două": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "Trei": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "patru": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "cinci": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "şase": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "Șapte": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "opt": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "nouă": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "cheycap zece": { "replacement": "🔟", "description": "keycap: 10" },
+  "capital abcd": {
+    "replacement": "🔠",
+    "description": "input latin uppercase"
+  },
+  "abcd": { "replacement": "🔡", "description": "input latin lowercase" },
+  "simboluri": { "replacement": "🔣", "description": "input symbols" },
+  "abc": { "replacement": "🔤", "description": "input latin letters" },
+  "A": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "ab": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "b": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "cl": { "replacement": "🆑", "description": "CL button" },
+  "misto": { "replacement": "🆒", "description": "COOL button" },
+  "gratuit": { "replacement": "🆓", "description": "FREE button" },
+  "sursa de informatie": { "replacement": "ℹ️", "description": "information" },
+  "id": { "replacement": "🆔", "description": "ID button" },
+  "m": { "replacement": "Ⓜ️", "description": "circled M" },
+  "nou": { "replacement": "🆕", "description": "NEW button" },
+  "ng": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "O.K": { "replacement": "🆗", "description": "OK button" },
+  "parcare": { "replacement": "🅿️", "description": "P button" },
+  "sos": { "replacement": "🆘", "description": "SOS button" },
+  "sus": { "replacement": "🆙", "description": "UP! button" },
+  "vs.": { "replacement": "🆚", "description": "VS button" },
+  "koko": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "sa": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "avantaj ideografic": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "Accept": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "Felicitări": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "secret": { "replacement": "㊙️", "description": "Japanese “secret” button" },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "cerc roșu": { "replacement": "🔴", "description": "red circle" },
+  "cerc portocaliu": { "replacement": "🟠", "description": "orange circle" },
+  "cerc galben": { "replacement": "🟡", "description": "yellow circle" },
+  "cerc verde": { "replacement": "🟢", "description": "green circle" },
+  "cerc albastru mare": { "replacement": "🔵", "description": "blue circle" },
+  "cerc mov": { "replacement": "🟣", "description": "purple circle" },
+  "cerc maro": { "replacement": "🟤", "description": "brown circle" },
+  "cerc negru": { "replacement": "⚫", "description": "black circle" },
+  "cerc alb": { "replacement": "⚪", "description": "white circle" },
+  "pătrat roșu": { "replacement": "🟥", "description": "red square" },
+  "pătrat portocaliu": { "replacement": "🟧", "description": "orange square" },
+  "pătrat galben": { "replacement": "🟨", "description": "yellow square" },
+  "pătrat verde": { "replacement": "🟩", "description": "green square" },
+  "pătrat albastru": { "replacement": "🟦", "description": "blue square" },
+  "pătrat mov": { "replacement": "🟪", "description": "purple square" },
+  "pătrat maro": { "replacement": "🟫", "description": "brown square" },
+  "pătrat mare negru": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "pătrat mare alb": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "pătrat mediu negru": {
+    "replacement": "◼️",
+    "description": "black medium square"
+  },
+  "pătrat alb mediu": {
+    "replacement": "◻️",
+    "description": "white medium square"
+  },
+  "pătrat negru mediu mic": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "alb pătrat mic mic": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "pătrat mic negru": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "pătrat mic alb": {
+    "replacement": "▫️",
+    "description": "white small square"
+  },
+  "diamant portocaliu mare": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "diamant albastru mare": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "mic diamant portocaliu": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "mic diamant albastru": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "mic triunghi roșu": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "mic triunghi roșu în jos": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "formă de diamant cu un punct în interior": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "buton de radio": { "replacement": "🔘", "description": "radio button" },
+  "buton pătrat alb": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "buton pătrat negru": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "steagul în carouri": {
+    "replacement": "🏁",
+    "description": "chequered flag"
+  },
+  "steag triunghiular pe stâlp": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "steaguri încrucișate": {
+    "replacement": "🎌",
+    "description": "crossed flags"
+  },
+  "steag de pirați": { "replacement": "🏴", "description": "black flag" },
+  "steag alb": { "replacement": "🏳️", "description": "white flag" },
+  "steag curcubeu": { "replacement": "🏳️‍🌈", "description": "rainbow flag" },
+  "steagul transgender": {
+    "replacement": "🏳️‍⚧️",
+    "description": "transgender flag"
+  },
+  "Steag de pirati": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "insula ascensiunii": {
+    "replacement": "🇦🇨",
+    "description": "flag: Ascension Island"
+  },
+  "andorra": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "Emiratele Arabe Unite": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "afganistan": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "antigua barbuda": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "anguilla": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "Albania": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "Armenia": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "Angola": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "antarctica": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "Argentina": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "Samoa Americană": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "Austria": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "Australia": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "aruba": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "Insulele Aland": {
+    "replacement": "🇦🇽",
+    "description": "flag: Åland Islands"
+  },
+  "azerbaidjan": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "bosnia herzegovina": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "barbados": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "bangladesh": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "Belgia": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "Burkina Faso": { "replacement": "🇧🇫", "description": "flag: Burkina Faso" },
+  "Bulgaria": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "bahrain": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "burundi": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "Benin": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "st barthelemy": {
+    "replacement": "🇧🇱",
+    "description": "flag: St. Barthélemy"
+  },
+  "bermuda": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "brunei": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "Bolivia": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "Olanda Olanda": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "Brazilia": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "bahamas": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "bhutan": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "insula bouvet": {
+    "replacement": "🇧🇻",
+    "description": "flag: Bouvet Island"
+  },
+  "botswana": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "Bielorusia": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "belize": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "Canada": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "insulele cocos": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "congo kinshasa": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "Republica Centrafricană": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "congo brazzaville": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "Elveţia": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "cote divoire": { "replacement": "🇨🇮", "description": "flag: Côte d’Ivoire" },
+  "insule de gătit": {
+    "replacement": "🇨🇰",
+    "description": "flag: Cook Islands"
+  },
+  "chile": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "Camerun": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "cn": { "replacement": "🇨🇳", "description": "flag: China" },
+  "Columbia": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "insula clipperton": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "Costa Rica": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "Cuba": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "capul Verde": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "curacao": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "Insula Craciunului": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "cipru": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "Republica Cehă": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "de": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "diego garcia": { "replacement": "🇩🇬", "description": "flag: Diego Garcia" },
+  "djibouti": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "Danemarca": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "dominica": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "Republica Dominicana": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "algeria": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "ceuta melilla": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "Ecuador": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "Estonia": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "Egipt": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "sahara de Vest": {
+    "replacement": "🇪🇭",
+    "description": "flag: Western Sahara"
+  },
+  "eritreea": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "es": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "Etiopia": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "eu": { "replacement": "🇪🇺", "description": "flag: European Union" },
+  "Finlanda": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "Fiji": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "Insulele Falkland": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "micronesia": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "Insulele Feroe": {
+    "replacement": "🇫🇴",
+    "description": "flag: Faroe Islands"
+  },
+  "fr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "Gabon": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "gb": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "grenada": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "Georgia": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "guiana franceză": {
+    "replacement": "🇬🇫",
+    "description": "flag: French Guiana"
+  },
+  "guernsey": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "ghana": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "gibraltar": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "Groenlanda": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "Gambia": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "Guineea": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "guadelupa": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "Guineea Ecuatorială": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "Grecia": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "Georgia de Sud Insulele Sandwich de Sud": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "Guatemala": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "guam": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "guinea bissau": {
+    "replacement": "🇬🇼",
+    "description": "flag: Guinea-Bissau"
+  },
+  "guyana": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "Hong Kong": {
+    "replacement": "🇭🇰",
+    "description": "flag: Hong Kong SAR China"
+  },
+  "auzit insulele mcdonald": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "honduras": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "Croaţia": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "Haiti": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "Ungaria": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "Insulele Canare": {
+    "replacement": "🇮🇨",
+    "description": "flag: Canary Islands"
+  },
+  "Indonezia": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "Irlanda": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "Israel": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "insula Barbatului": {
+    "replacement": "🇮🇲",
+    "description": "flag: Isle of Man"
+  },
+  "India": { "replacement": "🇮🇳", "description": "flag: India" },
+  "Teritoriul Britanic al Oceanului Indian": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "Irak": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "Iran": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "Islanda": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "aceasta": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "tricou": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "jamaica": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "Iordania": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "jp": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "Kenya": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "kârgâzstan": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "Cambodgia": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "kiribati": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "comore": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "kitts nevis": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "Coreea de Nord": { "replacement": "🇰🇵", "description": "flag: North Korea" },
+  "kr": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "Kuweit": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "Insulele Cayman": {
+    "replacement": "🇰🇾",
+    "description": "flag: Cayman Islands"
+  },
+  "kazakhstan": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "Laos": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "Liban": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "St Lucia": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "Liechtenstein": {
+    "replacement": "🇱🇮",
+    "description": "flag: Liechtenstein"
+  },
+  "Sri Lanka": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "Liberia": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "lesotho": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "Lituania": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "Luxemburg": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "Letonia": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "Libia": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "Maroc": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "monaco": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "moldova": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "muntenegru": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "St Martin": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "Madagascar": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "Insulele Marshall": {
+    "replacement": "🇲🇭",
+    "description": "flag: Marshall Islands"
+  },
+  "Macedonia": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "mali": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "Myanmar": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "Mongolia": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "Macao": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "insulele Marianelor de Nord": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "Martinica": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "mauritania": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "montserrat": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "Malta": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "mauritius": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "maldive": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "Malawi": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "Mexic": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "Malaezia": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "mozambic": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "namibia": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "Noua Caledonie": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "niger": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "insula norfolk": {
+    "replacement": "🇳🇫",
+    "description": "flag: Norfolk Island"
+  },
+  "Nigeria": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "nicaragua": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "Olanda": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "Norvegia": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "Nepal": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "nauru": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "niue": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "noua Zeelanda": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "Oman": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "Panama": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "Peru": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "Polinezia Franceză": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "Papua Noua Guinee": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "Filipine": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "Pakistan": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "Polonia": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "st pierre miquelon": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "insule pitcairn": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "puerto rico": { "replacement": "🇵🇷", "description": "flag: Puerto Rico" },
+  "teritoriile palestiniene": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "Portugalia": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "palau": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "paraguay": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "qatar": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "reuniune": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "România": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "Serbia": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "ru": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "rwanda": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "Arabia Saudită": {
+    "replacement": "🇸🇦",
+    "description": "flag: Saudi Arabia"
+  },
+  "Insulele Solomon": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "seychelles": { "replacement": "🇸🇨", "description": "flag: Seychelles" },
+  "sudan": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "Suedia": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "Singapore": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "st helena": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "Slovenia": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "svalbard jan mayen": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "Slovacia": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "Sierra Leone": { "replacement": "🇸🇱", "description": "flag: Sierra Leone" },
+  "san marino": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "senegal": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "Somalia": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "surinam": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "Sudul Sudanului": {
+    "replacement": "🇸🇸",
+    "description": "flag: South Sudan"
+  },
+  "sao tome principe": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "el salvador": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "sint maarten": { "replacement": "🇸🇽", "description": "flag: Sint Maarten" },
+  "Siria": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "Swaziland": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "tristan da cunha": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "turks insule caicos": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "Ciad": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "teritoriile din sudul Frantei": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "a merge": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "Tailanda": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "Tadjikistan": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "tokelau": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "timor leste": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "turkmenistan": { "replacement": "🇹🇲", "description": "flag: Turkmenistan" },
+  "Tunisia": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "Tonga": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "tr": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "trinidad tobago": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "tuvalu": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "taiwan": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "tanzania": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "Ucraina": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "uganda": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "noi insule periferice": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "Națiunile Unite": {
+    "replacement": "🇺🇳",
+    "description": "flag: United Nations"
+  },
+  "ne": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "Uruguay": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "uzbekistan": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "orasul Vatican": {
+    "replacement": "🇻🇦",
+    "description": "flag: Vatican City"
+  },
+  "st vincent grenadines": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "Venezuela": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "Insulele Virgine Britanice": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "noi insule virgine": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "Vietnam": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "vanuatu": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "wallis futuna": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "samoa": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "kosovo": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "yemen": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "mayotă": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "Africa de Sud": { "replacement": "🇿🇦", "description": "flag: South Africa" },
+  "zambia": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "Zimbabwe": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "Anglia": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "Scoţia": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "Țara Galilor": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

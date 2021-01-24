@@ -1,0 +1,2961 @@
+{
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "ನಸುನಕ್ಕು": { "replacement": "😀", "description": "grinning face" },
+  "ನಗು": { "replacement": "😏", "description": "smirking face" },
+  "ಸ್ಮೈಲ್": {
+    "replacement": "😄",
+    "description": "grinning face with smiling eyes"
+  },
+  "ಗ್ರಿನ್": {
+    "replacement": "😁",
+    "description": "beaming face with smiling eyes"
+  },
+  "ನಗುವುದು": { "replacement": "😆", "description": "grinning squinting face" },
+  "ಬೆವರು ಸ್ಮೈಲ್": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "ಸಂತೋಷ": { "replacement": "😂", "description": "face with tears of joy" },
+  "ಸ್ವಲ್ಪ ನಗುತ್ತಿರುವ ಮುಖ": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "ತಲೆಕೆಳಗಾಗಿ ಮುಖ": { "replacement": "🙃", "description": "upside-down face" },
+  "ಕಣ್ಣು ಮಿಟುಕಿಸುವುದು": { "replacement": "😉", "description": "winking face" },
+  "ಬ್ಲಶ್": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "ಮುಗ್ಧ": { "replacement": "😇", "description": "smiling face with halo" },
+  "ಮೂರು ಹೃದಯಗಳೊಂದಿಗೆ ನಗುತ್ತಿರುವ ಮುಖ": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "ಹೃದಯ ಕಣ್ಣುಗಳು": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "ನಕ್ಷತ್ರ ಹೊಡೆದಿದೆ": { "replacement": "🤩", "description": "star-struck" },
+  "ಹೃದಯ ಚುಂಬನ": { "replacement": "😘", "description": "face blowing a kiss" },
+  "ಚುಂಬನ": { "replacement": "😗", "description": "kissing face" },
+  "ಶಾಂತ": { "replacement": "☺️", "description": "smiling face" },
+  "ಮುಚ್ಚಿದ ಕಣ್ಣುಗಳನ್ನು ಚುಂಬಿಸುವುದು": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "ನಗುತ್ತಿರುವ ಕಣ್ಣುಗಳಿಗೆ ಚುಂಬನ": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "ಕಣ್ಣೀರಿನೊಂದಿಗೆ ನಗುತ್ತಿರುವ ಮುಖ": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "yum": { "replacement": "😋", "description": "face savoring food" },
+  "ನಾಲಿಗೆಯನ್ನು ಹೊರಹಾಕಿದೆ": {
+    "replacement": "😛",
+    "description": "face with tongue"
+  },
+  "ನಾಲಿಗೆಯ ಕಣ್ಣು ಮಿಟುಕಿಸುವುದು": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "ಜಾನಿ ಮುಖ": { "replacement": "🤪", "description": "zany face" },
+  "ಹೊರಚಾಚಿದ ನಾಲಿಗೆ ಮುಚ್ಚಿದ ಕಣ್ಣು": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "ಹಣ ಬಾಯಿ ಮುಖ": { "replacement": "🤑", "description": "money-mouth face" },
+  "ಅಪ್ಪುಗೆಗಳು": { "replacement": "🤗", "description": "hugging face" },
+  "ಬಾಯಿಯ ಮೇಲೆ ಹಸ್ತ": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "ಮುಖವನ್ನು ಅಲುಗಾಡಿಸುತ್ತಿದೆ": {
+    "replacement": "🤫",
+    "description": "shushing face"
+  },
+  "ಆಲೋಚನೆ": { "replacement": "🤔", "description": "thinking face" },
+  "ipp ಿಪ್ಪರ್ ಬಾಯಿ ಮುಖ": {
+    "replacement": "🤐",
+    "description": "zipper-mouth face"
+  },
+  "ಮೇಲೆತ್ತಿದ ಹುಬ್ಬು": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "ತಟಸ್ಥ ಮುಖ": { "replacement": "😐", "description": "neutral face" },
+  "ಅಭಿವ್ಯಕ್ತಿರಹಿತ": {
+    "replacement": "😑",
+    "description": "expressionless face"
+  },
+  "ಬಾಯಿ ಇಲ್ಲ": { "replacement": "😶", "description": "face without mouth" },
+  "ಬಳಕೆಯಾಗದ": { "replacement": "😒", "description": "unamused face" },
+  "ರೋಲ್ ಕಣ್ಣುಗಳು": {
+    "replacement": "🙄",
+    "description": "face with rolling eyes"
+  },
+  "ಕಠೋರ": { "replacement": "😬", "description": "grimacing face" },
+  "ಸುಳ್ಳು ಮುಖ": { "replacement": "🤥", "description": "lying face" },
+  "ಪರಿಹಾರ": { "replacement": "😌", "description": "relieved face" },
+  "ತೀವ್ರವಾದ": { "replacement": "😔", "description": "pensive face" },
+  "ನಿದ್ರೆ": { "replacement": "😪", "description": "sleepy face" },
+  "ಮುಖವನ್ನು ಕುಸಿಯುವುದು": {
+    "replacement": "🤤",
+    "description": "drooling face"
+  },
+  "ಮಲಗುವುದು": { "replacement": "😴", "description": "sleeping face" },
+  "ಮುಖವಾಡ": { "replacement": "😷", "description": "face with medical mask" },
+  "ಥರ್ಮಾಮೀಟರ್ನೊಂದಿಗೆ ಮುಖ": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "ತಲೆ ಬ್ಯಾಂಡೇಜ್ನೊಂದಿಗೆ ಮುಖ": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "ವಾಕರಿಕೆ ಮುಖ": { "replacement": "🤢", "description": "nauseated face" },
+  "ವಾಂತಿ ಮುಖ": { "replacement": "🤮", "description": "face vomiting" },
+  "ಸೀನುವ ಮುಖ": { "replacement": "🤧", "description": "sneezing face" },
+  "ಬಿಸಿ ಮುಖ": { "replacement": "🥵", "description": "hot face" },
+  "ಶೀತ ಮುಖ": { "replacement": "🥶", "description": "cold face" },
+  "ಉಣ್ಣೆಯ ಮುಖ": { "replacement": "🥴", "description": "woozy face" },
+  "ತಲೆತಿರುಗುವಿಕೆ ಮುಖ": { "replacement": "😵", "description": "dizzy face" },
+  "ಸ್ಫೋಟಿಸುವ ತಲೆ": { "replacement": "🤯", "description": "exploding head" },
+  "ಕೌಬಾಯ್ ಟೋಪಿ ಮುಖ": { "replacement": "🤠", "description": "cowboy hat face" },
+  "ಪಾರ್ಟಿ ಮಾಡುವ ಮುಖ": { "replacement": "🥳", "description": "partying face" },
+  "ಮಾರುವೇಷದ ಮುಖ": { "replacement": "🥸", "description": "disguised face" },
+  "ಸನ್ಗ್ಲಾಸ್": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "ನೆರ್ಡ್ ಮುಖ": { "replacement": "🤓", "description": "nerd face" },
+  "ಮೊನೊಕಲ್ ಮುಖ": { "replacement": "🧐", "description": "face with monocle" },
+  "ಗೊಂದಲ": { "replacement": "😕", "description": "confused face" },
+  "ಚಿಂತೆ": { "replacement": "😟", "description": "worried face" },
+  "ಸ್ವಲ್ಪ ಮುಖದ ಮುಖ": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "ಮುಖದ ಮುಖ": { "replacement": "☹️", "description": "frowning face" },
+  "ತೆರೆದ ಬಾಯಿ": { "replacement": "😮", "description": "face with open mouth" },
+  "ತಳ್ಳಲಾಯಿತು": { "replacement": "😯", "description": "hushed face" },
+  "ಆಶ್ಚರ್ಯಚಕಿತರಾದರು": { "replacement": "😲", "description": "astonished face" },
+  "ಚದುರಿದ": { "replacement": "😳", "description": "flushed face" },
+  "ಮನವಿ ಮಾಡುವ ಮುಖ": { "replacement": "🥺", "description": "pleading face" },
+  "ಮುಖಭಂಗ": {
+    "replacement": "😦",
+    "description": "frowning face with open mouth"
+  },
+  "ದುಃಖಿತ": { "replacement": "😧", "description": "anguished face" },
+  "ಭಯಭೀತ": { "replacement": "😨", "description": "fearful face" },
+  "ಶೀತ ಬೆವರು": {
+    "replacement": "😰",
+    "description": "anxious face with sweat"
+  },
+  "ನಿರಾಶೆ ಪರಿಹಾರ": {
+    "replacement": "😥",
+    "description": "sad but relieved face"
+  },
+  "ಅಳಲು": { "replacement": "😢", "description": "crying face" },
+  "sob": { "replacement": "😭", "description": "loudly crying face" },
+  "ಕಿರುಚಾಡಿ": { "replacement": "😱", "description": "face screaming in fear" },
+  "ಗೊಂದಲಕ್ಕೊಳಗಾದ": { "replacement": "😖", "description": "confounded face" },
+  "ಸತತ ಪ್ರಯತ್ನ": { "replacement": "😣", "description": "persevering face" },
+  "ನಿರಾಶೆ": { "replacement": "😞", "description": "disappointed face" },
+  "ಬೆವರು": { "replacement": "😓", "description": "downcast face with sweat" },
+  "ದಣಿದ": { "replacement": "😩", "description": "weary face" },
+  "ದಣಿದ ಮುಖ": { "replacement": "😫", "description": "tired face" },
+  "ಆಕಳಿಕೆ ಮುಖ": { "replacement": "🥱", "description": "yawning face" },
+  "ವಿಜಯ": { "replacement": "😤", "description": "face with steam from nose" },
+  "ಕ್ರೋಧ": { "replacement": "😡", "description": "pouting face" },
+  "ಕೋಪ": { "replacement": "💢", "description": "anger symbol" },
+  "ಶಪಿಸುವ ಮುಖ": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "ನಗುತ್ತಿರುವ ಇಂಪ್": {
+    "replacement": "😈",
+    "description": "smiling face with horns"
+  },
+  "imp": { "replacement": "👿", "description": "angry face with horns" },
+  "ತಲೆಬುರುಡೆ": { "replacement": "💀", "description": "skull" },
+  "ತಲೆಬುರುಡೆ ಮತ್ತು ಅಡ್ಡಾದ ಎಲುಬುಗಳು": {
+    "replacement": "☠️",
+    "description": "skull and crossbones"
+  },
+  "ಹ್ಯಾಂಕಿ": { "replacement": "💩", "description": "pile of poo" },
+  "ಕೋಡಂಗಿ ಮುಖ": { "replacement": "🤡", "description": "clown face" },
+  "ಜಪಾನೀಸ್ ಓಗ್ರೆ": { "replacement": "👹", "description": "ogre" },
+  "ಜಪಾನೀಸ್ ತುಂಟ": { "replacement": "👺", "description": "goblin" },
+  "ಭೂತ": { "replacement": "👻", "description": "ghost" },
+  "ಅನ್ಯ": { "replacement": "👽", "description": "alien" },
+  "ಬಾಹ್ಯಾಕಾಶ ಆಕ್ರಮಣಕಾರ": {
+    "replacement": "👾",
+    "description": "alien monster"
+  },
+  "ರೋಬೋಟ್": { "replacement": "🚣", "description": "person rowing boat" },
+  "ನಗು ಬೆಕ್ಕು": { "replacement": "😼", "description": "cat with wry smile" },
+  "ಸ್ಮೈಲ್ ಬೆಕ್ಕು": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "ಸಂತೋಷ ಬೆಕ್ಕು": {
+    "replacement": "😹",
+    "description": "cat with tears of joy"
+  },
+  "ಹೃದಯ ಕಣ್ಣುಗಳು ಬೆಕ್ಕು": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "ಚುಂಬನ ಬೆಕ್ಕು": { "replacement": "😽", "description": "kissing cat" },
+  "ಕಿರುಚಾಟ ಬೆಕ್ಕು": { "replacement": "🙀", "description": "weary cat" },
+  "ಅಳುವುದು ಬೆಕ್ಕಿನ ಮುಖ": { "replacement": "😿", "description": "crying cat" },
+  "ಬೆಕ್ಕನ್ನು ಹೊಡೆಯುವುದು": { "replacement": "😾", "description": "pouting cat" },
+  "ಕೆಟ್ಟದ್ದನ್ನು ನೋಡಬೇಡ": {
+    "replacement": "🙈",
+    "description": "see-no-evil monkey"
+  },
+  "ಯಾವುದೇ ಕೆಟ್ಟದ್ದನ್ನು ಕೇಳಬೇಡಿ": {
+    "replacement": "🙉",
+    "description": "hear-no-evil monkey"
+  },
+  "ಯಾವುದೇ ಕೆಟ್ಟದ್ದನ್ನು ಮಾತನಾಡುವುದಿಲ್ಲ": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "ಮುತ್ತು": { "replacement": "💋", "description": "kiss mark" },
+  "ಪ್ರೇಮ ಪತ್ರ": { "replacement": "💌", "description": "love letter" },
+  "ಕ್ಯುಪಿಡ್": { "replacement": "💘", "description": "heart with arrow" },
+  "ಉಡುಗೊರೆ ಹೃದಯ": { "replacement": "💝", "description": "heart with ribbon" },
+  "ಹೊಳೆಯುವ ಹೃದಯ": { "replacement": "💖", "description": "sparkling heart" },
+  "ಎದೆಯುರಿ": { "replacement": "💗", "description": "growing heart" },
+  "ಹೃದಯ ಬಡಿತ": { "replacement": "💓", "description": "beating heart" },
+  "ಸುತ್ತುತ್ತಿರುವ ಹೃದಯಗಳು": {
+    "replacement": "💞",
+    "description": "revolving hearts"
+  },
+  "ಎರಡು ಹೃದಯಗಳು": { "replacement": "💕", "description": "two hearts" },
+  "ಹೃದಯ ಅಲಂಕಾರ": { "replacement": "💟", "description": "heart decoration" },
+  "ಭಾರವಾದ ಹೃದಯದ ಆಶ್ಚರ್ಯ": {
+    "replacement": "❣️",
+    "description": "heart exclamation"
+  },
+  "ಒಡೆದ ಹೃದಯ": { "replacement": "💔", "description": "broken heart" },
+  "ಹೃದಯ": { "replacement": "❤️", "description": "red heart" },
+  "ಕಿತ್ತಳೆ ಹೃದಯ": { "replacement": "🧡", "description": "orange heart" },
+  "ಹಳದಿ ಹೃದಯ": { "replacement": "💛", "description": "yellow heart" },
+  "ಹಸಿರು ಹೃದಯ": { "replacement": "💚", "description": "green heart" },
+  "ನೀಲಿ ಹೃದಯ": { "replacement": "💙", "description": "blue heart" },
+  "ನೇರಳೆ ಹೃದಯ": { "replacement": "💜", "description": "purple heart" },
+  "ಕಂದು ಹೃದಯ": { "replacement": "🤎", "description": "brown heart" },
+  "ನಿರ್ದಯ ಹೃದಯ": { "replacement": "🖤", "description": "black heart" },
+  "ಬಿಳಿ ಹೃದಯ": { "replacement": "🤍", "description": "white heart" },
+  "ಬೂಮ್": { "replacement": "💥", "description": "collision" },
+  "ಡಿಜ್ಜಿ": { "replacement": "💫", "description": "dizzy" },
+  "ಬೆವರು ಹನಿಗಳು": { "replacement": "💦", "description": "sweat droplets" },
+  "ಡ್ಯಾಶ್": { "replacement": "💨", "description": "dashing away" },
+  "ರಂಧ್ರ": { "replacement": "🕳️", "description": "hole" },
+  "ಬಾಂಬ್": { "replacement": "💣", "description": "bomb" },
+  "ಸ್ಪೀಚ್ ಬಲೂನ್": { "replacement": "💬", "description": "speech balloon" },
+  "ಕಣ್ಣಿನ ಭಾಷಣ ಬಬಲ್": {
+    "replacement": "👁️‍🗨️",
+    "description": "eye in speech bubble"
+  },
+  "ಎಡ ಭಾಷಣ ಬಬಲ್": { "replacement": "🗨️", "description": "left speech bubble" },
+  "ಬಲ ಕೋಪ ಬಬಲ್": { "replacement": "🗯️", "description": "right anger bubble" },
+  "ಆಲೋಚನೆ ಬಲೂನ್": { "replacement": "💭", "description": "thought balloon" },
+  "zzz": { "replacement": "💤", "description": "zzz" },
+  "ಅಲೆ": { "replacement": "👋", "description": "waving hand" },
+  "ಕೈಯ ಹಿಂದೆ ಬೆಳೆದ": {
+    "replacement": "🤚",
+    "description": "raised back of hand"
+  },
+  "ಬೆರಳುಗಳಿಂದ ಸಿಂಪಡಿಸಿದ ಕೈಯಿಂದ ಎತ್ತಿದ ಕೈ": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "ಕೈ": { "replacement": "✋", "description": "raised hand" },
+  "ವಲ್ಕನ್ ಸೆಲ್ಯೂಟ್": { "replacement": "🖖", "description": "vulcan salute" },
+  "ಸರಿ ಕೈ": { "replacement": "👌", "description": "OK hand" },
+  "ಸೆಟೆದುಕೊಂಡ ಬೆರಳುಗಳು": {
+    "replacement": "🤌",
+    "description": "pinched fingers"
+  },
+  "ಕೈಯನ್ನು ಹಿಸುಕುವುದು": { "replacement": "🤏", "description": "pinching hand" },
+  "v": { "replacement": "✌️", "description": "victory hand" },
+  "ದಾಟಿದ ಬೆರಳುಗಳು": { "replacement": "🤞", "description": "crossed fingers" },
+  "ಲವ್ ಯು ಗೆಸ್ಚರ್": { "replacement": "🤟", "description": "love-you gesture" },
+  "ಲೋಹದ": { "replacement": "🤘", "description": "sign of the horns" },
+  "ನನ್ನನ್ನು ಕೈ ಎಂದು ಕರೆಯಿರಿ": {
+    "replacement": "🤙",
+    "description": "call me hand"
+  },
+  "ಪಾಯಿಂಟ್ ಎಡಕ್ಕೆ": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "ಪಾಯಿಂಟ್ ಬಲ": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "ಪಾಯಿಂಟ್ 2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "ಮಧ್ಯದ ಬೆರಳು": { "replacement": "🖕", "description": "middle finger" },
+  "ಕೆಳಗೆ ಸೂಚಿಸಿ": {
+    "replacement": "👇",
+    "description": "backhand index pointing down"
+  },
+  "ಪಾಯಿಂಟ್ ಅಪ್": { "replacement": "☝️", "description": "index pointing up" },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "ಮುಷ್ಟಿಯನ್ನು ಬೆಳೆಸಿದೆ": { "replacement": "✊", "description": "raised fist" },
+  "ಮುಷ್ಟಿ ಮುಂಬರುವ": { "replacement": "👊", "description": "oncoming fist" },
+  "ಮುಷ್ಟಿ ಎಡ": { "replacement": "🤛", "description": "left-facing fist" },
+  "ಮುಷ್ಟಿ ಬಲ": { "replacement": "🤜", "description": "right-facing fist" },
+  "ಚಪ್ಪಾಳೆ": { "replacement": "🎬", "description": "clapper board" },
+  "ಎತ್ತಿದ ಕೈಗಳು": { "replacement": "🙌", "description": "raising hands" },
+  "ತೆರೆದ ಕೈಗಳು": { "replacement": "👐", "description": "open hands" },
+  "ಅಂಗೈಗಳು ಒಟ್ಟಿಗೆ": {
+    "replacement": "🤲",
+    "description": "palms up together"
+  },
+  "ಹ್ಯಾಂಡ್ಶೇಕ್": { "replacement": "🤝", "description": "handshake" },
+  "ಪ್ರಾರ್ಥಿಸು": { "replacement": "🙏", "description": "folded hands" },
+  "ಬರೆಯುವ ಕೈ": { "replacement": "✍️", "description": "writing hand" },
+  "ಉಗುರು ಆರೈಕೆ": { "replacement": "💅", "description": "nail polish" },
+  "ಸೆಲ್ಫಿ": { "replacement": "🤳", "description": "selfie" },
+  "ಮಾಂಸಖಂಡ": { "replacement": "💪", "description": "flexed biceps" },
+  "ಯಾಂತ್ರಿಕ ತೋಳು": { "replacement": "🦾", "description": "mechanical arm" },
+  "ಯಾಂತ್ರಿಕ ಕಾಲು": { "replacement": "🦿", "description": "mechanical leg" },
+  "ಕಾಲು": { "replacement": "🦵", "description": "leg" },
+  "ಪಾದ": { "replacement": "🦶", "description": "foot" },
+  "ಕಿವಿ": { "replacement": "👂", "description": "ear" },
+  "ಶ್ರವಣ ಸಹಾಯದಿಂದ ಕಿವಿ": {
+    "replacement": "🦻",
+    "description": "ear with hearing aid"
+  },
+  "ಮೂಗು": { "replacement": "👃", "description": "nose" },
+  "ಮೆದುಳು": { "replacement": "🧠", "description": "brain" },
+  "ಅಂಗರಚನಾ ಹೃದಯ": { "replacement": "🫀", "description": "anatomical heart" },
+  "ಶ್ವಾಸಕೋಶಗಳು": { "replacement": "🫁", "description": "lungs" },
+  "ಹಲ್ಲು": { "replacement": "🦷", "description": "tooth" },
+  "ಮೂಳೆ": { "replacement": "🦴", "description": "bone" },
+  "ಕಣ್ಣುಗಳು": { "replacement": "👀", "description": "eyes" },
+  "ಕಣ್ಣು": { "replacement": "👁️", "description": "eye" },
+  "ನಾಲಿಗೆ": { "replacement": "👅", "description": "tongue" },
+  "ತುಟಿಗಳು": { "replacement": "👄", "description": "mouth" },
+  "ಮಗು": { "replacement": "🧒", "description": "child" },
+  "ಹುಡುಗ": { "replacement": "👦", "description": "boy" },
+  "ಹುಡುಗಿ": { "replacement": "👧", "description": "girl" },
+  "ವಯಸ್ಕ": { "replacement": "🧑", "description": "person" },
+  "ಹೊಂಬಣ್ಣದ ಕೂದಲಿನ ವ್ಯಕ್ತಿ": {
+    "replacement": "👱",
+    "description": "person: blond hair"
+  },
+  "ಮನುಷ್ಯ": { "replacement": "👨", "description": "man" },
+  "ಗಡ್ಡದ ವ್ಯಕ್ತಿ": { "replacement": "🧔", "description": "man: beard" },
+  "ಕೆಂಪು ಕೂದಲಿನ ಮನುಷ್ಯ": {
+    "replacement": "👨‍🦰",
+    "description": "man: red hair"
+  },
+  "ಸುರುಳಿಯಾಕಾರದ ಕೂದಲಿನ ಮನುಷ್ಯ": {
+    "replacement": "👨‍🦱",
+    "description": "man: curly hair"
+  },
+  "ಬಿಳಿ ಕೂದಲಿನ ಮನುಷ್ಯ": {
+    "replacement": "👨‍🦳",
+    "description": "man: white hair"
+  },
+  "ಬೋಳು ಮನುಷ್ಯ": { "replacement": "👨‍🦲", "description": "man: bald" },
+  "ಮಹಿಳೆ": { "replacement": "👩", "description": "woman" },
+  "ಕೆಂಪು ಕೂದಲಿನ ಮಹಿಳೆ": {
+    "replacement": "👩‍🦰",
+    "description": "woman: red hair"
+  },
+  "ವ್ಯಕ್ತಿ ಕೆಂಪು ಕೂದಲು": {
+    "replacement": "🧑‍🦰",
+    "description": "person: red hair"
+  },
+  "ಸುರುಳಿಯಾಕಾರದ ಕೂದಲಿನ ಮಹಿಳೆ": {
+    "replacement": "👩‍🦱",
+    "description": "woman: curly hair"
+  },
+  "ವ್ಯಕ್ತಿ ಸುರುಳಿಯಾಕಾರದ ಕೂದಲು": {
+    "replacement": "🧑‍🦱",
+    "description": "person: curly hair"
+  },
+  "ಬಿಳಿ ಕೂದಲಿನ ಮಹಿಳೆ": {
+    "replacement": "👩‍🦳",
+    "description": "woman: white hair"
+  },
+  "ವ್ಯಕ್ತಿ ಬಿಳಿ ಕೂದಲು": {
+    "replacement": "🧑‍🦳",
+    "description": "person: white hair"
+  },
+  "ಬೋಳು ಮಹಿಳೆ": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "ವ್ಯಕ್ತಿ ಬೋಳು": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "ಹೊಂಬಣ್ಣದ ಕೂದಲಿನ ಮಹಿಳೆ": {
+    "replacement": "👱‍♀️",
+    "description": "woman: blond hair"
+  },
+  "ಹೊಂಬಣ್ಣದ ಕೂದಲಿನ ಮನುಷ್ಯ": {
+    "replacement": "👱‍♂️",
+    "description": "man: blond hair"
+  },
+  "ವಯಸ್ಸಾದ ವಯಸ್ಕ": { "replacement": "🧓", "description": "older person" },
+  "ಹಿರಿಯ ಮನುಷ್ಯ": { "replacement": "👴", "description": "old man" },
+  "ವಯಸ್ಸಾದ ಮಹಿಳೆ": { "replacement": "👵", "description": "old woman" },
+  "ಮುಖಭಂಗ ಮಾಡುವ ವ್ಯಕ್ತಿ": {
+    "replacement": "🙍",
+    "description": "person frowning"
+  },
+  "ಮುಖಭಂಗ ಮನುಷ್ಯ": { "replacement": "🙍‍♂️", "description": "man frowning" },
+  "ಮುಖಭಂಗ ಮಾಡುವ ಮಹಿಳೆ": {
+    "replacement": "🙍‍♀️",
+    "description": "woman frowning"
+  },
+  "ಮುಖವನ್ನು ಹೊಡೆಯುವುದು": {
+    "replacement": "🙎",
+    "description": "person pouting"
+  },
+  "ಮನುಷ್ಯನನ್ನು ಹೊಡೆಯುವುದು": {
+    "replacement": "🙎‍♂️",
+    "description": "man pouting"
+  },
+  "ಹೊಡೆಯುವ ಮಹಿಳೆ": { "replacement": "🙎‍♀️", "description": "woman pouting" },
+  "ಸರೀಗಿಲ್ಲ": { "replacement": "🙅", "description": "person gesturing NO" },
+  "ಒಳ್ಳೆಯ ಮನುಷ್ಯನಲ್ಲ": {
+    "replacement": "🙅‍♂️",
+    "description": "man gesturing NO"
+  },
+  "ಒಳ್ಳೆಯ ಮಹಿಳೆ ಇಲ್ಲ": {
+    "replacement": "🙅‍♀️",
+    "description": "woman gesturing NO"
+  },
+  "ಸರಿ ವ್ಯಕ್ತಿ": { "replacement": "🙆", "description": "person gesturing OK" },
+  "ಸರಿ ಮನುಷ್ಯ": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "ಸರಿ ಮಹಿಳೆ": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "ಟಿಪ್ಪಿಂಗ್ ಕೈ ವ್ಯಕ್ತಿ": {
+    "replacement": "💁",
+    "description": "person tipping hand"
+  },
+  "ಟಿಪ್ಪಿಂಗ್ ಹ್ಯಾಂಡ್ ಮ್ಯಾನ್": {
+    "replacement": "💁‍♂️",
+    "description": "man tipping hand"
+  },
+  "ಟಿಪ್ಪಿಂಗ್ ಕೈ ಮಹಿಳೆ": {
+    "replacement": "💁‍♀️",
+    "description": "woman tipping hand"
+  },
+  "ಕೈ ಎತ್ತುವುದು": { "replacement": "🙋", "description": "person raising hand" },
+  "ಕೈ ಮನುಷ್ಯನನ್ನು ಬೆಳೆಸುವುದು": {
+    "replacement": "🙋‍♂️",
+    "description": "man raising hand"
+  },
+  "ಕೈ ಮಹಿಳೆ ಬೆಳೆಸುವುದು": {
+    "replacement": "🙋‍♀️",
+    "description": "woman raising hand"
+  },
+  "ಕಿವುಡ ವ್ಯಕ್ತಿ": { "replacement": "🧏", "description": "deaf person" },
+  "ಕಿವುಡ ಮನುಷ್ಯ": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "ಕಿವುಡ ಮಹಿಳೆ": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "ಬಿಲ್ಲು": { "replacement": "🙇", "description": "person bowing" },
+  "ಕುಣಿಯುವ ಮನುಷ್ಯ": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "ಕುಣಿಯುವ ಮಹಿಳೆ": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "ಫೇಸ್ ಪಾಮ್": { "replacement": "🤦", "description": "person facepalming" },
+  "ಮನುಷ್ಯ ಫೇಸ್ಪಾಲ್ಮಿಂಗ್": {
+    "replacement": "🤦‍♂️",
+    "description": "man facepalming"
+  },
+  "ಮಹಿಳೆ ಫೇಸ್ಪಾಲ್ಮಿಂಗ್": {
+    "replacement": "🤦‍♀️",
+    "description": "woman facepalming"
+  },
+  "ಶ್ರಗ್": { "replacement": "🤷", "description": "person shrugging" },
+  "ಮನುಷ್ಯ ಕುಗ್ಗುವಿಕೆ": { "replacement": "🤷‍♂️", "description": "man shrugging" },
+  "ಮಹಿಳೆ ಕುಗ್ಗುವಿಕೆ": { "replacement": "🤷‍♀️", "description": "woman shrugging" },
+  "ಆರೋಗ್ಯ ಕಾರ್ಯಕರ್ತ": {
+    "replacement": "🧑‍⚕️",
+    "description": "health worker"
+  },
+  "ಮನುಷ್ಯ ಆರೋಗ್ಯ ಕಾರ್ಯಕರ್ತ": {
+    "replacement": "👨‍⚕️",
+    "description": "man health worker"
+  },
+  "ಮಹಿಳಾ ಆರೋಗ್ಯ ಕಾರ್ಯಕರ್ತೆ": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "ವಿದ್ಯಾರ್ಥಿ": { "replacement": "🧑‍🎓", "description": "student" },
+  "ಮನುಷ್ಯ ವಿದ್ಯಾರ್ಥಿ": { "replacement": "👨‍🎓", "description": "man student" },
+  "ಮಹಿಳಾ ವಿದ್ಯಾರ್ಥಿನಿ": { "replacement": "👩‍🎓", "description": "woman student" },
+  "ಶಿಕ್ಷಕ": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "ಮನುಷ್ಯ ಶಿಕ್ಷಕ": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "ಮಹಿಳಾ ಶಿಕ್ಷಕಿ": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "ನ್ಯಾಯಾಧೀಶರು": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "ಮನುಷ್ಯ ನ್ಯಾಯಾಧೀಶರು": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "ಮಹಿಳಾ ನ್ಯಾಯಾಧೀಶರು": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "ರೈತ": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "ಮನುಷ್ಯ ರೈತ": { "replacement": "👨‍🌾", "description": "man farmer" },
+  "ಮಹಿಳಾ ರೈತ": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "ಅಡುಗೆ": { "replacement": "🧑‍🍳", "description": "cook" },
+  "ಮನುಷ್ಯ ಅಡುಗೆ": { "replacement": "👨‍🍳", "description": "man cook" },
+  "ಮಹಿಳೆ ಅಡುಗೆ": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "ಮೆಕ್ಯಾನಿಕ್": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "ಮ್ಯಾನ್ ಮೆಕ್ಯಾನಿಕ್": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "ಮಹಿಳಾ ಮೆಕ್ಯಾನಿಕ್": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "ಕಾರ್ಖಾನೆ ಕೆಲಸಗಾರ": {
+    "replacement": "🧑‍🏭",
+    "description": "factory worker"
+  },
+  "ಮ್ಯಾನ್ ಫ್ಯಾಕ್ಟರಿ ಕೆಲಸಗಾರ": {
+    "replacement": "👨‍🏭",
+    "description": "man factory worker"
+  },
+  "ಮಹಿಳಾ ಕಾರ್ಖಾನೆ ಕೆಲಸಗಾರ": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "ಉದ್ಯೋಗಿ": { "replacement": "🧑‍💼", "description": "office worker" },
+  "ಮ್ಯಾನ್ ಆಫೀಸ್ ಕೆಲಸಗಾರ": {
+    "replacement": "👨‍💼",
+    "description": "man office worker"
+  },
+  "ಮಹಿಳಾ ಕಚೇರಿ ಕೆಲಸಗಾರ": {
+    "replacement": "👩‍💼",
+    "description": "woman office worker"
+  },
+  "ವಿಜ್ಞಾನಿ": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "ಮನುಷ್ಯ ವಿಜ್ಞಾನಿ": { "replacement": "👨‍🔬", "description": "man scientist" },
+  "ಮಹಿಳಾ ವಿಜ್ಞಾನಿ": { "replacement": "👩‍🔬", "description": "woman scientist" },
+  "ತಂತ್ರಜ್ಞ": { "replacement": "🧑‍💻", "description": "technologist" },
+  "ಮನುಷ್ಯ ತಂತ್ರಜ್ಞ": { "replacement": "👨‍💻", "description": "man technologist" },
+  "ಮಹಿಳಾ ತಂತ್ರಜ್ಞ": {
+    "replacement": "👩‍💻",
+    "description": "woman technologist"
+  },
+  "ಗಾಯಕ": { "replacement": "🧑‍🎤", "description": "singer" },
+  "ಮನುಷ್ಯ ಗಾಯಕ": { "replacement": "👨‍🎤", "description": "man singer" },
+  "ಮಹಿಳಾ ಗಾಯಕ": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "ಕಲಾವಿದ": { "replacement": "🧑‍🎨", "description": "artist" },
+  "ಮನುಷ್ಯ ಕಲಾವಿದ": { "replacement": "👨‍🎨", "description": "man artist" },
+  "ಮಹಿಳಾ ಕಲಾವಿದೆ": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "ಪೈಲಟ್": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "ಮ್ಯಾನ್ ಪೈಲಟ್": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "ಮಹಿಳಾ ಪೈಲಟ್": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "ಗಗನಯಾತ್ರಿ": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "ಮನುಷ್ಯ ಗಗನಯಾತ್ರಿ": { "replacement": "👨‍🚀", "description": "man astronaut" },
+  "ಮಹಿಳಾ ಗಗನಯಾತ್ರಿ": { "replacement": "👩‍🚀", "description": "woman astronaut" },
+  "ಅಗ್ನಿಶಾಮಕ": { "replacement": "🧑‍🚒", "description": "firefighter" },
+  "ಮನುಷ್ಯ ಅಗ್ನಿಶಾಮಕ": { "replacement": "👨‍🚒", "description": "man firefighter" },
+  "ಮಹಿಳಾ ಅಗ್ನಿಶಾಮಕ": {
+    "replacement": "👩‍🚒",
+    "description": "woman firefighter"
+  },
+  "ಪೋಲಿಸ್ ಅಧಿಕಾರಿ": { "replacement": "👮", "description": "police officer" },
+  "ಪೊಲೀಸ್": { "replacement": "👮‍♂️", "description": "man police officer" },
+  "ಪೊಲೀಸ್ ಮಹಿಳೆ": {
+    "replacement": "👮‍♀️",
+    "description": "woman police officer"
+  },
+  "ಪತ್ತೇದಾರಿ": { "replacement": "🕵️", "description": "detective" },
+  "ಪುರುಷ ಪತ್ತೇದಾರಿ": { "replacement": "🕵️‍♂️", "description": "man detective" },
+  "ಸ್ತ್ರೀ ಪತ್ತೇದಾರಿ": { "replacement": "🕵️‍♀️", "description": "woman detective" },
+  "ಗಾರ್ಡ್": { "replacement": "💂", "description": "guard" },
+  "ಕಾವಲುಗಾರ": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "ನಿಂಜಾ": { "replacement": "🥷", "description": "ninja" },
+  "ಕಟ್ಟಡ ಕೆಲಸಗಾರ": {
+    "replacement": "👷",
+    "description": "construction worker"
+  },
+  "ನಿರ್ಮಾಣ ಕೆಲಸಗಾರ": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "ನಿರ್ಮಾಣ ಕೆಲಸಗಾರ ಮಹಿಳೆ": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "ರಾಜಕುಮಾರ": { "replacement": "🤴", "description": "prince" },
+  "ರಾಜಕುಮಾರಿ": { "replacement": "👸", "description": "princess" },
+  "ಪೇಟ ಹೊಂದಿರುವ ವ್ಯಕ್ತಿ": {
+    "replacement": "👳",
+    "description": "person wearing turban"
+  },
+  "ಪೇಟ ಹೊಂದಿರುವ ಮನುಷ್ಯ": {
+    "replacement": "👳‍♂️",
+    "description": "man wearing turban"
+  },
+  "ಪೇಟ ಹೊಂದಿರುವ ಮಹಿಳೆ": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "ಗುವಾ ಪೈ ಮಾವೊ ಜೊತೆ ಮನುಷ್ಯ": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "ಹೆಡ್ ಸ್ಕಾರ್ಫ್ ಹೊಂದಿರುವ ಮಹಿಳೆ": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "ಟುಕ್ಸೆಡೊದಲ್ಲಿ ವ್ಯಕ್ತಿ": {
+    "replacement": "🤵",
+    "description": "person in tuxedo"
+  },
+  "ಟುಕ್ಸೆಡೊದಲ್ಲಿ ಮನುಷ್ಯ": {
+    "replacement": "🤵‍♂️",
+    "description": "man in tuxedo"
+  },
+  "ಟುಕ್ಸೆಡೊದಲ್ಲಿ ಮಹಿಳೆ": {
+    "replacement": "🤵‍♀️",
+    "description": "woman in tuxedo"
+  },
+  "ಮುಸುಕು ಹೊಂದಿರುವ ವ್ಯಕ್ತಿ": {
+    "replacement": "👰",
+    "description": "person with veil"
+  },
+  "ಮುಸುಕು ಹೊಂದಿರುವ ಮನುಷ್ಯ": {
+    "replacement": "👰‍♂️",
+    "description": "man with veil"
+  },
+  "ಮುಸುಕು ಹೊಂದಿರುವ ಮಹಿಳೆ": {
+    "replacement": "👰‍♀️",
+    "description": "woman with veil"
+  },
+  "ಗರ್ಭಿಣಿ ಮಹಿಳೆ": { "replacement": "🤰", "description": "pregnant woman" },
+  "ಸ್ತನ್ಯಪಾನ": { "replacement": "🤱", "description": "breast-feeding" },
+  "ಮಗುವನ್ನು ಪೋಷಿಸುವ ಮಹಿಳೆ": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "ಮನುಷ್ಯ ಮಗುವಿಗೆ ಹಾಲುಣಿಸುತ್ತಾನೆ": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "ಮಗುವನ್ನು ಪೋಷಿಸುವ ವ್ಯಕ್ತಿ": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "ದೇವತೆ": { "replacement": "👼", "description": "baby angel" },
+  "ಸಂತಾ": { "replacement": "🎅", "description": "Santa Claus" },
+  "mrs ಷರತ್ತು": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "mx ಷರತ್ತು": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "ಸೂಪರ್ ಹೀರೋ": { "replacement": "🦸", "description": "superhero" },
+  "ಸೂಪರ್ಹೀರೋ ಮನುಷ್ಯ": { "replacement": "🦸‍♂️", "description": "man superhero" },
+  "ಸೂಪರ್ಹೀರೋ ಮಹಿಳೆ": { "replacement": "🦸‍♀️", "description": "woman superhero" },
+  "ಮೇಲ್ವಿಚಾರಕ": { "replacement": "🦹", "description": "supervillain" },
+  "ಮೇಲ್ವಿಚಾರಕ ಮನುಷ್ಯ": {
+    "replacement": "🦹‍♂️",
+    "description": "man supervillain"
+  },
+  "ಮೇಲ್ವಿಚಾರಕ ಮಹಿಳೆ": {
+    "replacement": "🦹‍♀️",
+    "description": "woman supervillain"
+  },
+  "ಮಂತ್ರವಾದಿ": { "replacement": "🧙", "description": "mage" },
+  "ಮಂತ್ರವಾದಿ ಮನುಷ್ಯ": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "ಮಂತ್ರವಾದಿ ಮಹಿಳೆ": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "ಕಾಲ್ಪನಿಕ": { "replacement": "🧚", "description": "fairy" },
+  "ಕಾಲ್ಪನಿಕ ಮನುಷ್ಯ": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "ಕಾಲ್ಪನಿಕ ಮಹಿಳೆ": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "ರಕ್ತಪಿಶಾಚಿ": { "replacement": "🧛", "description": "vampire" },
+  "ರಕ್ತಪಿಶಾಚಿ ಮನುಷ್ಯ": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "ರಕ್ತಪಿಶಾಚಿ ಮಹಿಳೆ": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "ಮರ್ಪರ್ಸನ್": { "replacement": "🧜", "description": "merperson" },
+  "ಮೆರ್ಮನ್": { "replacement": "🧜‍♂️", "description": "merman" },
+  "ಮತ್ಸ್ಯಕನ್ಯೆ": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "ಯಕ್ಷಿಣಿ": { "replacement": "🧝", "description": "elf" },
+  "ಯಕ್ಷಿಣಿ ಮನುಷ್ಯ": { "replacement": "🧝‍♂️", "description": "man elf" },
+  "ಯಕ್ಷಿಣಿ ಮಹಿಳೆ": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "ಜಿನೀ": { "replacement": "🧞", "description": "genie" },
+  "ಜಿನೀ ಮ್ಯಾನ್": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "ಜಿನೀ ಮಹಿಳೆ": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "ಜೊಂಬಿ": { "replacement": "🧟", "description": "zombie" },
+  "ಜೊಂಬಿ ಮನುಷ್ಯ": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "ಜೊಂಬಿ ಮಹಿಳೆ": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "ಮಸಾಜ್": { "replacement": "💆", "description": "person getting massage" },
+  "ಮಸಾಜ್ ಮನುಷ್ಯ": { "replacement": "💆‍♂️", "description": "man getting massage" },
+  "ಮಸಾಜ್ ಮಹಿಳೆ": {
+    "replacement": "💆‍♀️",
+    "description": "woman getting massage"
+  },
+  "ಕ್ಷೌರ": { "replacement": "💇", "description": "person getting haircut" },
+  "ಕ್ಷೌರ ಮನುಷ್ಯ": { "replacement": "💇‍♂️", "description": "man getting haircut" },
+  "ಕ್ಷೌರ ಮಹಿಳೆ": {
+    "replacement": "💇‍♀️",
+    "description": "woman getting haircut"
+  },
+  "ವಾಕಿಂಗ್": { "replacement": "🚶", "description": "person walking" },
+  "ವಾಕಿಂಗ್ ಮ್ಯಾನ್": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "ವಾಕಿಂಗ್ ಮಹಿಳೆ": { "replacement": "🚶‍♀️", "description": "woman walking" },
+  "ನಿಂತ ವ್ಯಕ್ತಿ": { "replacement": "🧍", "description": "person standing" },
+  "ನಿಂತ ಮನುಷ್ಯ": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "ನಿಂತ ಮಹಿಳೆ": { "replacement": "🧍‍♀️", "description": "woman standing" },
+  "ಮಂಡಿಯೂರಿ ವ್ಯಕ್ತಿ": { "replacement": "🧎", "description": "person kneeling" },
+  "ಮಂಡಿಯೂರಿ ಮನುಷ್ಯ": { "replacement": "🧎‍♂️", "description": "man kneeling" },
+  "ಮಂಡಿಯೂರಿ ಮಹಿಳೆ": { "replacement": "🧎‍♀️", "description": "woman kneeling" },
+  "ಕಬ್ಬಿನ ತನಿಖೆ ಮಾಡುವ ವ್ಯಕ್ತಿ": {
+    "replacement": "🧑‍🦯",
+    "description": "person with white cane"
+  },
+  "ಕಬ್ಬನ್ನು ಪರೀಕ್ಷಿಸುವ ಮನುಷ್ಯ": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "ಕಬ್ಬಿನ ತನಿಖೆ ಹೊಂದಿರುವ ಮಹಿಳೆ": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "ಯಾಂತ್ರಿಕೃತ ಗಾಲಿಕುರ್ಚಿಯಲ್ಲಿರುವ ವ್ಯಕ್ತಿ": {
+    "replacement": "🧑‍🦼",
+    "description": "person in motorized wheelchair"
+  },
+  "ಯಾಂತ್ರಿಕೃತ ಗಾಲಿಕುರ್ಚಿಯಲ್ಲಿ ಮನುಷ್ಯ": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "ಯಾಂತ್ರಿಕೃತ ಗಾಲಿಕುರ್ಚಿಯಲ್ಲಿ ಮಹಿಳೆ": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "ಹಸ್ತಚಾಲಿತ ಗಾಲಿಕುರ್ಚಿಯಲ್ಲಿರುವ ವ್ಯಕ್ತಿ": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "ಹಸ್ತಚಾಲಿತ ಗಾಲಿಕುರ್ಚಿಯಲ್ಲಿ ಮನುಷ್ಯ": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "ಹಸ್ತಚಾಲಿತ ಗಾಲಿಕುರ್ಚಿಯಲ್ಲಿ ಮಹಿಳೆ": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "ಓಟಗಾರ": { "replacement": "🏃", "description": "person running" },
+  "ಚಾಲನೆಯಲ್ಲಿರುವ ಮನುಷ್ಯ": { "replacement": "🏃‍♂️", "description": "man running" },
+  "ಚಾಲನೆಯಲ್ಲಿರುವ ಮಹಿಳೆ": {
+    "replacement": "🏃‍♀️",
+    "description": "woman running"
+  },
+  "ಮಹಿಳೆ ನೃತ್ಯ": { "replacement": "💃", "description": "woman dancing" },
+  "ಮನುಷ್ಯ ನೃತ್ಯ": { "replacement": "🕺", "description": "man dancing" },
+  "ವ್ಯವಹಾರ ಸೂಟ್ ಲೆವಿಟೇಟಿಂಗ್": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "ನರ್ತಕರು": { "replacement": "👯", "description": "people with bunny ears" },
+  "ನೃತ್ಯ ಪುರುಷರು": {
+    "replacement": "👯‍♂️",
+    "description": "men with bunny ears"
+  },
+  "ನೃತ್ಯ ಮಾಡುವ ಮಹಿಳೆಯರು": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "ಸೌನಾ ವ್ಯಕ್ತಿ": {
+    "replacement": "🧖",
+    "description": "person in steamy room"
+  },
+  "ಸೌನಾ ಮನುಷ್ಯ": { "replacement": "🧖‍♂️", "description": "man in steamy room" },
+  "ಸೌನಾ ಮಹಿಳೆ": { "replacement": "🧖‍♀️", "description": "woman in steamy room" },
+  "ಹತ್ತುವುದು": { "replacement": "🧗", "description": "person climbing" },
+  "ಕ್ಲೈಂಬಿಂಗ್ ಮ್ಯಾನ್": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "ಕ್ಲೈಂಬಿಂಗ್ ಮಹಿಳೆ": { "replacement": "🧗‍♀️", "description": "woman climbing" },
+  "ವ್ಯಕ್ತಿ ಫೆನ್ಸಿಂಗ್": { "replacement": "🤺", "description": "person fencing" },
+  "ಕುದುರೆ ರೇಸಿಂಗ್": { "replacement": "🏇", "description": "horse racing" },
+  "ಸ್ಕೀಯರ್": { "replacement": "⛷️", "description": "skier" },
+  "ಸ್ನೋಬೋರ್ಡರ್": { "replacement": "🏂", "description": "snowboarder" },
+  "ಗಾಲ್ಫಿಂಗ್": { "replacement": "🏌️", "description": "person golfing" },
+  "ಗಾಲ್ಫಿಂಗ್ ಮನುಷ್ಯ": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "ಗಾಲ್ಫಿಂಗ್ ಮಹಿಳೆ": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "ಶೋಧಕ": { "replacement": "🏄", "description": "person surfing" },
+  "ಸರ್ಫಿಂಗ್ ಮ್ಯಾನ್": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "ಸರ್ಫಿಂಗ್ ಮಹಿಳೆ": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "ರೋಯಿಂಗ್ ಮ್ಯಾನ್": { "replacement": "🚣‍♂️", "description": "man rowing boat" },
+  "ರೋಯಿಂಗ್ ಮಹಿಳೆ": { "replacement": "🚣‍♀️", "description": "woman rowing boat" },
+  "ಈಜುಗಾರ": { "replacement": "🏊", "description": "person swimming" },
+  "ಈಜು ಮನುಷ್ಯ": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "ಈಜು ಮಹಿಳೆ": { "replacement": "🏊‍♀️", "description": "woman swimming" },
+  "ಪುಟಿಯುವ ಚೆಂಡು ವ್ಯಕ್ತಿ": {
+    "replacement": "⛹️",
+    "description": "person bouncing ball"
+  },
+  "ಬೌನ್ಸ್ ಬಾಲ್ ಮ್ಯಾನ್": {
+    "replacement": "⛹️‍♂️",
+    "description": "man bouncing ball"
+  },
+  "ಪುಟಿಯುವ ಚೆಂಡು ಮಹಿಳೆ": {
+    "replacement": "⛹️‍♀️",
+    "description": "woman bouncing ball"
+  },
+  "ಭಾರ ಎತ್ತುವಿಕೆ": {
+    "replacement": "🏋️",
+    "description": "person lifting weights"
+  },
+  "ತೂಕ ಎತ್ತುವ ಮನುಷ್ಯ": {
+    "replacement": "🏋️‍♂️",
+    "description": "man lifting weights"
+  },
+  "ತೂಕ ಎತ್ತುವ ಮಹಿಳೆ": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "ದ್ವಿಚಕ್ರ ವಾಹನ ಸವಾರ": { "replacement": "🚴", "description": "person biking" },
+  "ಬೈಕಿಂಗ್ ಮನುಷ್ಯ": { "replacement": "🚴‍♂️", "description": "man biking" },
+  "ಬೈಕಿಂಗ್ ಮಹಿಳೆ": { "replacement": "🚴‍♀️", "description": "woman biking" },
+  "ಪರ್ವತ ಬೈಸಿಕಲ್": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "ಮೌಂಟೇನ್ ಬೈಕಿಂಗ್ ಮನುಷ್ಯ": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "ಮೌಂಟೇನ್ ಬೈಕಿಂಗ್ ಮಹಿಳೆ": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "ಕಾರ್ಟ್ವೀಲಿಂಗ್": {
+    "replacement": "🤸",
+    "description": "person cartwheeling"
+  },
+  "ಮನುಷ್ಯ ಕಾರ್ಟ್ವೀಲಿಂಗ್": {
+    "replacement": "🤸‍♂️",
+    "description": "man cartwheeling"
+  },
+  "ಮಹಿಳೆ ಕಾರ್ಟ್ವೀಲಿಂಗ್": {
+    "replacement": "🤸‍♀️",
+    "description": "woman cartwheeling"
+  },
+  "ಕುಸ್ತಿ": { "replacement": "🤼", "description": "people wrestling" },
+  "ಪುರುಷರು ಕುಸ್ತಿ": { "replacement": "🤼‍♂️", "description": "men wrestling" },
+  "ಮಹಿಳಾ ಕುಸ್ತಿ": { "replacement": "🤼‍♀️", "description": "women wrestling" },
+  "ವಾಟರ್ ಪೋಲೋ": {
+    "replacement": "🤽",
+    "description": "person playing water polo"
+  },
+  "ವಾಟರ್ ಪೋಲೊ ಆಡುವ ಮನುಷ್ಯ": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "ವಾಟರ್ ಪೋಲೊ ಆಡುವ ಮಹಿಳೆ": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "ಹ್ಯಾಂಡ್ಬಾಲ್ ವ್ಯಕ್ತಿ": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "ಹ್ಯಾಂಡ್ಬಾಲ್ ಆಡುವ ಮನುಷ್ಯ": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "ಹ್ಯಾಂಡ್‌ಬಾಲ್ ಆಡುವ ಮಹಿಳೆ": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "ಕುಶಲ ವ್ಯಕ್ತಿ": { "replacement": "🤹", "description": "person juggling" },
+  "ಮನುಷ್ಯ ಕುಶಲತೆ": { "replacement": "🤹‍♂️", "description": "man juggling" },
+  "ಮಹಿಳೆ ಕುಶಲತೆ": { "replacement": "🤹‍♀️", "description": "woman juggling" },
+  "ಕಮಲದ ಸ್ಥಾನ": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "ಕಮಲದ ಸ್ಥಾನ ಮನುಷ್ಯ": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "ಕಮಲದ ಸ್ಥಾನ ಮಹಿಳೆ": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "ಸ್ನಾನ": { "replacement": "🛀", "description": "person taking bath" },
+  "ಮಲಗುವ ಹಾಸಿಗೆ": { "replacement": "🛌", "description": "person in bed" },
+  "ಜನರು ಕೈ ಹಿಡಿಯುತ್ತಾರೆ": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "ಇಬ್ಬರು ಮಹಿಳೆಯರು ಕೈ ಹಿಡಿದಿದ್ದಾರೆ": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "ದಂಪತಿಗಳು": {
+    "replacement": "👫",
+    "description": "woman and man holding hands"
+  },
+  "ಇಬ್ಬರು ಕೈಗಳನ್ನು ಹಿಡಿದಿದ್ದಾರೆ": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "ಕಪಲ್‌ಕಿಸ್": { "replacement": "💏", "description": "kiss" },
+  "ದಂಪತಿ ಪುರುಷ ಮಹಿಳೆ": {
+    "replacement": "👩‍❤️‍💋‍👨",
+    "description": "kiss: woman, man"
+  },
+  "ದಂಪತಿ ಮನುಷ್ಯ": { "replacement": "👨‍❤️‍💋‍👨", "description": "kiss: man, man" },
+  "ದಂಪತಿ ಮಹಿಳೆ ಮಹಿಳೆ": {
+    "replacement": "👩‍❤️‍💋‍👩",
+    "description": "kiss: woman, woman"
+  },
+  "ಹೃದಯದಿಂದ ದಂಪತಿಗಳು": {
+    "replacement": "💑",
+    "description": "couple with heart"
+  },
+  "ಹೃದಯ ಮಹಿಳೆ ಪುರುಷ ಜೊತೆ ದಂಪತಿಗಳು": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "ಹೃದಯ ಮನುಷ್ಯನೊಂದಿಗೆ ದಂಪತಿಗಳು": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "ಹೃದಯ ಮಹಿಳೆ ಮಹಿಳೆಯೊಂದಿಗೆ ದಂಪತಿಗಳು": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "ಕುಟುಂಬ": { "replacement": "👪", "description": "family" },
+  "ಕುಟುಂಬ ಪುರುಷ ಮಹಿಳೆ ಹುಡುಗ": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "ಕುಟುಂಬ ಪುರುಷ ಮಹಿಳೆ ಹುಡುಗಿ": {
+    "replacement": "👨‍👩‍👧",
+    "description": "family: man, woman, girl"
+  },
+  "ಕುಟುಂಬ ಪುರುಷ ಮಹಿಳೆ ಹುಡುಗಿ ಹುಡುಗ": {
+    "replacement": "👨‍👩‍👧‍👦",
+    "description": "family: man, woman, girl, boy"
+  },
+  "ಕುಟುಂಬ ಪುರುಷ ಮಹಿಳೆ ಹುಡುಗ ಹುಡುಗ": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "ಕುಟುಂಬ ಪುರುಷ ಮಹಿಳೆ ಹುಡುಗಿ ಹುಡುಗಿ": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "ಕುಟುಂಬ ಮನುಷ್ಯ ಮನುಷ್ಯ ಹುಡುಗ": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "ಫ್ಯಾಮಿಲಿ ಮ್ಯಾನ್ ಮ್ಯಾನ್ ಗರ್ಲ್": {
+    "replacement": "👨‍👨‍👧",
+    "description": "family: man, man, girl"
+  },
+  "ಫ್ಯಾಮಿಲಿ ಮ್ಯಾನ್ ಮ್ಯಾನ್ ಗರ್ಲ್ ಬಾಯ್": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "ಫ್ಯಾಮಿಲಿ ಮ್ಯಾನ್ ಮ್ಯಾನ್ ಬಾಯ್ ಬಾಯ್": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "ಫ್ಯಾಮಿಲಿ ಮ್ಯಾನ್ ಮ್ಯಾನ್ ಗರ್ಲ್ ಗರ್ಲ್": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "ಕುಟುಂಬ ಮಹಿಳೆ ಮಹಿಳೆ ಹುಡುಗ": {
+    "replacement": "👩‍👩‍👦",
+    "description": "family: woman, woman, boy"
+  },
+  "ಕುಟುಂಬ ಮಹಿಳೆ ಮಹಿಳೆ ಹುಡುಗಿ": {
+    "replacement": "👩‍👩‍👧",
+    "description": "family: woman, woman, girl"
+  },
+  "ಕುಟುಂಬ ಮಹಿಳೆ ಮಹಿಳೆ ಹುಡುಗಿ ಹುಡುಗ": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "ಕುಟುಂಬ ಮಹಿಳೆ ಮಹಿಳೆ ಹುಡುಗ ಹುಡುಗ": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "ಕುಟುಂಬ ಮಹಿಳೆ ಮಹಿಳೆ ಹುಡುಗಿ ಹುಡುಗಿ": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "ಕುಟುಂಬ ಮನುಷ್ಯ ಹುಡುಗ": {
+    "replacement": "👨‍👦",
+    "description": "family: man, boy"
+  },
+  "ಕುಟುಂಬ ಮನುಷ್ಯ ಹುಡುಗ ಹುಡುಗ": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "ಕುಟುಂಬ ಪುರುಷ ಹುಡುಗಿ": {
+    "replacement": "👨‍👧",
+    "description": "family: man, girl"
+  },
+  "ಫ್ಯಾಮಿಲಿ ಮ್ಯಾನ್ ಗರ್ಲ್ ಬಾಯ್": {
+    "replacement": "👨‍👧‍👦",
+    "description": "family: man, girl, boy"
+  },
+  "ಕುಟುಂಬ ಪುರುಷ ಹುಡುಗಿ ಹುಡುಗಿ": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "ಕುಟುಂಬ ಮಹಿಳೆ ಹುಡುಗ": {
+    "replacement": "👩‍👦",
+    "description": "family: woman, boy"
+  },
+  "ಕುಟುಂಬ ಮಹಿಳೆ ಹುಡುಗ ಹುಡುಗ": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "ಕುಟುಂಬ ಮಹಿಳೆ ಹುಡುಗಿ": {
+    "replacement": "👩‍👧",
+    "description": "family: woman, girl"
+  },
+  "ಕುಟುಂಬ ಮಹಿಳೆ ಹೆಣ್ಣು ಹುಡುಗ": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "ಕುಟುಂಬ ಮಹಿಳೆ ಹೆಣ್ಣು ಹುಡುಗಿ": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "ಮಾತನಾಡುವ ತಲೆ": { "replacement": "🗣️", "description": "speaking head" },
+  "ಸಿಲೂಯೆಟ್‌ನಲ್ಲಿ ಬಸ್ಟ್": {
+    "replacement": "👤",
+    "description": "bust in silhouette"
+  },
+  "ಸಿಲೂಯೆಟ್‌ನಲ್ಲಿ ಬಸ್ಟ್‌ಗಳು": {
+    "replacement": "👥",
+    "description": "busts in silhouette"
+  },
+  "ಜನರು ತಬ್ಬಿಕೊಳ್ಳುವುದು": {
+    "replacement": "🫂",
+    "description": "people hugging"
+  },
+  "ಹೆಜ್ಜೆಗುರುತುಗಳು": { "replacement": "👣", "description": "footprints" },
+  "ಕೋತಿ ಮುಖ": { "replacement": "🐵", "description": "monkey face" },
+  "ಕೋತಿ": { "replacement": "🐒", "description": "monkey" },
+  "ಗೊರಿಲ್ಲಾ": { "replacement": "🦍", "description": "gorilla" },
+  "ಒರಾಂಗುಟನ್": { "replacement": "🦧", "description": "orangutan" },
+  "ನಾಯಿ": { "replacement": "🐶", "description": "dog face" },
+  "ನಾಯಿ 2": { "replacement": "🐕", "description": "dog" },
+  "ಮಾರ್ಗದರ್ಶಿ ನಾಯಿ": { "replacement": "🦮", "description": "guide dog" },
+  "ಸೇವಾ ನಾಯಿ": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "ನಾಯಿಮರಿ": { "replacement": "🐩", "description": "poodle" },
+  "ತೋಳ": { "replacement": "🐺", "description": "wolf" },
+  "ನರಿ ಮುಖ": { "replacement": "🦊", "description": "fox" },
+  "ರಕೂನ್": { "replacement": "🦝", "description": "raccoon" },
+  "ಬೆಕ್ಕು": { "replacement": "🐱", "description": "cat face" },
+  "cat2": { "replacement": "🐈", "description": "cat" },
+  "ಕಪ್ಪು ಬೆಕ್ಕು": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "ಸಿಂಹ": { "replacement": "🦁", "description": "lion" },
+  "ಹುಲಿ": { "replacement": "🐯", "description": "tiger face" },
+  "ಹುಲಿ 2": { "replacement": "🐅", "description": "tiger" },
+  "ಚಿರತೆ": { "replacement": "🐆", "description": "leopard" },
+  "ಕುದುರೆ": { "replacement": "🐴", "description": "horse face" },
+  "ಓಟದ ಕುದುರೆ": { "replacement": "🐎", "description": "horse" },
+  "ಯುನಿಕಾರ್ನ್": { "replacement": "🦄", "description": "unicorn" },
+  "ಜೀಬ್ರಾ": { "replacement": "🦓", "description": "zebra" },
+  "ಜಿಂಕೆ": { "replacement": "🦌", "description": "deer" },
+  "ಕಾಡೆಮ್ಮೆ": { "replacement": "🦬", "description": "bison" },
+  "ಹಸು": { "replacement": "🐮", "description": "cow face" },
+  "ಎತ್ತು": { "replacement": "🐂", "description": "ox" },
+  "ನೀರಿನ ಎಮ್ಮೆ": { "replacement": "🐃", "description": "water buffalo" },
+  "ಹಸು 2": { "replacement": "🐄", "description": "cow" },
+  "ಹಂದಿ": { "replacement": "🐗", "description": "boar" },
+  "ಪಿಗ್ 2": { "replacement": "🐖", "description": "pig" },
+  "ಹಂದಿ ಮೂಗು": { "replacement": "🐽", "description": "pig nose" },
+  "ರಾಮ್": { "replacement": "🐏", "description": "ram" },
+  "ಕುರಿಗಳು": { "replacement": "🐑", "description": "ewe" },
+  "ಮೇಕೆ": { "replacement": "🐐", "description": "goat" },
+  "ಡ್ರೊಮೆಡರಿ ಒಂಟೆ": { "replacement": "🐪", "description": "camel" },
+  "ಒಂಟೆ": { "replacement": "🐫", "description": "two-hump camel" },
+  "ಲಾಮಾ": { "replacement": "🦙", "description": "llama" },
+  "ಜಿರಾಫೆ": { "replacement": "🦒", "description": "giraffe" },
+  "ಆನೆ": { "replacement": "🐘", "description": "elephant" },
+  "ಮಹಾಗಜ": { "replacement": "🦣", "description": "mammoth" },
+  "ಖಡ್ಗಮೃಗ": { "replacement": "🦏", "description": "rhinoceros" },
+  "ಹಿಪಪಾಟಮಸ್": { "replacement": "🦛", "description": "hippopotamus" },
+  "ಇಲಿ": { "replacement": "🐀", "description": "rat" },
+  "ಮೌಸ್ 2": { "replacement": "🐁", "description": "mouse" },
+  "ಹ್ಯಾಮ್ಸ್ಟರ್": { "replacement": "🐹", "description": "hamster" },
+  "ಮೊಲ": { "replacement": "🐰", "description": "rabbit face" },
+  "ಮೊಲ 2": { "replacement": "🐇", "description": "rabbit" },
+  "ಚಿಪ್ಮಂಕ್": { "replacement": "🐿️", "description": "chipmunk" },
+  "ಬೀವರ್": { "replacement": "🦫", "description": "beaver" },
+  "ಮುಳ್ಳುಹಂದಿ": { "replacement": "🦔", "description": "hedgehog" },
+  "ಬ್ಯಾಟ್": { "replacement": "🦇", "description": "bat" },
+  "ಕರಡಿ": { "replacement": "🐻", "description": "bear" },
+  "ಹಿಮ ಕರಡಿ": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "ಕೋಲಾ": { "replacement": "🐨", "description": "koala" },
+  "ಪಾಂಡಾ ಮುಖ": { "replacement": "🐼", "description": "panda" },
+  "ಸೋಮಾರಿತನ": { "replacement": "🦥", "description": "sloth" },
+  "ಒಟ್ಟರ್": { "replacement": "🦦", "description": "otter" },
+  "ಸ್ಕಂಕ್": { "replacement": "🦨", "description": "skunk" },
+  "ಕಾಂಗರೂ": { "replacement": "🦘", "description": "kangaroo" },
+  "ಬ್ಯಾಡ್ಜರ್": { "replacement": "🦡", "description": "badger" },
+  "ಅಡಿ": { "replacement": "🐾", "description": "paw prints" },
+  "ಟರ್ಕಿ": { "replacement": "🦃", "description": "turkey" },
+  "ಕೋಳಿ": { "replacement": "🐔", "description": "chicken" },
+  "ರೂಸ್ಟರ್": { "replacement": "🐓", "description": "rooster" },
+  "ಹ್ಯಾಚಿಂಗ್ ಮರಿ": { "replacement": "🐣", "description": "hatching chick" },
+  "ಮಗುವಿನ ಮರಿ": { "replacement": "🐤", "description": "baby chick" },
+  "ಮೊಟ್ಟೆಯೊಡೆದ ಮರಿ": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "ಹಕ್ಕಿ": { "replacement": "🐦", "description": "bird" },
+  "ಪೆಂಗ್ವಿನ್": { "replacement": "🐧", "description": "penguin" },
+  "ಪಾರಿವಾಳ": { "replacement": "🕊️", "description": "dove" },
+  "ಹದ್ದು": { "replacement": "🦅", "description": "eagle" },
+  "ಬಾತುಕೋಳಿ": { "replacement": "🦆", "description": "duck" },
+  "ಹಂಸ": { "replacement": "🦢", "description": "swan" },
+  "ಗೂಬೆ": { "replacement": "🦉", "description": "owl" },
+  "ಡೋಡೋ": { "replacement": "🦤", "description": "dodo" },
+  "ಗರಿ": { "replacement": "🪶", "description": "feather" },
+  "ಫ್ಲೆಮಿಂಗೊ": { "replacement": "🦩", "description": "flamingo" },
+  "ನವಿಲು": { "replacement": "🦚", "description": "peacock" },
+  "ಗಿಳಿ": { "replacement": "🦜", "description": "parrot" },
+  "ಕಪ್ಪೆ": { "replacement": "🐸", "description": "frog" },
+  "ಮೊಸಳೆ": { "replacement": "🐊", "description": "crocodile" },
+  "ಆಮೆ": { "replacement": "🐢", "description": "turtle" },
+  "ಹಲ್ಲಿ": { "replacement": "🦎", "description": "lizard" },
+  "ಹಾವು": { "replacement": "🐍", "description": "snake" },
+  "ಡ್ರ್ಯಾಗನ್ ಮುಖ": { "replacement": "🐲", "description": "dragon face" },
+  "ಡ್ರ್ಯಾಗನ್": { "replacement": "🐉", "description": "dragon" },
+  "ಸೌರಪಾಡ್": { "replacement": "🦕", "description": "sauropod" },
+  "ಟಿ-ರೆಕ್ಸ್": { "replacement": "🦖", "description": "T-Rex" },
+  "ತಿಮಿಂಗಿಲ": { "replacement": "🐳", "description": "spouting whale" },
+  "ತಿಮಿಂಗಿಲ 2": { "replacement": "🐋", "description": "whale" },
+  "ಡಾಲ್ಫಿನ್": { "replacement": "🐬", "description": "dolphin" },
+  "ಸೀಲ್": { "replacement": "🦭", "description": "seal" },
+  "ಮೀನು": { "replacement": "🐟", "description": "fish" },
+  "ಉಷ್ಣವಲಯದ ಮೀನು": { "replacement": "🐠", "description": "tropical fish" },
+  "ಬ್ಲೋಫಿಶ್": { "replacement": "🐡", "description": "blowfish" },
+  "ಶಾರ್ಕ್": { "replacement": "🦈", "description": "shark" },
+  "ಆಕ್ಟೋಪಸ್": { "replacement": "🐙", "description": "octopus" },
+  "ಶೆಲ್": { "replacement": "🐚", "description": "spiral shell" },
+  "ಬಸವನ": { "replacement": "🐌", "description": "snail" },
+  "ಚಿಟ್ಟೆ": { "replacement": "🦋", "description": "butterfly" },
+  "ದೋಷ": { "replacement": "🐛", "description": "bug" },
+  "ಇರುವೆ": { "replacement": "🐜", "description": "ant" },
+  "ಜೇನುನೊಣ": { "replacement": "🐝", "description": "honeybee" },
+  "ಜೀರುಂಡೆ": { "replacement": "🪲", "description": "beetle" },
+  "ಲೇಡಿ ಜೀರುಂಡೆ": { "replacement": "🐞", "description": "lady beetle" },
+  "ಕ್ರಿಕೆಟ್": { "replacement": "🦗", "description": "cricket" },
+  "ಜಿರಳೆ": { "replacement": "🪳", "description": "cockroach" },
+  "ಜೇಡ": { "replacement": "🕷️", "description": "spider" },
+  "ಜೇಡರ ಬಲೆ": { "replacement": "🕸️", "description": "spider web" },
+  "ಚೇಳು": { "replacement": "🦂", "description": "scorpion" },
+  "ಸೊಳ್ಳೆ": { "replacement": "🦟", "description": "mosquito" },
+  "ಫ್ಲೈ": { "replacement": "🪰", "description": "fly" },
+  "ವರ್ಮ್": { "replacement": "🪱", "description": "worm" },
+  "ಸೂಕ್ಷ್ಮಜೀವಿ": { "replacement": "🦠", "description": "microbe" },
+  "ಪುಷ್ಪಗುಚ್": { "replacement": "💐", "description": "bouquet" },
+  "ಚೆರ್ರಿ ಹೂವು": { "replacement": "🌸", "description": "cherry blossom" },
+  "ಬಿಳಿ ಹೂವು": { "replacement": "💮", "description": "white flower" },
+  "ರೋಸೆಟ್": { "replacement": "🏵️", "description": "rosette" },
+  "ಗುಲಾಬಿ": { "replacement": "🌹", "description": "rose" },
+  "ವಿಲ್ಟೆಡ್ ಹೂವು": { "replacement": "🥀", "description": "wilted flower" },
+  "ದಾಸವಾಳ": { "replacement": "🌺", "description": "hibiscus" },
+  "ಸೂರ್ಯಕಾಂತಿ": { "replacement": "🌻", "description": "sunflower" },
+  "ಹೂವು": { "replacement": "🌼", "description": "blossom" },
+  "ಟುಲಿಪ್": { "replacement": "🌷", "description": "tulip" },
+  "ಮೊಳಕೆ": { "replacement": "🌱", "description": "seedling" },
+  "ಪಾಟ್ ಮಾಡಿದ ಸಸ್ಯ": { "replacement": "🪴", "description": "potted plant" },
+  "ನಿತ್ಯಹರಿದ್ವರ್ಣ ಮರ": { "replacement": "🌲", "description": "evergreen tree" },
+  "ಪತನಶೀಲ ಮರ": { "replacement": "🌳", "description": "deciduous tree" },
+  "ತಾಳೆ ಮರ": { "replacement": "🌴", "description": "palm tree" },
+  "ಕಳ್ಳಿ": { "replacement": "🌵", "description": "cactus" },
+  "ಅಕ್ಕಿಯ ಕಿವಿ": { "replacement": "🌾", "description": "sheaf of rice" },
+  "ಮೂಲಿಕೆ": { "replacement": "🌿", "description": "herb" },
+  "ಶ್ಯಾಮ್ರಾಕ್": { "replacement": "☘️", "description": "shamrock" },
+  "ನಾಲ್ಕು ಎಲೆ ಕ್ಲೋವರ್": {
+    "replacement": "🍀",
+    "description": "four leaf clover"
+  },
+  "ಮೇಪಲ್ ಎಲೆ": { "replacement": "🍁", "description": "maple leaf" },
+  "ಬಿದ್ದ ಎಲೆ": { "replacement": "🍂", "description": "fallen leaf" },
+  "ಎಲೆಗಳು": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "ದ್ರಾಕ್ಷಿಗಳು": { "replacement": "🍇", "description": "grapes" },
+  "ಕಲ್ಲಂಗಡಿ": { "replacement": "🍉", "description": "watermelon" },
+  "ಟ್ಯಾಂಗರಿನ್": { "replacement": "🍊", "description": "tangerine" },
+  "ನಿಂಬೆ": { "replacement": "🍋", "description": "lemon" },
+  "ಬಾಳೆಹಣ್ಣು": { "replacement": "🍌", "description": "banana" },
+  "ಅನಾನಸ್": { "replacement": "🍍", "description": "pineapple" },
+  "ಮಾವು": { "replacement": "🥭", "description": "mango" },
+  "ಸೇಬು": { "replacement": "🍎", "description": "red apple" },
+  "ಹಸಿರು ಸೇಬು": { "replacement": "🍏", "description": "green apple" },
+  "ಪಿಯರ್": { "replacement": "🍐", "description": "pear" },
+  "ಪೀಚ್": { "replacement": "🍑", "description": "peach" },
+  "ಚೆರ್ರಿಗಳು": { "replacement": "🍒", "description": "cherries" },
+  "ಸ್ಟ್ರಾಬೆರಿ": { "replacement": "🍓", "description": "strawberry" },
+  "ಬೆರಿಹಣ್ಣುಗಳು": { "replacement": "🫐", "description": "blueberries" },
+  "ಕಿವಿ ಹಣ್ಣು": { "replacement": "🥝", "description": "kiwi fruit" },
+  "ಟೊಮೆಟೊ": { "replacement": "🍅", "description": "tomato" },
+  "ಆಲಿವ್": { "replacement": "🫒", "description": "olive" },
+  "ತೆಂಗಿನ ಕಾಯಿ": { "replacement": "🥥", "description": "coconut" },
+  "ಆವಕಾಡೊ": { "replacement": "🥑", "description": "avocado" },
+  "ಬದನೆ ಕಾಯಿ": { "replacement": "🍆", "description": "eggplant" },
+  "ಆಲೂಗಡ್ಡೆ": { "replacement": "🥔", "description": "potato" },
+  "ಕ್ಯಾರೆಟ್": { "replacement": "🥕", "description": "carrot" },
+  "ಜೋಳ": { "replacement": "🌽", "description": "ear of corn" },
+  "ಬಿಸಿ ಮೆಣಸು": { "replacement": "🌶️", "description": "hot pepper" },
+  "ದೊಡ್ಡ ಮೆಣಸಿನಕಾಯಿ": { "replacement": "🫑", "description": "bell pepper" },
+  "ಸೌತೆಕಾಯಿ": { "replacement": "🥒", "description": "cucumber" },
+  "ಎಲೆಗಳ ಹಸಿರು": { "replacement": "🥬", "description": "leafy green" },
+  "ಕೋಸುಗಡ್ಡೆ": { "replacement": "🥦", "description": "broccoli" },
+  "ಬೆಳ್ಳುಳ್ಳಿ": { "replacement": "🧄", "description": "garlic" },
+  "ಈರುಳ್ಳಿ": { "replacement": "🧅", "description": "onion" },
+  "ಅಣಬೆ": { "replacement": "🍄", "description": "mushroom" },
+  "ಕಡಲೆಕಾಯಿ": { "replacement": "🥜", "description": "peanuts" },
+  "ಚೆಸ್ಟ್ನಟ್": { "replacement": "🌰", "description": "chestnut" },
+  "ಬ್ರೆಡ್": { "replacement": "🍞", "description": "bread" },
+  "ಕ್ರೊಸೆಂಟ್": { "replacement": "🥐", "description": "croissant" },
+  "ಬ್ಯಾಗೆಟ್ ಬ್ರೆಡ್": { "replacement": "🥖", "description": "baguette bread" },
+  "ಫ್ಲಾಟ್ ಬ್ರೆಡ್": { "replacement": "🫓", "description": "flatbread" },
+  "ಪ್ರೆಟ್ಜೆಲ್": { "replacement": "🥨", "description": "pretzel" },
+  "ಬಾಗಲ್": { "replacement": "🥯", "description": "bagel" },
+  "ಪ್ಯಾನ್ಕೇಕ್ಗಳು": { "replacement": "🥞", "description": "pancakes" },
+  "ದೋಸೆ": { "replacement": "🧇", "description": "waffle" },
+  "ಗಿಣ್ಣು": { "replacement": "🧀", "description": "cheese wedge" },
+  "ಮೂಳೆಯ ಮೇಲೆ ಮಾಂಸ": { "replacement": "🍖", "description": "meat on bone" },
+  "ಕೋಳಿ ಕಾಲು": { "replacement": "🍗", "description": "poultry leg" },
+  "ಮಾಂಸದ ಕಟ್": { "replacement": "🥩", "description": "cut of meat" },
+  "ಬೇಕನ್": { "replacement": "🥓", "description": "bacon" },
+  "ಹ್ಯಾಂಬರ್ಗರ್": { "replacement": "🍔", "description": "hamburger" },
+  "ಫ್ರೈಸ್": { "replacement": "🍟", "description": "french fries" },
+  "ಪಿಜ್ಜಾ": { "replacement": "🍕", "description": "pizza" },
+  "ಹಾಟ್ ಡಾಗ್": { "replacement": "🌭", "description": "hot dog" },
+  "ಸ್ಯಾಂಡ್‌ವಿಚ್": { "replacement": "🥪", "description": "sandwich" },
+  "ಟ್ಯಾಕೋ": { "replacement": "🌮", "description": "taco" },
+  "ಬುರ್ರಿಟೋ": { "replacement": "🌯", "description": "burrito" },
+  "ತಮಾಲೆ": { "replacement": "🫔", "description": "tamale" },
+  "ಸ್ಟಫ್ಡ್ ಫ್ಲಾಟ್ ಬ್ರೆಡ್": {
+    "replacement": "🥙",
+    "description": "stuffed flatbread"
+  },
+  "ಫಲಾಫೆಲ್": { "replacement": "🧆", "description": "falafel" },
+  "ಮೊಟ್ಟೆ": { "replacement": "🥚", "description": "egg" },
+  "ಹುರಿದ ಮೊಟ್ಟೆ": { "replacement": "🍳", "description": "cooking" },
+  "ಆಹಾರದ ಆಳವಿಲ್ಲದ ಪ್ಯಾನ್": {
+    "replacement": "🥘",
+    "description": "shallow pan of food"
+  },
+  "ಸ್ಟ್ಯೂ": { "replacement": "🍲", "description": "pot of food" },
+  "ಫಂಡ್ಯು": { "replacement": "🫕", "description": "fondue" },
+  "ಚಮಚದೊಂದಿಗೆ ಬೌಲ್ ಮಾಡಿ": {
+    "replacement": "🥣",
+    "description": "bowl with spoon"
+  },
+  "ಹಸಿರು ಸಲಾಡ್": { "replacement": "🥗", "description": "green salad" },
+  "ಪಾಪ್‌ಕಾರ್ನ್": { "replacement": "🍿", "description": "popcorn" },
+  "ಬೆಣ್ಣೆ": { "replacement": "🧈", "description": "butter" },
+  "ಉಪ್ಪು": { "replacement": "🧂", "description": "salt" },
+  "ಸಂಸ್ಕರಿಸಿದ ಆಹಾರ": { "replacement": "🥫", "description": "canned food" },
+  "ಬೆಂಟೋ": { "replacement": "🍱", "description": "bento box" },
+  "ಅಕ್ಕಿ ಕ್ರ್ಯಾಕರ್": { "replacement": "🍘", "description": "rice cracker" },
+  "ಅಕ್ಕಿ ಚೆಂಡು": { "replacement": "🍙", "description": "rice ball" },
+  "ಅಕ್ಕಿ": { "replacement": "🍚", "description": "cooked rice" },
+  "ಮೇಲೋಗರ": { "replacement": "🍛", "description": "curry rice" },
+  "ರಾಮೆನ್": { "replacement": "🍜", "description": "steaming bowl" },
+  "ಸ್ಪಾಗೆಟ್ಟಿ": { "replacement": "🍝", "description": "spaghetti" },
+  "ಸಿಹಿ ಆಲೂಗೆಡ್ಡೆ": {
+    "replacement": "🍠",
+    "description": "roasted sweet potato"
+  },
+  "ಓಡೆನ್": { "replacement": "🍢", "description": "oden" },
+  "ಸುಶಿ": { "replacement": "🍣", "description": "sushi" },
+  "ಹುರಿದ ಸೀಗಡಿ": { "replacement": "🍤", "description": "fried shrimp" },
+  "ಮೀನು ಕೇಕ್": { "replacement": "🍥", "description": "fish cake with swirl" },
+  "ಚಂದ್ರನ ಕೇಕ್": { "replacement": "🥮", "description": "moon cake" },
+  "ಡ್ಯಾಂಗೋ": { "replacement": "🍡", "description": "dango" },
+  "ಡಂಪ್ಲಿಂಗ್": { "replacement": "🥟", "description": "dumpling" },
+  "ಅದೃಷ್ಟ ಕುಕೀ": { "replacement": "🥠", "description": "fortune cookie" },
+  "ಟೇಕ್ out ಟ್ ಬಾಕ್ಸ್": { "replacement": "🥡", "description": "takeout box" },
+  "ಏಡಿ": { "replacement": "🦀", "description": "crab" },
+  "ನಳ್ಳಿ": { "replacement": "🦞", "description": "lobster" },
+  "ಸೀಗಡಿ": { "replacement": "🦐", "description": "shrimp" },
+  "ಸ್ಕ್ವಿಡ್": { "replacement": "🦑", "description": "squid" },
+  "ಸಿಂಪಿ": { "replacement": "🦪", "description": "oyster" },
+  "ಐಸ್ ಕ್ರೀಮ್": { "replacement": "🍨", "description": "ice cream" },
+  "ಕತ್ತರಿಸಿದ ಐಸ್": { "replacement": "🍧", "description": "shaved ice" },
+  "ಡೋನಟ್": { "replacement": "🍩", "description": "doughnut" },
+  "ಕುಕೀ": { "replacement": "🍪", "description": "cookie" },
+  "ಹುಟ್ಟುಹಬ್ಬ": { "replacement": "🎂", "description": "birthday cake" },
+  "ಕೇಕ್": { "replacement": "🍰", "description": "shortcake" },
+  "ಕಪ್ಕೇಕ್": { "replacement": "🧁", "description": "cupcake" },
+  "ಪೈ": { "replacement": "🥧", "description": "pie" },
+  "ಚಾಕಲೇಟ್ ಬಾರ್": { "replacement": "🍫", "description": "chocolate bar" },
+  "ಕ್ಯಾಂಡಿ": { "replacement": "🍬", "description": "candy" },
+  "ಲಾಲಿಪಾಪ್": { "replacement": "🍭", "description": "lollipop" },
+  "ಕಸ್ಟರ್ಡ್": { "replacement": "🍮", "description": "custard" },
+  "ಜೇನು ಮಡಕೆ": { "replacement": "🍯", "description": "honey pot" },
+  "ಮಗುವಿನ ಶೀಷ": { "replacement": "🍼", "description": "baby bottle" },
+  "ಹಾಲಿನ ಗಾಜು": { "replacement": "🥛", "description": "glass of milk" },
+  "ಕಾಫಿ": { "replacement": "☕", "description": "hot beverage" },
+  "ಟೀಪಾಟ್": { "replacement": "🫖", "description": "teapot" },
+  "ಚಹಾ": { "replacement": "🍵", "description": "teacup without handle" },
+  "ಸಲುವಾಗಿ": { "replacement": "🍶", "description": "sake" },
+  "ಷಾಂಪೇನ್": { "replacement": "🍾", "description": "bottle with popping cork" },
+  "ವೈನ್ ಗ್ಲಾಸ್": { "replacement": "🍷", "description": "wine glass" },
+  "ಕಾಕ್ಟೈಲ್": { "replacement": "🍸", "description": "cocktail glass" },
+  "ಉಷ್ಣವಲಯದ ಪಾನೀಯ": { "replacement": "🍹", "description": "tropical drink" },
+  "ಬಿಯರ್": { "replacement": "🍺", "description": "beer mug" },
+  "ಬಿಯರ್ಗಳು": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "ಕ್ಲಿಂಕಿಂಗ್ ಕನ್ನಡಕ": {
+    "replacement": "🥂",
+    "description": "clinking glasses"
+  },
+  "ಟಂಬ್ಲರ್ ಗ್ಲಾಸ್": { "replacement": "🥃", "description": "tumbler glass" },
+  "ಒಣಹುಲ್ಲಿನೊಂದಿಗೆ ಕಪ್": {
+    "replacement": "🥤",
+    "description": "cup with straw"
+  },
+  "ಬಬಲ್ ಟೀ": { "replacement": "🧋", "description": "bubble tea" },
+  "ಪಾನೀಯ ಪೆಟ್ಟಿಗೆ": { "replacement": "🧃", "description": "beverage box" },
+  "ಸಂಗಾತಿ": { "replacement": "🧉", "description": "mate" },
+  "ಮಂಜುಗಡ್ಡೆ": { "replacement": "🧊", "description": "ice" },
+  "ಚಾಪ್ಸ್ಟಿಕ್ಗಳು": { "replacement": "🥢", "description": "chopsticks" },
+  "ಕಟ್ಲೇರಿಯೊಂದಿಗೆ ಪ್ಲೇಟ್": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "ಫೋರ್ಕ್ ಮತ್ತು ಚಾಕು": { "replacement": "🍴", "description": "fork and knife" },
+  "ಚಮಚ": { "replacement": "🥄", "description": "spoon" },
+  "ಹೊಚೊ": { "replacement": "🔪", "description": "kitchen knife" },
+  "ಆಂಫೋರಾ": { "replacement": "🏺", "description": "amphora" },
+  "ಭೂ ಆಫ್ರಿಕಾ": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "ಭೂಮಿಯ ಅಮೆರಿಕಗಳು": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "ಭೂಮಿಯ ಏಷ್ಯಾ": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "ಮೆರಿಡಿಯನ್‌ಗಳೊಂದಿಗೆ ಗ್ಲೋಬ್": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "ವಿಶ್ವ ಭೂಪಟ": { "replacement": "🗺️", "description": "world map" },
+  "ಜಪಾನ್": { "replacement": "🗾", "description": "map of Japan" },
+  "ದಿಕ್ಸೂಚಿ": { "replacement": "🧭", "description": "compass" },
+  "ಪರ್ವತ ಹಿಮ": { "replacement": "🏔️", "description": "snow-capped mountain" },
+  "ಪರ್ವತ": { "replacement": "⛰️", "description": "mountain" },
+  "ಜ್ವಾಲಾಮುಖಿ": { "replacement": "🌋", "description": "volcano" },
+  "ಮೌಂಟ್ ಫ್ಯೂಜಿ": { "replacement": "🗻", "description": "mount fuji" },
+  "ಕ್ಯಾಂಪಿಂಗ್": { "replacement": "🏕️", "description": "camping" },
+  "ಬೀಚ್ umb ತ್ರಿ": {
+    "replacement": "🏖️",
+    "description": "beach with umbrella"
+  },
+  "ಮರುಭೂಮಿ": { "replacement": "🏜️", "description": "desert" },
+  "ಮರುಭೂಮಿ ದ್ವೀಪ": { "replacement": "🏝️", "description": "desert island" },
+  "ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ": {
+    "replacement": "🏞️",
+    "description": "national park"
+  },
+  "ಕ್ರೀಡಾಂಗಣ": { "replacement": "🏟️", "description": "stadium" },
+  "ಶಾಸ್ತ್ರೀಯ ಕಟ್ಟಡ": {
+    "replacement": "🏛️",
+    "description": "classical building"
+  },
+  "ಕಟ್ಟಡ ನಿರ್ಮಾಣ": {
+    "replacement": "🏗️",
+    "description": "building construction"
+  },
+  "ಇಟ್ಟಿಗೆಗಳು": { "replacement": "🧱", "description": "brick" },
+  "ಬಂಡೆ": { "replacement": "🪨", "description": "rock" },
+  "ಮರ": { "replacement": "🪵", "description": "wood" },
+  "ಗುಡಿಸಲು": { "replacement": "🛖", "description": "hut" },
+  "ಮನೆಗಳು": { "replacement": "🏘️", "description": "houses" },
+  "ಮುಕ್ತ ಮನೆ": { "replacement": "🏚️", "description": "derelict house" },
+  "ಮನೆ": { "replacement": "🏠", "description": "house" },
+  "ಉದ್ಯಾನದೊಂದಿಗೆ ಮನೆ": {
+    "replacement": "🏡",
+    "description": "house with garden"
+  },
+  "ಕಚೇರಿ": { "replacement": "🏢", "description": "office building" },
+  "ಅಂಚೆ ಕಛೇರಿ": { "replacement": "🏣", "description": "Japanese post office" },
+  "ಯುರೋಪಿಯನ್ ಅಂಚೆ ಕಚೇರಿ": { "replacement": "🏤", "description": "post office" },
+  "ಆಸ್ಪತ್ರೆ": { "replacement": "🏥", "description": "hospital" },
+  "ಬ್ಯಾಂಕ್": { "replacement": "🏦", "description": "bank" },
+  "ಹೋಟೆಲ್": { "replacement": "🏨", "description": "hotel" },
+  "ಪ್ರೀತಿ ಹೋಟೆಲ್": { "replacement": "🏩", "description": "love hotel" },
+  "ಅನುಕೂಲಕರ ಅಂಗಡಿ": { "replacement": "🏪", "description": "convenience store" },
+  "ಶಾಲೆ": { "replacement": "🏫", "description": "school" },
+  "ಕಿರಾಣಿ ಅಂಗಡಿ": { "replacement": "🏬", "description": "department store" },
+  "ಕಾರ್ಖಾನೆ": { "replacement": "🏭", "description": "factory" },
+  "ಜಪಾನೀಸ್ ಕೋಟೆ": { "replacement": "🏯", "description": "Japanese castle" },
+  "ಯುರೋಪಿಯನ್ ಕೋಟೆ": { "replacement": "🏰", "description": "castle" },
+  "ಮದುವೆ": { "replacement": "💒", "description": "wedding" },
+  "ಟೋಕಿಯೊ ಟವರ್": { "replacement": "🗼", "description": "Tokyo tower" },
+  "ಸ್ವಾತಂತ್ರ್ಯದ ಪ್ರತಿಮೆ": {
+    "replacement": "🗽",
+    "description": "Statue of Liberty"
+  },
+  "ಚರ್ಚ್": { "replacement": "⛪", "description": "church" },
+  "ಮಸೀದಿ": { "replacement": "🕌", "description": "mosque" },
+  "ಹಿಂದು ದೇವಾಲಯ": { "replacement": "🛕", "description": "hindu temple" },
+  "ಸಿನಗಾಗ್": { "replacement": "🕍", "description": "synagogue" },
+  "ಶಿಂಟೋ ದೇಗುಲ": { "replacement": "⛩️", "description": "shinto shrine" },
+  "ಕಾಬಾ": { "replacement": "🕋", "description": "kaaba" },
+  "ಕಾರಂಜಿ": { "replacement": "⛲", "description": "fountain" },
+  "ಟೆಂಟ್": { "replacement": "⛺", "description": "tent" },
+  "ಮಂಜಿನ": { "replacement": "🌁", "description": "foggy" },
+  "ನಕ್ಷತ್ರಗಳೊಂದಿಗೆ ರಾತ್ರಿ": {
+    "replacement": "🌃",
+    "description": "night with stars"
+  },
+  "ನಗರದೃಶ್ಯ": { "replacement": "🏙️", "description": "cityscape" },
+  "ಪರ್ವತಗಳ ಮೇಲೆ ಸೂರ್ಯೋದಯ": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "ಸೂರ್ಯೋದಯ": { "replacement": "🌅", "description": "sunrise" },
+  "ನಗರದ ಸೂರ್ಯಾಸ್ತ": { "replacement": "🌆", "description": "cityscape at dusk" },
+  "ನಗರ ಸೂರ್ಯೋದಯ": { "replacement": "🌇", "description": "sunset" },
+  "ರಾತ್ರಿಯಲ್ಲಿ ಸೇತುವೆ": {
+    "replacement": "🌉",
+    "description": "bridge at night"
+  },
+  "ಹಾಟ್ಸ್ಪ್ರಿಂಗ್ಸ್": { "replacement": "♨️", "description": "hot springs" },
+  "ಏರಿಳಿಕೆ ಕುದುರೆ": { "replacement": "🎠", "description": "carousel horse" },
+  "ಫೆರಿಸ್ ಚಕ್ರ": { "replacement": "🎡", "description": "ferris wheel" },
+  "ರೋಲರ್ ಕೋಸ್ಟರ್": { "replacement": "🎢", "description": "roller coaster" },
+  "ಕ್ಷೌರಿಕ": { "replacement": "💈", "description": "barber pole" },
+  "ಸರ್ಕಸ್ ಟೆಂಟ್": { "replacement": "🎪", "description": "circus tent" },
+  "ಉಗಿ ಲೋಕೋಮೋಟಿವ್": { "replacement": "🚂", "description": "locomotive" },
+  "ರೈಲ್ವೆ ಕಾರು": { "replacement": "🚃", "description": "railway car" },
+  "ಬುಲೆಟ್ ಟ್ರೈನ್ ಸೈಡ್": {
+    "replacement": "🚄",
+    "description": "high-speed train"
+  },
+  "ಬುಲೆಟ್ ಟ್ರೈನ್ ಫ್ರಂಟ್": {
+    "replacement": "🚅",
+    "description": "bullet train"
+  },
+  "ರೈಲು 2": { "replacement": "🚆", "description": "train" },
+  "ಮೆಟ್ರೋ": { "replacement": "🚇", "description": "metro" },
+  "ಲಘು ರೈಲು": { "replacement": "🚈", "description": "light rail" },
+  "ನಿಲ್ದಾಣ": { "replacement": "🚉", "description": "station" },
+  "ಟ್ರಾಮ್": { "replacement": "🚊", "description": "tram" },
+  "ಮೊನೊರೈಲ್": { "replacement": "🚝", "description": "monorail" },
+  "ಪರ್ವತ ರೈಲ್ವೆ": { "replacement": "🚞", "description": "mountain railway" },
+  "ರೈಲು": { "replacement": "🚋", "description": "tram car" },
+  "ಬಸ್": { "replacement": "🚌", "description": "bus" },
+  "ಮುಂಬರುವ ಬಸ್": { "replacement": "🚍", "description": "oncoming bus" },
+  "ಟ್ರಾಲಿಬಸ್": { "replacement": "🚎", "description": "trolleybus" },
+  "ಮಿನಿ ಬಸ್": { "replacement": "🚐", "description": "minibus" },
+  "ಆಂಬ್ಯುಲೆನ್ಸ್": { "replacement": "🚑", "description": "ambulance" },
+  "ಅಗ್ನಿ ಶಾಮಕ": { "replacement": "🧯", "description": "fire extinguisher" },
+  "ಪೋಲೀಸ್ ಕಾರು": { "replacement": "🚓", "description": "police car" },
+  "ಮುಂಬರುವ ಪೊಲೀಸ್ ಕಾರು": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "ಟ್ಯಾಕ್ಸಿ": { "replacement": "🚕", "description": "taxi" },
+  "ಮುಂಬರುವ ಟ್ಯಾಕ್ಸಿ": { "replacement": "🚖", "description": "oncoming taxi" },
+  "ಕಾರು": { "replacement": "🚗", "description": "automobile" },
+  "ಮುಂಬರುವ ಆಟೋಮೊಬೈಲ್": {
+    "replacement": "🚘",
+    "description": "oncoming automobile"
+  },
+  "ನೀಲಿ ಕಾರು": { "replacement": "🚙", "description": "sport utility vehicle" },
+  "ಪಿಕಪ್ ಟ್ರಕ್": { "replacement": "🛻", "description": "pickup truck" },
+  "ಟ್ರಕ್": { "replacement": "🚚", "description": "delivery truck" },
+  "ಸ್ಪಷ್ಟವಾದ ಲಾರಿ": { "replacement": "🚛", "description": "articulated lorry" },
+  "ಟ್ರಾಕ್ಟರ್": { "replacement": "🚜", "description": "tractor" },
+  "ರೇಸಿಂಗ್ ಕಾರು": { "replacement": "🏎️", "description": "racing car" },
+  "ಮೋಟಾರ್ಸೈಕಲ್": { "replacement": "🏍️", "description": "motorcycle" },
+  "ಮೋಟಾರ್ ಸ್ಕೂಟರ್": { "replacement": "🛵", "description": "motor scooter" },
+  "ಹಸ್ತಚಾಲಿತ ಗಾಲಿಕುರ್ಚಿ": {
+    "replacement": "🦽",
+    "description": "manual wheelchair"
+  },
+  "ಯಾಂತ್ರಿಕೃತ ಗಾಲಿಕುರ್ಚಿ": {
+    "replacement": "🦼",
+    "description": "motorized wheelchair"
+  },
+  "ಆಟೋ ರಿಕ್ಷಾ": { "replacement": "🛺", "description": "auto rickshaw" },
+  "ಬೈಕು": { "replacement": "🚲", "description": "bicycle" },
+  "ಕಿಕ್ ಸ್ಕೂಟರ್": { "replacement": "🛴", "description": "kick scooter" },
+  "ಸ್ಕೇಟ್ಬೋರ್ಡ್": { "replacement": "🛹", "description": "skateboard" },
+  "ರೋಲರ್ ಸ್ಕೇಟ್": { "replacement": "🛼", "description": "roller skate" },
+  "ಬಸ್‌ಸ್ಟಾಪ್": { "replacement": "🚏", "description": "bus stop" },
+  "ಮೋಟಾರು ಮಾರ್ಗ": { "replacement": "🛣️", "description": "motorway" },
+  "ರೈಲ್ವೆ ಟ್ರ್ಯಾಕ್": { "replacement": "🛤️", "description": "railway track" },
+  "ಎಣ್ಣೆ ಡ್ರಮ್": { "replacement": "🛢️", "description": "oil drum" },
+  "ಇಂಧನ ಪಂಪ್": { "replacement": "⛽", "description": "fuel pump" },
+  "ತಿರುಗುವ ಬೆಳಕು": { "replacement": "🚨", "description": "police car light" },
+  "ಟ್ರಾಫಿಕ್ ಲೈಟ್": {
+    "replacement": "🚥",
+    "description": "horizontal traffic light"
+  },
+  "ಲಂಬ ಸಂಚಾರ ಬೆಳಕು": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "ಚಿಹ್ನೆಯನ್ನು ನಿಲ್ಲಿಸಿ": { "replacement": "🛑", "description": "stop sign" },
+  "ನಿರ್ಮಾಣ": { "replacement": "🚧", "description": "construction" },
+  "ಆಧಾರ": { "replacement": "⚓", "description": "anchor" },
+  "ದೋಣಿ": { "replacement": "⛴️", "description": "ferry" },
+  "ಕ್ಯಾನೋ": { "replacement": "🛶", "description": "canoe" },
+  "ವೇಗದ ದೋಣಿ": { "replacement": "🚤", "description": "speedboat" },
+  "ಪ್ರಯಾಣಿಕರ ಹಡಗು": { "replacement": "🛳️", "description": "passenger ship" },
+  "ಮೋಟಾರು ದೋಣಿ": { "replacement": "🛥️", "description": "motor boat" },
+  "ಹಡಗು": { "replacement": "🚢", "description": "ship" },
+  "ವಿಮಾನ": { "replacement": "✈️", "description": "airplane" },
+  "ಸಣ್ಣ ವಿಮಾನ": { "replacement": "🛩️", "description": "small airplane" },
+  "ವಿಮಾನ ನಿರ್ಗಮನ": { "replacement": "🛫", "description": "airplane departure" },
+  "ವಿಮಾನ ಆಗಮನ": { "replacement": "🛬", "description": "airplane arrival" },
+  "ಧುಮುಕುಕೊಡೆ": { "replacement": "🪂", "description": "parachute" },
+  "ಆಸನ": { "replacement": "💺", "description": "seat" },
+  "ಹೆಲಿಕಾಪ್ಟರ್": { "replacement": "🚁", "description": "helicopter" },
+  "ಅಮಾನತು ರೈಲ್ವೆ": { "replacement": "🚟", "description": "suspension railway" },
+  "ಪರ್ವತ ಕೇಬಲ್ ವೇ": { "replacement": "🚠", "description": "mountain cableway" },
+  "ವೈಮಾನಿಕ ಟ್ರ್ಯಾಮ್ವೇ": {
+    "replacement": "🚡",
+    "description": "aerial tramway"
+  },
+  "ಕೃತಕ ಉಪಗ್ರಹ": { "replacement": "🛰️", "description": "satellite" },
+  "ರಾಕೆಟ್": { "replacement": "🚀", "description": "rocket" },
+  "ಹಾರುವ ತಟ್ಟೆ": { "replacement": "🛸", "description": "flying saucer" },
+  "ಬೆಲ್‌ಹೋಪ್ ಬೆಲ್": { "replacement": "🛎️", "description": "bellhop bell" },
+  "ಸಾಮಾನು": { "replacement": "🧳", "description": "luggage" },
+  "ಮರಳು ಗಡಿಯಾರ": { "replacement": "⌛", "description": "hourglass done" },
+  "ಮರಳು ಗಡಿಯಾರ ಹರಿಯುವ ಮರಳು": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "ವೀಕ್ಷಿಸಿ": { "replacement": "⌚", "description": "watch" },
+  "ಅಲಾರಾಂ ಗಡಿಯಾರ": { "replacement": "⏰", "description": "alarm clock" },
+  "ಸ್ಟಾಪ್‌ವಾಚ್": { "replacement": "⏱️", "description": "stopwatch" },
+  "ಟೈಮರ್ ಗಡಿಯಾರ": { "replacement": "⏲️", "description": "timer clock" },
+  "ಮಾಂಟೆಲ್‌ಪೀಸ್ ಗಡಿಯಾರ": {
+    "replacement": "🕰️",
+    "description": "mantelpiece clock"
+  },
+  "ಗಡಿಯಾರ 12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "ಗಡಿಯಾರ 1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "ಗಡಿಯಾರ 1": { "replacement": "🕐", "description": "one o’clock" },
+  "ಗಡಿಯಾರ 130": { "replacement": "🕜", "description": "one-thirty" },
+  "ಗಡಿಯಾರ 2": { "replacement": "🕑", "description": "two o’clock" },
+  "ಗಡಿಯಾರ 230": { "replacement": "🕝", "description": "two-thirty" },
+  "ಗಡಿಯಾರ 3": { "replacement": "🕒", "description": "three o’clock" },
+  "ಗಡಿಯಾರ 330": { "replacement": "🕞", "description": "three-thirty" },
+  "ಗಡಿಯಾರ 4": { "replacement": "🕓", "description": "four o’clock" },
+  "ಗಡಿಯಾರ 430": { "replacement": "🕟", "description": "four-thirty" },
+  "ಗಡಿಯಾರ 5": { "replacement": "🕔", "description": "five o’clock" },
+  "ಗಡಿಯಾರ 530": { "replacement": "🕠", "description": "five-thirty" },
+  "ಗಡಿಯಾರ 6": { "replacement": "🕕", "description": "six o’clock" },
+  "ಗಡಿಯಾರ 630": { "replacement": "🕡", "description": "six-thirty" },
+  "ಗಡಿಯಾರ 7": { "replacement": "🕖", "description": "seven o’clock" },
+  "ಗಡಿಯಾರ 730": { "replacement": "🕢", "description": "seven-thirty" },
+  "ಗಡಿಯಾರ 8": { "replacement": "🕗", "description": "eight o’clock" },
+  "ಗಡಿಯಾರ 830": { "replacement": "🕣", "description": "eight-thirty" },
+  "ಗಡಿಯಾರ 9": { "replacement": "🕘", "description": "nine o’clock" },
+  "ಗಡಿಯಾರ 930": { "replacement": "🕤", "description": "nine-thirty" },
+  "ಗಡಿಯಾರ 10": { "replacement": "🕙", "description": "ten o’clock" },
+  "ಗಡಿಯಾರ 1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "ಗಡಿಯಾರ 11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "ಗಡಿಯಾರ 1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "ಅಮಾವಾಸ್ಯೆ": { "replacement": "🌑", "description": "new moon" },
+  "ವ್ಯಾಕ್ಸಿಂಗ್ ಅರ್ಧಚಂದ್ರ ಚಂದ್ರ": {
+    "replacement": "🌒",
+    "description": "waxing crescent moon"
+  },
+  "ಮೊದಲ ಕಾಲು ಚಂದ್ರ": {
+    "replacement": "🌓",
+    "description": "first quarter moon"
+  },
+  "ಚಂದ್ರ": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "ಪೂರ್ಣ ಚಂದ್ರ": { "replacement": "🌕", "description": "full moon" },
+  "ಕ್ಷೀಣಿಸುತ್ತಿರುವ ಗಿಬ್ಬಸ್ ಚಂದ್ರ": {
+    "replacement": "🌖",
+    "description": "waning gibbous moon"
+  },
+  "ಕೊನೆಯ ಕಾಲು ಚಂದ್ರ": {
+    "replacement": "🌗",
+    "description": "last quarter moon"
+  },
+  "ಕ್ಷೀಣಿಸುತ್ತಿರುವ ಅರ್ಧಚಂದ್ರ": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "ಅರ್ಧಚಂದ್ರ ಚಂದ್ರ": { "replacement": "🌙", "description": "crescent moon" },
+  "ಮುಖದೊಂದಿಗೆ ಅಮಾವಾಸ್ಯೆ": {
+    "replacement": "🌚",
+    "description": "new moon face"
+  },
+  "ಮುಖದೊಂದಿಗೆ ಮೊದಲ ಕಾಲು ಚಂದ್ರ": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "ಮುಖದೊಂದಿಗೆ ಕೊನೆಯ ಕಾಲು ಚಂದ್ರ": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "ಥರ್ಮಾಮೀಟರ್": { "replacement": "🌡️", "description": "thermometer" },
+  "ಬಿಸಿಲು": { "replacement": "☀️", "description": "sun" },
+  "ಮುಖದೊಂದಿಗೆ ಹುಣ್ಣಿಮೆ": {
+    "replacement": "🌝",
+    "description": "full moon face"
+  },
+  "ಮುಖದೊಂದಿಗೆ ಸೂರ್ಯ": { "replacement": "🌞", "description": "sun with face" },
+  "ರಿಂಗ್ಡ್ ಗ್ರಹ": { "replacement": "🪐", "description": "ringed planet" },
+  "ನಕ್ಷತ್ರ": { "replacement": "⭐", "description": "star" },
+  "ಸ್ಟಾರ್ 2": { "replacement": "🌟", "description": "glowing star" },
+  "ನಕ್ಷತ್ರಗಳು": { "replacement": "🌠", "description": "shooting star" },
+  "ಹಾಲುಹಾದಿ": { "replacement": "🌌", "description": "milky way" },
+  "ಮೋಡ": { "replacement": "☁️", "description": "cloud" },
+  "ಭಾಗಶಃ ಬಿಸಿಲು": { "replacement": "⛅", "description": "sun behind cloud" },
+  "ಮಿಂಚು ಮತ್ತು ಮಳೆಯೊಂದಿಗೆ ಮೋಡ": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "ಸಣ್ಣ ಮೋಡದ ಹಿಂದೆ ಸೂರ್ಯ": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "ದೊಡ್ಡ ಮೋಡದ ಹಿಂದೆ ಸೂರ್ಯ": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "ಮಳೆ ಮೋಡದ ಹಿಂದೆ ಸೂರ್ಯ": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "ಮಳೆಯೊಂದಿಗೆ ಮೋಡ": { "replacement": "🌧️", "description": "cloud with rain" },
+  "ಹಿಮದಿಂದ ಮೋಡ": { "replacement": "🌨️", "description": "cloud with snow" },
+  "ಮಿಂಚಿನ ಮೋಡ": { "replacement": "🌩️", "description": "cloud with lightning" },
+  "ಸುಂಟರಗಾಳಿ": { "replacement": "🌪️", "description": "tornado" },
+  "ಮಂಜು": { "replacement": "🌫️", "description": "fog" },
+  "ಗಾಳಿ ಮುಖ": { "replacement": "🌬️", "description": "wind face" },
+  "ಚಂಡಮಾರುತ": { "replacement": "🌀", "description": "cyclone" },
+  "ಮಳೆಬಿಲ್ಲು": { "replacement": "🌈", "description": "rainbow" },
+  "ಮುಚ್ಚಿದ .ತ್ರಿ": { "replacement": "🌂", "description": "closed umbrella" },
+  "ತೆರೆದ umb ತ್ರಿ": { "replacement": "☂️", "description": "umbrella" },
+  ".ತ್ರಿ": { "replacement": "☔", "description": "umbrella with rain drops" },
+  "ಪ್ಯಾರಾಸೋಲ್ ನೆಲದ ಮೇಲೆ": {
+    "replacement": "⛱️",
+    "description": "umbrella on ground"
+  },
+  "ಜ್ಯಾಪ್": { "replacement": "⚡", "description": "high voltage" },
+  "ಸ್ನೋಫ್ಲೇಕ್": { "replacement": "❄️", "description": "snowflake" },
+  "ಹಿಮದೊಂದಿಗೆ ಹಿಮಮಾನವ": { "replacement": "☃️", "description": "snowman" },
+  "ಹಿಮಮಾನವ": { "replacement": "⛄", "description": "snowman without snow" },
+  "ಧೂಮಕೇತು": { "replacement": "☄️", "description": "comet" },
+  "ಬೆಂಕಿ": { "replacement": "🔥", "description": "fire" },
+  "ಹನಿ": { "replacement": "💧", "description": "droplet" },
+  "ಸಾಗರ": { "replacement": "🌊", "description": "water wave" },
+  "ಜ್ಯಾಕ್ ಒ ಲ್ಯಾಂಟರ್ನ್": {
+    "replacement": "🎃",
+    "description": "jack-o-lantern"
+  },
+  "ಕ್ರಿಸ್ಮಸ್ ಮರ": { "replacement": "🎄", "description": "Christmas tree" },
+  "ಪಟಾಕಿ": { "replacement": "🧨", "description": "firecracker" },
+  "ಸ್ಪಾರ್ಕ್ಲರ್": { "replacement": "🎇", "description": "sparkler" },
+  "ಮಿಂಚುತ್ತದೆ": { "replacement": "✨", "description": "sparkles" },
+  "ಬಲೂನ್": { "replacement": "🎈", "description": "balloon" },
+  "ತಡ": { "replacement": "🎉", "description": "party popper" },
+  "ಕಾನ್ಫೆಟ್ಟಿ ಬಾಲ್": { "replacement": "🎊", "description": "confetti ball" },
+  "ತನಬಾಟ ಮರ": { "replacement": "🎋", "description": "tanabata tree" },
+  "ಬಿದಿರು": { "replacement": "🎍", "description": "pine decoration" },
+  "ಗೊಂಬೆಗಳು": { "replacement": "🎎", "description": "Japanese dolls" },
+  "ಧ್ವಜಗಳು": { "replacement": "🎏", "description": "carp streamer" },
+  "ವಿಂಡ್ ಚೈಮ್": { "replacement": "🎐", "description": "wind chime" },
+  "ಅಕ್ಕಿ ದೃಶ್ಯ": {
+    "replacement": "🎑",
+    "description": "moon viewing ceremony"
+  },
+  "ಕೆಂಪು ಹೊದಿಕೆ": { "replacement": "🧧", "description": "red envelope" },
+  "ರಿಬ್ಬನ್": { "replacement": "🎀", "description": "ribbon" },
+  "ಉಡುಗೊರೆ": { "replacement": "🎁", "description": "wrapped gift" },
+  "ಜ್ಞಾಪನೆ ರಿಬ್ಬನ್": { "replacement": "🎗️", "description": "reminder ribbon" },
+  "ಟಿಕೆಟ್": { "replacement": "🎫", "description": "ticket" },
+  "ಪದಕ ಮಿಲಿಟರಿ": { "replacement": "🎖️", "description": "military medal" },
+  "ಟ್ರೋಫಿ": { "replacement": "🏆", "description": "trophy" },
+  "ಪದಕ ಕ್ರೀಡೆ": { "replacement": "🏅", "description": "sports medal" },
+  "1 ನೇ ಸ್ಥಾನದ ಪದಕ": { "replacement": "🥇", "description": "1st place medal" },
+  "2 ನೇ ಸ್ಥಾನದ ಪದಕ": { "replacement": "🥈", "description": "2nd place medal" },
+  "3 ನೇ ಸ್ಥಾನದ ಪದಕ": { "replacement": "🥉", "description": "3rd place medal" },
+  "ಸಾಕರ್": { "replacement": "⚽", "description": "soccer ball" },
+  "ಬೇಸ್ಬಾಲ್": { "replacement": "⚾", "description": "baseball" },
+  "ಸಾಫ್ಟ್‌ಬಾಲ್": { "replacement": "🥎", "description": "softball" },
+  "ಬ್ಯಾಸ್ಕೆಟ್‌ಬಾಲ್": { "replacement": "🏀", "description": "basketball" },
+  "ವಾಲಿಬಾಲ್": { "replacement": "🏐", "description": "volleyball" },
+  "ಫುಟ್ಬಾಲ್": { "replacement": "🏈", "description": "american football" },
+  "ರಗ್ಬಿ ಫುಟ್ಬಾಲ್": { "replacement": "🏉", "description": "rugby football" },
+  "ಟೆನಿಸ್": { "replacement": "🎾", "description": "tennis" },
+  "ಫ್ಲೈಯಿಂಗ್ ಡಿಸ್ಕ್": { "replacement": "🥏", "description": "flying disc" },
+  "ಬೌಲಿಂಗ್": { "replacement": "🎳", "description": "bowling" },
+  "ಕ್ರಿಕೆಟ್ ಆಟ": { "replacement": "🏏", "description": "cricket game" },
+  "ಫೀಲ್ಡ್ ಹಾಕಿ": { "replacement": "🏑", "description": "field hockey" },
+  "ಐಸ್ ಹಾಕಿ": { "replacement": "🏒", "description": "ice hockey" },
+  "ಲ್ಯಾಕ್ರೋಸ್": { "replacement": "🥍", "description": "lacrosse" },
+  "ಪಿಂಗ್ ಪಾಂಗ್": { "replacement": "🏓", "description": "ping pong" },
+  "ಬ್ಯಾಡ್ಮಿಂಟನ್": { "replacement": "🏸", "description": "badminton" },
+  "ಬಾಕ್ಸಿಂಗ್ ಕೈಗವಸು": { "replacement": "🥊", "description": "boxing glove" },
+  "ಸಮರ ಕಲೆಗಳ ಸಮವಸ್ತ್ರ": {
+    "replacement": "🥋",
+    "description": "martial arts uniform"
+  },
+  "ಗೋಲ್ ನೆಟ್": { "replacement": "🥅", "description": "goal net" },
+  "ಗಾಲ್ಫ್": { "replacement": "⛳", "description": "flag in hole" },
+  "ಮಂಜಿನ ಜಾರಾಟ": { "replacement": "⛸️", "description": "ice skate" },
+  "ಮೀನುಗಾರಿಕೆ ಕಂಬ ಮತ್ತು ಮೀನು": {
+    "replacement": "🎣",
+    "description": "fishing pole"
+  },
+  "ಡೈವಿಂಗ್ ಮಾಸ್ಕ್": { "replacement": "🤿", "description": "diving mask" },
+  "ಸ್ಯಾಶ್ನೊಂದಿಗೆ ಚಾಲನೆಯಲ್ಲಿರುವ ಶರ್ಟ್": {
+    "replacement": "🎽",
+    "description": "running shirt"
+  },
+  "ಸ್ಕೀ": { "replacement": "🎿", "description": "skis" },
+  "ಸ್ಲೆಡ್": { "replacement": "🛷", "description": "sled" },
+  "ಕರ್ಲಿಂಗ್ ಕಲ್ಲು": { "replacement": "🥌", "description": "curling stone" },
+  "ಡಾರ್ಟ್": { "replacement": "🎯", "description": "direct hit" },
+  "ಯೋ ಯೋ": { "replacement": "🪀", "description": "yo-yo" },
+  "ಗಾಳಿಪಟ": { "replacement": "🪁", "description": "kite" },
+  "8 ಬಾಲ್": { "replacement": "🎱", "description": "pool 8 ball" },
+  "ಹರಳಿನ ಚೆಂಡು": { "replacement": "🔮", "description": "crystal ball" },
+  "ಮಂತ್ರ ದಂಡ": { "replacement": "🪄", "description": "magic wand" },
+  "ನಜರ್ ತಾಯತ": { "replacement": "🧿", "description": "nazar amulet" },
+  "ವಿಡಿಯೋ ಗೇಮ್": { "replacement": "🎮", "description": "video game" },
+  "ಜಾಯ್‌ಸ್ಟಿಕ್": { "replacement": "🕹️", "description": "joystick" },
+  "ಸ್ಲಾಟ್ ಯಂತ್ರ": { "replacement": "🎰", "description": "slot machine" },
+  "ಆಟ ಸಾಯುತ್ತದೆ": { "replacement": "🎲", "description": "game die" },
+  "ಜಿಗ್ಸಾ": { "replacement": "🧩", "description": "puzzle piece" },
+  "ಮಗುವಿನ ಆಟದ ಕರಡಿ": { "replacement": "🧸", "description": "teddy bear" },
+  "ಪಿನಾಟಾ": { "replacement": "🪅", "description": "piñata" },
+  "ಗೂಡುಕಟ್ಟುವ ಗೊಂಬೆಗಳು": { "replacement": "🪆", "description": "nesting dolls" },
+  "ಸ್ಪೇಡ್ಸ್": { "replacement": "♠️", "description": "spade suit" },
+  "ಹೃದಯಗಳು": { "replacement": "♥️", "description": "heart suit" },
+  "ವಜ್ರಗಳು": { "replacement": "♦️", "description": "diamond suit" },
+  "ಕ್ಲಬ್‌ಗಳು": { "replacement": "♣️", "description": "club suit" },
+  "ಚೆಸ್ ಪ್ಯಾದೆಯು": { "replacement": "♟️", "description": "chess pawn" },
+  "ಕಪ್ಪು ಜೋಕರ್": { "replacement": "🃏", "description": "joker" },
+  "ಮಹ್ಜಾಂಗ್": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "ಹೂವಿನ ಇಸ್ಪೀಟೆಲೆಗಳು": {
+    "replacement": "🎴",
+    "description": "flower playing cards"
+  },
+  "ಕಲೆ ಪ್ರದರ್ಶನ": { "replacement": "🎭", "description": "performing arts" },
+  "ಚೌಕಟ್ಟಿನ ಚಿತ್ರ": { "replacement": "🖼️", "description": "framed picture" },
+  "ಕಲೆ": { "replacement": "🎨", "description": "artist palette" },
+  "ಎಳೆ": { "replacement": "🧵", "description": "thread" },
+  "ಹೊಲಿಗೆ ಸೂಜಿ": { "replacement": "🪡", "description": "sewing needle" },
+  "ನೂಲು": { "replacement": "🧶", "description": "yarn" },
+  "ಗಂಟು": { "replacement": "🪢", "description": "knot" },
+  "ಕನ್ನಡಕ": { "replacement": "👓", "description": "glasses" },
+  "ಡಾರ್ಕ್ ಸನ್ಗ್ಲಾಸ್": { "replacement": "🕶️", "description": "sunglasses" },
+  "ಕನ್ನಡಕಗಳು": { "replacement": "🥽", "description": "goggles" },
+  "ಲ್ಯಾಬ್ ಕೋಟ್": { "replacement": "🥼", "description": "lab coat" },
+  "ಸುರಕ್ಷತಾ ಉಡುಪು": { "replacement": "🦺", "description": "safety vest" },
+  "ಕುತ್ತಿಗೆ": { "replacement": "👔", "description": "necktie" },
+  "ಅಂಗಿ": { "replacement": "👕", "description": "t-shirt" },
+  "ಜೀನ್ಸ್": { "replacement": "👖", "description": "jeans" },
+  "ಸ್ಕಾರ್ಫ್": { "replacement": "🧣", "description": "scarf" },
+  "ಕೈಗವಸುಗಳು": { "replacement": "🧤", "description": "gloves" },
+  "ಕೋಟ್": { "replacement": "🧥", "description": "coat" },
+  "ಸಾಕ್ಸ್": { "replacement": "🧦", "description": "socks" },
+  "ಉಡುಗೆ": { "replacement": "👗", "description": "dress" },
+  "ಕಿಮೋನೊ": { "replacement": "👘", "description": "kimono" },
+  "ಸೀರೆ": { "replacement": "🥻", "description": "sari" },
+  "ಒಂದು ತುಂಡು ಈಜುಡುಗೆ": {
+    "replacement": "🩱",
+    "description": "one-piece swimsuit"
+  },
+  "ಸಂಕ್ಷಿಪ್ತವಾಗಿ ಈಜುತ್ತವೆ": { "replacement": "🩲", "description": "briefs" },
+  "ಕಿರುಚಿತ್ರಗಳು": { "replacement": "🩳", "description": "shorts" },
+  "ಬಿಕಿನಿ": { "replacement": "👙", "description": "bikini" },
+  "ಮಹಿಳೆಯರ ಬಟ್ಟೆ": { "replacement": "👚", "description": "woman’s clothes" },
+  "ಪರ್ಸ್": { "replacement": "👛", "description": "purse" },
+  "ಕೈಚೀಲ": { "replacement": "👜", "description": "handbag" },
+  "ಚೀಲ": { "replacement": "👝", "description": "clutch bag" },
+  "ಶಾಪಿಂಗ್": { "replacement": "🛍️", "description": "shopping bags" },
+  "ಶಾಲಾ ಸ್ಯಾಚೆಲ್": { "replacement": "🎒", "description": "backpack" },
+  "ತೊಂಗ್ ಸ್ಯಾಂಡಲ್": { "replacement": "🩴", "description": "thong sandal" },
+  "ಮ್ಯಾನ್ಸ್ ಶೂ": { "replacement": "👞", "description": "man’s shoe" },
+  "ಅಥ್ಲೆಟಿಕ್ ಶೂ": { "replacement": "👟", "description": "running shoe" },
+  "ಪಾದಯಾತ್ರೆಯ ಬೂಟ್": { "replacement": "🥾", "description": "hiking boot" },
+  "ಫ್ಲಾಟ್ ಶೂ": { "replacement": "🥿", "description": "flat shoe" },
+  "ಎತ್ತರದ ಹಿಮ್ಮಡಿ": { "replacement": "👠", "description": "high-heeled shoe" },
+  "ಸ್ಯಾಂಡಲ್": { "replacement": "👡", "description": "woman’s sandal" },
+  "ಬ್ಯಾಲೆ ಶೂಗಳು": { "replacement": "🩰", "description": "ballet shoes" },
+  "ಬೂಟ್": { "replacement": "👢", "description": "woman’s boot" },
+  "ಕಿರೀಟ": { "replacement": "👑", "description": "crown" },
+  "ಮಹಿಳೆಯರ ಟೋಪಿ": { "replacement": "👒", "description": "woman’s hat" },
+  "ಟಾಪ್ಹ್ಯಾಟ್": { "replacement": "🎩", "description": "top hat" },
+  "ಗಾರೆ ಬೋರ್ಡ್": { "replacement": "🎓", "description": "graduation cap" },
+  "ಬಿಲ್ ಮಾಡಿದ ಕ್ಯಾಪ್": { "replacement": "🧢", "description": "billed cap" },
+  "ಮಿಲಿಟರಿ ಹೆಲ್ಮೆಟ್": { "replacement": "🪖", "description": "military helmet" },
+  "ಪಾರುಗಾಣಿಕಾ ಕಾರ್ಮಿಕ ಹೆಲ್ಮೆಟ್": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "ಪ್ರಾರ್ಥನೆ ಮಣಿಗಳು": { "replacement": "📿", "description": "prayer beads" },
+  "ಲಿಪ್ಸ್ಟಿಕ್": { "replacement": "💄", "description": "lipstick" },
+  "ರಿಂಗ್": { "replacement": "💍", "description": "ring" },
+  "ರತ್ನ": { "replacement": "💎", "description": "gem stone" },
+  "ಮ್ಯೂಟ್ ಮಾಡಿ": { "replacement": "🔇", "description": "muted speaker" },
+  "ಸ್ಪೀಕರ್": { "replacement": "🔈", "description": "speaker low volume" },
+  "ಧ್ವನಿ": { "replacement": "🔉", "description": "speaker medium volume" },
+  "ದೊಡ್ಡ ಧ್ವನಿ": { "replacement": "🔊", "description": "speaker high volume" },
+  "ಧ್ವನಿವರ್ಧಕ": { "replacement": "📢", "description": "loudspeaker" },
+  "ಮೆಗಾ": { "replacement": "📣", "description": "megaphone" },
+  "ಅಂಚೆ ಕೊಂಬು": { "replacement": "📯", "description": "postal horn" },
+  "ಗಂಟೆ": { "replacement": "🔔", "description": "bell" },
+  "ಗಂಟೆ ಇಲ್ಲ": { "replacement": "🔕", "description": "bell with slash" },
+  "ಸಂಗೀತ ಸ್ಕೋರ್": { "replacement": "🎼", "description": "musical score" },
+  "ಸಂಗೀತ ಟಿಪ್ಪಣಿ": { "replacement": "🎵", "description": "musical note" },
+  "ಟಿಪ್ಪಣಿಗಳು": { "replacement": "🎶", "description": "musical notes" },
+  "ಸ್ಟುಡಿಯೋ ಮೈಕ್ರೊಫೋನ್": {
+    "replacement": "🎙️",
+    "description": "studio microphone"
+  },
+  "ಮಟ್ಟದ ಸ್ಲೈಡರ್": { "replacement": "🎚️", "description": "level slider" },
+  "ನಿಯಂತ್ರಣ ಗುಬ್ಬಿಗಳು": { "replacement": "🎛️", "description": "control knobs" },
+  "ಮೈಕ್ರೊಫೋನ್": { "replacement": "🎤", "description": "microphone" },
+  "ಹೆಡ್‌ಫೋನ್‌ಗಳು": { "replacement": "🎧", "description": "headphone" },
+  "ರೇಡಿಯೋ": { "replacement": "📻", "description": "radio" },
+  "ಸ್ಯಾಕ್ಸೋಫೋನ್": { "replacement": "🎷", "description": "saxophone" },
+  "ಅಕಾರ್ಡಿಯನ್": { "replacement": "🪗", "description": "accordion" },
+  "ಗಿಟಾರ್": { "replacement": "🎸", "description": "guitar" },
+  "ಸಂಗೀತ ಕೀಬೋರ್ಡ್": { "replacement": "🎹", "description": "musical keyboard" },
+  "ಕಹಳೆ": { "replacement": "🎺", "description": "trumpet" },
+  "ಪಿಟೀಲು": { "replacement": "🎻", "description": "violin" },
+  "ಬ್ಯಾಂಜೊ": { "replacement": "🪕", "description": "banjo" },
+  "ಡ್ರಮ್": { "replacement": "🥁", "description": "drum" },
+  "ಉದ್ದ ಡ್ರಮ್": { "replacement": "🪘", "description": "long drum" },
+  "ಐಫೋನ್": { "replacement": "📱", "description": "mobile phone" },
+  "ಕರೆ": { "replacement": "📲", "description": "mobile phone with arrow" },
+  "ದೂರವಾಣಿ": { "replacement": "☎️", "description": "telephone" },
+  "ದೂರವಾಣಿ ರಿಸೀವರ್": {
+    "replacement": "📞",
+    "description": "telephone receiver"
+  },
+  "ಪೇಜರ್": { "replacement": "📟", "description": "pager" },
+  "ಫ್ಯಾಕ್ಸ್": { "replacement": "📠", "description": "fax machine" },
+  "ಬ್ಯಾಟರಿ": { "replacement": "🔦", "description": "flashlight" },
+  "ವಿದ್ಯುತ್ ಪ್ಲಗ್": { "replacement": "🔌", "description": "electric plug" },
+  "ಕಂಪ್ಯೂಟರ್": { "replacement": "💻", "description": "laptop" },
+  "ಡೆಸ್ಕ್ಟಾಪ್ ಕಂಪ್ಯೂಟರ್": {
+    "replacement": "🖥️",
+    "description": "desktop computer"
+  },
+  "ಮುದ್ರಕ": { "replacement": "🖨️", "description": "printer" },
+  "ಕೀಬೋರ್ಡ್": { "replacement": "⌨️", "description": "keyboard" },
+  "ಕಂಪ್ಯೂಟರ್ ಮೌಸ್": { "replacement": "🖱️", "description": "computer mouse" },
+  "ಟ್ರ್ಯಾಕ್ಬಾಲ್": { "replacement": "🖲️", "description": "trackball" },
+  "ಮಿನಿಡಿಸ್ಕ್": { "replacement": "💽", "description": "computer disk" },
+  "ಫ್ಲಾಪಿ ಡಿಸ್ಕ್": { "replacement": "💾", "description": "floppy disk" },
+  "ಸಿಡಿ": { "replacement": "💿", "description": "optical disk" },
+  "ಡಿವಿಡಿ": { "replacement": "📀", "description": "dvd" },
+  "ಅಬ್ಯಾಕಸ್": { "replacement": "🧮", "description": "abacus" },
+  "ಚಲನಚಿತ್ರ ಕ್ಯಾಮೆರಾ": { "replacement": "🎥", "description": "movie camera" },
+  "ಫಿಲ್ಮ್ ಸ್ಟ್ರಿಪ್": { "replacement": "🎞️", "description": "film frames" },
+  "ಫಿಲ್ಮ್ ಪ್ರೊಜೆಕ್ಟರ್": {
+    "replacement": "📽️",
+    "description": "film projector"
+  },
+  "ಟಿವಿ": { "replacement": "📺", "description": "television" },
+  "ಕ್ಯಾಮೆರಾ": { "replacement": "📷", "description": "camera" },
+  "ಕ್ಯಾಮೆರಾ ಫ್ಲ್ಯಾಷ್": {
+    "replacement": "📸",
+    "description": "camera with flash"
+  },
+  "ವೀಡಿಯೊ ಕ್ಯಾಮೆರಾ": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "ಮ್ಯಾಗ್": {
+    "replacement": "🔍",
+    "description": "magnifying glass tilted left"
+  },
+  "ಮ್ಯಾಗ್ ಬಲ": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "ಮೋಂಬತ್ತಿ": { "replacement": "🕯️", "description": "candle" },
+  "ಬಲ್ಬ್": { "replacement": "💡", "description": "light bulb" },
+  "izakaya ಲ್ಯಾಂಟರ್ನ್": {
+    "replacement": "🏮",
+    "description": "red paper lantern"
+  },
+  "ದಿಯಾ ದೀಪ": { "replacement": "🪔", "description": "diya lamp" },
+  "ಅಲಂಕಾರಿಕ ಹೊದಿಕೆಯೊಂದಿಗೆ ನೋಟ್ಬುಕ್": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "ಮುಚ್ಚಿದ ಪುಸ್ತಕ": { "replacement": "📕", "description": "closed book" },
+  "ಪುಸ್ತಕ": { "replacement": "📖", "description": "open book" },
+  "ಹಸಿರು ಪುಸ್ತಕ": { "replacement": "📗", "description": "green book" },
+  "ನೀಲಿ ಪುಸ್ತಕ": { "replacement": "📘", "description": "blue book" },
+  "ಕಿತ್ತಳೆ ಪುಸ್ತಕ": { "replacement": "📙", "description": "orange book" },
+  "ಪುಸ್ತಕಗಳು": { "replacement": "📚", "description": "books" },
+  "ನೋಟ್ಬುಕ್": { "replacement": "📓", "description": "notebook" },
+  "ಖಾತಾ ಪುಸ್ತಕ": { "replacement": "📒", "description": "ledger" },
+  "ಸುರುಳಿಯೊಂದಿಗೆ ಪುಟ": { "replacement": "📃", "description": "page with curl" },
+  "ಸ್ಕ್ರಾಲ್": { "replacement": "📜", "description": "scroll" },
+  "ಪುಟ ಎದುರಿಸುತ್ತಿದೆ": { "replacement": "📄", "description": "page facing up" },
+  "ಪತ್ರಿಕೆ": { "replacement": "📰", "description": "newspaper" },
+  "ಪತ್ರಿಕೆ ರೋಲ್": { "replacement": "🗞️", "description": "rolled-up newspaper" },
+  "ಬುಕ್ಮಾರ್ಕ್ ಟ್ಯಾಬ್ಗಳು": {
+    "replacement": "📑",
+    "description": "bookmark tabs"
+  },
+  "ಬುಕ್ಮಾರ್ಕ್": { "replacement": "🔖", "description": "bookmark" },
+  "ಲೇಬಲ್": { "replacement": "🏷️", "description": "label" },
+  "ಮನಿಬ್ಯಾಗ್": { "replacement": "💰", "description": "money bag" },
+  "ನಾಣ್ಯ": { "replacement": "🪙", "description": "coin" },
+  "ಯೆನ್": { "replacement": "💴", "description": "yen banknote" },
+  "ಡಾಲರ್": { "replacement": "💵", "description": "dollar banknote" },
+  "ಯೂರೋ": { "replacement": "💶", "description": "euro banknote" },
+  "ಪೌಂಡ್": { "replacement": "💷", "description": "pound banknote" },
+  "ರೆಕ್ಕೆಗಳಿಂದ ಹಣ": { "replacement": "💸", "description": "money with wings" },
+  "ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್": { "replacement": "💳", "description": "credit card" },
+  "ರಶೀದಿ": { "replacement": "🧾", "description": "receipt" },
+  "ಚಾರ್ಟ್": { "replacement": "💹", "description": "chart increasing with yen" },
+  "ಇಮೇಲ್": { "replacement": "✉️", "description": "envelope" },
+  "ಇ-ಮೇಲ್": { "replacement": "📧", "description": "e-mail" },
+  "ಒಳಬರುವ ಹೊದಿಕೆ": { "replacement": "📨", "description": "incoming envelope" },
+  "ಬಾಣದೊಂದಿಗೆ ಹೊದಿಕೆ": {
+    "replacement": "📩",
+    "description": "envelope with arrow"
+  },
+  "box ಟ್‌ಬಾಕ್ಸ್ ಟ್ರೇ": { "replacement": "📤", "description": "outbox tray" },
+  "ಇನ್‌ಬಾಕ್ಸ್ ಟ್ರೇ": { "replacement": "📥", "description": "inbox tray" },
+  "ಪ್ಯಾಕೇಜ್": { "replacement": "📦", "description": "package" },
+  "ಮೇಲ್ಬಾಕ್ಸ್": {
+    "replacement": "📫",
+    "description": "closed mailbox with raised flag"
+  },
+  "ಮೇಲ್ಬಾಕ್ಸ್ ಮುಚ್ಚಲಾಗಿದೆ": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "ಮೇಲ್ ಹೊಂದಿರುವ ಮೇಲ್ಬಾಕ್ಸ್": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "ಮೇಲ್ ಇಲ್ಲದ ಮೇಲ್ಬಾಕ್ಸ್": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "ಅಂಚೆ ಪೆಟ್ಟಿಗೆ": { "replacement": "📮", "description": "postbox" },
+  "ಮತಪೆಟ್ಟಿಗೆ": {
+    "replacement": "🗳️",
+    "description": "ballot box with ballot"
+  },
+  "ಪೆನ್ಸಿಲ್ 2": { "replacement": "✏️", "description": "pencil" },
+  "ಕಪ್ಪು ನಿಬ್": { "replacement": "✒️", "description": "black nib" },
+  "ಕಾರಂಜಿ ಪೆನ್": { "replacement": "🖋️", "description": "fountain pen" },
+  "ಪೆನ್": { "replacement": "🖊️", "description": "pen" },
+  "ಬಣ್ಣದ ಕುಂಚ": { "replacement": "🖌️", "description": "paintbrush" },
+  "ಬಳಪ": { "replacement": "🖍️", "description": "crayon" },
+  "ಜ್ಞಾಪಕ": { "replacement": "📝", "description": "memo" },
+  "ಬ್ರೀಫ್ಕೇಸ್": { "replacement": "💼", "description": "briefcase" },
+  "ಫೈಲ್ ಫೋಲ್ಡರ್": { "replacement": "📁", "description": "file folder" },
+  "ಫೈಲ್ ಫೋಲ್ಡರ್ ತೆರೆಯಿರಿ": {
+    "replacement": "📂",
+    "description": "open file folder"
+  },
+  "ಕಾರ್ಡ್ ಸೂಚ್ಯಂಕ ವಿಭಾಜಕಗಳು": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "ದಿನಾಂಕ": { "replacement": "📅", "description": "calendar" },
+  "ಕ್ಯಾಲೆಂಡರ್": { "replacement": "📆", "description": "tear-off calendar" },
+  "ಸುರುಳಿಯಾಕಾರದ ನೋಟ್‌ಪ್ಯಾಡ್": {
+    "replacement": "🗒️",
+    "description": "spiral notepad"
+  },
+  "ಸುರುಳಿಯಾಕಾರದ ಕ್ಯಾಲೆಂಡರ್": {
+    "replacement": "🗓️",
+    "description": "spiral calendar"
+  },
+  "ಕಾರ್ಡ್ ಸೂಚ್ಯಂಕ": { "replacement": "📇", "description": "card index" },
+  "ಮೇಲ್ಮುಖ ಪ್ರವೃತ್ತಿಯೊಂದಿಗೆ ಚಾರ್ಟ್": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "ಕೆಳಮುಖ ಪ್ರವೃತ್ತಿಯೊಂದಿಗೆ ಚಾರ್ಟ್": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "ಬಾರ್ ಚಾರ್ಟ್": { "replacement": "📊", "description": "bar chart" },
+  "ಕ್ಲಿಪ್ಬೋರ್ಡ್": { "replacement": "📋", "description": "clipboard" },
+  "ಪುಶ್ಪಿನ್": { "replacement": "📌", "description": "pushpin" },
+  "ಸುತ್ತಿನ ಪುಷ್ಪಿನ್": { "replacement": "📍", "description": "round pushpin" },
+  "ಕಾಗದ ಹಿಡಿಕೆ": { "replacement": "📎", "description": "paperclip" },
+  "ಪೇಪರ್ಕ್ಲಿಪ್ಸ್": { "replacement": "🖇️", "description": "linked paperclips" },
+  "ನೇರ ಆಡಳಿತಗಾರ": { "replacement": "📏", "description": "straight ruler" },
+  "ತ್ರಿಕೋನ ಆಡಳಿತಗಾರ": {
+    "replacement": "📐",
+    "description": "triangular ruler"
+  },
+  "ಕತ್ತರಿ": { "replacement": "✂️", "description": "scissors" },
+  "ಕಾರ್ಡ್ ಫೈಲ್ ಬಾಕ್ಸ್": { "replacement": "🗃️", "description": "card file box" },
+  "ಫೈಲ್ ಕ್ಯಾಬಿನೆಟ್": { "replacement": "🗄️", "description": "file cabinet" },
+  "ತ್ಯಾಜ್ಯ ಬಾಸ್ಕೆಟ್": { "replacement": "🗑️", "description": "wastebasket" },
+  "ಲಾಕ್": { "replacement": "🔒", "description": "locked" },
+  "ಅನ್ಲಾಕ್ ಮಾಡಿ": { "replacement": "🔓", "description": "unlocked" },
+  "ಇಂಕ್ ಪೆನ್ನೊಂದಿಗೆ ಲಾಕ್ ಮಾಡಿ": {
+    "replacement": "🔏",
+    "description": "locked with pen"
+  },
+  "ಕೀಲಿಯೊಂದಿಗೆ ಮುಚ್ಚಿದ ಲಾಕ್": {
+    "replacement": "🔐",
+    "description": "locked with key"
+  },
+  "ಕೀ": { "replacement": "🔑", "description": "key" },
+  "ಹಳೆಯ ಕೀ": { "replacement": "🗝️", "description": "old key" },
+  "ಸುತ್ತಿಗೆ": { "replacement": "🔨", "description": "hammer" },
+  "ಕೊಡಲಿ": { "replacement": "🪓", "description": "axe" },
+  "ಆಯ್ಕೆ": { "replacement": "⛏️", "description": "pick" },
+  "ಸುತ್ತಿಗೆ ಮತ್ತು ಆರಿಸಿ": {
+    "replacement": "⚒️",
+    "description": "hammer and pick"
+  },
+  "ಸುತ್ತಿಗೆ ಮತ್ತು ವ್ರೆಂಚ್": {
+    "replacement": "🛠️",
+    "description": "hammer and wrench"
+  },
+  "ಕಠಾರಿ": { "replacement": "🗡️", "description": "dagger" },
+  "ಕತ್ತರಿಸಿದ ಕತ್ತಿಗಳು": {
+    "replacement": "⚔️",
+    "description": "crossed swords"
+  },
+  "ಗನ್": { "replacement": "🔫", "description": "pistol" },
+  "ಬೂಮರಾಂಗ್": { "replacement": "🪃", "description": "boomerang" },
+  "ಬಿಲ್ಲು ಬಾಣ": { "replacement": "🏹", "description": "bow and arrow" },
+  "ಗುರಾಣಿ": { "replacement": "🛡️", "description": "shield" },
+  "ಮರಗೆಲಸ ಗರಗಸ": { "replacement": "🪚", "description": "carpentry saw" },
+  "ವ್ರೆಂಚ್": { "replacement": "🔧", "description": "wrench" },
+  "ಸ್ಕ್ರೂಡ್ರೈವರ್": { "replacement": "🪛", "description": "screwdriver" },
+  "ಕಾಯಿ ಮತ್ತು ಬೋಲ್ಟ್": { "replacement": "🔩", "description": "nut and bolt" },
+  "ಗೇರ್": { "replacement": "⚙️", "description": "gear" },
+  "ಕ್ಲಾಂಪ್": { "replacement": "🗜️", "description": "clamp" },
+  "ಬ್ಯಾಲೆನ್ಸ್ ಸ್ಕೇಲ್": { "replacement": "⚖️", "description": "balance scale" },
+  "ಕಬ್ಬಿನ ತನಿಖೆ": { "replacement": "🦯", "description": "white cane" },
+  "ಲಿಂಕ್": { "replacement": "🔗", "description": "link" },
+  "ಸರಪಳಿಗಳು": { "replacement": "⛓️", "description": "chains" },
+  "ಕೊಕ್ಕೆ": { "replacement": "🪝", "description": "hook" },
+  "ಟೂಲ್ಬಾಕ್ಸ್": { "replacement": "🧰", "description": "toolbox" },
+  "ಮ್ಯಾಗ್ನೆಟ್": { "replacement": "🧲", "description": "magnet" },
+  "ಏಣಿ": { "replacement": "🪜", "description": "ladder" },
+  "ಅಲೆಂಬಿಕ್": { "replacement": "⚗️", "description": "alembic" },
+  "ಪ್ರನಾಳ": { "replacement": "🧪", "description": "test tube" },
+  "ಪೆಟ್ರಿ ಖಾದ್ಯ": { "replacement": "🧫", "description": "petri dish" },
+  "dna": { "replacement": "🧬", "description": "dna" },
+  "ಸೂಕ್ಷ್ಮದರ್ಶಕ": { "replacement": "🔬", "description": "microscope" },
+  "ದೂರದರ್ಶಕ": { "replacement": "🔭", "description": "telescope" },
+  "ಉಪಗ್ರಹ": { "replacement": "📡", "description": "satellite antenna" },
+  "ಸಿರಿಂಜ್": { "replacement": "💉", "description": "syringe" },
+  "ರಕ್ತದ ಹನಿ": { "replacement": "🩸", "description": "drop of blood" },
+  "ಮಾತ್ರೆ": { "replacement": "💊", "description": "pill" },
+  "ಅಂಟಿಕೊಳ್ಳುವ ಬ್ಯಾಂಡೇಜ್": {
+    "replacement": "🩹",
+    "description": "adhesive bandage"
+  },
+  "ಸ್ಟೆತೊಸ್ಕೋಪ್": { "replacement": "🩺", "description": "stethoscope" },
+  "ಬಾಗಿಲು": { "replacement": "🚪", "description": "door" },
+  "ಎಲಿವೇಟರ್": { "replacement": "🛗", "description": "elevator" },
+  "ಕನ್ನಡಿ": { "replacement": "🪞", "description": "mirror" },
+  "ಕಿಟಕಿ": { "replacement": "🪟", "description": "window" },
+  "ಹಾಸಿಗೆ": { "replacement": "🛏️", "description": "bed" },
+  "ಮಂಚ ಮತ್ತು ದೀಪ": { "replacement": "🛋️", "description": "couch and lamp" },
+  "ಕುರ್ಚಿ": { "replacement": "🪑", "description": "chair" },
+  "ಶೌಚಾಲಯ": { "replacement": "🚽", "description": "toilet" },
+  "ಪ್ಲಂಗರ್": { "replacement": "🪠", "description": "plunger" },
+  "ಶವರ್": { "replacement": "🚿", "description": "shower" },
+  "ಸ್ನಾನದತೊಟ್ಟಿ": { "replacement": "🛁", "description": "bathtub" },
+  "ಮೌಸ್ ಬಲೆ": { "replacement": "🪤", "description": "mouse trap" },
+  "ರೇಜರ್": { "replacement": "🪒", "description": "razor" },
+  "ಲೋಷನ್ ಬಾಟಲ್": { "replacement": "🧴", "description": "lotion bottle" },
+  "ಸುರಕ್ಷತಾ ಪಿನ್": { "replacement": "🧷", "description": "safety pin" },
+  "ಬ್ರೂಮ್": { "replacement": "🧹", "description": "broom" },
+  "ಬುಟ್ಟಿ": { "replacement": "🧺", "description": "basket" },
+  "ಕಾಗದದ ರೋಲ್": { "replacement": "🧻", "description": "roll of paper" },
+  "ಬಕೆಟ್": { "replacement": "🪣", "description": "bucket" },
+  "ಸೋಪ್": { "replacement": "🧼", "description": "soap" },
+  "ಟೂತ್ ಬ್ರಷ್": { "replacement": "🪥", "description": "toothbrush" },
+  "ಸ್ಪಾಂಜ್": { "replacement": "🧽", "description": "sponge" },
+  "ಶಾಪಿಂಗ್ ಕಾರ್ಟ್": { "replacement": "🛒", "description": "shopping cart" },
+  "ಧೂಮಪಾನ": { "replacement": "🚬", "description": "cigarette" },
+  "ಶವಪೆಟ್ಟಿಗೆಯನ್ನು": { "replacement": "⚰️", "description": "coffin" },
+  "ಹೆಡ್ ಸ್ಟೋನ್": { "replacement": "🪦", "description": "headstone" },
+  "ಅಂತ್ಯಕ್ರಿಯೆಯ ಚಿತಾಭಸ್ಮ": {
+    "replacement": "⚱️",
+    "description": "funeral urn"
+  },
+  "ಮೊಯೈ": { "replacement": "🗿", "description": "moai" },
+  "ಫಲಕ": { "replacement": "🪧", "description": "placard" },
+  "atm": { "replacement": "🏧", "description": "ATM sign" },
+  "ಕಸವನ್ನು ಅದರ ಸ್ಥಳದಲ್ಲಿ ಇರಿಸಿ": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "ಕುಡಿಯುವ ನೀರು": { "replacement": "🚰", "description": "potable water" },
+  "ಗಾಲಿಕುರ್ಚಿ": { "replacement": "♿", "description": "wheelchair symbol" },
+  "ಪುರುಷರು": { "replacement": "🚹", "description": "men’s room" },
+  "ಮಹಿಳಾ": { "replacement": "🚺", "description": "women’s room" },
+  "ರೆಸ್ಟ್ ರೂಂ": { "replacement": "🚻", "description": "restroom" },
+  "ಮಗುವಿನ ಚಿಹ್ನೆ": { "replacement": "🚼", "description": "baby symbol" },
+  "wc": { "replacement": "🚾", "description": "water closet" },
+  "ಪಾಸ್ಪೋರ್ಟ್ ನಿಯಂತ್ರಣ": {
+    "replacement": "🛂",
+    "description": "passport control"
+  },
+  "ಕಸ್ಟಮ್ಸ್": { "replacement": "🛃", "description": "customs" },
+  "ಬ್ಯಾಗೇಜ್ ಹಕ್ಕು": { "replacement": "🛄", "description": "baggage claim" },
+  "ಎಡ ಸಾಮಾನು": { "replacement": "🛅", "description": "left luggage" },
+  "ಎಚ್ಚರಿಕೆ": { "replacement": "⚠️", "description": "warning" },
+  "ಮಕ್ಕಳು ದಾಟುತ್ತಿದ್ದಾರೆ": {
+    "replacement": "🚸",
+    "description": "children crossing"
+  },
+  "ಪ್ರವೇಶವಿಲ್ಲ": { "replacement": "⛔", "description": "no entry" },
+  "ಪ್ರವೇಶ ಚಿಹ್ನೆ ಇಲ್ಲ": { "replacement": "🚫", "description": "prohibited" },
+  "ಬೈಸಿಕಲ್ ಇಲ್ಲ": { "replacement": "🚳", "description": "no bicycles" },
+  "ಧೂಮಪಾನ ಇಲ್ಲ": { "replacement": "🚭", "description": "no smoking" },
+  "ಕಸ ಮಾಡಬೇಡಿ": { "replacement": "🚯", "description": "no littering" },
+  "ಕುಡಿಯಲಾಗದ ನೀರು": { "replacement": "🚱", "description": "non-potable water" },
+  "ಪಾದಚಾರಿಗಳಿಲ್ಲ": { "replacement": "🚷", "description": "no pedestrians" },
+  "ಮೊಬೈಲ್ ಫೋನ್‌ಗಳಿಲ್ಲ": {
+    "replacement": "📵",
+    "description": "no mobile phones"
+  },
+  "ಅಪ್ರಾಪ್ತ ವಯಸ್ಸಿನ": {
+    "replacement": "🔞",
+    "description": "no one under eighteen"
+  },
+  "ವಿಕಿರಣಶೀಲ": { "replacement": "☢️", "description": "radioactive" },
+  "ಜೈವಿಕ ಅಪಾಯ": { "replacement": "☣️", "description": "biohazard" },
+  "ಬಾಣ": { "replacement": "⬆️", "description": "up arrow" },
+  "ಬಾಣ ಮೇಲಿನ ಬಲ": { "replacement": "↗️", "description": "up-right arrow" },
+  "ಬಾಣ ಬಲ": { "replacement": "➡️", "description": "right arrow" },
+  "ಕೆಳಗಿನ ಬಲಕ್ಕೆ ಬಾಣ": {
+    "replacement": "↘️",
+    "description": "down-right arrow"
+  },
+  "ಬಾಣ ಕೆಳಗೆ": { "replacement": "⬇️", "description": "down arrow" },
+  "ಬಾಣ ಕೆಳಗಿನ ಎಡ": { "replacement": "↙️", "description": "down-left arrow" },
+  "ಬಾಣ ಎಡಕ್ಕೆ": { "replacement": "⬅️", "description": "left arrow" },
+  "ಬಾಣ ಮೇಲಿನ ಎಡ": { "replacement": "↖️", "description": "up-left arrow" },
+  "ಕೆಳಗೆ ಬಾಣ": { "replacement": "↕️", "description": "up-down arrow" },
+  "ಎಡ ಬಲ ಬಾಣ": { "replacement": "↔️", "description": "left-right arrow" },
+  "ಕೊಕ್ಕೆ ಹೊಂದಿರುವ ಎಡ ಬಾಣ": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "ಬಾಣ ಬಲ ಕೊಕ್ಕೆ": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "ಬಾಣ ಮೇಲಕ್ಕೆ ಹೋಗುತ್ತಿದೆ": {
+    "replacement": "⤴️",
+    "description": "right arrow curving up"
+  },
+  "ಬಾಣ ಕೆಳಗೆ ಹೋಗುತ್ತಿದೆ": {
+    "replacement": "⤵️",
+    "description": "right arrow curving down"
+  },
+  "ಬಾಣಗಳು ಪ್ರದಕ್ಷಿಣಾಕಾರವಾಗಿ": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "ಅಪ್ರದಕ್ಷಿಣಾಕಾರವಾಗಿ ಬಾಣಗಳು": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "ಹಿಂದೆ": { "replacement": "🔙", "description": "BACK arrow" },
+  "ಅಂತ್ಯ": { "replacement": "🔚", "description": "END arrow" },
+  "ಆನ್": { "replacement": "🔛", "description": "ON! arrow" },
+  "ಶೀಘ್ರದಲ್ಲೇ": { "replacement": "🔜", "description": "SOON arrow" },
+  "ಟಾಪ್": { "replacement": "🔝", "description": "TOP arrow" },
+  "ಪೂಜಾ ಸ್ಥಳ": { "replacement": "🛐", "description": "place of worship" },
+  "ಪರಮಾಣು ಚಿಹ್ನೆ": { "replacement": "⚛️", "description": "atom symbol" },
+  "ಓಮ್": { "replacement": "🕉️", "description": "om" },
+  "ಡೇವಿಡ್ ನಕ್ಷತ್ರ": { "replacement": "✡️", "description": "star of David" },
+  "ಧರ್ಮದ ಚಕ್ರ": { "replacement": "☸️", "description": "wheel of dharma" },
+  "ಯಿನ್ ಯಾಂಗ್": { "replacement": "☯️", "description": "yin yang" },
+  "ಲ್ಯಾಟಿನ್ ಅಡ್ಡ": { "replacement": "✝️", "description": "latin cross" },
+  "ಸಾಂಪ್ರದಾಯಿಕ ಅಡ್ಡ": { "replacement": "☦️", "description": "orthodox cross" },
+  "ನಕ್ಷತ್ರ ಮತ್ತು ಅರ್ಧಚಂದ್ರಾಕಾರ": {
+    "replacement": "☪️",
+    "description": "star and crescent"
+  },
+  "ಶಾಂತಿ ಚಿಹ್ನೆ": { "replacement": "☮️", "description": "peace symbol" },
+  "ಮೆನೋರಾ": { "replacement": "🕎", "description": "menorah" },
+  "ಆರು ಪಾಯಿಂಟ್ ನಕ್ಷತ್ರ": {
+    "replacement": "🔯",
+    "description": "dotted six-pointed star"
+  },
+  "ಮೇಷ": { "replacement": "♈", "description": "Aries" },
+  "ವೃಷಭ ರಾಶಿ": { "replacement": "♉", "description": "Taurus" },
+  "ಜೆಮಿನಿ": { "replacement": "♊", "description": "Gemini" },
+  "ಕ್ಯಾನ್ಸರ್": { "replacement": "♋", "description": "Cancer" },
+  "ಲಿಯೋ": { "replacement": "♌", "description": "Leo" },
+  "ಕನ್ಯಾರಾಶಿ": { "replacement": "♍", "description": "Virgo" },
+  "ತುಲಾ": { "replacement": "♎", "description": "Libra" },
+  "ಸ್ಕಾರ್ಪಿಯಸ್": { "replacement": "♏", "description": "Scorpio" },
+  "ಧನು ರಾಶಿ": { "replacement": "♐", "description": "Sagittarius" },
+  "ಮಕರ ಸಂಕ್ರಾಂತಿ": { "replacement": "♑", "description": "Capricorn" },
+  "ಕುಂಭ ರಾಶಿ": { "replacement": "♒", "description": "Aquarius" },
+  "ಮೀನ": { "replacement": "♓", "description": "Pisces" },
+  "ಒಫಿಯುಚಸ್": { "replacement": "⛎", "description": "Ophiuchus" },
+  "ತಿರುಚಿದ ಬಲಕ್ಕೆ ಬಾಣಗಳು": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "ಪುನರಾವರ್ತಿಸಿ": { "replacement": "🔁", "description": "repeat button" },
+  "ಒಂದನ್ನು ಪುನರಾವರ್ತಿಸಿ": {
+    "replacement": "🔂",
+    "description": "repeat single button"
+  },
+  "ಮುಂದೆ ಬಾಣ": { "replacement": "▶️", "description": "play button" },
+  "ವೇಗವಾಗಿ ಮುಂದಕ್ಕೆ": {
+    "replacement": "⏩",
+    "description": "fast-forward button"
+  },
+  "ಮುಂದಿನ ಟ್ರ್ಯಾಕ್ ಬಟನ್": {
+    "replacement": "⏭️",
+    "description": "next track button"
+  },
+  "ಬಟನ್ ಪ್ಲೇ ಮಾಡಿ ಅಥವಾ ವಿರಾಮಗೊಳಿಸಿ": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "ಬಾಣ ಹಿಂದಕ್ಕೆ": { "replacement": "◀️", "description": "reverse button" },
+  "ರಿವೈಂಡ್": { "replacement": "⏪", "description": "fast reverse button" },
+  "ಹಿಂದಿನ ಟ್ರ್ಯಾಕ್ ಬಟನ್": {
+    "replacement": "⏮️",
+    "description": "last track button"
+  },
+  "ಸಣ್ಣ ಬಾಣ": { "replacement": "🔼", "description": "upwards button" },
+  "ಬಾಣ ಡಬಲ್ ಅಪ್": { "replacement": "⏫", "description": "fast up button" },
+  "ಸಣ್ಣ ಕೆಳಗೆ ಬಾಣ": { "replacement": "🔽", "description": "downwards button" },
+  "ಬಾಣ ಡಬಲ್ ಡೌನ್": { "replacement": "⏬", "description": "fast down button" },
+  "ವಿರಾಮ ಬಟನ್": { "replacement": "⏸️", "description": "pause button" },
+  "ಸ್ಟಾಪ್ ಬಟನ್": { "replacement": "⏹️", "description": "stop button" },
+  "ರೆಕಾರ್ಡ್ ಬಟನ್": { "replacement": "⏺️", "description": "record button" },
+  "ಹೊರಹಾಕು ಬಟನ್": { "replacement": "⏏️", "description": "eject button" },
+  "ಸಿನೆಮಾ": { "replacement": "🎦", "description": "cinema" },
+  "ಕಡಿಮೆ ಹೊಳಪು": { "replacement": "🔅", "description": "dim button" },
+  "ಹೆಚ್ಚಿನ ಹೊಳಪು": { "replacement": "🔆", "description": "bright button" },
+  "ಸಿಗ್ನಲ್ ಶಕ್ತಿ": { "replacement": "📶", "description": "antenna bars" },
+  "ಕಂಪನ ಮೋಡ್": { "replacement": "📳", "description": "vibration mode" },
+  "ಮೊಬೈಲ್ ಫೋನ್ ಆಫ್ ಆಗಿದೆ": {
+    "replacement": "📴",
+    "description": "mobile phone off"
+  },
+  "ಸ್ತ್ರೀ ಚಿಹ್ನೆ": { "replacement": "♀️", "description": "female sign" },
+  "ಪುರುಷ ಚಿಹ್ನೆ": { "replacement": "♂️", "description": "male sign" },
+  "ಟ್ರಾನ್ಸ್ಜೆಂಡರ್ ಚಿಹ್ನೆ": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "ಭಾರೀ ಗುಣಾಕಾರ x": { "replacement": "✖️", "description": "multiply" },
+  "ಹೆವಿ ಪ್ಲಸ್ ಚಿಹ್ನೆ": { "replacement": "➕", "description": "plus" },
+  "ಭಾರೀ ಮೈನಸ್ ಚಿಹ್ನೆ": { "replacement": "➖", "description": "minus" },
+  "ಭಾರೀ ವಿಭಾಗದ ಚಿಹ್ನೆ": { "replacement": "➗", "description": "divide" },
+  "ಅನಂತ": { "replacement": "♾️", "description": "infinity" },
+  "ಬ್ಯಾಂಗ್ ಬ್ಯಾಂಗ್": {
+    "replacement": "‼️",
+    "description": "double exclamation mark"
+  },
+  "ಇಂಟರ್ರೋಬ್ಯಾಂಗ್": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "ಪ್ರಶ್ನೆ": { "replacement": "❓", "description": "question mark" },
+  "ಬೂದು ಪ್ರಶ್ನೆ": { "replacement": "❔", "description": "white question mark" },
+  "ಬೂದು ಕೂಗಾಟ": {
+    "replacement": "❕",
+    "description": "white exclamation mark"
+  },
+  "ಆಶ್ಚರ್ಯ": { "replacement": "❗", "description": "exclamation mark" },
+  "ಅಲೆಅಲೆಯಾದ ಡ್ಯಾಶ್": { "replacement": "〰️", "description": "wavy dash" },
+  "ಕರೆನ್ಸಿ ವಿನಿಮಯ": { "replacement": "💱", "description": "currency exchange" },
+  "ಭಾರೀ ಡಾಲರ್ ಚಿಹ್ನೆ": {
+    "replacement": "💲",
+    "description": "heavy dollar sign"
+  },
+  "ವೈದ್ಯಕೀಯ ಚಿಹ್ನೆ": { "replacement": "⚕️", "description": "medical symbol" },
+  "ಮರುಬಳಕೆ": { "replacement": "♻️", "description": "recycling symbol" },
+  "ಫ್ಲ್ಯೂರ್ ಡೆ ಲಿಸ್": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "ತ್ರಿಶೂಲ": { "replacement": "🔱", "description": "trident emblem" },
+  "ಹೆಸರು ಬ್ಯಾಡ್ಜ್": { "replacement": "📛", "description": "name badge" },
+  "ಹರಿಕಾರ": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "ಒ": { "replacement": "⭕", "description": "hollow red circle" },
+  "ಬಿಳಿ ಚೆಕ್ ಗುರುತು": {
+    "replacement": "✅",
+    "description": "check mark button"
+  },
+  "ಚೆಕ್ನೊಂದಿಗೆ ಮತಪೆಟ್ಟಿಗೆ": {
+    "replacement": "☑️",
+    "description": "check box with check"
+  },
+  "ಭಾರೀ ಚೆಕ್ ಗುರುತು": { "replacement": "✔️", "description": "check mark" },
+  "X": { "replacement": "❌", "description": "cross mark" },
+  "ನಕಾರಾತ್ಮಕ ವರ್ಗ ಅಡ್ಡ ಗುರುತು": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "ಕರ್ಲಿ ಲೂಪ್": { "replacement": "➰", "description": "curly loop" },
+  "ಲೂಪ್": { "replacement": "➿", "description": "double curly loop" },
+  "ಭಾಗ ಪರ್ಯಾಯ ಗುರುತು": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "ಎಂಟು ಸ್ಪೋಕ್ಡ್ ನಕ್ಷತ್ರ ಚಿಹ್ನೆ": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "ಎಂಟು ಪಾಯಿಂಟ್ ಕಪ್ಪು ನಕ್ಷತ್ರ": {
+    "replacement": "✴️",
+    "description": "eight-pointed star"
+  },
+  "ಪ್ರಕಾಶ": { "replacement": "❇️", "description": "sparkle" },
+  "ಕೃತಿಸ್ವಾಮ್ಯ": { "replacement": "©️", "description": "copyright" },
+  "ನೋಂದಾಯಿಸಲಾಗಿದೆ": { "replacement": "®️", "description": "registered" },
+  "ಟಿಎಂ": { "replacement": "™️", "description": "trade mark" },
+  "ಹ್ಯಾಶ್": { "replacement": "#️⃣", "description": "keycap: #" },
+  "ನಕ್ಷತ್ರ ಚಿಹ್ನೆ": { "replacement": "*️⃣", "description": "keycap: *" },
+  "ಶೂನ್ಯ": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "ಒಂದು": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "ಎರಡು": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "ಮೂರು": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "ನಾಲ್ಕು": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "ಐದು": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "ಆರು": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "ಏಳು": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "ಎಂಟು": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "ಒಂಬತ್ತು": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "ಕೀಕ್ಯಾಪ್ ಹತ್ತು": { "replacement": "🔟", "description": "keycap: 10" },
+  "ಕ್ಯಾಪಿಟಲ್ ಎಬಿಸಿಡಿ": {
+    "replacement": "🔠",
+    "description": "input latin uppercase"
+  },
+  "ಎ ಬಿ ಸಿ ಡಿ": { "replacement": "🔡", "description": "input latin lowercase" },
+  "ಚಿಹ್ನೆಗಳು": { "replacement": "🔣", "description": "input symbols" },
+  "ಎಬಿಸಿ": { "replacement": "🔤", "description": "input latin letters" },
+  "ಎ": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "ಅಬ್": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "ಬೌ": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "cl": { "replacement": "🆑", "description": "CL button" },
+  "ತಂಪಾದ": { "replacement": "🆒", "description": "COOL button" },
+  "ಉಚಿತ": { "replacement": "🆓", "description": "FREE button" },
+  "ಮಾಹಿತಿ ಮೂಲ": { "replacement": "ℹ️", "description": "information" },
+  "ಐಡಿ": { "replacement": "🆔", "description": "ID button" },
+  "ಮೀ": { "replacement": "Ⓜ️", "description": "circled M" },
+  "ಹೊಸದು": { "replacement": "🆕", "description": "NEW button" },
+  "ng": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "ಸರಿ": { "replacement": "🆗", "description": "OK button" },
+  "ಪಾರ್ಕಿಂಗ್": { "replacement": "🅿️", "description": "P button" },
+  "sos": { "replacement": "🆘", "description": "SOS button" },
+  "ಅಪ್": { "replacement": "🆙", "description": "UP! button" },
+  "ವಿರುದ್ಧ": { "replacement": "🆚", "description": "VS button" },
+  "ಕೊಕೊ": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "ಸಾ": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "ಐಡಿಯೋಗ್ರಾಫ್ ಪ್ರಯೋಜನ": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "ಒಪ್ಪಿಕೊಳ್ಳಿ": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "ಅಭಿನಂದನೆಗಳು": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "ರಹಸ್ಯ": { "replacement": "㊙️", "description": "Japanese “secret” button" },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "ಕೆಂಪು ವಲಯ": { "replacement": "🔴", "description": "red circle" },
+  "ಕಿತ್ತಳೆ ವಲಯ": { "replacement": "🟠", "description": "orange circle" },
+  "ಹಳದಿ ವಲಯ": { "replacement": "🟡", "description": "yellow circle" },
+  "ಹಸಿರು ವಲಯ": { "replacement": "🟢", "description": "green circle" },
+  "ದೊಡ್ಡ ನೀಲಿ ವಲಯ": { "replacement": "🔵", "description": "blue circle" },
+  "ನೇರಳೆ ವಲಯ": { "replacement": "🟣", "description": "purple circle" },
+  "ಕಂದು ವಲಯ": { "replacement": "🟤", "description": "brown circle" },
+  "ಕಪ್ಪು ವಲಯ": { "replacement": "⚫", "description": "black circle" },
+  "ಬಿಳಿ ವಲಯ": { "replacement": "⚪", "description": "white circle" },
+  "ಕೆಂಪು ಚೌಕ": { "replacement": "🟥", "description": "red square" },
+  "ಕಿತ್ತಳೆ ಚೌಕ": { "replacement": "🟧", "description": "orange square" },
+  "ಹಳದಿ ಚೌಕ": { "replacement": "🟨", "description": "yellow square" },
+  "ಹಸಿರು ಚೌಕ": { "replacement": "🟩", "description": "green square" },
+  "ನೀಲಿ ಚೌಕ": { "replacement": "🟦", "description": "blue square" },
+  "ನೇರಳೆ ಚೌಕ": { "replacement": "🟪", "description": "purple square" },
+  "ಕಂದು ಚೌಕ": { "replacement": "🟫", "description": "brown square" },
+  "ಕಪ್ಪು ದೊಡ್ಡ ಚೌಕ": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "ಬಿಳಿ ದೊಡ್ಡ ಚೌಕ": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "ಕಪ್ಪು ಮಧ್ಯಮ ಚೌಕ": {
+    "replacement": "◼️",
+    "description": "black medium square"
+  },
+  "ಬಿಳಿ ಮಧ್ಯಮ ಚೌಕ": {
+    "replacement": "◻️",
+    "description": "white medium square"
+  },
+  "ಕಪ್ಪು ಮಧ್ಯಮ ಸಣ್ಣ ಚೌಕ": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "ಬಿಳಿ ಮಧ್ಯಮ ಸಣ್ಣ ಚೌಕ": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "ಕಪ್ಪು ಸಣ್ಣ ಚೌಕ": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "ಬಿಳಿ ಸಣ್ಣ ಚೌಕ": { "replacement": "▫️", "description": "white small square" },
+  "ದೊಡ್ಡ ಕಿತ್ತಳೆ ವಜ್ರ": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "ದೊಡ್ಡ ನೀಲಿ ವಜ್ರ": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "ಸಣ್ಣ ಕಿತ್ತಳೆ ವಜ್ರ": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "ಸಣ್ಣ ನೀಲಿ ವಜ್ರ": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "ಸಣ್ಣ ಕೆಂಪು ತ್ರಿಕೋನ": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "ಸಣ್ಣ ಕೆಂಪು ತ್ರಿಕೋನ ಕೆಳಗೆ": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "ಒಳಗೆ ಚುಕ್ಕೆ ಹೊಂದಿರುವ ವಜ್ರದ ಆಕಾರ": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "ರೇಡಿಯೋ ಬಟನ್": { "replacement": "🔘", "description": "radio button" },
+  "ಬಿಳಿ ಚದರ ಬಟನ್": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "ಕಪ್ಪು ಚದರ ಬಟನ್": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "ಪರಿಶೀಲಿಸಿದ ಧ್ವಜ": { "replacement": "🏁", "description": "chequered flag" },
+  "ಪೋಸ್ಟ್ನಲ್ಲಿ ತ್ರಿಕೋನ ಧ್ವಜ": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "ಧ್ವಜಗಳನ್ನು ದಾಟಿದೆ": { "replacement": "🎌", "description": "crossed flags" },
+  "ಕಪ್ಪು ಬಾವುಟ": { "replacement": "🏴", "description": "black flag" },
+  "ಬಿಳಿ ಪತಾಕೆ": { "replacement": "🏳️", "description": "white flag" },
+  "ಮಳೆಬಿಲ್ಲು ಧ್ವಜ": { "replacement": "🏳️‍🌈", "description": "rainbow flag" },
+  "ಲಿಂಗಾಯತ ಧ್ವಜ": { "replacement": "🏳️‍⚧️", "description": "transgender flag" },
+  "ಕಡಲುಗಳ್ಳರ ಧ್ವಜ": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "ಆರೋಹಣ ದ್ವೀಪ": {
+    "replacement": "🇦🇨",
+    "description": "flag: Ascension Island"
+  },
+  "andorra": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "ಸಂಯುಕ್ತ ಅರಬ್ ಸಂಸ್ಥಾಪನೆಗಳು": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "ಅಫಘಾನಿಸ್ತಾನ್": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "ಆಂಟಿಗುವಾ ಬಾರ್ಬುಡಾ": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "ಅಂಗುಯಿಲ್ಲಾ": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "ಅಲ್ಬೇನಿಯಾ": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "ಅರ್ಮೇನಿಯಾ": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "ಅಂಗೋಲಾ": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "ಅಂಟಾರ್ಕ್ಟಿಕಾ": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "ಅರ್ಜೆಂಟಿನಾ": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "ಅಮೆರಿಕನ್ ಸಮೋವಾ": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "ಆಸ್ಟ್ರಿಯಾ": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "ಆಸ್ಟ್ರೇಲಿಯಾ": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "ಅರುಬಾ": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "ಅಲ್ಯಾಂಡ್ ದ್ವೀಪಗಳು": {
+    "replacement": "🇦🇽",
+    "description": "flag: Åland Islands"
+  },
+  "ಅಜೆರ್ಬೈಜಾನ್": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "ಬೋಸ್ನಿಯಾ ಹರ್ಜೆಗೋವಿನಾ": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "ಬಾರ್ಬಡೋಸ್": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "ಬಾಂಗ್ಲಾದೇಶ": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "ಬೆಲ್ಜಿಯಂ": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "ಬುರ್ಕಿನಾ ಫಾಸೊ": {
+    "replacement": "🇧🇫",
+    "description": "flag: Burkina Faso"
+  },
+  "ಬಲ್ಗೇರಿಯಾ": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "ಬಹ್ರೇನ್": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "ಬುರುಂಡಿ": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "ಬೆನಿನ್": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "ಸ್ಟ ಬಾರ್ಥೆಲೆಮಿ": {
+    "replacement": "🇧🇱",
+    "description": "flag: St. Barthélemy"
+  },
+  "ಬರ್ಮುಡಾ": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "ಬ್ರೂನಿ": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "ಬೊಲಿವಿಯಾ": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "ಕೆರಿಬಿಯನ್ ನೆದರ್ಲ್ಯಾಂಡ್ಸ್": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "ಬ್ರೆಜಿಲ್": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "ಬಹಾಮಾಸ್": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "ಭೂತಾನ್": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "ಬೌವೆಟ್ ದ್ವೀಪ": { "replacement": "🇧🇻", "description": "flag: Bouvet Island" },
+  "ಬೋಟ್ಸ್ವಾನ": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "ಬೆಲಾರಸ್": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "ಬೆಲೀಜ್": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "ಕೆನಡಾ": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "ಕೊಕೊಸ್ ದ್ವೀಪಗಳು": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "ಕೊಂಗೊ ಕಿನ್ಶಾಸಾ": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "ಮಧ್ಯ ಆಫ್ರಿಕಾದ ಗಣರಾಜ್ಯ": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "ಕೊಂಗೊ ಬ್ರಾ zz ಾವಿಲ್ಲೆ": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "ಸ್ವಿಟ್ಜರ್ಲೆಂಡ್": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "ಕೋಟ್ ಡಿವೊಯಿರ್": {
+    "replacement": "🇨🇮",
+    "description": "flag: Côte d’Ivoire"
+  },
+  "ದ್ವೀಪಗಳನ್ನು ಬೇಯಿಸಿ": {
+    "replacement": "🇨🇰",
+    "description": "flag: Cook Islands"
+  },
+  "ಚಿಲಿ": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "ಕ್ಯಾಮೆರೂನ್": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "ಸಿಎನ್": { "replacement": "🇨🇳", "description": "flag: China" },
+  "ಕೊಲಂಬಿಯಾ": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "ಕ್ಲಿಪ್ಪರ್ಟನ್ ದ್ವೀಪ": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "ಕೋಸ್ಟ ರಿಕಾ": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "ಕ್ಯೂಬಾ": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "ಕೇಪ್ ವರ್ಡೆ": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "ಕ್ಯುರಾಕೊ": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "ಕ್ರಿಸ್ಮಸ್ ದ್ವೀಪ": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "ಸೈಪ್ರಸ್": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "ಜೆಕ್ ಗಣರಾಜ್ಯ": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "ಡಿ": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "ಡಿಯಾಗೋ ಗಾರ್ಸಿಯಾ": {
+    "replacement": "🇩🇬",
+    "description": "flag: Diego Garcia"
+  },
+  "ಡಿಬೌಟಿ": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "ಡೆನ್ಮಾರ್ಕ್": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "ಡೊಮಿನಿಕಾ": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "ಡೊಮಿನಿಕನ್ ಗಣರಾಜ್ಯ": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "ಅಲ್ಜೀರಿಯಾ": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "ceuta melilla": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "ಈಕ್ವೆಡಾರ್": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "ಎಸ್ಟೋನಿಯಾ": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "ಈಜಿಪ್ಟ್": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "ಪಶ್ಚಿಮ ಸಹಾರಾ": {
+    "replacement": "🇪🇭",
+    "description": "flag: Western Sahara"
+  },
+  "ಎರಿಟ್ರಿಯಾ": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "ಎಸ್": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "ಇಥಿಯೋಪಿಯಾ": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "ಇಯು": { "replacement": "🇪🇺", "description": "flag: European Union" },
+  "ಫಿನ್ಲ್ಯಾಂಡ್": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "ಫಿಜಿ": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "ಫಾಕ್ಲ್ಯಾಂಡ್ ದ್ವೀಪಗಳು": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "ಮೈಕ್ರೋನೇಶಿಯಾ": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "ಫರೋ ದ್ವೀಪಗಳು": { "replacement": "🇫🇴", "description": "flag: Faroe Islands" },
+  "fr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "ಗ್ಯಾಬೊನ್": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "ಜಿಬಿ": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "ಗ್ರೆನಡಾ": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "ಜಾರ್ಜಿಯಾ": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "ಫ್ರೆಂಚ್ ಗಯಾನಾ": {
+    "replacement": "🇬🇫",
+    "description": "flag: French Guiana"
+  },
+  "ಗುರ್ನಸಿ": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "ಘಾನಾ": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "ಜಿಬ್ರಾಲ್ಟರ್": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "ಗ್ರೀನ್ಲ್ಯಾಂಡ್": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "ಗ್ಯಾಂಬಿಯಾ": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "ಗಿನಿಯಾ": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "ಗ್ವಾಡೆಲೋಪ್": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "ಸಮಭಾಜಕ ಗಿನಿಯಾ": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "ಗ್ರೀಸ್": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "ದಕ್ಷಿಣ ಜಾರ್ಜಿಯಾ ದಕ್ಷಿಣ ಸ್ಯಾಂಡ್‌ವಿಚ್ ದ್ವೀಪಗಳು": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "ಗ್ವಾಟೆಮಾಲಾ": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "ಗುವಾಮ್": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "ಗಿನಿಯಾ ಬಿಸ್ಸೌ": {
+    "replacement": "🇬🇼",
+    "description": "flag: Guinea-Bissau"
+  },
+  "ಗಯಾನಾ": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "ಹಾಂಗ್ ಕಾಂಗ್": {
+    "replacement": "🇭🇰",
+    "description": "flag: Hong Kong SAR China"
+  },
+  "ಎಂಸಿಡೊನಾಲ್ಡ್ ದ್ವೀಪಗಳನ್ನು ಕೇಳಿದೆ": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "ಹೊಂಡುರಾಸ್": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "ಕ್ರೊಯೇಷಿಯಾ": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "ಹೈಟಿ": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "ಹಸಿವು": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "ಕ್ಯಾನರಿ ದ್ವೀಪಗಳು": {
+    "replacement": "🇮🇨",
+    "description": "flag: Canary Islands"
+  },
+  "ಇಂಡೋನೇಷ್ಯಾ": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "ಐರ್ಲ್ಯಾಂಡ್": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "ಇಸ್ರೇಲ್": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "ಮನುಷ್ಯನ ದ್ವೀಪ": { "replacement": "🇮🇲", "description": "flag: Isle of Man" },
+  "ಭಾರತ": { "replacement": "🇮🇳", "description": "flag: India" },
+  "ಬ್ರಿಟಿಷ್ ಭಾರತೀಯ ಸಾಗರ ಪ್ರದೇಶ": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "ಇರಾಕ್": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "ಇರಾನ್": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "ಐಸ್ಲ್ಯಾಂಡ್": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "ಅದು": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "ಜರ್ಸಿ": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "ಜಮೈಕಾ": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "ಜೋರ್ಡಾನ್": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "ಜೆಪಿ": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "ಕೀನ್ಯಾ": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "ಕಿರ್ಗಿಸ್ತಾನ್": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "ಕಾಂಬೋಡಿಯಾ": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "ಕಿರಿಬತಿ": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "ಕೊಮೊರೊಗಳು": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "ಸ್ಟ ಕಿಟ್ಸ್ ನೆವಿಸ್": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "ಉತ್ತರ ಕೊರಿಯಾ": { "replacement": "🇰🇵", "description": "flag: North Korea" },
+  "ಕೆ.ಆರ್": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "ಕುವೈತ್": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "ಕೇಮನ್ ದ್ವೀಪಗಳು": {
+    "replacement": "🇰🇾",
+    "description": "flag: Cayman Islands"
+  },
+  "ಕ Kazakh ಾಕಿಸ್ತಾನ್": {
+    "replacement": "🇰🇿",
+    "description": "flag: Kazakhstan"
+  },
+  "ಲಾವೋಸ್": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "ಲೆಬನಾನ್": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "ಸ್ಟ ಲೂಸಿಯಾ": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "ಲೈಚ್ಟೆನ್‌ಸ್ಟೈನ್": {
+    "replacement": "🇱🇮",
+    "description": "flag: Liechtenstein"
+  },
+  "ಶ್ರೀಲಂಕಾ": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "ಲೈಬೀರಿಯಾ": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "ಲೆಸೊಥೊ": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "ಲಿಥುವೇನಿಯಾ": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "ಲಕ್ಸೆಂಬರ್ಗ್": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "ಲಾಟ್ವಿಯಾ": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "ಲಿಬ್ಯಾ": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "ಮೊರಾಕೊ": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "ಮೊನಾಕೊ": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "ಮೋಲ್ಡೊವಾ": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "ಮಾಂಟೆನೆಗ್ರೊ": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "ಸ್ಟ ಮಾರ್ಟಿನ್": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "ಮಡಗಾಸ್ಕರ್": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "ಮಾರ್ಷಲ್ ದ್ವೀಪಗಳು": {
+    "replacement": "🇲🇭",
+    "description": "flag: Marshall Islands"
+  },
+  "ಮ್ಯಾಸಿಡೋನಿಯಾ": {
+    "replacement": "🇲🇰",
+    "description": "flag: North Macedonia"
+  },
+  "ಮಾಲಿ": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "ಮ್ಯಾನ್ಮಾರ್": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "ಮಂಗೋಲಿಯಾ": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "ಮಕಾವು": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "ಉತ್ತರ ಮರಿಯಾನಾ ದ್ವೀಪಗಳು": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "ಮಾರ್ಟಿನಿಕ್": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "ಮಾರಿಟಾನಿಯಾ": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "ಮಾಂಟ್ಸೆರಾಟ್": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "ಮಾಲ್ಟಾ": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "ಮಾರಿಷಸ್": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "ಮಾಲ್ಡೀವ್ಸ್": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "ಮಲಾವಿ": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "ಮೆಕ್ಸಿಕೊ": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "ಮಲೇಷ್ಯಾ": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "ಮೊಜಾಂಬಿಕ್": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "ನಮೀಬಿಯಾ": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "ನ್ಯೂ ಕ್ಯಾಲೆಡೋನಿಯಾ": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "ನೈಗರ್": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "ನಾರ್ಫೋಕ್ ದ್ವೀಪ": {
+    "replacement": "🇳🇫",
+    "description": "flag: Norfolk Island"
+  },
+  "ನೈಜೀರಿಯಾ": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "ನಿಕರಾಗುವಾ": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "ನೆದರ್ಲ್ಯಾಂಡ್ಸ್": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "ನಾರ್ವೆ": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "ನೇಪಾಲ್": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "ನೌರು": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "niue": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "ನ್ಯೂಜಿಲ್ಯಾಂಡ್": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "ಓಮನ್": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "ಪನಾಮ": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "ಪೆರು": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "ಫ್ರೆಂಚ್ ಪಾಲಿನೇಷ್ಯಾ": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "ಪಪುವಾ ಹೊಸ ಗಿನಿಯಾ": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "ಫಿಲಿಪೈನ್ಸ್": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "ಪಾಕಿಸ್ತಾನ್": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "ಪೋಲೆಂಡ್": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "ಸ್ಟ ಪಿಯರೆ ಮೈಕ್ವೆಲಾನ್": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "ಪಿಟ್‌ಕೈರ್ನ್ ದ್ವೀಪಗಳು": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "ಪೋರ್ಟೊ ರಿಕೊ": {
+    "replacement": "🇵🇷",
+    "description": "flag: Puerto Rico"
+  },
+  "ಪ್ಯಾಲೆಸ್ಟಿನಿಯನ್ ಪ್ರದೇಶಗಳು": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "ಪೋರ್ಚುಗಲ್": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "ಪಲಾವ್": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "ಪರಾಗ್ವೆ": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "ಕತಾರ್": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "ಪುನರ್ಮಿಲನ": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "ರೊಮೇನಿಯಾ": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "ಸೆರ್ಬಿಯಾ": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "ರು": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "ರುವಾಂಡಾ": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "ಸೌದಿ ಅರೇಬಿಯಾ": { "replacement": "🇸🇦", "description": "flag: Saudi Arabia" },
+  "ಸೊಲೊಮನ್ ದ್ವೀಪಗಳು": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "ಸೀಶೆಲ್ಸ್": { "replacement": "🇸🇨", "description": "flag: Seychelles" },
+  "ಸುಡಾನ್": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "ಸ್ವೀಡನ್": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "ಸಿಂಗಾಪುರ": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "ಸ್ಟ ಹೆಲೆನಾ": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "ಸ್ಲೊವೇನಿಯಾ": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "ಸ್ವಾಲ್ಬಾರ್ಡ್ ಜಾನ್ ಮೇಯೆನ್": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "ಸ್ಲೋವಾಕಿಯಾ": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "ಸಿಯೆರಾ ಲಿಯೋನ್": {
+    "replacement": "🇸🇱",
+    "description": "flag: Sierra Leone"
+  },
+  "ಸ್ಯಾನ್ ಮರಿನೋ": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "ಸೆನೆಗಲ್": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "ಸೊಮಾಲಿಯಾ": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "ಸುರಿನಾಮ್": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "ದಕ್ಷಿಣ ಸುಡಾನ್": { "replacement": "🇸🇸", "description": "flag: South Sudan" },
+  "ಸಾವೊ ಟೋಮ್ ಪ್ರಿನ್ಸಿಪಿ": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "ಎಲ್ ಸಾಲ್ವಡಾರ್": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "ಸಿಂಟ್ ಮಾರ್ಟನ್": { "replacement": "🇸🇽", "description": "flag: Sint Maarten" },
+  "ಸಿರಿಯಾ": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "ಸ್ವಾಜಿಲ್ಯಾಂಡ್": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "ಟ್ರಿಸ್ತಾನ್ ಡಾ ಕುನ್ಹಾ": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "ಟರ್ಕ್ಸ್ ಕೈಕೋಸ್ ದ್ವೀಪಗಳು": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "ಚಾಡ್": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "ಫ್ರೆಂಚ್ ದಕ್ಷಿಣ ಪ್ರದೇಶಗಳು": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "ಹೋಗಲು": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "ಥೈಲ್ಯಾಂಡ್": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "ತಜಿಕಿಸ್ತಾನ್": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "ಟೋಕೆಲಾವ್": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "ಟೈಮರ್ ಲೆಸ್ಟ್": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "ತುರ್ಕಮೆನಿಸ್ತಾನ್": {
+    "replacement": "🇹🇲",
+    "description": "flag: Turkmenistan"
+  },
+  "ಟುನೀಶಿಯಾ": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "ಟೊಂಗಾ": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "tr": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "ಟ್ರಿನಿಡಾಡ್ ಟೊಬಾಗೊ": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "ತುವಾಲು": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "ತೈವಾನ್": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "ಟಾಂಜಾನಿಯಾ": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "ಉಕ್ರೇನ್": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "ಉಗಾಂಡಾ": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "ನಮಗೆ ಹೊರಗಿನ ದ್ವೀಪಗಳು": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "ಯುನೈಟೆಡ್ ರಾಷ್ಟ್ರಗಳು": {
+    "replacement": "🇺🇳",
+    "description": "flag: United Nations"
+  },
+  "ನಮಗೆ": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "ಉರುಗ್ವೆ": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "ಉಜ್ಬೇಕಿಸ್ತಾನ್": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "ವ್ಯಾಟಿಕನ್ ನಗರ": { "replacement": "🇻🇦", "description": "flag: Vatican City" },
+  "ಸ್ಟ ವಿನ್ಸೆಂಟ್ ಗ್ರೆನಡೈನ್ಸ್": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "ವೆನೆಜುವೆಲಾ": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "ಬ್ರಿಟಿಷ್ ವರ್ಜಿನ್ ದ್ವೀಪಗಳು": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "ನಮಗೆ ವರ್ಜಿನ್ ದ್ವೀಪಗಳು": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "ವಿಯೆಟ್ನಾಂ": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "vanuatu": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "ವಾಲಿಸ್ ಫ್ಯೂಟುನಾ": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "ಸಮೋವಾ": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "ಕೊಸೊವೊ": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "ಯೆಮೆನ್": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "ಮೇಯೊಟ್ಟೆ": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ": {
+    "replacement": "🇿🇦",
+    "description": "flag: South Africa"
+  },
+  "ಜಾಂಬಿಯಾ": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "ಜಿಂಬಾಬ್ವೆ": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "ಇಂಗ್ಲೆಂಡ್": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "ಸ್ಕಾಟ್ಲ್ಯಾಂಡ್": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "ವೇಲ್ಸ್": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

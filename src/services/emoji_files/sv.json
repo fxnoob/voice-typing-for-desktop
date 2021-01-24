@@ -1,0 +1,2857 @@
+{
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "flinande": { "replacement": "😀", "description": "grinning face" },
+  "smiley": {
+    "replacement": "😃",
+    "description": "grinning face with big eyes"
+  },
+  "leende": {
+    "replacement": "😄",
+    "description": "grinning face with smiling eyes"
+  },
+  "flin": { "replacement": "😏", "description": "smirking face" },
+  "skrattande": {
+    "replacement": "😆",
+    "description": "grinning squinting face"
+  },
+  "svett leende": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "glädje": { "replacement": "😂", "description": "face with tears of joy" },
+  "något leende ansikte": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "upp och ner ansiktet": {
+    "replacement": "🙃",
+    "description": "upside-down face"
+  },
+  "blinkning": { "replacement": "😉", "description": "winking face" },
+  "rodna": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "oskyldig": { "replacement": "😇", "description": "smiling face with halo" },
+  "leende ansikte med tre hjärtan": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "hjärtögon": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "stjärnan slog": { "replacement": "🤩", "description": "star-struck" },
+  "kyssande hjärta": {
+    "replacement": "😘",
+    "description": "face blowing a kiss"
+  },
+  "kyssar": { "replacement": "😗", "description": "kissing face" },
+  "avslappnad": { "replacement": "☺️", "description": "smiling face" },
+  "kyssa stängda ögon": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "kyssande leende ögon": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "leende ansikte med tår": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "yum": { "replacement": "😋", "description": "face savoring food" },
+  "sticker ut tungan": {
+    "replacement": "😛",
+    "description": "face with tongue"
+  },
+  "stickat ut tungan blinkande öga": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "vackert ansikte": { "replacement": "🤪", "description": "zany face" },
+  "ut tungan stängda ögon": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "pengar mun ansikte": {
+    "replacement": "🤑",
+    "description": "money-mouth face"
+  },
+  "kramar": { "replacement": "🤗", "description": "hugging face" },
+  "hand över munnen": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "skakande ansikte": { "replacement": "🤫", "description": "shushing face" },
+  "tänkande": { "replacement": "🤔", "description": "thinking face" },
+  "blixtlås mun ansikte": {
+    "replacement": "🤐",
+    "description": "zipper-mouth face"
+  },
+  "höjt ögonbryn": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "neutralt ansikte": { "replacement": "😐", "description": "neutral face" },
+  "uttryckslös": { "replacement": "😑", "description": "expressionless face" },
+  "ingen mun": { "replacement": "😶", "description": "face without mouth" },
+  "inte road": { "replacement": "😒", "description": "unamused face" },
+  "himla med ögonen": {
+    "replacement": "🙄",
+    "description": "face with rolling eyes"
+  },
+  "grimaserande": { "replacement": "😬", "description": "grimacing face" },
+  "liggande ansikte": { "replacement": "🤥", "description": "lying face" },
+  "lättad": { "replacement": "😌", "description": "relieved face" },
+  "fundersam": { "replacement": "😔", "description": "pensive face" },
+  "sömnig": { "replacement": "😪", "description": "sleepy face" },
+  "dreglande ansikte": { "replacement": "🤤", "description": "drooling face" },
+  "sovande": { "replacement": "😴", "description": "sleeping face" },
+  "mask": { "replacement": "🪱", "description": "worm" },
+  "ansikte med termometer": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "ansikte med huvudbandage": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "illamående ansikte": {
+    "replacement": "🤢",
+    "description": "nauseated face"
+  },
+  "kräkande ansikte": { "replacement": "🤮", "description": "face vomiting" },
+  "nysande ansikte": { "replacement": "🤧", "description": "sneezing face" },
+  "hett ansikte": { "replacement": "🥵", "description": "hot face" },
+  "kallt ansikte": { "replacement": "🥶", "description": "cold face" },
+  "woozy ansikte": { "replacement": "🥴", "description": "woozy face" },
+  "yr ansikte": { "replacement": "😵", "description": "dizzy face" },
+  "exploderande huvud": {
+    "replacement": "🤯",
+    "description": "exploding head"
+  },
+  "cowboyhattansikte": {
+    "replacement": "🤠",
+    "description": "cowboy hat face"
+  },
+  "festande ansikte": { "replacement": "🥳", "description": "partying face" },
+  "förklädd ansikte": { "replacement": "🥸", "description": "disguised face" },
+  "solglasögon": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "nörd ansikte": { "replacement": "🤓", "description": "nerd face" },
+  "monokel ansikte": {
+    "replacement": "🧐",
+    "description": "face with monocle"
+  },
+  "förvirrad": { "replacement": "😖", "description": "confounded face" },
+  "orolig": { "replacement": "😟", "description": "worried face" },
+  "något pannande ansikte": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "rynkande ansikte": { "replacement": "☹️", "description": "frowning face" },
+  "öppen mun": { "replacement": "😮", "description": "face with open mouth" },
+  "tyst": { "replacement": "😯", "description": "hushed face" },
+  "förvånad": { "replacement": "😲", "description": "astonished face" },
+  "rodnad": { "replacement": "😳", "description": "flushed face" },
+  "vädjande ansikte": { "replacement": "🥺", "description": "pleading face" },
+  "rynkar pannan": {
+    "replacement": "😦",
+    "description": "frowning face with open mouth"
+  },
+  "plågad": { "replacement": "😧", "description": "anguished face" },
+  "rädd": { "replacement": "😨", "description": "fearful face" },
+  "kallsvett": {
+    "replacement": "😰",
+    "description": "anxious face with sweat"
+  },
+  "besviken lättad": {
+    "replacement": "😥",
+    "description": "sad but relieved face"
+  },
+  "gråta": { "replacement": "😢", "description": "crying face" },
+  "snyfta": { "replacement": "😭", "description": "loudly crying face" },
+  "skrika": { "replacement": "😱", "description": "face screaming in fear" },
+  "hålla ut": { "replacement": "😣", "description": "persevering face" },
+  "besviken": { "replacement": "😞", "description": "disappointed face" },
+  "svettas": { "replacement": "😓", "description": "downcast face with sweat" },
+  "trötta": { "replacement": "😩", "description": "weary face" },
+  "trött ansikte": { "replacement": "😫", "description": "tired face" },
+  "gäspande ansikte": { "replacement": "🥱", "description": "yawning face" },
+  "triumf": { "replacement": "😤", "description": "face with steam from nose" },
+  "rasa": { "replacement": "😡", "description": "pouting face" },
+  "arg": { "replacement": "😠", "description": "angry face" },
+  "förbannande ansikte": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "leende imp": {
+    "replacement": "😈",
+    "description": "smiling face with horns"
+  },
+  "imp": { "replacement": "👿", "description": "angry face with horns" },
+  "skalle": { "replacement": "💀", "description": "skull" },
+  "dödskalle och benknotor": {
+    "replacement": "☠️",
+    "description": "skull and crossbones"
+  },
+  "hankey": { "replacement": "💩", "description": "pile of poo" },
+  "clown ansikte": { "replacement": "🤡", "description": "clown face" },
+  "japansk ogre": { "replacement": "👹", "description": "ogre" },
+  "japansk goblin": { "replacement": "👺", "description": "goblin" },
+  "spöke": { "replacement": "👻", "description": "ghost" },
+  "utomjording": { "replacement": "👽", "description": "alien" },
+  "space invader": { "replacement": "👾", "description": "alien monster" },
+  "robot": { "replacement": "🤖", "description": "robot" },
+  "smiley katt": { "replacement": "😺", "description": "grinning cat" },
+  "le katt": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "glädjekatt": { "replacement": "😹", "description": "cat with tears of joy" },
+  "hjärta ögon katt": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "smirk katt": { "replacement": "😼", "description": "cat with wry smile" },
+  "kyssande katt": { "replacement": "😽", "description": "kissing cat" },
+  "skrik katt": { "replacement": "🙀", "description": "weary cat" },
+  "gråtande kattansikte": { "replacement": "😿", "description": "crying cat" },
+  "trutande katt": { "replacement": "😾", "description": "pouting cat" },
+  "se ingen ondska": {
+    "replacement": "🙈",
+    "description": "see-no-evil monkey"
+  },
+  "hör ingen ondska": {
+    "replacement": "🙉",
+    "description": "hear-no-evil monkey"
+  },
+  "tala inget ont": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "puss": { "replacement": "💋", "description": "kiss mark" },
+  "kärleksbrev": { "replacement": "💌", "description": "love letter" },
+  "cupid": { "replacement": "💘", "description": "heart with arrow" },
+  "gåvahjärta": { "replacement": "💝", "description": "heart with ribbon" },
+  "glittrande hjärta": {
+    "replacement": "💖",
+    "description": "sparkling heart"
+  },
+  "hjärtpuls": { "replacement": "💗", "description": "growing heart" },
+  "hjärtslag": { "replacement": "💓", "description": "beating heart" },
+  "roterande hjärtan": {
+    "replacement": "💞",
+    "description": "revolving hearts"
+  },
+  "två hjärtan": { "replacement": "💕", "description": "two hearts" },
+  "hjärta dekoration": {
+    "replacement": "💟",
+    "description": "heart decoration"
+  },
+  "tungt hjärt utrop": {
+    "replacement": "❣️",
+    "description": "heart exclamation"
+  },
+  "brustet hjärta": { "replacement": "💔", "description": "broken heart" },
+  "hjärta": { "replacement": "❤️", "description": "red heart" },
+  "orange hjärta": { "replacement": "🧡", "description": "orange heart" },
+  "gult hjärta": { "replacement": "💛", "description": "yellow heart" },
+  "grönt hjärta": { "replacement": "💚", "description": "green heart" },
+  "blått hjärta": { "replacement": "💙", "description": "blue heart" },
+  "lila hjärta": { "replacement": "💜", "description": "purple heart" },
+  "brunt hjärta": { "replacement": "🤎", "description": "brown heart" },
+  "svart hjärta": { "replacement": "🖤", "description": "black heart" },
+  "vitt hjärta": { "replacement": "🤍", "description": "white heart" },
+  "ilska": { "replacement": "💢", "description": "anger symbol" },
+  "bom": { "replacement": "💥", "description": "collision" },
+  "yr": { "replacement": "💫", "description": "dizzy" },
+  "svett droppar": { "replacement": "💦", "description": "sweat droplets" },
+  "rusa": { "replacement": "💨", "description": "dashing away" },
+  "hål": { "replacement": "🕳️", "description": "hole" },
+  "bomba": { "replacement": "💣", "description": "bomb" },
+  "talballong": { "replacement": "💬", "description": "speech balloon" },
+  "ögon pratbubbla": {
+    "replacement": "👁️‍🗨️",
+    "description": "eye in speech bubble"
+  },
+  "vänster pratbubbla": {
+    "replacement": "🗨️",
+    "description": "left speech bubble"
+  },
+  "rätt ilska bubbla": {
+    "replacement": "🗯️",
+    "description": "right anger bubble"
+  },
+  "tanke ballong": { "replacement": "💭", "description": "thought balloon" },
+  "zzz": { "replacement": "💤", "description": "zzz" },
+  "Vinka": { "replacement": "👋", "description": "waving hand" },
+  "höjde handryggen": {
+    "replacement": "🤚",
+    "description": "raised back of hand"
+  },
+  "upphöjd hand med fingrarna spridda": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "hand": { "replacement": "✋", "description": "raised hand" },
+  "vulkan hälsning": { "replacement": "🖖", "description": "vulcan salute" },
+  "ok hand": { "replacement": "👌", "description": "OK hand" },
+  "klämda fingrar": { "replacement": "🤌", "description": "pinched fingers" },
+  "nypa handen": { "replacement": "🤏", "description": "pinching hand" },
+  "v": { "replacement": "✌️", "description": "victory hand" },
+  "korsade fingrar": { "replacement": "🤞", "description": "crossed fingers" },
+  "älskar dig gest": { "replacement": "🤟", "description": "love-you gesture" },
+  "metall": { "replacement": "🤘", "description": "sign of the horns" },
+  "ring mig hand": { "replacement": "🤙", "description": "call me hand" },
+  "peka kvar": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "peka åt höger": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "peka upp 2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "långfinger": { "replacement": "🖕", "description": "middle finger" },
+  "peka ner": {
+    "replacement": "👇",
+    "description": "backhand index pointing down"
+  },
+  "peka uppåt": { "replacement": "☝️", "description": "index pointing up" },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "knytnäve upp": { "replacement": "✊", "description": "raised fist" },
+  "näven mötande": { "replacement": "👊", "description": "oncoming fist" },
+  "knytnäve kvar": { "replacement": "🤛", "description": "left-facing fist" },
+  "knytnäve till höger": {
+    "replacement": "🤜",
+    "description": "right-facing fist"
+  },
+  "klappa": { "replacement": "👏", "description": "clapping hands" },
+  "upphöjda händer": { "replacement": "🙌", "description": "raising hands" },
+  "öppna händer": { "replacement": "👐", "description": "open hands" },
+  "handflatorna upp tillsammans": {
+    "replacement": "🤲",
+    "description": "palms up together"
+  },
+  "handslag": { "replacement": "🤝", "description": "handshake" },
+  "be": { "replacement": "🙏", "description": "folded hands" },
+  "skrivande hand": { "replacement": "✍️", "description": "writing hand" },
+  "nagelvård": { "replacement": "💅", "description": "nail polish" },
+  "selfie": { "replacement": "🤳", "description": "selfie" },
+  "muskel": { "replacement": "💪", "description": "flexed biceps" },
+  "mekanisk arm": { "replacement": "🦾", "description": "mechanical arm" },
+  "mekaniskt ben": { "replacement": "🦿", "description": "mechanical leg" },
+  "ben": { "replacement": "🦴", "description": "bone" },
+  "fot": { "replacement": "🦶", "description": "foot" },
+  "öra": { "replacement": "👂", "description": "ear" },
+  "örat med hörapparat": {
+    "replacement": "🦻",
+    "description": "ear with hearing aid"
+  },
+  "näsa": { "replacement": "👃", "description": "nose" },
+  "hjärna": { "replacement": "🧠", "description": "brain" },
+  "anatomiskt hjärta": {
+    "replacement": "🫀",
+    "description": "anatomical heart"
+  },
+  "lungor": { "replacement": "🫁", "description": "lungs" },
+  "tand": { "replacement": "🦷", "description": "tooth" },
+  "ögon": { "replacement": "👀", "description": "eyes" },
+  "öga": { "replacement": "👁️", "description": "eye" },
+  "tunga": { "replacement": "👅", "description": "tongue" },
+  "mun": { "replacement": "👄", "description": "mouth" },
+  "bebis": { "replacement": "👶", "description": "baby" },
+  "barn": { "replacement": "🧒", "description": "child" },
+  "pojke": { "replacement": "👦", "description": "boy" },
+  "flicka": { "replacement": "👧", "description": "girl" },
+  "vuxen": { "replacement": "🧑", "description": "person" },
+  "blondhårig person": {
+    "replacement": "👱",
+    "description": "person: blond hair"
+  },
+  "man": { "replacement": "👨", "description": "man" },
+  "skäggig person": { "replacement": "🧔", "description": "man: beard" },
+  "rödhårig man": { "replacement": "👨‍🦰", "description": "man: red hair" },
+  "lockigt hår": { "replacement": "👨‍🦱", "description": "man: curly hair" },
+  "vithårig man": { "replacement": "👨‍🦳", "description": "man: white hair" },
+  "skallig man": { "replacement": "👨‍🦲", "description": "man: bald" },
+  "kvinna": { "replacement": "👩", "description": "woman" },
+  "rödhårig kvinna": { "replacement": "👩‍🦰", "description": "woman: red hair" },
+  "person rött hår": {
+    "replacement": "🧑‍🦰",
+    "description": "person: red hair"
+  },
+  "lockigt hår kvinna": {
+    "replacement": "👩‍🦱",
+    "description": "woman: curly hair"
+  },
+  "person lockigt hår": {
+    "replacement": "🧑‍🦱",
+    "description": "person: curly hair"
+  },
+  "vithårig kvinna": {
+    "replacement": "👩‍🦳",
+    "description": "woman: white hair"
+  },
+  "person vitt hår": {
+    "replacement": "🧑‍🦳",
+    "description": "person: white hair"
+  },
+  "skallig kvinna": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "person skallig": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "blond hår kvinna": {
+    "replacement": "👱‍♀️",
+    "description": "woman: blond hair"
+  },
+  "blondhårig man": { "replacement": "👱‍♂️", "description": "man: blond hair" },
+  "äldre vuxen": { "replacement": "🧓", "description": "older person" },
+  "äldre man": { "replacement": "👴", "description": "old man" },
+  "äldre kvinna": { "replacement": "👵", "description": "old woman" },
+  "rynka pannan": { "replacement": "🙍‍♂️", "description": "man frowning" },
+  "rynkande kvinna": { "replacement": "🙍‍♀️", "description": "woman frowning" },
+  "tråkigt ansikte": { "replacement": "🙎", "description": "person pouting" },
+  "tråkig man": { "replacement": "🙎‍♂️", "description": "man pouting" },
+  "trutande kvinna": { "replacement": "🙎‍♀️", "description": "woman pouting" },
+  "inte bra": { "replacement": "🙅", "description": "person gesturing NO" },
+  "ingen bra man": { "replacement": "🙅‍♂️", "description": "man gesturing NO" },
+  "ingen bra kvinna": {
+    "replacement": "🙅‍♀️",
+    "description": "woman gesturing NO"
+  },
+  "ok person": { "replacement": "🙆", "description": "person gesturing OK" },
+  "okej mannen": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "ok kvinna": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "tippa hand person": {
+    "replacement": "💁",
+    "description": "person tipping hand"
+  },
+  "tippande hand man": {
+    "replacement": "💁‍♂️",
+    "description": "man tipping hand"
+  },
+  "tippa hand kvinna": {
+    "replacement": "💁‍♀️",
+    "description": "woman tipping hand"
+  },
+  "höja handen": { "replacement": "🙋", "description": "person raising hand" },
+  "höja handen man": { "replacement": "🙋‍♂️", "description": "man raising hand" },
+  "höja hand kvinna": {
+    "replacement": "🙋‍♀️",
+    "description": "woman raising hand"
+  },
+  "döv person": { "replacement": "🧏", "description": "deaf person" },
+  "döv man": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "döv kvinna": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "rosett": { "replacement": "🏵️", "description": "rosette" },
+  "böjande man": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "böjande kvinna": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "facepalm": { "replacement": "🤦", "description": "person facepalming" },
+  "man ansiktsbehandling": {
+    "replacement": "🤦‍♂️",
+    "description": "man facepalming"
+  },
+  "kvinna ansiktsbehandling": {
+    "replacement": "🤦‍♀️",
+    "description": "woman facepalming"
+  },
+  "rycka på axlarna": {
+    "replacement": "🤷",
+    "description": "person shrugging"
+  },
+  "man ryckte på axlarna": {
+    "replacement": "🤷‍♂️",
+    "description": "man shrugging"
+  },
+  "kvinna ryckte på axlarna": {
+    "replacement": "🤷‍♀️",
+    "description": "woman shrugging"
+  },
+  "hälso-och sjukvårdspersonal": {
+    "replacement": "🧑‍⚕️",
+    "description": "health worker"
+  },
+  "man hälsoarbetare": {
+    "replacement": "👨‍⚕️",
+    "description": "man health worker"
+  },
+  "kvinna hälsoarbetare": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "studerande": { "replacement": "🧑‍🎓", "description": "student" },
+  "manstudent": { "replacement": "👨‍🎓", "description": "man student" },
+  "kvinnastudent": { "replacement": "👩‍🎓", "description": "woman student" },
+  "lärare": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "man lärare": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "lärarinna": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "bedöma": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "man domare": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "kvinnadomare": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "jordbrukare": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "man jordbrukare": { "replacement": "👨‍🌾", "description": "man farmer" },
+  "kvinnabonde": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "kock": { "replacement": "🧑‍🍳", "description": "cook" },
+  "man kock": { "replacement": "👨‍🍳", "description": "man cook" },
+  "kvinnakock": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "mekaniker": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "man mekaniker": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "kvinnamekaniker": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "fabriksarbetare": {
+    "replacement": "🧑‍🏭",
+    "description": "factory worker"
+  },
+  "man fabriksarbetare": {
+    "replacement": "👨‍🏭",
+    "description": "man factory worker"
+  },
+  "kvinna fabriksarbetare": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "kontorsarbetare": { "replacement": "🧑‍💼", "description": "office worker" },
+  "man kontorsarbetare": {
+    "replacement": "👨‍💼",
+    "description": "man office worker"
+  },
+  "kvinnlig kontorsarbetare": {
+    "replacement": "👩‍💼",
+    "description": "woman office worker"
+  },
+  "forskare": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "man vetenskapsman": { "replacement": "👨‍🔬", "description": "man scientist" },
+  "kvinna forskare": { "replacement": "👩‍🔬", "description": "woman scientist" },
+  "teknolog": { "replacement": "🧑‍💻", "description": "technologist" },
+  "man tekniker": { "replacement": "👨‍💻", "description": "man technologist" },
+  "kvinnatekniker": {
+    "replacement": "👩‍💻",
+    "description": "woman technologist"
+  },
+  "sångare": { "replacement": "🧑‍🎤", "description": "singer" },
+  "man sångare": { "replacement": "👨‍🎤", "description": "man singer" },
+  "kvinnasångare": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "konstnär": { "replacement": "🧑‍🎨", "description": "artist" },
+  "man konstnär": { "replacement": "👨‍🎨", "description": "man artist" },
+  "kvinnakonstnär": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "pilot": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "manpilot": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "kvinnlig pilot": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "astronaut": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "man astronaut": { "replacement": "👨‍🚀", "description": "man astronaut" },
+  "kvinna astronaut": { "replacement": "👩‍🚀", "description": "woman astronaut" },
+  "brandman": { "replacement": "🧑‍🚒", "description": "firefighter" },
+  "man brandman": { "replacement": "👨‍🚒", "description": "man firefighter" },
+  "kvinna brandman": {
+    "replacement": "👩‍🚒",
+    "description": "woman firefighter"
+  },
+  "polis": { "replacement": "👮‍♂️", "description": "man police officer" },
+  "poliskvinna": { "replacement": "👮‍♀️", "description": "woman police officer" },
+  "detektiv-": { "replacement": "🕵️", "description": "detective" },
+  "manlig detektiv": { "replacement": "🕵️‍♂️", "description": "man detective" },
+  "kvinnlig detektiv": {
+    "replacement": "🕵️‍♀️",
+    "description": "woman detective"
+  },
+  "vakt": { "replacement": "💂", "description": "guard" },
+  "vaktmästare": { "replacement": "💂‍♂️", "description": "man guard" },
+  "vaktkvinna": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "ninja": { "replacement": "🥷", "description": "ninja" },
+  "byggarbetare": { "replacement": "👷", "description": "construction worker" },
+  "byggnadsarbetare man": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "byggnadsarbetarkvinna": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "prins": { "replacement": "🤴", "description": "prince" },
+  "prinsessa": { "replacement": "👸", "description": "princess" },
+  "person med turban": {
+    "replacement": "👳",
+    "description": "person wearing turban"
+  },
+  "man med turban": {
+    "replacement": "👳‍♂️",
+    "description": "man wearing turban"
+  },
+  "kvinna med turban": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "man med gua pi mao": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "kvinna med sjal": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "person i smoking": {
+    "replacement": "🤵",
+    "description": "person in tuxedo"
+  },
+  "man i smoking": { "replacement": "🤵‍♂️", "description": "man in tuxedo" },
+  "kvinna i smoking": {
+    "replacement": "🤵‍♀️",
+    "description": "woman in tuxedo"
+  },
+  "person med slöja": {
+    "replacement": "👰",
+    "description": "person with veil"
+  },
+  "man med slöja": { "replacement": "👰‍♂️", "description": "man with veil" },
+  "kvinna med slöja": {
+    "replacement": "👰‍♀️",
+    "description": "woman with veil"
+  },
+  "gravid kvinna": { "replacement": "🤰", "description": "pregnant woman" },
+  "amning": { "replacement": "🤱", "description": "breast-feeding" },
+  "kvinna som matar barnet": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "man matar barnet": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "person som matar barnet": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "ängel": { "replacement": "👼", "description": "baby angel" },
+  "santa": { "replacement": "🎅", "description": "Santa Claus" },
+  "fru Claus": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "mx claus": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "superhjälte": { "replacement": "🦸", "description": "superhero" },
+  "superhjälte man": { "replacement": "🦸‍♂️", "description": "man superhero" },
+  "superhjältekvinna": {
+    "replacement": "🦸‍♀️",
+    "description": "woman superhero"
+  },
+  "superskurk": { "replacement": "🦹", "description": "supervillain" },
+  "superskurk man": { "replacement": "🦹‍♂️", "description": "man supervillain" },
+  "supervillain kvinna": {
+    "replacement": "🦹‍♀️",
+    "description": "woman supervillain"
+  },
+  "magiker": { "replacement": "🧙", "description": "mage" },
+  "mage man": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "mage kvinna": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "fe-": { "replacement": "🧚", "description": "fairy" },
+  "fe man": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "älvkvinna": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "vampyr": { "replacement": "🧛", "description": "vampire" },
+  "vampyr man": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "vampyr kvinna": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "merperson": { "replacement": "🧜", "description": "merperson" },
+  "merman": { "replacement": "🧜‍♂️", "description": "merman" },
+  "sjöjungfru": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "älva": { "replacement": "🧝", "description": "elf" },
+  "alf man": { "replacement": "🧝‍♂️", "description": "man elf" },
+  "alf kvinna": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "ande": { "replacement": "🧞", "description": "genie" },
+  "genie man": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "genie kvinna": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "zombie": { "replacement": "🧟", "description": "zombie" },
+  "zombie man": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "zombie kvinna": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "massage": { "replacement": "💆", "description": "person getting massage" },
+  "massage man": { "replacement": "💆‍♂️", "description": "man getting massage" },
+  "massage kvinna": {
+    "replacement": "💆‍♀️",
+    "description": "woman getting massage"
+  },
+  "frisyr": { "replacement": "💇", "description": "person getting haircut" },
+  "frisyr man": { "replacement": "💇‍♂️", "description": "man getting haircut" },
+  "frisyr kvinna": {
+    "replacement": "💇‍♀️",
+    "description": "woman getting haircut"
+  },
+  "gående": { "replacement": "🚶", "description": "person walking" },
+  "gåande man": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "promenader kvinna": { "replacement": "🚶‍♀️", "description": "woman walking" },
+  "stående person": { "replacement": "🧍", "description": "person standing" },
+  "stående man": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "stående kvinna": { "replacement": "🧍‍♀️", "description": "woman standing" },
+  "knäande person": { "replacement": "🧎", "description": "person kneeling" },
+  "knäböjande man": { "replacement": "🧎‍♂️", "description": "man kneeling" },
+  "knäböjande kvinna": {
+    "replacement": "🧎‍♀️",
+    "description": "woman kneeling"
+  },
+  "person med sonderande sockerrör": {
+    "replacement": "🧑‍🦯",
+    "description": "person with white cane"
+  },
+  "man med sonderande sockerrör": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "kvinna med sonderande sockerrör": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "person i motoriserad rullstol": {
+    "replacement": "🧑‍🦼",
+    "description": "person in motorized wheelchair"
+  },
+  "man i motoriserad rullstol": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "kvinna i motoriserad rullstol": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "person i manuell rullstol": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "man i manuell rullstol": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "kvinna i manuell rullstol": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "löpare": { "replacement": "🏃", "description": "person running" },
+  "springande man": { "replacement": "🏃‍♂️", "description": "man running" },
+  "löpande kvinna": { "replacement": "🏃‍♀️", "description": "woman running" },
+  "kvinna dansar": { "replacement": "💃", "description": "woman dancing" },
+  "man dansar": { "replacement": "🕺", "description": "man dancing" },
+  "affärsdräkt som svävar": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "dansare": { "replacement": "👯", "description": "people with bunny ears" },
+  "dansande män": { "replacement": "👯‍♂️", "description": "men with bunny ears" },
+  "dansande kvinnor": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "bastuperson": {
+    "replacement": "🧖",
+    "description": "person in steamy room"
+  },
+  "bastumannen": { "replacement": "🧖‍♂️", "description": "man in steamy room" },
+  "bastu kvinna": {
+    "replacement": "🧖‍♀️",
+    "description": "woman in steamy room"
+  },
+  "klättrande": { "replacement": "🧗", "description": "person climbing" },
+  "klättrande man": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "klättring kvinna": { "replacement": "🧗‍♀️", "description": "woman climbing" },
+  "person stängsel": { "replacement": "🤺", "description": "person fencing" },
+  "hästkapplöpning": { "replacement": "🏇", "description": "horse racing" },
+  "skidåkare": { "replacement": "⛷️", "description": "skier" },
+  "snowboardåkare": { "replacement": "🏂", "description": "snowboarder" },
+  "golf": { "replacement": "⛳", "description": "flag in hole" },
+  "golfman": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "golfkvinna": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "surfare": { "replacement": "🏄", "description": "person surfing" },
+  "surfing man": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "surfing kvinna": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "roddbåt": { "replacement": "🚣", "description": "person rowing boat" },
+  "roddman": { "replacement": "🚣‍♂️", "description": "man rowing boat" },
+  "roddkvinna": { "replacement": "🚣‍♀️", "description": "woman rowing boat" },
+  "simmare": { "replacement": "🏊", "description": "person swimming" },
+  "simning man": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "simning kvinna": { "replacement": "🏊‍♀️", "description": "woman swimming" },
+  "studsande boll person": {
+    "replacement": "⛹️",
+    "description": "person bouncing ball"
+  },
+  "studsande boll man": {
+    "replacement": "⛹️‍♂️",
+    "description": "man bouncing ball"
+  },
+  "studsande boll kvinna": {
+    "replacement": "⛹️‍♀️",
+    "description": "woman bouncing ball"
+  },
+  "tyngdlyftning": {
+    "replacement": "🏋️",
+    "description": "person lifting weights"
+  },
+  "tyngdlyftande man": {
+    "replacement": "🏋️‍♂️",
+    "description": "man lifting weights"
+  },
+  "tyngdlyftning kvinna": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "cyklist": { "replacement": "🚴", "description": "person biking" },
+  "cykling man": { "replacement": "🚴‍♂️", "description": "man biking" },
+  "cykling kvinna": { "replacement": "🚴‍♀️", "description": "woman biking" },
+  "bergscyklist": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "mountainbike man": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "mountainbike kvinna": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "vagnhjul": { "replacement": "🤸", "description": "person cartwheeling" },
+  "man vagnhjul": { "replacement": "🤸‍♂️", "description": "man cartwheeling" },
+  "kvinna vagn": { "replacement": "🤸‍♀️", "description": "woman cartwheeling" },
+  "brottning": { "replacement": "🤼", "description": "people wrestling" },
+  "män brottas": { "replacement": "🤼‍♂️", "description": "men wrestling" },
+  "kvinnor brottas": { "replacement": "🤼‍♀️", "description": "women wrestling" },
+  "vattenpolo": {
+    "replacement": "🤽",
+    "description": "person playing water polo"
+  },
+  "man spelar vattenpolo": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "kvinna som leker vattenpolo": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "handbollsperson": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "man spelar handboll": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "kvinna som spelar handboll": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "jonglerande person": {
+    "replacement": "🤹",
+    "description": "person juggling"
+  },
+  "man jonglerar": { "replacement": "🤹‍♂️", "description": "man juggling" },
+  "kvinna jonglerar": { "replacement": "🤹‍♀️", "description": "woman juggling" },
+  "lotusposition": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "lotusposition man": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "lotusställning kvinna": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "bad": { "replacement": "🛀", "description": "person taking bath" },
+  "sovande säng": { "replacement": "🛌", "description": "person in bed" },
+  "människor som håller hand": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "två kvinnor som håller hand": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "par": { "replacement": "👫", "description": "woman and man holding hands" },
+  "två män som håller hand": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "couplekiss": { "replacement": "💏", "description": "kiss" },
+  "couplekiss man kvinna": {
+    "replacement": "👩‍❤️‍💋‍👨",
+    "description": "kiss: woman, man"
+  },
+  "couplekiss man man": {
+    "replacement": "👨‍❤️‍💋‍👨",
+    "description": "kiss: man, man"
+  },
+  "couplekiss kvinna kvinna": {
+    "replacement": "👩‍❤️‍💋‍👩",
+    "description": "kiss: woman, woman"
+  },
+  "par med hjärta": { "replacement": "💑", "description": "couple with heart" },
+  "par med hjärtat kvinna man": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "par med hjärta man man": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "par med kvinna för hjärtakvinna": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "familj": { "replacement": "👪", "description": "family" },
+  "familj man kvinna pojke": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "familj man kvinna flicka": {
+    "replacement": "👨‍👩‍👧",
+    "description": "family: man, woman, girl"
+  },
+  "familj man kvinna flicka pojke": {
+    "replacement": "👨‍👩‍👧‍👦",
+    "description": "family: man, woman, girl, boy"
+  },
+  "familj man kvinna pojke pojke": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "familj man kvinna flicka flicka": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "familj man man pojke": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "familj man man flicka": {
+    "replacement": "👨‍👨‍👧",
+    "description": "family: man, man, girl"
+  },
+  "familj man man flicka pojke": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "familj man man pojke pojke": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "familj man man flicka flicka": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "familj kvinna kvinna pojke": {
+    "replacement": "👩‍👩‍👦",
+    "description": "family: woman, woman, boy"
+  },
+  "familj kvinna kvinna flicka": {
+    "replacement": "👩‍👩‍👧",
+    "description": "family: woman, woman, girl"
+  },
+  "familj kvinna kvinna flicka pojke": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "familj kvinna kvinna pojke pojke": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "familj kvinna kvinna flicka flicka": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "familj man pojke": {
+    "replacement": "👨‍👦",
+    "description": "family: man, boy"
+  },
+  "familj man pojke pojke": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "familj man flicka": {
+    "replacement": "👨‍👧",
+    "description": "family: man, girl"
+  },
+  "familj man flicka pojke": {
+    "replacement": "👨‍👧‍👦",
+    "description": "family: man, girl, boy"
+  },
+  "familj man flicka flicka": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "familj kvinna pojke": {
+    "replacement": "👩‍👦",
+    "description": "family: woman, boy"
+  },
+  "familj kvinna pojke pojke": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "familj kvinna flicka": {
+    "replacement": "👩‍👧",
+    "description": "family: woman, girl"
+  },
+  "familj kvinna flicka pojke": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "familj kvinna flicka flicka": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "talande huvud": { "replacement": "🗣️", "description": "speaking head" },
+  "byst i silhuett": {
+    "replacement": "👥",
+    "description": "busts in silhouette"
+  },
+  "människor kramar": { "replacement": "🫂", "description": "people hugging" },
+  "fotavtryck": { "replacement": "👣", "description": "footprints" },
+  "AP ansikte": { "replacement": "🐵", "description": "monkey face" },
+  "apa": { "replacement": "🐒", "description": "monkey" },
+  "gorilla": { "replacement": "🦍", "description": "gorilla" },
+  "orangutang": { "replacement": "🦧", "description": "orangutan" },
+  "hund": { "replacement": "🐶", "description": "dog face" },
+  "hund2": { "replacement": "🐕", "description": "dog" },
+  "guide hund": { "replacement": "🦮", "description": "guide dog" },
+  "servicehund": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "pudel": { "replacement": "🐩", "description": "poodle" },
+  "Varg": { "replacement": "🐺", "description": "wolf" },
+  "räv ansikte": { "replacement": "🦊", "description": "fox" },
+  "tvättbjörn": { "replacement": "🦝", "description": "raccoon" },
+  "katt": { "replacement": "🐱", "description": "cat face" },
+  "cat2": { "replacement": "🐈", "description": "cat" },
+  "svart katt": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "lejon": { "replacement": "🦁", "description": "lion" },
+  "tiger": { "replacement": "🐯", "description": "tiger face" },
+  "tiger2": { "replacement": "🐅", "description": "tiger" },
+  "leopard": { "replacement": "🐆", "description": "leopard" },
+  "häst": { "replacement": "🐴", "description": "horse face" },
+  "tävlingshäst": { "replacement": "🐎", "description": "horse" },
+  "enhörning": { "replacement": "🦄", "description": "unicorn" },
+  "zebra": { "replacement": "🦓", "description": "zebra" },
+  "rådjur": { "replacement": "🦌", "description": "deer" },
+  "bison": { "replacement": "🦬", "description": "bison" },
+  "ko": { "replacement": "🐮", "description": "cow face" },
+  "oxe": { "replacement": "🐂", "description": "ox" },
+  "vattenbuffel": { "replacement": "🐃", "description": "water buffalo" },
+  "ko2": { "replacement": "🐄", "description": "cow" },
+  "gris": { "replacement": "🐷", "description": "pig face" },
+  "gris2": { "replacement": "🐖", "description": "pig" },
+  "vildsvin": { "replacement": "🐗", "description": "boar" },
+  "gris näsa": { "replacement": "🐽", "description": "pig nose" },
+  "Bagge": { "replacement": "🐏", "description": "ram" },
+  "får": { "replacement": "🐑", "description": "ewe" },
+  "get": { "replacement": "🐐", "description": "goat" },
+  "dromedar kamel": { "replacement": "🐪", "description": "camel" },
+  "kamel": { "replacement": "🐫", "description": "two-hump camel" },
+  "lama": { "replacement": "🦙", "description": "llama" },
+  "giraff": { "replacement": "🦒", "description": "giraffe" },
+  "elefant": { "replacement": "🐘", "description": "elephant" },
+  "mammut": { "replacement": "🦣", "description": "mammoth" },
+  "noshörning": { "replacement": "🦏", "description": "rhinoceros" },
+  "flodhäst": { "replacement": "🦛", "description": "hippopotamus" },
+  "mus": { "replacement": "🐭", "description": "mouse face" },
+  "mus2": { "replacement": "🐁", "description": "mouse" },
+  "råtta": { "replacement": "🐀", "description": "rat" },
+  "hamster": { "replacement": "🐹", "description": "hamster" },
+  "kanin": { "replacement": "🐰", "description": "rabbit face" },
+  "kanin2": { "replacement": "🐇", "description": "rabbit" },
+  "jordekorre": { "replacement": "🐿️", "description": "chipmunk" },
+  "bäver": { "replacement": "🦫", "description": "beaver" },
+  "igelkott": { "replacement": "🦔", "description": "hedgehog" },
+  "fladdermus": { "replacement": "🦇", "description": "bat" },
+  "Björn": { "replacement": "🐻", "description": "bear" },
+  "isbjörn": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "koala": { "replacement": "🐨", "description": "koala" },
+  "panda ansikte": { "replacement": "🐼", "description": "panda" },
+  "lättja": { "replacement": "🦥", "description": "sloth" },
+  "utter": { "replacement": "🦦", "description": "otter" },
+  "skunk": { "replacement": "🦨", "description": "skunk" },
+  "känguru": { "replacement": "🦘", "description": "kangaroo" },
+  "grävling": { "replacement": "🦡", "description": "badger" },
+  "fötter": { "replacement": "🐾", "description": "paw prints" },
+  "Kalkon": { "replacement": "🦃", "description": "turkey" },
+  "kyckling": { "replacement": "🐔", "description": "chicken" },
+  "tupp": { "replacement": "🐓", "description": "rooster" },
+  "kläckande kyckling": {
+    "replacement": "🐣",
+    "description": "hatching chick"
+  },
+  "baby kyckling": { "replacement": "🐤", "description": "baby chick" },
+  "kläckt fågelunge": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "fågel": { "replacement": "🐦", "description": "bird" },
+  "pingvin": { "replacement": "🐧", "description": "penguin" },
+  "duva": { "replacement": "🕊️", "description": "dove" },
+  "Örn": { "replacement": "🦅", "description": "eagle" },
+  "Anka": { "replacement": "🦆", "description": "duck" },
+  "svan": { "replacement": "🦢", "description": "swan" },
+  "Uggla": { "replacement": "🦉", "description": "owl" },
+  "dront": { "replacement": "🦤", "description": "dodo" },
+  "fjäder": { "replacement": "🪶", "description": "feather" },
+  "flamingo": { "replacement": "🦩", "description": "flamingo" },
+  "påfågel": { "replacement": "🦚", "description": "peacock" },
+  "papegoja": { "replacement": "🦜", "description": "parrot" },
+  "groda": { "replacement": "🐸", "description": "frog" },
+  "krokodil": { "replacement": "🐊", "description": "crocodile" },
+  "sköldpadda": { "replacement": "🐢", "description": "turtle" },
+  "ödla": { "replacement": "🦎", "description": "lizard" },
+  "orm": { "replacement": "🐍", "description": "snake" },
+  "drake ansikte": { "replacement": "🐲", "description": "dragon face" },
+  "drake": { "replacement": "🪁", "description": "kite" },
+  "sauropod": { "replacement": "🦕", "description": "sauropod" },
+  "t Rex": { "replacement": "🦖", "description": "T-Rex" },
+  "val": { "replacement": "🐳", "description": "spouting whale" },
+  "val2": { "replacement": "🐋", "description": "whale" },
+  "delfin": { "replacement": "🐬", "description": "dolphin" },
+  "täta": { "replacement": "🦭", "description": "seal" },
+  "fisk": { "replacement": "🐟", "description": "fish" },
+  "tropisk fisk": { "replacement": "🐠", "description": "tropical fish" },
+  "blåsfisk": { "replacement": "🐡", "description": "blowfish" },
+  "haj": { "replacement": "🦈", "description": "shark" },
+  "bläckfisk": { "replacement": "🦑", "description": "squid" },
+  "skal": { "replacement": "🐚", "description": "spiral shell" },
+  "snigel": { "replacement": "🐌", "description": "snail" },
+  "fjäril": { "replacement": "🦋", "description": "butterfly" },
+  "insekt": { "replacement": "🐛", "description": "bug" },
+  "myra": { "replacement": "🐜", "description": "ant" },
+  "bi": { "replacement": "🐝", "description": "honeybee" },
+  "skalbagge": { "replacement": "🪲", "description": "beetle" },
+  "lady beetle": { "replacement": "🐞", "description": "lady beetle" },
+  "cricket": { "replacement": "🦗", "description": "cricket" },
+  "kackerlacka": { "replacement": "🪳", "description": "cockroach" },
+  "Spindel": { "replacement": "🕷️", "description": "spider" },
+  "spindelnät": { "replacement": "🕸️", "description": "spider web" },
+  "skorpion": { "replacement": "♏", "description": "Scorpio" },
+  "mygga": { "replacement": "🦟", "description": "mosquito" },
+  "flyga": { "replacement": "🪰", "description": "fly" },
+  "mikrob": { "replacement": "🦠", "description": "microbe" },
+  "bukett": { "replacement": "💐", "description": "bouquet" },
+  "körsbärsblom": { "replacement": "🌸", "description": "cherry blossom" },
+  "vit blomma": { "replacement": "💮", "description": "white flower" },
+  "reste sig": { "replacement": "🌹", "description": "rose" },
+  "vissen blomma": { "replacement": "🥀", "description": "wilted flower" },
+  "hibiskus": { "replacement": "🌺", "description": "hibiscus" },
+  "solros": { "replacement": "🌻", "description": "sunflower" },
+  "blomma": { "replacement": "🌼", "description": "blossom" },
+  "tulpan": { "replacement": "🌷", "description": "tulip" },
+  "fröplanta": { "replacement": "🌱", "description": "seedling" },
+  "krukväxt": { "replacement": "🪴", "description": "potted plant" },
+  "vintergröna träd": { "replacement": "🌲", "description": "evergreen tree" },
+  "Lövträd": { "replacement": "🌳", "description": "deciduous tree" },
+  "palmträd": { "replacement": "🌴", "description": "palm tree" },
+  "kaktus": { "replacement": "🌵", "description": "cactus" },
+  "ris i örat": { "replacement": "🌾", "description": "sheaf of rice" },
+  "ört": { "replacement": "🌿", "description": "herb" },
+  "vitklöver": { "replacement": "☘️", "description": "shamrock" },
+  "fyrklöver": { "replacement": "🍀", "description": "four leaf clover" },
+  "lönnlöv": { "replacement": "🍁", "description": "maple leaf" },
+  "fallet blad": { "replacement": "🍂", "description": "fallen leaf" },
+  "löv": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "druvor": { "replacement": "🍇", "description": "grapes" },
+  "melon": { "replacement": "🍈", "description": "melon" },
+  "vattenmelon": { "replacement": "🍉", "description": "watermelon" },
+  "mandarin": { "replacement": "🍊", "description": "tangerine" },
+  "citron-": { "replacement": "🍋", "description": "lemon" },
+  "banan": { "replacement": "🍌", "description": "banana" },
+  "ananas": { "replacement": "🍍", "description": "pineapple" },
+  "mango": { "replacement": "🥭", "description": "mango" },
+  "äpple": { "replacement": "🍎", "description": "red apple" },
+  "grönt äpple": { "replacement": "🍏", "description": "green apple" },
+  "päron": { "replacement": "🍐", "description": "pear" },
+  "persika": { "replacement": "🍑", "description": "peach" },
+  "körsbär": { "replacement": "🍒", "description": "cherries" },
+  "jordgubbe": { "replacement": "🍓", "description": "strawberry" },
+  "blåbär": { "replacement": "🫐", "description": "blueberries" },
+  "Kiwi frukt": { "replacement": "🥝", "description": "kiwi fruit" },
+  "tomat": { "replacement": "🍅", "description": "tomato" },
+  "oliv": { "replacement": "🫒", "description": "olive" },
+  "kokos": { "replacement": "🥥", "description": "coconut" },
+  "avokado": { "replacement": "🥑", "description": "avocado" },
+  "äggplanta": { "replacement": "🍆", "description": "eggplant" },
+  "potatis": { "replacement": "🥔", "description": "potato" },
+  "morot": { "replacement": "🥕", "description": "carrot" },
+  "majs": { "replacement": "🌽", "description": "ear of corn" },
+  "het peppar": { "replacement": "🌶️", "description": "hot pepper" },
+  "paprika": { "replacement": "🫑", "description": "bell pepper" },
+  "gurka": { "replacement": "🥒", "description": "cucumber" },
+  "löv grön": { "replacement": "🥬", "description": "leafy green" },
+  "broccoli": { "replacement": "🥦", "description": "broccoli" },
+  "vitlök": { "replacement": "🧄", "description": "garlic" },
+  "lök": { "replacement": "🧅", "description": "onion" },
+  "svamp": { "replacement": "🧽", "description": "sponge" },
+  "jordnötter": { "replacement": "🥜", "description": "peanuts" },
+  "kastanj": { "replacement": "🌰", "description": "chestnut" },
+  "bröd": { "replacement": "🍞", "description": "bread" },
+  "croissant": { "replacement": "🥐", "description": "croissant" },
+  "bagettbröd": { "replacement": "🥖", "description": "baguette bread" },
+  "flatbröd": { "replacement": "🫓", "description": "flatbread" },
+  "pretzel": { "replacement": "🥨", "description": "pretzel" },
+  "bagel": { "replacement": "🥯", "description": "bagel" },
+  "pannkakor": { "replacement": "🥞", "description": "pancakes" },
+  "våffla": { "replacement": "🧇", "description": "waffle" },
+  "ost": { "replacement": "🧀", "description": "cheese wedge" },
+  "kött på ben": { "replacement": "🍖", "description": "meat on bone" },
+  "fjäderfäben": { "replacement": "🍗", "description": "poultry leg" },
+  "skär kött": { "replacement": "🥩", "description": "cut of meat" },
+  "bacon": { "replacement": "🥓", "description": "bacon" },
+  "hamburgare": { "replacement": "🍔", "description": "hamburger" },
+  "pommes frites": { "replacement": "🍟", "description": "french fries" },
+  "pizza": { "replacement": "🍕", "description": "pizza" },
+  "varmkorv": { "replacement": "🌭", "description": "hot dog" },
+  "smörgås": { "replacement": "🥪", "description": "sandwich" },
+  "taco": { "replacement": "🌮", "description": "taco" },
+  "burrito": { "replacement": "🌯", "description": "burrito" },
+  "tamale": { "replacement": "🫔", "description": "tamale" },
+  "fyllda flatbread": {
+    "replacement": "🥙",
+    "description": "stuffed flatbread"
+  },
+  "falafel": { "replacement": "🧆", "description": "falafel" },
+  "ägg": { "replacement": "🥚", "description": "egg" },
+  "stekt ägg": { "replacement": "🍳", "description": "cooking" },
+  "grunt matpanna": {
+    "replacement": "🥘",
+    "description": "shallow pan of food"
+  },
+  "gryta": { "replacement": "🍲", "description": "pot of food" },
+  "fondue": { "replacement": "🫕", "description": "fondue" },
+  "skål med sked": { "replacement": "🥣", "description": "bowl with spoon" },
+  "grönsallad": { "replacement": "🥗", "description": "green salad" },
+  "popcorn": { "replacement": "🍿", "description": "popcorn" },
+  "Smör": { "replacement": "🧈", "description": "butter" },
+  "salt-": { "replacement": "🧂", "description": "salt" },
+  "konserverad mat": { "replacement": "🥫", "description": "canned food" },
+  "bento": { "replacement": "🍱", "description": "bento box" },
+  "riskrackare": { "replacement": "🍘", "description": "rice cracker" },
+  "risboll": { "replacement": "🍙", "description": "rice ball" },
+  "ris": { "replacement": "🍚", "description": "cooked rice" },
+  "curry": { "replacement": "🍛", "description": "curry rice" },
+  "Ramen": { "replacement": "🍜", "description": "steaming bowl" },
+  "spaghetti": { "replacement": "🍝", "description": "spaghetti" },
+  "sötpotatis": { "replacement": "🍠", "description": "roasted sweet potato" },
+  "oden": { "replacement": "🍢", "description": "oden" },
+  "sushi": { "replacement": "🍣", "description": "sushi" },
+  "friterad räka": { "replacement": "🍤", "description": "fried shrimp" },
+  "fisktårta": { "replacement": "🍥", "description": "fish cake with swirl" },
+  "månekaka": { "replacement": "🥮", "description": "moon cake" },
+  "dango": { "replacement": "🍡", "description": "dango" },
+  "klimp": { "replacement": "🥟", "description": "dumpling" },
+  "lyckokaka": { "replacement": "🥠", "description": "fortune cookie" },
+  "avhämtningslåda": { "replacement": "🥡", "description": "takeout box" },
+  "krabba": { "replacement": "🦀", "description": "crab" },
+  "hummer": { "replacement": "🦞", "description": "lobster" },
+  "räka": { "replacement": "🦐", "description": "shrimp" },
+  "ostron": { "replacement": "🦪", "description": "oyster" },
+  "glass": { "replacement": "🍨", "description": "ice cream" },
+  "rakad is": { "replacement": "🍧", "description": "shaved ice" },
+  "munk": { "replacement": "🍩", "description": "doughnut" },
+  "kaka": { "replacement": "🍰", "description": "shortcake" },
+  "födelsedag": { "replacement": "🎂", "description": "birthday cake" },
+  "cupcake": { "replacement": "🧁", "description": "cupcake" },
+  "paj": { "replacement": "🥧", "description": "pie" },
+  "chokladkaka": { "replacement": "🍫", "description": "chocolate bar" },
+  "godis": { "replacement": "🍬", "description": "candy" },
+  "klubba": { "replacement": "🍭", "description": "lollipop" },
+  "tjock vaniljsås": { "replacement": "🍮", "description": "custard" },
+  "honungskruka": { "replacement": "🍯", "description": "honey pot" },
+  "nappflaska": { "replacement": "🍼", "description": "baby bottle" },
+  "mjölkglas": { "replacement": "🥛", "description": "glass of milk" },
+  "kaffe": { "replacement": "☕", "description": "hot beverage" },
+  "tekanna": { "replacement": "🫖", "description": "teapot" },
+  "te": { "replacement": "🍵", "description": "teacup without handle" },
+  "skull": { "replacement": "🍶", "description": "sake" },
+  "champagne": {
+    "replacement": "🍾",
+    "description": "bottle with popping cork"
+  },
+  "vinglas": { "replacement": "🍷", "description": "wine glass" },
+  "cocktail": { "replacement": "🍸", "description": "cocktail glass" },
+  "tropisk drink": { "replacement": "🍹", "description": "tropical drink" },
+  "öl": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "klirrande glasögon": {
+    "replacement": "🥂",
+    "description": "clinking glasses"
+  },
+  "tumglas": { "replacement": "🥃", "description": "tumbler glass" },
+  "kopp med halm": { "replacement": "🥤", "description": "cup with straw" },
+  "bubbelte": { "replacement": "🧋", "description": "bubble tea" },
+  "dryckesbox": { "replacement": "🧃", "description": "beverage box" },
+  "para": { "replacement": "🧉", "description": "mate" },
+  "isbit": { "replacement": "🧊", "description": "ice" },
+  "ätpinnar": { "replacement": "🥢", "description": "chopsticks" },
+  "tallrik med bestick": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "gaffel och kniv": { "replacement": "🍴", "description": "fork and knife" },
+  "sked": { "replacement": "🥄", "description": "spoon" },
+  "hocho": { "replacement": "🔪", "description": "kitchen knife" },
+  "amfora": { "replacement": "🏺", "description": "amphora" },
+  "jord afrika": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "jordamerika": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "jordasien": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "klot med meridianer": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "världskarta": { "replacement": "🗺️", "description": "world map" },
+  "Japan": { "replacement": "🗾", "description": "map of Japan" },
+  "kompass": { "replacement": "🧭", "description": "compass" },
+  "bergssnö": { "replacement": "🏔️", "description": "snow-capped mountain" },
+  "fjäll": { "replacement": "⛰️", "description": "mountain" },
+  "vulkan": { "replacement": "🌋", "description": "volcano" },
+  "berget Fuji": { "replacement": "🗻", "description": "mount fuji" },
+  "camping": { "replacement": "🏕️", "description": "camping" },
+  "Strand parasoll": {
+    "replacement": "🏖️",
+    "description": "beach with umbrella"
+  },
+  "öken-": { "replacement": "🏜️", "description": "desert" },
+  "öde ö": { "replacement": "🏝️", "description": "desert island" },
+  "nationalpark": { "replacement": "🏞️", "description": "national park" },
+  "stadion": { "replacement": "🏟️", "description": "stadium" },
+  "klassisk byggnad": {
+    "replacement": "🏛️",
+    "description": "classical building"
+  },
+  "byggnadskonstruktion": {
+    "replacement": "🏗️",
+    "description": "building construction"
+  },
+  "tegelstenar": { "replacement": "🧱", "description": "brick" },
+  "sten": { "replacement": "🪨", "description": "rock" },
+  "trä": { "replacement": "🪵", "description": "wood" },
+  "hydda": { "replacement": "🛖", "description": "hut" },
+  "hus": { "replacement": "🏠", "description": "house" },
+  "övergivna hus": { "replacement": "🏚️", "description": "derelict house" },
+  "hus med trädgård": {
+    "replacement": "🏡",
+    "description": "house with garden"
+  },
+  "kontor": { "replacement": "🏢", "description": "office building" },
+  "postkontor": { "replacement": "🏣", "description": "Japanese post office" },
+  "europeiskt postkontor": {
+    "replacement": "🏤",
+    "description": "post office"
+  },
+  "sjukhus": { "replacement": "🏥", "description": "hospital" },
+  "Bank": { "replacement": "🏦", "description": "bank" },
+  "hotell": { "replacement": "🏨", "description": "hotel" },
+  "kärlekshotell": { "replacement": "🏩", "description": "love hotel" },
+  "närbutik": { "replacement": "🏪", "description": "convenience store" },
+  "skola": { "replacement": "🏫", "description": "school" },
+  "varuhus": { "replacement": "🏬", "description": "department store" },
+  "fabrik": { "replacement": "🏭", "description": "factory" },
+  "japanska slottet": { "replacement": "🏯", "description": "Japanese castle" },
+  "europeiska slottet": { "replacement": "🏰", "description": "castle" },
+  "bröllop": { "replacement": "💒", "description": "wedding" },
+  "tokyo tornet": { "replacement": "🗼", "description": "Tokyo tower" },
+  "Frihetsgudinnan": {
+    "replacement": "🗽",
+    "description": "Statue of Liberty"
+  },
+  "kyrka": { "replacement": "⛪", "description": "church" },
+  "moskén": { "replacement": "🕌", "description": "mosque" },
+  "hinduiska templet": { "replacement": "🛕", "description": "hindu temple" },
+  "synagoga": { "replacement": "🕍", "description": "synagogue" },
+  "shinto helgedom": { "replacement": "⛩️", "description": "shinto shrine" },
+  "kaaba": { "replacement": "🕋", "description": "kaaba" },
+  "fontän": { "replacement": "⛲", "description": "fountain" },
+  "tält": { "replacement": "⛺", "description": "tent" },
+  "dimmig": { "replacement": "🌁", "description": "foggy" },
+  "natt med stjärnor": {
+    "replacement": "🌃",
+    "description": "night with stars"
+  },
+  "stadsbild": { "replacement": "🏙️", "description": "cityscape" },
+  "soluppgång över bergen": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "soluppgång": { "replacement": "🌅", "description": "sunrise" },
+  "stadens solnedgång": {
+    "replacement": "🌆",
+    "description": "cityscape at dusk"
+  },
+  "stadens soluppgång": { "replacement": "🌇", "description": "sunset" },
+  "bro på natten": { "replacement": "🌉", "description": "bridge at night" },
+  "heta källor": { "replacement": "♨️", "description": "hot springs" },
+  "karusellhäst": { "replacement": "🎠", "description": "carousel horse" },
+  "pariserhjul": { "replacement": "🎡", "description": "ferris wheel" },
+  "Berg och dalbana": { "replacement": "🎢", "description": "roller coaster" },
+  "barberare": { "replacement": "💈", "description": "barber pole" },
+  "cirkustält": { "replacement": "🎪", "description": "circus tent" },
+  "ång lok": { "replacement": "🚂", "description": "locomotive" },
+  "järnvägsvagn": { "replacement": "🚃", "description": "railway car" },
+  "bullettrain-sidan": {
+    "replacement": "🚄",
+    "description": "high-speed train"
+  },
+  "bullettrain front": { "replacement": "🚅", "description": "bullet train" },
+  "tåg2": { "replacement": "🚆", "description": "train" },
+  "metro": { "replacement": "🚇", "description": "metro" },
+  "snabbspårväg": { "replacement": "🚈", "description": "light rail" },
+  "station": { "replacement": "🚉", "description": "station" },
+  "spårvagn": { "replacement": "🚊", "description": "tram" },
+  "monorail": { "replacement": "🚝", "description": "monorail" },
+  "berg järnväg": { "replacement": "🚞", "description": "mountain railway" },
+  "tåg": { "replacement": "🚋", "description": "tram car" },
+  "buss": { "replacement": "🚌", "description": "bus" },
+  "mötande buss": { "replacement": "🚍", "description": "oncoming bus" },
+  "trolleybuss": { "replacement": "🚎", "description": "trolleybus" },
+  "minibus": { "replacement": "🚐", "description": "minibus" },
+  "ambulans": { "replacement": "🚑", "description": "ambulance" },
+  "brandbil": { "replacement": "🚒", "description": "fire engine" },
+  "polis bil": { "replacement": "🚓", "description": "police car" },
+  "mötande polisbil": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "taxi": { "replacement": "🚕", "description": "taxi" },
+  "mötande taxi": { "replacement": "🚖", "description": "oncoming taxi" },
+  "bil": { "replacement": "🚗", "description": "automobile" },
+  "mötande bil": { "replacement": "🚘", "description": "oncoming automobile" },
+  "blå bil": { "replacement": "🚙", "description": "sport utility vehicle" },
+  "pickup": { "replacement": "🛻", "description": "pickup truck" },
+  "lastbil": { "replacement": "🚚", "description": "delivery truck" },
+  "ledad lastbil": { "replacement": "🚛", "description": "articulated lorry" },
+  "traktor": { "replacement": "🚜", "description": "tractor" },
+  "racerbil": { "replacement": "🏎️", "description": "racing car" },
+  "motorcykel": { "replacement": "🏍️", "description": "motorcycle" },
+  "skoter": { "replacement": "🛵", "description": "motor scooter" },
+  "manuell rullstol": {
+    "replacement": "🦽",
+    "description": "manual wheelchair"
+  },
+  "motoriserad rullstol": {
+    "replacement": "🦼",
+    "description": "motorized wheelchair"
+  },
+  "auto rickshaw": { "replacement": "🛺", "description": "auto rickshaw" },
+  "cykel": { "replacement": "🚲", "description": "bicycle" },
+  "spark sparkcykel": { "replacement": "🛴", "description": "kick scooter" },
+  "skateboard": { "replacement": "🛹", "description": "skateboard" },
+  "rullskridsko": { "replacement": "🛼", "description": "roller skate" },
+  "busshållplats": { "replacement": "🚏", "description": "bus stop" },
+  "motorväg": { "replacement": "🛣️", "description": "motorway" },
+  "järnvägsspår": { "replacement": "🛤️", "description": "railway track" },
+  "oljefat": { "replacement": "🛢️", "description": "oil drum" },
+  "bensinpump": { "replacement": "⛽", "description": "fuel pump" },
+  "roterande ljus": { "replacement": "🚨", "description": "police car light" },
+  "trafikljus": {
+    "replacement": "🚥",
+    "description": "horizontal traffic light"
+  },
+  "vertikalt trafikljus": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "Stopp skylt": { "replacement": "🛑", "description": "stop sign" },
+  "konstruktion": { "replacement": "🚧", "description": "construction" },
+  "ankare": { "replacement": "⚓", "description": "anchor" },
+  "båt": { "replacement": "⛵", "description": "sailboat" },
+  "kanot": { "replacement": "🛶", "description": "canoe" },
+  "snabb motorbåt": { "replacement": "🚤", "description": "speedboat" },
+  "passagerar skepp": { "replacement": "🛳️", "description": "passenger ship" },
+  "färja": { "replacement": "⛴️", "description": "ferry" },
+  "motorbåt": { "replacement": "🛥️", "description": "motor boat" },
+  "fartyg": { "replacement": "🚢", "description": "ship" },
+  "flygplan": { "replacement": "✈️", "description": "airplane" },
+  "litet flygplan": { "replacement": "🛩️", "description": "small airplane" },
+  "flygavgång": { "replacement": "🛫", "description": "airplane departure" },
+  "flyg ankomst": { "replacement": "🛬", "description": "airplane arrival" },
+  "fallskärm": { "replacement": "🪂", "description": "parachute" },
+  "sittplats": { "replacement": "💺", "description": "seat" },
+  "helikopter": { "replacement": "🚁", "description": "helicopter" },
+  "upphängningsjärnväg": {
+    "replacement": "🚟",
+    "description": "suspension railway"
+  },
+  "bergsväng": { "replacement": "🚠", "description": "mountain cableway" },
+  "spårväg": { "replacement": "🚡", "description": "aerial tramway" },
+  "artificiell satellit": { "replacement": "🛰️", "description": "satellite" },
+  "raket": { "replacement": "🚀", "description": "rocket" },
+  "flygande tefat": { "replacement": "🛸", "description": "flying saucer" },
+  "bellhop bell": { "replacement": "🛎️", "description": "bellhop bell" },
+  "bagage": { "replacement": "🧳", "description": "luggage" },
+  "timglas": { "replacement": "⌛", "description": "hourglass done" },
+  "timglas som strömmar sand": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "Kolla på": { "replacement": "⌚", "description": "watch" },
+  "väckarklocka": { "replacement": "⏰", "description": "alarm clock" },
+  "stoppur": { "replacement": "⏱️", "description": "stopwatch" },
+  "timerklocka": { "replacement": "⏲️", "description": "timer clock" },
+  "mantelpiece klocka": {
+    "replacement": "🕰️",
+    "description": "mantelpiece clock"
+  },
+  "klocka12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "klocka1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "klocka1": { "replacement": "🕐", "description": "one o’clock" },
+  "klocka130": { "replacement": "🕜", "description": "one-thirty" },
+  "klocka2": { "replacement": "🕑", "description": "two o’clock" },
+  "klocka230": { "replacement": "🕝", "description": "two-thirty" },
+  "klocka3": { "replacement": "🕒", "description": "three o’clock" },
+  "klocka330": { "replacement": "🕞", "description": "three-thirty" },
+  "klocka4": { "replacement": "🕓", "description": "four o’clock" },
+  "klocka430": { "replacement": "🕟", "description": "four-thirty" },
+  "klocka5": { "replacement": "🕔", "description": "five o’clock" },
+  "klocka530": { "replacement": "🕠", "description": "five-thirty" },
+  "klocka6": { "replacement": "🕕", "description": "six o’clock" },
+  "klocka630": { "replacement": "🕡", "description": "six-thirty" },
+  "klocka7": { "replacement": "🕖", "description": "seven o’clock" },
+  "klocka730": { "replacement": "🕢", "description": "seven-thirty" },
+  "klocka8": { "replacement": "🕗", "description": "eight o’clock" },
+  "klocka830": { "replacement": "🕣", "description": "eight-thirty" },
+  "klocka9": { "replacement": "🕘", "description": "nine o’clock" },
+  "klocka 930": { "replacement": "🕤", "description": "nine-thirty" },
+  "klocka10": { "replacement": "🕙", "description": "ten o’clock" },
+  "klocka1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "klocka11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "klocka1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "ny måne": { "replacement": "🌑", "description": "new moon" },
+  "vaxande halvmåne": {
+    "replacement": "🌒",
+    "description": "waxing crescent moon"
+  },
+  "första kvartalet månen": {
+    "replacement": "🌓",
+    "description": "first quarter moon"
+  },
+  "måne": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "fullmåne": { "replacement": "🌕", "description": "full moon" },
+  "avtagande gibbous moon": {
+    "replacement": "🌖",
+    "description": "waning gibbous moon"
+  },
+  "sista kvartalsmånen": {
+    "replacement": "🌗",
+    "description": "last quarter moon"
+  },
+  "avtagande halvmåne": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "halv måne": { "replacement": "🌙", "description": "crescent moon" },
+  "nymåne med ansikte": { "replacement": "🌚", "description": "new moon face" },
+  "första kvartalet månen med ansiktet": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "sista kvartalsmånen med ansiktet": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "termometer": { "replacement": "🌡️", "description": "thermometer" },
+  "solig": { "replacement": "☀️", "description": "sun" },
+  "fullmåne med ansikte": {
+    "replacement": "🌝",
+    "description": "full moon face"
+  },
+  "sol med ansikte": { "replacement": "🌞", "description": "sun with face" },
+  "ringad planet": { "replacement": "🪐", "description": "ringed planet" },
+  "stjärna": { "replacement": "⭐", "description": "star" },
+  "stjärna2": { "replacement": "🌟", "description": "glowing star" },
+  "stjärnor": { "replacement": "🌠", "description": "shooting star" },
+  "Vintergatan": { "replacement": "🌌", "description": "milky way" },
+  "moln": { "replacement": "☁️", "description": "cloud" },
+  "delvis soligt": { "replacement": "⛅", "description": "sun behind cloud" },
+  "moln med blixt och regn": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "sol bakom litet moln": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "sol bakom stort moln": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "sol bakom regnmoln": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "moln med regn": { "replacement": "🌧️", "description": "cloud with rain" },
+  "moln med snö": { "replacement": "🌨️", "description": "cloud with snow" },
+  "moln med blixt": {
+    "replacement": "🌩️",
+    "description": "cloud with lightning"
+  },
+  "tornado": { "replacement": "🌪️", "description": "tornado" },
+  "dimma": { "replacement": "🌫️", "description": "fog" },
+  "vind ansikte": { "replacement": "🌬️", "description": "wind face" },
+  "cyklon": { "replacement": "🌀", "description": "cyclone" },
+  "regnbåge": { "replacement": "🌈", "description": "rainbow" },
+  "stängt paraply": { "replacement": "🌂", "description": "closed umbrella" },
+  "öppet paraply": { "replacement": "☂️", "description": "umbrella" },
+  "paraply": { "replacement": "☔", "description": "umbrella with rain drops" },
+  "parasoll på marken": {
+    "replacement": "⛱️",
+    "description": "umbrella on ground"
+  },
+  "zap": { "replacement": "⚡", "description": "high voltage" },
+  "snöflinga": { "replacement": "❄️", "description": "snowflake" },
+  "snögubbe med snö": { "replacement": "☃️", "description": "snowman" },
+  "snögubbe": { "replacement": "⛄", "description": "snowman without snow" },
+  "komet": { "replacement": "☄️", "description": "comet" },
+  "brand": { "replacement": "🔥", "description": "fire" },
+  "liten droppe": { "replacement": "💧", "description": "droplet" },
+  "hav": { "replacement": "🌊", "description": "water wave" },
+  "Pumpalykta": { "replacement": "🎃", "description": "jack-o-lantern" },
+  "julgran": { "replacement": "🎄", "description": "Christmas tree" },
+  "fyrverkeri": { "replacement": "🎆", "description": "fireworks" },
+  "tomtebloss": { "replacement": "🎇", "description": "sparkler" },
+  "smällare": { "replacement": "🧨", "description": "firecracker" },
+  "gnistrar": { "replacement": "✨", "description": "sparkles" },
+  "ballong": { "replacement": "🎈", "description": "balloon" },
+  "tada": { "replacement": "🎉", "description": "party popper" },
+  "konfettiboll": { "replacement": "🎊", "description": "confetti ball" },
+  "tanabata träd": { "replacement": "🎋", "description": "tanabata tree" },
+  "bambu": { "replacement": "🎍", "description": "pine decoration" },
+  "dockor": { "replacement": "🎎", "description": "Japanese dolls" },
+  "flaggor": { "replacement": "🎏", "description": "carp streamer" },
+  "vindspel": { "replacement": "🎐", "description": "wind chime" },
+  "ris scen": { "replacement": "🎑", "description": "moon viewing ceremony" },
+  "rött kuvert": { "replacement": "🧧", "description": "red envelope" },
+  "band": { "replacement": "🎀", "description": "ribbon" },
+  "gåva": { "replacement": "🎁", "description": "wrapped gift" },
+  "påminnelseband": { "replacement": "🎗️", "description": "reminder ribbon" },
+  "biljetter": { "replacement": "🎟️", "description": "admission tickets" },
+  "biljett": { "replacement": "🎫", "description": "ticket" },
+  "medalj militär": { "replacement": "🎖️", "description": "military medal" },
+  "trofé": { "replacement": "🏆", "description": "trophy" },
+  "medaljsporter": { "replacement": "🏅", "description": "sports medal" },
+  "1: a plats medalj": {
+    "replacement": "🥇",
+    "description": "1st place medal"
+  },
+  "2: a plats medalj": {
+    "replacement": "🥈",
+    "description": "2nd place medal"
+  },
+  "3: e plats medalj": {
+    "replacement": "🥉",
+    "description": "3rd place medal"
+  },
+  "fotboll": { "replacement": "🏈", "description": "american football" },
+  "baseboll": { "replacement": "⚾", "description": "baseball" },
+  "mjuk boll": { "replacement": "🥎", "description": "softball" },
+  "basketboll": { "replacement": "🏀", "description": "basketball" },
+  "volleyboll": { "replacement": "🏐", "description": "volleyball" },
+  "rugbyfotboll": { "replacement": "🏉", "description": "rugby football" },
+  "tennis": { "replacement": "🎾", "description": "tennis" },
+  "flygande skiva": { "replacement": "🥏", "description": "flying disc" },
+  "bowling": { "replacement": "🎳", "description": "bowling" },
+  "cricket spel": { "replacement": "🏏", "description": "cricket game" },
+  "landhockey": { "replacement": "🏑", "description": "field hockey" },
+  "ishockey": { "replacement": "🏒", "description": "ice hockey" },
+  "lacrosse": { "replacement": "🥍", "description": "lacrosse" },
+  "pingis": { "replacement": "🏓", "description": "ping pong" },
+  "badminton": { "replacement": "🏸", "description": "badminton" },
+  "Boxningshandske": { "replacement": "🥊", "description": "boxing glove" },
+  "kampsportuniform": {
+    "replacement": "🥋",
+    "description": "martial arts uniform"
+  },
+  "målnät": { "replacement": "🥅", "description": "goal net" },
+  "skridsko": { "replacement": "⛸️", "description": "ice skate" },
+  "fiskestång och fisk": { "replacement": "🎣", "description": "fishing pole" },
+  "dykmask": { "replacement": "🤿", "description": "diving mask" },
+  "löparskjorta med skärp": {
+    "replacement": "🎽",
+    "description": "running shirt"
+  },
+  "åka skidor": { "replacement": "🎿", "description": "skis" },
+  "kälke": { "replacement": "🛷", "description": "sled" },
+  "curling sten": { "replacement": "🥌", "description": "curling stone" },
+  "pil": { "replacement": "🎯", "description": "direct hit" },
+  "yo yo": { "replacement": "🪀", "description": "yo-yo" },
+  "8boll": { "replacement": "🎱", "description": "pool 8 ball" },
+  "kristallkula": { "replacement": "🔮", "description": "crystal ball" },
+  "trollspö": { "replacement": "🪄", "description": "magic wand" },
+  "nazar-amulett": { "replacement": "🧿", "description": "nazar amulet" },
+  "TV-spel": { "replacement": "🎮", "description": "video game" },
+  "joystick": { "replacement": "🕹️", "description": "joystick" },
+  "spelautomat": { "replacement": "🎰", "description": "slot machine" },
+  "spelet dör": { "replacement": "🎲", "description": "game die" },
+  "kontursåg": { "replacement": "🧩", "description": "puzzle piece" },
+  "nallebjörn": { "replacement": "🧸", "description": "teddy bear" },
+  "pinata": { "replacement": "🪅", "description": "piñata" },
+  "häckande dockor": { "replacement": "🪆", "description": "nesting dolls" },
+  "spader": { "replacement": "♠️", "description": "spade suit" },
+  "hjärtan": { "replacement": "♥️", "description": "heart suit" },
+  "ruter": { "replacement": "♦️", "description": "diamond suit" },
+  "klubbar": { "replacement": "♣️", "description": "club suit" },
+  "schackbonde": { "replacement": "♟️", "description": "chess pawn" },
+  "svart joker": { "replacement": "🃏", "description": "joker" },
+  "mahjong": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "blomma spelkort": {
+    "replacement": "🎴",
+    "description": "flower playing cards"
+  },
+  "scenkonst": { "replacement": "🎭", "description": "performing arts" },
+  "inramad bild": { "replacement": "🖼️", "description": "framed picture" },
+  "konst": { "replacement": "🎨", "description": "artist palette" },
+  "tråd": { "replacement": "🧵", "description": "thread" },
+  "synål": { "replacement": "🪡", "description": "sewing needle" },
+  "garn": { "replacement": "🧶", "description": "yarn" },
+  "Knut": { "replacement": "🪢", "description": "knot" },
+  "glasögon": { "replacement": "🥽", "description": "goggles" },
+  "mörka solglasögon": { "replacement": "🕶️", "description": "sunglasses" },
+  "labb Rock": { "replacement": "🥼", "description": "lab coat" },
+  "säkerhetsväst": { "replacement": "🦺", "description": "safety vest" },
+  "slips": { "replacement": "👔", "description": "necktie" },
+  "skjorta": { "replacement": "👕", "description": "t-shirt" },
+  "jeans": { "replacement": "👖", "description": "jeans" },
+  "scarf": { "replacement": "🧣", "description": "scarf" },
+  "handskar": { "replacement": "🧤", "description": "gloves" },
+  "täcka": { "replacement": "🧥", "description": "coat" },
+  "strumpor": { "replacement": "🧦", "description": "socks" },
+  "klänning": { "replacement": "👗", "description": "dress" },
+  "kimono": { "replacement": "👘", "description": "kimono" },
+  "sari": { "replacement": "🥻", "description": "sari" },
+  "hel baddräkt": { "replacement": "🩱", "description": "one-piece swimsuit" },
+  "simma kort": { "replacement": "🩲", "description": "briefs" },
+  "shorts": { "replacement": "🩳", "description": "shorts" },
+  "bikini": { "replacement": "👙", "description": "bikini" },
+  "kvinnokläder": { "replacement": "👚", "description": "woman’s clothes" },
+  "handväska": { "replacement": "👜", "description": "handbag" },
+  "påse": { "replacement": "👝", "description": "clutch bag" },
+  "handla": { "replacement": "🛍️", "description": "shopping bags" },
+  "skolväskan": { "replacement": "🎒", "description": "backpack" },
+  "rem med sandaler": { "replacement": "🩴", "description": "thong sandal" },
+  "mans sko": { "replacement": "👞", "description": "man’s shoe" },
+  "atletisk sko": { "replacement": "👟", "description": "running shoe" },
+  "vandringskänga": { "replacement": "🥾", "description": "hiking boot" },
+  "platt sko": { "replacement": "🥿", "description": "flat shoe" },
+  "hög klack": { "replacement": "👠", "description": "high-heeled shoe" },
+  "sandal": { "replacement": "👡", "description": "woman’s sandal" },
+  "balettskor": { "replacement": "🩰", "description": "ballet shoes" },
+  "känga": { "replacement": "👢", "description": "woman’s boot" },
+  "krona": { "replacement": "👑", "description": "crown" },
+  "kvinnahatt": { "replacement": "👒", "description": "woman’s hat" },
+  "tophat": { "replacement": "🎩", "description": "top hat" },
+  "murbruk": { "replacement": "🎓", "description": "graduation cap" },
+  "fakturerat lock": { "replacement": "🧢", "description": "billed cap" },
+  "militär hjälm": { "replacement": "🪖", "description": "military helmet" },
+  "räddningsarbetare hjälm": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "radband": { "replacement": "📿", "description": "prayer beads" },
+  "läppstift": { "replacement": "💄", "description": "lipstick" },
+  "ringa": { "replacement": "💍", "description": "ring" },
+  "pärla": { "replacement": "💎", "description": "gem stone" },
+  "stum": { "replacement": "🔇", "description": "muted speaker" },
+  "högtalare": { "replacement": "📢", "description": "loudspeaker" },
+  "ljud": { "replacement": "🔉", "description": "speaker medium volume" },
+  "högt ljud": { "replacement": "🔊", "description": "speaker high volume" },
+  "mega": { "replacement": "📣", "description": "megaphone" },
+  "posthorn": { "replacement": "📯", "description": "postal horn" },
+  "klocka": { "replacement": "🔔", "description": "bell" },
+  "ingen klocka": { "replacement": "🔕", "description": "bell with slash" },
+  "musikaliska poäng": { "replacement": "🎼", "description": "musical score" },
+  "musiknot": { "replacement": "🎵", "description": "musical note" },
+  "anteckningar": { "replacement": "🎶", "description": "musical notes" },
+  "studiomikrofon": { "replacement": "🎙️", "description": "studio microphone" },
+  "nivåreglage": { "replacement": "🎚️", "description": "level slider" },
+  "kontrollvred": { "replacement": "🎛️", "description": "control knobs" },
+  "mikrofon": { "replacement": "🎤", "description": "microphone" },
+  "hörlurar": { "replacement": "🎧", "description": "headphone" },
+  "radio": { "replacement": "📻", "description": "radio" },
+  "saxofon": { "replacement": "🎷", "description": "saxophone" },
+  "dragspel": { "replacement": "🪗", "description": "accordion" },
+  "gitarr": { "replacement": "🎸", "description": "guitar" },
+  "musikaliskt tangentbord": {
+    "replacement": "🎹",
+    "description": "musical keyboard"
+  },
+  "trumpet": { "replacement": "🎺", "description": "trumpet" },
+  "fiol": { "replacement": "🎻", "description": "violin" },
+  "banjo": { "replacement": "🪕", "description": "banjo" },
+  "trumma": { "replacement": "🥁", "description": "drum" },
+  "lång trumma": { "replacement": "🪘", "description": "long drum" },
+  "iPhone": { "replacement": "📱", "description": "mobile phone" },
+  "kallelse": { "replacement": "📲", "description": "mobile phone with arrow" },
+  "telefon": { "replacement": "☎️", "description": "telephone" },
+  "telefonmottagare": {
+    "replacement": "📞",
+    "description": "telephone receiver"
+  },
+  "personsökare": { "replacement": "📟", "description": "pager" },
+  "fax": { "replacement": "📠", "description": "fax machine" },
+  "batteri": { "replacement": "🔋", "description": "battery" },
+  "elektrisk kontakt": { "replacement": "🔌", "description": "electric plug" },
+  "dator": { "replacement": "💻", "description": "laptop" },
+  "stationär dator": { "replacement": "🖥️", "description": "desktop computer" },
+  "skrivare": { "replacement": "🖨️", "description": "printer" },
+  "tangentbord": { "replacement": "⌨️", "description": "keyboard" },
+  "data mus": { "replacement": "🖱️", "description": "computer mouse" },
+  "trackball": { "replacement": "🖲️", "description": "trackball" },
+  "minidisk": { "replacement": "💽", "description": "computer disk" },
+  "Diskett": { "replacement": "💾", "description": "floppy disk" },
+  "CD": { "replacement": "💿", "description": "optical disk" },
+  "dvd": { "replacement": "📀", "description": "dvd" },
+  "kulram": { "replacement": "🧮", "description": "abacus" },
+  "filmkamera": { "replacement": "🎥", "description": "movie camera" },
+  "filmremsa": { "replacement": "🎞️", "description": "film frames" },
+  "filmprojektor": { "replacement": "📽️", "description": "film projector" },
+  "kläpp": { "replacement": "🎬", "description": "clapper board" },
+  "tv": { "replacement": "📺", "description": "television" },
+  "kamera": { "replacement": "📷", "description": "camera" },
+  "kamera blixt": { "replacement": "📸", "description": "camera with flash" },
+  "videokamera": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "mag": { "replacement": "🔍", "description": "magnifying glass tilted left" },
+  "mag rätt": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "ljus": { "replacement": "🕯️", "description": "candle" },
+  "Glödlampa": { "replacement": "💡", "description": "light bulb" },
+  "ficklampa": { "replacement": "🔦", "description": "flashlight" },
+  "izakaya lykta": { "replacement": "🏮", "description": "red paper lantern" },
+  "diya lampa": { "replacement": "🪔", "description": "diya lamp" },
+  "anteckningsbok med dekorativt omslag": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "sluten bok": { "replacement": "📕", "description": "closed book" },
+  "bok": { "replacement": "📖", "description": "open book" },
+  "grön bok": { "replacement": "📗", "description": "green book" },
+  "blå bok": { "replacement": "📘", "description": "blue book" },
+  "orange bok": { "replacement": "📙", "description": "orange book" },
+  "böcker": { "replacement": "📚", "description": "books" },
+  "anteckningsbok": { "replacement": "📓", "description": "notebook" },
+  "huvudbok": { "replacement": "📒", "description": "ledger" },
+  "sida med lock": { "replacement": "📃", "description": "page with curl" },
+  "skrolla": { "replacement": "📜", "description": "scroll" },
+  "sidan uppåt": { "replacement": "📄", "description": "page facing up" },
+  "tidning": { "replacement": "📰", "description": "newspaper" },
+  "tidningsrulle": {
+    "replacement": "🗞️",
+    "description": "rolled-up newspaper"
+  },
+  "bokmärkesflikar": { "replacement": "📑", "description": "bookmark tabs" },
+  "bokmärke": { "replacement": "🔖", "description": "bookmark" },
+  "märka": { "replacement": "🏷️", "description": "label" },
+  "moneybag": { "replacement": "💰", "description": "money bag" },
+  "mynt": { "replacement": "🪙", "description": "coin" },
+  "yen": { "replacement": "💴", "description": "yen banknote" },
+  "dollar": { "replacement": "💵", "description": "dollar banknote" },
+  "euro": { "replacement": "💶", "description": "euro banknote" },
+  "pund": { "replacement": "💷", "description": "pound banknote" },
+  "pengar med vingar": {
+    "replacement": "💸",
+    "description": "money with wings"
+  },
+  "kreditkort": { "replacement": "💳", "description": "credit card" },
+  "mottagande": { "replacement": "🧾", "description": "receipt" },
+  "Diagram": {
+    "replacement": "💹",
+    "description": "chart increasing with yen"
+  },
+  "e-post": { "replacement": "📧", "description": "e-mail" },
+  "inkommande kuvert": {
+    "replacement": "📨",
+    "description": "incoming envelope"
+  },
+  "kuvert med pil": {
+    "replacement": "📩",
+    "description": "envelope with arrow"
+  },
+  "utkorgsfack": { "replacement": "📤", "description": "outbox tray" },
+  "inkorgsfack": { "replacement": "📥", "description": "inbox tray" },
+  "paket": { "replacement": "📦", "description": "package" },
+  "brevlåda": {
+    "replacement": "📫",
+    "description": "closed mailbox with raised flag"
+  },
+  "brevlådan stängd": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "brevlåda med post": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "postlåda utan post": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "Brevlåda": { "replacement": "📮", "description": "postbox" },
+  "valurna": { "replacement": "🗳️", "description": "ballot box with ballot" },
+  "penna2": { "replacement": "✏️", "description": "pencil" },
+  "svart spets": { "replacement": "✒️", "description": "black nib" },
+  "reservoarpenna": { "replacement": "🖋️", "description": "fountain pen" },
+  "penna": { "replacement": "🖊️", "description": "pen" },
+  "pensel": { "replacement": "🖌️", "description": "paintbrush" },
+  "krita": { "replacement": "🖍️", "description": "crayon" },
+  "PM": { "replacement": "📝", "description": "memo" },
+  "portfölj": { "replacement": "💼", "description": "briefcase" },
+  "filmapp": { "replacement": "📁", "description": "file folder" },
+  "öppna filmappen": { "replacement": "📂", "description": "open file folder" },
+  "avdelare för kortindex": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "datum": { "replacement": "📅", "description": "calendar" },
+  "kalender": { "replacement": "📆", "description": "tear-off calendar" },
+  "spiral anteckningsblock": {
+    "replacement": "🗒️",
+    "description": "spiral notepad"
+  },
+  "spiralkalender": { "replacement": "🗓️", "description": "spiral calendar" },
+  "kortindex": { "replacement": "📇", "description": "card index" },
+  "diagram med uppåtgående trend": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "diagram med nedåtgående trend": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "stapeldiagram": { "replacement": "📊", "description": "bar chart" },
+  "Urklipp": { "replacement": "📋", "description": "clipboard" },
+  "kartnål": { "replacement": "📌", "description": "pushpin" },
+  "rund pushpin": { "replacement": "📍", "description": "round pushpin" },
+  "gem": { "replacement": "📎", "description": "paperclip" },
+  "Gem": { "replacement": "🖇️", "description": "linked paperclips" },
+  "rak linjal": { "replacement": "📏", "description": "straight ruler" },
+  "triangulär linjal": {
+    "replacement": "📐",
+    "description": "triangular ruler"
+  },
+  "sax": { "replacement": "✂️", "description": "scissors" },
+  "rutan för kortfiler": {
+    "replacement": "🗃️",
+    "description": "card file box"
+  },
+  "arkivskåp": { "replacement": "🗄️", "description": "file cabinet" },
+  "papperskorg": { "replacement": "🗑️", "description": "wastebasket" },
+  "låsa": { "replacement": "🔒", "description": "locked" },
+  "låsa upp": { "replacement": "🔓", "description": "unlocked" },
+  "lås med bläckpenna": {
+    "replacement": "🔏",
+    "description": "locked with pen"
+  },
+  "stängt lås med nyckel": {
+    "replacement": "🔐",
+    "description": "locked with key"
+  },
+  "nyckel-": { "replacement": "🔑", "description": "key" },
+  "gammal nyckel": { "replacement": "🗝️", "description": "old key" },
+  "hammare": { "replacement": "🔨", "description": "hammer" },
+  "yxa": { "replacement": "🪓", "description": "axe" },
+  "plocka": { "replacement": "⛏️", "description": "pick" },
+  "hammare och plocka": {
+    "replacement": "⚒️",
+    "description": "hammer and pick"
+  },
+  "hammare och skiftnyckel": {
+    "replacement": "🛠️",
+    "description": "hammer and wrench"
+  },
+  "dolk": { "replacement": "🗡️", "description": "dagger" },
+  "korsade svärd": { "replacement": "⚔️", "description": "crossed swords" },
+  "pistol": { "replacement": "🔫", "description": "pistol" },
+  "bumerang": { "replacement": "🪃", "description": "boomerang" },
+  "pil och båge": { "replacement": "🏹", "description": "bow and arrow" },
+  "skydda": { "replacement": "🛡️", "description": "shield" },
+  "snickersåg": { "replacement": "🪚", "description": "carpentry saw" },
+  "rycka": { "replacement": "🔧", "description": "wrench" },
+  "skruvmejsel": { "replacement": "🪛", "description": "screwdriver" },
+  "mutter och bult": { "replacement": "🔩", "description": "nut and bolt" },
+  "redskap": { "replacement": "⚙️", "description": "gear" },
+  "klämma": { "replacement": "🗜️", "description": "clamp" },
+  "balans skala": { "replacement": "⚖️", "description": "balance scale" },
+  "sonderande sockerrör": { "replacement": "🦯", "description": "white cane" },
+  "länk": { "replacement": "🔗", "description": "link" },
+  "kedjor": { "replacement": "⛓️", "description": "chains" },
+  "krok": { "replacement": "🪝", "description": "hook" },
+  "verktygslåda": { "replacement": "🧰", "description": "toolbox" },
+  "magnet": { "replacement": "🧲", "description": "magnet" },
+  "stege": { "replacement": "🪜", "description": "ladder" },
+  "alembisk": { "replacement": "⚗️", "description": "alembic" },
+  "provrör": { "replacement": "🧪", "description": "test tube" },
+  "petriskål": { "replacement": "🧫", "description": "petri dish" },
+  "dna": { "replacement": "🧬", "description": "dna" },
+  "mikroskop": { "replacement": "🔬", "description": "microscope" },
+  "teleskop": { "replacement": "🔭", "description": "telescope" },
+  "satellit": { "replacement": "📡", "description": "satellite antenna" },
+  "spruta": { "replacement": "💉", "description": "syringe" },
+  "droppe blod": { "replacement": "🩸", "description": "drop of blood" },
+  "piller": { "replacement": "💊", "description": "pill" },
+  "plåster": { "replacement": "🩹", "description": "adhesive bandage" },
+  "stetoskop": { "replacement": "🩺", "description": "stethoscope" },
+  "dörr": { "replacement": "🚪", "description": "door" },
+  "hiss": { "replacement": "🛗", "description": "elevator" },
+  "spegel": { "replacement": "🪞", "description": "mirror" },
+  "fönster": { "replacement": "🪟", "description": "window" },
+  "säng": { "replacement": "🛏️", "description": "bed" },
+  "soffa och lampa": { "replacement": "🛋️", "description": "couch and lamp" },
+  "stol": { "replacement": "🪑", "description": "chair" },
+  "toalett": { "replacement": "🚾", "description": "water closet" },
+  "kolv": { "replacement": "🪠", "description": "plunger" },
+  "dusch": { "replacement": "🚿", "description": "shower" },
+  "badkar": { "replacement": "🛁", "description": "bathtub" },
+  "musfälla": { "replacement": "🪤", "description": "mouse trap" },
+  "rakapparat": { "replacement": "🪒", "description": "razor" },
+  "lotionflaska": { "replacement": "🧴", "description": "lotion bottle" },
+  "säkerhetsnål": { "replacement": "🧷", "description": "safety pin" },
+  "kvast": { "replacement": "🧹", "description": "broom" },
+  "korg": { "replacement": "🧺", "description": "basket" },
+  "pappersrulle": { "replacement": "🧻", "description": "roll of paper" },
+  "hink": { "replacement": "🪣", "description": "bucket" },
+  "tvål": { "replacement": "🧼", "description": "soap" },
+  "tandborste": { "replacement": "🪥", "description": "toothbrush" },
+  "brandsläckare": { "replacement": "🧯", "description": "fire extinguisher" },
+  "kundvagn": { "replacement": "🛒", "description": "shopping cart" },
+  "rökning": { "replacement": "🚬", "description": "cigarette" },
+  "Kista": { "replacement": "⚰️", "description": "coffin" },
+  "gravsten": { "replacement": "🪦", "description": "headstone" },
+  "begravningsurnan": { "replacement": "⚱️", "description": "funeral urn" },
+  "moyai": { "replacement": "🗿", "description": "moai" },
+  "plakat": { "replacement": "🪧", "description": "placard" },
+  "bankomat": { "replacement": "🏧", "description": "ATM sign" },
+  "sätta skräp på sin plats": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "dricksvatten": { "replacement": "🚰", "description": "potable water" },
+  "rullstol": { "replacement": "♿", "description": "wheelchair symbol" },
+  "herr": { "replacement": "🚹", "description": "men’s room" },
+  "kvinnor": { "replacement": "🚺", "description": "women’s room" },
+  "baby symbol": { "replacement": "🚼", "description": "baby symbol" },
+  "passkontroll": { "replacement": "🛂", "description": "passport control" },
+  "tull": { "replacement": "🛃", "description": "customs" },
+  "bagageanspråk": { "replacement": "🛄", "description": "baggage claim" },
+  "glömt bagage": { "replacement": "🛅", "description": "left luggage" },
+  "varning": { "replacement": "⚠️", "description": "warning" },
+  "barn korsar": { "replacement": "🚸", "description": "children crossing" },
+  "ingen ingång": { "replacement": "⛔", "description": "no entry" },
+  "inget inträdesskylt": { "replacement": "🚫", "description": "prohibited" },
+  "inga cyklar": { "replacement": "🚳", "description": "no bicycles" },
+  "ingen rökning": { "replacement": "🚭", "description": "no smoking" },
+  "skräp inte": { "replacement": "🚯", "description": "no littering" },
+  "icke-drickbart vatten": {
+    "replacement": "🚱",
+    "description": "non-potable water"
+  },
+  "inga fotgängare": { "replacement": "🚷", "description": "no pedestrians" },
+  "inga mobiltelefoner": {
+    "replacement": "📵",
+    "description": "no mobile phones"
+  },
+  "minderårig": { "replacement": "🔞", "description": "no one under eighteen" },
+  "radioaktiv": { "replacement": "☢️", "description": "radioactive" },
+  "biohazard": { "replacement": "☣️", "description": "biohazard" },
+  "pil upp": { "replacement": "⬆️", "description": "up arrow" },
+  "pilen uppe till höger": {
+    "replacement": "↗️",
+    "description": "up-right arrow"
+  },
+  "pil till höger": { "replacement": "➡️", "description": "right arrow" },
+  "pilen nere till höger": {
+    "replacement": "↘️",
+    "description": "down-right arrow"
+  },
+  "pil ner": { "replacement": "⬇️", "description": "down arrow" },
+  "pilen nere till vänster": {
+    "replacement": "↙️",
+    "description": "down-left arrow"
+  },
+  "pilen vänster": { "replacement": "⬅️", "description": "left arrow" },
+  "pilen uppe till vänster": {
+    "replacement": "↖️",
+    "description": "up-left arrow"
+  },
+  "pil uppåt": { "replacement": "↕️", "description": "up-down arrow" },
+  "vänster högerpil": {
+    "replacement": "↔️",
+    "description": "left-right arrow"
+  },
+  "vänsterpil med krok": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "pil höger krok": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "pilen uppåt": {
+    "replacement": "⤴️",
+    "description": "right arrow curving up"
+  },
+  "pilen pekar nedåt": {
+    "replacement": "⤵️",
+    "description": "right arrow curving down"
+  },
+  "pilar medurs": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "pilar moturs": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "tillbaka": { "replacement": "🔙", "description": "BACK arrow" },
+  "slutet": { "replacement": "🔚", "description": "END arrow" },
+  "på": { "replacement": "🔛", "description": "ON! arrow" },
+  "snart": { "replacement": "🔜", "description": "SOON arrow" },
+  "topp": { "replacement": "🔝", "description": "TOP arrow" },
+  "plats för tillbedjan": {
+    "replacement": "🛐",
+    "description": "place of worship"
+  },
+  "atomsymbol": { "replacement": "⚛️", "description": "atom symbol" },
+  "om": { "replacement": "🕉️", "description": "om" },
+  "Davidsstjärna": { "replacement": "✡️", "description": "star of David" },
+  "hjul av dharma": { "replacement": "☸️", "description": "wheel of dharma" },
+  "Yin Yang": { "replacement": "☯️", "description": "yin yang" },
+  "latinska korset": { "replacement": "✝️", "description": "latin cross" },
+  "ortodoxa kors": { "replacement": "☦️", "description": "orthodox cross" },
+  "stjärna och halvmåne": {
+    "replacement": "☪️",
+    "description": "star and crescent"
+  },
+  "fredssymbol": { "replacement": "☮️", "description": "peace symbol" },
+  "menorah": { "replacement": "🕎", "description": "menorah" },
+  "sexspetsig stjärna": {
+    "replacement": "🔯",
+    "description": "dotted six-pointed star"
+  },
+  "Väduren": { "replacement": "♈", "description": "Aries" },
+  "Oxen": { "replacement": "♉", "description": "Taurus" },
+  "tvillingar": { "replacement": "♊", "description": "Gemini" },
+  "cancer": { "replacement": "♋", "description": "Cancer" },
+  "leo": { "replacement": "♌", "description": "Leo" },
+  "Jungfrun": { "replacement": "♍", "description": "Virgo" },
+  "vågen": { "replacement": "♎", "description": "Libra" },
+  "Skytten": { "replacement": "♐", "description": "Sagittarius" },
+  "stenbock": { "replacement": "♑", "description": "Capricorn" },
+  "vattenmannen": { "replacement": "♒", "description": "Aquarius" },
+  "fiskarna": { "replacement": "♓", "description": "Pisces" },
+  "ophiuchus": { "replacement": "⛎", "description": "Ophiuchus" },
+  "vridna pilarna åt höger": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "upprepa": { "replacement": "🔁", "description": "repeat button" },
+  "upprepa en": { "replacement": "🔂", "description": "repeat single button" },
+  "pilen framåt": { "replacement": "▶️", "description": "play button" },
+  "snabbspola": { "replacement": "⏩", "description": "fast-forward button" },
+  "nästa spår-knapp": {
+    "replacement": "⏭️",
+    "description": "next track button"
+  },
+  "spela upp eller pausa-knappen": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "pilen bakåt": { "replacement": "◀️", "description": "reverse button" },
+  "spola tillbaka": {
+    "replacement": "⏪",
+    "description": "fast reverse button"
+  },
+  "föregående spår-knapp": {
+    "replacement": "⏮️",
+    "description": "last track button"
+  },
+  "pil upp liten": { "replacement": "🔼", "description": "upwards button" },
+  "pilen dubbelt upp": { "replacement": "⏫", "description": "fast up button" },
+  "pil ner liten": { "replacement": "🔽", "description": "downwards button" },
+  "pilen nedåt": { "replacement": "⏬", "description": "fast down button" },
+  "pausknapp": { "replacement": "⏸️", "description": "pause button" },
+  "stoppknappen": { "replacement": "⏹️", "description": "stop button" },
+  "inspelningsknapp": { "replacement": "⏺️", "description": "record button" },
+  "mata ut knappen": { "replacement": "⏏️", "description": "eject button" },
+  "bio": { "replacement": "🎦", "description": "cinema" },
+  "låg ljusstyrka": { "replacement": "🔅", "description": "dim button" },
+  "hög ljusstyrka": { "replacement": "🔆", "description": "bright button" },
+  "signalstyrka": { "replacement": "📶", "description": "antenna bars" },
+  "vibrationsläge": { "replacement": "📳", "description": "vibration mode" },
+  "mobiltelefonen avstängd": {
+    "replacement": "📴",
+    "description": "mobile phone off"
+  },
+  "kvinnligt tecken": { "replacement": "♀️", "description": "female sign" },
+  "manligt tecken": { "replacement": "♂️", "description": "male sign" },
+  "transsexuell symbol": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "tung multiplikation x": { "replacement": "✖️", "description": "multiply" },
+  "tungt plustecken": { "replacement": "➕", "description": "plus" },
+  "tungt minus tecken": { "replacement": "➖", "description": "minus" },
+  "tung division tecken": { "replacement": "➗", "description": "divide" },
+  "oändlighet": { "replacement": "♾️", "description": "infinity" },
+  "bangbang": { "replacement": "‼️", "description": "double exclamation mark" },
+  "interrobang": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "fråga": { "replacement": "❓", "description": "question mark" },
+  "grå fråga": { "replacement": "❔", "description": "white question mark" },
+  "grå utrop": { "replacement": "❕", "description": "white exclamation mark" },
+  "utrop": { "replacement": "❗", "description": "exclamation mark" },
+  "vågigt streck": { "replacement": "〰️", "description": "wavy dash" },
+  "valutaväxling": { "replacement": "💱", "description": "currency exchange" },
+  "tungt dollartecken": {
+    "replacement": "💲",
+    "description": "heavy dollar sign"
+  },
+  "medicinsk symbol": { "replacement": "⚕️", "description": "medical symbol" },
+  "återvinna": { "replacement": "♻️", "description": "recycling symbol" },
+  "fleur de lis": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "treudd": { "replacement": "🔱", "description": "trident emblem" },
+  "namnbricka": { "replacement": "📛", "description": "name badge" },
+  "nybörjare": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "o": { "replacement": "⭕", "description": "hollow red circle" },
+  "vit bock": { "replacement": "✅", "description": "check mark button" },
+  "valurnan med check": {
+    "replacement": "☑️",
+    "description": "check box with check"
+  },
+  "tung bock": { "replacement": "✔️", "description": "check mark" },
+  "x": { "replacement": "❌", "description": "cross mark" },
+  "negativt kvadratiskt korsmärke": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "lockigt slinga": { "replacement": "➰", "description": "curly loop" },
+  "slinga": { "replacement": "➿", "description": "double curly loop" },
+  "delväxlingsmärke": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "åtta eker asterisk": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "åtta spetsig svart stjärna": {
+    "replacement": "✴️",
+    "description": "eight-pointed star"
+  },
+  "gnistra": { "replacement": "❇️", "description": "sparkle" },
+  "upphovsrätt": { "replacement": "©️", "description": "copyright" },
+  "registrerad": { "replacement": "®️", "description": "registered" },
+  "tm": { "replacement": "™️", "description": "trade mark" },
+  "hash": { "replacement": "#️⃣", "description": "keycap: #" },
+  "asterisk": { "replacement": "*️⃣", "description": "keycap: *" },
+  "noll-": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "ett": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "två": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "tre": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "fyra": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "fem": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "sex": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "sju": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "åtta": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "nio": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "nyckel tio": { "replacement": "🔟", "description": "keycap: 10" },
+  "kapital abcd": {
+    "replacement": "🔠",
+    "description": "input latin uppercase"
+  },
+  "abcd": { "replacement": "🔡", "description": "input latin lowercase" },
+  "symboler": { "replacement": "🔣", "description": "input symbols" },
+  "abc": { "replacement": "🔤", "description": "input latin letters" },
+  "a": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "ab": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "b": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "cl": { "replacement": "🆑", "description": "CL button" },
+  "Häftigt": { "replacement": "🆒", "description": "COOL button" },
+  "fri": { "replacement": "🆓", "description": "FREE button" },
+  "informationskälla": { "replacement": "ℹ️", "description": "information" },
+  "id": { "replacement": "🆔", "description": "ID button" },
+  "m": { "replacement": "Ⓜ️", "description": "circled M" },
+  "ny": { "replacement": "🆕", "description": "NEW button" },
+  "ng": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "ok": { "replacement": "🆗", "description": "OK button" },
+  "parkering": { "replacement": "🅿️", "description": "P button" },
+  "sos": { "replacement": "🆘", "description": "SOS button" },
+  "upp": { "replacement": "🆙", "description": "UP! button" },
+  "mot": { "replacement": "🆚", "description": "VS button" },
+  "koko": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "sa": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "ideografisk fördel": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "acceptera": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "Grattis": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "hemlighet": {
+    "replacement": "㊙️",
+    "description": "Japanese “secret” button"
+  },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "röd cirkel": { "replacement": "🔴", "description": "red circle" },
+  "orange cirkel": { "replacement": "🟠", "description": "orange circle" },
+  "gul cirkel": { "replacement": "🟡", "description": "yellow circle" },
+  "grön cirkel": { "replacement": "🟢", "description": "green circle" },
+  "stor blå cirkel": { "replacement": "🔵", "description": "blue circle" },
+  "lila cirkel": { "replacement": "🟣", "description": "purple circle" },
+  "brun cirkel": { "replacement": "🟤", "description": "brown circle" },
+  "svart cirkel": { "replacement": "⚫", "description": "black circle" },
+  "vit cirkel": { "replacement": "⚪", "description": "white circle" },
+  "Röda torget": { "replacement": "🟥", "description": "red square" },
+  "orange fyrkant": { "replacement": "🟧", "description": "orange square" },
+  "gul fyrkant": { "replacement": "🟨", "description": "yellow square" },
+  "grön fyrkant": { "replacement": "🟩", "description": "green square" },
+  "blå fyrkant": { "replacement": "🟦", "description": "blue square" },
+  "lila fyrkant": { "replacement": "🟪", "description": "purple square" },
+  "brun fyrkant": { "replacement": "🟫", "description": "brown square" },
+  "svart stor fyrkant": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "vit stor fyrkant": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "svart medium fyrkant": {
+    "replacement": "◼️",
+    "description": "black medium square"
+  },
+  "vit medium fyrkant": {
+    "replacement": "◻️",
+    "description": "white medium square"
+  },
+  "svart medium liten fyrkant": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "vit medium liten fyrkant": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "svart liten fyrkant": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "vit liten fyrkant": {
+    "replacement": "▫️",
+    "description": "white small square"
+  },
+  "stor orange diamant": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "stor blå diamant": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "liten orange diamant": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "liten blå diamant": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "liten röd triangel": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "liten röd triangel ner": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "diamantform med en prick inuti": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "Radio knapp": { "replacement": "🔘", "description": "radio button" },
+  "vit fyrkantig knapp": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "svart fyrkantig knapp": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "rutig flagga": { "replacement": "🏁", "description": "chequered flag" },
+  "triangulär flagga på stolpen": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "korsade flaggor": { "replacement": "🎌", "description": "crossed flags" },
+  "svart flagga": { "replacement": "🏴", "description": "black flag" },
+  "vit flagga": { "replacement": "🏳️", "description": "white flag" },
+  "regnbågsflagga": { "replacement": "🏳️‍🌈", "description": "rainbow flag" },
+  "transsexuell flagga": {
+    "replacement": "🏳️‍⚧️",
+    "description": "transgender flag"
+  },
+  "piratflagga": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "uppstigningsön": {
+    "replacement": "🇦🇨",
+    "description": "flag: Ascension Island"
+  },
+  "andorra": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "Förenade arabemiraten": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "afghanistan": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "antigua barbuda": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "anguilla": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "albanien": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "armenien": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "angola": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "antarktis": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "argentina": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "Amerikanska Samoa": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "österrike": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "Australien": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "aruba": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "alandöarna": { "replacement": "🇦🇽", "description": "flag: Åland Islands" },
+  "Azerbajdzjan": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "Bosnien Hercegovina": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "barbados": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "Bangladesh": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "belgien": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "Burkina Faso": { "replacement": "🇧🇫", "description": "flag: Burkina Faso" },
+  "bulgarien": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "Bahrain": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "burundi": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "benin": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "st barthelemy": {
+    "replacement": "🇧🇱",
+    "description": "flag: St. Barthélemy"
+  },
+  "bermuda": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "brunei": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "bolivia": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "Karibien Nederländerna": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "Brasilien": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "Bahamas": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "bhutan": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "bouvet island": {
+    "replacement": "🇧🇻",
+    "description": "flag: Bouvet Island"
+  },
+  "botswana": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "Vitryssland": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "belize": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "kanada": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "cocosöarna": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "congo kinshasa": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "Centralafrikanska republiken": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "congo brazzaville": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "schweiz": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "cote divoire": { "replacement": "🇨🇮", "description": "flag: Côte d’Ivoire" },
+  "Cooköarna": { "replacement": "🇨🇰", "description": "flag: Cook Islands" },
+  "Chile": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "Kamerun": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "cn": { "replacement": "🇨🇳", "description": "flag: China" },
+  "colombia": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "Clipperton Island": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "Costa Rica": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "kuba": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "Cap Verde": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "curacao": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "Julön": { "replacement": "🇨🇽", "description": "flag: Christmas Island" },
+  "cypern": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "Tjeckien": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "de": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "diego garcia": { "replacement": "🇩🇬", "description": "flag: Diego Garcia" },
+  "djibouti": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "Danmark": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "Dominica": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "Dominikanska republiken": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "algeriet": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "ceuta melilla": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "ecuador": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "estland": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "egypten": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "Västra Sahara": {
+    "replacement": "🇪🇭",
+    "description": "flag: Western Sahara"
+  },
+  "eritrea": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "es": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "etiopien": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "eu": { "replacement": "🇪🇺", "description": "flag: European Union" },
+  "finland": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "fiji": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "Falklandsöarna": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "mikronesien": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "Färöarna": { "replacement": "🇫🇴", "description": "flag: Faroe Islands" },
+  "fr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "gabon": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "gb": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "Grenada": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "georgien": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "Franska Guyana": {
+    "replacement": "🇬🇫",
+    "description": "flag: French Guiana"
+  },
+  "guernsey": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "ghana": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "gibraltar": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "Grönland": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "gambia": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "Guinea": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "guadeloupe": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "ekvatorialguinea": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "Grekland": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "södra georgien södra smörgåsöar": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "guatemala": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "guam": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "guinea bissau": {
+    "replacement": "🇬🇼",
+    "description": "flag: Guinea-Bissau"
+  },
+  "guyana": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "Hong Kong": {
+    "replacement": "🇭🇰",
+    "description": "flag: Hong Kong SAR China"
+  },
+  "hörde mcdonaldöarna": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "honduras": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "kroatien": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "haiti": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "Ungern": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "Kanarieöarna": {
+    "replacement": "🇮🇨",
+    "description": "flag: Canary Islands"
+  },
+  "indonesien": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "irland": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "israel": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "ö av man": { "replacement": "🇮🇲", "description": "flag: Isle of Man" },
+  "Indien": { "replacement": "🇮🇳", "description": "flag: India" },
+  "Brittiska territoriet i Indiska oceanen": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "irak": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "iran": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "Island": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "Det": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "jersey": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "jamaica": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "Jordanien": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "jp": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "kenya": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "Kirgizistan": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "Kambodja": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "kiribati": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "komorerna": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "st kitts nevis": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "Nordkorea": { "replacement": "🇰🇵", "description": "flag: North Korea" },
+  "kr": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "kuwait": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "Caymanöarna": { "replacement": "🇰🇾", "description": "flag: Cayman Islands" },
+  "Kazakstan": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "laos": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "libanon": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "Sankta Lucia": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "liechtenstein": {
+    "replacement": "🇱🇮",
+    "description": "flag: Liechtenstein"
+  },
+  "Sri Lanka": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "liberia": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "lesotho": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "litauen": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "luxemburg": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "lettland": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "libyen": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "Marocko": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "monaco": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "Moldavien": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "montenegro": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "st martin": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "madagaskar": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "Marshallöarna": {
+    "replacement": "🇲🇭",
+    "description": "flag: Marshall Islands"
+  },
+  "Makedonien": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "mali": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "myanmar": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "mongoliet": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "macau": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "norra marianerna": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "martinique": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "Mauretanien": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "montserrat": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "malta": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "mauritius": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "Maldiverna": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "malawi": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "mexico": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "malaysia": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "mozambique": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "namibia": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "Nya Kaledonien": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "niger": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "norfolkön": { "replacement": "🇳🇫", "description": "flag: Norfolk Island" },
+  "nigeria": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "nicaragua": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "nederländerna": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "Norge": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "nepal": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "nauru": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "niue": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "Nya Zeeland": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "oman": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "Panama": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "peru": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "franska polynesien": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "Papua Nya Guinea": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "filippinerna": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "pakistan": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "polen": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "st pierre miquelon": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "pitcairnöarna": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "Puerto Rico": { "replacement": "🇵🇷", "description": "flag: Puerto Rico" },
+  "Palestinska territorier": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "portugal": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "palau": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "paraguay": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "qatar": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "återförening": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "rumänien": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "Serbien": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "ru": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "rwanda": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "Saudiarabien": { "replacement": "🇸🇦", "description": "flag: Saudi Arabia" },
+  "Salomonöarna": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "seychellerna": { "replacement": "🇸🇨", "description": "flag: Seychelles" },
+  "sudan": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "Sverige": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "singapore": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "st helena": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "slovenien": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "svalbard jan mayen": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "Slovakien": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "Sierra Leone": { "replacement": "🇸🇱", "description": "flag: Sierra Leone" },
+  "San Marino": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "senegal": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "somalia": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "surinam": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "södra Sudan": { "replacement": "🇸🇸", "description": "flag: South Sudan" },
+  "sao tome principe": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "El Salvador": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "sint maarten": { "replacement": "🇸🇽", "description": "flag: Sint Maarten" },
+  "syrien": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "swaziland": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "tristan da cunha": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "turkiska caicosöarna": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "chad": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "franska södra territorier": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "togo": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "Thailand": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "Tadzjikistan": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "tokelau": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "timor leste": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "Turkmenistan": { "replacement": "🇹🇲", "description": "flag: Turkmenistan" },
+  "tunisien": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "tonga": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "tr": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "Trinidad och Tobago": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "tuvalu": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "taiwan": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "tanzania": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "Ukraina": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "Uganda": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "oss avlägsna öar": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "Förenta nationerna": {
+    "replacement": "🇺🇳",
+    "description": "flag: United Nations"
+  },
+  "oss": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "uruguay": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "uzbekistan": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "Vatikanstaten": { "replacement": "🇻🇦", "description": "flag: Vatican City" },
+  "st Vincent Grenadiner": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "Venezuela": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "Brittiska Jungfruöarna": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "oss jungfruöarna": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "vietnam": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "vanuatu": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "wallis futuna": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "samoa": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "kosovo": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "jemen": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "mayotte": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "Sydafrika": { "replacement": "🇿🇦", "description": "flag: South Africa" },
+  "zambia": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "zimbabwe": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "England": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "skottland": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "wales": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

@@ -1,0 +1,2793 @@
+{
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "हसणे": { "replacement": "😆", "description": "grinning squinting face" },
+  "हसरा": { "replacement": "😃", "description": "grinning face with big eyes" },
+  "स्मित": {
+    "replacement": "😄",
+    "description": "grinning face with smiling eyes"
+  },
+  "घाम स्मित": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "आनंद": { "replacement": "😂", "description": "face with tears of joy" },
+  "किंचित हसणारा चेहरा": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "उलटा चेहरा": { "replacement": "🙃", "description": "upside-down face" },
+  "डोळे मिचकावणे": { "replacement": "😉", "description": "winking face" },
+  "लाली": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "निरागस": { "replacement": "😇", "description": "smiling face with halo" },
+  "तीन अंतःकरणाने हसणारा चेहरा": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "हृदयाचे डोळे": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "तारा मारला": { "replacement": "🤩", "description": "star-struck" },
+  "हृदयाला भिडत आहे": {
+    "replacement": "😘",
+    "description": "face blowing a kiss"
+  },
+  "चुंबन": { "replacement": "💋", "description": "kiss mark" },
+  "निवांत": { "replacement": "☺️", "description": "smiling face" },
+  "बंद डोळे चुंबन": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "हसत डोळे चुंबन": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "फाडणारा हसरा चेहरा": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "हं": { "replacement": "😋", "description": "face savoring food" },
+  "जीभ बाहेर अडकली": { "replacement": "😛", "description": "face with tongue" },
+  "डोळे मिचकावणारी जीभ बाहेर अडकली": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "उदास चेहरा": { "replacement": "🤪", "description": "zany face" },
+  "डोळे बंद ठेवून जीभ बाहेर काढा": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "पैशाचा चेहरा": { "replacement": "🤑", "description": "money-mouth face" },
+  "मिठ्या": { "replacement": "🤗", "description": "hugging face" },
+  "तोंड द्या": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "लहरी चेहरा": { "replacement": "🤫", "description": "shushing face" },
+  "विचार": { "replacement": "🤔", "description": "thinking face" },
+  "जिपर तोंड": { "replacement": "🤐", "description": "zipper-mouth face" },
+  "उंचावलेल्या भुवया": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "तटस्थ चेहरा": { "replacement": "😐", "description": "neutral face" },
+  "अभिव्यक्त": { "replacement": "😑", "description": "expressionless face" },
+  "तोंड नाही": { "replacement": "😶", "description": "face without mouth" },
+  "चिडखोर": { "replacement": "😏", "description": "smirking face" },
+  "बिनधास्त": { "replacement": "😒", "description": "unamused face" },
+  "डोळे रोल करा": {
+    "replacement": "🙄",
+    "description": "face with rolling eyes"
+  },
+  "उदास": { "replacement": "😬", "description": "grimacing face" },
+  "पडलेला चेहरा": { "replacement": "🤥", "description": "lying face" },
+  "सुटका": { "replacement": "😌", "description": "relieved face" },
+  "चिंताजनक": { "replacement": "😔", "description": "pensive face" },
+  "निद्रिस्त": { "replacement": "😪", "description": "sleepy face" },
+  "चेहरा खालावत आहे": { "replacement": "🤤", "description": "drooling face" },
+  "झोपलेला": { "replacement": "😴", "description": "sleeping face" },
+  "मुखवटा": { "replacement": "😷", "description": "face with medical mask" },
+  "थर्मामीटरने चेहरा": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "डोके मलमपट्टी सह चेहरा": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "मळमळलेला चेहरा": { "replacement": "🤢", "description": "nauseated face" },
+  "उलट्या चेहरा": { "replacement": "🤮", "description": "face vomiting" },
+  "शिंकणारा चेहरा": { "replacement": "🤧", "description": "sneezing face" },
+  "गरम चेहरा": { "replacement": "🥵", "description": "hot face" },
+  "थंड चेहरा": { "replacement": "🥶", "description": "cold face" },
+  "वूझ चेहरा": { "replacement": "🥴", "description": "woozy face" },
+  "चक्कर येणे चेहरा": { "replacement": "😵", "description": "dizzy face" },
+  "डोके फुटणे": { "replacement": "🤯", "description": "exploding head" },
+  "गुराखी टोपी चेहरा": {
+    "replacement": "🤠",
+    "description": "cowboy hat face"
+  },
+  "पार्टीिंग चेहरा": { "replacement": "🥳", "description": "partying face" },
+  "वेश चेहरा": { "replacement": "🥸", "description": "disguised face" },
+  "सनग्लासेस": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "मूर्ख चेहरा": { "replacement": "🤓", "description": "nerd face" },
+  "एकल चेहरा": { "replacement": "🧐", "description": "face with monocle" },
+  "गोंधळलेला": { "replacement": "😖", "description": "confounded face" },
+  "काळजीत": { "replacement": "😟", "description": "worried face" },
+  "किंचित भयावह चेहरा": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "तळणारा चेहरा": { "replacement": "☹️", "description": "frowning face" },
+  "तोंड उघडा": { "replacement": "😮", "description": "face with open mouth" },
+  "3x": { "replacement": "😯", "description": "hushed face" },
+  "आश्चर्यचकित": { "replacement": "😲", "description": "astonished face" },
+  "फ्लश": { "replacement": "😳", "description": "flushed face" },
+  "विनवणी करणारा चेहरा": {
+    "replacement": "🥺",
+    "description": "pleading face"
+  },
+  "frowning": {
+    "replacement": "😦",
+    "description": "frowning face with open mouth"
+  },
+  "दु: खी": { "replacement": "😧", "description": "anguished face" },
+  "भीतीदायक": { "replacement": "😨", "description": "fearful face" },
+  "थंड घाम": { "replacement": "😰", "description": "anxious face with sweat" },
+  "निराश आराम": { "replacement": "😥", "description": "sad but relieved face" },
+  "रडणे": { "replacement": "😢", "description": "crying face" },
+  "भिजवणे": { "replacement": "😭", "description": "loudly crying face" },
+  "किंचाळणे": { "replacement": "😱", "description": "face screaming in fear" },
+  "चिकाटीने": { "replacement": "😣", "description": "persevering face" },
+  "निराश": { "replacement": "😞", "description": "disappointed face" },
+  "घाम": { "replacement": "😓", "description": "downcast face with sweat" },
+  "कंटाळा आला आहे": { "replacement": "😩", "description": "weary face" },
+  "थकलेला चेहरा": { "replacement": "😫", "description": "tired face" },
+  "येणारा चेहरा": { "replacement": "🥱", "description": "yawning face" },
+  "विजय": { "replacement": "😤", "description": "face with steam from nose" },
+  "संताप": { "replacement": "😡", "description": "pouting face" },
+  "राग": { "replacement": "💢", "description": "anger symbol" },
+  "शाप देणारा चेहरा": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "हसत इम्प": { "replacement": "😈", "description": "smiling face with horns" },
+  "छोटासा": { "replacement": "👿", "description": "angry face with horns" },
+  "कवटी": { "replacement": "💀", "description": "skull" },
+  "कवटी आणि क्रॉसबोन": {
+    "replacement": "☠️",
+    "description": "skull and crossbones"
+  },
+  "हॅन्की": { "replacement": "💩", "description": "pile of poo" },
+  "जोकर चेहरा": { "replacement": "🤡", "description": "clown face" },
+  "जपानी ओग्रे": { "replacement": "👹", "description": "ogre" },
+  "जपानी गब्लिन": { "replacement": "👺", "description": "goblin" },
+  "भूत": { "replacement": "👻", "description": "ghost" },
+  "उपरा": { "replacement": "👽", "description": "alien" },
+  "स्पेस आक्रमक": { "replacement": "👾", "description": "alien monster" },
+  "रोबोट": { "replacement": "🤖", "description": "robot" },
+  "हसरा मांजर": { "replacement": "😺", "description": "grinning cat" },
+  "स्मित मांजर": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "आनंद मांजर": { "replacement": "😹", "description": "cat with tears of joy" },
+  "हृदय डोळे मांजर": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "स्मर्की मांजर": { "replacement": "😼", "description": "cat with wry smile" },
+  "चुंबन मांजर": { "replacement": "😽", "description": "kissing cat" },
+  "किंचाळणे मांजर": { "replacement": "🙀", "description": "weary cat" },
+  "रडणार्‍या मांजरीचा चेहरा": {
+    "replacement": "😿",
+    "description": "crying cat"
+  },
+  "मांजर pouting": { "replacement": "😾", "description": "pouting cat" },
+  "वाईट पाहू नका": { "replacement": "🙈", "description": "see-no-evil monkey" },
+  "वाईट गोष्टी ऐकू नका": {
+    "replacement": "🙉",
+    "description": "hear-no-evil monkey"
+  },
+  "वाईट बोलू नका": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "प्रेमपत्र": { "replacement": "💌", "description": "love letter" },
+  "कामदेव": { "replacement": "💘", "description": "heart with arrow" },
+  "भेट हृदय": { "replacement": "💝", "description": "heart with ribbon" },
+  "चमकणारे हृदय": { "replacement": "💖", "description": "sparkling heart" },
+  "हार्टप्लस": { "replacement": "💗", "description": "growing heart" },
+  "हृदयाचा ठोका": { "replacement": "💓", "description": "beating heart" },
+  "घुमणारी ह्रदये": { "replacement": "💞", "description": "revolving hearts" },
+  "दोन अंतःकरणे": { "replacement": "💕", "description": "two hearts" },
+  "हृदय सजावट": { "replacement": "💟", "description": "heart decoration" },
+  "जड हृदय उद्गार": { "replacement": "❣️", "description": "heart exclamation" },
+  "तुटलेले ह्रदय": { "replacement": "💔", "description": "broken heart" },
+  "हृदय": { "replacement": "❤️", "description": "red heart" },
+  "केशरी हृदय": { "replacement": "🧡", "description": "orange heart" },
+  "पिवळे हृदय": { "replacement": "💛", "description": "yellow heart" },
+  "हिरवे हृदय": { "replacement": "💚", "description": "green heart" },
+  "निळे हृदय": { "replacement": "💙", "description": "blue heart" },
+  "जांभळा हृदय": { "replacement": "💜", "description": "purple heart" },
+  "तपकिरी हृदय": { "replacement": "🤎", "description": "brown heart" },
+  "काळा हृदय": { "replacement": "🖤", "description": "black heart" },
+  "पांढरा हृदय": { "replacement": "🤍", "description": "white heart" },
+  "भरभराट": { "replacement": "💥", "description": "collision" },
+  "चक्कर येणे": { "replacement": "💫", "description": "dizzy" },
+  "घाम थेंब": { "replacement": "💦", "description": "sweat droplets" },
+  "डॅश": { "replacement": "💨", "description": "dashing away" },
+  "भोक": { "replacement": "🕳️", "description": "hole" },
+  "बॉम्ब": { "replacement": "💣", "description": "bomb" },
+  "भाषण बलून": { "replacement": "💬", "description": "speech balloon" },
+  "डोळा भाषण बबल": {
+    "replacement": "👁️‍🗨️",
+    "description": "eye in speech bubble"
+  },
+  "डावा भाषण बबल": { "replacement": "🗨️", "description": "left speech bubble" },
+  "योग्य राग बबल": { "replacement": "🗯️", "description": "right anger bubble" },
+  "विचार बलून": { "replacement": "💭", "description": "thought balloon" },
+  "zzz": { "replacement": "💤", "description": "zzz" },
+  "लाट": { "replacement": "👋", "description": "waving hand" },
+  "हात मागे असण्याचा": {
+    "replacement": "🤚",
+    "description": "raised back of hand"
+  },
+  "हात वर बोटांनी splayed": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "हात": { "replacement": "✋", "description": "raised hand" },
+  "व्हल्कन सलाम": { "replacement": "🖖", "description": "vulcan salute" },
+  "ठीक आहे": { "replacement": "🆗", "description": "OK button" },
+  "चिमटेभर बोटांनी": { "replacement": "🤌", "description": "pinched fingers" },
+  "चिमूटभर हात": { "replacement": "🤏", "description": "pinching hand" },
+  "v": { "replacement": "✌️", "description": "victory hand" },
+  "ओलांडलेली बोटांनी": {
+    "replacement": "🤞",
+    "description": "crossed fingers"
+  },
+  "आपण जेश्चर प्रेम": {
+    "replacement": "🤟",
+    "description": "love-you gesture"
+  },
+  "धातू": { "replacement": "🤘", "description": "sign of the horns" },
+  "मला हाक मार": { "replacement": "🤙", "description": "call me hand" },
+  "डावा बिंदू": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "उजवीकडे": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "बिंदू 2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "मधले बोट": { "replacement": "🖕", "description": "middle finger" },
+  "खाली बिंदू": {
+    "replacement": "👇",
+    "description": "backhand index pointing down"
+  },
+  "दर्शविणे": { "replacement": "☝️", "description": "index pointing up" },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "घट्ट मुठ": { "replacement": "✊", "description": "raised fist" },
+  "घट्ट मुठ आधी": { "replacement": "👊", "description": "oncoming fist" },
+  "मूठ डावीकडे": { "replacement": "🤛", "description": "left-facing fist" },
+  "मुठ मुळे": { "replacement": "🤜", "description": "right-facing fist" },
+  "टाळ्या": { "replacement": "👏", "description": "clapping hands" },
+  "हात वर केले": { "replacement": "🙌", "description": "raising hands" },
+  "खुले हात": { "replacement": "👐", "description": "open hands" },
+  "तळवे एकत्र": { "replacement": "🤲", "description": "palms up together" },
+  "हँडशेक": { "replacement": "🤝", "description": "handshake" },
+  "प्रार्थना": { "replacement": "🙏", "description": "folded hands" },
+  "लेखन हात": { "replacement": "✍️", "description": "writing hand" },
+  "नखे काळजी": { "replacement": "💅", "description": "nail polish" },
+  "सेल्फी": { "replacement": "🤳", "description": "selfie" },
+  "स्नायू": { "replacement": "💪", "description": "flexed biceps" },
+  "यांत्रिक हात": { "replacement": "🦾", "description": "mechanical arm" },
+  "यांत्रिक पाय": { "replacement": "🦿", "description": "mechanical leg" },
+  "पाय": { "replacement": "🐾", "description": "paw prints" },
+  "पाऊल": { "replacement": "🦶", "description": "foot" },
+  "कान": { "replacement": "👂", "description": "ear" },
+  "श्रवणयंत्रासह कान": {
+    "replacement": "🦻",
+    "description": "ear with hearing aid"
+  },
+  "नाक": { "replacement": "👃", "description": "nose" },
+  "मेंदू": { "replacement": "🧠", "description": "brain" },
+  "शारीरिक हृदय": { "replacement": "🫀", "description": "anatomical heart" },
+  "फुफ्फुसे": { "replacement": "🫁", "description": "lungs" },
+  "दात": { "replacement": "🦷", "description": "tooth" },
+  "हाड": { "replacement": "🦴", "description": "bone" },
+  "डोळे": { "replacement": "👀", "description": "eyes" },
+  "डोळा": { "replacement": "👁️", "description": "eye" },
+  "जीभ": { "replacement": "👅", "description": "tongue" },
+  "ओठ": { "replacement": "👄", "description": "mouth" },
+  "बाळ": { "replacement": "👶", "description": "baby" },
+  "मूल": { "replacement": "🧒", "description": "child" },
+  "मुलगा": { "replacement": "👦", "description": "boy" },
+  "मुलगी": { "replacement": "👧", "description": "girl" },
+  "प्रौढ": { "replacement": "🧑", "description": "person" },
+  "गोरा केसांचा व्यक्ती": {
+    "replacement": "👱",
+    "description": "person: blond hair"
+  },
+  "मनुष्य": { "replacement": "👨", "description": "man" },
+  "दाढीवाला व्यक्ती": { "replacement": "🧔", "description": "man: beard" },
+  "लाल केसांचा माणूस": { "replacement": "👨‍🦰", "description": "man: red hair" },
+  "कुरळे केस असलेला माणूस": {
+    "replacement": "👨‍🦱",
+    "description": "man: curly hair"
+  },
+  "पांढरा केसांचा माणूस": {
+    "replacement": "👨‍🦳",
+    "description": "man: white hair"
+  },
+  "टकला माणूस": { "replacement": "👨‍🦲", "description": "man: bald" },
+  "स्त्री": { "replacement": "👩", "description": "woman" },
+  "लाल केसांची स्त्री": {
+    "replacement": "👩‍🦰",
+    "description": "woman: red hair"
+  },
+  "व्यक्ती लाल केस": {
+    "replacement": "🧑‍🦰",
+    "description": "person: red hair"
+  },
+  "कुरळे केस असलेली स्त्री": {
+    "replacement": "👩‍🦱",
+    "description": "woman: curly hair"
+  },
+  "व्यक्ती कुरळे केस": {
+    "replacement": "🧑‍🦱",
+    "description": "person: curly hair"
+  },
+  "पांढरा केस असलेली स्त्री": {
+    "replacement": "👩‍🦳",
+    "description": "woman: white hair"
+  },
+  "व्यक्ती पांढरा केस": {
+    "replacement": "🧑‍🦳",
+    "description": "person: white hair"
+  },
+  "टक्कल बाई": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "व्यक्ती टक्कल": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "सोनेरी केसांचा स्त्री": {
+    "replacement": "👱‍♀️",
+    "description": "woman: blond hair"
+  },
+  "गोरा केसांचा माणूस": {
+    "replacement": "👱‍♂️",
+    "description": "man: blond hair"
+  },
+  "वयस्क": { "replacement": "🧓", "description": "older person" },
+  "वयस्कर माणूस": { "replacement": "👴", "description": "old man" },
+  "म्हातारी स्त्री": { "replacement": "👵", "description": "old woman" },
+  "धाडसी व्यक्ती": { "replacement": "🙍", "description": "person frowning" },
+  "धाकधूक करणारा माणूस": { "replacement": "🙍‍♂️", "description": "man frowning" },
+  "भितीदायक स्त्री": { "replacement": "🙍‍♀️", "description": "woman frowning" },
+  "थरथरणारा चेहरा": { "replacement": "🙎", "description": "person pouting" },
+  "मनुष्य pouting": { "replacement": "🙎‍♂️", "description": "man pouting" },
+  "महिला pouting": { "replacement": "🙎‍♀️", "description": "woman pouting" },
+  "चांगले नाही": { "replacement": "🙅", "description": "person gesturing NO" },
+  "चांगला माणूस नाही": {
+    "replacement": "🙅‍♂️",
+    "description": "man gesturing NO"
+  },
+  "चांगली स्त्री नाही": {
+    "replacement": "🙅‍♀️",
+    "description": "woman gesturing NO"
+  },
+  "ठीक आहे व्यक्ती": {
+    "replacement": "🙆",
+    "description": "person gesturing OK"
+  },
+  "ठीक आहे माणूस": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "ठीक आहे बाई": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "टिपिंग हात व्यक्ती": {
+    "replacement": "💁",
+    "description": "person tipping hand"
+  },
+  "टिपिंग हात माणूस": {
+    "replacement": "💁‍♂️",
+    "description": "man tipping hand"
+  },
+  "टिपिंग हात स्त्री": {
+    "replacement": "💁‍♀️",
+    "description": "woman tipping hand"
+  },
+  "हात वर करणे": { "replacement": "🙋", "description": "person raising hand" },
+  "हात उठवणारा माणूस": {
+    "replacement": "🙋‍♂️",
+    "description": "man raising hand"
+  },
+  "हात उठवत स्त्री": {
+    "replacement": "🙋‍♀️",
+    "description": "woman raising hand"
+  },
+  "कर्णबधिर व्यक्ती": { "replacement": "🧏", "description": "deaf person" },
+  "बहिरा माणूस": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "बहिरा स्त्री": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "धनुष्य": { "replacement": "🙇", "description": "person bowing" },
+  "झुकणारा माणूस": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "झुकणारी स्त्री": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "चेहरा": { "replacement": "🤦", "description": "person facepalming" },
+  "मनुष्य चेहरा": { "replacement": "🤦‍♂️", "description": "man facepalming" },
+  "स्त्री चेहरा": { "replacement": "🤦‍♀️", "description": "woman facepalming" },
+  "श्रग": { "replacement": "🤷", "description": "person shrugging" },
+  "मनुष्य झोपणे": { "replacement": "🤷‍♂️", "description": "man shrugging" },
+  "स्त्री ओढणे": { "replacement": "🤷‍♀️", "description": "woman shrugging" },
+  "आरोग्य कर्मचारी": { "replacement": "🧑‍⚕️", "description": "health worker" },
+  "मनुष्य आरोग्य कर्मचारी": {
+    "replacement": "👨‍⚕️",
+    "description": "man health worker"
+  },
+  "महिला आरोग्य कर्मचारी": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "विद्यार्थी": { "replacement": "🧑‍🎓", "description": "student" },
+  "मनुष्य विद्यार्थी": { "replacement": "👨‍🎓", "description": "man student" },
+  "महिला विद्यार्थी": { "replacement": "👩‍🎓", "description": "woman student" },
+  "शिक्षक": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "मनुष्य शिक्षक": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "स्त्री शिक्षिका": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "न्यायाधीश": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "मनुष्य न्यायाधीश": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "महिला न्यायाधीश": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "शेतकरी": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "मनुष्य शेतकरी": { "replacement": "👨‍🌾", "description": "man farmer" },
+  "महिला शेतकरी": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "कूक": { "replacement": "🧑‍🍳", "description": "cook" },
+  "मनुष्य स्वयंपाक": { "replacement": "👨‍🍳", "description": "man cook" },
+  "स्त्री स्वयंपाक": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "मेकॅनिक": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "मॅन मेकॅनिक": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "महिला मेकॅनिक": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "कामगार": { "replacement": "🧑‍🏭", "description": "factory worker" },
+  "मनुष्य कारखाना कामगार": {
+    "replacement": "👨‍🏭",
+    "description": "man factory worker"
+  },
+  "महिला फॅक्टरी कामगार": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "कार्यालय कार्यकर्ता": {
+    "replacement": "🧑‍💼",
+    "description": "office worker"
+  },
+  "मनुष्य कार्यालय कर्मचारी": {
+    "replacement": "👨‍💼",
+    "description": "man office worker"
+  },
+  "महिला कार्यालय कर्मचारी": {
+    "replacement": "👩‍💼",
+    "description": "woman office worker"
+  },
+  "वैज्ञानिक": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "मनुष्य वैज्ञानिक": { "replacement": "👨‍🔬", "description": "man scientist" },
+  "महिला वैज्ञानिक": { "replacement": "👩‍🔬", "description": "woman scientist" },
+  "तंत्रज्ञ": { "replacement": "🧑‍💻", "description": "technologist" },
+  "मनुष्य तंत्रज्ञ": { "replacement": "👨‍💻", "description": "man technologist" },
+  "महिला तंत्रज्ञ": {
+    "replacement": "👩‍💻",
+    "description": "woman technologist"
+  },
+  "गायक": { "replacement": "🧑‍🎤", "description": "singer" },
+  "मनुष्य गायक": { "replacement": "👨‍🎤", "description": "man singer" },
+  "महिला गायिका": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "कलाकार": { "replacement": "🧑‍🎨", "description": "artist" },
+  "मनुष्य कलाकार": { "replacement": "👨‍🎨", "description": "man artist" },
+  "महिला कलाकार": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "पायलट": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "मनुष्य पायलट": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "महिला पायलट": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "अंतराळवीर": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "मनुष्य अंतराळवीर": { "replacement": "👨‍🚀", "description": "man astronaut" },
+  "महिला अंतराळवीर": { "replacement": "👩‍🚀", "description": "woman astronaut" },
+  "फायर फायटर": { "replacement": "🧑‍🚒", "description": "firefighter" },
+  "मनुष्य अग्निशामक": { "replacement": "👨‍🚒", "description": "man firefighter" },
+  "स्त्री अग्निशामक": {
+    "replacement": "👩‍🚒",
+    "description": "woman firefighter"
+  },
+  "पोलीस अधिकारी": { "replacement": "👮", "description": "police officer" },
+  "पोलिस": { "replacement": "👮‍♂️", "description": "man police officer" },
+  "पोलिस स्त्री": {
+    "replacement": "👮‍♀️",
+    "description": "woman police officer"
+  },
+  "गुप्तहेर": { "replacement": "🕵️", "description": "detective" },
+  "पुरुष गुप्तहेर": { "replacement": "🕵️‍♂️", "description": "man detective" },
+  "महिला गुप्त पोलिस": {
+    "replacement": "🕵️‍♀️",
+    "description": "woman detective"
+  },
+  "रक्षक": { "replacement": "💂", "description": "guard" },
+  "पहारेकरी": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "निन्जा": { "replacement": "🥷", "description": "ninja" },
+  "बांधकाम कामगार": {
+    "replacement": "👷",
+    "description": "construction worker"
+  },
+  "बांधकाम कामगार माणूस": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "बांधकाम कामगार महिला": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "राजकुमार": { "replacement": "🤴", "description": "prince" },
+  "राजकन्या": { "replacement": "👸", "description": "princess" },
+  "पगडी असलेली व्यक्ती": {
+    "replacement": "👳",
+    "description": "person wearing turban"
+  },
+  "पगडी असलेला माणूस": {
+    "replacement": "👳‍♂️",
+    "description": "man wearing turban"
+  },
+  "पगडी असलेली स्त्री": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "ग्वा पाई माओ सह मनुष्य": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "हेडस्कार्फ असलेली महिला": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "टक्सेडो मधील व्यक्ती": {
+    "replacement": "🤵",
+    "description": "person in tuxedo"
+  },
+  "टक्सिडो मध्ये मनुष्य": {
+    "replacement": "🤵‍♂️",
+    "description": "man in tuxedo"
+  },
+  "टक्सिडो मधील स्त्री": {
+    "replacement": "🤵‍♀️",
+    "description": "woman in tuxedo"
+  },
+  "बुरखा असलेल्या व्यक्ती": {
+    "replacement": "👰",
+    "description": "person with veil"
+  },
+  "बुरखा सह माणूस": { "replacement": "👰‍♂️", "description": "man with veil" },
+  "बुरखा असलेल्या स्त्री": {
+    "replacement": "👰‍♀️",
+    "description": "woman with veil"
+  },
+  "गर्भवती स्त्री": { "replacement": "🤰", "description": "pregnant woman" },
+  "स्तनपान": { "replacement": "🤱", "description": "breast-feeding" },
+  "स्त्री बाळाला आहार देत आहे": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "माणूस बाळाला आहार देत आहे": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "व्यक्ती बाळ पोसणे": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "परी": { "replacement": "🧚", "description": "fairy" },
+  "सांता": { "replacement": "🎅", "description": "Santa Claus" },
+  "श्रीमती क्लॉज": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "एमएक्स क्लॉज": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "सुपरहीरो": { "replacement": "🦸", "description": "superhero" },
+  "सुपरहीरो माणूस": { "replacement": "🦸‍♂️", "description": "man superhero" },
+  "सुपरहीरो बाई": { "replacement": "🦸‍♀️", "description": "woman superhero" },
+  "पर्यवेक्षक": { "replacement": "🦹", "description": "supervillain" },
+  "पर्यवेक्षी माणूस": {
+    "replacement": "🦹‍♂️",
+    "description": "man supervillain"
+  },
+  "पर्यवेक्षी महिला": {
+    "replacement": "🦹‍♀️",
+    "description": "woman supervillain"
+  },
+  "गवत": { "replacement": "🧙", "description": "mage" },
+  "दातेरी माणूस": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "दातेरी स्त्री": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "परी पुरुष": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "परी स्त्री": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "पिशाच": { "replacement": "🧛", "description": "vampire" },
+  "पिशाच माणूस": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "व्हँपायर स्त्री": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "व्यापारी": { "replacement": "🧜", "description": "merperson" },
+  "मर्मन": { "replacement": "🧜‍♂️", "description": "merman" },
+  "जलपरी": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "एल्फ": { "replacement": "🧝", "description": "elf" },
+  "योगिनी": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "जिनी": { "replacement": "🧞", "description": "genie" },
+  "जिनी माणूस": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "जिनी बाई": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "स्वतंत्रपणे निर्णय घेण्याची कुवत नसलेला असा मनुष्य": {
+    "replacement": "🧟",
+    "description": "zombie"
+  },
+  "स्वतंत्रपणे निर्णय घेण्याची कुवत नसलेला असा मनुष्य मनुष्य": {
+    "replacement": "🧟‍♂️",
+    "description": "man zombie"
+  },
+  "स्वतंत्रपणे निर्णय घेण्याची कुवत नसलेला असा मनुष्य स्त्री": {
+    "replacement": "🧟‍♀️",
+    "description": "woman zombie"
+  },
+  "मालिश": { "replacement": "💆", "description": "person getting massage" },
+  "मालिश मनुष्य": { "replacement": "💆‍♂️", "description": "man getting massage" },
+  "मालिश स्त्री": {
+    "replacement": "💆‍♀️",
+    "description": "woman getting massage"
+  },
+  "धाटणी": { "replacement": "💇", "description": "person getting haircut" },
+  "धाटणी मनुष्य": { "replacement": "💇‍♂️", "description": "man getting haircut" },
+  "केस कापण्याची स्त्री": {
+    "replacement": "💇‍♀️",
+    "description": "woman getting haircut"
+  },
+  "चालणे": { "replacement": "🚶", "description": "person walking" },
+  "चालणारा माणूस": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "चालणारी स्त्री": { "replacement": "🚶‍♀️", "description": "woman walking" },
+  "स्थायी व्यक्ती": { "replacement": "🧍", "description": "person standing" },
+  "स्थायी माणूस": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "उभे महिला": { "replacement": "🧍‍♀️", "description": "woman standing" },
+  "गुडघे टेकणारी व्यक्ती": {
+    "replacement": "🧎",
+    "description": "person kneeling"
+  },
+  "गुडघे टेकणारा माणूस": {
+    "replacement": "🧎‍♂️",
+    "description": "man kneeling"
+  },
+  "गुडघे टेकणारी स्त्री": {
+    "replacement": "🧎‍♀️",
+    "description": "woman kneeling"
+  },
+  "शोध घेणारी उसाची व्यक्ती": {
+    "replacement": "🧑‍🦯",
+    "description": "person with white cane"
+  },
+  "शोधत ऊस असलेला मनुष्य": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "प्रोबिंग ऊसाची स्त्री": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "मोटार चालवलेल्या व्हीलचेयरमधील व्यक्ती": {
+    "replacement": "🧑‍🦼",
+    "description": "person in motorized wheelchair"
+  },
+  "मोटारसायकल व्हीलचेयरचा माणूस": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "मोटारसायकल व्हीलचेअरमधील महिला": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "मॅन्युअल व्हीलचेयरवरील व्यक्ती": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "मॅन्युअल व्हीलचेअरवर माणूस": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "मॅन्युअल व्हीलचेअरवर स्त्री": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "धावपटू": { "replacement": "🏃", "description": "person running" },
+  "धावणारा माणूस": { "replacement": "🏃‍♂️", "description": "man running" },
+  "चालू असलेली स्त्री": { "replacement": "🏃‍♀️", "description": "woman running" },
+  "नृत्य": { "replacement": "💃", "description": "woman dancing" },
+  "माणूस नाचत आहे": { "replacement": "🕺", "description": "man dancing" },
+  "व्यवसाय खटला": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "नर्तक": { "replacement": "👯", "description": "people with bunny ears" },
+  "पुरुष नाचत आहेत": {
+    "replacement": "👯‍♂️",
+    "description": "men with bunny ears"
+  },
+  "नृत्य महिला": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "सॉना व्यक्ती": {
+    "replacement": "🧖",
+    "description": "person in steamy room"
+  },
+  "सौना माणूस": { "replacement": "🧖‍♂️", "description": "man in steamy room" },
+  "सौना बाई": { "replacement": "🧖‍♀️", "description": "woman in steamy room" },
+  "चढणे": { "replacement": "🧗", "description": "person climbing" },
+  "चढणे मनुष्य": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "गिर्यारोहण स्त्री": { "replacement": "🧗‍♀️", "description": "woman climbing" },
+  "व्यक्ती कुंपण": { "replacement": "🤺", "description": "person fencing" },
+  "घोडा रेसिंग": { "replacement": "🏇", "description": "horse racing" },
+  "स्कीअर": { "replacement": "⛷️", "description": "skier" },
+  "स्नोबोर्डर": { "replacement": "🏂", "description": "snowboarder" },
+  "गोल्फ": { "replacement": "⛳", "description": "flag in hole" },
+  "गोल्फ करणारा माणूस": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "गोल्फिंग बाई": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "सर्फर": { "replacement": "🏄", "description": "person surfing" },
+  "सर्फिंग माणूस": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "सर्फिंग महिला": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "रोबोट बोट": { "replacement": "🚣", "description": "person rowing boat" },
+  "रोइंग माणूस": { "replacement": "🚣‍♂️", "description": "man rowing boat" },
+  "रोइंग बाई": { "replacement": "🚣‍♀️", "description": "woman rowing boat" },
+  "पोहणारा": { "replacement": "🏊", "description": "person swimming" },
+  "पोहणारा माणूस": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "पोहणे स्त्री": { "replacement": "🏊‍♀️", "description": "woman swimming" },
+  "शेजारची व्यक्ती": {
+    "replacement": "⛹️",
+    "description": "person bouncing ball"
+  },
+  "बाउन्स मॅन": { "replacement": "⛹️‍♂️", "description": "man bouncing ball" },
+  "शेजारची बाई": { "replacement": "⛹️‍♀️", "description": "woman bouncing ball" },
+  "वजन उचल": { "replacement": "🏋️", "description": "person lifting weights" },
+  "वजन उचलणारा माणूस": {
+    "replacement": "🏋️‍♂️",
+    "description": "man lifting weights"
+  },
+  "वजन उचलणारी स्त्री": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "सायकलस्वार": { "replacement": "🚴", "description": "person biking" },
+  "दुचाकी चालवणारा माणूस": { "replacement": "🚴‍♂️", "description": "man biking" },
+  "दुचाकी चालवणारी महिला": {
+    "replacement": "🚴‍♀️",
+    "description": "woman biking"
+  },
+  "माउंटन सायकलस्वार": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "माउंटन बाइक चालवणारा माणूस": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "माउंटन बाईकिंग बाई": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "कार्टव्हीलिंग": {
+    "replacement": "🤸",
+    "description": "person cartwheeling"
+  },
+  "मनुष्य कारविलिंग": {
+    "replacement": "🤸‍♂️",
+    "description": "man cartwheeling"
+  },
+  "महिला कार्टव्हीलिंग": {
+    "replacement": "🤸‍♀️",
+    "description": "woman cartwheeling"
+  },
+  "कुस्ती": { "replacement": "🤼", "description": "people wrestling" },
+  "पुरुष कुस्ती": { "replacement": "🤼‍♂️", "description": "men wrestling" },
+  "महिला कुस्ती": { "replacement": "🤼‍♀️", "description": "women wrestling" },
+  "वॉटर पोलो": {
+    "replacement": "🤽",
+    "description": "person playing water polo"
+  },
+  "माणूस वॉटर पोलो खेळत आहे": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "वॉटर पोलो खेळणारी महिला": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "हँडबॉल व्यक्ती": {
+    "replacement": "🤾",
+    "description": "person playing handball"
+  },
+  "माणूस हँडबॉल खेळत आहे": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "महिला हँडबॉल खेळत आहे": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "त्रासदायक व्यक्ती": {
+    "replacement": "🤹",
+    "description": "person juggling"
+  },
+  "मनुष्य त्रास देत आहे": {
+    "replacement": "🤹‍♂️",
+    "description": "man juggling"
+  },
+  "स्त्री त्रास": { "replacement": "🤹‍♀️", "description": "woman juggling" },
+  "कमळ स्थिती": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "कमळ स्थिती मनुष्य": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "कमळ स्थिती स्त्री": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "आंघोळ": { "replacement": "🛀", "description": "person taking bath" },
+  "झोपायला बेड": { "replacement": "🛌", "description": "person in bed" },
+  "लोक हात धरतात": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "दोन स्त्रिया हात धरतात": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "जोडी": { "replacement": "👫", "description": "woman and man holding hands" },
+  "दोन पुरुष हात धरतात": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "दुहेरी": { "replacement": "💏", "description": "kiss" },
+  "दोन पुरुषांची स्त्री": {
+    "replacement": "👩‍❤️‍💋‍👩",
+    "description": "kiss: woman, woman"
+  },
+  "दोन पुरुषांचा माणूस": {
+    "replacement": "👨‍❤️‍💋‍👨",
+    "description": "kiss: man, man"
+  },
+  "मनाने जोडलेले": { "replacement": "💑", "description": "couple with heart" },
+  "हृदय स्त्री पुरुष दोन": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "हार्ट मॅन मॅन सोबत जोडी": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "हृदय स्त्री महिलेसह दोन": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "कुटुंब": { "replacement": "👪", "description": "family" },
+  "कुटुंब पुरुष स्त्री मुलगा": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "कुटुंब पुरुष स्त्री मुलगी": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "कुटुंब पुरुष स्त्री मुलगा मुलगा": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "फॅमिली मॅन मॅन मुलगा": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "फॅमिली मॅन मॅन गर्ल": {
+    "replacement": "👨‍👨‍👧",
+    "description": "family: man, man, girl"
+  },
+  "फॅमिली मॅन मॅन गर्ल बॉय": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "कुटुंब माणूस माणूस मुलगा मुलगा": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "फॅमिली मॅन मॅन गर्ल गर्ल": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "कुटुंब महिला स्त्री मुलगा": {
+    "replacement": "👩‍👩‍👦",
+    "description": "family: woman, woman, boy"
+  },
+  "कुटुंब महिला स्त्री मुलगी": {
+    "replacement": "👩‍👩‍👧",
+    "description": "family: woman, woman, girl"
+  },
+  "कुटुंब महिला स्त्री मुलगी मुलगा": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "कुटुंब महिला स्त्री मुलगा मुलगा": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "कुटुंब महिला स्त्री मुलगी मुलगी": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "कुटुंब माणूस मुलगा": {
+    "replacement": "👨‍👦",
+    "description": "family: man, boy"
+  },
+  "कुटुंब माणूस मुलगा मुलगा": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "फॅमिली मॅन गर्ल": {
+    "replacement": "👨‍👧",
+    "description": "family: man, girl"
+  },
+  "फॅमिली मॅन गर्ल बॉय": {
+    "replacement": "👨‍👧‍👦",
+    "description": "family: man, girl, boy"
+  },
+  "कुटुंबातील पुरुष मुलगी": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "कुटुंब महिला मुलगा": {
+    "replacement": "👩‍👦",
+    "description": "family: woman, boy"
+  },
+  "कुटुंब स्त्री मुलगा मुलगा": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "कुटुंब महिला मुलगी": {
+    "replacement": "👩‍👧",
+    "description": "family: woman, girl"
+  },
+  "कुटुंब महिला मुलगी मुलगा": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "कुटुंब महिला मुलगी मुलगी": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "बोलणारे डोके": { "replacement": "🗣️", "description": "speaking head" },
+  "छायचित्र मध्ये दिवाळे": {
+    "replacement": "👤",
+    "description": "bust in silhouette"
+  },
+  "छायचित्र मध्ये busts": {
+    "replacement": "👥",
+    "description": "busts in silhouette"
+  },
+  "लोक मिठी मारतात": { "replacement": "🫂", "description": "people hugging" },
+  "पाऊलखुणा": { "replacement": "👣", "description": "footprints" },
+  "माकडाचा चेहरा": { "replacement": "🐵", "description": "monkey face" },
+  "माकड": { "replacement": "🐒", "description": "monkey" },
+  "गोरिल्ला": { "replacement": "🦍", "description": "gorilla" },
+  "ऑरंगुटान": { "replacement": "🦧", "description": "orangutan" },
+  "कुत्रा": { "replacement": "🐶", "description": "dog face" },
+  "कुत्रा 2": { "replacement": "🐕", "description": "dog" },
+  "मार्गदर्शक कुत्रा": { "replacement": "🦮", "description": "guide dog" },
+  "सेवा कुत्रा": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "पोडल": { "replacement": "🐩", "description": "poodle" },
+  "लांडगा": { "replacement": "🐺", "description": "wolf" },
+  "कोल्हा चेहरा": { "replacement": "🦊", "description": "fox" },
+  "रॅकून": { "replacement": "🦝", "description": "raccoon" },
+  "मांजर": { "replacement": "🐱", "description": "cat face" },
+  "मांजर 2": { "replacement": "🐈", "description": "cat" },
+  "काळी मांजर": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "सिंह": { "replacement": "🦁", "description": "lion" },
+  "वाघ": { "replacement": "🐯", "description": "tiger face" },
+  "वाघ 2": { "replacement": "🐅", "description": "tiger" },
+  "बिबट्या": { "replacement": "🐆", "description": "leopard" },
+  "घोडा": { "replacement": "🐴", "description": "horse face" },
+  "रेस हॉर्स": { "replacement": "🐎", "description": "horse" },
+  "युनिकॉर्न": { "replacement": "🦄", "description": "unicorn" },
+  "झेब्रा": { "replacement": "🦓", "description": "zebra" },
+  "हरिण": { "replacement": "🦌", "description": "deer" },
+  "बायसन": { "replacement": "🦬", "description": "bison" },
+  "गाय": { "replacement": "🐮", "description": "cow face" },
+  "बैल": { "replacement": "🐂", "description": "ox" },
+  "पाणी म्हशी": { "replacement": "🐃", "description": "water buffalo" },
+  "गाय 2": { "replacement": "🐄", "description": "cow" },
+  "डुक्कर": { "replacement": "🐗", "description": "boar" },
+  "डुक्कर 2": { "replacement": "🐖", "description": "pig" },
+  "डुक्कर नाक": { "replacement": "🐽", "description": "pig nose" },
+  "रॅम": { "replacement": "🐏", "description": "ram" },
+  "मेंढी": { "replacement": "🐑", "description": "ewe" },
+  "शेळी": { "replacement": "🐐", "description": "goat" },
+  "ड्रॉमेडरी उंट": { "replacement": "🐪", "description": "camel" },
+  "उंट": { "replacement": "🐫", "description": "two-hump camel" },
+  "लामा": { "replacement": "🦙", "description": "llama" },
+  "जिराफ": { "replacement": "🦒", "description": "giraffe" },
+  "हत्ती": { "replacement": "🐘", "description": "elephant" },
+  "विशाल": { "replacement": "🦣", "description": "mammoth" },
+  "गेंडा": { "replacement": "🦏", "description": "rhinoceros" },
+  "हिप्पोपोटॅमस": { "replacement": "🦛", "description": "hippopotamus" },
+  "उंदीर": { "replacement": "🐀", "description": "rat" },
+  "माउस 2": { "replacement": "🐁", "description": "mouse" },
+  "हॅमस्टर": { "replacement": "🐹", "description": "hamster" },
+  "ससा": { "replacement": "🐰", "description": "rabbit face" },
+  "ससा 2": { "replacement": "🐇", "description": "rabbit" },
+  "चिपमक": { "replacement": "🐿️", "description": "chipmunk" },
+  "बीव्हर": { "replacement": "🦫", "description": "beaver" },
+  "हेजहोग": { "replacement": "🦔", "description": "hedgehog" },
+  "वटवाघूळ": { "replacement": "🦇", "description": "bat" },
+  "अस्वल": { "replacement": "🐻", "description": "bear" },
+  "ध्रुवीय अस्वल": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "कोआला": { "replacement": "🐨", "description": "koala" },
+  "पांडा चेहरा": { "replacement": "🐼", "description": "panda" },
+  "आळशीपणा": { "replacement": "🦥", "description": "sloth" },
+  "ऑटर": { "replacement": "🦦", "description": "otter" },
+  "स्कंक": { "replacement": "🦨", "description": "skunk" },
+  "कांगारू": { "replacement": "🦘", "description": "kangaroo" },
+  "बॅजर": { "replacement": "🦡", "description": "badger" },
+  "टर्की": { "replacement": "🦃", "description": "turkey" },
+  "कोंबडी": { "replacement": "🐓", "description": "rooster" },
+  "पिल्लांचे पिल्लू": { "replacement": "🐣", "description": "hatching chick" },
+  "बाळ चिक": { "replacement": "🐤", "description": "baby chick" },
+  "उबदार चिक": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "पक्षी": { "replacement": "🐦", "description": "bird" },
+  "पेंग्विन": { "replacement": "🐧", "description": "penguin" },
+  "पारवा": { "replacement": "🕊️", "description": "dove" },
+  "गरुड": { "replacement": "🦅", "description": "eagle" },
+  "बदक": { "replacement": "🦆", "description": "duck" },
+  "हंस": { "replacement": "🦢", "description": "swan" },
+  "घुबड": { "replacement": "🦉", "description": "owl" },
+  "डोडो": { "replacement": "🦤", "description": "dodo" },
+  "हलकीफुलकी": { "replacement": "🪶", "description": "feather" },
+  "फ्लेमिंगो": { "replacement": "🦩", "description": "flamingo" },
+  "मोर": { "replacement": "🦚", "description": "peacock" },
+  "पोपट": { "replacement": "🦜", "description": "parrot" },
+  "बेडूक": { "replacement": "🐸", "description": "frog" },
+  "मगर": { "replacement": "🐊", "description": "crocodile" },
+  "कासव": { "replacement": "🐢", "description": "turtle" },
+  "सरडे": { "replacement": "🦎", "description": "lizard" },
+  "साप": { "replacement": "🐍", "description": "snake" },
+  "ड्रॅगन चेहरा": { "replacement": "🐲", "description": "dragon face" },
+  "ड्रॅगन": { "replacement": "🐉", "description": "dragon" },
+  "सॉरोपॉड": { "replacement": "🦕", "description": "sauropod" },
+  "टी-रेक्स": { "replacement": "🦖", "description": "T-Rex" },
+  "देवमासा": { "replacement": "🐳", "description": "spouting whale" },
+  "व्हेल 2": { "replacement": "🐋", "description": "whale" },
+  "डॉल्फिन": { "replacement": "🐬", "description": "dolphin" },
+  "शिक्का": { "replacement": "🦭", "description": "seal" },
+  "मासे": { "replacement": "🐟", "description": "fish" },
+  "उष्णकटिबंधीय मासे": { "replacement": "🐠", "description": "tropical fish" },
+  "ब्लोफिश": { "replacement": "🐡", "description": "blowfish" },
+  "शार्क": { "replacement": "🦈", "description": "shark" },
+  "आठ पायांचा सागरी प्राणी": { "replacement": "🐙", "description": "octopus" },
+  "कवच": { "replacement": "🐚", "description": "spiral shell" },
+  "गोगलगाय": { "replacement": "🐌", "description": "snail" },
+  "फुलपाखरू": { "replacement": "🦋", "description": "butterfly" },
+  "किडा": { "replacement": "🐛", "description": "bug" },
+  "मुंगी": { "replacement": "🐜", "description": "ant" },
+  "मधमाशी": { "replacement": "🐝", "description": "honeybee" },
+  "बीटल": { "replacement": "🪲", "description": "beetle" },
+  "लेडी बीटल": { "replacement": "🐞", "description": "lady beetle" },
+  "क्रिकेट": { "replacement": "🦗", "description": "cricket" },
+  "झुरळ": { "replacement": "🪳", "description": "cockroach" },
+  "कोळी": { "replacement": "🕷️", "description": "spider" },
+  "कोळ्याचे जाळे": { "replacement": "🕸️", "description": "spider web" },
+  "विंचू": { "replacement": "🦂", "description": "scorpion" },
+  "डास": { "replacement": "🦟", "description": "mosquito" },
+  "उडणे": { "replacement": "🪰", "description": "fly" },
+  "जंत": { "replacement": "🪱", "description": "worm" },
+  "सूक्ष्मजंतू": { "replacement": "🦠", "description": "microbe" },
+  "पुष्पगुच्छ": { "replacement": "💐", "description": "bouquet" },
+  "चेरी बहर": { "replacement": "🌸", "description": "cherry blossom" },
+  "पांढरा फ्लॉवर": { "replacement": "💮", "description": "white flower" },
+  "गुलाब": { "replacement": "🌹", "description": "rose" },
+  "वाइल्ड फ्लॉवर": { "replacement": "🥀", "description": "wilted flower" },
+  "हिबिस्कस": { "replacement": "🌺", "description": "hibiscus" },
+  "सूर्यफूल": { "replacement": "🌻", "description": "sunflower" },
+  "बहर": { "replacement": "🌼", "description": "blossom" },
+  "ट्यूलिप": { "replacement": "🌷", "description": "tulip" },
+  "बीपासून नुकतेच तयार झालेले रोप": {
+    "replacement": "🌱",
+    "description": "seedling"
+  },
+  "कुंभार वनस्पती": { "replacement": "🪴", "description": "potted plant" },
+  "सदाहरित झाड": { "replacement": "🌲", "description": "evergreen tree" },
+  "पर्णपाती वृक्ष": { "replacement": "🌳", "description": "deciduous tree" },
+  "पाम चे झाड": { "replacement": "🌴", "description": "palm tree" },
+  "कॅक्टस": { "replacement": "🌵", "description": "cactus" },
+  "तांदूळ कान": { "replacement": "🌾", "description": "sheaf of rice" },
+  "औषधी वनस्पती": { "replacement": "🌿", "description": "herb" },
+  "शॅमरॉक": { "replacement": "☘️", "description": "shamrock" },
+  "चार लीफ क्लोव्हर": {
+    "replacement": "🍀",
+    "description": "four leaf clover"
+  },
+  "मॅपल लीफ": { "replacement": "🍁", "description": "maple leaf" },
+  "गळून पडलेली पाने": { "replacement": "🍂", "description": "fallen leaf" },
+  "पाने": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "द्राक्षे": { "replacement": "🍇", "description": "grapes" },
+  "खरबूज": { "replacement": "🍈", "description": "melon" },
+  "टरबूज": { "replacement": "🍉", "description": "watermelon" },
+  "टेंजरिन": { "replacement": "🍊", "description": "tangerine" },
+  "लिंबू": { "replacement": "🍋", "description": "lemon" },
+  "केळी": { "replacement": "🍌", "description": "banana" },
+  "अननस": { "replacement": "🍍", "description": "pineapple" },
+  "आंबा": { "replacement": "🥭", "description": "mango" },
+  "सफरचंद": { "replacement": "🍎", "description": "red apple" },
+  "हिरवे सफरचंद": { "replacement": "🍏", "description": "green apple" },
+  "PEAR": { "replacement": "🍐", "description": "pear" },
+  "सुदंर आकर्षक मुलगी": { "replacement": "🍑", "description": "peach" },
+  "चेरी": { "replacement": "🍒", "description": "cherries" },
+  "छोटी": { "replacement": "🍓", "description": "strawberry" },
+  "ब्लूबेरी": { "replacement": "🫐", "description": "blueberries" },
+  "किवी फळ": { "replacement": "🥝", "description": "kiwi fruit" },
+  "टोमॅटो": { "replacement": "🍅", "description": "tomato" },
+  "ऑलिव्ह": { "replacement": "🫒", "description": "olive" },
+  "नारळ": { "replacement": "🥥", "description": "coconut" },
+  "एवोकॅडो": { "replacement": "🥑", "description": "avocado" },
+  "वांगं": { "replacement": "🍆", "description": "eggplant" },
+  "बटाटा": { "replacement": "🥔", "description": "potato" },
+  "गाजर": { "replacement": "🥕", "description": "carrot" },
+  "कॉर्न": { "replacement": "🌽", "description": "ear of corn" },
+  "गरम मिरची": { "replacement": "🌶️", "description": "hot pepper" },
+  "भोपळी मिरची": { "replacement": "🫑", "description": "bell pepper" },
+  "काकडी": { "replacement": "🥒", "description": "cucumber" },
+  "हिरव्यागार": { "replacement": "🥬", "description": "leafy green" },
+  "ब्रोकोली": { "replacement": "🥦", "description": "broccoli" },
+  "लसूण": { "replacement": "🧄", "description": "garlic" },
+  "कांदा": { "replacement": "🧅", "description": "onion" },
+  "मशरूम": { "replacement": "🍄", "description": "mushroom" },
+  "शेंगदाणे": { "replacement": "🥜", "description": "peanuts" },
+  "चेस्टनट": { "replacement": "🌰", "description": "chestnut" },
+  "ब्रेड": { "replacement": "🍞", "description": "bread" },
+  "क्रोसंट": { "replacement": "🥐", "description": "croissant" },
+  "बॅगेट ब्रेड": { "replacement": "🥖", "description": "baguette bread" },
+  "फ्लॅटब्रेड": { "replacement": "🫓", "description": "flatbread" },
+  "pretzel": { "replacement": "🥨", "description": "pretzel" },
+  "बॅगल": { "replacement": "🥯", "description": "bagel" },
+  "पॅनकेक्स": { "replacement": "🥞", "description": "pancakes" },
+  "वायफळ बडबड": { "replacement": "🧇", "description": "waffle" },
+  "चीज": { "replacement": "🧀", "description": "cheese wedge" },
+  "हाडांवर मांस": { "replacement": "🍖", "description": "meat on bone" },
+  "पोल्ट्री लेग": { "replacement": "🍗", "description": "poultry leg" },
+  "मांस कट": { "replacement": "🥩", "description": "cut of meat" },
+  "खारवून वाळवलेले डुकराचे मांस": {
+    "replacement": "🥓",
+    "description": "bacon"
+  },
+  "हॅमबर्गर": { "replacement": "🍔", "description": "hamburger" },
+  "फ्राईज": { "replacement": "🍟", "description": "french fries" },
+  "पिझ्झा": { "replacement": "🍕", "description": "pizza" },
+  "हॉटडॉग": { "replacement": "🌭", "description": "hot dog" },
+  "सँडविच": { "replacement": "🥪", "description": "sandwich" },
+  "टॅको": { "replacement": "🌮", "description": "taco" },
+  "बुरिटो": { "replacement": "🌯", "description": "burrito" },
+  "तामले": { "replacement": "🫔", "description": "tamale" },
+  "चोंदलेले फ्लॅटब्रेड": {
+    "replacement": "🥙",
+    "description": "stuffed flatbread"
+  },
+  "फलाफेल": { "replacement": "🧆", "description": "falafel" },
+  "अंडी": { "replacement": "🥚", "description": "egg" },
+  "तळलेले अंडी": { "replacement": "🍳", "description": "cooking" },
+  "अन्न उथळ पॅन": { "replacement": "🥘", "description": "shallow pan of food" },
+  "पाण्यात किंवा रसात मंदपणे शिजणे": {
+    "replacement": "🍲",
+    "description": "pot of food"
+  },
+  "प्रेमळ": { "replacement": "🫕", "description": "fondue" },
+  "चमच्याने वाडगा": { "replacement": "🥣", "description": "bowl with spoon" },
+  "हिरव्या कोशिंबीर": { "replacement": "🥗", "description": "green salad" },
+  "पॉपकॉर्न": { "replacement": "🍿", "description": "popcorn" },
+  "लोणी": { "replacement": "🧈", "description": "butter" },
+  "मीठ": { "replacement": "🧂", "description": "salt" },
+  "डब्बा बंद खाद्यपदार्थ": {
+    "replacement": "🥫",
+    "description": "canned food"
+  },
+  "बेंटो": { "replacement": "🍱", "description": "bento box" },
+  "तांदूळ फटाका": { "replacement": "🍘", "description": "rice cracker" },
+  "भाताचा गोळा": { "replacement": "🍙", "description": "rice ball" },
+  "तांदूळ": { "replacement": "🍚", "description": "cooked rice" },
+  "कढीपत्ता": { "replacement": "🍛", "description": "curry rice" },
+  "रामेन": { "replacement": "🍜", "description": "steaming bowl" },
+  "स्पेगेटी": { "replacement": "🍝", "description": "spaghetti" },
+  "रताळे": { "replacement": "🍠", "description": "roasted sweet potato" },
+  "ओडेन": { "replacement": "🍢", "description": "oden" },
+  "सुशी": { "replacement": "🍣", "description": "sushi" },
+  "तळलेले कोळंबी मासा": { "replacement": "🍤", "description": "fried shrimp" },
+  "फिश केक": { "replacement": "🍥", "description": "fish cake with swirl" },
+  "चंद्र केक": { "replacement": "🥮", "description": "moon cake" },
+  "डांगो": { "replacement": "🍡", "description": "dango" },
+  "डंपलिंग": { "replacement": "🥟", "description": "dumpling" },
+  "फॉर्चून कुकी": { "replacement": "🥠", "description": "fortune cookie" },
+  "टेकआउट बॉक्स": { "replacement": "🥡", "description": "takeout box" },
+  "खेकडा": { "replacement": "🦀", "description": "crab" },
+  "लॉबस्टर": { "replacement": "🦞", "description": "lobster" },
+  "कोळंबी मासा": { "replacement": "🦐", "description": "shrimp" },
+  "स्क्विड": { "replacement": "🦑", "description": "squid" },
+  "ऑयस्टर": { "replacement": "🦪", "description": "oyster" },
+  "आईसक्रीम": { "replacement": "🍨", "description": "ice cream" },
+  "खिसलेले बर्फ": { "replacement": "🍧", "description": "shaved ice" },
+  "डोनट": { "replacement": "🍩", "description": "doughnut" },
+  "कुकी": { "replacement": "🍪", "description": "cookie" },
+  "वाढदिवस": { "replacement": "🎂", "description": "birthday cake" },
+  "केक": { "replacement": "🍰", "description": "shortcake" },
+  "कपकेक": { "replacement": "🧁", "description": "cupcake" },
+  "पाई": { "replacement": "🥧", "description": "pie" },
+  "चॉकलेट बार": { "replacement": "🍫", "description": "chocolate bar" },
+  "कँडी": { "replacement": "🍬", "description": "candy" },
+  "लॉलीपॉप": { "replacement": "🍭", "description": "lollipop" },
+  "कस्टर्ड": { "replacement": "🍮", "description": "custard" },
+  "मधाची बरणी": { "replacement": "🍯", "description": "honey pot" },
+  "बाळाची बाटली": { "replacement": "🍼", "description": "baby bottle" },
+  "दुधाचा पेला": { "replacement": "🥛", "description": "glass of milk" },
+  "कॉफी": { "replacement": "☕", "description": "hot beverage" },
+  "टीपोट": { "replacement": "🫖", "description": "teapot" },
+  "चहा": { "replacement": "🍵", "description": "teacup without handle" },
+  "फायद्यासाठी": { "replacement": "🍶", "description": "sake" },
+  "पांढरे चमकदार मद्य": {
+    "replacement": "🍾",
+    "description": "bottle with popping cork"
+  },
+  "दारूचा प्याला": { "replacement": "🍷", "description": "wine glass" },
+  "कॉकटेल": { "replacement": "🍸", "description": "cocktail glass" },
+  "उष्णकटिबंधीय पेय": { "replacement": "🍹", "description": "tropical drink" },
+  "बिअर": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "क्लिकिंग चष्मा": { "replacement": "🥂", "description": "clinking glasses" },
+  "गोंधळलेला ग्लास": { "replacement": "🥃", "description": "tumbler glass" },
+  "पेंढा सह कप": { "replacement": "🥤", "description": "cup with straw" },
+  "फेसाळलेला चहा": { "replacement": "🧋", "description": "bubble tea" },
+  "पेय पेटी": { "replacement": "🧃", "description": "beverage box" },
+  "सोबती": { "replacement": "🧉", "description": "mate" },
+  "बर्फ घन": { "replacement": "🧊", "description": "ice" },
+  "चॉपस्टिक्स": { "replacement": "🥢", "description": "chopsticks" },
+  "कटलरी सह प्लेट": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "काटा आणि चाकू": { "replacement": "🍴", "description": "fork and knife" },
+  "चमचा": { "replacement": "🥄", "description": "spoon" },
+  "hocho": { "replacement": "🔪", "description": "kitchen knife" },
+  "अँफोरा": { "replacement": "🏺", "description": "amphora" },
+  "पृथ्वी आफ्रिका": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "पृथ्वी अमेरिका": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "पृथ्वी आशिया": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "मेरिडियनसह ग्लोब": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "जगाचा नकाशा": { "replacement": "🗺️", "description": "world map" },
+  "जपान": { "replacement": "🗾", "description": "map of Japan" },
+  "होकायंत्र": { "replacement": "🧭", "description": "compass" },
+  "माउंटन बर्फ": { "replacement": "🏔️", "description": "snow-capped mountain" },
+  "डोंगर": { "replacement": "🛶", "description": "canoe" },
+  "ज्वालामुखी": { "replacement": "🌋", "description": "volcano" },
+  "माऊंट फुजी": { "replacement": "🗻", "description": "mount fuji" },
+  "कॅम्पिंग": { "replacement": "🏕️", "description": "camping" },
+  "समुद्र तटावर वापरली जाणारी छत्री": {
+    "replacement": "🏖️",
+    "description": "beach with umbrella"
+  },
+  "वाळवंट": { "replacement": "🏜️", "description": "desert" },
+  "वाळवंट बेट": { "replacement": "🏝️", "description": "desert island" },
+  "राष्ट्रीय उद्यान": { "replacement": "🏞️", "description": "national park" },
+  "स्टेडियम": { "replacement": "🏟️", "description": "stadium" },
+  "शास्त्रीय इमारत": {
+    "replacement": "🏛️",
+    "description": "classical building"
+  },
+  "बांधकाम": { "replacement": "🚧", "description": "construction" },
+  "विटा": { "replacement": "🧱", "description": "brick" },
+  "रॉक": { "replacement": "🪨", "description": "rock" },
+  "लाकूड": { "replacement": "🪵", "description": "wood" },
+  "झोपडी": { "replacement": "🛖", "description": "hut" },
+  "घरे": { "replacement": "🏘️", "description": "houses" },
+  "घसरण घर": { "replacement": "🏚️", "description": "derelict house" },
+  "घर": { "replacement": "🏠", "description": "house" },
+  "बाग सह घर": { "replacement": "🏡", "description": "house with garden" },
+  "कार्यालय": { "replacement": "🏢", "description": "office building" },
+  "टपाल कार्यालय": {
+    "replacement": "🏣",
+    "description": "Japanese post office"
+  },
+  "युरोपियन टपाल कार्यालय": {
+    "replacement": "🏤",
+    "description": "post office"
+  },
+  "रुग्णालय": { "replacement": "🏥", "description": "hospital" },
+  "बँक": { "replacement": "🏦", "description": "bank" },
+  "हॉटेल": { "replacement": "🏨", "description": "hotel" },
+  "हॉटेल आवडते": { "replacement": "🏩", "description": "love hotel" },
+  "सुविधा दुकान": { "replacement": "🏪", "description": "convenience store" },
+  "शाळा": { "replacement": "🏫", "description": "school" },
+  "विभाग स्टोअर": { "replacement": "🏬", "description": "department store" },
+  "कारखाना": { "replacement": "🏭", "description": "factory" },
+  "जपानी किल्लेवजा वाडा": {
+    "replacement": "🏯",
+    "description": "Japanese castle"
+  },
+  "युरोपियन किल्लेवजा वाडा": { "replacement": "🏰", "description": "castle" },
+  "लग्न": { "replacement": "💒", "description": "wedding" },
+  "टोकियो टॉवर": { "replacement": "🗼", "description": "Tokyo tower" },
+  "स्वातंत्र्याचा पुतळा": {
+    "replacement": "🗽",
+    "description": "Statue of Liberty"
+  },
+  "चर्च": { "replacement": "⛪", "description": "church" },
+  "मशिद": { "replacement": "🕌", "description": "mosque" },
+  "हिंदू मंदिर": { "replacement": "🛕", "description": "hindu temple" },
+  "सभास्थान": { "replacement": "🕍", "description": "synagogue" },
+  "शिंटो मंदिर": { "replacement": "⛩️", "description": "shinto shrine" },
+  "काबा": { "replacement": "🕋", "description": "kaaba" },
+  "कारंजे": { "replacement": "⛲", "description": "fountain" },
+  "तंबू": { "replacement": "⛺", "description": "tent" },
+  "धुके": { "replacement": "🌫️", "description": "fog" },
+  "तारे सह रात्री": { "replacement": "🌃", "description": "night with stars" },
+  "सिटीस्केप": { "replacement": "🏙️", "description": "cityscape" },
+  "पर्वतावर सूर्योदय": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "सूर्योदय": { "replacement": "🌅", "description": "sunrise" },
+  "शहर सूर्यास्त": { "replacement": "🌆", "description": "cityscape at dusk" },
+  "शहर सूर्योदय": { "replacement": "🌇", "description": "sunset" },
+  "रात्री पूल": { "replacement": "🌉", "description": "bridge at night" },
+  "गरम पाण्याचे झरे": { "replacement": "♨️", "description": "hot springs" },
+  "कॅरोझेल घोडा": { "replacement": "🎠", "description": "carousel horse" },
+  "आकाश पाळणा": { "replacement": "🎡", "description": "ferris wheel" },
+  "रोलर कोस्टर": { "replacement": "🎢", "description": "roller coaster" },
+  "नाई": { "replacement": "💈", "description": "barber pole" },
+  "सर्कस तंबू": { "replacement": "🎪", "description": "circus tent" },
+  "स्टीम लोकोमोटिव्ह": { "replacement": "🚂", "description": "locomotive" },
+  "रेल्वे गाडी": { "replacement": "🚃", "description": "railway car" },
+  "बुलेटट्रेन बाजू": { "replacement": "🚄", "description": "high-speed train" },
+  "बुलेट्रेन समोर": { "replacement": "🚅", "description": "bullet train" },
+  "ट्रेन 2": { "replacement": "🚆", "description": "train" },
+  "मेट्रो": { "replacement": "🚇", "description": "metro" },
+  "हलकी रेल": { "replacement": "🚈", "description": "light rail" },
+  "स्टेशन": { "replacement": "🚉", "description": "station" },
+  "ट्राम": { "replacement": "🚊", "description": "tram" },
+  "मोनोरेल": { "replacement": "🚝", "description": "monorail" },
+  "माउंटन रेल्वे": { "replacement": "🚞", "description": "mountain railway" },
+  "ट्रेन": { "replacement": "🚋", "description": "tram car" },
+  "बस": { "replacement": "🚌", "description": "bus" },
+  "येणारी बस": { "replacement": "🚍", "description": "oncoming bus" },
+  "ट्रॉलीबस": { "replacement": "🚎", "description": "trolleybus" },
+  "मिनीबस": { "replacement": "🚐", "description": "minibus" },
+  "रुग्णवाहिका": { "replacement": "🚑", "description": "ambulance" },
+  "अग्निशामक": { "replacement": "🚒", "description": "fire engine" },
+  "पोलीस वाहन": { "replacement": "🚓", "description": "police car" },
+  "पोलिसांची गाडी येत आहे": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "टॅक्सी": { "replacement": "🚕", "description": "taxi" },
+  "येणारी टॅक्सी": { "replacement": "🚖", "description": "oncoming taxi" },
+  "गाडी": { "replacement": "🚗", "description": "automobile" },
+  "येत्या वाहन": { "replacement": "🚘", "description": "oncoming automobile" },
+  "निळी कार": { "replacement": "🚙", "description": "sport utility vehicle" },
+  "सामान नेणारी गाडी": { "replacement": "🛻", "description": "pickup truck" },
+  "ट्रक": { "replacement": "🚚", "description": "delivery truck" },
+  "स्पष्ट लॉरी": { "replacement": "🚛", "description": "articulated lorry" },
+  "ट्रॅक्टर": { "replacement": "🚜", "description": "tractor" },
+  "रेसिंग कार": { "replacement": "🏎️", "description": "racing car" },
+  "मोटारसायकल": { "replacement": "🏍️", "description": "motorcycle" },
+  "मोटर स्कूटर": { "replacement": "🛵", "description": "motor scooter" },
+  "मॅन्युअल व्हीलचेअर": {
+    "replacement": "🦽",
+    "description": "manual wheelchair"
+  },
+  "मोटारयुक्त व्हीलचेअर": {
+    "replacement": "🦼",
+    "description": "motorized wheelchair"
+  },
+  "ऑटो रिक्षा": { "replacement": "🛺", "description": "auto rickshaw" },
+  "दुचाकी": { "replacement": "🚲", "description": "bicycle" },
+  "किक स्कूटर": { "replacement": "🛴", "description": "kick scooter" },
+  "स्केटबोर्ड": { "replacement": "🛹", "description": "skateboard" },
+  "रोलर स्केट": { "replacement": "🛼", "description": "roller skate" },
+  "बस स्थानक": { "replacement": "🚏", "description": "bus stop" },
+  "मोटारवे": { "replacement": "🛣️", "description": "motorway" },
+  "रेल्वे ट्रॅक": { "replacement": "🛤️", "description": "railway track" },
+  "तेल ड्रम": { "replacement": "🛢️", "description": "oil drum" },
+  "इंधन पंप": { "replacement": "⛽", "description": "fuel pump" },
+  "फिरणारा प्रकाश": { "replacement": "🚨", "description": "police car light" },
+  "वाहतूक प्रकाश": {
+    "replacement": "🚥",
+    "description": "horizontal traffic light"
+  },
+  "उभ्या रहदारी प्रकाश": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "थांबा चिन्ह": { "replacement": "🛑", "description": "stop sign" },
+  "अँकर": { "replacement": "⚓", "description": "anchor" },
+  "बोट": { "replacement": "⛵", "description": "sailboat" },
+  "वेगवान बोट": { "replacement": "🚤", "description": "speedboat" },
+  "प्रवासी जहाज": { "replacement": "🛳️", "description": "passenger ship" },
+  "फेरी": { "replacement": "⛴️", "description": "ferry" },
+  "मोटर बोट": { "replacement": "🛥️", "description": "motor boat" },
+  "जहाज": { "replacement": "🚢", "description": "ship" },
+  "विमान": { "replacement": "✈️", "description": "airplane" },
+  "लहान विमान": { "replacement": "🛩️", "description": "small airplane" },
+  "उड्डाण सुटणे": { "replacement": "🛫", "description": "airplane departure" },
+  "उड्डाण आगमन": { "replacement": "🛬", "description": "airplane arrival" },
+  "पॅराशूट": { "replacement": "🪂", "description": "parachute" },
+  "आसन": { "replacement": "💺", "description": "seat" },
+  "हेलिकॉप्टर": { "replacement": "🚁", "description": "helicopter" },
+  "निलंबन रेल्वे": { "replacement": "🚟", "description": "suspension railway" },
+  "माउंटन केबलवे": { "replacement": "🚠", "description": "mountain cableway" },
+  "हवाई ट्रामवे": { "replacement": "🚡", "description": "aerial tramway" },
+  "कृत्रिम उपग्रह": { "replacement": "🛰️", "description": "satellite" },
+  "रॉकेट": { "replacement": "🚀", "description": "rocket" },
+  "उडती तबकडी": { "replacement": "🛸", "description": "flying saucer" },
+  "घंटागाडी बेल": { "replacement": "🛎️", "description": "bellhop bell" },
+  "सामान": { "replacement": "🧳", "description": "luggage" },
+  "तास ग्लास": { "replacement": "⌛", "description": "hourglass done" },
+  "तासग्लास वाहणारी वाळू": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "पहा": { "replacement": "⌚", "description": "watch" },
+  "गजराचे घड्याळ": { "replacement": "⏰", "description": "alarm clock" },
+  "स्टॉपवॉच": { "replacement": "⏱️", "description": "stopwatch" },
+  "टाइमर घड्याळ": { "replacement": "⏲️", "description": "timer clock" },
+  "mantelpiece घड्याळ": {
+    "replacement": "🕰️",
+    "description": "mantelpiece clock"
+  },
+  "घड्याळ 12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "घड्याळ 1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "घड्याळ 1": { "replacement": "🕐", "description": "one o’clock" },
+  "घड्याळ 0130": { "replacement": "🕜", "description": "one-thirty" },
+  "घड्याळ 2": { "replacement": "🕑", "description": "two o’clock" },
+  "घड्याळ 230": { "replacement": "🕝", "description": "two-thirty" },
+  "घड्याळ 3": { "replacement": "🕒", "description": "three o’clock" },
+  "घड्याळ 330": { "replacement": "🕞", "description": "three-thirty" },
+  "घड्याळ 4": { "replacement": "🕓", "description": "four o’clock" },
+  "घड्याळ 430": { "replacement": "🕟", "description": "four-thirty" },
+  "घड्याळ 5": { "replacement": "🕔", "description": "five o’clock" },
+  "घड्याळ 530": { "replacement": "🕠", "description": "five-thirty" },
+  "घड्याळ 6": { "replacement": "🕕", "description": "six o’clock" },
+  "घड्याळ 630": { "replacement": "🕡", "description": "six-thirty" },
+  "घड्याळ 7": { "replacement": "🕖", "description": "seven o’clock" },
+  "घड्याळ 730": { "replacement": "🕢", "description": "seven-thirty" },
+  "घड्याळ 8": { "replacement": "🕗", "description": "eight o’clock" },
+  "घड्याळ 830": { "replacement": "🕣", "description": "eight-thirty" },
+  "घड्याळ 9": { "replacement": "🕘", "description": "nine o’clock" },
+  "घड्याळ 930": { "replacement": "🕤", "description": "nine-thirty" },
+  "घड्याळ 10": { "replacement": "🕙", "description": "ten o’clock" },
+  "घड्याळ 1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "घड्याळ 11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "घड्याळ 1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "नवीन चंद्र": { "replacement": "🌑", "description": "new moon" },
+  "वेक्सिंग चंद्रकोर": {
+    "replacement": "🌒",
+    "description": "waxing crescent moon"
+  },
+  "प्रथम चतुर्थांश चंद्र": {
+    "replacement": "🌓",
+    "description": "first quarter moon"
+  },
+  "चंद्र": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "पौर्णिमा": { "replacement": "🌕", "description": "full moon" },
+  "गिब्बस चंद्र अदृष्य": {
+    "replacement": "🌖",
+    "description": "waning gibbous moon"
+  },
+  "शेवटचा चतुर्थांश चंद्र": {
+    "replacement": "🌗",
+    "description": "last quarter moon"
+  },
+  "चंद्रकोर चंद्र": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "चंद्रकोर": { "replacement": "🌙", "description": "crescent moon" },
+  "चेहरा नवीन चंद्र": { "replacement": "🌚", "description": "new moon face" },
+  "चेहरा प्रथम चतुर्थांश चंद्र": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "चेहरा शेवटचा चतुर्थांश चंद्र": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "थर्मामीटरने": { "replacement": "🌡️", "description": "thermometer" },
+  "सनी": { "replacement": "☀️", "description": "sun" },
+  "चेहरा पूर्ण चंद्र": { "replacement": "🌝", "description": "full moon face" },
+  "चेहरा सह सूर्य": { "replacement": "🌞", "description": "sun with face" },
+  "रंगीत ग्रह": { "replacement": "🪐", "description": "ringed planet" },
+  "तारा": { "replacement": "*️⃣", "description": "keycap: *" },
+  "स्टार 2": { "replacement": "🌟", "description": "glowing star" },
+  "तारे": { "replacement": "🌠", "description": "shooting star" },
+  "आकाशगंगा": { "replacement": "🌌", "description": "milky way" },
+  "ढग": { "replacement": "☁️", "description": "cloud" },
+  "अंशतः सनी": { "replacement": "⛅", "description": "sun behind cloud" },
+  "वीज आणि पाऊस ढग": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "लहान मेघ मागे सूर्य": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "मोठ्या मेघ मागे सूर्य": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "पाऊस ढग मागे सूर्य": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "पावसासह ढग": { "replacement": "🌧️", "description": "cloud with rain" },
+  "हिमवर्षावासह ढग": { "replacement": "🌨️", "description": "cloud with snow" },
+  "विजेसह ढग": { "replacement": "🌩️", "description": "cloud with lightning" },
+  "तुफान": { "replacement": "🌪️", "description": "tornado" },
+  "वारा चेहरा": { "replacement": "🌬️", "description": "wind face" },
+  "चक्रीवादळ": { "replacement": "🌀", "description": "cyclone" },
+  "इंद्रधनुष्य": { "replacement": "🌈", "description": "rainbow" },
+  "बंद छत्री": { "replacement": "🌂", "description": "closed umbrella" },
+  "छत्री उघडा": { "replacement": "☂️", "description": "umbrella" },
+  "छत्री": { "replacement": "☔", "description": "umbrella with rain drops" },
+  "जमिनीवर पॅरासोल": {
+    "replacement": "⛱️",
+    "description": "umbrella on ground"
+  },
+  "झॅप": { "replacement": "⚡", "description": "high voltage" },
+  "स्नोफ्लेक": { "replacement": "❄️", "description": "snowflake" },
+  "बर्फासह हिममानव": { "replacement": "☃️", "description": "snowman" },
+  "हिममानव": { "replacement": "⛄", "description": "snowman without snow" },
+  "धूमकेतू": { "replacement": "☄️", "description": "comet" },
+  "आग": { "replacement": "🔥", "description": "fire" },
+  "थेंब": { "replacement": "💧", "description": "droplet" },
+  "समुद्र": { "replacement": "🌊", "description": "water wave" },
+  "जॅक ओ कंदील": { "replacement": "🎃", "description": "jack-o-lantern" },
+  "ख्रिसमस ट्री": { "replacement": "🎄", "description": "Christmas tree" },
+  "फटाके": { "replacement": "🎆", "description": "fireworks" },
+  "चमचमीत": { "replacement": "🎇", "description": "sparkler" },
+  "फटाका": { "replacement": "🧨", "description": "firecracker" },
+  "चमचम": { "replacement": "✨", "description": "sparkles" },
+  "बलून": { "replacement": "🎈", "description": "balloon" },
+  "टाडा": { "replacement": "🎉", "description": "party popper" },
+  "कन्फेटी बॉल": { "replacement": "🎊", "description": "confetti ball" },
+  "तानाबाटा झाड": { "replacement": "🎋", "description": "tanabata tree" },
+  "बांबू": { "replacement": "🎍", "description": "pine decoration" },
+  "बाहुल्या": { "replacement": "🎎", "description": "Japanese dolls" },
+  "झेंडे": { "replacement": "🎏", "description": "carp streamer" },
+  "विंड चाइम": { "replacement": "🎐", "description": "wind chime" },
+  "तांदूळ देखावा": {
+    "replacement": "🎑",
+    "description": "moon viewing ceremony"
+  },
+  "लाल लिफाफा": { "replacement": "🧧", "description": "red envelope" },
+  "फिती": { "replacement": "🎀", "description": "ribbon" },
+  "भेट": { "replacement": "🎁", "description": "wrapped gift" },
+  "स्मरणपत्र रिबन": { "replacement": "🎗️", "description": "reminder ribbon" },
+  "तिकिटे": { "replacement": "🎟️", "description": "admission tickets" },
+  "तिकीट": { "replacement": "🎫", "description": "ticket" },
+  "पदक सैन्य": { "replacement": "🎖️", "description": "military medal" },
+  "करंडक": { "replacement": "🏆", "description": "trophy" },
+  "पदक खेळ": { "replacement": "🏅", "description": "sports medal" },
+  "प्रथम स्थान पदक": { "replacement": "🥇", "description": "1st place medal" },
+  "2 रा पदक": { "replacement": "🥈", "description": "2nd place medal" },
+  "3 रा स्थान पदक": { "replacement": "🥉", "description": "3rd place medal" },
+  "सॉकर": { "replacement": "⚽", "description": "soccer ball" },
+  "बेसबॉल": { "replacement": "⚾", "description": "baseball" },
+  "सॉफ्टबॉल": { "replacement": "🥎", "description": "softball" },
+  "बास्केटबॉल": { "replacement": "🏀", "description": "basketball" },
+  "व्हॉलीबॉल": { "replacement": "🏐", "description": "volleyball" },
+  "फुटबॉल": { "replacement": "🏈", "description": "american football" },
+  "रग्बी फुटबॉल": { "replacement": "🏉", "description": "rugby football" },
+  "टेनिस": { "replacement": "🎾", "description": "tennis" },
+  "फ्लाइंग डिस्क": { "replacement": "🥏", "description": "flying disc" },
+  "गोलंदाजी": { "replacement": "🎳", "description": "bowling" },
+  "क्रिकेट खेळ": { "replacement": "🏏", "description": "cricket game" },
+  "मैदानी हॉकी": { "replacement": "🏑", "description": "field hockey" },
+  "आइस हॉकी": { "replacement": "🏒", "description": "ice hockey" },
+  "लॅक्रोस": { "replacement": "🥍", "description": "lacrosse" },
+  "पिंग पाँग": { "replacement": "🏓", "description": "ping pong" },
+  "बॅडमिंटन": { "replacement": "🏸", "description": "badminton" },
+  "बॉक्सिंग ग्लोव्ह": { "replacement": "🥊", "description": "boxing glove" },
+  "मार्शल आर्ट गणवेश": {
+    "replacement": "🥋",
+    "description": "martial arts uniform"
+  },
+  "लक्ष्य निव्वळ": { "replacement": "🥅", "description": "goal net" },
+  "बर्फ स्केट": { "replacement": "⛸️", "description": "ice skate" },
+  "मासेमारी पोल आणि मासे": {
+    "replacement": "🎣",
+    "description": "fishing pole"
+  },
+  "डायव्हिंग मास्क": { "replacement": "🤿", "description": "diving mask" },
+  "सॅशसह चालू शर्ट": { "replacement": "🎽", "description": "running shirt" },
+  "स्की": { "replacement": "🎿", "description": "skis" },
+  "स्लेज": { "replacement": "🛷", "description": "sled" },
+  "कर्लिंग दगड": { "replacement": "🥌", "description": "curling stone" },
+  "डार्ट": { "replacement": "🎯", "description": "direct hit" },
+  "यो यो": { "replacement": "🪀", "description": "yo-yo" },
+  "पतंग": { "replacement": "🪁", "description": "kite" },
+  "8 बॉल": { "replacement": "🎱", "description": "pool 8 ball" },
+  "क्रिस्टल बॉल": { "replacement": "🔮", "description": "crystal ball" },
+  "जादूची कांडी": { "replacement": "🪄", "description": "magic wand" },
+  "नाझर ताबीज": { "replacement": "🧿", "description": "nazar amulet" },
+  "व्हिडिओ गेम": { "replacement": "🎮", "description": "video game" },
+  "जॉयस्टिक": { "replacement": "🕹️", "description": "joystick" },
+  "स्लॉट मशीन": { "replacement": "🎰", "description": "slot machine" },
+  "खेळ मरतात": { "replacement": "🎲", "description": "game die" },
+  "जिगस": { "replacement": "🧩", "description": "puzzle piece" },
+  "टेडी अस्वल": { "replacement": "🧸", "description": "teddy bear" },
+  "पिनाटा": { "replacement": "🪅", "description": "piñata" },
+  "घरट्या बाहुल्या": { "replacement": "🪆", "description": "nesting dolls" },
+  "कुदळ": { "replacement": "♠️", "description": "spade suit" },
+  "ह्रदये": { "replacement": "♥️", "description": "heart suit" },
+  "हिरे": { "replacement": "♦️", "description": "diamond suit" },
+  "क्लब": { "replacement": "♣️", "description": "club suit" },
+  "बुद्धीबळ प्यादे": { "replacement": "♟️", "description": "chess pawn" },
+  "काळा जोकर": { "replacement": "🃏", "description": "joker" },
+  "महजोंग": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "फुले खेळत पत्ते": {
+    "replacement": "🎴",
+    "description": "flower playing cards"
+  },
+  "परफॉर्मिंग आर्ट": { "replacement": "🎭", "description": "performing arts" },
+  "फ्रेम केलेले चित्र": {
+    "replacement": "🖼️",
+    "description": "framed picture"
+  },
+  "कला": { "replacement": "🎨", "description": "artist palette" },
+  "धागा": { "replacement": "🧵", "description": "thread" },
+  "शिवणकामाची सुई": { "replacement": "🪡", "description": "sewing needle" },
+  "सूत": { "replacement": "🧶", "description": "yarn" },
+  "गाठ": { "replacement": "🪢", "description": "knot" },
+  "चष्मा": { "replacement": "👓", "description": "glasses" },
+  "गडद सनग्लासेस": { "replacement": "🕶️", "description": "sunglasses" },
+  "गॉगल": { "replacement": "🥽", "description": "goggles" },
+  "लॅब कोट": { "replacement": "🥼", "description": "lab coat" },
+  "सुरक्षा बनियान": { "replacement": "🦺", "description": "safety vest" },
+  "नेकटी": { "replacement": "👔", "description": "necktie" },
+  "शर्ट": { "replacement": "👕", "description": "t-shirt" },
+  "निळ्या सुती कापड्याच्या विजारी": {
+    "replacement": "👖",
+    "description": "jeans"
+  },
+  "गळपट्टा": { "replacement": "🧣", "description": "scarf" },
+  "हातमोजा": { "replacement": "🧤", "description": "gloves" },
+  "कोट": { "replacement": "🧥", "description": "coat" },
+  "मोजे": { "replacement": "🧦", "description": "socks" },
+  "पोशाख": { "replacement": "👗", "description": "dress" },
+  "किमोनो": { "replacement": "👘", "description": "kimono" },
+  "साडी": { "replacement": "🥻", "description": "sari" },
+  "एक तुकडा स्विमूट सूट": {
+    "replacement": "🩱",
+    "description": "one-piece swimsuit"
+  },
+  "थोडक्यात पोहणे": { "replacement": "🩲", "description": "briefs" },
+  "चड्डी": { "replacement": "🩳", "description": "shorts" },
+  "बिकिनी": { "replacement": "👙", "description": "bikini" },
+  "महिला कपडे": { "replacement": "👚", "description": "woman’s clothes" },
+  "पर्स": { "replacement": "👛", "description": "purse" },
+  "हँडबॅग": { "replacement": "👜", "description": "handbag" },
+  "थैली": { "replacement": "👝", "description": "clutch bag" },
+  "खरेदी": { "replacement": "🛍️", "description": "shopping bags" },
+  "शाळेचे शाचेल": { "replacement": "🎒", "description": "backpack" },
+  "वांग चप्पल": { "replacement": "🩴", "description": "thong sandal" },
+  "मॅन शू": { "replacement": "👞", "description": "man’s shoe" },
+  "athथलेटिक बूट": { "replacement": "👟", "description": "running shoe" },
+  "हायकिंग बूट": { "replacement": "🥾", "description": "hiking boot" },
+  "सपाट बूट": { "replacement": "🥿", "description": "flat shoe" },
+  "उंच टाच": { "replacement": "👠", "description": "high-heeled shoe" },
+  "चप्पल": { "replacement": "👡", "description": "woman’s sandal" },
+  "बॅले शूज": { "replacement": "🩰", "description": "ballet shoes" },
+  "बूट": { "replacement": "👢", "description": "woman’s boot" },
+  "मुकुट": { "replacement": "👑", "description": "crown" },
+  "महिला हॅट": { "replacement": "👒", "description": "woman’s hat" },
+  "टॉपहाट": { "replacement": "🎩", "description": "top hat" },
+  "तोफ बोर्ड": { "replacement": "🎓", "description": "graduation cap" },
+  "बिल टोप": { "replacement": "🧢", "description": "billed cap" },
+  "सैन्य हेल्मेट": { "replacement": "🪖", "description": "military helmet" },
+  "बचाव कामगार हेल्मेट": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "प्रार्थना मणी": { "replacement": "📿", "description": "prayer beads" },
+  "लिपस्टिक": { "replacement": "💄", "description": "lipstick" },
+  "रिंग": { "replacement": "💍", "description": "ring" },
+  "रत्न": { "replacement": "💎", "description": "gem stone" },
+  "नि: शब्द": { "replacement": "🔇", "description": "muted speaker" },
+  "स्पीकर": { "replacement": "🔈", "description": "speaker low volume" },
+  "आवाज": { "replacement": "🔉", "description": "speaker medium volume" },
+  "मोठा आवाज": { "replacement": "🔊", "description": "speaker high volume" },
+  "लाऊडस्पीकर": { "replacement": "📢", "description": "loudspeaker" },
+  "मेगा": { "replacement": "📣", "description": "megaphone" },
+  "टपाल": { "replacement": "📯", "description": "postal horn" },
+  "घंटा": { "replacement": "🔔", "description": "bell" },
+  "बेल नाही": { "replacement": "🔕", "description": "bell with slash" },
+  "संगीत स्कोअर": { "replacement": "🎼", "description": "musical score" },
+  "संगीत नोट": { "replacement": "🎵", "description": "musical note" },
+  "नोट्स": { "replacement": "🎶", "description": "musical notes" },
+  "स्टुडिओ मायक्रोफोन": {
+    "replacement": "🎙️",
+    "description": "studio microphone"
+  },
+  "स्तर स्लाइडर": { "replacement": "🎚️", "description": "level slider" },
+  "नॉब नियंत्रित करा": { "replacement": "🎛️", "description": "control knobs" },
+  "मायक्रोफोन": { "replacement": "🎤", "description": "microphone" },
+  "हेडफोन": { "replacement": "🎧", "description": "headphone" },
+  "रेडिओ": { "replacement": "📻", "description": "radio" },
+  "सैक्सोफोन": { "replacement": "🎷", "description": "saxophone" },
+  "एकॉर्डियन": { "replacement": "🪗", "description": "accordion" },
+  "गिटार": { "replacement": "🎸", "description": "guitar" },
+  "संगीत कीबोर्ड": { "replacement": "🎹", "description": "musical keyboard" },
+  "रणशिंग": { "replacement": "🎺", "description": "trumpet" },
+  "व्हायोलिन": { "replacement": "🎻", "description": "violin" },
+  "बँजो": { "replacement": "🪕", "description": "banjo" },
+  "ढोल": { "replacement": "🥁", "description": "drum" },
+  "लांब ड्रम": { "replacement": "🪘", "description": "long drum" },
+  "आयफोन": { "replacement": "📱", "description": "mobile phone" },
+  "कॉल करीत आहे": {
+    "replacement": "📲",
+    "description": "mobile phone with arrow"
+  },
+  "फोन": { "replacement": "☎️", "description": "telephone" },
+  "टेलिफोन रिसीव्हर": {
+    "replacement": "📞",
+    "description": "telephone receiver"
+  },
+  "पेजर": { "replacement": "📟", "description": "pager" },
+  "फॅक्स": { "replacement": "📠", "description": "fax machine" },
+  "बॅटरी": { "replacement": "🔋", "description": "battery" },
+  "विद्युत प्लग": { "replacement": "🔌", "description": "electric plug" },
+  "संगणक": { "replacement": "💻", "description": "laptop" },
+  "डेस्कटॉप संगणक": { "replacement": "🖥️", "description": "desktop computer" },
+  "प्रिंटर": { "replacement": "🖨️", "description": "printer" },
+  "कीबोर्ड": { "replacement": "⌨️", "description": "keyboard" },
+  "संगणक माउस": { "replacement": "🖱️", "description": "computer mouse" },
+  "ट्रॅकबॉल": { "replacement": "🖲️", "description": "trackball" },
+  "minidisc": { "replacement": "💽", "description": "computer disk" },
+  "फ्लॉपी डिस्क": { "replacement": "💾", "description": "floppy disk" },
+  "सीडी": { "replacement": "💿", "description": "optical disk" },
+  "डीव्हीडी": { "replacement": "📀", "description": "dvd" },
+  "अबॅकस": { "replacement": "🧮", "description": "abacus" },
+  "चित्रपट कॅमेरा": { "replacement": "🎥", "description": "movie camera" },
+  "चित्रपटाची पट्टी": { "replacement": "🎞️", "description": "film frames" },
+  "चित्रपट प्रोजेक्टर": {
+    "replacement": "📽️",
+    "description": "film projector"
+  },
+  "टाळी": { "replacement": "🎬", "description": "clapper board" },
+  "टीव्ही": { "replacement": "📺", "description": "television" },
+  "कॅमेरा": { "replacement": "📷", "description": "camera" },
+  "कॅमेरा फ्लॅश": { "replacement": "📸", "description": "camera with flash" },
+  "व्हिडिओ कॅमेरा": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "मॅग": { "replacement": "🔍", "description": "magnifying glass tilted left" },
+  "मॅग बरोबर": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "मेणबत्ती": { "replacement": "🕯️", "description": "candle" },
+  "बल्ब": { "replacement": "💡", "description": "light bulb" },
+  "फ्लॅशलाइट": { "replacement": "🔦", "description": "flashlight" },
+  "इझाकाया कंदील": { "replacement": "🏮", "description": "red paper lantern" },
+  "दीया दिवा": { "replacement": "🪔", "description": "diya lamp" },
+  "सजावटीच्या आवरणांसह नोटबुक": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "बंद पुस्तक": { "replacement": "📕", "description": "closed book" },
+  "पुस्तक": { "replacement": "📖", "description": "open book" },
+  "हिरवे पुस्तक": { "replacement": "📗", "description": "green book" },
+  "निळा पुस्तक": { "replacement": "📘", "description": "blue book" },
+  "केशरी पुस्तक": { "replacement": "📙", "description": "orange book" },
+  "पुस्तके": { "replacement": "📚", "description": "books" },
+  "नोटबुक": { "replacement": "📓", "description": "notebook" },
+  "लेजर": { "replacement": "📒", "description": "ledger" },
+  "कर्ल सह पृष्ठ": { "replacement": "📃", "description": "page with curl" },
+  "स्क्रोल करा": { "replacement": "📜", "description": "scroll" },
+  "पृष्ठ तोंड": { "replacement": "📄", "description": "page facing up" },
+  "वृत्तपत्र": { "replacement": "📰", "description": "newspaper" },
+  "वृत्तपत्र रोल": {
+    "replacement": "🗞️",
+    "description": "rolled-up newspaper"
+  },
+  "बुकमार्क टॅब": { "replacement": "📑", "description": "bookmark tabs" },
+  "बुकमार्क": { "replacement": "🔖", "description": "bookmark" },
+  "लेबल": { "replacement": "🏷️", "description": "label" },
+  "मनी बॅग": { "replacement": "💰", "description": "money bag" },
+  "नाणे": { "replacement": "🪙", "description": "coin" },
+  "येन": { "replacement": "💴", "description": "yen banknote" },
+  "डॉलर": { "replacement": "💵", "description": "dollar banknote" },
+  "युरो": { "replacement": "💶", "description": "euro banknote" },
+  "पौंड": { "replacement": "💷", "description": "pound banknote" },
+  "पंख असलेले पैसे": { "replacement": "💸", "description": "money with wings" },
+  "क्रेडीट कार्ड": { "replacement": "💳", "description": "credit card" },
+  "पावती": { "replacement": "🧾", "description": "receipt" },
+  "चार्ट": { "replacement": "💹", "description": "chart increasing with yen" },
+  "ईमेल": { "replacement": "✉️", "description": "envelope" },
+  "ई-मेल": { "replacement": "📧", "description": "e-mail" },
+  "येणारा लिफाफा": { "replacement": "📨", "description": "incoming envelope" },
+  "बाण सह लिफाफा": {
+    "replacement": "📩",
+    "description": "envelope with arrow"
+  },
+  "आउटबॉक्स ट्रे": { "replacement": "📤", "description": "outbox tray" },
+  "इनबॉक्स ट्रे": { "replacement": "📥", "description": "inbox tray" },
+  "पॅकेज": { "replacement": "📦", "description": "package" },
+  "मेलबॉक्स": {
+    "replacement": "📫",
+    "description": "closed mailbox with raised flag"
+  },
+  "मेलबॉक्स बंद": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "मेल सह मेलबॉक्स": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "कोणताही मेल नसलेला मेलबॉक्स": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "पोस्टबॉक्स": { "replacement": "📮", "description": "postbox" },
+  "मतपेटी": { "replacement": "🗳️", "description": "ballot box with ballot" },
+  "पेन्सिल 2": { "replacement": "✏️", "description": "pencil" },
+  "काळा निब": { "replacement": "✒️", "description": "black nib" },
+  "कारंजे पेन": { "replacement": "🖋️", "description": "fountain pen" },
+  "पेन": { "replacement": "🖊️", "description": "pen" },
+  "पेंटब्रश": { "replacement": "🖌️", "description": "paintbrush" },
+  "क्रेयॉन": { "replacement": "🖍️", "description": "crayon" },
+  "मेमो": { "replacement": "📝", "description": "memo" },
+  "ब्रीफकेस": { "replacement": "💼", "description": "briefcase" },
+  "फाइल फोल्डर": { "replacement": "📁", "description": "file folder" },
+  "फाईल फोल्डर उघडा": {
+    "replacement": "📂",
+    "description": "open file folder"
+  },
+  "कार्ड निर्देशांक विभाजक": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "तारीख": { "replacement": "📅", "description": "calendar" },
+  "कॅलेंडर": { "replacement": "📆", "description": "tear-off calendar" },
+  "आवर्त नोटपैड": { "replacement": "🗒️", "description": "spiral notepad" },
+  "आवर्त दिनदर्शिका": { "replacement": "🗓️", "description": "spiral calendar" },
+  "कार्ड अनुक्रमणिका": { "replacement": "📇", "description": "card index" },
+  "वरच्या दिशेनेचा चार्ट": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "खालच्या दिशेनेचा चार्ट": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "बार चार्ट": { "replacement": "📊", "description": "bar chart" },
+  "क्लिपबोर्ड": { "replacement": "📋", "description": "clipboard" },
+  "पुशपिन": { "replacement": "📌", "description": "pushpin" },
+  "गोल पुशपिन": { "replacement": "📍", "description": "round pushpin" },
+  "पेपर क्लीप": { "replacement": "📎", "description": "paperclip" },
+  "पेपरक्लिप्स": { "replacement": "🖇️", "description": "linked paperclips" },
+  "सरळ शासक": { "replacement": "📏", "description": "straight ruler" },
+  "त्रिकोणी राज्यकर्ता": {
+    "replacement": "📐",
+    "description": "triangular ruler"
+  },
+  "कात्री": { "replacement": "✂️", "description": "scissors" },
+  "कार्ड फाइल बॉक्स": { "replacement": "🗃️", "description": "card file box" },
+  "कॅबिनेट फाइल करा": { "replacement": "🗄️", "description": "file cabinet" },
+  "कचरा": { "replacement": "🗑️", "description": "wastebasket" },
+  "लॉक": { "replacement": "🔒", "description": "locked" },
+  "अनलॉक": { "replacement": "🔓", "description": "unlocked" },
+  "शाई पेन सह लॉक": { "replacement": "🔏", "description": "locked with pen" },
+  "की सह बंद लॉक": { "replacement": "🔐", "description": "locked with key" },
+  "की": { "replacement": "🔑", "description": "key" },
+  "जुनी की": { "replacement": "🗝️", "description": "old key" },
+  "हातोडा": { "replacement": "🔨", "description": "hammer" },
+  "कुर्हाड": { "replacement": "🪓", "description": "axe" },
+  "निवडा": { "replacement": "⛏️", "description": "pick" },
+  "हातोडा आणि निवडा": { "replacement": "⚒️", "description": "hammer and pick" },
+  "हातोडा आणि पाना": {
+    "replacement": "🛠️",
+    "description": "hammer and wrench"
+  },
+  "खंजीर": { "replacement": "🗡️", "description": "dagger" },
+  "पार तलवारी": { "replacement": "⚔️", "description": "crossed swords" },
+  "बंदूक": { "replacement": "🔫", "description": "pistol" },
+  "बुमरॅंग": { "replacement": "🪃", "description": "boomerang" },
+  "धनुष्य व बाण": { "replacement": "🏹", "description": "bow and arrow" },
+  "ढाल": { "replacement": "🛡️", "description": "shield" },
+  "सुतारकाम पाहिले": { "replacement": "🪚", "description": "carpentry saw" },
+  "पाना": { "replacement": "🔧", "description": "wrench" },
+  "पेचकस": { "replacement": "🪛", "description": "screwdriver" },
+  "नट आणि बोल्ट": { "replacement": "🔩", "description": "nut and bolt" },
+  "गिअर": { "replacement": "⚙️", "description": "gear" },
+  "पकडीत घट्ट करणे": { "replacement": "🗜️", "description": "clamp" },
+  "शिल्लक प्रमाणात": { "replacement": "⚖️", "description": "balance scale" },
+  "प्रोबिंग ऊस": { "replacement": "🦯", "description": "white cane" },
+  "दुवा": { "replacement": "🔗", "description": "link" },
+  "साखळ्या": { "replacement": "⛓️", "description": "chains" },
+  "हुक": { "replacement": "🪝", "description": "hook" },
+  "साधनपेटी": { "replacement": "🧰", "description": "toolbox" },
+  "चुंबक": { "replacement": "🧲", "description": "magnet" },
+  "शिडी": { "replacement": "🪜", "description": "ladder" },
+  "alembic": { "replacement": "⚗️", "description": "alembic" },
+  "परीक्षा नळी": { "replacement": "🧪", "description": "test tube" },
+  "एक काचेची व प्लास्टिकची झाकण असलेली डबी": {
+    "replacement": "🧫",
+    "description": "petri dish"
+  },
+  "डीएनए": { "replacement": "🧬", "description": "dna" },
+  "मायक्रोस्कोप": { "replacement": "🔬", "description": "microscope" },
+  "दुर्बिणी": { "replacement": "🔭", "description": "telescope" },
+  "उपग्रह": { "replacement": "📡", "description": "satellite antenna" },
+  "इंजक्शन देणे": { "replacement": "💉", "description": "syringe" },
+  "रक्ताचा थेंब": { "replacement": "🩸", "description": "drop of blood" },
+  "गोळी": { "replacement": "💊", "description": "pill" },
+  "चिकट पट्टी": { "replacement": "🩹", "description": "adhesive bandage" },
+  "स्टेथोस्कोप": { "replacement": "🩺", "description": "stethoscope" },
+  "दार": { "replacement": "🚪", "description": "door" },
+  "लिफ्ट": { "replacement": "🛗", "description": "elevator" },
+  "आरसा": { "replacement": "🪞", "description": "mirror" },
+  "विंडो": { "replacement": "🪟", "description": "window" },
+  "बेड": { "replacement": "🛏️", "description": "bed" },
+  "पलंग आणि दिवा": { "replacement": "🛋️", "description": "couch and lamp" },
+  "खुर्ची": { "replacement": "🪑", "description": "chair" },
+  "शौचालय": { "replacement": "🚾", "description": "water closet" },
+  "उडी मारणारा": { "replacement": "🪠", "description": "plunger" },
+  "शॉवर": { "replacement": "🚿", "description": "shower" },
+  "बाथटब": { "replacement": "🛁", "description": "bathtub" },
+  "माउस ट्रॅप": { "replacement": "🪤", "description": "mouse trap" },
+  "वस्तरा": { "replacement": "🪒", "description": "razor" },
+  "लोशन बाटली": { "replacement": "🧴", "description": "lotion bottle" },
+  "सुरक्षा पिन": { "replacement": "🧷", "description": "safety pin" },
+  "झाडू": { "replacement": "🧹", "description": "broom" },
+  "टोपली": { "replacement": "🧺", "description": "basket" },
+  "कागदाचा रोल": { "replacement": "🧻", "description": "roll of paper" },
+  "बादली": { "replacement": "🪣", "description": "bucket" },
+  "साबण": { "replacement": "🧼", "description": "soap" },
+  "दात घासण्याचा ब्रश": { "replacement": "🪥", "description": "toothbrush" },
+  "स्पंज": { "replacement": "🧽", "description": "sponge" },
+  "अग्नीरोधक": { "replacement": "🧯", "description": "fire extinguisher" },
+  "खरेदी सूचीत": { "replacement": "🛒", "description": "shopping cart" },
+  "धूम्रपान": { "replacement": "🚬", "description": "cigarette" },
+  "शवपेटी": { "replacement": "⚰️", "description": "coffin" },
+  "हेडस्टोन": { "replacement": "🪦", "description": "headstone" },
+  "अंत्यसंस्कार कलश": { "replacement": "⚱️", "description": "funeral urn" },
+  "मोयी": { "replacement": "🗿", "description": "moai" },
+  "प्लेकार्ड": { "replacement": "🪧", "description": "placard" },
+  "एटीएम": { "replacement": "🏧", "description": "ATM sign" },
+  "त्या जागी कचरा टाका": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "पिण्यायोग्य पाणी": { "replacement": "🚰", "description": "potable water" },
+  "व्हीलचेअर": { "replacement": "♿", "description": "wheelchair symbol" },
+  "पुरुष": { "replacement": "🚹", "description": "men’s room" },
+  "महिला": { "replacement": "🚺", "description": "women’s room" },
+  "बाळ प्रतीक": { "replacement": "🚼", "description": "baby symbol" },
+  "पासपोर्ट नियंत्रण": {
+    "replacement": "🛂",
+    "description": "passport control"
+  },
+  "प्रथा": { "replacement": "🛃", "description": "customs" },
+  "सामान दावा": { "replacement": "🛄", "description": "baggage claim" },
+  "राहिलेले सामान": { "replacement": "🛅", "description": "left luggage" },
+  "चेतावणी": { "replacement": "⚠️", "description": "warning" },
+  "मुले ओलांडणे": { "replacement": "🚸", "description": "children crossing" },
+  "प्रवेश नाही": { "replacement": "⛔", "description": "no entry" },
+  "प्रवेश चिन्ह नाही": { "replacement": "🚫", "description": "prohibited" },
+  "सायकली नाहीत": { "replacement": "🚳", "description": "no bicycles" },
+  "धुम्रपान निषिद्ध": { "replacement": "🚭", "description": "no smoking" },
+  "कचरा करू नका": { "replacement": "🚯", "description": "no littering" },
+  "पिण्यायोग्य नसलेले पाणी": {
+    "replacement": "🚱",
+    "description": "non-potable water"
+  },
+  "पादचारी नाही": { "replacement": "🚷", "description": "no pedestrians" },
+  "मोबाईल फोन नाहीत": {
+    "replacement": "📵",
+    "description": "no mobile phones"
+  },
+  "अल्पवयीन": { "replacement": "🔞", "description": "no one under eighteen" },
+  "किरणोत्सर्गी": { "replacement": "☢️", "description": "radioactive" },
+  "बायोहाझार्ड": { "replacement": "☣️", "description": "biohazard" },
+  "बाण": { "replacement": "⬆️", "description": "up arrow" },
+  "वरचा उजवा बाण": { "replacement": "↗️", "description": "up-right arrow" },
+  "बाण उजवा": { "replacement": "➡️", "description": "right arrow" },
+  "बाण खाली उजवीकडे": {
+    "replacement": "↘️",
+    "description": "down-right arrow"
+  },
+  "बाण खाली": { "replacement": "↕️", "description": "up-down arrow" },
+  "बाण खाली डावीकडे": { "replacement": "↙️", "description": "down-left arrow" },
+  "बाण डावा": { "replacement": "⬅️", "description": "left arrow" },
+  "बाण वरच्या डावीकडे": { "replacement": "↖️", "description": "up-left arrow" },
+  "डावा उजवा बाण": { "replacement": "↔️", "description": "left-right arrow" },
+  "हुक सह डावीकडे बाण": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "बाण उजवा हुक": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "बाण मथळा": { "replacement": "⤴️", "description": "right arrow curving up" },
+  "बाण खाली जात": {
+    "replacement": "⤵️",
+    "description": "right arrow curving down"
+  },
+  "घड्याळाच्या दिशेने बाण": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "घड्याळाच्या उलट दिशेने बाण": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "परत": { "replacement": "🔙", "description": "BACK arrow" },
+  "शेवट": { "replacement": "🔚", "description": "END arrow" },
+  "चालू": { "replacement": "🔛", "description": "ON! arrow" },
+  "लवकरच": { "replacement": "🔜", "description": "SOON arrow" },
+  "वर": { "replacement": "🆙", "description": "UP! button" },
+  "उपासनास्थळ": { "replacement": "🛐", "description": "place of worship" },
+  "अणूचे चिन्ह": { "replacement": "⚛️", "description": "atom symbol" },
+  "ओम": { "replacement": "🕉️", "description": "om" },
+  "डेव्हिडचा तारा": { "replacement": "✡️", "description": "star of David" },
+  "धर्माचे चाक": { "replacement": "☸️", "description": "wheel of dharma" },
+  "यिन यांग": { "replacement": "☯️", "description": "yin yang" },
+  "लॅटिन क्रॉस": { "replacement": "✝️", "description": "latin cross" },
+  "ऑर्थोडॉक्स क्रॉस": { "replacement": "☦️", "description": "orthodox cross" },
+  "स्टार आणि चंद्रकोर": {
+    "replacement": "☪️",
+    "description": "star and crescent"
+  },
+  "शांतता प्रतीक": { "replacement": "☮️", "description": "peace symbol" },
+  "मेनोराह": { "replacement": "🕎", "description": "menorah" },
+  "सहा नक्षीदार तारा": {
+    "replacement": "🔯",
+    "description": "dotted six-pointed star"
+  },
+  "मेष": { "replacement": "♈", "description": "Aries" },
+  "वृषभ": { "replacement": "♉", "description": "Taurus" },
+  "मिथुन": { "replacement": "♊", "description": "Gemini" },
+  "कर्करोग": { "replacement": "♋", "description": "Cancer" },
+  "लिओ": { "replacement": "♌", "description": "Leo" },
+  "कन्यारास": { "replacement": "♍", "description": "Virgo" },
+  "ग्रंथालय": { "replacement": "♎", "description": "Libra" },
+  "वृश्चिक": { "replacement": "♏", "description": "Scorpio" },
+  "धनु": { "replacement": "♐", "description": "Sagittarius" },
+  "मकर": { "replacement": "♑", "description": "Capricorn" },
+  "मत्स्यालय": { "replacement": "♒", "description": "Aquarius" },
+  "मीन": { "replacement": "♓", "description": "Pisces" },
+  "नेत्रदंड": { "replacement": "⛎", "description": "Ophiuchus" },
+  "वाकलेले उजवे बाण": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "पुन्हा करा": { "replacement": "🔁", "description": "repeat button" },
+  "एक पुन्हा करा": {
+    "replacement": "🔂",
+    "description": "repeat single button"
+  },
+  "बाण पुढे": { "replacement": "▶️", "description": "play button" },
+  "वेगवान पुढे": { "replacement": "⏩", "description": "fast-forward button" },
+  "पुढील ट्रॅक बटण": {
+    "replacement": "⏭️",
+    "description": "next track button"
+  },
+  "प्ले किंवा विराम द्या बटण": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "बाण मागे": { "replacement": "◀️", "description": "reverse button" },
+  "रिवाइंड": { "replacement": "⏪", "description": "fast reverse button" },
+  "मागील ट्रॅक बटण": {
+    "replacement": "⏮️",
+    "description": "last track button"
+  },
+  "लहान अप एरो": { "replacement": "🔼", "description": "upwards button" },
+  "बाण दुप्पट": { "replacement": "⏫", "description": "fast up button" },
+  "बाण खाली लहान": { "replacement": "🔽", "description": "downwards button" },
+  "बाण दोनदा खाली": { "replacement": "⏬", "description": "fast down button" },
+  "विराम द्या बटण": { "replacement": "⏸️", "description": "pause button" },
+  "स्टॉप बटण": { "replacement": "⏹️", "description": "stop button" },
+  "रेकॉर्ड बटण": { "replacement": "⏺️", "description": "record button" },
+  "बाहेर काढा बटण": { "replacement": "⏏️", "description": "eject button" },
+  "सिनेमा": { "replacement": "🎦", "description": "cinema" },
+  "कमी चमक": { "replacement": "🔅", "description": "dim button" },
+  "उच्च चमक": { "replacement": "🔆", "description": "bright button" },
+  "सिग्नल सामर्थ्य": { "replacement": "📶", "description": "antenna bars" },
+  "कंपन मोड": { "replacement": "📳", "description": "vibration mode" },
+  "मोबाइल फोन बंद": { "replacement": "📴", "description": "mobile phone off" },
+  "मादी चिन्ह": { "replacement": "♀️", "description": "female sign" },
+  "पुरुष चिन्ह": { "replacement": "♂️", "description": "male sign" },
+  "ट्रान्सजेंडर प्रतीक": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "जड गुणाकार x": { "replacement": "✖️", "description": "multiply" },
+  "जड अधिक चिन्ह": { "replacement": "➕", "description": "plus" },
+  "भारी वजा चिन्ह": { "replacement": "➖", "description": "minus" },
+  "जड विभागणी चिन्ह": { "replacement": "➗", "description": "divide" },
+  "अनंतता": { "replacement": "♾️", "description": "infinity" },
+  "धुमाकूळ": { "replacement": "‼️", "description": "double exclamation mark" },
+  "इंटरबॅंग": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "प्रश्न": { "replacement": "❓", "description": "question mark" },
+  "राखाडी प्रश्न": {
+    "replacement": "❔",
+    "description": "white question mark"
+  },
+  "राखाडी उद्गार": {
+    "replacement": "❕",
+    "description": "white exclamation mark"
+  },
+  "उद्गार": { "replacement": "❗", "description": "exclamation mark" },
+  "वेव्ही डॅश": { "replacement": "〰️", "description": "wavy dash" },
+  "चलन विनिमय": { "replacement": "💱", "description": "currency exchange" },
+  "भारी डॉलर चिन्ह": {
+    "replacement": "💲",
+    "description": "heavy dollar sign"
+  },
+  "वैद्यकीय चिन्ह": { "replacement": "⚕️", "description": "medical symbol" },
+  "रिसायकल": { "replacement": "♻️", "description": "recycling symbol" },
+  "फ्लेअर डी लिज": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "त्रिशूल": { "replacement": "🔱", "description": "trident emblem" },
+  "नाव बॅज": { "replacement": "📛", "description": "name badge" },
+  "नवशिक्या": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "ओ": { "replacement": "⭕", "description": "hollow red circle" },
+  "पांढरा चेक मार्क": {
+    "replacement": "✅",
+    "description": "check mark button"
+  },
+  "मतपत्रिका चेकसह": {
+    "replacement": "☑️",
+    "description": "check box with check"
+  },
+  "भारी चेक मार्क": { "replacement": "✔️", "description": "check mark" },
+  "x": { "replacement": "❌", "description": "cross mark" },
+  "नकारात्मक चौरस क्रॉस चिन्ह": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "कुरळे लूप": { "replacement": "➰", "description": "curly loop" },
+  "पळवाट": { "replacement": "➿", "description": "double curly loop" },
+  "भाग पर्यायी चिन्ह": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "आठ टोकदार तारा": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "आठ नक्षीदार काळा तारा": {
+    "replacement": "✴️",
+    "description": "eight-pointed star"
+  },
+  "चमक": { "replacement": "❇️", "description": "sparkle" },
+  "कॉपीराइट": { "replacement": "©️", "description": "copyright" },
+  "नोंदणीकृत": { "replacement": "®️", "description": "registered" },
+  "टीएम": { "replacement": "™️", "description": "trade mark" },
+  "हॅश": { "replacement": "#️⃣", "description": "keycap: #" },
+  "शून्य": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "एक": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "दोन": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "तीन": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "चार": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "पाच": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "सहा": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "सात": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "आठ": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "नऊ": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "कीकॅप दहा": { "replacement": "🔟", "description": "keycap: 10" },
+  "भांडवल abcd": {
+    "replacement": "🔠",
+    "description": "input latin uppercase"
+  },
+  "अ ब क ड": { "replacement": "🔡", "description": "input latin lowercase" },
+  "चिन्हे": { "replacement": "🔣", "description": "input symbols" },
+  "एबीसी": { "replacement": "🔤", "description": "input latin letters" },
+  "अ": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "अब्राहम": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "बी": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "सीएल": { "replacement": "🆑", "description": "CL button" },
+  "मस्त": { "replacement": "🆒", "description": "COOL button" },
+  "फुकट": { "replacement": "🆓", "description": "FREE button" },
+  "माहिती स्रोत": { "replacement": "ℹ️", "description": "information" },
+  "आयडी": { "replacement": "🆔", "description": "ID button" },
+  "मी": { "replacement": "Ⓜ️", "description": "circled M" },
+  "नवीन": { "replacement": "🆕", "description": "NEW button" },
+  "एनजी": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "पार्किंग": { "replacement": "🅿️", "description": "P button" },
+  "sos": { "replacement": "🆘", "description": "SOS button" },
+  "वि": { "replacement": "🆚", "description": "VS button" },
+  "कोको": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "सा": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "वैचारिक फायदा": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "स्वीकारा": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "अभिनंदन": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "गुप्त": { "replacement": "㊙️", "description": "Japanese “secret” button" },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "लाल वर्तुळ": { "replacement": "🔴", "description": "red circle" },
+  "केशरी वर्तुळ": { "replacement": "🟠", "description": "orange circle" },
+  "पिवळे वर्तुळ": { "replacement": "🟡", "description": "yellow circle" },
+  "हिरवे मंडळ": { "replacement": "🟢", "description": "green circle" },
+  "मोठा निळा वर्तुळ": { "replacement": "🔵", "description": "blue circle" },
+  "जांभळा वर्तुळ": { "replacement": "🟣", "description": "purple circle" },
+  "तपकिरी वर्तुळ": { "replacement": "🟤", "description": "brown circle" },
+  "काळा वर्तुळ": { "replacement": "⚫", "description": "black circle" },
+  "पांढरा वर्तुळ": { "replacement": "⚪", "description": "white circle" },
+  "लाल चौक": { "replacement": "🟥", "description": "red square" },
+  "केशरी चौरस": { "replacement": "🟧", "description": "orange square" },
+  "पिवळा चौरस": { "replacement": "🟨", "description": "yellow square" },
+  "हिरवा चौरस": { "replacement": "🟩", "description": "green square" },
+  "निळा चौरस": { "replacement": "🟦", "description": "blue square" },
+  "जांभळा चौरस": { "replacement": "🟪", "description": "purple square" },
+  "तपकिरी चौरस": { "replacement": "🟫", "description": "brown square" },
+  "काळा मोठा चौरस": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "पांढरा मोठा चौरस": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "काळा मध्यम चौरस": {
+    "replacement": "◼️",
+    "description": "black medium square"
+  },
+  "पांढरा मध्यम चौरस": {
+    "replacement": "◻️",
+    "description": "white medium square"
+  },
+  "काळा मध्यम लहान चौरस": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "पांढरा मध्यम लहान चौरस": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "काळा लहान चौरस": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "पांढरा लहान चौरस": {
+    "replacement": "▫️",
+    "description": "white small square"
+  },
+  "मोठा संत्रा हिरा": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "मोठा निळा हिरा": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "लहान संत्रा हिरा": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "लहान निळा हिरा": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "लहान लाल त्रिकोण": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "खाली लाल लाल त्रिकोण": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "आत ठिपके असलेले हिरा आकार": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "रेडिओ बटण": { "replacement": "🔘", "description": "radio button" },
+  "पांढरा चौरस बटण": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "ब्लॅक स्क्वेअर बटण": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "चेकर ध्वज": { "replacement": "🏁", "description": "chequered flag" },
+  "पोस्टवर त्रिकोणी ध्वज": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "पार ध्वज": { "replacement": "🎌", "description": "crossed flags" },
+  "काळा ध्वज": { "replacement": "🏴", "description": "black flag" },
+  "पांढरा झेंडा": { "replacement": "🏳️", "description": "white flag" },
+  "इंद्रधनुष्य ध्वज": { "replacement": "🏳️‍🌈", "description": "rainbow flag" },
+  "ट्रान्सजेंडर ध्वज": {
+    "replacement": "🏳️‍⚧️",
+    "description": "transgender flag"
+  },
+  "चाचा ध्वज": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "स्वर्गारोहण बेट": {
+    "replacement": "🇦🇨",
+    "description": "flag: Ascension Island"
+  },
+  "अंडोरा": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "संयुक्त अरब अमिराती": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "अफगाणिस्तान": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "अँटिगा बार्बुडा": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "एंजिला": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "अल्बानिया": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "आर्मेनिया": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "अंगोला": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "अंटार्क्टिका": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "अर्जेंटीना": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "अमेरिकन समोआ": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "ऑस्ट्रिया": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "ऑस्ट्रेलिया": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "अरुबा": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "अ‍ॅलँड बेटे": { "replacement": "🇦🇽", "description": "flag: Åland Islands" },
+  "अझरबैजान": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "बोसनिया हर्जेगोविना": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "बार्बाडोस": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "बांग्लादेश": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "बेल्जियम": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "बुर्किना फासो": { "replacement": "🇧🇫", "description": "flag: Burkina Faso" },
+  "बल्गेरिया": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "बहरैन": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "बुरुंडी": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "बेनिन": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "सेंट बार्थलेमी": {
+    "replacement": "🇧🇱",
+    "description": "flag: St. Barthélemy"
+  },
+  "बरमूडा": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "ब्रुनेई": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "बोलिव्हिया": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "कॅरिबियन नेदरलँड्स": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "ब्राझील": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "बहामास": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "भूतान": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "बुवेट बेट": { "replacement": "🇧🇻", "description": "flag: Bouvet Island" },
+  "बोत्सवाना": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "बेलारूस": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "बेलिझ": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "कॅनडा": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "कोकोस बेट": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "कॉंगो किंशासा": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "सेंट्रल आफ्रिकन रिपब्लिक": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "कॉंगो ब्रेझाव्हिल": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "स्वित्झर्लंड": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "कोटे डिव्होअर": {
+    "replacement": "🇨🇮",
+    "description": "flag: Côte d’Ivoire"
+  },
+  "बेटे शिजवा": { "replacement": "🇨🇰", "description": "flag: Cook Islands" },
+  "चिली": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "कॅमरून": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "सीएन": { "replacement": "🇨🇳", "description": "flag: China" },
+  "कोलंबिया": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "क्लिपरटोन बेट": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "कॉस्टा रिका": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "क्युबा": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "केप वर्डे": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "कुरकाओ": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "ख्रिसमस बेट": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "सायप्रस": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "चेक प्रजासत्ताक": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "डी": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "डिएगो गार्सिया": {
+    "replacement": "🇩🇬",
+    "description": "flag: Diego Garcia"
+  },
+  "जिबूती": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "डेन्मार्क": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "डोमिनिका": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "डोमिनिकन रिपब्लीक": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "अल्जेरिया": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "स्यूटा मेलिल्ला": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "इक्वाडोर": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "इस्टोनिया": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "इजिप्त": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "पाश्चात्य सहारा": {
+    "replacement": "🇪🇭",
+    "description": "flag: Western Sahara"
+  },
+  "इरिट्रिया": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "es": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "इथिओपिया": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "ईयू": { "replacement": "🇪🇺", "description": "flag: European Union" },
+  "फिनलँड": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "फिजी": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "फॉकलँड बेटे": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "मायक्रोनेशिया": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "फारो बेट": { "replacement": "🇫🇴", "description": "flag: Faroe Islands" },
+  "fr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "गॅबन": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "जीबी": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "ग्रेनेडा": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "जॉर्जिया": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "फ्रेंच गयाना": { "replacement": "🇬🇫", "description": "flag: French Guiana" },
+  "गार्नसे": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "घाना": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "जिब्राल्टर": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "ग्रीनलँड": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "गॅम्बिया": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "गिनी": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "ग्वाडेलूप": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "विषुववृत्तीय गिनी": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "ग्रीस": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "दक्षिण जॉर्जिया दक्षिण सँडविच बेटे": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "ग्वाटेमाला": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "गुआम": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "गिनी बिसाऊ": { "replacement": "🇬🇼", "description": "flag: Guinea-Bissau" },
+  "गुयाना": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "हाँगकाँग": {
+    "replacement": "🇭🇰",
+    "description": "flag: Hong Kong SAR China"
+  },
+  "मॅकडोनाल्ड बेटे ऐकले": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "होंडुरास": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "क्रोएशिया": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "हैती": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "हंगरी": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "कॅनरी बेट": { "replacement": "🇮🇨", "description": "flag: Canary Islands" },
+  "इंडोनेशिया": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "आयरलँड": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "इस्त्राईल": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "आयल ऑफ मॅन": { "replacement": "🇮🇲", "description": "flag: Isle of Man" },
+  "भारत": { "replacement": "🇮🇳", "description": "flag: India" },
+  "ब्रिटिश भारतीय महासागर प्रदेश": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "iraq": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "इरान": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "आईसलँड": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "तो": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "जर्सी": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "जमैका": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "जॉर्डन": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "जेपी": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "केनिया": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "किर्गिस्तान": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "कंबोडिया": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "किरीबाती": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "कोमोरोस": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "सेंट किट्स नेव्हिस": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "उत्तर कोरिया": { "replacement": "🇰🇵", "description": "flag: North Korea" },
+  "केआर": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "कुवैत": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "केमन बेट": { "replacement": "🇰🇾", "description": "flag: Cayman Islands" },
+  "काझाखस्तान": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "लाओस": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "लेबनॉन": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "सेंट लुसिया": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "लिचेंस्टाईन": { "replacement": "🇱🇮", "description": "flag: Liechtenstein" },
+  "श्रीलंका": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "लाइबेरिया": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "लेसोथो": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "लिथुआनिया": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "लक्झमबर्ग": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "लॅटव्हिया": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "लिब्या": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "मोरोक्को": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "मोनाको": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "मोल्डोव्हा": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "मॉन्टेनेग्रो": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "सेंट मार्टिन": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "मादागास्कर": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "मार्शल बेटे": {
+    "replacement": "🇲🇭",
+    "description": "flag: Marshall Islands"
+  },
+  "मॅसेडोनिया": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "माली": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "म्यानमार": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "मंगोलिया": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "मकाऊ": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "उत्तर मारियाना बेटे": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "मार्टिनिक": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "मॉरिटानिया": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "मॉन्सेसरॅट": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "माल्टा": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "मॉरिशस": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "मालदीव": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "मालावी": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "मेक्सिको": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "मलेशिया": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "मोझांबिक": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "नामीबिया": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "न्यू कॅलेडोनिया": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "नायजर": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "नॉरफोक बेट": { "replacement": "🇳🇫", "description": "flag: Norfolk Island" },
+  "नायजेरिया": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "निकारागुआ": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "नेदरलँड्स": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "नॉर्वे": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "नेपल": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "नऊरु": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "niue": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "न्युझीलँड": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "ओमान": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "पनामा": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "पेरू": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "फ्रेंच पॉलिनेशिया": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "पापुआ न्यू गिनी": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "फिलिपीन्स": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "पाकिस्तान": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "पोलंड": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "सेंट पियरे मिकेलॉन": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "पिटकॅर्न बेटे": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "पोर्तु रिको": { "replacement": "🇵🇷", "description": "flag: Puerto Rico" },
+  "पॅलेस्टिनियन प्रांत": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "पोर्तुगाल": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "पलाऊ": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "पराग्वे": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "कतार": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "पुनर्मिलन": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "रोमानिया": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "सर्बिया": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "रु": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "रवांडा": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "सौदी अरेबिया": { "replacement": "🇸🇦", "description": "flag: Saudi Arabia" },
+  "सोलोमन बेटे": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "सेशल्स": { "replacement": "🇸🇨", "description": "flag: Seychelles" },
+  "सुदान": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "स्वीडन": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "सिंगापूर": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "यष्टीचीत": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "स्लोव्हेनिया": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "स्वालबार्ड जान मायेन": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "लक्झोलिया": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "सिएरा लिओन": { "replacement": "🇸🇱", "description": "flag: Sierra Leone" },
+  "सॅन मारिनो": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "सेनेगल": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "सोमालिया": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "सुरिनाम": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "दक्षिण सुदान": { "replacement": "🇸🇸", "description": "flag: South Sudan" },
+  "साओ टोमे प्रिन्सिपे": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "अल साल्वाडोर": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "सिंट मार्टेन": { "replacement": "🇸🇽", "description": "flag: Sint Maarten" },
+  "सिरिया": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "स्वाझीलँड": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "ट्रिस्टन दा कुन्हा": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "टर्क्स कॅकोस बेटे": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "चाड": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "फ्रेंच दक्षिणी प्रदेश": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "जाण्यासाठी": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "थायलँड": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "ताजिकिस्तान": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "टोकलाऊ": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "टिमोर लेस्ट": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "तुर्कमेनिस्तान": {
+    "replacement": "🇹🇲",
+    "description": "flag: Turkmenistan"
+  },
+  "ट्यूनिसिया": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "तोंगा": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "tr": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "त्रिनिदाद टोबॅगो": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "तुवालु": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "तैवान": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "टांझानिया": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "युक्रेन": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "युगांडा": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "आम्हाला बाह्य बेट": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "संयुक्त राष्ट्र": {
+    "replacement": "🇺🇳",
+    "description": "flag: United Nations"
+  },
+  "आम्हाला": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "उरुग्वे": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "उझबकिस्तान": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "व्हॅटिकन शहर": { "replacement": "🇻🇦", "description": "flag: Vatican City" },
+  "सेंट व्हिन्सेंट ग्रेनेडाइन्स": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "वेनेझुएला": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "ब्रिटिश व्हर्जिन बेटे": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "आम्हाला व्हर्जिन बेटे": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "व्हिएतनाम": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "वानुआटु": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "वॉलिस फुटून": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "समोआ": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "कोसोवो": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "येमेन": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "मायोट्टे": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "दक्षिण आफ्रिका": {
+    "replacement": "🇿🇦",
+    "description": "flag: South Africa"
+  },
+  "झांबिया": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "झिंबाब्वे": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "इंग्लंड": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "स्कॉटलंड": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "वेल्स": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}

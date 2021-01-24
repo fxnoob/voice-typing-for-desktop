@@ -1,0 +1,2926 @@
+{
+  "100": { "replacement": "💯", "description": "hundred points" },
+  "1234": { "replacement": "🔢", "description": "input numbers" },
+  "uškrnul sa": { "replacement": "😀", "description": "grinning face" },
+  "usmievavý": {
+    "replacement": "😃",
+    "description": "grinning face with big eyes"
+  },
+  "usmievať sa": {
+    "replacement": "😄",
+    "description": "grinning face with smiling eyes"
+  },
+  "úškrn": { "replacement": "😏", "description": "smirking face" },
+  "smejúci sa": {
+    "replacement": "😆",
+    "description": "grinning squinting face"
+  },
+  "potný úsmev": {
+    "replacement": "😅",
+    "description": "grinning face with sweat"
+  },
+  "rofl": {
+    "replacement": "🤣",
+    "description": "rolling on the floor laughing"
+  },
+  "radosti": { "replacement": "😂", "description": "face with tears of joy" },
+  "mierne usmiata tvár": {
+    "replacement": "🙂",
+    "description": "slightly smiling face"
+  },
+  "tvárou hore nohami": {
+    "replacement": "🙃",
+    "description": "upside-down face"
+  },
+  "žmurknutie": { "replacement": "😉", "description": "winking face" },
+  "červenať sa": {
+    "replacement": "😊",
+    "description": "smiling face with smiling eyes"
+  },
+  "nevinný": { "replacement": "😇", "description": "smiling face with halo" },
+  "usmievavá tvár s tromi srdiečkami": {
+    "replacement": "🥰",
+    "description": "smiling face with hearts"
+  },
+  "srdcové oči": {
+    "replacement": "😍",
+    "description": "smiling face with heart-eyes"
+  },
+  "zasiahla hviezda": { "replacement": "🤩", "description": "star-struck" },
+  "bozkávajúce sa srdce": {
+    "replacement": "😘",
+    "description": "face blowing a kiss"
+  },
+  "bozkávanie": { "replacement": "😗", "description": "kissing face" },
+  "uvoľnene": { "replacement": "☺️", "description": "smiling face" },
+  "bozkávanie zavretých očí": {
+    "replacement": "😚",
+    "description": "kissing face with closed eyes"
+  },
+  "bozkávajúce usmievavé oči": {
+    "replacement": "😙",
+    "description": "kissing face with smiling eyes"
+  },
+  "usmievavá tvár so slzou": {
+    "replacement": "🥲",
+    "description": "smiling face with tear"
+  },
+  "mňam": { "replacement": "😋", "description": "face savoring food" },
+  "vyplazený jazyk": { "replacement": "😛", "description": "face with tongue" },
+  "vyplazený jazyk žmurkajúce oko": {
+    "replacement": "😜",
+    "description": "winking face with tongue"
+  },
+  "zany tvár": { "replacement": "🤪", "description": "zany face" },
+  "vyplazený jazyk zatvorené oči": {
+    "replacement": "😝",
+    "description": "squinting face with tongue"
+  },
+  "peniaze ústa tvár": {
+    "replacement": "🤑",
+    "description": "money-mouth face"
+  },
+  "objatia": { "replacement": "🤗", "description": "hugging face" },
+  "ruku cez ústa": {
+    "replacement": "🤭",
+    "description": "face with hand over mouth"
+  },
+  "umlčujúca tvár": { "replacement": "🤫", "description": "shushing face" },
+  "premýšľanie": { "replacement": "🤔", "description": "thinking face" },
+  "zips ústa tvár": { "replacement": "🤐", "description": "zipper-mouth face" },
+  "zdvíhol obočie": {
+    "replacement": "🤨",
+    "description": "face with raised eyebrow"
+  },
+  "neutrálna tvár": { "replacement": "😐", "description": "neutral face" },
+  "bez výrazu": { "replacement": "😑", "description": "expressionless face" },
+  "bez ust": { "replacement": "😶", "description": "face without mouth" },
+  "neobjavený": { "replacement": "😒", "description": "unamused face" },
+  "prevrátiť očami": {
+    "replacement": "🙄",
+    "description": "face with rolling eyes"
+  },
+  "grimasy": { "replacement": "😬", "description": "grimacing face" },
+  "ležiaca tvár": { "replacement": "🤥", "description": "lying face" },
+  "uľavilo": { "replacement": "😌", "description": "relieved face" },
+  "zádumčivý": { "replacement": "😔", "description": "pensive face" },
+  "ospalý": { "replacement": "😪", "description": "sleepy face" },
+  "slintajúca tvár": { "replacement": "🤤", "description": "drooling face" },
+  "spiace": { "replacement": "😴", "description": "sleeping face" },
+  "maska": { "replacement": "😷", "description": "face with medical mask" },
+  "tvár s teplomerom": {
+    "replacement": "🤒",
+    "description": "face with thermometer"
+  },
+  "tvár s obväzom hlavy": {
+    "replacement": "🤕",
+    "description": "face with head-bandage"
+  },
+  "nevoľnosť tváre": { "replacement": "🤢", "description": "nauseated face" },
+  "vracanie tváre": { "replacement": "🤮", "description": "face vomiting" },
+  "kýchanie tváre": { "replacement": "🤧", "description": "sneezing face" },
+  "horúca tvár": { "replacement": "🥵", "description": "hot face" },
+  "chladná tvár": { "replacement": "🥶", "description": "cold face" },
+  "mdlá tvár": { "replacement": "🥴", "description": "woozy face" },
+  "závratná tvár": { "replacement": "😵", "description": "dizzy face" },
+  "explodujúca hlava": { "replacement": "🤯", "description": "exploding head" },
+  "tvár kovbojského klobúka": {
+    "replacement": "🤠",
+    "description": "cowboy hat face"
+  },
+  "párty tvár": { "replacement": "🥳", "description": "partying face" },
+  "maskovaná tvár": { "replacement": "🥸", "description": "disguised face" },
+  "slnečné okuliare": {
+    "replacement": "😎",
+    "description": "smiling face with sunglasses"
+  },
+  "nerdova tvár": { "replacement": "🤓", "description": "nerd face" },
+  "monoklová tvár": { "replacement": "🧐", "description": "face with monocle" },
+  "zmätený": { "replacement": "😖", "description": "confounded face" },
+  "ustarostený": { "replacement": "😟", "description": "worried face" },
+  "mierne zamračená tvár": {
+    "replacement": "🙁",
+    "description": "slightly frowning face"
+  },
+  "zamračená tvár": { "replacement": "☹️", "description": "frowning face" },
+  "otvor ústa": { "replacement": "😮", "description": "face with open mouth" },
+  "utíchol": { "replacement": "😯", "description": "hushed face" },
+  "užasnutý": { "replacement": "😲", "description": "astonished face" },
+  "začervenaný": { "replacement": "😳", "description": "flushed face" },
+  "prosebná tvár": { "replacement": "🥺", "description": "pleading face" },
+  "mračiť sa": {
+    "replacement": "😦",
+    "description": "frowning face with open mouth"
+  },
+  "trápený": { "replacement": "😧", "description": "anguished face" },
+  "bojazlivý": { "replacement": "😨", "description": "fearful face" },
+  "studený pot": {
+    "replacement": "😰",
+    "description": "anxious face with sweat"
+  },
+  "sklamaný uľavil": {
+    "replacement": "😥",
+    "description": "sad but relieved face"
+  },
+  "plač": { "replacement": "😢", "description": "crying face" },
+  "vzlykať": { "replacement": "😭", "description": "loudly crying face" },
+  "kričať": { "replacement": "😱", "description": "face screaming in fear" },
+  "vytrvať": { "replacement": "😣", "description": "persevering face" },
+  "sklamaný": { "replacement": "😞", "description": "disappointed face" },
+  "potiť sa": {
+    "replacement": "😓",
+    "description": "downcast face with sweat"
+  },
+  "unavený": { "replacement": "😩", "description": "weary face" },
+  "unavená tvár": { "replacement": "😫", "description": "tired face" },
+  "zívajúca tvár": { "replacement": "🥱", "description": "yawning face" },
+  "triumf": { "replacement": "😤", "description": "face with steam from nose" },
+  "zúrivosť": { "replacement": "😡", "description": "pouting face" },
+  "nahnevaný": { "replacement": "😠", "description": "angry face" },
+  "preklínajúca tvár": {
+    "replacement": "🤬",
+    "description": "face with symbols on mouth"
+  },
+  "usmievavý imp": {
+    "replacement": "😈",
+    "description": "smiling face with horns"
+  },
+  "imp": { "replacement": "👿", "description": "angry face with horns" },
+  "lebka": { "replacement": "💀", "description": "skull" },
+  "lebka a kosti": {
+    "replacement": "☠️",
+    "description": "skull and crossbones"
+  },
+  "hankey": { "replacement": "💩", "description": "pile of poo" },
+  "klaunská tvár": { "replacement": "🤡", "description": "clown face" },
+  "japonský zlobr": { "replacement": "👹", "description": "ogre" },
+  "japonský škriatok": { "replacement": "👺", "description": "goblin" },
+  "duch": { "replacement": "👻", "description": "ghost" },
+  "Votrelec": { "replacement": "👽", "description": "alien" },
+  "vesmírny votrelec": { "replacement": "👾", "description": "alien monster" },
+  "robot": { "replacement": "🤖", "description": "robot" },
+  "smajlík mačka": { "replacement": "😺", "description": "grinning cat" },
+  "úsmev mačka": {
+    "replacement": "😸",
+    "description": "grinning cat with smiling eyes"
+  },
+  "radosť mačka": {
+    "replacement": "😹",
+    "description": "cat with tears of joy"
+  },
+  "srdce oči kat": {
+    "replacement": "😻",
+    "description": "smiling cat with heart-eyes"
+  },
+  "úškrn mačka": { "replacement": "😼", "description": "cat with wry smile" },
+  "bozkávajúca mačka": { "replacement": "😽", "description": "kissing cat" },
+  "krik mačka": { "replacement": "🙀", "description": "weary cat" },
+  "plačúca mačacia tvár": { "replacement": "😿", "description": "crying cat" },
+  "našpúlená mačka": { "replacement": "😾", "description": "pouting cat" },
+  "nevidieť zlo": { "replacement": "🙈", "description": "see-no-evil monkey" },
+  "nepočuť žiadne zlo": {
+    "replacement": "🙉",
+    "description": "hear-no-evil monkey"
+  },
+  "nehovor žiadne zlo": {
+    "replacement": "🙊",
+    "description": "speak-no-evil monkey"
+  },
+  "bozk": { "replacement": "💋", "description": "kiss mark" },
+  "ľúbostný list": { "replacement": "💌", "description": "love letter" },
+  "amor": { "replacement": "💘", "description": "heart with arrow" },
+  "darčekové srdce": {
+    "replacement": "💝",
+    "description": "heart with ribbon"
+  },
+  "iskrivé srdce": { "replacement": "💖", "description": "sparkling heart" },
+  "srdcový pulz": { "replacement": "💗", "description": "growing heart" },
+  "tlkot srdca": { "replacement": "💓", "description": "beating heart" },
+  "otáčajúce sa srdcia": {
+    "replacement": "💞",
+    "description": "revolving hearts"
+  },
+  "dve srdcia": { "replacement": "💕", "description": "two hearts" },
+  "dekorácia srdca": { "replacement": "💟", "description": "heart decoration" },
+  "ťažké výkričníky srdca": {
+    "replacement": "❣️",
+    "description": "heart exclamation"
+  },
+  "zlomené srdce": { "replacement": "💔", "description": "broken heart" },
+  "Srdce": { "replacement": "❤️", "description": "red heart" },
+  "oranžové srdce": { "replacement": "🧡", "description": "orange heart" },
+  "žlté srdce": { "replacement": "💛", "description": "yellow heart" },
+  "zelené srdce": { "replacement": "💚", "description": "green heart" },
+  "modré srdce": { "replacement": "💙", "description": "blue heart" },
+  "fialové srdce": { "replacement": "💜", "description": "purple heart" },
+  "hnedé srdce": { "replacement": "🤎", "description": "brown heart" },
+  "čierne srdce": { "replacement": "🖤", "description": "black heart" },
+  "biele srdce": { "replacement": "🤍", "description": "white heart" },
+  "hnev": { "replacement": "💢", "description": "anger symbol" },
+  "boom": { "replacement": "💥", "description": "collision" },
+  "závrat": { "replacement": "💫", "description": "dizzy" },
+  "kvapky potu": { "replacement": "💦", "description": "sweat droplets" },
+  "pomlčka": { "replacement": "💨", "description": "dashing away" },
+  "diera": { "replacement": "🕳️", "description": "hole" },
+  "bomba": { "replacement": "💣", "description": "bomb" },
+  "balón reči": { "replacement": "💬", "description": "speech balloon" },
+  "očná bublina": {
+    "replacement": "👁️‍🗨️",
+    "description": "eye in speech bubble"
+  },
+  "ľavá bublina": { "replacement": "🗨️", "description": "left speech bubble" },
+  "Pravá bublina hnevu": {
+    "replacement": "🗯️",
+    "description": "right anger bubble"
+  },
+  "myslel balón": { "replacement": "💭", "description": "thought balloon" },
+  "zzz": { "replacement": "💤", "description": "zzz" },
+  "mávať": { "replacement": "👋", "description": "waving hand" },
+  "zdvihnutý chrbát ruky": {
+    "replacement": "🤚",
+    "description": "raised back of hand"
+  },
+  "zdvihnutá ruka s roztiahnutými prstami": {
+    "replacement": "🖐️",
+    "description": "hand with fingers splayed"
+  },
+  "ruka": { "replacement": "✋", "description": "raised hand" },
+  "vulkánsky pozdrav": { "replacement": "🖖", "description": "vulcan salute" },
+  "ok ruka": { "replacement": "👌", "description": "OK hand" },
+  "zovreté prsty": { "replacement": "🤌", "description": "pinched fingers" },
+  "zovretie ruky": { "replacement": "🤏", "description": "pinching hand" },
+  "v": { "replacement": "✌️", "description": "victory hand" },
+  "skrížené prsty": { "replacement": "🤞", "description": "crossed fingers" },
+  "milujem ťa gesto": {
+    "replacement": "🤟",
+    "description": "love-you gesture"
+  },
+  "kov": { "replacement": "🤘", "description": "sign of the horns" },
+  "zavolaj mi ruku": { "replacement": "🤙", "description": "call me hand" },
+  "bod vľavo": {
+    "replacement": "👈",
+    "description": "backhand index pointing left"
+  },
+  "bod vpravo": {
+    "replacement": "👉",
+    "description": "backhand index pointing right"
+  },
+  "bod hore 2": {
+    "replacement": "👆",
+    "description": "backhand index pointing up"
+  },
+  "prostredník": { "replacement": "🖕", "description": "middle finger" },
+  "bod dole": {
+    "replacement": "👇",
+    "description": "backhand index pointing down"
+  },
+  "smerovať hore": { "replacement": "☝️", "description": "index pointing up" },
+  "+1": { "replacement": "👍", "description": "thumbs up" },
+  "-1": { "replacement": "👎", "description": "thumbs down" },
+  "päsť zdvihnutá": { "replacement": "✊", "description": "raised fist" },
+  "päsť prichádza": { "replacement": "👊", "description": "oncoming fist" },
+  "päsť vľavo": { "replacement": "🤛", "description": "left-facing fist" },
+  "päsť vpravo": { "replacement": "🤜", "description": "right-facing fist" },
+  "tlieskať": { "replacement": "👏", "description": "clapping hands" },
+  "zdvihnuté ruky": { "replacement": "🙌", "description": "raising hands" },
+  "otvorené ruky": { "replacement": "👐", "description": "open hands" },
+  "dlane hore spolu": {
+    "replacement": "🤲",
+    "description": "palms up together"
+  },
+  "podanie ruky": { "replacement": "🤝", "description": "handshake" },
+  "modliť sa": { "replacement": "🙏", "description": "folded hands" },
+  "písanie rukou": { "replacement": "✍️", "description": "writing hand" },
+  "starostlivosť o nechty": {
+    "replacement": "💅",
+    "description": "nail polish"
+  },
+  "selfie": { "replacement": "🤳", "description": "selfie" },
+  "sval": { "replacement": "💪", "description": "flexed biceps" },
+  "mechanické rameno": { "replacement": "🦾", "description": "mechanical arm" },
+  "mechanická noha": { "replacement": "🦿", "description": "mechanical leg" },
+  "noha": { "replacement": "🦶", "description": "foot" },
+  "ucho": { "replacement": "👂", "description": "ear" },
+  "ucho s načúvacím prístrojom": {
+    "replacement": "🦻",
+    "description": "ear with hearing aid"
+  },
+  "nos": { "replacement": "👃", "description": "nose" },
+  "mozog": { "replacement": "🧠", "description": "brain" },
+  "anatomické srdce": { "replacement": "🫀", "description": "anatomical heart" },
+  "pľúca": { "replacement": "🫁", "description": "lungs" },
+  "zub": { "replacement": "🦷", "description": "tooth" },
+  "kosť": { "replacement": "🦴", "description": "bone" },
+  "oči": { "replacement": "👀", "description": "eyes" },
+  "oko": { "replacement": "👁️", "description": "eye" },
+  "jazyk": { "replacement": "👅", "description": "tongue" },
+  "pery": { "replacement": "👄", "description": "mouth" },
+  "dieťa": { "replacement": "🧒", "description": "child" },
+  "chlapec": { "replacement": "👦", "description": "boy" },
+  "dievča": { "replacement": "👧", "description": "girl" },
+  "dospelý": { "replacement": "🧑", "description": "person" },
+  "plavovlasý človek": {
+    "replacement": "👱",
+    "description": "person: blond hair"
+  },
+  "muž": { "replacement": "👨", "description": "man" },
+  "fúzatá osoba": { "replacement": "🧔", "description": "man: beard" },
+  "ryšavý muž": { "replacement": "👨‍🦰", "description": "man: red hair" },
+  "kučeravý muž": { "replacement": "👨‍🦱", "description": "man: curly hair" },
+  "bielovlasý muž": { "replacement": "👨‍🦳", "description": "man: white hair" },
+  "plešatý muž": { "replacement": "👨‍🦲", "description": "man: bald" },
+  "žena": { "replacement": "👩", "description": "woman" },
+  "ryšavá žena": { "replacement": "👩‍🦰", "description": "woman: red hair" },
+  "osoba červené vlasy": {
+    "replacement": "🧑‍🦰",
+    "description": "person: red hair"
+  },
+  "kučeravé vlasy žena": {
+    "replacement": "👩‍🦱",
+    "description": "woman: curly hair"
+  },
+  "osoba kučeravé vlasy": {
+    "replacement": "🧑‍🦱",
+    "description": "person: curly hair"
+  },
+  "žena s bielymi vlasmi": {
+    "replacement": "👩‍🦳",
+    "description": "woman: white hair"
+  },
+  "osoba biele vlasy": {
+    "replacement": "🧑‍🦳",
+    "description": "person: white hair"
+  },
+  "plešatá žena": { "replacement": "👩‍🦲", "description": "woman: bald" },
+  "osoba plešatá": { "replacement": "🧑‍🦲", "description": "person: bald" },
+  "plavovlasá žena": {
+    "replacement": "👱‍♀️",
+    "description": "woman: blond hair"
+  },
+  "plavovlasý muž": { "replacement": "👱‍♂️", "description": "man: blond hair" },
+  "starší dospelý": { "replacement": "🧓", "description": "older person" },
+  "starší muž": { "replacement": "👴", "description": "old man" },
+  "staršia žena": { "replacement": "👵", "description": "old woman" },
+  "zamračená osoba": { "replacement": "🙍", "description": "person frowning" },
+  "zamračený muž": { "replacement": "🙍‍♂️", "description": "man frowning" },
+  "zamračená žena": { "replacement": "🙍‍♀️", "description": "woman frowning" },
+  "našpúlená tvár": { "replacement": "🙎", "description": "person pouting" },
+  "našpúlený človek": { "replacement": "🙎‍♂️", "description": "man pouting" },
+  "našpúlená žena": { "replacement": "🙎‍♀️", "description": "woman pouting" },
+  "nie dobré": { "replacement": "🙅", "description": "person gesturing NO" },
+  "žiadny dobrý človek": {
+    "replacement": "🙅‍♂️",
+    "description": "man gesturing NO"
+  },
+  "žiadna dobrá žena": {
+    "replacement": "🙅‍♀️",
+    "description": "woman gesturing NO"
+  },
+  "ok osoba": { "replacement": "🙆", "description": "person gesturing OK" },
+  "ok chlap": { "replacement": "🙆‍♂️", "description": "man gesturing OK" },
+  "ok žena": { "replacement": "🙆‍♀️", "description": "woman gesturing OK" },
+  "vyklápacia ruka": {
+    "replacement": "💁",
+    "description": "person tipping hand"
+  },
+  "vyklápacia ruka človeče": {
+    "replacement": "💁‍♂️",
+    "description": "man tipping hand"
+  },
+  "vyklápacia ruka žena": {
+    "replacement": "💁‍♀️",
+    "description": "woman tipping hand"
+  },
+  "zdvíhanie ruky": {
+    "replacement": "🙋",
+    "description": "person raising hand"
+  },
+  "zdvíhanie ruky človeče": {
+    "replacement": "🙋‍♂️",
+    "description": "man raising hand"
+  },
+  "zdvíhanie ruky žena": {
+    "replacement": "🙋‍♀️",
+    "description": "woman raising hand"
+  },
+  "nepočujúca osoba": { "replacement": "🧏", "description": "deaf person" },
+  "nepočujúci človek": { "replacement": "🧏‍♂️", "description": "deaf man" },
+  "nepočujúca žena": { "replacement": "🧏‍♀️", "description": "deaf woman" },
+  "úklon": { "replacement": "🙇", "description": "person bowing" },
+  "klaňací muž": { "replacement": "🙇‍♂️", "description": "man bowing" },
+  "ukláňajúca sa žena": { "replacement": "🙇‍♀️", "description": "woman bowing" },
+  "facepalm": { "replacement": "🤦", "description": "person facepalming" },
+  "muž facepalming": { "replacement": "🤦‍♂️", "description": "man facepalming" },
+  "žena facepalming": {
+    "replacement": "🤦‍♀️",
+    "description": "woman facepalming"
+  },
+  "pokrčiť": { "replacement": "🤷", "description": "person shrugging" },
+  "muž pokrčil plecami": {
+    "replacement": "🤷‍♂️",
+    "description": "man shrugging"
+  },
+  "žena pokrčila plecami": {
+    "replacement": "🤷‍♀️",
+    "description": "woman shrugging"
+  },
+  "zdravotný pracovník": {
+    "replacement": "🧑‍⚕️",
+    "description": "health worker"
+  },
+  "zdravotník": { "replacement": "👨‍⚕️", "description": "man health worker" },
+  "zdravotnícka pracovníčka": {
+    "replacement": "👩‍⚕️",
+    "description": "woman health worker"
+  },
+  "študent": { "replacement": "🧑‍🎓", "description": "student" },
+  "muž študent": { "replacement": "👨‍🎓", "description": "man student" },
+  "študentka": { "replacement": "👩‍🎓", "description": "woman student" },
+  "učiteľ": { "replacement": "🧑‍🏫", "description": "teacher" },
+  "muž učiteľ": { "replacement": "👨‍🏫", "description": "man teacher" },
+  "žena učiteľka": { "replacement": "👩‍🏫", "description": "woman teacher" },
+  "sudca": { "replacement": "🧑‍⚖️", "description": "judge" },
+  "muž sudca": { "replacement": "👨‍⚖️", "description": "man judge" },
+  "žena sudkyňa": { "replacement": "👩‍⚖️", "description": "woman judge" },
+  "farmár": { "replacement": "🧑‍🌾", "description": "farmer" },
+  "muž farmár": { "replacement": "👨‍🌾", "description": "man farmer" },
+  "farmárka": { "replacement": "👩‍🌾", "description": "woman farmer" },
+  "uvariť": { "replacement": "🧑‍🍳", "description": "cook" },
+  "muž kuchár": { "replacement": "👨‍🍳", "description": "man cook" },
+  "žena kuchárka": { "replacement": "👩‍🍳", "description": "woman cook" },
+  "mechanik": { "replacement": "🧑‍🔧", "description": "mechanic" },
+  "muž mechanik": { "replacement": "👨‍🔧", "description": "man mechanic" },
+  "žena mechanička": { "replacement": "👩‍🔧", "description": "woman mechanic" },
+  "robotník v továrni": {
+    "replacement": "🧑‍🏭",
+    "description": "factory worker"
+  },
+  "muž továrenský robotník": {
+    "replacement": "👨‍🏭",
+    "description": "man factory worker"
+  },
+  "žena továrenská pracovníčka": {
+    "replacement": "👩‍🏭",
+    "description": "woman factory worker"
+  },
+  "kancelársky pracovník": {
+    "replacement": "🧑‍💼",
+    "description": "office worker"
+  },
+  "muž kancelársky pracovník": {
+    "replacement": "👨‍💼",
+    "description": "man office worker"
+  },
+  "žena úradníčka": {
+    "replacement": "👩‍💼",
+    "description": "woman office worker"
+  },
+  "vedec": { "replacement": "🧑‍🔬", "description": "scientist" },
+  "človek vedec": { "replacement": "👨‍🔬", "description": "man scientist" },
+  "vedkyňa žena": { "replacement": "👩‍🔬", "description": "woman scientist" },
+  "technológ": { "replacement": "🧑‍💻", "description": "technologist" },
+  "človek technológ": {
+    "replacement": "👨‍💻",
+    "description": "man technologist"
+  },
+  "žena technológ": {
+    "replacement": "👩‍💻",
+    "description": "woman technologist"
+  },
+  "spevák": { "replacement": "🧑‍🎤", "description": "singer" },
+  "muž spevák": { "replacement": "👨‍🎤", "description": "man singer" },
+  "žena speváčka": { "replacement": "👩‍🎤", "description": "woman singer" },
+  "umelec": { "replacement": "🧑‍🎨", "description": "artist" },
+  "človek umelec": { "replacement": "👨‍🎨", "description": "man artist" },
+  "žena umelkyňa": { "replacement": "👩‍🎨", "description": "woman artist" },
+  "pilot": { "replacement": "🧑‍✈️", "description": "pilot" },
+  "muž pilot": { "replacement": "👨‍✈️", "description": "man pilot" },
+  "žena pilotka": { "replacement": "👩‍✈️", "description": "woman pilot" },
+  "astronaut": { "replacement": "🧑‍🚀", "description": "astronaut" },
+  "muž astronaut": { "replacement": "👨‍🚀", "description": "man astronaut" },
+  "žena astronautka": { "replacement": "👩‍🚀", "description": "woman astronaut" },
+  "hasič": { "replacement": "🧑‍🚒", "description": "firefighter" },
+  "hasič človeka": { "replacement": "👨‍🚒", "description": "man firefighter" },
+  "žena hasička": { "replacement": "👩‍🚒", "description": "woman firefighter" },
+  "policajt": { "replacement": "👮‍♂️", "description": "man police officer" },
+  "policajtka": { "replacement": "👮‍♀️", "description": "woman police officer" },
+  "detektív": { "replacement": "🕵️", "description": "detective" },
+  "mužský detektív": { "replacement": "🕵️‍♂️", "description": "man detective" },
+  "ženská detektívka": {
+    "replacement": "🕵️‍♀️",
+    "description": "woman detective"
+  },
+  "strážiť": { "replacement": "💂", "description": "guard" },
+  "gardista": { "replacement": "💂‍♂️", "description": "man guard" },
+  "gardistka": { "replacement": "💂‍♀️", "description": "woman guard" },
+  "ninja": { "replacement": "🥷", "description": "ninja" },
+  "Stavbár": { "replacement": "👷", "description": "construction worker" },
+  "stavebný robotník muž": {
+    "replacement": "👷‍♂️",
+    "description": "man construction worker"
+  },
+  "stavebná pracovníčka žena": {
+    "replacement": "👷‍♀️",
+    "description": "woman construction worker"
+  },
+  "knieža": { "replacement": "🤴", "description": "prince" },
+  "princezná": { "replacement": "👸", "description": "princess" },
+  "osoba s turbanom": {
+    "replacement": "👳",
+    "description": "person wearing turban"
+  },
+  "muž s turbanom": {
+    "replacement": "👳‍♂️",
+    "description": "man wearing turban"
+  },
+  "žena s turbanom": {
+    "replacement": "👳‍♀️",
+    "description": "woman wearing turban"
+  },
+  "muž s gua pi mao": {
+    "replacement": "👲",
+    "description": "person with skullcap"
+  },
+  "žena so šatkou na hlave": {
+    "replacement": "🧕",
+    "description": "woman with headscarf"
+  },
+  "osoba v smokingu": {
+    "replacement": "🤵",
+    "description": "person in tuxedo"
+  },
+  "muž v smokingu": { "replacement": "🤵‍♂️", "description": "man in tuxedo" },
+  "žena v smokingu": {
+    "replacement": "🤵‍♀️",
+    "description": "woman in tuxedo"
+  },
+  "osoba so závojom": {
+    "replacement": "👰",
+    "description": "person with veil"
+  },
+  "muž so závojom": { "replacement": "👰‍♂️", "description": "man with veil" },
+  "žena so závojom": {
+    "replacement": "👰‍♀️",
+    "description": "woman with veil"
+  },
+  "tehotná žena": { "replacement": "🤰", "description": "pregnant woman" },
+  "dojčenie": { "replacement": "🤱", "description": "breast-feeding" },
+  "žena kŕmiaca dieťa": {
+    "replacement": "👩‍🍼",
+    "description": "woman feeding baby"
+  },
+  "muž kŕmiaci dieťa": {
+    "replacement": "👨‍🍼",
+    "description": "man feeding baby"
+  },
+  "osoba kŕmiaca dieťa": {
+    "replacement": "🧑‍🍼",
+    "description": "person feeding baby"
+  },
+  "anjel": { "replacement": "👼", "description": "baby angel" },
+  "Ježiško": { "replacement": "🎅", "description": "Santa Claus" },
+  "pani claus": { "replacement": "🤶", "description": "Mrs. Claus" },
+  "mx claus": { "replacement": "🧑‍🎄", "description": "mx claus" },
+  "superhrdina": { "replacement": "🦸", "description": "superhero" },
+  "superhrdina muž": { "replacement": "🦸‍♂️", "description": "man superhero" },
+  "superhrdinka žena": {
+    "replacement": "🦸‍♀️",
+    "description": "woman superhero"
+  },
+  "supervillain": { "replacement": "🦹", "description": "supervillain" },
+  "supervillain muž": {
+    "replacement": "🦹‍♂️",
+    "description": "man supervillain"
+  },
+  "supervillain žena": {
+    "replacement": "🦹‍♀️",
+    "description": "woman supervillain"
+  },
+  "mág": { "replacement": "🧙", "description": "mage" },
+  "mágový muž": { "replacement": "🧙‍♂️", "description": "man mage" },
+  "mágová žena": { "replacement": "🧙‍♀️", "description": "woman mage" },
+  "víla": { "replacement": "🧚", "description": "fairy" },
+  "rozprávkový muž": { "replacement": "🧚‍♂️", "description": "man fairy" },
+  "víla žena": { "replacement": "🧚‍♀️", "description": "woman fairy" },
+  "upír": { "replacement": "🧛‍♂️", "description": "man vampire" },
+  "upírka": { "replacement": "🧛‍♀️", "description": "woman vampire" },
+  "obchodník": { "replacement": "🧜", "description": "merperson" },
+  "merman": { "replacement": "🧜‍♂️", "description": "merman" },
+  "morská panna": { "replacement": "🧜‍♀️", "description": "mermaid" },
+  "elf": { "replacement": "🧝", "description": "elf" },
+  "elf muž": { "replacement": "🧝‍♂️", "description": "man elf" },
+  "elfka žena": { "replacement": "🧝‍♀️", "description": "woman elf" },
+  "džin": { "replacement": "🧞", "description": "genie" },
+  "džin človek": { "replacement": "🧞‍♂️", "description": "man genie" },
+  "džin žena": { "replacement": "🧞‍♀️", "description": "woman genie" },
+  "zombie": { "replacement": "🧟", "description": "zombie" },
+  "zombie muž": { "replacement": "🧟‍♂️", "description": "man zombie" },
+  "zombie žena": { "replacement": "🧟‍♀️", "description": "woman zombie" },
+  "masáž": { "replacement": "💆", "description": "person getting massage" },
+  "masážny muž": { "replacement": "💆‍♂️", "description": "man getting massage" },
+  "masážna žena": {
+    "replacement": "💆‍♀️",
+    "description": "woman getting massage"
+  },
+  "účes": { "replacement": "💇", "description": "person getting haircut" },
+  "ostrihaný muž": {
+    "replacement": "💇‍♂️",
+    "description": "man getting haircut"
+  },
+  "ostrihaná žena": {
+    "replacement": "💇‍♀️",
+    "description": "woman getting haircut"
+  },
+  "chôdza": { "replacement": "🚶", "description": "person walking" },
+  "kráčajúci muž": { "replacement": "🚶‍♂️", "description": "man walking" },
+  "chodiaca zena": { "replacement": "🚶‍♀️", "description": "woman walking" },
+  "stojaca osoba": { "replacement": "🧍", "description": "person standing" },
+  "stojaci muž": { "replacement": "🧍‍♂️", "description": "man standing" },
+  "stojaca žena": { "replacement": "🧍‍♀️", "description": "woman standing" },
+  "kľačiaci človek": { "replacement": "🧎", "description": "person kneeling" },
+  "kľačiaci muž": { "replacement": "🧎‍♂️", "description": "man kneeling" },
+  "kľačiaca žena": { "replacement": "🧎‍♀️", "description": "woman kneeling" },
+  "osoba so sondovacou palicou": {
+    "replacement": "🧑‍🦯",
+    "description": "person with white cane"
+  },
+  "muž so sondovacou palicou": {
+    "replacement": "👨‍🦯",
+    "description": "man with white cane"
+  },
+  "žena so sondovacou palicou": {
+    "replacement": "👩‍🦯",
+    "description": "woman with white cane"
+  },
+  "osoba na motorovom vozíku": {
+    "replacement": "🧑‍🦼",
+    "description": "person in motorized wheelchair"
+  },
+  "muž na motorovom vozíku": {
+    "replacement": "👨‍🦼",
+    "description": "man in motorized wheelchair"
+  },
+  "žena na motorovom vozíku": {
+    "replacement": "👩‍🦼",
+    "description": "woman in motorized wheelchair"
+  },
+  "osoba na ručnom invalidnom vozíku": {
+    "replacement": "🧑‍🦽",
+    "description": "person in manual wheelchair"
+  },
+  "muž na ručnom invalidnom vozíku": {
+    "replacement": "👨‍🦽",
+    "description": "man in manual wheelchair"
+  },
+  "žena na ručnom vozíku": {
+    "replacement": "👩‍🦽",
+    "description": "woman in manual wheelchair"
+  },
+  "bežec": { "replacement": "🏃", "description": "person running" },
+  "bežiaci muž": { "replacement": "🏃‍♂️", "description": "man running" },
+  "bežiaca žena": { "replacement": "🏃‍♀️", "description": "woman running" },
+  "žena tancuje": { "replacement": "💃", "description": "woman dancing" },
+  "muž tancuje": { "replacement": "🕺", "description": "man dancing" },
+  "obchodný oblek levitujúci": {
+    "replacement": "🕴️",
+    "description": "person in suit levitating"
+  },
+  "tanečníci": { "replacement": "👯", "description": "people with bunny ears" },
+  "tancujúcich mužov": {
+    "replacement": "👯‍♂️",
+    "description": "men with bunny ears"
+  },
+  "tancujúce ženy": {
+    "replacement": "👯‍♀️",
+    "description": "women with bunny ears"
+  },
+  "osoba v saune": {
+    "replacement": "🧖",
+    "description": "person in steamy room"
+  },
+  "saunový muž": { "replacement": "🧖‍♂️", "description": "man in steamy room" },
+  "sauna žena": { "replacement": "🧖‍♀️", "description": "woman in steamy room" },
+  "lezenie": { "replacement": "🧗", "description": "person climbing" },
+  "horolezecký človek": { "replacement": "🧗‍♂️", "description": "man climbing" },
+  "lezecká žena": { "replacement": "🧗‍♀️", "description": "woman climbing" },
+  "osoba oplotenie": { "replacement": "🤺", "description": "person fencing" },
+  "konské dostihy": { "replacement": "🏇", "description": "horse racing" },
+  "lyžiar": { "replacement": "⛷️", "description": "skier" },
+  "snowboardista": { "replacement": "🏂", "description": "snowboarder" },
+  "golf": { "replacement": "⛳", "description": "flag in hole" },
+  "golfový muž": { "replacement": "🏌️‍♂️", "description": "man golfing" },
+  "golfová žena": { "replacement": "🏌️‍♀️", "description": "woman golfing" },
+  "surfer": { "replacement": "🏄", "description": "person surfing" },
+  "surfujúci človek": { "replacement": "🏄‍♂️", "description": "man surfing" },
+  "surfujúca žena": { "replacement": "🏄‍♀️", "description": "woman surfing" },
+  "loďka": { "replacement": "🚣", "description": "person rowing boat" },
+  "veslár": { "replacement": "🚣‍♂️", "description": "man rowing boat" },
+  "veslárka": { "replacement": "🚣‍♀️", "description": "woman rowing boat" },
+  "plavec": { "replacement": "🏊", "description": "person swimming" },
+  "plávajúci muž": { "replacement": "🏊‍♂️", "description": "man swimming" },
+  "plávajúca žena": { "replacement": "🏊‍♀️", "description": "woman swimming" },
+  "odrážajúca lopta": {
+    "replacement": "⛹️",
+    "description": "person bouncing ball"
+  },
+  "poskakujúca guľa muž": {
+    "replacement": "⛹️‍♂️",
+    "description": "man bouncing ball"
+  },
+  "skákacia loptička žena": {
+    "replacement": "⛹️‍♀️",
+    "description": "woman bouncing ball"
+  },
+  "zdvíhať závažia": {
+    "replacement": "🏋️",
+    "description": "person lifting weights"
+  },
+  "vzpierač muž": { "replacement": "🏋️‍♂️", "description": "man lifting weights" },
+  "vzpieračská žena": {
+    "replacement": "🏋️‍♀️",
+    "description": "woman lifting weights"
+  },
+  "cyklista": { "replacement": "🚴", "description": "person biking" },
+  "cykloturista": { "replacement": "🚴‍♂️", "description": "man biking" },
+  "žena na bicykli": { "replacement": "🚴‍♀️", "description": "woman biking" },
+  "horský cyklista": {
+    "replacement": "🚵",
+    "description": "person mountain biking"
+  },
+  "muž na horských bicykloch": {
+    "replacement": "🚵‍♂️",
+    "description": "man mountain biking"
+  },
+  "žena na horskom bicykli": {
+    "replacement": "🚵‍♀️",
+    "description": "woman mountain biking"
+  },
+  "premávať na kolesách": {
+    "replacement": "🤸",
+    "description": "person cartwheeling"
+  },
+  "muž na kolesách": { "replacement": "🤸‍♂️", "description": "man cartwheeling" },
+  "žena na kolesách": {
+    "replacement": "🤸‍♀️",
+    "description": "woman cartwheeling"
+  },
+  "zápasenie": { "replacement": "🤼", "description": "people wrestling" },
+  "muži zápasia": { "replacement": "🤼‍♂️", "description": "men wrestling" },
+  "ženy zápasia": { "replacement": "🤼‍♀️", "description": "women wrestling" },
+  "vodné pólo": {
+    "replacement": "🤽",
+    "description": "person playing water polo"
+  },
+  "muž hrajúci vodné pólo": {
+    "replacement": "🤽‍♂️",
+    "description": "man playing water polo"
+  },
+  "žena hrajúca vodné pólo": {
+    "replacement": "🤽‍♀️",
+    "description": "woman playing water polo"
+  },
+  "hádzanár": { "replacement": "🤾", "description": "person playing handball" },
+  "muž hrajúci hádzanú": {
+    "replacement": "🤾‍♂️",
+    "description": "man playing handball"
+  },
+  "žena hrajúca hádzanú": {
+    "replacement": "🤾‍♀️",
+    "description": "woman playing handball"
+  },
+  "žonglérsky človek": {
+    "replacement": "🤹",
+    "description": "person juggling"
+  },
+  "žonglovanie s mužom": { "replacement": "🤹‍♂️", "description": "man juggling" },
+  "žonglovanie so ženou": {
+    "replacement": "🤹‍♀️",
+    "description": "woman juggling"
+  },
+  "lotosová pozícia": {
+    "replacement": "🧘",
+    "description": "person in lotus position"
+  },
+  "lotosová pozícia muž": {
+    "replacement": "🧘‍♂️",
+    "description": "man in lotus position"
+  },
+  "lotosová pozícia žena": {
+    "replacement": "🧘‍♀️",
+    "description": "woman in lotus position"
+  },
+  "kúpeľ": { "replacement": "🛀", "description": "person taking bath" },
+  "spaciu postel": { "replacement": "🛌", "description": "person in bed" },
+  "ľudia držiaci sa za ruky": {
+    "replacement": "🧑‍🤝‍🧑",
+    "description": "people holding hands"
+  },
+  "dve ženy držiace sa za ruky": {
+    "replacement": "👭",
+    "description": "women holding hands"
+  },
+  "pár": { "replacement": "👫", "description": "woman and man holding hands" },
+  "dvaja muži sa držali za ruky": {
+    "replacement": "👬",
+    "description": "men holding hands"
+  },
+  "couplekiss": { "replacement": "💏", "description": "kiss" },
+  "couplekiss muž žena": {
+    "replacement": "👩‍❤️‍💋‍👨",
+    "description": "kiss: woman, man"
+  },
+  "couplekiss man man": {
+    "replacement": "👨‍❤️‍💋‍👨",
+    "description": "kiss: man, man"
+  },
+  "couplekiss žena žena": {
+    "replacement": "👩‍❤️‍💋‍👩",
+    "description": "kiss: woman, woman"
+  },
+  "pár so srdcom": { "replacement": "💑", "description": "couple with heart" },
+  "pár so srdcom žena muž": {
+    "replacement": "👩‍❤️‍👨",
+    "description": "couple with heart: woman, man"
+  },
+  "pár so srdcom muž človek": {
+    "replacement": "👨‍❤️‍👨",
+    "description": "couple with heart: man, man"
+  },
+  "pár so srdcom žena žena": {
+    "replacement": "👩‍❤️‍👩",
+    "description": "couple with heart: woman, woman"
+  },
+  "rodina": { "replacement": "👪", "description": "family" },
+  "rodina muž žena chlapec": {
+    "replacement": "👨‍👩‍👦",
+    "description": "family: man, woman, boy"
+  },
+  "rodina muž žena dievča": {
+    "replacement": "👨‍👩‍👧",
+    "description": "family: man, woman, girl"
+  },
+  "rodina muž žena dievča chlapec": {
+    "replacement": "👨‍👩‍👧‍👦",
+    "description": "family: man, woman, girl, boy"
+  },
+  "rodina muž žena chlapec chlapec": {
+    "replacement": "👨‍👩‍👦‍👦",
+    "description": "family: man, woman, boy, boy"
+  },
+  "rodina muž žena dievča dievča": {
+    "replacement": "👨‍👩‍👧‍👧",
+    "description": "family: man, woman, girl, girl"
+  },
+  "rodina muž muž chlapec": {
+    "replacement": "👨‍👨‍👦",
+    "description": "family: man, man, boy"
+  },
+  "rodina muž muž dievča": {
+    "replacement": "👨‍👨‍👧",
+    "description": "family: man, man, girl"
+  },
+  "rodina muž muž dievča chlapec": {
+    "replacement": "👨‍👨‍👧‍👦",
+    "description": "family: man, man, girl, boy"
+  },
+  "rodina muž človek chlapec chlapec": {
+    "replacement": "👨‍👨‍👦‍👦",
+    "description": "family: man, man, boy, boy"
+  },
+  "rodina muž muž dievča dievča": {
+    "replacement": "👨‍👨‍👧‍👧",
+    "description": "family: man, man, girl, girl"
+  },
+  "rodina žena žena chlapec": {
+    "replacement": "👩‍👩‍👦",
+    "description": "family: woman, woman, boy"
+  },
+  "rodina žena žena dievča": {
+    "replacement": "👩‍👩‍👧",
+    "description": "family: woman, woman, girl"
+  },
+  "rodina žena žena dievča chlapec": {
+    "replacement": "👩‍👩‍👧‍👦",
+    "description": "family: woman, woman, girl, boy"
+  },
+  "rodina žena žena chlapec chlapec": {
+    "replacement": "👩‍👩‍👦‍👦",
+    "description": "family: woman, woman, boy, boy"
+  },
+  "rodina žena žena dievča dievča": {
+    "replacement": "👩‍👩‍👧‍👧",
+    "description": "family: woman, woman, girl, girl"
+  },
+  "rodina muž chlapec": {
+    "replacement": "👨‍👦",
+    "description": "family: man, boy"
+  },
+  "rodina muž chlapec chlapec": {
+    "replacement": "👨‍👦‍👦",
+    "description": "family: man, boy, boy"
+  },
+  "rodinný muž dievča": {
+    "replacement": "👨‍👧",
+    "description": "family: man, girl"
+  },
+  "rodina muž dievča chlapec": {
+    "replacement": "👨‍👧‍👦",
+    "description": "family: man, girl, boy"
+  },
+  "rodina muž dievča dievča": {
+    "replacement": "👨‍👧‍👧",
+    "description": "family: man, girl, girl"
+  },
+  "rodina žena chlapec": {
+    "replacement": "👩‍👦",
+    "description": "family: woman, boy"
+  },
+  "rodina žena chlapec chlapec": {
+    "replacement": "👩‍👦‍👦",
+    "description": "family: woman, boy, boy"
+  },
+  "rodina žena dievča": {
+    "replacement": "👩‍👧",
+    "description": "family: woman, girl"
+  },
+  "rodina žena dievča chlapec": {
+    "replacement": "👩‍👧‍👦",
+    "description": "family: woman, girl, boy"
+  },
+  "rodina žena dievča dievča": {
+    "replacement": "👩‍👧‍👧",
+    "description": "family: woman, girl, girl"
+  },
+  "hovoriaca hlava": { "replacement": "🗣️", "description": "speaking head" },
+  "poprsie v siluete": {
+    "replacement": "👥",
+    "description": "busts in silhouette"
+  },
+  "ľudia objímajúci sa": {
+    "replacement": "🫂",
+    "description": "people hugging"
+  },
+  "stopy": { "replacement": "👣", "description": "footprints" },
+  "opičia tvár": { "replacement": "🐵", "description": "monkey face" },
+  "opice": { "replacement": "🐒", "description": "monkey" },
+  "gorila": { "replacement": "🦍", "description": "gorilla" },
+  "orangutan": { "replacement": "🦧", "description": "orangutan" },
+  "pes": { "replacement": "🐶", "description": "dog face" },
+  "pes2": { "replacement": "🐕", "description": "dog" },
+  "vodiaci pes": { "replacement": "🦮", "description": "guide dog" },
+  "služobný pes": { "replacement": "🐕‍🦺", "description": "service dog" },
+  "pudel": { "replacement": "🐩", "description": "poodle" },
+  "vlk": { "replacement": "🐺", "description": "wolf" },
+  "líščia tvár": { "replacement": "🦊", "description": "fox" },
+  "medvedík čistotný": { "replacement": "🦝", "description": "raccoon" },
+  "kat": { "replacement": "🐱", "description": "cat face" },
+  "kat2": { "replacement": "🐈", "description": "cat" },
+  "čierna mačka": { "replacement": "🐈‍⬛", "description": "black cat" },
+  "lev": { "replacement": "🦁", "description": "lion" },
+  "tiger": { "replacement": "🐯", "description": "tiger face" },
+  "tiger2": { "replacement": "🐅", "description": "tiger" },
+  "leopard": { "replacement": "🐆", "description": "leopard" },
+  "koňa": { "replacement": "🐴", "description": "horse face" },
+  "dostihový kôň": { "replacement": "🐎", "description": "horse" },
+  "jednorožec": { "replacement": "🦄", "description": "unicorn" },
+  "zebra": { "replacement": "🦓", "description": "zebra" },
+  "jeleň": { "replacement": "🦌", "description": "deer" },
+  "bizón": { "replacement": "🦬", "description": "bison" },
+  "krava": { "replacement": "🐮", "description": "cow face" },
+  "vôl": { "replacement": "🐂", "description": "ox" },
+  "vodný byvol": { "replacement": "🐃", "description": "water buffalo" },
+  "krava2": { "replacement": "🐄", "description": "cow" },
+  "sviňa": { "replacement": "🐷", "description": "pig face" },
+  "prasa2": { "replacement": "🐖", "description": "pig" },
+  "kanec": { "replacement": "🐗", "description": "boar" },
+  "prasací nos": { "replacement": "🐽", "description": "pig nose" },
+  "baran": { "replacement": "🐏", "description": "ram" },
+  "ovce": { "replacement": "🐑", "description": "ewe" },
+  "koza": { "replacement": "🐐", "description": "goat" },
+  "dromedárska ťava": { "replacement": "🐪", "description": "camel" },
+  "ťava": { "replacement": "🐫", "description": "two-hump camel" },
+  "lama": { "replacement": "🦙", "description": "llama" },
+  "žirafa": { "replacement": "🦒", "description": "giraffe" },
+  "slon": { "replacement": "🐘", "description": "elephant" },
+  "mamut": { "replacement": "🦣", "description": "mammoth" },
+  "nosorožca": { "replacement": "🦏", "description": "rhinoceros" },
+  "hroch": { "replacement": "🦛", "description": "hippopotamus" },
+  "myš": { "replacement": "🐭", "description": "mouse face" },
+  "myš2": { "replacement": "🐁", "description": "mouse" },
+  "potkan": { "replacement": "🐀", "description": "rat" },
+  "škrečok": { "replacement": "🐹", "description": "hamster" },
+  "králik": { "replacement": "🐰", "description": "rabbit face" },
+  "králik2": { "replacement": "🐇", "description": "rabbit" },
+  "chipmunk": { "replacement": "🐿️", "description": "chipmunk" },
+  "bobor": { "replacement": "🦫", "description": "beaver" },
+  "ježko": { "replacement": "🦔", "description": "hedgehog" },
+  "netopier": { "replacement": "🦇", "description": "bat" },
+  "medveď": { "replacement": "🐻", "description": "bear" },
+  "ľadový medveď": { "replacement": "🐻‍❄️", "description": "polar bear" },
+  "koala": { "replacement": "🐨", "description": "koala" },
+  "panda tvár": { "replacement": "🐼", "description": "panda" },
+  "leňochod": { "replacement": "🦥", "description": "sloth" },
+  "vydra": { "replacement": "🦦", "description": "otter" },
+  "skunk": { "replacement": "🦨", "description": "skunk" },
+  "klokan": { "replacement": "🦘", "description": "kangaroo" },
+  "jazvec": { "replacement": "🦡", "description": "badger" },
+  "nohy": { "replacement": "🐾", "description": "paw prints" },
+  "moriak": { "replacement": "🦃", "description": "turkey" },
+  "kura": { "replacement": "🐔", "description": "chicken" },
+  "kohút": { "replacement": "🐓", "description": "rooster" },
+  "násadové kuriatko": { "replacement": "🐣", "description": "hatching chick" },
+  "dieťa kuriatko": { "replacement": "🐤", "description": "baby chick" },
+  "vyliahnuté kuriatko": {
+    "replacement": "🐥",
+    "description": "front-facing baby chick"
+  },
+  "vták": { "replacement": "🐦", "description": "bird" },
+  "tučniak": { "replacement": "🐧", "description": "penguin" },
+  "holubica": { "replacement": "🕊️", "description": "dove" },
+  "orol": { "replacement": "🦅", "description": "eagle" },
+  "kačica": { "replacement": "🦆", "description": "duck" },
+  "labuť": { "replacement": "🦢", "description": "swan" },
+  "sova": { "replacement": "🦉", "description": "owl" },
+  "dodo": { "replacement": "🦤", "description": "dodo" },
+  "pierko": { "replacement": "🪶", "description": "feather" },
+  "plameniak": { "replacement": "🦩", "description": "flamingo" },
+  "páv": { "replacement": "🦚", "description": "peacock" },
+  "papagáj": { "replacement": "🦜", "description": "parrot" },
+  "žaba": { "replacement": "🐸", "description": "frog" },
+  "krokodíl": { "replacement": "🐊", "description": "crocodile" },
+  "korytnačka": { "replacement": "🐢", "description": "turtle" },
+  "jašterica": { "replacement": "🦎", "description": "lizard" },
+  "had": { "replacement": "🐍", "description": "snake" },
+  "dračia tvár": { "replacement": "🐲", "description": "dragon face" },
+  "drak": { "replacement": "🐉", "description": "dragon" },
+  "sauropod": { "replacement": "🦕", "description": "sauropod" },
+  "t-rex": { "replacement": "🦖", "description": "T-Rex" },
+  "veľryba": { "replacement": "🐳", "description": "spouting whale" },
+  "veľryba2": { "replacement": "🐋", "description": "whale" },
+  "delfín": { "replacement": "🐬", "description": "dolphin" },
+  "tuleň": { "replacement": "🦭", "description": "seal" },
+  "ryby": { "replacement": "♓", "description": "Pisces" },
+  "tropická ryba": { "replacement": "🐠", "description": "tropical fish" },
+  "blowfish": { "replacement": "🐡", "description": "blowfish" },
+  "žralok": { "replacement": "🦈", "description": "shark" },
+  "Chobotnica": { "replacement": "🐙", "description": "octopus" },
+  "škrupina": { "replacement": "🐚", "description": "spiral shell" },
+  "slimák": { "replacement": "🐌", "description": "snail" },
+  "motýľ": { "replacement": "🦋", "description": "butterfly" },
+  "chyba": { "replacement": "🐛", "description": "bug" },
+  "mravec": { "replacement": "🐜", "description": "ant" },
+  "včela": { "replacement": "🐝", "description": "honeybee" },
+  "chrobák": { "replacement": "🪲", "description": "beetle" },
+  "lady chrobak": { "replacement": "🐞", "description": "lady beetle" },
+  "kriket": { "replacement": "🦗", "description": "cricket" },
+  "šváb": { "replacement": "🪳", "description": "cockroach" },
+  "pavúk": { "replacement": "🕷️", "description": "spider" },
+  "pavučina": { "replacement": "🕸️", "description": "spider web" },
+  "škorpión": { "replacement": "🦂", "description": "scorpion" },
+  "komár": { "replacement": "🦟", "description": "mosquito" },
+  "lietať": { "replacement": "🪰", "description": "fly" },
+  "červ": { "replacement": "🪱", "description": "worm" },
+  "mikrób": { "replacement": "🦠", "description": "microbe" },
+  "kytica": { "replacement": "💐", "description": "bouquet" },
+  "Čerešňový kvet": { "replacement": "🌸", "description": "cherry blossom" },
+  "biely kvet": { "replacement": "💮", "description": "white flower" },
+  "rozeta": { "replacement": "🏵️", "description": "rosette" },
+  "ruža": { "replacement": "🌹", "description": "rose" },
+  "zvädnutý kvet": { "replacement": "🥀", "description": "wilted flower" },
+  "ibištek": { "replacement": "🌺", "description": "hibiscus" },
+  "slnečnica": { "replacement": "🌻", "description": "sunflower" },
+  "kvet": { "replacement": "🌼", "description": "blossom" },
+  "tulipán": { "replacement": "🌷", "description": "tulip" },
+  "sadenica": { "replacement": "🌱", "description": "seedling" },
+  "črepníková rastlina": { "replacement": "🪴", "description": "potted plant" },
+  "vždyzelený strom": { "replacement": "🌲", "description": "evergreen tree" },
+  "listnatý strom": { "replacement": "🌳", "description": "deciduous tree" },
+  "palma": { "replacement": "🌴", "description": "palm tree" },
+  "kaktus": { "replacement": "🌵", "description": "cactus" },
+  "klas ryže": { "replacement": "🌾", "description": "sheaf of rice" },
+  "bylina": { "replacement": "🌿", "description": "herb" },
+  "trojlístok": { "replacement": "☘️", "description": "shamrock" },
+  "štvorlístok": { "replacement": "🍀", "description": "four leaf clover" },
+  "javorový list": { "replacement": "🍁", "description": "maple leaf" },
+  "opadaný list": { "replacement": "🍂", "description": "fallen leaf" },
+  "listy": { "replacement": "🍃", "description": "leaf fluttering in wind" },
+  "hrozno": { "replacement": "🍇", "description": "grapes" },
+  "melón": { "replacement": "🍉", "description": "watermelon" },
+  "mandarínka": { "replacement": "🍊", "description": "tangerine" },
+  "citrón": { "replacement": "🍋", "description": "lemon" },
+  "banán": { "replacement": "🍌", "description": "banana" },
+  "ananás": { "replacement": "🍍", "description": "pineapple" },
+  "mango": { "replacement": "🥭", "description": "mango" },
+  "jablko": { "replacement": "🍎", "description": "red apple" },
+  "zelené jablko": { "replacement": "🍏", "description": "green apple" },
+  "hruška": { "replacement": "🍐", "description": "pear" },
+  "broskyňa": { "replacement": "🍑", "description": "peach" },
+  "čerešne": { "replacement": "🍒", "description": "cherries" },
+  "jahoda": { "replacement": "🍓", "description": "strawberry" },
+  "čučoriedky": { "replacement": "🫐", "description": "blueberries" },
+  "kiwi": { "replacement": "🥝", "description": "kiwi fruit" },
+  "paradajka": { "replacement": "🍅", "description": "tomato" },
+  "olivový": { "replacement": "🫒", "description": "olive" },
+  "kokos": { "replacement": "🥥", "description": "coconut" },
+  "avokádo": { "replacement": "🥑", "description": "avocado" },
+  "baklažán": { "replacement": "🍆", "description": "eggplant" },
+  "zemiak": { "replacement": "🥔", "description": "potato" },
+  "mrkva": { "replacement": "🥕", "description": "carrot" },
+  "kukurica": { "replacement": "🌽", "description": "ear of corn" },
+  "feferónka": { "replacement": "🌶️", "description": "hot pepper" },
+  "paprika": { "replacement": "🫑", "description": "bell pepper" },
+  "uhorka": { "replacement": "🥒", "description": "cucumber" },
+  "listovo zelená": { "replacement": "🥬", "description": "leafy green" },
+  "brokolica": { "replacement": "🥦", "description": "broccoli" },
+  "cesnak": { "replacement": "🧄", "description": "garlic" },
+  "Cibuľa": { "replacement": "🧅", "description": "onion" },
+  "huba": { "replacement": "🍄", "description": "mushroom" },
+  "arašidy": { "replacement": "🥜", "description": "peanuts" },
+  "gaštan": { "replacement": "🌰", "description": "chestnut" },
+  "chlieb": { "replacement": "🍞", "description": "bread" },
+  "rožok": { "replacement": "🥐", "description": "croissant" },
+  "bagetový chlieb": { "replacement": "🥖", "description": "baguette bread" },
+  "plochý chlieb": { "replacement": "🫓", "description": "flatbread" },
+  "praclík": { "replacement": "🥨", "description": "pretzel" },
+  "bagel": { "replacement": "🥯", "description": "bagel" },
+  "palacinky": { "replacement": "🥞", "description": "pancakes" },
+  "vafle": { "replacement": "🧇", "description": "waffle" },
+  "syr": { "replacement": "🧀", "description": "cheese wedge" },
+  "mäso na kosť": { "replacement": "🍖", "description": "meat on bone" },
+  "hydinové stehno": { "replacement": "🍗", "description": "poultry leg" },
+  "rez mäsa": { "replacement": "🥩", "description": "cut of meat" },
+  "slanina": { "replacement": "🥓", "description": "bacon" },
+  "hamburger": { "replacement": "🍔", "description": "hamburger" },
+  "hranolky": { "replacement": "🍟", "description": "french fries" },
+  "pizza": { "replacement": "🍕", "description": "pizza" },
+  "párok v rožku": { "replacement": "🌭", "description": "hot dog" },
+  "sendvič": { "replacement": "🥪", "description": "sandwich" },
+  "taco": { "replacement": "🌮", "description": "taco" },
+  "burrito": { "replacement": "🌯", "description": "burrito" },
+  "tamale": { "replacement": "🫔", "description": "tamale" },
+  "plnené chlebové placky": {
+    "replacement": "🥙",
+    "description": "stuffed flatbread"
+  },
+  "falafel": { "replacement": "🧆", "description": "falafel" },
+  "vajce": { "replacement": "🥚", "description": "egg" },
+  "volské oko": { "replacement": "🍳", "description": "cooking" },
+  "plytká panvica s jedlom": {
+    "replacement": "🥘",
+    "description": "shallow pan of food"
+  },
+  "guláš": { "replacement": "🍲", "description": "pot of food" },
+  "fondue": { "replacement": "🫕", "description": "fondue" },
+  "misa s lyžičkou": { "replacement": "🥣", "description": "bowl with spoon" },
+  "zelený šalát": { "replacement": "🥗", "description": "green salad" },
+  "pukance": { "replacement": "🍿", "description": "popcorn" },
+  "maslo": { "replacement": "🧈", "description": "butter" },
+  "soľ": { "replacement": "🧂", "description": "salt" },
+  "konzervy": { "replacement": "🥫", "description": "canned food" },
+  "bento": { "replacement": "🍱", "description": "bento box" },
+  "ryžový cracker": { "replacement": "🍘", "description": "rice cracker" },
+  "ryžová gulička": { "replacement": "🍙", "description": "rice ball" },
+  "ryža": { "replacement": "🍚", "description": "cooked rice" },
+  "kari": { "replacement": "🍛", "description": "curry rice" },
+  "ramen": { "replacement": "🍜", "description": "steaming bowl" },
+  "špagety": { "replacement": "🍝", "description": "spaghetti" },
+  "sladký zemiak": {
+    "replacement": "🍠",
+    "description": "roasted sweet potato"
+  },
+  "oden": { "replacement": "🍢", "description": "oden" },
+  "sushi": { "replacement": "🍣", "description": "sushi" },
+  "vyprážané krevety": { "replacement": "🍤", "description": "fried shrimp" },
+  "rybí koláč": { "replacement": "🍥", "description": "fish cake with swirl" },
+  "mesačný koláč": { "replacement": "🥮", "description": "moon cake" },
+  "dango": { "replacement": "🍡", "description": "dango" },
+  "knedľa": { "replacement": "🥟", "description": "dumpling" },
+  "Koláčik šťastia": { "replacement": "🥠", "description": "fortune cookie" },
+  "vykladacia skrinka": { "replacement": "🥡", "description": "takeout box" },
+  "krab": { "replacement": "🦀", "description": "crab" },
+  "morský rak": { "replacement": "🦞", "description": "lobster" },
+  "krevety": { "replacement": "🦐", "description": "shrimp" },
+  "kalmáre": { "replacement": "🦑", "description": "squid" },
+  "ustrica": { "replacement": "🦪", "description": "oyster" },
+  "zmrzlina": { "replacement": "🍨", "description": "ice cream" },
+  "Rozdrtený ľad": { "replacement": "🍧", "description": "shaved ice" },
+  "Šiška": { "replacement": "🍩", "description": "doughnut" },
+  "cookie": { "replacement": "🍪", "description": "cookie" },
+  "narodeniny": { "replacement": "🎂", "description": "birthday cake" },
+  "koláč": { "replacement": "🥧", "description": "pie" },
+  "cupcake": { "replacement": "🧁", "description": "cupcake" },
+  "čokoládová tyčinka": { "replacement": "🍫", "description": "chocolate bar" },
+  "cukrík": { "replacement": "🍬", "description": "candy" },
+  "lízanka": { "replacement": "🍭", "description": "lollipop" },
+  "krémeš": { "replacement": "🍮", "description": "custard" },
+  "medovnik": { "replacement": "🍯", "description": "honey pot" },
+  "detská fľaša": { "replacement": "🍼", "description": "baby bottle" },
+  "mliečne sklo": { "replacement": "🥛", "description": "glass of milk" },
+  "káva": { "replacement": "☕", "description": "hot beverage" },
+  "čajník": { "replacement": "🫖", "description": "teapot" },
+  "čaj": { "replacement": "🍵", "description": "teacup without handle" },
+  "saké": { "replacement": "🍶", "description": "sake" },
+  "šampanské": {
+    "replacement": "🍾",
+    "description": "bottle with popping cork"
+  },
+  "pohár na víno": { "replacement": "🍷", "description": "wine glass" },
+  "kokteil": { "replacement": "🍸", "description": "cocktail glass" },
+  "tropický nápoj": { "replacement": "🍹", "description": "tropical drink" },
+  "pivo": { "replacement": "🍺", "description": "beer mug" },
+  "pivá": { "replacement": "🍻", "description": "clinking beer mugs" },
+  "cinkajúce poháre": {
+    "replacement": "🥂",
+    "description": "clinking glasses"
+  },
+  "pohárik pohára": { "replacement": "🥃", "description": "tumbler glass" },
+  "pohár so slamou": { "replacement": "🥤", "description": "cup with straw" },
+  "bublinkový čaj": { "replacement": "🧋", "description": "bubble tea" },
+  "nápojová krabička": { "replacement": "🧃", "description": "beverage box" },
+  "kamarát": { "replacement": "🧉", "description": "mate" },
+  "ľadová kocka": { "replacement": "🧊", "description": "ice" },
+  "paličky": { "replacement": "🥢", "description": "chopsticks" },
+  "tanier s príborom": {
+    "replacement": "🍽️",
+    "description": "fork and knife with plate"
+  },
+  "vidlička a nôž": { "replacement": "🍴", "description": "fork and knife" },
+  "lyžička": { "replacement": "🥄", "description": "spoon" },
+  "hocho": { "replacement": "🔪", "description": "kitchen knife" },
+  "amfora": { "replacement": "🏺", "description": "amphora" },
+  "zemská afrika": {
+    "replacement": "🌍",
+    "description": "globe showing Europe-Africa"
+  },
+  "zemské ameriky": {
+    "replacement": "🌎",
+    "description": "globe showing Americas"
+  },
+  "zemská ázia": {
+    "replacement": "🌏",
+    "description": "globe showing Asia-Australia"
+  },
+  "glóbus s poludníkmi": {
+    "replacement": "🌐",
+    "description": "globe with meridians"
+  },
+  "mapa sveta": { "replacement": "🗺️", "description": "world map" },
+  "japonsko": { "replacement": "🗾", "description": "map of Japan" },
+  "kompas": { "replacement": "🧭", "description": "compass" },
+  "horský sneh": { "replacement": "🏔️", "description": "snow-capped mountain" },
+  "vrch": { "replacement": "⛰️", "description": "mountain" },
+  "sopka": { "replacement": "🌋", "description": "volcano" },
+  "Mount Fuji": { "replacement": "🗻", "description": "mount fuji" },
+  "kempovanie": { "replacement": "🏕️", "description": "camping" },
+  "plážový dáždnik": {
+    "replacement": "🏖️",
+    "description": "beach with umbrella"
+  },
+  "púšť": { "replacement": "🏜️", "description": "desert" },
+  "pustý ostrov": { "replacement": "🏝️", "description": "desert island" },
+  "národný park": { "replacement": "🏞️", "description": "national park" },
+  "štadión": { "replacement": "🏟️", "description": "stadium" },
+  "klasická budova": {
+    "replacement": "🏛️",
+    "description": "classical building"
+  },
+  "stavebná konštrukcia": {
+    "replacement": "🏗️",
+    "description": "building construction"
+  },
+  "tehly": { "replacement": "🧱", "description": "brick" },
+  "skala": { "replacement": "🪨", "description": "rock" },
+  "drevo": { "replacement": "🪵", "description": "wood" },
+  "chata": { "replacement": "🛖", "description": "hut" },
+  "domy": { "replacement": "🏘️", "description": "houses" },
+  "opustený dom": { "replacement": "🏚️", "description": "derelict house" },
+  "dom": { "replacement": "🏠", "description": "house" },
+  "dom so záhradou": {
+    "replacement": "🏡",
+    "description": "house with garden"
+  },
+  "kancelária": { "replacement": "🏢", "description": "office building" },
+  "pošta": { "replacement": "🏣", "description": "Japanese post office" },
+  "európska pošta": { "replacement": "🏤", "description": "post office" },
+  "nemocnica": { "replacement": "🏥", "description": "hospital" },
+  "breh": { "replacement": "🏦", "description": "bank" },
+  "hotel": { "replacement": "🏨", "description": "hotel" },
+  "milostný hotel": { "replacement": "🏩", "description": "love hotel" },
+  "samoobsluha": { "replacement": "🏪", "description": "convenience store" },
+  "škola": { "replacement": "🏫", "description": "school" },
+  "obchodný dom": { "replacement": "🏬", "description": "department store" },
+  "továreň": { "replacement": "🏭", "description": "factory" },
+  "japonský hrad": { "replacement": "🏯", "description": "Japanese castle" },
+  "európsky hrad": { "replacement": "🏰", "description": "castle" },
+  "svadba": { "replacement": "💒", "description": "wedding" },
+  "tokyo tower": { "replacement": "🗼", "description": "Tokyo tower" },
+  "socha slobody": { "replacement": "🗽", "description": "Statue of Liberty" },
+  "kostol": { "replacement": "⛪", "description": "church" },
+  "mešita": { "replacement": "🕌", "description": "mosque" },
+  "hinduistický chrám": { "replacement": "🛕", "description": "hindu temple" },
+  "synagóga": { "replacement": "🕍", "description": "synagogue" },
+  "šintoistická svätyňa": {
+    "replacement": "⛩️",
+    "description": "shinto shrine"
+  },
+  "kaaba": { "replacement": "🕋", "description": "kaaba" },
+  "fontána": { "replacement": "⛲", "description": "fountain" },
+  "stan": { "replacement": "⛺", "description": "tent" },
+  "hmlistý": { "replacement": "🌁", "description": "foggy" },
+  "noc s hviezdami": { "replacement": "🌃", "description": "night with stars" },
+  "panoráma mesta": { "replacement": "🏙️", "description": "cityscape" },
+  "východ slnka nad horami": {
+    "replacement": "🌄",
+    "description": "sunrise over mountains"
+  },
+  "svitanie": { "replacement": "🌅", "description": "sunrise" },
+  "mestský západ slnka": {
+    "replacement": "🌆",
+    "description": "cityscape at dusk"
+  },
+  "mestský východ slnka": { "replacement": "🌇", "description": "sunset" },
+  "most v noci": { "replacement": "🌉", "description": "bridge at night" },
+  "horúce pramene": { "replacement": "♨️", "description": "hot springs" },
+  "kolotočový kôň": { "replacement": "🎠", "description": "carousel horse" },
+  "Ruské koleso": { "replacement": "🎡", "description": "ferris wheel" },
+  "Horská dráha": { "replacement": "🎢", "description": "roller coaster" },
+  "holič": { "replacement": "💈", "description": "barber pole" },
+  "cirkusový stan": { "replacement": "🎪", "description": "circus tent" },
+  "parná lokomotíva": { "replacement": "🚂", "description": "locomotive" },
+  "železničný vozeň": { "replacement": "🚃", "description": "railway car" },
+  "strana s bullettrainom": {
+    "replacement": "🚄",
+    "description": "high-speed train"
+  },
+  "bullettrain predné": { "replacement": "🚅", "description": "bullet train" },
+  "vlak2": { "replacement": "🚆", "description": "train" },
+  "metro": { "replacement": "🚇", "description": "metro" },
+  "ľahká priečka": { "replacement": "🚈", "description": "light rail" },
+  "stanica": { "replacement": "🚉", "description": "station" },
+  "električka": { "replacement": "🚊", "description": "tram" },
+  "jednokoľajka": { "replacement": "🚝", "description": "monorail" },
+  "horská železnica": {
+    "replacement": "🚞",
+    "description": "mountain railway"
+  },
+  "vlak": { "replacement": "🚋", "description": "tram car" },
+  "autobus": { "replacement": "🚌", "description": "bus" },
+  "prichádzajúci autobus": {
+    "replacement": "🚍",
+    "description": "oncoming bus"
+  },
+  "trolejbus": { "replacement": "🚎", "description": "trolleybus" },
+  "mikrobus": { "replacement": "🚐", "description": "minibus" },
+  "sanitka": { "replacement": "🚑", "description": "ambulance" },
+  "hasičské auto": { "replacement": "🚒", "description": "fire engine" },
+  "policajné auto": { "replacement": "🚓", "description": "police car" },
+  "protiidúce policajné auto": {
+    "replacement": "🚔",
+    "description": "oncoming police car"
+  },
+  "taxík": { "replacement": "🚕", "description": "taxi" },
+  "prichádzajúci taxík": {
+    "replacement": "🚖",
+    "description": "oncoming taxi"
+  },
+  "auto": { "replacement": "🚗", "description": "automobile" },
+  "prichádzajúci automobil": {
+    "replacement": "🚘",
+    "description": "oncoming automobile"
+  },
+  "modré auto": { "replacement": "🚙", "description": "sport utility vehicle" },
+  "pickup": { "replacement": "🛻", "description": "pickup truck" },
+  "nákladné auto": { "replacement": "🚚", "description": "delivery truck" },
+  "kĺbové nákladné auto": {
+    "replacement": "🚛",
+    "description": "articulated lorry"
+  },
+  "traktor": { "replacement": "🚜", "description": "tractor" },
+  "závodné auto": { "replacement": "🏎️", "description": "racing car" },
+  "motocykel": { "replacement": "🏍️", "description": "motorcycle" },
+  "skúter": { "replacement": "🛵", "description": "motor scooter" },
+  "manuálny vozík": { "replacement": "🦽", "description": "manual wheelchair" },
+  "motorový vozík": {
+    "replacement": "🦼",
+    "description": "motorized wheelchair"
+  },
+  "automatická rikša": { "replacement": "🛺", "description": "auto rickshaw" },
+  "bicykel": { "replacement": "🚲", "description": "bicycle" },
+  "kolobežka": { "replacement": "🛴", "description": "kick scooter" },
+  "skateboard": { "replacement": "🛹", "description": "skateboard" },
+  "kolieskové korčule": { "replacement": "🛼", "description": "roller skate" },
+  "autobusová zastávka": { "replacement": "🚏", "description": "bus stop" },
+  "diaľnica": { "replacement": "🛣️", "description": "motorway" },
+  "Železničná trať": { "replacement": "🛤️", "description": "railway track" },
+  "olejový bubon": { "replacement": "🛢️", "description": "oil drum" },
+  "palivové čerpadlo": { "replacement": "⛽", "description": "fuel pump" },
+  "rotujúce svetlo": { "replacement": "🚨", "description": "police car light" },
+  "semafor": { "replacement": "🚥", "description": "horizontal traffic light" },
+  "zvislý semafor": {
+    "replacement": "🚦",
+    "description": "vertical traffic light"
+  },
+  "Stopka": { "replacement": "🛑", "description": "stop sign" },
+  "konštrukcia": { "replacement": "🚧", "description": "construction" },
+  "Kotva": { "replacement": "⚓", "description": "anchor" },
+  "čln": { "replacement": "⛵", "description": "sailboat" },
+  "kanoe": { "replacement": "🛶", "description": "canoe" },
+  "rýchla loď": { "replacement": "🚤", "description": "speedboat" },
+  "osobná loď": { "replacement": "🛳️", "description": "passenger ship" },
+  "trajekt": { "replacement": "⛴️", "description": "ferry" },
+  "motorový čln": { "replacement": "🛥️", "description": "motor boat" },
+  "loď": { "replacement": "🚢", "description": "ship" },
+  "lietadlo": { "replacement": "✈️", "description": "airplane" },
+  "malé lietadlo": { "replacement": "🛩️", "description": "small airplane" },
+  "odlet letu": { "replacement": "🛫", "description": "airplane departure" },
+  "prílet letu": { "replacement": "🛬", "description": "airplane arrival" },
+  "padák": { "replacement": "🪂", "description": "parachute" },
+  "sedadlo": { "replacement": "💺", "description": "seat" },
+  "vrtuľník": { "replacement": "🚁", "description": "helicopter" },
+  "visutá železnica": {
+    "replacement": "🚟",
+    "description": "suspension railway"
+  },
+  "horská lanovka": { "replacement": "🚠", "description": "mountain cableway" },
+  "lanovka": { "replacement": "🚡", "description": "aerial tramway" },
+  "umelý satelit": { "replacement": "🛰️", "description": "satellite" },
+  "raketa": { "replacement": "🚀", "description": "rocket" },
+  "lietajúci tanier": { "replacement": "🛸", "description": "flying saucer" },
+  "zvonársky zvon": { "replacement": "🛎️", "description": "bellhop bell" },
+  "batožina": { "replacement": "🧳", "description": "luggage" },
+  "presýpacie hodiny": { "replacement": "⌛", "description": "hourglass done" },
+  "presýpacie hodiny tečúci piesok": {
+    "replacement": "⏳",
+    "description": "hourglass not done"
+  },
+  "sledovať": { "replacement": "⌚", "description": "watch" },
+  "budík": { "replacement": "⏰", "description": "alarm clock" },
+  "stopky": { "replacement": "⏱️", "description": "stopwatch" },
+  "časovač hodiny": { "replacement": "⏲️", "description": "timer clock" },
+  "krbové hodiny": { "replacement": "🕰️", "description": "mantelpiece clock" },
+  "hodiny12": { "replacement": "🕛", "description": "twelve o’clock" },
+  "hodiny1230": { "replacement": "🕧", "description": "twelve-thirty" },
+  "hodiny1": { "replacement": "🕐", "description": "one o’clock" },
+  "hodiny130": { "replacement": "🕜", "description": "one-thirty" },
+  "hodiny2": { "replacement": "🕑", "description": "two o’clock" },
+  "hodiny230": { "replacement": "🕝", "description": "two-thirty" },
+  "hodiny3": { "replacement": "🕒", "description": "three o’clock" },
+  "hodiny330": { "replacement": "🕞", "description": "three-thirty" },
+  "hodiny4": { "replacement": "🕓", "description": "four o’clock" },
+  "hodiny430": { "replacement": "🕟", "description": "four-thirty" },
+  "hodiny5": { "replacement": "🕔", "description": "five o’clock" },
+  "hodiny530": { "replacement": "🕠", "description": "five-thirty" },
+  "hodiny6": { "replacement": "🕕", "description": "six o’clock" },
+  "hodiny630": { "replacement": "🕡", "description": "six-thirty" },
+  "hodiny7": { "replacement": "🕖", "description": "seven o’clock" },
+  "hodiny730": { "replacement": "🕢", "description": "seven-thirty" },
+  "hodiny8": { "replacement": "🕗", "description": "eight o’clock" },
+  "hodiny 830": { "replacement": "🕣", "description": "eight-thirty" },
+  "hodiny9": { "replacement": "🕘", "description": "nine o’clock" },
+  "hodiny930": { "replacement": "🕤", "description": "nine-thirty" },
+  "hodiny10": { "replacement": "🕙", "description": "ten o’clock" },
+  "hodiny1030": { "replacement": "🕥", "description": "ten-thirty" },
+  "hodiny11": { "replacement": "🕚", "description": "eleven o’clock" },
+  "hodiny1130": { "replacement": "🕦", "description": "eleven-thirty" },
+  "nový mesiac": { "replacement": "🌑", "description": "new moon" },
+  "dorastajúci polmesiac": {
+    "replacement": "🌒",
+    "description": "waxing crescent moon"
+  },
+  "prvá štvrtina mesiaca": {
+    "replacement": "🌓",
+    "description": "first quarter moon"
+  },
+  "mesiac": { "replacement": "🌔", "description": "waxing gibbous moon" },
+  "spln": { "replacement": "🌕", "description": "full moon" },
+  "ubúdajúci Mesiac": {
+    "replacement": "🌖",
+    "description": "waning gibbous moon"
+  },
+  "posledný štvrťrok": {
+    "replacement": "🌗",
+    "description": "last quarter moon"
+  },
+  "ubúdajúci polmesiac": {
+    "replacement": "🌘",
+    "description": "waning crescent moon"
+  },
+  "polmesiac": { "replacement": "🌙", "description": "crescent moon" },
+  "nový mesiac s tvárou": {
+    "replacement": "🌚",
+    "description": "new moon face"
+  },
+  "prvý štvrťrok s tvárou": {
+    "replacement": "🌛",
+    "description": "first quarter moon face"
+  },
+  "posledný štvrťrok s tvárou": {
+    "replacement": "🌜",
+    "description": "last quarter moon face"
+  },
+  "teplomer": { "replacement": "🌡️", "description": "thermometer" },
+  "slnečno": { "replacement": "☀️", "description": "sun" },
+  "spln s tvárou": { "replacement": "🌝", "description": "full moon face" },
+  "slnko s tvárou": { "replacement": "🌞", "description": "sun with face" },
+  "prstencová planéta": { "replacement": "🪐", "description": "ringed planet" },
+  "hviezda": { "replacement": "⭐", "description": "star" },
+  "star2": { "replacement": "🌟", "description": "glowing star" },
+  "hviezd": { "replacement": "🌠", "description": "shooting star" },
+  "mliečna dráha": { "replacement": "🌌", "description": "milky way" },
+  "oblak": { "replacement": "☁️", "description": "cloud" },
+  "čiastočne slnečno": {
+    "replacement": "⛅",
+    "description": "sun behind cloud"
+  },
+  "oblak s bleskami a dažďom": {
+    "replacement": "⛈️",
+    "description": "cloud with lightning and rain"
+  },
+  "slnko za malým mrakom": {
+    "replacement": "🌤️",
+    "description": "sun behind small cloud"
+  },
+  "slnko za veľkým mrakom": {
+    "replacement": "🌥️",
+    "description": "sun behind large cloud"
+  },
+  "slnko za dažďovým mrakom": {
+    "replacement": "🌦️",
+    "description": "sun behind rain cloud"
+  },
+  "oblak s dažďom": { "replacement": "🌧️", "description": "cloud with rain" },
+  "oblak so snehom": { "replacement": "🌨️", "description": "cloud with snow" },
+  "oblak s bleskom": {
+    "replacement": "🌩️",
+    "description": "cloud with lightning"
+  },
+  "tornádo": { "replacement": "🌪️", "description": "tornado" },
+  "hmla": { "replacement": "🌫️", "description": "fog" },
+  "veterná tvár": { "replacement": "🌬️", "description": "wind face" },
+  "cyklón": { "replacement": "🌀", "description": "cyclone" },
+  "dúha": { "replacement": "🌈", "description": "rainbow" },
+  "uzavretý dáždnik": { "replacement": "🌂", "description": "closed umbrella" },
+  "otvorený dáždnik": { "replacement": "☂️", "description": "umbrella" },
+  "dáždnik": { "replacement": "☔", "description": "umbrella with rain drops" },
+  "slnečník na zemi": {
+    "replacement": "⛱️",
+    "description": "umbrella on ground"
+  },
+  "zap": { "replacement": "⚡", "description": "high voltage" },
+  "snehová vločka": { "replacement": "❄️", "description": "snowflake" },
+  "snehuliak so snehom": { "replacement": "☃️", "description": "snowman" },
+  "snehuliak": { "replacement": "⛄", "description": "snowman without snow" },
+  "kométa": { "replacement": "☄️", "description": "comet" },
+  "oheň": { "replacement": "🔥", "description": "fire" },
+  "kvapôčka": { "replacement": "💧", "description": "droplet" },
+  "oceán": { "replacement": "🌊", "description": "water wave" },
+  "jack o lucerna": { "replacement": "🎃", "description": "jack-o-lantern" },
+  "vianočný stromček": { "replacement": "🎄", "description": "Christmas tree" },
+  "ohňostroj": { "replacement": "🎆", "description": "fireworks" },
+  "prskavka": { "replacement": "🎇", "description": "sparkler" },
+  "petarda": { "replacement": "🧨", "description": "firecracker" },
+  "iskrí": { "replacement": "✨", "description": "sparkles" },
+  "balón": { "replacement": "🎈", "description": "balloon" },
+  "tada": { "replacement": "🎉", "description": "party popper" },
+  "konfetová guľa": { "replacement": "🎊", "description": "confetti ball" },
+  "strom tanabata": { "replacement": "🎋", "description": "tanabata tree" },
+  "bambus": { "replacement": "🎍", "description": "pine decoration" },
+  "bábiky": { "replacement": "🎎", "description": "Japanese dolls" },
+  "vlajky": { "replacement": "🎏", "description": "carp streamer" },
+  "zvonkohra": { "replacement": "🎐", "description": "wind chime" },
+  "ryžová scéna": {
+    "replacement": "🎑",
+    "description": "moon viewing ceremony"
+  },
+  "červená obálka": { "replacement": "🧧", "description": "red envelope" },
+  "stuha": { "replacement": "🎀", "description": "ribbon" },
+  "darček": { "replacement": "🎁", "description": "wrapped gift" },
+  "pripomienková stuha": {
+    "replacement": "🎗️",
+    "description": "reminder ribbon"
+  },
+  "letenky": { "replacement": "🎟️", "description": "admission tickets" },
+  "lístok": { "replacement": "🎫", "description": "ticket" },
+  "medaila vojenská": { "replacement": "🎖️", "description": "military medal" },
+  "trofej": { "replacement": "🏆", "description": "trophy" },
+  "medailové športy": { "replacement": "🏅", "description": "sports medal" },
+  "1. miesto medaila": {
+    "replacement": "🥇",
+    "description": "1st place medal"
+  },
+  "Medaila za 2. miesto": {
+    "replacement": "🥈",
+    "description": "2nd place medal"
+  },
+  "Medaila 3. miesto": {
+    "replacement": "🥉",
+    "description": "3rd place medal"
+  },
+  "futbal": { "replacement": "🏈", "description": "american football" },
+  "bejzbal": { "replacement": "⚾", "description": "baseball" },
+  "softball": { "replacement": "🥎", "description": "softball" },
+  "basketbal": { "replacement": "🏀", "description": "basketball" },
+  "volejbal": { "replacement": "🏐", "description": "volleyball" },
+  "rugbyový futbal": { "replacement": "🏉", "description": "rugby football" },
+  "tenis": { "replacement": "🎾", "description": "tennis" },
+  "lietajúci disk": { "replacement": "🥏", "description": "flying disc" },
+  "bowling": { "replacement": "🎳", "description": "bowling" },
+  "kriketová hra": { "replacement": "🏏", "description": "cricket game" },
+  "pozemný hokej": { "replacement": "🏑", "description": "field hockey" },
+  "ľadový hokej": { "replacement": "🏒", "description": "ice hockey" },
+  "lakros": { "replacement": "🥍", "description": "lacrosse" },
+  "stolný tenis": { "replacement": "🏓", "description": "ping pong" },
+  "bedminton": { "replacement": "🏸", "description": "badminton" },
+  "boxerské rukavice": { "replacement": "🥊", "description": "boxing glove" },
+  "uniforma bojových umení": {
+    "replacement": "🥋",
+    "description": "martial arts uniform"
+  },
+  "bránková sieť": { "replacement": "🥅", "description": "goal net" },
+  "korčuľa": { "replacement": "⛸️", "description": "ice skate" },
+  "udica a ryby": { "replacement": "🎣", "description": "fishing pole" },
+  "potápačská maska": { "replacement": "🤿", "description": "diving mask" },
+  "bežecké tričko s vlečkou": {
+    "replacement": "🎽",
+    "description": "running shirt"
+  },
+  "lyžovať": { "replacement": "🎿", "description": "skis" },
+  "sane": { "replacement": "🛷", "description": "sled" },
+  "curlingový kameň": { "replacement": "🥌", "description": "curling stone" },
+  "šípka": { "replacement": "🎯", "description": "direct hit" },
+  "jo jo": { "replacement": "🪀", "description": "yo-yo" },
+  "šarkana": { "replacement": "🪁", "description": "kite" },
+  "8ball": { "replacement": "🎱", "description": "pool 8 ball" },
+  "kryštaľová lopta": { "replacement": "🔮", "description": "crystal ball" },
+  "Kúzelná palička": { "replacement": "🪄", "description": "magic wand" },
+  "amulet nazar": { "replacement": "🧿", "description": "nazar amulet" },
+  "videohra": { "replacement": "🎮", "description": "video game" },
+  "joystick": { "replacement": "🕹️", "description": "joystick" },
+  "automat": { "replacement": "🎰", "description": "slot machine" },
+  "hra zomrieť": { "replacement": "🎲", "description": "game die" },
+  "skladačka": { "replacement": "🧩", "description": "puzzle piece" },
+  "plyšový macko": { "replacement": "🧸", "description": "teddy bear" },
+  "pinata": { "replacement": "🪅", "description": "piñata" },
+  "hniezdiace bábiky": { "replacement": "🪆", "description": "nesting dolls" },
+  "piky": { "replacement": "♠️", "description": "spade suit" },
+  "srdiečka": { "replacement": "♥️", "description": "heart suit" },
+  "diamanty": { "replacement": "♦️", "description": "diamond suit" },
+  "kluby": { "replacement": "♣️", "description": "club suit" },
+  "šachový pešiak": { "replacement": "♟️", "description": "chess pawn" },
+  "čierny žolík": { "replacement": "🃏", "description": "joker" },
+  "mahjong": { "replacement": "🀄", "description": "mahjong red dragon" },
+  "kvetinové hracie karty": {
+    "replacement": "🎴",
+    "description": "flower playing cards"
+  },
+  "múzických umení": { "replacement": "🎭", "description": "performing arts" },
+  "zarámovaný obrázok": {
+    "replacement": "🖼️",
+    "description": "framed picture"
+  },
+  "čl": { "replacement": "🎨", "description": "artist palette" },
+  "závit": { "replacement": "🧵", "description": "thread" },
+  "ihla na šitie": { "replacement": "🪡", "description": "sewing needle" },
+  "priadza": { "replacement": "🧶", "description": "yarn" },
+  "uzol": { "replacement": "🪢", "description": "knot" },
+  "okuliare": { "replacement": "🥽", "description": "goggles" },
+  "tmavé slnečné okuliare": {
+    "replacement": "🕶️",
+    "description": "sunglasses"
+  },
+  "laboratórny plášť": { "replacement": "🥼", "description": "lab coat" },
+  "bezpečnostná vesta": { "replacement": "🦺", "description": "safety vest" },
+  "kravata": { "replacement": "👔", "description": "necktie" },
+  "tričko": { "replacement": "👕", "description": "t-shirt" },
+  "rifle": { "replacement": "👖", "description": "jeans" },
+  "šál": { "replacement": "🧣", "description": "scarf" },
+  "rukavice": { "replacement": "🧤", "description": "gloves" },
+  "kabát": { "replacement": "🧥", "description": "coat" },
+  "ponožky": { "replacement": "🧦", "description": "socks" },
+  "šaty": { "replacement": "👗", "description": "dress" },
+  "kimono": { "replacement": "👘", "description": "kimono" },
+  "sari": { "replacement": "🥻", "description": "sari" },
+  "jednodielne plavky": {
+    "replacement": "🩱",
+    "description": "one-piece swimsuit"
+  },
+  "plávať krátko": { "replacement": "🩲", "description": "briefs" },
+  "kraťasy": { "replacement": "🩳", "description": "shorts" },
+  "bikiny": { "replacement": "👙", "description": "bikini" },
+  "dámske oblečenie": { "replacement": "👚", "description": "woman’s clothes" },
+  "kabelka": { "replacement": "👜", "description": "handbag" },
+  "vrecko": { "replacement": "👝", "description": "clutch bag" },
+  "nakupovanie": { "replacement": "🛍️", "description": "shopping bags" },
+  "školská taška": { "replacement": "🎒", "description": "backpack" },
+  "remienkové sandále": { "replacement": "🩴", "description": "thong sandal" },
+  "pánska topánka": { "replacement": "👞", "description": "man’s shoe" },
+  "atletická obuv": { "replacement": "👟", "description": "running shoe" },
+  "turistická obuv": { "replacement": "🥾", "description": "hiking boot" },
+  "plochá topánka": { "replacement": "🥿", "description": "flat shoe" },
+  "vysoký podpätok": { "replacement": "👠", "description": "high-heeled shoe" },
+  "sandále": { "replacement": "👡", "description": "woman’s sandal" },
+  "baletné topánky": { "replacement": "🩰", "description": "ballet shoes" },
+  "topánka": { "replacement": "👢", "description": "woman’s boot" },
+  "koruna": { "replacement": "👑", "description": "crown" },
+  "ženská čiapka": { "replacement": "👒", "description": "woman’s hat" },
+  "tophat": { "replacement": "🎩", "description": "top hat" },
+  "maltová doska": { "replacement": "🎓", "description": "graduation cap" },
+  "účtovaný uzáver": { "replacement": "🧢", "description": "billed cap" },
+  "vojenská prilba": { "replacement": "🪖", "description": "military helmet" },
+  "prilba záchranára": {
+    "replacement": "⛑️",
+    "description": "rescue worker’s helmet"
+  },
+  "modlitebné korálky": { "replacement": "📿", "description": "prayer beads" },
+  "rúž": { "replacement": "💄", "description": "lipstick" },
+  "krúžok": { "replacement": "💍", "description": "ring" },
+  "klenot": { "replacement": "💎", "description": "gem stone" },
+  "stíšiť": { "replacement": "🔇", "description": "muted speaker" },
+  "rečník": { "replacement": "🔈", "description": "speaker low volume" },
+  "zvuk": { "replacement": "🔉", "description": "speaker medium volume" },
+  "hlasný zvuk": { "replacement": "🔊", "description": "speaker high volume" },
+  "reproduktor": { "replacement": "📢", "description": "loudspeaker" },
+  "mega": { "replacement": "📣", "description": "megaphone" },
+  "poštový roh": { "replacement": "📯", "description": "postal horn" },
+  "zvonček": { "replacement": "🔔", "description": "bell" },
+  "žiadny zvon": { "replacement": "🔕", "description": "bell with slash" },
+  "hudobné skóre": { "replacement": "🎼", "description": "musical score" },
+  "hudobná nota": { "replacement": "🎵", "description": "musical note" },
+  "poznámky": { "replacement": "🎶", "description": "musical notes" },
+  "štúdiový mikrofón": {
+    "replacement": "🎙️",
+    "description": "studio microphone"
+  },
+  "jazdec úrovne": { "replacement": "🎚️", "description": "level slider" },
+  "ovládacie gombíky": { "replacement": "🎛️", "description": "control knobs" },
+  "mikrofón": { "replacement": "🎤", "description": "microphone" },
+  "slúchadlá": { "replacement": "🎧", "description": "headphone" },
+  "rádio": { "replacement": "📻", "description": "radio" },
+  "saxofón": { "replacement": "🎷", "description": "saxophone" },
+  "harmonika": { "replacement": "🪗", "description": "accordion" },
+  "gitara": { "replacement": "🎸", "description": "guitar" },
+  "hudobná klávesnica": {
+    "replacement": "🎹",
+    "description": "musical keyboard"
+  },
+  "trúbka": { "replacement": "🎺", "description": "trumpet" },
+  "husle": { "replacement": "🎻", "description": "violin" },
+  "banjo": { "replacement": "🪕", "description": "banjo" },
+  "bubon": { "replacement": "🥁", "description": "drum" },
+  "dlhý bubon": { "replacement": "🪘", "description": "long drum" },
+  "iphone": { "replacement": "📱", "description": "mobile phone" },
+  "volanie": { "replacement": "📲", "description": "mobile phone with arrow" },
+  "telefón": { "replacement": "☎️", "description": "telephone" },
+  "telefónny prijímač": {
+    "replacement": "📞",
+    "description": "telephone receiver"
+  },
+  "pager": { "replacement": "📟", "description": "pager" },
+  "faxom": { "replacement": "📠", "description": "fax machine" },
+  "batéria": { "replacement": "🔋", "description": "battery" },
+  "elektrická zástrčka": {
+    "replacement": "🔌",
+    "description": "electric plug"
+  },
+  "počítač": { "replacement": "💻", "description": "laptop" },
+  "stolný počítač": { "replacement": "🖥️", "description": "desktop computer" },
+  "tlačiareň": { "replacement": "🖨️", "description": "printer" },
+  "klávesnica": { "replacement": "⌨️", "description": "keyboard" },
+  "počítačová myš": { "replacement": "🖱️", "description": "computer mouse" },
+  "trackball": { "replacement": "🖲️", "description": "trackball" },
+  "minidisk": { "replacement": "💽", "description": "computer disk" },
+  "disketa": { "replacement": "💾", "description": "floppy disk" },
+  "cd": { "replacement": "💿", "description": "optical disk" },
+  "dvd": { "replacement": "📀", "description": "dvd" },
+  "počítadlo": { "replacement": "🧮", "description": "abacus" },
+  "filmová kamera": { "replacement": "🎥", "description": "movie camera" },
+  "filmový pás": { "replacement": "🎞️", "description": "film frames" },
+  "filmový projektor": { "replacement": "📽️", "description": "film projector" },
+  "klapka": { "replacement": "🎬", "description": "clapper board" },
+  "tv": { "replacement": "📺", "description": "television" },
+  "fotoaparát": { "replacement": "📷", "description": "camera" },
+  "blesk fotoaparátu": {
+    "replacement": "📸",
+    "description": "camera with flash"
+  },
+  "kamera": { "replacement": "📹", "description": "video camera" },
+  "vhs": { "replacement": "📼", "description": "videocassette" },
+  "mag": { "replacement": "🔍", "description": "magnifying glass tilted left" },
+  "správne": {
+    "replacement": "🔎",
+    "description": "magnifying glass tilted right"
+  },
+  "sviečka": { "replacement": "🕯️", "description": "candle" },
+  "žiarovka": { "replacement": "💡", "description": "light bulb" },
+  "baterka": { "replacement": "🔦", "description": "flashlight" },
+  "izakaya lucerna": {
+    "replacement": "🏮",
+    "description": "red paper lantern"
+  },
+  "lampa diya": { "replacement": "🪔", "description": "diya lamp" },
+  "zápisník s ozdobným obalom": {
+    "replacement": "📔",
+    "description": "notebook with decorative cover"
+  },
+  "uzavretá kniha": { "replacement": "📕", "description": "closed book" },
+  "kniha": { "replacement": "📖", "description": "open book" },
+  "zelená kniha": { "replacement": "📗", "description": "green book" },
+  "modrá kniha": { "replacement": "📘", "description": "blue book" },
+  "oranžová kniha": { "replacement": "📙", "description": "orange book" },
+  "kníh": { "replacement": "📚", "description": "books" },
+  "zápisník": { "replacement": "📓", "description": "notebook" },
+  "Hlavná kniha": { "replacement": "📒", "description": "ledger" },
+  "stránka so zvlnením": {
+    "replacement": "📃",
+    "description": "page with curl"
+  },
+  "zvitok": { "replacement": "📜", "description": "scroll" },
+  "strana smerom nahor": {
+    "replacement": "📄",
+    "description": "page facing up"
+  },
+  "noviny": { "replacement": "📰", "description": "newspaper" },
+  "novinový kotúč": {
+    "replacement": "🗞️",
+    "description": "rolled-up newspaper"
+  },
+  "záložky záložiek": { "replacement": "📑", "description": "bookmark tabs" },
+  "záložka": { "replacement": "🔖", "description": "bookmark" },
+  "štítok": { "replacement": "🪧", "description": "placard" },
+  "vrece s peniazmi": { "replacement": "💰", "description": "money bag" },
+  "minca": { "replacement": "🪙", "description": "coin" },
+  "jen": { "replacement": "💴", "description": "yen banknote" },
+  "dolár": { "replacement": "💵", "description": "dollar banknote" },
+  "eur": { "replacement": "💶", "description": "euro banknote" },
+  "libra": { "replacement": "💷", "description": "pound banknote" },
+  "peniaze s krídlami": {
+    "replacement": "💸",
+    "description": "money with wings"
+  },
+  "kreditná karta": { "replacement": "💳", "description": "credit card" },
+  "príjem": { "replacement": "🧾", "description": "receipt" },
+  "graf": { "replacement": "💹", "description": "chart increasing with yen" },
+  "e-mail": { "replacement": "📧", "description": "e-mail" },
+  "došlá obálka": { "replacement": "📨", "description": "incoming envelope" },
+  "obálka so šípkou": {
+    "replacement": "📩",
+    "description": "envelope with arrow"
+  },
+  "zásobník na odoslanie": {
+    "replacement": "📤",
+    "description": "outbox tray"
+  },
+  "schránka doručenej pošty": {
+    "replacement": "📥",
+    "description": "inbox tray"
+  },
+  "balíček": { "replacement": "📦", "description": "package" },
+  "schránka": { "replacement": "📋", "description": "clipboard" },
+  "schránka zatvorená": {
+    "replacement": "📪",
+    "description": "closed mailbox with lowered flag"
+  },
+  "schránka s poštou": {
+    "replacement": "📬",
+    "description": "open mailbox with raised flag"
+  },
+  "poštová schránka bez pošty": {
+    "replacement": "📭",
+    "description": "open mailbox with lowered flag"
+  },
+  "Poštová schránka": { "replacement": "📮", "description": "postbox" },
+  "volebná urna": {
+    "replacement": "🗳️",
+    "description": "ballot box with ballot"
+  },
+  "ceruzka2": { "replacement": "✏️", "description": "pencil" },
+  "čierny hrot": { "replacement": "✒️", "description": "black nib" },
+  "plniace pero": { "replacement": "🖋️", "description": "fountain pen" },
+  "pero": { "replacement": "🖊️", "description": "pen" },
+  "štetec": { "replacement": "🖌️", "description": "paintbrush" },
+  "pastelka": { "replacement": "🖍️", "description": "crayon" },
+  "poznámka": { "replacement": "📝", "description": "memo" },
+  "kufrík": { "replacement": "💼", "description": "briefcase" },
+  "priečinok súborov": { "replacement": "📁", "description": "file folder" },
+  "otvoriť priečinok so súbormi": {
+    "replacement": "📂",
+    "description": "open file folder"
+  },
+  "oddeľovače kartových indexov": {
+    "replacement": "🗂️",
+    "description": "card index dividers"
+  },
+  "dátum": { "replacement": "📅", "description": "calendar" },
+  "kalendár": { "replacement": "📆", "description": "tear-off calendar" },
+  "špirálový poznámkový blok": {
+    "replacement": "🗒️",
+    "description": "spiral notepad"
+  },
+  "špirálovitý kalendár": {
+    "replacement": "🗓️",
+    "description": "spiral calendar"
+  },
+  "kartový index": { "replacement": "📇", "description": "card index" },
+  "graf so vzostupným trendom": {
+    "replacement": "📈",
+    "description": "chart increasing"
+  },
+  "graf s klesajúcim trendom": {
+    "replacement": "📉",
+    "description": "chart decreasing"
+  },
+  "stĺpcový graf": { "replacement": "📊", "description": "bar chart" },
+  "pripináčik": { "replacement": "📌", "description": "pushpin" },
+  "guľatý pripináčik": { "replacement": "📍", "description": "round pushpin" },
+  "sponka na papier": { "replacement": "📎", "description": "paperclip" },
+  "spinky": { "replacement": "🖇️", "description": "linked paperclips" },
+  "rovné pravítko": { "replacement": "📏", "description": "straight ruler" },
+  "trojuholníkové pravítko": {
+    "replacement": "📐",
+    "description": "triangular ruler"
+  },
+  "nožnice": { "replacement": "✂️", "description": "scissors" },
+  "kartotéka": { "replacement": "🗄️", "description": "file cabinet" },
+  "odpadový kôš": { "replacement": "🗑️", "description": "wastebasket" },
+  "zámok": { "replacement": "🔒", "description": "locked" },
+  "odomknúť": { "replacement": "🔓", "description": "unlocked" },
+  "zámok s atramentovým perom": {
+    "replacement": "🔏",
+    "description": "locked with pen"
+  },
+  "uzavretý zámok s kľúčom": {
+    "replacement": "🔐",
+    "description": "locked with key"
+  },
+  "kľúč": { "replacement": "🔧", "description": "wrench" },
+  "starý kľúč": { "replacement": "🗝️", "description": "old key" },
+  "kladivo": { "replacement": "🔨", "description": "hammer" },
+  "sekera": { "replacement": "🪓", "description": "axe" },
+  "vyzdvihnúť": { "replacement": "⛏️", "description": "pick" },
+  "kladivo a vyberať": {
+    "replacement": "⚒️",
+    "description": "hammer and pick"
+  },
+  "kladivo a kľúč": { "replacement": "🛠️", "description": "hammer and wrench" },
+  "dýka": { "replacement": "🗡️", "description": "dagger" },
+  "skrížené meče": { "replacement": "⚔️", "description": "crossed swords" },
+  "pištoľ": { "replacement": "🔫", "description": "pistol" },
+  "bumerang": { "replacement": "🪃", "description": "boomerang" },
+  "luk a šíp": { "replacement": "🏹", "description": "bow and arrow" },
+  "štít": { "replacement": "🛡️", "description": "shield" },
+  "stolárska píla": { "replacement": "🪚", "description": "carpentry saw" },
+  "skrutkovač": { "replacement": "🪛", "description": "screwdriver" },
+  "matica a skrutka": { "replacement": "🔩", "description": "nut and bolt" },
+  "výbava": { "replacement": "⚙️", "description": "gear" },
+  "svorka": { "replacement": "🗜️", "description": "clamp" },
+  "bilančná stupnica": { "replacement": "⚖️", "description": "balance scale" },
+  "sondovacia palica": { "replacement": "🦯", "description": "white cane" },
+  "odkaz": { "replacement": "🔗", "description": "link" },
+  "reťaze": { "replacement": "⛓️", "description": "chains" },
+  "háčik": { "replacement": "🪝", "description": "hook" },
+  "sada nástrojov": { "replacement": "🧰", "description": "toolbox" },
+  "magnet": { "replacement": "🧲", "description": "magnet" },
+  "rebrík": { "replacement": "🪜", "description": "ladder" },
+  "alembický": { "replacement": "⚗️", "description": "alembic" },
+  "skúmavka": { "replacement": "🧪", "description": "test tube" },
+  "Petriho miska": { "replacement": "🧫", "description": "petri dish" },
+  "dna": { "replacement": "🧬", "description": "dna" },
+  "mikroskop": { "replacement": "🔬", "description": "microscope" },
+  "ďalekohľad": { "replacement": "🔭", "description": "telescope" },
+  "satelit": { "replacement": "📡", "description": "satellite antenna" },
+  "striekačka": { "replacement": "💉", "description": "syringe" },
+  "kvapka krvi": { "replacement": "🩸", "description": "drop of blood" },
+  "tabletka": { "replacement": "💊", "description": "pill" },
+  "lepiaci obväz": { "replacement": "🩹", "description": "adhesive bandage" },
+  "fonendoskop": { "replacement": "🩺", "description": "stethoscope" },
+  "dvere": { "replacement": "🚪", "description": "door" },
+  "výťah": { "replacement": "🛗", "description": "elevator" },
+  "zrkadlo": { "replacement": "🪞", "description": "mirror" },
+  "okno": { "replacement": "🪟", "description": "window" },
+  "posteľ": { "replacement": "🛏️", "description": "bed" },
+  "gauč a lampa": { "replacement": "🛋️", "description": "couch and lamp" },
+  "stoličku": { "replacement": "🪑", "description": "chair" },
+  "toaleta, WC": { "replacement": "🚽", "description": "toilet" },
+  "piest": { "replacement": "🪠", "description": "plunger" },
+  "sprcha": { "replacement": "🚿", "description": "shower" },
+  "Vaňa": { "replacement": "🛁", "description": "bathtub" },
+  "pasca na myš": { "replacement": "🪤", "description": "mouse trap" },
+  "žiletka": { "replacement": "🪒", "description": "razor" },
+  "fľaša na krém": { "replacement": "🧴", "description": "lotion bottle" },
+  "zatvárací špendlík": { "replacement": "🧷", "description": "safety pin" },
+  "metla": { "replacement": "🧹", "description": "broom" },
+  "košík": { "replacement": "🧺", "description": "basket" },
+  "rolka papiera": { "replacement": "🧻", "description": "roll of paper" },
+  "vedro": { "replacement": "🪣", "description": "bucket" },
+  "mydlo": { "replacement": "🧼", "description": "soap" },
+  "zubná kefka": { "replacement": "🪥", "description": "toothbrush" },
+  "špongia": { "replacement": "🧽", "description": "sponge" },
+  "hasiaci prístroj": {
+    "replacement": "🧯",
+    "description": "fire extinguisher"
+  },
+  "nákupný vozík": { "replacement": "🛒", "description": "shopping cart" },
+  "fajčenie": { "replacement": "🚬", "description": "cigarette" },
+  "rakva": { "replacement": "⚰️", "description": "coffin" },
+  "základný kameň": { "replacement": "🪦", "description": "headstone" },
+  "pohrebná urna": { "replacement": "⚱️", "description": "funeral urn" },
+  "moyai": { "replacement": "🗿", "description": "moai" },
+  "atm": { "replacement": "🏧", "description": "ATM sign" },
+  "vložte na jeho miesto vrh": {
+    "replacement": "🚮",
+    "description": "litter in bin sign"
+  },
+  "pitná voda": { "replacement": "🚰", "description": "potable water" },
+  "invalidný vozík": {
+    "replacement": "♿",
+    "description": "wheelchair symbol"
+  },
+  "pánske": { "replacement": "🚹", "description": "men’s room" },
+  "dámske": { "replacement": "🚺", "description": "women’s room" },
+  "toaleta": { "replacement": "🚻", "description": "restroom" },
+  "symbol dieťaťa": { "replacement": "🚼", "description": "baby symbol" },
+  "wc": { "replacement": "🚾", "description": "water closet" },
+  "pasová kontrola": { "replacement": "🛂", "description": "passport control" },
+  "zvyky": { "replacement": "🛃", "description": "customs" },
+  "reklamácia batožiny": {
+    "replacement": "🛄",
+    "description": "baggage claim"
+  },
+  "ľavá batožina": { "replacement": "🛅", "description": "left luggage" },
+  "výstraha": { "replacement": "⚠️", "description": "warning" },
+  "deti prechádzajú": {
+    "replacement": "🚸",
+    "description": "children crossing"
+  },
+  "zákaz vstupu": { "replacement": "⛔", "description": "no entry" },
+  "zákaz vjazdu": { "replacement": "🚫", "description": "prohibited" },
+  "žiadne bicykle": { "replacement": "🚳", "description": "no bicycles" },
+  "Nefajčiť": { "replacement": "🚭", "description": "no smoking" },
+  "nerob neporiadok": { "replacement": "🚯", "description": "no littering" },
+  "úžitková voda": { "replacement": "🚱", "description": "non-potable water" },
+  "bez chodcov": { "replacement": "🚷", "description": "no pedestrians" },
+  "žiadne mobilné telefóny": {
+    "replacement": "📵",
+    "description": "no mobile phones"
+  },
+  "neplnoletý": { "replacement": "🔞", "description": "no one under eighteen" },
+  "rádioaktívny": { "replacement": "☢️", "description": "radioactive" },
+  "biologicky nebezpečný": { "replacement": "☣️", "description": "biohazard" },
+  "šípka hore": { "replacement": "⬆️", "description": "up arrow" },
+  "šípka vpravo hore": { "replacement": "↗️", "description": "up-right arrow" },
+  "šípka doprava": { "replacement": "➡️", "description": "right arrow" },
+  "šípka vpravo dole": {
+    "replacement": "↘️",
+    "description": "down-right arrow"
+  },
+  "šípka nadol": { "replacement": "⬇️", "description": "down arrow" },
+  "šípka vľavo dole": { "replacement": "↙️", "description": "down-left arrow" },
+  "šípka doľava": { "replacement": "⬅️", "description": "left arrow" },
+  "šípka vľavo hore": { "replacement": "↖️", "description": "up-left arrow" },
+  "šípka hore dole": { "replacement": "↕️", "description": "up-down arrow" },
+  "šípka doľava doprava": {
+    "replacement": "↔️",
+    "description": "left-right arrow"
+  },
+  "šípka doľava s háčikom": {
+    "replacement": "↩️",
+    "description": "right arrow curving left"
+  },
+  "šípka pravý hák": {
+    "replacement": "↪️",
+    "description": "left arrow curving right"
+  },
+  "šípka smerujúca nahor": {
+    "replacement": "⤴️",
+    "description": "right arrow curving up"
+  },
+  "šípka smerujúca nadol": {
+    "replacement": "⤵️",
+    "description": "right arrow curving down"
+  },
+  "šípky v smere hodinových ručičiek": {
+    "replacement": "🔃",
+    "description": "clockwise vertical arrows"
+  },
+  "šípky proti smeru hodinových ručičiek": {
+    "replacement": "🔄",
+    "description": "counterclockwise arrows button"
+  },
+  "späť": { "replacement": "🔙", "description": "BACK arrow" },
+  "koniec": { "replacement": "🔚", "description": "END arrow" },
+  "na": { "replacement": "🔛", "description": "ON! arrow" },
+  "čoskoro": { "replacement": "🔜", "description": "SOON arrow" },
+  "hore": { "replacement": "🆙", "description": "UP! button" },
+  "miesto uctievania": {
+    "replacement": "🛐",
+    "description": "place of worship"
+  },
+  "symbol atómu": { "replacement": "⚛️", "description": "atom symbol" },
+  "om": { "replacement": "🕉️", "description": "om" },
+  "Dávidova hviezda": { "replacement": "✡️", "description": "star of David" },
+  "koleso dharmy": { "replacement": "☸️", "description": "wheel of dharma" },
+  "Yin Yang": { "replacement": "☯️", "description": "yin yang" },
+  "latinský kríž": { "replacement": "✝️", "description": "latin cross" },
+  "pravoslávny kríž": { "replacement": "☦️", "description": "orthodox cross" },
+  "hviezda a polmesiac": {
+    "replacement": "☪️",
+    "description": "star and crescent"
+  },
+  "symbol mieru": { "replacement": "☮️", "description": "peace symbol" },
+  "menora": { "replacement": "🕎", "description": "menorah" },
+  "šesťcípa hviezda": {
+    "replacement": "🔯",
+    "description": "dotted six-pointed star"
+  },
+  "Baran": { "replacement": "♈", "description": "Aries" },
+  "Býk": { "replacement": "♉", "description": "Taurus" },
+  "blíženci": { "replacement": "♊", "description": "Gemini" },
+  "rakovina": { "replacement": "♋", "description": "Cancer" },
+  "leo": { "replacement": "♌", "description": "Leo" },
+  "panna": { "replacement": "♍", "description": "Virgo" },
+  "váhy": { "replacement": "♎", "description": "Libra" },
+  "scorpius": { "replacement": "♏", "description": "Scorpio" },
+  "strelec": { "replacement": "♐", "description": "Sagittarius" },
+  "kozorožec": { "replacement": "♑", "description": "Capricorn" },
+  "vodnár": { "replacement": "♒", "description": "Aquarius" },
+  "ophiuchus": { "replacement": "⛎", "description": "Ophiuchus" },
+  "krútené šípky doprava": {
+    "replacement": "🔀",
+    "description": "shuffle tracks button"
+  },
+  "opakovať": { "replacement": "🔁", "description": "repeat button" },
+  "jeden opakuj": {
+    "replacement": "🔂",
+    "description": "repeat single button"
+  },
+  "šípka dopredu": { "replacement": "▶️", "description": "play button" },
+  "rýchlo vpred": { "replacement": "⏩", "description": "fast-forward button" },
+  "tlačidlo nasledujúcej stopy": {
+    "replacement": "⏭️",
+    "description": "next track button"
+  },
+  "tlačidlo prehrávania alebo pozastavenia": {
+    "replacement": "⏯️",
+    "description": "play or pause button"
+  },
+  "šípka dozadu": { "replacement": "◀️", "description": "reverse button" },
+  "pretočiť späť": {
+    "replacement": "⏪",
+    "description": "fast reverse button"
+  },
+  "tlačidlo predchádzajúcej stopy": {
+    "replacement": "⏮️",
+    "description": "last track button"
+  },
+  "šípka hore malá": { "replacement": "🔼", "description": "upwards button" },
+  "šípka zdvojnásobiť": {
+    "replacement": "⏫",
+    "description": "fast up button"
+  },
+  "šípka dole malá": { "replacement": "🔽", "description": "downwards button" },
+  "šípka dvakrát dole": {
+    "replacement": "⏬",
+    "description": "fast down button"
+  },
+  "tlačidlo pozastaviť": { "replacement": "⏸️", "description": "pause button" },
+  "tlačidlo stop": { "replacement": "⏹️", "description": "stop button" },
+  "tlačidlo nahrávania": {
+    "replacement": "⏺️",
+    "description": "record button"
+  },
+  "tlačidlo vysunutia": { "replacement": "⏏️", "description": "eject button" },
+  "kino": { "replacement": "🎦", "description": "cinema" },
+  "nízky jas": { "replacement": "🔅", "description": "dim button" },
+  "vysoký jas": { "replacement": "🔆", "description": "bright button" },
+  "Sila signálu": { "replacement": "📶", "description": "antenna bars" },
+  "vibračný režim": { "replacement": "📳", "description": "vibration mode" },
+  "mobilný telefón vypnutý": {
+    "replacement": "📴",
+    "description": "mobile phone off"
+  },
+  "ženské znamenie": { "replacement": "♀️", "description": "female sign" },
+  "mužské znamenie": { "replacement": "♂️", "description": "male sign" },
+  "transsexuálny symbol": {
+    "replacement": "⚧️",
+    "description": "transgender symbol"
+  },
+  "ťažké násobenie x": { "replacement": "✖️", "description": "multiply" },
+  "ťažké znamienko plus": { "replacement": "➕", "description": "plus" },
+  "ťažké znamienko mínus": { "replacement": "➖", "description": "minus" },
+  "znak ťažkej divízie": { "replacement": "➗", "description": "divide" },
+  "nekonečno": { "replacement": "♾️", "description": "infinity" },
+  "bangbang": { "replacement": "‼️", "description": "double exclamation mark" },
+  "interrobang": {
+    "replacement": "⁉️",
+    "description": "exclamation question mark"
+  },
+  "otázka": { "replacement": "❓", "description": "question mark" },
+  "šedá otázka": { "replacement": "❔", "description": "white question mark" },
+  "sivý výkričník": {
+    "replacement": "❕",
+    "description": "white exclamation mark"
+  },
+  "výkričník": { "replacement": "❗", "description": "exclamation mark" },
+  "zvlnená čiarka": { "replacement": "〰️", "description": "wavy dash" },
+  "zmenáreň": { "replacement": "💱", "description": "currency exchange" },
+  "ťažký znak dolára": {
+    "replacement": "💲",
+    "description": "heavy dollar sign"
+  },
+  "lekársky symbol": { "replacement": "⚕️", "description": "medical symbol" },
+  "recyklovať": { "replacement": "♻️", "description": "recycling symbol" },
+  "fleur de lis": { "replacement": "⚜️", "description": "fleur-de-lis" },
+  "trojzubec": { "replacement": "🔱", "description": "trident emblem" },
+  "menovka": { "replacement": "📛", "description": "name badge" },
+  "začiatočník": {
+    "replacement": "🔰",
+    "description": "Japanese symbol for beginner"
+  },
+  "o": { "replacement": "⭕", "description": "hollow red circle" },
+  "biela značka začiarknutia": {
+    "replacement": "✅",
+    "description": "check mark button"
+  },
+  "volebná urna so šekom": {
+    "replacement": "☑️",
+    "description": "check box with check"
+  },
+  "ťažké začiarknutie": { "replacement": "✔️", "description": "check mark" },
+  "X": { "replacement": "❌", "description": "cross mark" },
+  "záporná hranatá krížová značka": {
+    "replacement": "❎",
+    "description": "cross mark button"
+  },
+  "kučeravá slučka": { "replacement": "➰", "description": "curly loop" },
+  "slučka": { "replacement": "➿", "description": "double curly loop" },
+  "časť striedavá značka": {
+    "replacement": "〽️",
+    "description": "part alternation mark"
+  },
+  "osemčlenná hviezdička": {
+    "replacement": "✳️",
+    "description": "eight-spoked asterisk"
+  },
+  "osemcípa čierna hviezda": {
+    "replacement": "✴️",
+    "description": "eight-pointed star"
+  },
+  "iskriť": { "replacement": "❇️", "description": "sparkle" },
+  "autorské práva": { "replacement": "©️", "description": "copyright" },
+  "zaregistrovaný": { "replacement": "®️", "description": "registered" },
+  "tm": { "replacement": "™️", "description": "trade mark" },
+  "hash": { "replacement": "#️⃣", "description": "keycap: #" },
+  "hviezdička": { "replacement": "*️⃣", "description": "keycap: *" },
+  "nula": { "replacement": "0️⃣", "description": "keycap: 0" },
+  "jeden": { "replacement": "1️⃣", "description": "keycap: 1" },
+  "dva": { "replacement": "2️⃣", "description": "keycap: 2" },
+  "tri": { "replacement": "3️⃣", "description": "keycap: 3" },
+  "štyri": { "replacement": "4️⃣", "description": "keycap: 4" },
+  "päť": { "replacement": "5️⃣", "description": "keycap: 5" },
+  "undefined": { "replacement": "6️⃣", "description": "keycap: 6" },
+  "sedem": { "replacement": "7️⃣", "description": "keycap: 7" },
+  "osem": { "replacement": "8️⃣", "description": "keycap: 8" },
+  "deväť": { "replacement": "9️⃣", "description": "keycap: 9" },
+  "keycap ten": { "replacement": "🔟", "description": "keycap: 10" },
+  "kapitál abcd": {
+    "replacement": "🔠",
+    "description": "input latin uppercase"
+  },
+  "a B C d": { "replacement": "🔡", "description": "input latin lowercase" },
+  "symboly": { "replacement": "🔣", "description": "input symbols" },
+  "abc": { "replacement": "🔤", "description": "input latin letters" },
+  "a": { "replacement": "🅰️", "description": "A button (blood type)" },
+  "ab": { "replacement": "🆎", "description": "AB button (blood type)" },
+  "b": { "replacement": "🅱️", "description": "B button (blood type)" },
+  "kl": { "replacement": "🆑", "description": "CL button" },
+  "v pohode": { "replacement": "🆒", "description": "COOL button" },
+  "zadarmo": { "replacement": "🆓", "description": "FREE button" },
+  "informačný zdroj": { "replacement": "ℹ️", "description": "information" },
+  "id": { "replacement": "🆔", "description": "ID button" },
+  "m": { "replacement": "Ⓜ️", "description": "circled M" },
+  "Nový": { "replacement": "🆕", "description": "NEW button" },
+  "ng": { "replacement": "🆖", "description": "NG button" },
+  "o2": { "replacement": "🅾️", "description": "O button (blood type)" },
+  "ok": { "replacement": "🆗", "description": "OK button" },
+  "parkovisko": { "replacement": "🅿️", "description": "P button" },
+  "sos": { "replacement": "🆘", "description": "SOS button" },
+  "vs": { "replacement": "🆚", "description": "VS button" },
+  "koko": { "replacement": "🈁", "description": "Japanese “here” button" },
+  "sa": {
+    "replacement": "🈂️",
+    "description": "Japanese “service charge” button"
+  },
+  "u6708": {
+    "replacement": "🈷️",
+    "description": "Japanese “monthly amount” button"
+  },
+  "u6709": {
+    "replacement": "🈶",
+    "description": "Japanese “not free of charge” button"
+  },
+  "u6307": { "replacement": "🈯", "description": "Japanese “reserved” button" },
+  "ideografická výhoda": {
+    "replacement": "🉐",
+    "description": "Japanese “bargain” button"
+  },
+  "u5272": { "replacement": "🈹", "description": "Japanese “discount” button" },
+  "u7121": {
+    "replacement": "🈚",
+    "description": "Japanese “free of charge” button"
+  },
+  "u7981": {
+    "replacement": "🈲",
+    "description": "Japanese “prohibited” button"
+  },
+  "súhlasiť": {
+    "replacement": "🉑",
+    "description": "Japanese “acceptable” button"
+  },
+  "u7533": {
+    "replacement": "🈸",
+    "description": "Japanese “application” button"
+  },
+  "u5408": {
+    "replacement": "🈴",
+    "description": "Japanese “passing grade” button"
+  },
+  "u7a7a": { "replacement": "🈳", "description": "Japanese “vacancy” button" },
+  "gratulujem": {
+    "replacement": "㊗️",
+    "description": "Japanese “congratulations” button"
+  },
+  "tajomstvo": {
+    "replacement": "㊙️",
+    "description": "Japanese “secret” button"
+  },
+  "u55b6": {
+    "replacement": "🈺",
+    "description": "Japanese “open for business” button"
+  },
+  "u6e80": {
+    "replacement": "🈵",
+    "description": "Japanese “no vacancy” button"
+  },
+  "červený kruh": { "replacement": "🔴", "description": "red circle" },
+  "oranžový kruh": { "replacement": "🟠", "description": "orange circle" },
+  "žltý kruh": { "replacement": "🟡", "description": "yellow circle" },
+  "zelený kruh": { "replacement": "🟢", "description": "green circle" },
+  "veľký modrý kruh": { "replacement": "🔵", "description": "blue circle" },
+  "fialový kruh": { "replacement": "🟣", "description": "purple circle" },
+  "hnedý kruh": { "replacement": "🟤", "description": "brown circle" },
+  "čierny kruh": { "replacement": "⚫", "description": "black circle" },
+  "biely kruh": { "replacement": "⚪", "description": "white circle" },
+  "červené námestie": { "replacement": "🟥", "description": "red square" },
+  "oranžový štvorec": { "replacement": "🟧", "description": "orange square" },
+  "žltý štvorec": { "replacement": "🟨", "description": "yellow square" },
+  "zelený štvorec": { "replacement": "🟩", "description": "green square" },
+  "modrý štvorec": { "replacement": "🟦", "description": "blue square" },
+  "fialový štvorec": { "replacement": "🟪", "description": "purple square" },
+  "hnedý štvorec": { "replacement": "🟫", "description": "brown square" },
+  "čierny veľký štvorec": {
+    "replacement": "⬛",
+    "description": "black large square"
+  },
+  "biely veľký štvorec": {
+    "replacement": "⬜",
+    "description": "white large square"
+  },
+  "čierny stredný štvorec": {
+    "replacement": "◼️",
+    "description": "black medium square"
+  },
+  "biely stredný štvorec": {
+    "replacement": "◻️",
+    "description": "white medium square"
+  },
+  "čierny stredný malý štvorec": {
+    "replacement": "◾",
+    "description": "black medium-small square"
+  },
+  "biely stredne malý štvorec": {
+    "replacement": "◽",
+    "description": "white medium-small square"
+  },
+  "čierny malý štvorec": {
+    "replacement": "▪️",
+    "description": "black small square"
+  },
+  "biely malý štvorec": {
+    "replacement": "▫️",
+    "description": "white small square"
+  },
+  "veľký oranžový diamant": {
+    "replacement": "🔶",
+    "description": "large orange diamond"
+  },
+  "veľký modrý diamant": {
+    "replacement": "🔷",
+    "description": "large blue diamond"
+  },
+  "malý oranžový diamant": {
+    "replacement": "🔸",
+    "description": "small orange diamond"
+  },
+  "malý modrý diamant": {
+    "replacement": "🔹",
+    "description": "small blue diamond"
+  },
+  "malý červený trojuholník": {
+    "replacement": "🔺",
+    "description": "red triangle pointed up"
+  },
+  "malý červený trojuholník dole": {
+    "replacement": "🔻",
+    "description": "red triangle pointed down"
+  },
+  "tvar kosoštvorca s bodkou vo vnútri": {
+    "replacement": "💠",
+    "description": "diamond with a dot"
+  },
+  "tlačítko na Rádiu": { "replacement": "🔘", "description": "radio button" },
+  "biele hranaté tlačidlo": {
+    "replacement": "🔳",
+    "description": "white square button"
+  },
+  "čierne hranaté tlačidlo": {
+    "replacement": "🔲",
+    "description": "black square button"
+  },
+  "károvaná vlajka": { "replacement": "🏁", "description": "chequered flag" },
+  "trojuholníková vlajka na stĺpiku": {
+    "replacement": "🚩",
+    "description": "triangular flag"
+  },
+  "skrížené vlajky": { "replacement": "🎌", "description": "crossed flags" },
+  "čierna vlajka": { "replacement": "🏴", "description": "black flag" },
+  "biela vlajka": { "replacement": "🏳️", "description": "white flag" },
+  "dúhová vlajka": { "replacement": "🏳️‍🌈", "description": "rainbow flag" },
+  "transrodová vlajka": {
+    "replacement": "🏳️‍⚧️",
+    "description": "transgender flag"
+  },
+  "pirátska vlajka": { "replacement": "🏴‍☠️", "description": "pirate flag" },
+  "ostrov nanebovstúpenia": {
+    "replacement": "🇦🇨",
+    "description": "flag: Ascension Island"
+  },
+  "andorra": { "replacement": "🇦🇩", "description": "flag: Andorra" },
+  "Spojené Arabské Emiráty": {
+    "replacement": "🇦🇪",
+    "description": "flag: United Arab Emirates"
+  },
+  "afganistan": { "replacement": "🇦🇫", "description": "flag: Afghanistan" },
+  "antigua barbuda": {
+    "replacement": "🇦🇬",
+    "description": "flag: Antigua & Barbuda"
+  },
+  "anguilla": { "replacement": "🇦🇮", "description": "flag: Anguilla" },
+  "albánsko": { "replacement": "🇦🇱", "description": "flag: Albania" },
+  "Arménsko": { "replacement": "🇦🇲", "description": "flag: Armenia" },
+  "angola": { "replacement": "🇦🇴", "description": "flag: Angola" },
+  "Antarktída": { "replacement": "🇦🇶", "description": "flag: Antarctica" },
+  "argentína": { "replacement": "🇦🇷", "description": "flag: Argentina" },
+  "americká samoa": {
+    "replacement": "🇦🇸",
+    "description": "flag: American Samoa"
+  },
+  "rakusko": { "replacement": "🇦🇹", "description": "flag: Austria" },
+  "austrália": { "replacement": "🇦🇺", "description": "flag: Australia" },
+  "aruba": { "replacement": "🇦🇼", "description": "flag: Aruba" },
+  "alandske ostrovy": {
+    "replacement": "🇦🇽",
+    "description": "flag: Åland Islands"
+  },
+  "azerbajdžan": { "replacement": "🇦🇿", "description": "flag: Azerbaijan" },
+  "Bosna a Hercegovina": {
+    "replacement": "🇧🇦",
+    "description": "flag: Bosnia & Herzegovina"
+  },
+  "barbados": { "replacement": "🇧🇧", "description": "flag: Barbados" },
+  "Bangladéš": { "replacement": "🇧🇩", "description": "flag: Bangladesh" },
+  "belgicko": { "replacement": "🇧🇪", "description": "flag: Belgium" },
+  "Burkina Faso": { "replacement": "🇧🇫", "description": "flag: Burkina Faso" },
+  "bulharsko": { "replacement": "🇧🇬", "description": "flag: Bulgaria" },
+  "Bahrajn": { "replacement": "🇧🇭", "description": "flag: Bahrain" },
+  "burundi": { "replacement": "🇧🇮", "description": "flag: Burundi" },
+  "Benin": { "replacement": "🇧🇯", "description": "flag: Benin" },
+  "st barthelemy": {
+    "replacement": "🇧🇱",
+    "description": "flag: St. Barthélemy"
+  },
+  "bermudy": { "replacement": "🇧🇲", "description": "flag: Bermuda" },
+  "Brunej": { "replacement": "🇧🇳", "description": "flag: Brunei" },
+  "Bolívia": { "replacement": "🇧🇴", "description": "flag: Bolivia" },
+  "karibské holandsko": {
+    "replacement": "🇧🇶",
+    "description": "flag: Caribbean Netherlands"
+  },
+  "brazília": { "replacement": "🇧🇷", "description": "flag: Brazil" },
+  "bahamy": { "replacement": "🇧🇸", "description": "flag: Bahamas" },
+  "bhutan": { "replacement": "🇧🇹", "description": "flag: Bhutan" },
+  "bujný ostrov": { "replacement": "🇧🇻", "description": "flag: Bouvet Island" },
+  "botswana": { "replacement": "🇧🇼", "description": "flag: Botswana" },
+  "bielorusko": { "replacement": "🇧🇾", "description": "flag: Belarus" },
+  "belize": { "replacement": "🇧🇿", "description": "flag: Belize" },
+  "kanada": { "replacement": "🇨🇦", "description": "flag: Canada" },
+  "kokosove ostrovy": {
+    "replacement": "🇨🇨",
+    "description": "flag: Cocos (Keeling) Islands"
+  },
+  "Kongo kinshasa": {
+    "replacement": "🇨🇩",
+    "description": "flag: Congo - Kinshasa"
+  },
+  "Stredoafrická republika": {
+    "replacement": "🇨🇫",
+    "description": "flag: Central African Republic"
+  },
+  "Kongo brazzaville": {
+    "replacement": "🇨🇬",
+    "description": "flag: Congo - Brazzaville"
+  },
+  "švajčiarsko": { "replacement": "🇨🇭", "description": "flag: Switzerland" },
+  "cote divoire": { "replacement": "🇨🇮", "description": "flag: Côte d’Ivoire" },
+  "kuchárske ostrovy": {
+    "replacement": "🇨🇰",
+    "description": "flag: Cook Islands"
+  },
+  "čile": { "replacement": "🇨🇱", "description": "flag: Chile" },
+  "kamerun": { "replacement": "🇨🇲", "description": "flag: Cameroon" },
+  "cn": { "replacement": "🇨🇳", "description": "flag: China" },
+  "kolumbia": { "replacement": "🇨🇴", "description": "flag: Colombia" },
+  "ostrov Clipperton": {
+    "replacement": "🇨🇵",
+    "description": "flag: Clipperton Island"
+  },
+  "Kostarika": { "replacement": "🇨🇷", "description": "flag: Costa Rica" },
+  "kuba": { "replacement": "🇨🇺", "description": "flag: Cuba" },
+  "Kapverdy": { "replacement": "🇨🇻", "description": "flag: Cape Verde" },
+  "curacao": { "replacement": "🇨🇼", "description": "flag: Curaçao" },
+  "vianočný ostrov": {
+    "replacement": "🇨🇽",
+    "description": "flag: Christmas Island"
+  },
+  "kypr": { "replacement": "🇨🇾", "description": "flag: Cyprus" },
+  "Česká republika": { "replacement": "🇨🇿", "description": "flag: Czechia" },
+  "de": { "replacement": "🇩🇪", "description": "flag: Germany" },
+  "diego garcia": { "replacement": "🇩🇬", "description": "flag: Diego Garcia" },
+  "Džibutsko": { "replacement": "🇩🇯", "description": "flag: Djibouti" },
+  "dánsko": { "replacement": "🇩🇰", "description": "flag: Denmark" },
+  "dominika": { "replacement": "🇩🇲", "description": "flag: Dominica" },
+  "Dominikánska republika": {
+    "replacement": "🇩🇴",
+    "description": "flag: Dominican Republic"
+  },
+  "alžírsko": { "replacement": "🇩🇿", "description": "flag: Algeria" },
+  "ceuta melilla": {
+    "replacement": "🇪🇦",
+    "description": "flag: Ceuta & Melilla"
+  },
+  "ekvádor": { "replacement": "🇪🇨", "description": "flag: Ecuador" },
+  "estónsko": { "replacement": "🇪🇪", "description": "flag: Estonia" },
+  "egypt": { "replacement": "🇪🇬", "description": "flag: Egypt" },
+  "západná sahara": {
+    "replacement": "🇪🇭",
+    "description": "flag: Western Sahara"
+  },
+  "eritrea": { "replacement": "🇪🇷", "description": "flag: Eritrea" },
+  "es": { "replacement": "🇪🇸", "description": "flag: Spain" },
+  "Etiópia": { "replacement": "🇪🇹", "description": "flag: Ethiopia" },
+  "EÚ": { "replacement": "🇪🇺", "description": "flag: European Union" },
+  "Fínsko": { "replacement": "🇫🇮", "description": "flag: Finland" },
+  "fidži": { "replacement": "🇫🇯", "description": "flag: Fiji" },
+  "falklandské ostrovy": {
+    "replacement": "🇫🇰",
+    "description": "flag: Falkland Islands"
+  },
+  "mikronézia": { "replacement": "🇫🇲", "description": "flag: Micronesia" },
+  "Faerské ostrovy": {
+    "replacement": "🇫🇴",
+    "description": "flag: Faroe Islands"
+  },
+  "fr": { "replacement": "🇫🇷", "description": "flag: France" },
+  "gabon": { "replacement": "🇬🇦", "description": "flag: Gabon" },
+  "gb": { "replacement": "🇬🇧", "description": "flag: United Kingdom" },
+  "granát": { "replacement": "🇬🇩", "description": "flag: Grenada" },
+  "Gruzínsko": { "replacement": "🇬🇪", "description": "flag: Georgia" },
+  "Francúzska Guiana": {
+    "replacement": "🇬🇫",
+    "description": "flag: French Guiana"
+  },
+  "guernsey": { "replacement": "🇬🇬", "description": "flag: Guernsey" },
+  "ghana": { "replacement": "🇬🇭", "description": "flag: Ghana" },
+  "Gibraltár": { "replacement": "🇬🇮", "description": "flag: Gibraltar" },
+  "grónsko": { "replacement": "🇬🇱", "description": "flag: Greenland" },
+  "gambia": { "replacement": "🇬🇲", "description": "flag: Gambia" },
+  "Guinea": { "replacement": "🇬🇳", "description": "flag: Guinea" },
+  "guadeloupe": { "replacement": "🇬🇵", "description": "flag: Guadeloupe" },
+  "rovníková Guinea": {
+    "replacement": "🇬🇶",
+    "description": "flag: Equatorial Guinea"
+  },
+  "Grécko": { "replacement": "🇬🇷", "description": "flag: Greece" },
+  "južné Gruzínsko južné sendvičové ostrovy": {
+    "replacement": "🇬🇸",
+    "description": "flag: South Georgia & South Sandwich Islands"
+  },
+  "guatemala": { "replacement": "🇬🇹", "description": "flag: Guatemala" },
+  "guam": { "replacement": "🇬🇺", "description": "flag: Guam" },
+  "guinea bissau": {
+    "replacement": "🇬🇼",
+    "description": "flag: Guinea-Bissau"
+  },
+  "Guyana": { "replacement": "🇬🇾", "description": "flag: Guyana" },
+  "hong kong": {
+    "replacement": "🇭🇰",
+    "description": "flag: Hong Kong SAR China"
+  },
+  "počul McDonaldove ostrovy": {
+    "replacement": "🇭🇲",
+    "description": "flag: Heard & McDonald Islands"
+  },
+  "honduras": { "replacement": "🇭🇳", "description": "flag: Honduras" },
+  "chorvátsko": { "replacement": "🇭🇷", "description": "flag: Croatia" },
+  "haiti": { "replacement": "🇭🇹", "description": "flag: Haiti" },
+  "maďarsko": { "replacement": "🇭🇺", "description": "flag: Hungary" },
+  "Kanarske ostrovy": {
+    "replacement": "🇮🇨",
+    "description": "flag: Canary Islands"
+  },
+  "indonézia": { "replacement": "🇮🇩", "description": "flag: Indonesia" },
+  "Írsko": { "replacement": "🇮🇪", "description": "flag: Ireland" },
+  "izrael": { "replacement": "🇮🇱", "description": "flag: Israel" },
+  "ostrov Man": { "replacement": "🇮🇲", "description": "flag: Isle of Man" },
+  "india": { "replacement": "🇮🇳", "description": "flag: India" },
+  "územie britského indického oceánu": {
+    "replacement": "🇮🇴",
+    "description": "flag: British Indian Ocean Territory"
+  },
+  "Irak": { "replacement": "🇮🇶", "description": "flag: Iraq" },
+  "irán": { "replacement": "🇮🇷", "description": "flag: Iran" },
+  "Island": { "replacement": "🇮🇸", "description": "flag: Iceland" },
+  "to": { "replacement": "🇮🇹", "description": "flag: Italy" },
+  "dres": { "replacement": "🇯🇪", "description": "flag: Jersey" },
+  "Jamajka": { "replacement": "🇯🇲", "description": "flag: Jamaica" },
+  "Jordánsko": { "replacement": "🇯🇴", "description": "flag: Jordan" },
+  "jp": { "replacement": "🇯🇵", "description": "flag: Japan" },
+  "Keňa": { "replacement": "🇰🇪", "description": "flag: Kenya" },
+  "Kirgizsko": { "replacement": "🇰🇬", "description": "flag: Kyrgyzstan" },
+  "kambodža": { "replacement": "🇰🇭", "description": "flag: Cambodia" },
+  "kiribati": { "replacement": "🇰🇮", "description": "flag: Kiribati" },
+  "komory": { "replacement": "🇰🇲", "description": "flag: Comoros" },
+  "svätý Krištof nevis": {
+    "replacement": "🇰🇳",
+    "description": "flag: St. Kitts & Nevis"
+  },
+  "Severná Kórea": { "replacement": "🇰🇵", "description": "flag: North Korea" },
+  "kr": { "replacement": "🇰🇷", "description": "flag: South Korea" },
+  "Kuvajt": { "replacement": "🇰🇼", "description": "flag: Kuwait" },
+  "kajmanské ostrovy": {
+    "replacement": "🇰🇾",
+    "description": "flag: Cayman Islands"
+  },
+  "Kazachstan": { "replacement": "🇰🇿", "description": "flag: Kazakhstan" },
+  "Laos": { "replacement": "🇱🇦", "description": "flag: Laos" },
+  "Libanon": { "replacement": "🇱🇧", "description": "flag: Lebanon" },
+  "svätá Lucia": { "replacement": "🇱🇨", "description": "flag: St. Lucia" },
+  "Lichtenštajnsko": {
+    "replacement": "🇱🇮",
+    "description": "flag: Liechtenstein"
+  },
+  "Srí Lanka": { "replacement": "🇱🇰", "description": "flag: Sri Lanka" },
+  "libéria": { "replacement": "🇱🇷", "description": "flag: Liberia" },
+  "lesotho": { "replacement": "🇱🇸", "description": "flag: Lesotho" },
+  "litva": { "replacement": "🇱🇹", "description": "flag: Lithuania" },
+  "luxembursko": { "replacement": "🇱🇺", "description": "flag: Luxembourg" },
+  "lotyšsko": { "replacement": "🇱🇻", "description": "flag: Latvia" },
+  "Líbya": { "replacement": "🇱🇾", "description": "flag: Libya" },
+  "maroko": { "replacement": "🇲🇦", "description": "flag: Morocco" },
+  "monako": { "replacement": "🇲🇨", "description": "flag: Monaco" },
+  "Moldavsko": { "replacement": "🇲🇩", "description": "flag: Moldova" },
+  "čierna hora": { "replacement": "🇲🇪", "description": "flag: Montenegro" },
+  "st martin": { "replacement": "🇲🇫", "description": "flag: St. Martin" },
+  "madagaskar": { "replacement": "🇲🇬", "description": "flag: Madagascar" },
+  "Maršalove ostrovy": {
+    "replacement": "🇲🇭",
+    "description": "flag: Marshall Islands"
+  },
+  "macedonia": { "replacement": "🇲🇰", "description": "flag: North Macedonia" },
+  "mali": { "replacement": "🇲🇱", "description": "flag: Mali" },
+  "Mjanmarsko": { "replacement": "🇲🇲", "description": "flag: Myanmar (Burma)" },
+  "mongolsko": { "replacement": "🇲🇳", "description": "flag: Mongolia" },
+  "Macao": { "replacement": "🇲🇴", "description": "flag: Macao SAR China" },
+  "ostrovy severné mariány": {
+    "replacement": "🇲🇵",
+    "description": "flag: Northern Mariana Islands"
+  },
+  "martinique": { "replacement": "🇲🇶", "description": "flag: Martinique" },
+  "mauritánia": { "replacement": "🇲🇷", "description": "flag: Mauritania" },
+  "montserrat": { "replacement": "🇲🇸", "description": "flag: Montserrat" },
+  "malta": { "replacement": "🇲🇹", "description": "flag: Malta" },
+  "maurícius": { "replacement": "🇲🇺", "description": "flag: Mauritius" },
+  "maldivy": { "replacement": "🇲🇻", "description": "flag: Maldives" },
+  "malawi": { "replacement": "🇲🇼", "description": "flag: Malawi" },
+  "mexiko": { "replacement": "🇲🇽", "description": "flag: Mexico" },
+  "malajzia": { "replacement": "🇲🇾", "description": "flag: Malaysia" },
+  "mozambik": { "replacement": "🇲🇿", "description": "flag: Mozambique" },
+  "namíbia": { "replacement": "🇳🇦", "description": "flag: Namibia" },
+  "Nová Kaledónia": {
+    "replacement": "🇳🇨",
+    "description": "flag: New Caledonia"
+  },
+  "niger": { "replacement": "🇳🇪", "description": "flag: Niger" },
+  "ostrov Norfolk": {
+    "replacement": "🇳🇫",
+    "description": "flag: Norfolk Island"
+  },
+  "Nigéria": { "replacement": "🇳🇬", "description": "flag: Nigeria" },
+  "Nikaragua": { "replacement": "🇳🇮", "description": "flag: Nicaragua" },
+  "Holandsko": { "replacement": "🇳🇱", "description": "flag: Netherlands" },
+  "nórsko": { "replacement": "🇳🇴", "description": "flag: Norway" },
+  "Nepál": { "replacement": "🇳🇵", "description": "flag: Nepal" },
+  "nauru": { "replacement": "🇳🇷", "description": "flag: Nauru" },
+  "niue": { "replacement": "🇳🇺", "description": "flag: Niue" },
+  "nový Zéland": { "replacement": "🇳🇿", "description": "flag: New Zealand" },
+  "omán": { "replacement": "🇴🇲", "description": "flag: Oman" },
+  "panama": { "replacement": "🇵🇦", "description": "flag: Panama" },
+  "peru": { "replacement": "🇵🇪", "description": "flag: Peru" },
+  "Francúzska Polynézia": {
+    "replacement": "🇵🇫",
+    "description": "flag: French Polynesia"
+  },
+  "Papua-Nová Guinea": {
+    "replacement": "🇵🇬",
+    "description": "flag: Papua New Guinea"
+  },
+  "Filipíny": { "replacement": "🇵🇭", "description": "flag: Philippines" },
+  "pakistan": { "replacement": "🇵🇰", "description": "flag: Pakistan" },
+  "poľsko": { "replacement": "🇵🇱", "description": "flag: Poland" },
+  "st pierre miquelon": {
+    "replacement": "🇵🇲",
+    "description": "flag: St. Pierre & Miquelon"
+  },
+  "pitcairnove ostrovy": {
+    "replacement": "🇵🇳",
+    "description": "flag: Pitcairn Islands"
+  },
+  "Portoriko": { "replacement": "🇵🇷", "description": "flag: Puerto Rico" },
+  "palestínske územia": {
+    "replacement": "🇵🇸",
+    "description": "flag: Palestinian Territories"
+  },
+  "Portugalsko": { "replacement": "🇵🇹", "description": "flag: Portugal" },
+  "palau": { "replacement": "🇵🇼", "description": "flag: Palau" },
+  "paraguaj": { "replacement": "🇵🇾", "description": "flag: Paraguay" },
+  "Katar": { "replacement": "🇶🇦", "description": "flag: Qatar" },
+  "stretnutie": { "replacement": "🇷🇪", "description": "flag: Réunion" },
+  "rumunsko": { "replacement": "🇷🇴", "description": "flag: Romania" },
+  "srbsko": { "replacement": "🇷🇸", "description": "flag: Serbia" },
+  "ru": { "replacement": "🇷🇺", "description": "flag: Russia" },
+  "Rwanda": { "replacement": "🇷🇼", "description": "flag: Rwanda" },
+  "Saudská Arábia": {
+    "replacement": "🇸🇦",
+    "description": "flag: Saudi Arabia"
+  },
+  "Solomonove ostrovy": {
+    "replacement": "🇸🇧",
+    "description": "flag: Solomon Islands"
+  },
+  "seychely": { "replacement": "🇸🇨", "description": "flag: Seychelles" },
+  "sudan": { "replacement": "🇸🇩", "description": "flag: Sudan" },
+  "švédsko": { "replacement": "🇸🇪", "description": "flag: Sweden" },
+  "Singapur": { "replacement": "🇸🇬", "description": "flag: Singapore" },
+  "svätá Helena": { "replacement": "🇸🇭", "description": "flag: St. Helena" },
+  "slovinsko": { "replacement": "🇸🇮", "description": "flag: Slovenia" },
+  "svalbard jan mayen": {
+    "replacement": "🇸🇯",
+    "description": "flag: Svalbard & Jan Mayen"
+  },
+  "slovensko": { "replacement": "🇸🇰", "description": "flag: Slovakia" },
+  "sierra leone": { "replacement": "🇸🇱", "description": "flag: Sierra Leone" },
+  "San Maríno": { "replacement": "🇸🇲", "description": "flag: San Marino" },
+  "senegal": { "replacement": "🇸🇳", "description": "flag: Senegal" },
+  "somálsko": { "replacement": "🇸🇴", "description": "flag: Somalia" },
+  "surinam": { "replacement": "🇸🇷", "description": "flag: Suriname" },
+  "Južný Sudán": { "replacement": "🇸🇸", "description": "flag: South Sudan" },
+  "princíp sao tome": {
+    "replacement": "🇸🇹",
+    "description": "flag: São Tomé & Príncipe"
+  },
+  "El Salvador": { "replacement": "🇸🇻", "description": "flag: El Salvador" },
+  "sint maarten": { "replacement": "🇸🇽", "description": "flag: Sint Maarten" },
+  "sýria": { "replacement": "🇸🇾", "description": "flag: Syria" },
+  "svazijsko": { "replacement": "🇸🇿", "description": "flag: Eswatini" },
+  "tristan da cunha": {
+    "replacement": "🇹🇦",
+    "description": "flag: Tristan da Cunha"
+  },
+  "ostrovy Turks Caicos": {
+    "replacement": "🇹🇨",
+    "description": "flag: Turks & Caicos Islands"
+  },
+  "čad": { "replacement": "🇹🇩", "description": "flag: Chad" },
+  "francúzske južné územia": {
+    "replacement": "🇹🇫",
+    "description": "flag: French Southern Territories"
+  },
+  "ísť": { "replacement": "🇹🇬", "description": "flag: Togo" },
+  "thajsko": { "replacement": "🇹🇭", "description": "flag: Thailand" },
+  "Tadžikistan": { "replacement": "🇹🇯", "description": "flag: Tajikistan" },
+  "tokelau": { "replacement": "🇹🇰", "description": "flag: Tokelau" },
+  "timor leste": { "replacement": "🇹🇱", "description": "flag: Timor-Leste" },
+  "turkmenistan": { "replacement": "🇹🇲", "description": "flag: Turkmenistan" },
+  "tunisko": { "replacement": "🇹🇳", "description": "flag: Tunisia" },
+  "tonga": { "replacement": "🇹🇴", "description": "flag: Tonga" },
+  "tr": { "replacement": "🇹🇷", "description": "flag: Turkey" },
+  "trinidad tobago": {
+    "replacement": "🇹🇹",
+    "description": "flag: Trinidad & Tobago"
+  },
+  "tuvalu": { "replacement": "🇹🇻", "description": "flag: Tuvalu" },
+  "tchaj-wan": { "replacement": "🇹🇼", "description": "flag: Taiwan" },
+  "tanzánia": { "replacement": "🇹🇿", "description": "flag: Tanzania" },
+  "ukrajina": { "replacement": "🇺🇦", "description": "flag: Ukraine" },
+  "uganda": { "replacement": "🇺🇬", "description": "flag: Uganda" },
+  "nás odľahlé ostrovy": {
+    "replacement": "🇺🇲",
+    "description": "flag: U.S. Outlying Islands"
+  },
+  "Spojené národy": {
+    "replacement": "🇺🇳",
+    "description": "flag: United Nations"
+  },
+  "nás": { "replacement": "🇺🇸", "description": "flag: United States" },
+  "uruguay": { "replacement": "🇺🇾", "description": "flag: Uruguay" },
+  "uzbekistan": { "replacement": "🇺🇿", "description": "flag: Uzbekistan" },
+  "Vatikán": { "replacement": "🇻🇦", "description": "flag: Vatican City" },
+  "Sv. Vincent Grenadíny": {
+    "replacement": "🇻🇨",
+    "description": "flag: St. Vincent & Grenadines"
+  },
+  "venezuela": { "replacement": "🇻🇪", "description": "flag: Venezuela" },
+  "Britské Panenské ostrovy": {
+    "replacement": "🇻🇬",
+    "description": "flag: British Virgin Islands"
+  },
+  "nás panenské ostrovy": {
+    "replacement": "🇻🇮",
+    "description": "flag: U.S. Virgin Islands"
+  },
+  "vietnam": { "replacement": "🇻🇳", "description": "flag: Vietnam" },
+  "vanuatu": { "replacement": "🇻🇺", "description": "flag: Vanuatu" },
+  "wallis futuna": {
+    "replacement": "🇼🇫",
+    "description": "flag: Wallis & Futuna"
+  },
+  "samoa": { "replacement": "🇼🇸", "description": "flag: Samoa" },
+  "kosovo": { "replacement": "🇽🇰", "description": "flag: Kosovo" },
+  "Jemen": { "replacement": "🇾🇪", "description": "flag: Yemen" },
+  "mayotte": { "replacement": "🇾🇹", "description": "flag: Mayotte" },
+  "južná Afrika": { "replacement": "🇿🇦", "description": "flag: South Africa" },
+  "zambia": { "replacement": "🇿🇲", "description": "flag: Zambia" },
+  "zimbabwe": { "replacement": "🇿🇼", "description": "flag: Zimbabwe" },
+  "Anglicko": { "replacement": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "description": "flag: England" },
+  "škótsko": { "replacement": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "description": "flag: Scotland" },
+  "Wales": { "replacement": "🏴󠁧󠁢󠁷󠁬󠁳󠁿", "description": "flag: Wales" }
+}
