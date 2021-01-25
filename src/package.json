@@ -11,6 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "lottie-react-web": "^2.2.2",
-    "robotjs": "^0.6.0"
+    "robotjs": "^0.6.0",
+    "socket.io": "^3.1.0",
+    "socket.io-client": "^3.1.0"
   }
 }

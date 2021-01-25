@@ -48,7 +48,7 @@ const uk = require('../app/_locales/uk/messages.json');
 const vi = require('../app/_locales/vi/messages.json');
 const zh = require('../app/_locales/zh/messages.json');
 
-const languages = {};
+const languages: any = {};
 languages.ar = ar;
 languages.am = am;
 languages.bg = bg;
@@ -102,8 +102,8 @@ languages.zh = zh;
 class Translation {
   constructor() {}
 
-  getMessage(langId, key) {
-    if (!langId)return;
+  getMessage(langId: string, key: string) {
+    if (!langId) return;
     const locale = langId.split('-');
     const lang = languages[locale[0]];
     const res = lang ? lang[key] : languages.en[key];

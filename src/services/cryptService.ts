@@ -3,7 +3,7 @@ const nodeRSA = require('node-rsa');
 class Crypt {
   constructor() {}
 
-  encrypt(text, publicKey) {
+  encrypt(text: any, publicKey: any) {
     const key = new nodeRSA();
     key.importKey(publicKey, 'openssh-pem-public');
     let status = 'success';
@@ -16,7 +16,7 @@ class Crypt {
     return status == 'success' ? encrpted : null;
   }
 
-  decrypt(text, privateKey) {
+  decrypt(text: any, privateKey: any) {
     const key = new nodeRSA();
     key.importKey(privateKey, 'openssh-pem-private');
     let status = 'success';
@@ -33,7 +33,7 @@ class Crypt {
     const key = new nodeRSA({ b: 512 });
     return {
       publicKey: key.exportKey('openssh-pem-public'),
-      privateKey: key.exportKey('openssh-pem-private'),
+      privateKey: key.exportKey('openssh-pem-private')
     };
   };
 }

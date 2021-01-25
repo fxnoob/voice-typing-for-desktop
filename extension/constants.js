@@ -29,6 +29,10 @@ const constants = {
     "9703B37A-11D7-BAB8-3FE9-E70D637BB49A": true, // undo
     "4D743502-F987-405E-D163-E57E8DD201AE": false // undo_all
   },
+  contentScript: {
+    mountAckId: guid.generateGuid(), // <div id='${mountAckId}'/> for checking if content script is mounted in the frame
+    mountId: guid.generateGuid()
+  },
   support: {
     googleFormLink:
       "https://docs.google.com/forms/d/e/1FAIpQLSdTB0tFZHTnRe5_L64lYCbJvQm4XD5zGoSubYYYqBEOYXkIGA/viewform?usp=sf_link",

@@ -1,12 +1,15 @@
 import * as robot from 'robotjs';
 
 class DomService {
+  private deleted: any[];
+  private stack: any[];
   constructor() {
     this.stack = [];
     this.deleted = [];
   }
 
-  simulateWordTyping = (str, ack = '') => {
+  // @ts-ignore
+  simulateWordTyping = (str: string, ack: any) => {
     robot.typeString(str);
     this.stack.push(str);
   };
@@ -31,6 +34,7 @@ class DomService {
   redo = () => {
     if (this.deleted.length == 0) return;
     const str = this.deleted.pop();
+    // @ts-ignore
     this.simulateWordTyping(str);
   };
 
@@ -47,4 +51,5 @@ class DomService {
   };
 }
 const dom = new DomService();
+// @ts-ignore
 export default dom;

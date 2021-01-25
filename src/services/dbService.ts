@@ -1,5 +1,6 @@
-import constants from '../../constants';
+// @ts-ignore
 import * as storage from 'electron-json-storage';
+import constants from '../../constants';
 
 /**
  * Schema class object
@@ -9,6 +10,7 @@ import * as storage from 'electron-json-storage';
  */
 class Schema {
   constructor() {
+    // @ts-ignore
     this.data = {
       isMicListening: false,
       audioAccess: false,
@@ -17,11 +19,11 @@ class Schema {
       closestMatchingEmoji: true,
       defaultLanguage: {
         code: 'en-US',
-        label: 'English (United States)',
+        label: 'English (United States)'
       },
       commandsConfig: constants.commands,
       publicKey: '',
-      privateKey: '',
+      privateKey: ''
     };
   }
 }
@@ -40,10 +42,10 @@ class DbService {
    * @returns {Promise}
    * @memberof DbService
    */
-  has = (key) =>
+  has = (key: any): Promise<any> =>
     new Promise((resolve, reject) => {
       try {
-        storage.has(key, (err, hasKey) => {
+        storage.has(key, (err: any, hasKey: any) => {
           if (err) reject(err);
           else resolve(hasKey);
         });
@@ -60,10 +62,10 @@ class DbService {
    * @returns {Promise}
    * @memberof DbService
    */
-  set = (key, json) =>
+  set = (key: any, json: any): Promise<any> =>
     new Promise((resolve, reject) => {
       try {
-        storage.set(key, json, (err) => {
+        storage.set(key, json, (err: any) => {
           if (err) reject(err);
           else resolve(json);
         });
@@ -79,10 +81,10 @@ class DbService {
    * @returns {Promise}
    * @memberof DbService
    */
-  get = (...params) =>
+  get = (...params: any[]): Promise<any> =>
     new Promise((resolve, reject) => {
       try {
-        storage.getMany(params, (err, items) => {
+        storage.getMany(params, (err: any, items: any) => {
           if (err) reject(err);
           else if (items === undefined) {
             reject(new Error('Error'));
@@ -104,7 +106,7 @@ class DbService {
   getAll = () => {
     return new Promise((resolve, reject) => {
       try {
-        storage.getAll((err, items) => {
+        storage.getAll((err: string | undefined, items: unknown) => {
           if (err) {
             reject(new Error(err));
           } else {
@@ -124,10 +126,10 @@ class DbService {
    * @returns {Promise}
    * @memberof DbService
    */
-  remove = (keyStr) =>
+  remove = (keyStr: (string[] | string)): Promise<any> =>
     new Promise((resolve, reject) => {
       try {
-        storage.remove(keyStr, (err) => {
+        storage.remove(keyStr, (err: any) => {
           if (err) reject(err);
           resolve(keyStr);
         });
@@ -140,4 +142,5 @@ const schema = new Schema();
 const db = new DbService();
 
 export { schema };
+// @ts-ignore
 export default db;
