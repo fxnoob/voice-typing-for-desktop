@@ -1,7 +1,5 @@
 import db from "./services/db";
 import MessagePassing from "./services/messagePassing";
-import voice from "./services/voiceService";
-const NodeRSA = require("node-rsa");
 import {
   toggleSR,
   callbackSR,
@@ -9,29 +7,19 @@ import {
   checkConnectionSR
 } from "./services/socketClient";
 
-const socketRoutes = async () => {
-  const changeSRto = async () => {
-    const { isMicListening } = await db.get("isMicListening");
-    if (isMicListening) {
-      voice.stop();
-    } else {
-      const { defaultLanguage } = await db.get("defaultLanguage");
-      voice.setLanguage(defaultLanguage.code);
-      voice.start();
-    }
-    await db.set({ isMicListening: !isMicListening });
-    return !isMicListening;
-  };
+const socketRoutes = async (voice) => {
   const { listen: listenToggleSR, emit: emitToggleSR } = toggleSR();
   listenToggleSR(async data => {
     console.log("listenToggleSR called ", data);
-    await changeSRto();
-    const { defaultLanguage, client } = await db.get(
+    await MessagePassing.exec('/toggle_sr')
+    const { defaultLanguage, isMicListening } = await db.get(
       "defaultLanguage",
-      "client"
+      "client",
+      "isMicListening"
     );
     emitToggleSR({
       value: data.value,
+      listening: isMicListening,
       langId: defaultLanguage.code,
       langLabel: defaultLanguage.label
     });
@@ -63,7 +51,8 @@ const socketRoutes = async () => {
     emit: checkConnectionEmit
   } = checkConnectionSR();
   checkConnectionListen(async () => {
-    if (voice.permissionGranted()) {
+    const {state} = voice.permissionGranted();
+    if (state == 'granted') {
       checkConnectionEmit({ connected: true, permissionGranted: true });
     } else {
       checkConnectionEmit({ connected: true, permissionGranted: false });
@@ -71,17 +60,18 @@ const socketRoutes = async () => {
   });
 };
 
-const Routes = async () => {
-  socketRoutes();
+const Routes = async (voice) => {
+  socketRoutes(voice);
   const { emit: emitCallbackSR } = callbackSR();
   voice.addCommand({
     "*text": async text => {
+      console.log("callbackSR", text);
       const { defaultLanguage, client } = await db.get(
         "defaultLanguage",
         "client"
       );
-      const key = new NodeRSA();
-      key.importKey(client.publicKey, "openssh-pem-public");
+      //const key = new NodeRSA();
+      //key.importKey(client.publicKey, "openssh-pem-public");
       // const payload = {
       //   text: key.encrypt(text, 'base64'),
       //   langId: defaultLanguage.code
@@ -121,11 +111,12 @@ const Routes = async () => {
       voice.stop();
     } else {
       const { defaultLanguage } = await db.get("defaultLanguage");
+      console.log({defaultLanguage});
       voice.setLanguage(defaultLanguage.code);
       voice.start();
     }
     await db.set({ isMicListening: !isMicListening });
-    res({ isMicListening: !isMicListening });
+    //res({ isMicListening: !isMicListening });
   });
   //restart speech recognition
   MessagePassing.on("/restart_sr", async () => {

@@ -84,7 +84,7 @@ const initSocketServer = () => {
         commandToApply.exec(text, { dom: domService }, () => {});
       } else {
         const indentedText = text != "." ? ` ${text}` : text;
-        domService.simulateWordTyping(indentedText);
+        domService.simulateWordTyping(indentedText, '');
       }
     });
     socket.on('change_language_sr', async (value: any) => {
@@ -100,13 +100,13 @@ const initSocketServer = () => {
 
 const initDB = async () => {
   initSocketServer();
-  if (!(await dbService.has('initiated1'))) {
-    await dbService.set('initiated1', {
+  if (!(await dbService.has('initiated2'))) {
+    await dbService.set('initiated2', {
       init: true
     });
-    const keys = cryptService.generate();
-    schema.data.publicKey = keys.publicKey;
-    schema.data.privateKey = keys.privateKey;
+    // const keys = cryptService.generate();
+    // schema.data.publicKey = keys.publicKey;
+    // schema.data.privateKey = keys.privateKey;
     await dbService.set('data', schema.data);
   } else {
     console.log('initiated already');

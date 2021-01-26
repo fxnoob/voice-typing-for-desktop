@@ -2,7 +2,7 @@ import "@babel/polyfill";
 import db, { schema } from "./services/db";
 import Routes from "./routes";
 import chromeService from './services/chromeService';
-
+import voice from "./services/voiceService";
 class Main {
   constructor() {
     this.init();
@@ -15,8 +15,12 @@ class Main {
    */
   init = async () => {
     await this.initDb();
-    await Routes();
+    await Routes(voice);
     this.popUpClickSetup();
+    const { state } = await voice.permissionGranted();
+    if (state != 'granted') {
+      chromeService.openHelpPage('');
+    }
   };
   /**
    * initialize db settings

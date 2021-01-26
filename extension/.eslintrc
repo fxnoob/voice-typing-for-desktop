@@ -31,10 +31,5 @@
     "no-multi-spaces": "error",
     "no-prototype-builtins": 0,
     "no-console": ["error"]
-  },
-  "settings": {
-    "react": {
-      "version": "16.3"
-    }
   }
 }

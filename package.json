@@ -14,7 +14,8 @@
     "debug": "DEBUG_PROD=true && yarn start",
     "start:main": "cross-env NODE_ENV=development electron -r ./.erb/scripts/BabelRegister ./src/main.dev.ts",
     "start:renderer": "cross-env NODE_ENV=development webpack serve --config ./.erb/configs/webpack.config.renderer.dev.babel.js",
-    "test": "jest"
+    "test": "jest",
+    "v": "electron -v "
   },
   "lint-staged": {
     "*.{js,jsx,ts,tsx}": [

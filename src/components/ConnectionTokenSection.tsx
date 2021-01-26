@@ -29,7 +29,8 @@ export default function ConnectionTokenSection() {
   const closeLanguageSelectOption = () => {
     setLanguageSelectOptionOpen(false);
   };
-  const changeLanguage = async (event) => {
+  const changeLanguage = async (event: any) => {
+    // @ts-ignore
     languageChangeEmit({
       langId: languages[event.target.value],
       label: event.target.value,
@@ -38,10 +39,12 @@ export default function ConnectionTokenSection() {
   };
   useEffect(async () => {
     const { data } = await dbService.get('data');
+    console.log({data});
+    setLang(data.defaultLanguage.label);
     setToken(data.publicKey);
     languageChangeListen(async (val) => {
       console.log(val);
-      // setLang(languages[val.value.langId]);
+      setLang(languages[val.value.langId]);
       data.defaultLanguage.code = val.value.langId;
       data.defaultLanguage.label = languages[val.value.langId];
       await dbService.set('data', data);

@@ -12,6 +12,7 @@ class Voice {
   start() {
     chromeService.setBadgeOnActionIcon("◉");
     chromeService.setBadgeColorOnActionIcon("#f50057");
+    console.log(this.permissionGranted());
     this.SR.start();
   }
   stop() {

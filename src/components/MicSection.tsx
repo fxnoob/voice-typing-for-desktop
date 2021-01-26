@@ -22,14 +22,14 @@ export default function MicSection(props) {
   const [langId, setlangId] = useState(null);
   const { listen, emit } = toggleSR();
   const toggleListening = () => {
-    emit(!listening);
+    emit(listening);
   };
   useEffect(() => {
     listen((data) => {
       console.log('listen', data);
-      setListening(data.value.value);
+      setListening(data.value.listening);
       setlangId(data.value.langId);
-      callback({ listening: data.value.value, langId: data.value.langId, langLabel: data.value.langLabel });
+      callback({ listening: data.value.listening, langId: data.value.langId, langLabel: data.value.langLabel });
     });
   }, []);
   return (

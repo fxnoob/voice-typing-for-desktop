@@ -119,13 +119,17 @@ export default function Dashboard() {
   const [micListening, setMicListening] = React.useState(false);
   const [langId, setLangId] = React.useState(null);
   const [langLabel, setLangLabel] = React.useState(null);
+  const [errorMessage, setErrorMessage] = React.useState(
+    'Trying to connect to the chrome extension..! Make sure you have\n' +
+      'downloaded the chrome extension and chrome is open.'
+  );
   const handleDrawerOpen = () => {
     setOpen(true);
   };
   const handleDrawerClose = () => {
     setOpen(false);
   };
-  const micSectionCallback = (data) => {
+  const micSectionCallback = (data: any) => {
     const { listening, langId, langLabel } = data;
     console.log('micSectionCallback', { data });
     setMicListening(listening);
@@ -138,10 +142,15 @@ export default function Dashboard() {
     setLoading(true);
     const { listen, emit } = checkConnectionSR();
     emit({});
-    listen(() => {
+    listen((value: any) => {
+      if (!value.value.permissionGranted) {
+        setErrorMessage(
+          'Camera permission is not granted to chrome extension! please click on extension icon in chrome browser'
+        );
+      }
       setLoading(false);
     });
-  }
+  };
   useEffect(() => {
     checkConnection();
   }, []);
@@ -211,14 +220,14 @@ export default function Dashboard() {
               {/* commands list */}
               <Grid item xs={12}>
                 <Paper className={classes.paper}>
-                  {micListening && langId && (
+                  {micListening && (
                     <CommandsList langId={langId} langLabel={langLabel} />
                   )}
                 </Paper>
               </Grid>
             </Grid>
           ) : (
-            <Loader check={checkConnection}/>
+            <Loader check={checkConnection} message={errorMessage} />
           )}
           <Box pt={4}>
             <Copyright />
