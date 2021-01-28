@@ -1,22 +1,24 @@
 import React, { useState, useEffect } from 'react';
 import Container from '@material-ui/core/Container';
+// @ts-ignore
 import MUIDataTable from 'mui-datatables';
 import Checkbox from '@material-ui/core/Checkbox';
 import db from '../services/dbService';
 import translationService from '../services/translationService';
 import commandService from '../services/commandsService';
 
-const CommandList = (props) => {
+const CommandList = (props: { langId: any; langLabel: any; }) => {
   const {langId, langLabel} = props;
   const columns = [
     translationService.getMessage(langId, 'command_name_label'),
     translationService.getMessage(langId, 'command_description_label'),
-    translationService.getMessage(langId, 'command_enable_disable_label'),
+    translationService.getMessage(langId, 'command_enable_disable_label')
   ];
   const [language, setLanguage] = useState('');
   const [data, setData] = useState([]);
-  const handleChange = (id, arr) => async () => {
+  const handleChange = (id: string, arr: { [x: string]: any; }) => async () => {
     arr[id] = !arr[id];
+    // @ts-ignore
     await db.set({ commandsConfig: arr });
     init().catch(() => {});
   };
@@ -39,11 +41,12 @@ const CommandList = (props) => {
         />,
       ];
     });
+    // @ts-ignore
     setData(commandsList);
   };
   const options = {
     rowsPerPage: 13,
-    selectableRows: false,
+    selectableRows: false
   };
   return (
     <Container>

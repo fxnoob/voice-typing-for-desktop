@@ -15,10 +15,11 @@ const useStyles = makeStyles({
   },
 });
 
-export default function MicSection(props) {
+export default function MicSection(props: { callback: any; }) {
   const { callback } = props;
   const classes = useStyles();
   const [listening, setListening] = useState(false);
+  // @ts-ignore
   const [langId, setlangId] = useState(null);
   const { listen, emit } = toggleSR();
   const toggleListening = () => {
@@ -37,7 +38,7 @@ export default function MicSection(props) {
       style={{
         display: 'flex',
         alignItems: 'center',
-        flexDirection: 'column',
+        flexDirection: 'column'
       }}
     >
       <FormControlLabel
@@ -49,14 +50,14 @@ export default function MicSection(props) {
             style={{
               height: '6rem',
               width: '6rem',
-              background: listening ? '#f50057' : '',
+              background: listening ? '#f50057' : ''
             }}
             variant="extended"
           >
             <KeyboardVoiceIcon />
           </Fab>
         }
-      />
+       label=""/>
       <Typography color="textSecondary" className={classes.depositContext}>
         {listening ? 'Listening.' : 'Start!'}
       </Typography>

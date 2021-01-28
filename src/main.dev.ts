@@ -12,23 +12,12 @@ import 'core-js/stable';
 import 'regenerator-runtime/runtime';
 import path from 'path';
 import { app, BrowserWindow, shell } from 'electron';
-import { autoUpdater } from 'electron-updater';
-import log from 'electron-log';
 import { createServer } from 'http';
 import { Server } from 'socket.io';
 import MenuBuilder from './menu';
 import dbService, {schema} from './services/dbService';
-import cryptService from './services/cryptService';
 import domService from './services/domService';
 import commandService from './services/commandsService';
-
-export default class AppUpdater {
-  constructor() {
-    log.transports.file.level = 'info';
-    autoUpdater.logger = log;
-    autoUpdater.checkForUpdatesAndNotify();
-  }
-}
 
 let mainWindow: BrowserWindow | null = null;
 
@@ -107,6 +96,7 @@ const initDB = async () => {
     // const keys = cryptService.generate();
     // schema.data.publicKey = keys.publicKey;
     // schema.data.privateKey = keys.privateKey;
+    // @ts-ignore
     await dbService.set('data', schema.data);
   } else {
     console.log('initiated already');
@@ -172,7 +162,7 @@ const createWindow = async () => {
 
   // Remove this if your app does not use auto updates
   // eslint-disable-next-line
-  new AppUpdater();
+  //new AppUpdater();
 };
 
 /**
