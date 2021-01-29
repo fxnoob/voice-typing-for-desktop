@@ -1,0 +1,41 @@
+name: Test
+
+on: [push, pull_request]
+
+jobs:
+  release:
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+
+    steps:
+      - name: Check out Git repository
+        uses: actions/checkout@v1
+
+      - name: Install Node.js, NPM and Yarn
+        uses: actions/setup-node@v1
+        with:
+          node-version: v11.15.0
+
+      - name: update destro
+        run: |
+          apt-get update
+
+      - name: install native dependencies
+        run:  |
+          apt-get install build-essential libxtst-dev libpng++-dev libx11-dev zlib1g-dev libpng12-dev g++-4.8 gcc-4.8 python2.7 python-pip -y
+
+      - name: yarn install
+        run: |
+          yarn install --frozen-lockfile --network-timeout 300000
+
+      - name: yarn test
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          yarn package
+          yarn lint
+          yarn tsc
+          yarn test
