@@ -1,7 +1,7 @@
-import React  from 'react';
+import React from 'react';
 import Lottie from 'lottie-react-web';
-import loaderJson from './44359-ecology-isometric-animation.json';
 import Button from '@material-ui/core/Button';
+import loaderJson from './44359-ecology-isometric-animation.json';
 
 export default (props: any) => {
   const { message } = props;

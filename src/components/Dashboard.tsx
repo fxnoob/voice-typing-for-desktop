@@ -26,7 +26,7 @@ import { checkConnectionSR } from '../services/socketService';
 function Copyright() {
   return (
     <Typography variant="h5" color="textSecondary" align="center">
-      {'Made with ♥'}
+      Made with ♥
     </Typography>
   );
 }

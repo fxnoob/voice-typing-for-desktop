@@ -19,11 +19,11 @@ class Schema {
       closestMatchingEmoji: true,
       defaultLanguage: {
         code: 'en-US',
-        label: 'English (United States)'
+        label: 'English (United States)',
       },
       commandsConfig: constants.commands,
       publicKey: '',
-      privateKey: ''
+      privateKey: '',
     };
   }
 }
@@ -126,7 +126,7 @@ class DbService {
    * @returns {Promise}
    * @memberof DbService
    */
-  remove = (keyStr: (string[] | string)): Promise<any> =>
+  remove = (keyStr: string[] | string): Promise<any> =>
     new Promise((resolve, reject) => {
       try {
         storage.remove(keyStr, (err: any) => {

@@ -101,11 +101,15 @@ languages.vi = vi;
 languages.zh = zh;
 class Emoji {
   public languages: any;
+
   constructor() {
     this.languages = {};
   }
 
-  getSomeWHatSimilarEmoji = async (langId: string, emojiName: string | number) => {
+  getSomeWHatSimilarEmoji = async (
+    langId: string,
+    emojiName: string | number
+  ) => {
     const locale = langId.split('-')[0];
     let emojiRes = null;
     const res = languages[locale][emojiName];

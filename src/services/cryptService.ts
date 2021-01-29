@@ -33,7 +33,7 @@ class Crypt {
     const key = new nodeRSA({ b: 512 });
     return {
       publicKey: key.exportKey('openssh-pem-public'),
-      privateKey: key.exportKey('openssh-pem-private')
+      privateKey: key.exportKey('openssh-pem-private'),
     };
   };
 }

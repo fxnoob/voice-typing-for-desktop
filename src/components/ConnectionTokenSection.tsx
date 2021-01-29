@@ -36,7 +36,7 @@ export default function ConnectionTokenSection() {
   // @ts-ignore
   useEffect(async () => {
     const { data } = await dbService.get('data');
-    console.log({data});
+    console.log({ data });
     setLang(data.defaultLanguage.label);
     setToken(data.publicKey);
     languageChangeListen(async (val) => {

@@ -15,7 +15,7 @@ const useStyles = makeStyles({
   },
 });
 
-export default function MicSection(props: { callback: any; }) {
+export default function MicSection(props: { callback: any }) {
   const { callback } = props;
   const classes = useStyles();
   const [listening, setListening] = useState(false);
@@ -30,7 +30,11 @@ export default function MicSection(props: { callback: any; }) {
       console.log('listen', data);
       setListening(data.value.listening);
       setlangId(data.value.langId);
-      callback({ listening: data.value.listening, langId: data.value.langId, langLabel: data.value.langLabel });
+      callback({
+        listening: data.value.listening,
+        langId: data.value.langId,
+        langLabel: data.value.langLabel,
+      });
     });
   }, []);
   return (
@@ -38,7 +42,7 @@ export default function MicSection(props: { callback: any; }) {
       style={{
         display: 'flex',
         alignItems: 'center',
-        flexDirection: 'column'
+        flexDirection: 'column',
       }}
     >
       <FormControlLabel
@@ -50,14 +54,15 @@ export default function MicSection(props: { callback: any; }) {
             style={{
               height: '6rem',
               width: '6rem',
-              background: listening ? '#f50057' : ''
+              background: listening ? '#f50057' : '',
             }}
             variant="extended"
           >
             <KeyboardVoiceIcon />
           </Fab>
         }
-       label=""/>
+        label=""
+      />
       <Typography color="textSecondary" className={classes.depositContext}>
         {listening ? 'Listening.' : 'Start!'}
       </Typography>

@@ -15,7 +15,7 @@ import { app, BrowserWindow, shell } from 'electron';
 import { createServer } from 'http';
 import { Server } from 'socket.io';
 import MenuBuilder from './menu';
-import dbService, {schema} from './services/dbService';
+import dbService, { schema } from './services/dbService';
 import domService from './services/domService';
 import commandService from './services/commandsService';
 
@@ -54,44 +54,44 @@ const initSocketServer = () => {
 
   io.on('connection', (socket) => {
     socket.on('toggle_sr', (value: boolean) => {
-      console.log("toggle_sr", value);
-      socket.broadcast.emit('toggle_sr',{value});
+      console.log('toggle_sr', value);
+      socket.broadcast.emit('toggle_sr', { value });
     });
     socket.on('callback_sr', async (value: any) => {
-      const {langId, text } = value;
+      const { langId, text } = value;
       console.log(value);
       // const { langId, text:encrypted } = value;
       // const text = cryptService.decrypt(encrypted, keys.private);
       const commands = await commandService.getCommands(langId);
       const commandIndex = commands.findIndex(
-        p =>
-          p.match == "startsWith" && text.startsWith(p.name) ||
-          p.match == "exact" && text == p.name.toLowerCase()
+        (p) =>
+          (p.match == 'startsWith' && text.startsWith(p.name)) ||
+          (p.match == 'exact' && text == p.name.toLowerCase())
       );
       if (commandIndex != -1) {
         const commandToApply = commands[commandIndex];
         commandToApply.exec(text, { dom: domService }, () => {});
       } else {
-        const indentedText = text != "." ? ` ${text}` : text;
+        const indentedText = text != '.' ? ` ${text}` : text;
         domService.simulateWordTyping(indentedText, '');
       }
     });
     socket.on('change_language_sr', async (value: any) => {
-      socket.broadcast.emit('change_language_sr',{value});
+      socket.broadcast.emit('change_language_sr', { value });
     });
     socket.on('check_connection_sr', async (value: any) => {
-      socket.broadcast.emit('check_connection_sr',{value});
-    })
+      socket.broadcast.emit('check_connection_sr', { value });
+    });
   });
   httpServer.listen(3000);
-  console.log("started listening at 3000");
+  console.log('started listening at 3000');
 };
 
 const initDB = async () => {
   initSocketServer();
   if (!(await dbService.has('initiated2'))) {
     await dbService.set('initiated2', {
-      init: true
+      init: true,
     });
     // const keys = cryptService.generate();
     // schema.data.publicKey = keys.publicKey;
@@ -127,8 +127,8 @@ const createWindow = async () => {
     icon: getAssetPath('icon.png'),
     webPreferences: {
       nodeIntegration: true,
-      enableRemoteModule: true
-    }
+      enableRemoteModule: true,
+    },
   });
 
   mainWindow.loadURL(`file://${__dirname}/index.html`);
