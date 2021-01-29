@@ -20,13 +20,21 @@ jobs:
       - name: Install Node, NPM and Yarn
         uses: actions/setup-node@v1
         with:
-          node-version: 15
+          node-version: v11.15.0
 
-      - name: install native deps
+      - name: update destro
+        run: |
+          apt-get update
+
+      - name: install native dependencies
         run:  |
-          sudo apt-get install libxtst-dev libpng++-dev -y
+          apt-get install build-essential libxtst-dev libpng++-dev libx11-dev zlib1g-dev libpng12-dev g++-4.8 gcc-4.8 python2.7 python-pip -y
 
-      - name: Install dependencies
+      - name: Install yarn
+        run: |
+          npm install yarn node-gyp -g
+
+      - name: Install deps
         run: |
           yarn install
 
@@ -40,4 +48,5 @@ jobs:
           # This is used for uploading release assets to github
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          yarn postinstall && yarn build && yarn electron-builder --publish always --win --linux
+          yarn postinstall && yarn build && yarn electron-builder --publish always --linux
+
