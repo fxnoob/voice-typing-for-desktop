@@ -28,7 +28,7 @@ jobs:
 
       - name: install native dependencies
         run:  |
-          sudo apt-get install build-essential libxtst-dev libpng++-dev libx11-dev zlib1g-dev libpng12-dev g++-4.8 gcc-4.8 python2.7 python-pip  -y
+          sudo apt-get install build-essential libxtst-dev libpng++-dev libx11-dev zlib1g-dev g++-4.8 gcc-4.8 python2.7 python-pip  -y
 
       - name: Install yarn
         run: |
