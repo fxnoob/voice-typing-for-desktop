@@ -136,6 +136,7 @@ export default function Dashboard() {
     setLangId(langId);
     setLangLabel(langLabel);
   };
+
   const fixedHeightPaper = clsx(classes.paper, classes.fixedHeight);
 
   const checkConnection = () => {
@@ -220,7 +221,7 @@ export default function Dashboard() {
               {/* commands list */}
               <Grid item xs={12}>
                 <Paper className={classes.paper}>
-                  {micListening && (
+                  {micListening && langId && (
                     <CommandsList langId={langId} langLabel={langLabel} />
                   )}
                 </Paper>

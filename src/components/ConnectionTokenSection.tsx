@@ -9,9 +9,9 @@ import InputLabel from '@material-ui/core/InputLabel';
 import Title from './Title';
 import languages from '../services/languages';
 import { changeLanguageSR } from '../services/socketService';
-import dbService from '../services/dbService';
+import dbService, { schema } from '../services/dbService';
 
-export default function ConnectionTokenSection() {
+export default function ConnectionTokenSection(props) {
   const [token, setToken] = useState('');
   const [lang, setLang] = useState('');
   const [languageSelectOptionOpen, setLanguageSelectOptionOpen] = useState(
@@ -36,17 +36,14 @@ export default function ConnectionTokenSection() {
   // @ts-ignore
   useEffect(async () => {
     const { data } = await dbService.get('data');
-    console.log({ data });
     setLang(data.defaultLanguage.label);
     setToken(data.publicKey);
     languageChangeListen(async (val) => {
+      setLang(val.value.label);
+      data.defaultLanguage.code = val.value.langId || schema.data.defaultLanguage.code;
       // @ts-ignore
-      console.log(val);
-      // @ts-ignore
-      setLang(languages[val.value.langId]);
-      data.defaultLanguage.code = val.value.langId;
-      // @ts-ignore
-      data.defaultLanguage.label = languages[val.value.langId];
+      data.defaultLanguage.label = val.value.label || schema.data.defaultLanguage.label;
+      console.log(data.defaultLanguage);
       await dbService.set('data', data);
     });
   }, []);

@@ -27,6 +27,7 @@
   "exclude": [
     "test",
     "release",
+    "src/components/*",
     "src/main.prod.js",
     "src/renderer.prod.js",
     "src/dist",

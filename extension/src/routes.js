@@ -10,8 +10,7 @@ import {
 const socketRoutes = async (voice) => {
   const { listen: listenToggleSR, emit: emitToggleSR } = toggleSR();
   listenToggleSR(async data => {
-    console.log("listenToggleSR called ", data);
-    await MessagePassing.exec('/toggle_sr')
+    await MessagePassing.exec('/toggle_sr', {value: data.value, langId: data.langId})
     const { defaultLanguage, isMicListening } = await db.get(
       "defaultLanguage",
       "client",
@@ -31,7 +30,7 @@ const socketRoutes = async (voice) => {
   languageChangeListen(async data => {
     try {
       const { client, isMicListening } = await db.get(
-        "defaultLanguage",
+        "isMicListening",
         "client"
       );
       await db.set({
@@ -41,7 +40,7 @@ const socketRoutes = async (voice) => {
         }
       });
       if (isMicListening) {
-        await MessagePassing.exec("/restart_sr");
+        await MessagePassing.exec("/restart_sr", {langId: data.value.langId});
       }
     } catch (e) {}
     languageChangeEmit(data.value);
@@ -119,14 +118,14 @@ const Routes = async (voice) => {
     //res({ isMicListening: !isMicListening });
   });
   //restart speech recognition
-  MessagePassing.on("/restart_sr", async () => {
-    const { defaultLanguage, isMicListening } = await db.get(
-      "defaultLanguage",
+  MessagePassing.on("/restart_sr", async (req, res) => {
+    const { langId } = req;
+    const { isMicListening } = await db.get(
       "isMicListening"
     );
     if (isMicListening) {
       voice.stop();
-      voice.setLanguage(defaultLanguage.code);
+      voice.setLanguage(langId);
       voice.start();
     }
   });

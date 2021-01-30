@@ -2,10 +2,15 @@ import React, { useState, useEffect } from 'react';
 import Container from '@material-ui/core/Container';
 import MUIDataTable from 'mui-datatables';
 import Checkbox from '@material-ui/core/Checkbox';
-import db from '../services/dbService';
+import db, {schema} from '../services/dbService';
 import translationService from '../services/translationService';
 import commandService from '../services/commandsService';
+import languages from '../services/languages';
+import { changeLanguageSR } from '../services/socketService';
 
+const {
+  listen: languageChangeListen,
+} = changeLanguageSR();
 const CommandList = (props: { langId: any; langLabel: any }) => {
   const { langId, langLabel } = props;
   const columns = [
@@ -15,10 +20,11 @@ const CommandList = (props: { langId: any; langLabel: any }) => {
   ];
   const [language, setLanguage] = useState('');
   const [data, setData] = useState([]);
-  const init = async () => {
+  const init = async (languageData) => {
+    const { langId, langLabel } = languageData;
     const { commandsConfig } = (await db.get('commandsConfig')) || {};
     setLanguage(langLabel);
-    const commandsJson = await commandService.getCommands(langId);
+    const commandsJson = await commandService.getCommands(langId? langId : schema.data.defaultLanguage.code);
     const commandsList: any = commandsJson.map((command) => {
       return [
         command.name,
@@ -37,12 +43,21 @@ const CommandList = (props: { langId: any; langLabel: any }) => {
   const handleChange = (id: string, arr: { [x: string]: any }) => async () => {
     arr[id] = !arr[id];
     await db.set('cmd', { commandsConfig: arr });
-    init().catch(() => {});
+    init({props}).catch(() => {});
   };
   useEffect(() => {
-    init().catch(() => {});
+    init(props).catch(() => {});
+    languageChangeListen(async (val) => {
+      console.log("underCommandList languageChangeListen", val);
+      const label = val.value.label ? val.value.label : schema.data.defaultLanguage.label
+      const language = {
+        langId: languages[label] ? languages[label] : schema.data.defaultLanguage.code,
+        langLabel: label
+      }
+      init(language).catch(() => {});
+    });
   }, []);
-  const options: Record<string, unknown> = {
+  const options = {
     rowsPerPage: 13,
     selectableRows: false,
   };
