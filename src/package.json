@@ -6,7 +6,8 @@
   "main": "./main.prod.js",
   "scripts": {
     "electron-rebuild": "node -r ../.erb/scripts/BabelRegister.js ../.erb/scripts/ElectronRebuild.js",
-    "postinstall": "yarn electron-rebuild"
+    "rebuild": "npm rebuild --runtime=electron --target=11.0.1 --disturl=https://atom.io/download/atom-shell --abi=72",
+    "postinstall": "yarn rebuild && yarn electron-rebuild"
   },
   "license": "MIT",
   "dependencies": {

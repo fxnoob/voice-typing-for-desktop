@@ -16,10 +16,9 @@ const Permissions = () => {
         await db.set({ audioAccess: true });
         stream.getTracks().forEach(track => {
           track.stop();
-          window.reload();
         });
       })
-      .catch(async () => {
+      .catch(async (e) => {
         await db.set({ audioAccess: false });
         setMessage(ERROR_MSG);
       });

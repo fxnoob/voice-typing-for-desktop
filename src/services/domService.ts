@@ -2,7 +2,9 @@ import * as robot from 'robotjs';
 
 class DomService {
   private deleted: any[];
+
   private stack: any[];
+
   constructor() {
     this.stack = [];
     this.deleted = [];

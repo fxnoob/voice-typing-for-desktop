@@ -15,21 +15,26 @@ const useStyles = makeStyles({
   },
 });
 
-export default function MicSection(props) {
+export default function MicSection(props: { callback: any }) {
   const { callback } = props;
   const classes = useStyles();
   const [listening, setListening] = useState(false);
+  // @ts-ignore
   const [langId, setlangId] = useState(null);
   const { listen, emit } = toggleSR();
   const toggleListening = () => {
-    emit(!listening);
+    emit(listening);
   };
   useEffect(() => {
     listen((data) => {
       console.log('listen', data);
-      setListening(data.value.value);
+      setListening(data.value.listening);
       setlangId(data.value.langId);
-      callback({ listening: data.value.value, langId: data.value.langId, langLabel: data.value.langLabel });
+      callback({
+        listening: data.value.listening,
+        langId: data.value.langId,
+        langLabel: data.value.langLabel,
+      });
     });
   }, []);
   return (
@@ -56,6 +61,7 @@ export default function MicSection(props) {
             <KeyboardVoiceIcon />
           </Fab>
         }
+        label=""
       />
       <Typography color="textSecondary" className={classes.depositContext}>
         {listening ? 'Listening.' : 'Start!'}

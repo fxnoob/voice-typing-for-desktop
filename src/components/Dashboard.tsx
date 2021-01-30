@@ -26,7 +26,7 @@ import { checkConnectionSR } from '../services/socketService';
 function Copyright() {
   return (
     <Typography variant="h5" color="textSecondary" align="center">
-      {'Made with ♥'}
+      Made with ♥
     </Typography>
   );
 }
@@ -119,29 +119,39 @@ export default function Dashboard() {
   const [micListening, setMicListening] = React.useState(false);
   const [langId, setLangId] = React.useState(null);
   const [langLabel, setLangLabel] = React.useState(null);
+  const [errorMessage, setErrorMessage] = React.useState(
+    'Trying to connect to the chrome extension..! Make sure you have\n' +
+      'downloaded the chrome extension and chrome is open.'
+  );
   const handleDrawerOpen = () => {
     setOpen(true);
   };
   const handleDrawerClose = () => {
     setOpen(false);
   };
-  const micSectionCallback = (data) => {
+  const micSectionCallback = (data: any) => {
     const { listening, langId, langLabel } = data;
     console.log('micSectionCallback', { data });
     setMicListening(listening);
     setLangId(langId);
     setLangLabel(langLabel);
   };
+
   const fixedHeightPaper = clsx(classes.paper, classes.fixedHeight);
 
   const checkConnection = () => {
     setLoading(true);
     const { listen, emit } = checkConnectionSR();
     emit({});
-    listen(() => {
+    listen((value: any) => {
+      if (!value.value.permissionGranted) {
+        setErrorMessage(
+          'Camera permission is not granted to chrome extension! please click on extension icon in chrome browser'
+        );
+      }
       setLoading(false);
     });
-  }
+  };
   useEffect(() => {
     checkConnection();
   }, []);
@@ -218,7 +228,7 @@ export default function Dashboard() {
               </Grid>
             </Grid>
           ) : (
-            <Loader check={checkConnection}/>
+            <Loader check={checkConnection} message={errorMessage} />
           )}
           <Box pt={4}>
             <Copyright />

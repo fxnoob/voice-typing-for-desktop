@@ -39,6 +39,7 @@ src/renderer.prod.js
 src/renderer.prod.js.map
 src/style.css
 src/style.css.map
+src/components/*
 dist
 dll
 main.js
@@ -54,3 +55,6 @@ package.json
 *.css.d.ts
 *.sass.d.ts
 *.scss.d.ts
+
+extension/*
+extension

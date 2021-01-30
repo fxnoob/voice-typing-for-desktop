@@ -12,8 +12,8 @@ class MessagePassing {
   on(path, callback) {
     this.routes[path] = callback;
   }
-  async exec(path) {
-    return await this.routes[path]();
+  async exec(path, ...data) {
+    return await this.routes[path](...data);
   }
   addListener() {
     chrome.runtime.onMessage.addListener((req, sender, res) => {

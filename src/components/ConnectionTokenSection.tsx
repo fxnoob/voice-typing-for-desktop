@@ -1,22 +1,17 @@
 import React, { useEffect, useState } from 'react';
-import { useTheme } from '@material-ui/core/styles';
 import TextField from '@material-ui/core/TextField';
 import CopyIcon from '@material-ui/icons/FileCopy';
 import FormControl from '@material-ui/core/FormControl';
 import Select from '@material-ui/core/Select';
 import MenuItem from '@material-ui/core/MenuItem';
-import Typography from '@material-ui/core/Typography';
 import InputLabel from '@material-ui/core/InputLabel';
 
 import Title from './Title';
 import languages from '../services/languages';
-import constants from '../../constants';
-import cryptService from '../services/cryptService';
 import { changeLanguageSR } from '../services/socketService';
-import dbService from '../services/dbService';
+import dbService, { schema } from '../services/dbService';
 
-export default function ConnectionTokenSection() {
-  const theme = useTheme();
+export default function ConnectionTokenSection(props) {
   const [token, setToken] = useState('');
   const [lang, setLang] = useState('');
   const [languageSelectOptionOpen, setLanguageSelectOptionOpen] = useState(
@@ -29,21 +24,26 @@ export default function ConnectionTokenSection() {
   const closeLanguageSelectOption = () => {
     setLanguageSelectOptionOpen(false);
   };
-  const changeLanguage = async (event) => {
+  const changeLanguage = async (event: any) => {
+    // @ts-ignore
     languageChangeEmit({
+      // @ts-ignore
       langId: languages[event.target.value],
       label: event.target.value,
     });
     setLang(event.target.value);
   };
+  // @ts-ignore
   useEffect(async () => {
     const { data } = await dbService.get('data');
+    setLang(data.defaultLanguage.label);
     setToken(data.publicKey);
     languageChangeListen(async (val) => {
-      console.log(val);
-      // setLang(languages[val.value.langId]);
-      data.defaultLanguage.code = val.value.langId;
-      data.defaultLanguage.label = languages[val.value.langId];
+      setLang(val.value.label);
+      data.defaultLanguage.code = val.value.langId || schema.data.defaultLanguage.code;
+      // @ts-ignore
+      data.defaultLanguage.label = val.value.label || schema.data.defaultLanguage.label;
+      console.log(data.defaultLanguage);
       await dbService.set('data', data);
     });
   }, []);
